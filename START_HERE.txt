@@ -1,0 +1,57 @@
+=== 歡迎使用 Beyond The News Sam ===
+
+你的免費、自動化、完全自主的新聞評論網站已準備好！
+
+📋 快速導覽
+
+1. 👉 先讀這份：CHECKLIST.md
+   （部署前檢查清單）
+
+2. ⚡ 快速上手：QUICK_START.md
+   （5 分鐘快速設定）
+
+3. 📖 完整指南：SETUP.md
+   （詳細的逐步說明）
+
+4. 📊 改變對比：MIGRATION_SUMMARY.md
+   （從 Blogger 遷移的改變）
+
+📂 專案結構
+
+beyondthenewssam/
+├── _layouts/            ← 網站模板（含 AdSense）
+├── _posts/              ← 文章會自動放在這裡
+├── assets/              ← CSS 和 JavaScript
+├── .github/workflows/   ← GitHub Actions 自動化
+├── main_github.py       ← 發布程式
+├── publisher_github.py  ← 發布者（GitHub）
+└── 文檔文件
+
+🚀 立即開始
+
+1. 建立 GitHub Repository：thenewssamsam.github.io
+2. Push 代碼到 GitHub
+3. 啟用 GitHub Pages（Settings → Pages）
+4. 添加 Gemini API Key 到 GitHub Secrets
+5. 手動測試一次（Actions → Run workflow）
+6. 完成！每天自動發布
+
+🌐 你的網站
+
+https://thenewssamsam.github.io
+
+⏰ 自動發布時間
+
+每天下午 2 點（台北時間）
+
+💰 廣告收入
+
+申請 Google AdSense 後，100% 廣告收入歸你
+
+❓ 有問題？
+
+查看 SETUP.md 的「常見問題」部分。
+
+---
+
+準備好了嗎？打開 CHECKLIST.md 開始部署！
