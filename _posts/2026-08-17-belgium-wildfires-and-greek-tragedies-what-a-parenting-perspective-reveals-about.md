@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Belgium Wildfires and Greek Tragedies: What a Parenting Perspective Reveals About Climate Panic"
-date: 2026-08-17 14:20:19
+date: 2026-08-17
 categories: [news]
 tags: [parenting]
 author: Sam
