@@ -53,17 +53,21 @@ class GitHubPublisher:
         if isinstance(date, str):
             date = datetime.fromisoformat(date)
         
-        date_str = date.strftime("%Y-%m-%d %H:%M:%S +0800")
+        date_str = date.strftime("%Y-%m-%d %H:%M:%S")
         
-        # 生成 front matter
+        # Escape title 和 url 以避免 YAML 問題
+        title_escaped = title.replace('"', '\\"')
+        url_escaped = url.replace('"', '\\"')
+        
+        # 生成 front matter（用引號包住 title 和 url）
         front_matter = f"""---
 layout: post
-title: {title}
+title: "{title_escaped}"
 date: {date_str}
 categories: news
 tags: [{lens.lower().replace(' & ', ', ')}]
 author: Sam
-source_url: {url}
+source_url: "{url_escaped}"
 ---
 
 """
@@ -104,19 +108,22 @@ source_url: {url}
             os.chdir(self.repo_path)
             
             # Stage 檔案
-            subprocess.run(['git', 'add', file_path], check=True)
+            subprocess.run(['git', 'add', file_path], check=True, capture_output=True)
             
             # Commit
             if not commit_message:
                 title = Path(file_path).stem
                 commit_message = f"Auto-publish: {title}"
             
-            subprocess.run(['git', 'commit', '-m', commit_message], check=True)
+            subprocess.run(['git', 'commit', '-m', commit_message], check=True, capture_output=True)
             
             # Push
-            subprocess.run(['git', 'push', 'origin', 'main'], check=True)
+            result = subprocess.run(['git', 'push', 'origin', 'main'], capture_output=True, text=True)
             
-            return True, f"✅ 發布成功：{file_path}"
+            if result.returncode == 0:
+                return True, f"✅ 發布成功：{file_path}"
+            else:
+                return False, f"Push 失敗：{result.stderr}"
         
         except subprocess.CalledProcessError as e:
             return False, f"❌ Git 操作失敗：{str(e)}"
