@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tropical Storm Lala Lashes Hawaii: What Psychology and Behavior Reveal About Disaster Resilience"
-date: 2026-08-17 14:43:39
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

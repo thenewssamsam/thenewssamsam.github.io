@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The East Coast Road Shoving Incident: What Psychology Reveals About Overprotectiveness and Public Flashpoints"
-date: 2026-08-17 15:00:56
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

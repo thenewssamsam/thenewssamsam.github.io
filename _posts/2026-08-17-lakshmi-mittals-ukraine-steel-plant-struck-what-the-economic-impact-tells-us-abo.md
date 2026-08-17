@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lakshmi Mittal's Ukraine Steel Plant Struck: What the Economic Impact Tells Us About the War's Next Phase"
-date: 2026-08-17 15:00:45
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

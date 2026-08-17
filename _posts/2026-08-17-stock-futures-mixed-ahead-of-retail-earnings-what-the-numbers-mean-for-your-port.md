@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stock Futures Mixed Ahead of Retail Earnings: What the Numbers Mean for Your Portfolio"
-date: 2026-08-17 14:59:29
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flock Surveillance Cameras and Your Privacy: What a New Search Tool Reveals About Mass Tracking"
-date: 2026-08-17 14:43:15
+date: 2026-08-17
 categories: [news]
 tags: [legal]
 author: Sam

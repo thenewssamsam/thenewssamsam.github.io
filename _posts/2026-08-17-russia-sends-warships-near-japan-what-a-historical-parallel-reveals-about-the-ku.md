@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Russia Sends Warships Near Japan: What a Historical Parallel Reveals About the Kuril Islands Standoff"
-date: 2026-08-17 14:58:00
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

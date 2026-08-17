@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bab el-Mandeb and the Houthi Threat: What a Historical Parallel Reveals About Global Trade Vulnerabilities"
-date: 2026-08-17 14:59:34
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

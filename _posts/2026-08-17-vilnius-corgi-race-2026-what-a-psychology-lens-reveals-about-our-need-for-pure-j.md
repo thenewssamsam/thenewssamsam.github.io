@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vilnius Corgi Race 2026: What a Psychology Lens Reveals About Our Need for Pure Joy"
-date: 2026-08-17 14:33:53
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

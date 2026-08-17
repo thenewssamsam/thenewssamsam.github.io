@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trump Scales Back US-South Korea Drills: What a Historical Parallel Reveals About Alliance Shifts"
-date: 2026-08-17 14:42:14
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yemeni Army's 181 Strikes on Houthis: What a Historical Parallel Reveals About Escalation"
-date: 2026-08-17 14:57:43
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Harvard Professor's AI-Generated Anti-Trump Op-Ed: What Psychology Reveals About Our Trust in Experts"
-date: 2026-08-17 14:35:52
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

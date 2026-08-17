@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nvidia Scales Back OpenAI Data-Center Guarantee: What Financial Reality Means for the AI Boom"
-date: 2026-08-17 14:59:39
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

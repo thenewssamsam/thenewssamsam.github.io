@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Europe’s Tallest Virgin Mary Statue Unveiled in Poland: What Faith and History Reveal About a Monumental Moment"
-date: 2026-08-17 14:36:14
+date: 2026-08-17
 categories: [news]
 tags: [faith]
 author: Sam

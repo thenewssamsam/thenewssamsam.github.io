@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ferrari Luce Sells for Record $40M: What Financial Impact and Luxury Market Dynamics Reveal"
-date: 2026-08-17 15:01:12
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

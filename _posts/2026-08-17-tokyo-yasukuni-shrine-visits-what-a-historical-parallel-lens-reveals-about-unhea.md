@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tokyo Yasukuni Shrine Visits: What a Historical Parallel Lens Reveals About Unhealed Wounds in Asia"
-date: 2026-08-17 14:35:57
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

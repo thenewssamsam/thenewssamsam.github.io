@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "North Korea and Russia Reaffirm Ties: What a Historical Parallel Reveals About the New Global Alignment"
-date: 2026-08-17 14:59:56
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

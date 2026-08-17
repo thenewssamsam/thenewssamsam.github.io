@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anthropic Claude’s Watermark Controversy: What Psychology Reveals About AI and Language"
-date: 2026-08-17 15:03:36
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

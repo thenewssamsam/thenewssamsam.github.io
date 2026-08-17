@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meta Faces Massive Social Media Addiction Trial: What Psychology Reveals About Design and Youth"
-date: 2026-08-17 14:37:26
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

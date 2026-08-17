@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nvidia Stock at Fair Value After a 9.9x Run: What the Financial Numbers Actually Say"
-date: 2026-08-17 15:01:12
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

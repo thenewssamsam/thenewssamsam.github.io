@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Polish Pilgrim Bus Crash in Hungary: A Faith Perspective on Grief, Fragility, and Hope"
-date: 2026-08-17 14:35:33
+date: 2026-08-17
 categories: [news]
 tags: [faith]
 author: Sam

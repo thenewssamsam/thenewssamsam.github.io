@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Israel Rejects Gaza Board of Peace Plan: What a Historical Parallel Reveals About Deadlocked Diplomacy"
-date: 2026-08-17 14:35:37
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

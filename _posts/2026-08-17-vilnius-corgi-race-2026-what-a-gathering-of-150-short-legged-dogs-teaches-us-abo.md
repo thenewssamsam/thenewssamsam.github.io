@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vilnius Corgi Race 2026: What a Gathering of 150 Short-Legged Dogs Teaches Us About Joy"
-date: 2026-08-17 14:34:10
+date: 2026-08-17
 categories: [news]
 tags: [life]
 author: Sam

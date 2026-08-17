@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bou Meng Dead at 85: What Historical Memory Teaches Us About Surviving the Khmer Rouge"
-date: 2026-08-17 15:02:20
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

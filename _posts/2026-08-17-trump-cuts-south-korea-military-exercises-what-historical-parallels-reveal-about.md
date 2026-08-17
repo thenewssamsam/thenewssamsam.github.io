@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trump Cuts South Korea Military Exercises: What Historical Parallels Reveal About Alliance Shifts"
-date: 2026-08-17 14:42:38
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

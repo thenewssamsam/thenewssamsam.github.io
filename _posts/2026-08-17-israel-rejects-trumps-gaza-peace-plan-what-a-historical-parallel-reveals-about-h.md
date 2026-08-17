@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Israel Rejects Trump's Gaza Peace Plan: What a Historical Parallel Reveals About High-Stakes Diplomacy"
-date: 2026-08-17 14:58:08
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

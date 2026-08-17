@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meta Faces a $1.4 Trillion Trial: What Psychology Reveals About Social Media Design"
-date: 2026-08-17 14:58:08
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

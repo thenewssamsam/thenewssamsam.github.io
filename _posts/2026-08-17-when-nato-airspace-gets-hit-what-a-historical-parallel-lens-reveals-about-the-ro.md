@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When NATO Airspace Gets Hit: What a Historical Parallel Lens Reveals About the Romania Drone Incident"
-date: 2026-08-17 14:56:19
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stripe Acquires OpenRouter for $7B+: What the Financial Impact Means for AI Infrastructure"
-date: 2026-08-17 14:36:30
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

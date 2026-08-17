@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ukraine Domestic Ballistic Missiles: What a Historical Parallel Reveals About the War's Next Phase"
-date: 2026-08-17 15:00:22
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

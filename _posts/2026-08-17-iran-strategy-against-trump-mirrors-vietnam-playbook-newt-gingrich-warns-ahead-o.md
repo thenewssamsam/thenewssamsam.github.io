@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Iran Strategy Against Trump Mirrors Vietnam Playbook, Newt Gingrich Warns Ahead of Midterms"
-date: 2026-08-17 14:45:08
+date: 2026-08-17
 categories: [news]
 tags: [news]
 author: Sam

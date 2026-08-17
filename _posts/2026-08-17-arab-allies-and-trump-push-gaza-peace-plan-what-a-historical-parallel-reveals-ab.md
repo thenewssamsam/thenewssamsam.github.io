@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Arab Allies and Trump Push Gaza Peace Plan: What a Historical Parallel Reveals About Enduring Conflict"
-date: 2026-08-17 14:35:19
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

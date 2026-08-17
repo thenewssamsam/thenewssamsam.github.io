@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "East Coast Road Coffee Shop Assault: What Psychology Reveals About Overreaction and Impulse Control"
-date: 2026-08-17 15:00:34
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

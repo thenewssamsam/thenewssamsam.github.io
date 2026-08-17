@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jensen Huang's $1 Trillion Nvidia Forecast: What the Financial Mechanics Mean for Investors"
-date: 2026-08-17 15:00:34
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

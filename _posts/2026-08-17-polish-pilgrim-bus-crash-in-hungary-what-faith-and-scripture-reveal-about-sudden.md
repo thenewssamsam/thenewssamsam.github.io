@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Polish Pilgrim Bus Crash in Hungary: What Faith and Scripture Reveal About Sudden Tragedy"
-date: 2026-08-17 14:57:36
+date: 2026-08-17
 categories: [news]
 tags: [faith]
 author: Sam

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "US-Iran Memorandum Expiring Soon: What a Historical Parallel Reveals About the Strait of Hormuz Standoff"
-date: 2026-08-17 14:15:05
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

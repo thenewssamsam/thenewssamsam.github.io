@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fox News Host Joey Jones Slams USS Abraham Lincoln Sailors as Weak: What a Psychology Lens Reveals About Stress, Sacrifice, and Public Outrage"
-date: 2026-08-17 14:36:38
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

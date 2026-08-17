@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nvidia's Reported $3B SB Energy Investment: What the Financial Impact Means for the AI Infrastructure Boom"
-date: 2026-08-17 15:00:07
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

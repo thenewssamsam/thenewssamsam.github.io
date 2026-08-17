@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lexington Park Shooting Leaves 1 Dead and 4 Injured: What a Faith and Scripture Perspective Reveals About Grief, Violence, and Hope"
-date: 2026-08-17 14:44:28
+date: 2026-08-17
 categories: [news]
 tags: [news]
 author: Sam

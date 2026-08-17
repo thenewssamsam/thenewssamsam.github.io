@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wildberries Logistics Strikes: What Financial Impact Reveals About Russia’s Supply Vulnerabilities"
-date: 2026-08-17 14:43:45
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

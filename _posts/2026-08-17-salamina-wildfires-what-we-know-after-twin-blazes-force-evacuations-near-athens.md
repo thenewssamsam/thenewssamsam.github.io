@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Salamina Wildfires: What We Know After Twin Blazes Force Evacuations Near Athens"
-date: 2026-08-17 14:46:56
+date: 2026-08-17
 categories: [news]
 tags: [news]
 author: Sam

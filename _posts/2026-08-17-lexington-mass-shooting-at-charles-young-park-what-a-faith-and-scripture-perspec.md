@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lexington Mass Shooting at Charles Young Park: What a Faith and Scripture Perspective Reveals About Community Healing and Grief"
-date: 2026-08-17 14:44:00
+date: 2026-08-17
 categories: [news]
 tags: [faith]
 author: Sam

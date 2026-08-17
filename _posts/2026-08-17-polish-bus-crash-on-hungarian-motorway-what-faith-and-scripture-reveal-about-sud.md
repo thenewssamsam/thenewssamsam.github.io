@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Polish Bus Crash on Hungarian Motorway: What Faith and Scripture Reveal About Sudden Tragedy"
-date: 2026-08-17 14:57:06
+date: 2026-08-17
 categories: [news]
 tags: [faith]
 author: Sam

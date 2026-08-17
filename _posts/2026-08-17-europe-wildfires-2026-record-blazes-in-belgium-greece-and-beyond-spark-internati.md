@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Europe Wildfires 2026: Record Blazes in Belgium, Greece, and Beyond Spark International Response"
-date: 2026-08-17 14:45:07
+date: 2026-08-17
 categories: [news]
 tags: [news]
 author: Sam

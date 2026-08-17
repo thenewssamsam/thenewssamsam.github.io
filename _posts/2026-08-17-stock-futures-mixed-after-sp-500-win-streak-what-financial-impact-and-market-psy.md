@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stock Futures Mixed After S&P 500 Win Streak: What Financial Impact and Market Psychology Reveal About Wall Street"
-date: 2026-08-17 14:35:34
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

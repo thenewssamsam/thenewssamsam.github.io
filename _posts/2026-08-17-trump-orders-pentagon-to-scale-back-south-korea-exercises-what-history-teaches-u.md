@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trump Orders Pentagon to Scale Back South Korea Exercises: What History Teaches Us About Alliances"
-date: 2026-08-17 14:43:00
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

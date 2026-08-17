@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mark Zuckerberg's 6500-Word AI Manifesto: What Psychology Reveals About Why Nobody Is Buying It"
-date: 2026-08-17 15:02:16
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

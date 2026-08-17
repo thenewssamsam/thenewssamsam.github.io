@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Australia Gun Buyback 2026: What a Historical Parallel Reveals About Public Safety and Policy"
-date: 2026-08-17 14:58:41
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

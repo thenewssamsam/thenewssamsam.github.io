@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Indonesia Earthquake Death Toll Climbs After Magnitude 7.7 Quake and 6.9 Aftershock Hit Flores Region"
-date: 2026-08-17 14:45:46
+date: 2026-08-17
 categories: [news]
 tags: [news]
 author: Sam

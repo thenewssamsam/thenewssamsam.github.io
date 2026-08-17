@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flock Safety License Plate Readers: What a New Privacy Lookup Tool Reveals About Surveillance"
-date: 2026-08-17 14:43:36
+date: 2026-08-17
 categories: [news]
 tags: [legal]
 author: Sam

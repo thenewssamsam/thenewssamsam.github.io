@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI Stock Moves Last Week: What the Financial Impact Tells Us About Big Tech Spending"
-date: 2026-08-17 15:01:50
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

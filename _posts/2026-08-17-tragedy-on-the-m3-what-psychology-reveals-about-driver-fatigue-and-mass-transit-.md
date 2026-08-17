@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tragedy on the M3: What Psychology Reveals About Driver Fatigue and Mass Transit Safety"
-date: 2026-08-17 14:56:44
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Micron Technology Stock at $1.1 Trillion: What the Financial Impact Tells Us"
-date: 2026-08-17 14:35:57
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

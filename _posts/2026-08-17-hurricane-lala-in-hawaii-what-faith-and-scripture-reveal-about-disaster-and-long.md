@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hurricane Lala in Hawaii: What Faith and Scripture Reveal About Disaster and Long-Term Resilience"
-date: 2026-08-17 14:43:15
+date: 2026-08-17
 categories: [news]
 tags: [news]
 author: Sam

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hurricane Lala Aftermath: What Psychology and Normalcy Bias Reveal About Hawaii Closures"
-date: 2026-08-17 14:44:02
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

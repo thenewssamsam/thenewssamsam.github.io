@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "US-Led AI Alliances: What a Historical Parallel Reveals About Tech Cold Wars"
-date: 2026-08-17 14:59:04
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

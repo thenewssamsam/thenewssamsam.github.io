@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "China's Arctic Shipping Route: What a Financial Lens Reveals About the Ice Silk Road"
-date: 2026-08-17 15:01:55
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

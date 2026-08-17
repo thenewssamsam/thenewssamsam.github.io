@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "East Coast Coffee Shop Shove: What Psychology Reveals About Anger and Impulse Control"
-date: 2026-08-17 15:01:23
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

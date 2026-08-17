@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Qatar Denies Capturing Iranian Pilots: What History Reveals About Wartime Disinformation and Missing Truths"
-date: 2026-08-17 14:58:53
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

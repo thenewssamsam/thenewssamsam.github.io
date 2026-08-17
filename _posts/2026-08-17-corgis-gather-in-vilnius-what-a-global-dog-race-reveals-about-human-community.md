@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corgis Gather in Vilnius: What a Global Dog Race Reveals About Human Community"
-date: 2026-08-17 14:34:26
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

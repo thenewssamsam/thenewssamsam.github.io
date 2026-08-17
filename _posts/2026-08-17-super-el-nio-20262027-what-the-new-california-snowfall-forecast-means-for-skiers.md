@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Super El Niño 2026–2027: What the New California Snowfall Forecast Means for Skiers"
-date: 2026-08-17 14:45:59
+date: 2026-08-17
 categories: [news]
 tags: [news]
 author: Sam

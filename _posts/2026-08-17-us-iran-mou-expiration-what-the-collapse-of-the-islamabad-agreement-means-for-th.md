@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "US-Iran MoU Expiration: What the Collapse of the Islamabad Agreement Means for the Strait of Hormuz"
-date: 2026-08-17 14:46:28
+date: 2026-08-17
 categories: [news]
 tags: [news]
 author: Sam

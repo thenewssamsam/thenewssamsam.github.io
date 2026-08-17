@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hawaii Island Floods After Hurricane Lala: What Psychology Explains About Disasters"
-date: 2026-08-17 14:44:22
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

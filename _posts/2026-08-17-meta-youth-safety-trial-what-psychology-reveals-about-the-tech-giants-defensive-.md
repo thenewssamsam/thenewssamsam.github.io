@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meta Youth Safety Trial: What Psychology Reveals About the Tech Giant's Defensive Strategy"
-date: 2026-08-17 14:59:09
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

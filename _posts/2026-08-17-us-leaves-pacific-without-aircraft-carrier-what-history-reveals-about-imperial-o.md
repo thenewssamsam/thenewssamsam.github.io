@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "US Leaves Pacific Without Aircraft Carrier: What History Reveals About Imperial Overstretch"
-date: 2026-08-17 14:35:02
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

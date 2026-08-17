@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Indiana Historic Floods: What Psychology Reveals About Normalcy Bias and Disaster Risk"
-date: 2026-08-17 14:42:36
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

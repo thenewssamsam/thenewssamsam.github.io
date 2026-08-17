@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thousands Await Aid in Indonesia After Flores Earthquake Kills 54, Overshadowing Independence Day"
-date: 2026-08-17 14:47:42
+date: 2026-08-17
 categories: [news]
 tags: [news]
 author: Sam

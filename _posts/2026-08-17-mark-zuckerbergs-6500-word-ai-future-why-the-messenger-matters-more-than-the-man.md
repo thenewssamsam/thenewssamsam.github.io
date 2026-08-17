@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mark Zuckerberg’s 6,500-Word AI Future: Why the Messenger Matters More Than the Manifesto"
-date: 2026-08-17 14:37:00
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

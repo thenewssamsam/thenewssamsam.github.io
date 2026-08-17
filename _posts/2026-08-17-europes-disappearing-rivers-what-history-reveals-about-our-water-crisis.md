@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Europe’s Disappearing Rivers: What History Reveals About Our Water Crisis"
-date: 2026-08-17 14:59:26
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

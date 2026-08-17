@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "USS Lincoln Mental Health Issues: What We Know About the Extended Carrier Deployment"
-date: 2026-08-17 14:44:44
+date: 2026-08-17
 categories: [news]
 tags: [news]
 author: Sam

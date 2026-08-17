@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hayden Panettiere Remembered: A Look Back at the Life, Career, and Legacy of the 'Heroes' and 'Nashville' Star"
-date: 2026-08-17 14:44:58
+date: 2026-08-17
 categories: [news]
 tags: [news]
 author: Sam

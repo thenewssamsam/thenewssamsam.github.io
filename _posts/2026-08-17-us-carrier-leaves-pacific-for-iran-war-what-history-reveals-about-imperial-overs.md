@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "US Carrier Leaves Pacific for Iran War: What History Reveals About Imperial Overstretch"
-date: 2026-08-17 14:34:43
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

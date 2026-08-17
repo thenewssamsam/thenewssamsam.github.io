@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Strait of Hormuz Tanker Traffic Collapses: What the Financial Impact Means for Your Wallet"
-date: 2026-08-17 15:02:01
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

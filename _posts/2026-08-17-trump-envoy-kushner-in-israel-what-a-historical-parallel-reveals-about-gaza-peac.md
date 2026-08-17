@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trump Envoy Kushner in Israel: What a Historical Parallel Reveals About Gaza Peace Talks"
-date: 2026-08-17 14:42:55
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

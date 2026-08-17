@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trump's Gaza Roadmap and the Strait of Hormuz: What a Historical Parallel Reveals About High-Stakes Diplomacy"
-date: 2026-08-17 14:58:30
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zimbabwe Ferry Disaster: What a Faith Perspective Reveals About Life, Tragedy, and Hope"
-date: 2026-08-17 14:35:11
+date: 2026-08-17
 categories: [news]
 tags: [faith]
 author: Sam

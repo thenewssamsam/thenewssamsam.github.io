@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bill Cassidy Denounces Trump Vaccine Claims: What Psychology and Public Health Reveal About Medical Misinformation"
-date: 2026-08-17 14:43:58
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

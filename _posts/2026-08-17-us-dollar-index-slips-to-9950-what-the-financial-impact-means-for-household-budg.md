@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "US Dollar Index Slips to 99.50: What the Financial Impact Means for Household Budgets"
-date: 2026-08-17 15:00:01
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

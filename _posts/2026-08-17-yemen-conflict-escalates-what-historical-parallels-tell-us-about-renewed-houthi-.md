@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yemen Conflict Escalates: What Historical Parallels Tell Us About Renewed Houthi Strikes"
-date: 2026-08-17 14:57:11
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

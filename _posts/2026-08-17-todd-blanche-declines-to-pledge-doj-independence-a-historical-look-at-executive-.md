@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Todd Blanche Declines to Pledge DOJ Independence: A Historical Look at Executive Power and the Rule of Law"
-date: 2026-08-17 14:43:36
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

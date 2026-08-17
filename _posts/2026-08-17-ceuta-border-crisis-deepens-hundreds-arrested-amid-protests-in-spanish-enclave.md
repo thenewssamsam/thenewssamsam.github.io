@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ceuta Border Crisis Deepens: Hundreds Arrested Amid Protests in Spanish Enclave"
-date: 2026-08-17 14:45:32
+date: 2026-08-17
 categories: [news]
 tags: [news]
 author: Sam

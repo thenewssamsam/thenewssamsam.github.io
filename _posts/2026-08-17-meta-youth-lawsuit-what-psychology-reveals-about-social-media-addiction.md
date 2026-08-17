@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meta Youth Lawsuit: What Psychology Reveals About Social Media Addiction"
-date: 2026-08-17 14:58:34
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

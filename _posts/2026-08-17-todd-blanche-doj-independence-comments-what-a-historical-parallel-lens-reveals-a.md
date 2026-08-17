@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Todd Blanche DOJ Independence Comments: What a Historical Parallel Lens Reveals About Power"
-date: 2026-08-17 14:43:16
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chicago-Area Storm Recovery: What a Local & Community Impact Lens Reveals About the Push for Federal Aid"
-date: 2026-08-17 14:42:54
+date: 2026-08-17
 categories: [news]
 tags: [local]
 author: Sam

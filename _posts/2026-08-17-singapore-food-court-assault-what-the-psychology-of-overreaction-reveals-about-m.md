@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Singapore Food Court Assault: What the Psychology of Overreaction Reveals About Modern Public Tension"
-date: 2026-08-17 15:00:05
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ukraine Hits Wildberries Warehouses: What Financial Impact Tells Us About the Russian Economy"
-date: 2026-08-17 14:44:10
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

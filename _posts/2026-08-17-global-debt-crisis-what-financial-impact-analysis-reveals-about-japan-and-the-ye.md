@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Global Debt Crisis: What Financial Impact Analysis Reveals About Japan and the Yen"
-date: 2026-08-17 15:00:39
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

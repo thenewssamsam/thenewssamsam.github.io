@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Indonesia Flores Earthquake Death Toll Rises to 53 As Rescuers Reach Isolated Areas"
-date: 2026-08-17 14:45:22
+date: 2026-08-17
 categories: [news]
 tags: [news]
 author: Sam
