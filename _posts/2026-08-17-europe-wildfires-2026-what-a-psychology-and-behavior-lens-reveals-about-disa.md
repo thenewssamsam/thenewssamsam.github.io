@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Europe Wildfires 2026: What a Psychology and Behavior Lens Reveals About Disa..."
-date: 2026-08-17 15:16:49
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

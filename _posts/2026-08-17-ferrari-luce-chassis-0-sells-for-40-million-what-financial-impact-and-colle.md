@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ferrari Luce Chassis 0 Sells for $40 Million: What Financial Impact and Colle..."
-date: 2026-08-17 15:18:22
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

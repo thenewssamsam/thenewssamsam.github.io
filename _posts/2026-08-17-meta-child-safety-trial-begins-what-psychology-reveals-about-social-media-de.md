@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meta Child Safety Trial Begins: What Psychology Reveals About Social Media De..."
-date: 2026-08-17 15:15:55
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

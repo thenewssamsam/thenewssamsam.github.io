@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trump and Arab Allies Push Gaza Peace Deal: What a Historical Parallel Reveal..."
-date: 2026-08-17 15:16:59
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

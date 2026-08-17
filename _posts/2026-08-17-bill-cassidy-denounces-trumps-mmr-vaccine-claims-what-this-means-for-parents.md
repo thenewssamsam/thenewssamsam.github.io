@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bill Cassidy Denounces Trump’s MMR Vaccine Claims: What This Means for Parents"
-date: 2026-08-17 15:14:56
+date: 2026-08-17
 categories: [news]
 tags: [parenting]
 author: Sam

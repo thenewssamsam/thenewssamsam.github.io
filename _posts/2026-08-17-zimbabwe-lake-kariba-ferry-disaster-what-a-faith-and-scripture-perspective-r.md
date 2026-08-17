@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zimbabwe Lake Kariba Ferry Disaster: What a Faith and Scripture Perspective R..."
-date: 2026-08-17 15:17:39
+date: 2026-08-17
 categories: [news]
 tags: [faith]
 author: Sam

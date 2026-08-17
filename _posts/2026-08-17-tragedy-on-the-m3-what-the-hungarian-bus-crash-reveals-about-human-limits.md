@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tragedy on the M3: What the Hungarian Bus Crash Reveals About Human Limits"
-date: 2026-08-17 15:15:49
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

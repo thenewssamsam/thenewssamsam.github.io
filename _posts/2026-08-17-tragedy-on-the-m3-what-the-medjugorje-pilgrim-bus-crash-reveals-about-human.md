@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tragedy on the M3: What the Medjugorje Pilgrim Bus Crash Reveals About Human ..."
-date: 2026-08-17 15:16:17
+date: 2026-08-17
 categories: [news]
 tags: [faith]
 author: Sam

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stock Futures Mixed After S&P 500 Win Streak: What Financial Impact Tells Us ..."
-date: 2026-08-17 15:16:52
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stripe Acquiring OpenRouter for $7B+: What a Career & Industry Lens Reveals A..."
-date: 2026-08-17 15:17:26
+date: 2026-08-17
 categories: [news]
 tags: [career]
 author: Sam

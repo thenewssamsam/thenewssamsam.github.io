@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flock Surveillance Cameras and Your Privacy: What a New Lookup Tool Reveals A..."
-date: 2026-08-17 15:18:51
+date: 2026-08-17
 categories: [news]
 tags: [legal]
 author: Sam

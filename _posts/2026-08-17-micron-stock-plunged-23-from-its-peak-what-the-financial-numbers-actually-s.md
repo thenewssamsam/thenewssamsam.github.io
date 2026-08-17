@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Micron Stock Plunged 23% From Its Peak: What the Financial Numbers Actually S..."
-date: 2026-08-17 15:17:29
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trump Orders Pentagon to Scale Back South Korea Drills: A Historical Parallel..."
-date: 2026-08-17 15:14:31
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

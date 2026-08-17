@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mark Zuckerberg's AI Manifesto: What Psychology Explains About Public Skepticism"
-date: 2026-08-17 15:16:57
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

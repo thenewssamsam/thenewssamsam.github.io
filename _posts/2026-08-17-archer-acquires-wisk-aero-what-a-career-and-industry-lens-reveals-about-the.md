@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Archer Acquires Wisk Aero: What a Career and Industry Lens Reveals About the ..."
-date: 2026-08-17 15:19:48
+date: 2026-08-17
 categories: [news]
 tags: [career]
 author: Sam

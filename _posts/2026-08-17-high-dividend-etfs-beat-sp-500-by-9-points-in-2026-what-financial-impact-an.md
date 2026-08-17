@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "High Dividend ETFs Beat S&P 500 by 9 Points in 2026: What Financial Impact An..."
-date: 2026-08-17 15:21:19
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

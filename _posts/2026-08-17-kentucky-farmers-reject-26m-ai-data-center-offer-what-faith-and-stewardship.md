@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kentucky Farmers Reject $26M AI Data Center Offer: What Faith and Stewardship..."
-date: 2026-08-17 15:17:56
+date: 2026-08-17
 categories: [news]
 tags: [faith]
 author: Sam

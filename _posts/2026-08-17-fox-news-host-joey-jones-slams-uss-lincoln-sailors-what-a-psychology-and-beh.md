@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fox News Host Joey Jones Slams USS Lincoln Sailors: What a Psychology and Beh..."
-date: 2026-08-17 15:18:55
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

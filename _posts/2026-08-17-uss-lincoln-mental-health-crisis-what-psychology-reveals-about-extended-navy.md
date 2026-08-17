@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "USS Lincoln Mental Health Crisis: What Psychology Reveals About Extended Navy..."
-date: 2026-08-17 15:16:24
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

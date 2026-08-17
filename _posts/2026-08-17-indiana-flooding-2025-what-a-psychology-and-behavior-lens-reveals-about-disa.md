@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Indiana Flooding 2025: What a Psychology and Behavior Lens Reveals About Disa..."
-date: 2026-08-17 15:15:07
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

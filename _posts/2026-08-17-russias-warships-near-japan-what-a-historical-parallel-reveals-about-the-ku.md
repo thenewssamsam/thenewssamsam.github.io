@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Russia's Warships Near Japan: What a Historical Parallel Reveals About the Ku..."
-date: 2026-08-17 15:16:35
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

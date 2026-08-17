@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NATO Airspace Breach: What a Historical Parallel Lens Reveals About the War i..."
-date: 2026-08-17 15:15:26
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

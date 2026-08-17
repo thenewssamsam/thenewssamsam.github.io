@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Indonesia Flores Earthquake: What Psychology Reveals About Aftershock Anxiety..."
-date: 2026-08-17 15:19:17
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

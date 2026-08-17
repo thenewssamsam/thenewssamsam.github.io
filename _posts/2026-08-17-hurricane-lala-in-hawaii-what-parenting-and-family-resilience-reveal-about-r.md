@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hurricane Lala in Hawaii: What Parenting and Family Resilience Reveal About R..."
-date: 2026-08-17 15:15:37
+date: 2026-08-17
 categories: [news]
 tags: [parenting]
 author: Sam

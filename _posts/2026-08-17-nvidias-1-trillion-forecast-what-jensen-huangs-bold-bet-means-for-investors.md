@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nvidia's $1 Trillion Forecast: What Jensen Huang's Bold Bet Means for Investors"
-date: 2026-08-17 15:16:23
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

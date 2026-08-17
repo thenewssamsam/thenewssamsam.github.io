@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "World Liberty Trust Bank Status: What Financial Impact Analysis Reveals About..."
-date: 2026-08-17 15:20:14
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

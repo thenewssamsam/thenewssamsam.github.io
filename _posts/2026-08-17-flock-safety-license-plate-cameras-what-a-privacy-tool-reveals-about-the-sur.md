@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flock Safety License Plate Cameras: What a Privacy Tool Reveals About the Sur..."
-date: 2026-08-17 15:19:20
+date: 2026-08-17
 categories: [news]
 tags: [legal]
 author: Sam

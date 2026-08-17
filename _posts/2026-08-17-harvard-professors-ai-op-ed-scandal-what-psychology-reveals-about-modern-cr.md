@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Harvard Professor’s AI Op-Ed Scandal: What Psychology Reveals About Modern Cr..."
-date: 2026-08-17 15:18:03
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam

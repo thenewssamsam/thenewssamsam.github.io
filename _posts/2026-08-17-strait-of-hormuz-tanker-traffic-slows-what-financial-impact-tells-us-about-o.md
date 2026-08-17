@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Strait of Hormuz Tanker Traffic Slows: What Financial Impact Tells Us About O..."
-date: 2026-08-17 15:18:05
+date: 2026-08-17
 categories: [news]
 tags: [financial]
 author: Sam

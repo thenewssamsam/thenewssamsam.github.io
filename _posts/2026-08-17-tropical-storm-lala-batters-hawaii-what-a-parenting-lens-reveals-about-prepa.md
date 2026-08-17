@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tropical Storm Lala Batters Hawaii: What a Parenting Lens Reveals About Prepa..."
-date: 2026-08-17 15:16:01
+date: 2026-08-17
 categories: [news]
 tags: [parenting]
 author: Sam

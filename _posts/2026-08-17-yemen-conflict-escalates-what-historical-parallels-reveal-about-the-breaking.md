@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yemen Conflict Escalates: What Historical Parallels Reveal About the Breaking..."
-date: 2026-08-17 15:17:25
+date: 2026-08-17
 categories: [news]
 tags: [historical]
 author: Sam

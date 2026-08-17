@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Global Corgi Craze: What the Vilnius International Race Reveals About Our..."
-date: 2026-08-17 15:19:39
+date: 2026-08-17
 categories: [news]
 tags: [psychology]
 author: Sam
