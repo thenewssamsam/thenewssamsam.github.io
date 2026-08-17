@@ -29,24 +29,26 @@ class GitHubPublisher:
         sanitized = sanitized.lower()
         # 移除多餘的連字符
         sanitized = re.sub(r'-+', '-', sanitized)
-        return sanitized.strip('-')
+        return sanitized.strip('-')[:80]  # 限制長度
+
+    def clean_yaml_value(self, value):
+        """清理 YAML 值，移除問題字符"""
+        if not value:
+            return ""
+        # 移除管道符和其他特殊字符
+        value = str(value).replace('|', '').replace('[', '').replace(']', '')
+        # 移除多餘空白
+        value = re.sub(r'\s+', ' ', value).strip()
+        return value
 
     def generate_markdown(self, article_data):
         """
         從文章資料生成 Markdown
-        article_data 應該包含：
-        {
-            'title': str,
-            'content': str,
-            'original_url': str,
-            'lens': str,
-            'date': datetime (optional, 預設現在)
-        }
         """
-        title = article_data.get('title', 'Untitled')
+        title = self.clean_yaml_value(article_data.get('title', 'Untitled'))
         content = article_data.get('content', '')
         url = article_data.get('original_url', '')
-        lens = article_data.get('lens', 'AUTO')
+        lens = self.clean_yaml_value(article_data.get('lens', 'AUTO'))
         date = article_data.get('date', datetime.now())
 
         # 格式化日期
@@ -55,19 +57,18 @@ class GitHubPublisher:
         
         date_str = date.strftime("%Y-%m-%d %H:%M:%S")
         
-        # Escape title 和 url 以避免 YAML 問題
-        title_escaped = title.replace('"', '\\"')
-        url_escaped = url.replace('"', '\\"')
+        # 簡化 lens（只取主要部分）
+        lens_simple = lens.split(' ')[0].lower() if lens else 'news'
         
-        # 生成 front matter（用引號包住 title 和 url）
+        # 生成簡單的 front matter
         front_matter = f"""---
 layout: post
-title: "{title_escaped}"
+title: "{title}"
 date: {date_str}
-categories: news
-tags: [{lens.lower().replace(' & ', ', ')}]
+categories: [news]
+tags: [{lens_simple}]
 author: Sam
-source_url: "{url_escaped}"
+source_url: "{url}"
 ---
 
 """
@@ -163,30 +164,3 @@ source_url: "{url_escaped}"
                 'success': False,
                 'message': f"❌ 發布失敗：{str(e)}"
             }
-
-
-# 使用示例
-if __name__ == "__main__":
-    publisher = GitHubPublisher()
-    
-    # 測試文章
-    test_article = {
-        'title': 'Test Article: Lake Powell Record Low',
-        'content': '''This is a test article about Lake Powell.
-
-## Main Points
-
-- Point 1: Lorem ipsum
-- Point 2: Dolor sit amet
-- Point 3: Consectetur adipiscing
-
-## Conclusion
-
-Test article content here.
-        ''',
-        'original_url': 'https://edition.cnn.com/2026/08/16/climate/lake-powell',
-        'lens': 'Faith & Scripture'
-    }
-    
-    result = publisher.publish(test_article)
-    print(result)
