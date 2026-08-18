@@ -1,0 +1,38 @@
+name: Update Sitemap
+
+on:
+  schedule:
+    # 每天下午 3 點（UTC+8 下午 2 點）更新
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-sitemap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      
+      - name: Generate sitemap
+        run: |
+          python3 generate_sitemap.py
+      
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          if git diff --quiet sitemap.xml; then
+            echo "No changes to sitemap"
+          else
+            git add sitemap.xml
+            git commit -m "Auto-update sitemap"
+            git push
+          fi
+

@@ -51,11 +51,11 @@ class GitHubPublisher:
         lens = self.clean_yaml_value(article_data.get('lens', 'AUTO'))
         date = article_data.get('date', datetime.now())
 
-        # 格式化日期 - Jekyll 只需要日期部分
+        # 格式化日期
         if isinstance(date, str):
             date = datetime.fromisoformat(date)
         
-        date_str = date.strftime("%Y-%m-%d")
+        date_str = date.strftime("%Y-%m-%d %H:%M:%S")
         
         # 簡化 lens（只取主要部分）
         lens_simple = lens.split(' ')[0].lower() if lens else 'news'
