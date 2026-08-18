@@ -191,27 +191,3 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 </div>
 </section>
-
-<section class="related-articles">
-<h3>📖 Related Articles</h3>
-<div class="related-articles-grid">
-
-    <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/von-miller-signs-with-the-cowboys-what-psychology-amp-behavior-reveals-about-lat.html" class="related-article-link">
-            <div class="related-article-title">Von Miller Signs With the Cowboys: What Psychology &amp; Behavior Reveals About Late-Career Homecomings</div>
-            <div class="related-article-date">2026-08-18</div>
-        </a>
-    </div>
-    <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/von-miller-signs-with-cowboys-what-a-career-industry-view-reveals-about-the-move.html" class="related-article-link">
-            <div class="related-article-title">Von Miller Signs With Cowboys: What a Career & Industry View Reveals About the Move</div>
-            <div class="related-article-date">2026-08-18</div>
-        </a>
-    </div>
-    <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/von-miller-signing-with-cowboys-what-psychology-behavior-reveals-about-high-stak.html" class="related-article-link">
-            <div class="related-article-title">Von Miller Signing With Cowboys: What Psychology & Behavior Reveals About High-Stakes Career Shifts</div>
-            <div class="related-article-date">2026-08-18</div>
-        </a>
-    </div></div>
-</section>

@@ -183,21 +183,3 @@ Backpack USB Charging Port ($39.99)
 </div>
 </div>
 </section>
-
-<section class="related-articles">
-<h3>📖 Related Articles</h3>
-<div class="related-articles-grid">
-
-    <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/von-miller-signs-with-cowboys-what-a-career-industry-view-reveals-about-the-move.html" class="related-article-link">
-            <div class="related-article-title">Von Miller Signs With Cowboys: What a Career & Industry View Reveals About the Move</div>
-            <div class="related-article-date">2026-08-18</div>
-        </a>
-    </div>
-    <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/uber-and-zipline-partner-for-1-million-drone-deliveries-what-career-industry-tre.html" class="related-article-link">
-            <div class="related-article-title">Uber and Zipline Partner for 1 Million Drone Deliveries: What Career & Industry Trends Reveal About the Future of Gig Work</div>
-            <div class="related-article-date">2026-08-18</div>
-        </a>
-    </div></div>
-</section>

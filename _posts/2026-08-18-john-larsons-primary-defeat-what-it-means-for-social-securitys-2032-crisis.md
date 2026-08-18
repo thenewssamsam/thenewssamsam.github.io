@@ -155,27 +155,3 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 </div>
 </section>
-
-<section class="related-articles">
-<h3>📖 Related Articles</h3>
-<div class="related-articles-grid">
-
-    <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/uss-lincoln-crisis-what-psychology-and-human-limits-reveal-about-extended-milita.html" class="related-article-link">
-            <div class="related-article-title">USS Lincoln Crisis: What Psychology and Human Limits Reveal About Extended Military Deployments</div>
-            <div class="related-article-date">2026-08-18</div>
-        </a>
-    </div>
-    <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/us-iran-war-standoff-what-a-historical-parallel-reveals-about-the-strait-of-horm.html" class="related-article-link">
-            <div class="related-article-title">US-Iran War Standoff: What a Historical Parallel Reveals About the Strait of Hormuz Crisis</div>
-            <div class="related-article-date">2026-08-18</div>
-        </a>
-    </div>
-    <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/uber-adds-zipline-drones-to-eats-what-the-financial-impact-means-for-the-future-.html" class="related-article-link">
-            <div class="related-article-title">Uber Adds Zipline Drones to Eats: What the Financial Impact Means for the Future of Delivery</div>
-            <div class="related-article-date">2026-08-18</div>
-        </a>
-    </div></div>
-</section>

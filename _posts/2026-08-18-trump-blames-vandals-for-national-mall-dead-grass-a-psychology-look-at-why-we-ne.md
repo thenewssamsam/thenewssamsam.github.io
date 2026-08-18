@@ -123,27 +123,3 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 </div>
 </section>
-
-<section class="related-articles">
-<h3>📖 Related Articles</h3>
-<div class="related-articles-grid">
-
-    <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/when-immigration-enforcement-hits-home-a-psychology-look-at-policy-and-cognitive.html" class="related-article-link">
-            <div class="related-article-title">When Immigration Enforcement Hits Home: A Psychology Look at Policy and Cognitive Dissonance</div>
-            <div class="related-article-date">2026-08-18</div>
-        </a>
-    </div>
-    <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/twin-fires-near-athens-leave-two-dead-what-psychology-reveals-about-normalcy-bia.html" class="related-article-link">
-            <div class="related-article-title">Twin Fires Near Athens Leave Two Dead: What Psychology Reveals About Normalcy Bias and Disaster Preparedness</div>
-            <div class="related-article-date">2026-08-18</div>
-        </a>
-    </div>
-    <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/trumps-prescription-price-press-conference-what-psychology-reveals-about-the-pol.html" class="related-article-link">
-            <div class="related-article-title">Trump's Prescription Price Press Conference: What Psychology Reveals About the Politics of Credit</div>
-            <div class="related-article-date">2026-08-18</div>
-        </a>
-    </div></div>
-</section>

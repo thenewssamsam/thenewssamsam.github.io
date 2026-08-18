@@ -188,15 +188,3 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 </div>
 </section>
-
-<section class="related-articles">
-<h3>📖 Related Articles</h3>
-<div class="related-articles-grid">
-
-    <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/why-wildfire-safety-rules-keep-failing-a-financial-and-practical-look-at-western.html" class="related-article-link">
-            <div class="related-article-title">Why Wildfire Safety Rules Keep Failing — A Financial and Practical Look at Western Communities</div>
-            <div class="related-article-date">2026-08-18</div>
-        </a>
-    </div></div>
-</section>

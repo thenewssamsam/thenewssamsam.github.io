@@ -106,21 +106,3 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 </div>
 </section>
-
-<section class="related-articles">
-<h3>📖 Related Articles</h3>
-<div class="related-articles-grid">
-
-    <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/when-policy-meets-reality-what-the-psychology-of-normalcy-bias-explains-about-po.html" class="related-article-link">
-            <div class="related-article-title">When Policy Meets Reality: What the Psychology of Normalcy Bias Explains About Political Awakening</div>
-            <div class="related-article-date">2026-08-18</div>
-        </a>
-    </div>
-    <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/uber-adds-zipline-drones-to-eats-what-the-financial-impact-means-for-the-future-.html" class="related-article-link">
-            <div class="related-article-title">Uber Adds Zipline Drones to Eats: What the Financial Impact Means for the Future of Delivery</div>
-            <div class="related-article-date">2026-08-18</div>
-        </a>
-    </div></div>
-</section>

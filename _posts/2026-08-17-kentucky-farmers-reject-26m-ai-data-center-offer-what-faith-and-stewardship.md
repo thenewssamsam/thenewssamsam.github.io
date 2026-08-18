@@ -197,21 +197,3 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 </div>
 </section>
-
-<section class="related-articles">
-<h3>📖 Related Articles</h3>
-<div class="related-articles-grid">
-
-    <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
-            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
-            <div class="related-article-date">2026-08-18</div>
-        </a>
-    </div>
-    <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/why-oklahoma-electric-bills-are-going-up-a-financial-look-beyond-the-data-center.html" class="related-article-link">
-            <div class="related-article-title">Why Oklahoma Electric Bills Are Going Up: A Financial Look Beyond the Data Center Hype</div>
-            <div class="related-article-date">2026-08-18</div>
-        </a>
-    </div></div>
-</section>
