@@ -2,10 +2,12 @@
 layout: post
 title: "Archer Aviation's $200 Million Quarterly Loss: What Financial Impact and Cash Burn Reveal About Its 2-Year Runway"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.fool.com/investing/2026/08/16/archer-guided-to-a-200-million-quarterly-loss-it-h/"
+source_url: 'https://www.fool.com/investing/2026/08/16/archer-guided-to-a-200-million-quarterly-loss-it-h/'
 ---
 <article>
   <header>

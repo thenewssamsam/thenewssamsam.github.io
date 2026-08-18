@@ -2,10 +2,12 @@
 layout: post
 title: "Brent Jindra ICE Detention: What a MAGA Supporter's Story Reveals About Family and Policy"
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.thedailybeast.com/maga-patriot-turns-on-trump-after-ice-shatters-storybook-romance/"
+source_url: 'https://www.thedailybeast.com/maga-patriot-turns-on-trump-after-ice-shatters-storybook-romance/'
 ---
 <article class="ncg-article">
   <header class="ncg-header">

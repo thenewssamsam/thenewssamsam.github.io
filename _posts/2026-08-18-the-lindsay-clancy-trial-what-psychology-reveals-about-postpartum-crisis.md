@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Lindsay Clancy Trial: What Psychology Reveals About Postpartum Crisis"
+title: 'The Lindsay Clancy Trial: What Psychology Reveals About Postpartum Crisis'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live-day-14/"
+source_url: 'https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live-day-14/'
 ---
 
 <article>

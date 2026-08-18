@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Pacific Northwest Wildfires: What Psychology Reveals About Disaster Fatigue and Resilience"
+title: 'Pacific Northwest Wildfires: What Psychology Reveals About Disaster Fatigue and Resilience'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.adn.com/nation-world/2026/08/16/devastating-start-to-pacific-northwest-fire-season-offers-a-warning/"
+source_url: 'https://www.adn.com/nation-world/2026/08/16/devastating-start-to-pacific-northwest-fire-season-offers-a-warning/'
 ---
 <article>
   <header>

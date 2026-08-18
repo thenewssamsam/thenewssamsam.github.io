@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Stock Market Volatility Hits 2026 Low: What Financial Reality Tells Investors Right Now"
+title: 'Stock Market Volatility Hits 2026 Low: What Financial Reality Tells Investors Right Now'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.cnbc.com/2026/08/17/stock-market-volatility-vix-wall-street.html"
+source_url: 'https://www.cnbc.com/2026/08/17/stock-market-volatility-vix-wall-street.html'
 ---
 <article class="ncg-article-container">
   <header class="ncg-article-header">

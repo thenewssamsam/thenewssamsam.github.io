@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Missouri Farmer Blake Hurst on Data Centers: What Career & Industry Reveals About Rural Growth"
+title: 'Missouri Farmer Blake Hurst on Data Centers: What Career & Industry Reveals About Rural Growth'
 date: 2026-08-18
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://www.kq2.com/news/2026/08/16/meet-blake-hurst-the-missouri-farmer-who-is-welcoming-data-centers/"
+source_url: 'https://www.kq2.com/news/2026/08/16/meet-blake-hurst-the-missouri-farmer-who-is-welcoming-data-centers/'
 ---
 <article>
 <header>

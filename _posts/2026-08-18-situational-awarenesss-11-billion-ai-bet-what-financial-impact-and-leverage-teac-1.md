@@ -2,10 +2,12 @@
 layout: post
 title: "Situational Awareness's $11 Billion AI Bet: What Financial Impact and Leverage Teach Us About the Memory Market Crash"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://247wallst.com/investing/2026/08/17/situational-awareness-13f-reveals-an-11-billion-ai-bet-that-unraveled-in-under-a-month/"
+source_url: 'https://247wallst.com/investing/2026/08/17/situational-awareness-13f-reveals-an-11-billion-ai-bet-that-unraveled-in-under-a-month/'
 ---
 
 <article>

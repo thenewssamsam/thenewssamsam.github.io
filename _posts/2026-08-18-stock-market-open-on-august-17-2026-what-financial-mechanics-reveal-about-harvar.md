@@ -2,10 +2,12 @@
 layout: post
 title: "Stock Market Open on August 17, 2026: What Financial Mechanics Reveal About Harvard's SpaceX Stake and Retail Earnings"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-on-monday-august-17-2026-12061089"
+source_url: 'https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-on-monday-august-17-2026-12061089'
 ---
 
 <article>

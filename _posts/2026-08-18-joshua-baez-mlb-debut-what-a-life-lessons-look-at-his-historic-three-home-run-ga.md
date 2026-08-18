@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Joshua Baez MLB Debut: What a Life Lessons Look at His Historic Three-Home-Run Game Reveals"
+title: 'Joshua Baez MLB Debut: What a Life Lessons Look at His Historic Three-Home-Run Game Reveals'
 date: 2026-08-18
-categories: [news]
-tags: [life]
+categories:
+  - news
+tags:
+  - life
 author: Sam
-source_url: "https://www.nytimes.com/athletic/7516761/2026/08/17/cardinals-joshua-baez-mlb-debut-home-runs/"
+source_url: 'https://www.nytimes.com/athletic/7516761/2026/08/17/cardinals-joshua-baez-mlb-debut-home-runs/'
 ---
 <article>
 <header>

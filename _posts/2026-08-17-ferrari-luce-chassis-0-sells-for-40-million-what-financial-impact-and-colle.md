@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Ferrari Luce Chassis 0 Sells for $40 Million: What Financial Impact and Colle..."
+title: 'Ferrari Luce Chassis 0 Sells for $40 Million: What Financial Impact and Colle'
 date: 2026-08-17
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://electrek.co/2026/08/16/ferrari-luce-chassis-0-sells-40-million-record/"
+source_url: 'https://electrek.co/2026/08/16/ferrari-luce-chassis-0-sells-40-million-record/'
 ---
 <article>
 <header>

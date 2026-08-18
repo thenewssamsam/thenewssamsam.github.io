@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "San Antonio Spurs Arena: What Local Impact Means for Southtown"
+title: 'San Antonio Spurs Arena: What Local Impact Means for Southtown'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.ksat.com/news/local/2026/08/17/southtown-businesses-ready-for-new-spurs-arena-after-council-rejects-city-funding-vote/"
+source_url: 'https://www.ksat.com/news/local/2026/08/17/southtown-businesses-ready-for-new-spurs-arena-after-council-rejects-city-funding-vote/'
 ---
 
 <article>

@@ -2,10 +2,12 @@
 layout: post
 title: "China's Arctic Shipping Route: What a Financial & Global Trade Lens Reveals About the Ice Silk Road"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.theguardian.com/world/2026/aug/17/strait-hormuz-alternative-china-ships-north-sea-route-arctic-ice-silk-road"
+source_url: 'https://www.theguardian.com/world/2026/aug/17/strait-hormuz-alternative-china-ships-north-sea-route-arctic-ice-silk-road'
 ---
 <article>
 <header>

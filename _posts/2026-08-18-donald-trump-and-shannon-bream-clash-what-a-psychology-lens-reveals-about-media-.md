@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Donald Trump and Shannon Bream Clash: What a Psychology Lens Reveals About Media Friction"
+title: 'Donald Trump and Shannon Bream Clash: What a Psychology Lens Reveals About Media Friction'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.realitytea.com/2026/08/17/donald-trump-fox-news-host-shannon-bream-truth-social/"
+source_url: 'https://www.realitytea.com/2026/08/17/donald-trump-fox-news-host-shannon-bream-truth-social/'
 ---
 <article>
   <header>

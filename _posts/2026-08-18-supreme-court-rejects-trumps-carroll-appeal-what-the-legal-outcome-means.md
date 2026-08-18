@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Supreme Court Rejects Trump’s Carroll Appeal: What the Legal Outcome Means"
+title: 'Supreme Court Rejects Trump’s Carroll Appeal: What the Legal Outcome Means'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html"
+source_url: 'https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html'
 ---
 
 <article>

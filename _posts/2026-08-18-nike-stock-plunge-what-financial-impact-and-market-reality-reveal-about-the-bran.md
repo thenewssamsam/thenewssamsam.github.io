@@ -2,10 +2,12 @@
 layout: post
 title: "Nike Stock Plunge: What Financial Impact and Market Reality Reveal About the Brand's Decline"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://finance.yahoo.com/markets/stocks/article/nikes-stock-plunge-is-relentless-182413545.html"
+source_url: 'https://finance.yahoo.com/markets/stocks/article/nikes-stock-plunge-is-relentless-182413545.html'
 ---
 
 <article>

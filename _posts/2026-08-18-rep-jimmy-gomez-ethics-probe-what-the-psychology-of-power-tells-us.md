@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Rep. Jimmy Gomez Ethics Probe: What the Psychology of Power Tells Us"
+title: 'Rep. Jimmy Gomez Ethics Probe: What the Psychology of Power Tells Us'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.latimes.com/politics/story/2026-08-17/house-ethics-committee-announces-sexual-misconduct-investigation-into-rep-jimmy-gomez"
+source_url: 'https://www.latimes.com/politics/story/2026-08-17/house-ethics-committee-announces-sexual-misconduct-investigation-into-rep-jimmy-gomez'
 ---
 
 <article>

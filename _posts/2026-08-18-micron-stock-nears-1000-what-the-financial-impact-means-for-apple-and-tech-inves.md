@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Micron Stock Nears $1,000: What the Financial Impact Means for Apple and Tech Investors"
+title: 'Micron Stock Nears $1,000: What the Financial Impact Means for Apple and Tech Investors'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://finance.yahoo.com/markets/stocks/articles/micron-nears-1-000-apple-023438042.html"
+source_url: 'https://finance.yahoo.com/markets/stocks/articles/micron-nears-1-000-apple-023438042.html'
 ---
 <article>
 <header>

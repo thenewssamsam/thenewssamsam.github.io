@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Luigi Mangione Case: What the Double Jeopardy Fight Reveals About Justice"
+title: 'The Luigi Mangione Case: What the Double Jeopardy Fight Reveals About Justice'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://apnews.com/article/luigi-mangione-unitedhealthcare-ceo-postponed-plea-09c039f61c62d2c0e8815ea0189f0522"
+source_url: 'https://apnews.com/article/luigi-mangione-unitedhealthcare-ceo-postponed-plea-09c039f61c62d2c0e8815ea0189f0522'
 ---
 
 <article>

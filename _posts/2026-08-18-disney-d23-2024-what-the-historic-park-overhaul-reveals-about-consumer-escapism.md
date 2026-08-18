@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Disney D23 2024: What the Historic Park Overhaul Reveals About Consumer Escapism"
+title: 'Disney D23 2024: What the Historic Park Overhaul Reveals About Consumer Escapism'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.cnet.com/tech/d23-all-the-new-lands-and-rides-revealed-for-disneyland-and-disney-world/"
+source_url: 'https://www.cnet.com/tech/d23-all-the-new-lands-and-rides-revealed-for-disneyland-and-disney-world/'
 ---
 <article>
   <header class="ncg-header">

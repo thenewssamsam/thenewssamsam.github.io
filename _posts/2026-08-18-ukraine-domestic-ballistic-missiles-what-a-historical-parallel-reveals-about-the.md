@@ -2,10 +2,12 @@
 layout: post
 title: "Ukraine Domestic Ballistic Missiles: What a Historical Parallel Reveals About the War's Next Phase"
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.theguardian.com/world/2026/aug/17/ukraine-war-briefing-kyiv-capable-ballistic-missiles-russia-in-months"
+source_url: 'https://www.theguardian.com/world/2026/aug/17/ukraine-war-briefing-kyiv-capable-ballistic-missiles-russia-in-months'
 ---
 <article>
   <header>

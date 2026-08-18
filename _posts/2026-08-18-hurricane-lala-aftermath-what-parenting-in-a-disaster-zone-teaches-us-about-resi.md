@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Hurricane Lala Aftermath: What Parenting in a Disaster Zone Teaches Us About Resilience"
+title: 'Hurricane Lala Aftermath: What Parenting in a Disaster Zone Teaches Us About Resilience'
 date: 2026-08-18
-categories: [news]
-tags: [parenting]
+categories:
+  - news
+tags:
+  - parenting
 author: Sam
-source_url: "https://www.hawaiipublicradio.org/local-news/2026-08-16/hawaii-island-communities-cut-off-by-floods-road-damage-in-wake-of-lala"
+source_url: 'https://www.hawaiipublicradio.org/local-news/2026-08-16/hawaii-island-communities-cut-off-by-floods-road-damage-in-wake-of-lala'
 ---
 <article class="ncg-article">
 <header class="ncg-header">

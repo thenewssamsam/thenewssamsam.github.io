@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Texas Ten Commandments Lawsuit: What Faith Reveals About Public School Displays"
+title: 'Texas Ten Commandments Lawsuit: What Faith Reveals About Public School Displays'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.houstonchronicle.com/opinion/outlook/article/lawsuit-ten-commandments-texas-schools-22389118.php"
+source_url: 'https://www.houstonchronicle.com/opinion/outlook/article/lawsuit-ten-commandments-texas-schools-22389118.php'
 ---
 
 <article>

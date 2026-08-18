@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Supreme Court and Texas Ten Commandments Law: What Faith & Scripture Teach About Public Classrooms"
+title: 'Supreme Court and Texas Ten Commandments Law: What Faith & Scripture Teach About Public Classrooms'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.usatoday.com/story/news/politics/2026/08/17/supreme-court-ten-commandments-texas-school/91341961007/"
+source_url: 'https://www.usatoday.com/story/news/politics/2026/08/17/supreme-court-ten-commandments-texas-school/91341961007/'
 ---
 
 <article>

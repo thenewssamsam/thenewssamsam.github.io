@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Francesca Hong Defeat and the End of Woke 1: What Psychology Reveals About Political Insularity"
+title: 'Francesca Hong Defeat and the End of Woke 1: What Psychology Reveals About Political Insularity'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://slate.com/news-and-politics/2026/08/woke-1-crazy-aoc-progressives-hong.html"
+source_url: 'https://slate.com/news-and-politics/2026/08/woke-1-crazy-aoc-progressives-hong.html'
 ---
 <article>
 <header>

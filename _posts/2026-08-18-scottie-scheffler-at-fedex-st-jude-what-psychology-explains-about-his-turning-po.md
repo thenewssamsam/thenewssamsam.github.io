@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Scottie Scheffler at FedEx St. Jude: What Psychology Explains About His Turning Point"
+title: 'Scottie Scheffler at FedEx St. Jude: What Psychology Explains About His Turning Point'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://sports.yahoo.com/articles/randy-smith-noticed-scottie-scheffler-113000299.html"
+source_url: 'https://sports.yahoo.com/articles/randy-smith-noticed-scottie-scheffler-113000299.html'
 ---
 <article>
 <header>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Ukraine Deploys British Drones for Long-Range Strikes: What History Teaches About Weapons, Escalation, and Attrition"
+title: 'Ukraine Deploys British Drones for Long-Range Strikes: What History Teaches About Weapons, Escalation, and Attrition'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.pravda.com.ua/eng/news/2026/08/16/8048902/"
+source_url: 'https://www.pravda.com.ua/eng/news/2026/08/16/8048902/'
 ---
 <article>
   <style>

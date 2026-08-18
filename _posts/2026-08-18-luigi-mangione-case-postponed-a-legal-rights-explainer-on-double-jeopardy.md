@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Luigi Mangione Case Postponed: A Legal Rights Explainer on Double Jeopardy"
+title: 'Luigi Mangione Case Postponed: A Legal Rights Explainer on Double Jeopardy'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.cnn.com/2026/08/17/us/luigi-mangione-state-trial-postponed"
+source_url: 'https://www.cnn.com/2026/08/17/us/luigi-mangione-state-trial-postponed'
 ---
 
 <article>

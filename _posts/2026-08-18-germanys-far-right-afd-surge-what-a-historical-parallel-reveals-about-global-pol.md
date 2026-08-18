@@ -2,10 +2,12 @@
 layout: post
 title: "Germany's Far-Right AfD Surge: What a Historical Parallel Reveals About Global Politics"
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.notus.org/foreign-policy/germany-far-right-is-on-the-rise"
+source_url: 'https://www.notus.org/foreign-policy/germany-far-right-is-on-the-rise'
 ---
 <article>
 <header>

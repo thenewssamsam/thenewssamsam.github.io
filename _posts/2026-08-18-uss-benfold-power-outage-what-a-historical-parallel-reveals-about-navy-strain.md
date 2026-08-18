@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "USS Benfold Power Outage: What a Historical Parallel Reveals About Navy Strain"
+title: 'USS Benfold Power Outage: What a Historical Parallel Reveals About Navy Strain'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.cnn.com/2026/08/17/asia/us-destroyer-benfold-loses-power-intl-hnk-ml"
+source_url: 'https://www.cnn.com/2026/08/17/asia/us-destroyer-benfold-loses-power-intl-hnk-ml'
 ---
 <article>
 <header>

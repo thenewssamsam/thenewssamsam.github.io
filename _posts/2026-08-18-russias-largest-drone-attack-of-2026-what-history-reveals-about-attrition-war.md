@@ -2,10 +2,12 @@
 layout: post
 title: "Russia's Largest Drone Attack of 2026: What History Reveals About Attrition War"
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.bbc.com/news/articles/c1411pgje8xo"
+source_url: 'https://www.bbc.com/news/articles/c1411pgje8xo'
 ---
 <article>
   <header class="ncg-header">

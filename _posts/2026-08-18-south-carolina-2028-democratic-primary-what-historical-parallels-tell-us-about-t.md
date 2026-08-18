@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "South Carolina 2028 Democratic Primary: What Historical Parallels Tell Us About the Road to the White House"
+title: 'South Carolina 2028 Democratic Primary: What Historical Parallels Tell Us About the Road to the White House'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.usatoday.com/story/news/politics/elections/2026/08/16/2028-democratic-candidates-president-south-carolina-primary/91067515007/"
+source_url: 'https://www.usatoday.com/story/news/politics/elections/2026/08/16/2028-democratic-candidates-president-south-carolina-primary/91067515007/'
 ---
 <article>
 <header>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Jared Bridegan Murder Trial: What Psychology Reveals About High-Conflict Custody Battles"
+title: 'The Jared Bridegan Murder Trial: What Psychology Reveals About High-Conflict Custody Battles'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.cbsnews.com/news/microsoft-manager-murder-jared-bridegan-suspect-trial-florida/"
+source_url: 'https://www.cbsnews.com/news/microsoft-manager-murder-jared-bridegan-suspect-trial-florida/'
 ---
 <article>
   <header>

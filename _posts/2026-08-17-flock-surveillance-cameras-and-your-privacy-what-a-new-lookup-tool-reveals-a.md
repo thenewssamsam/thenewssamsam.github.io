@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Flock Surveillance Cameras and Your Privacy: What a New Lookup Tool Reveals A..."
+title: 'Flock Surveillance Cameras and Your Privacy: What a New Lookup Tool Reveals A'
 date: 2026-08-17
-categories: [news]
-tags: [legal]
+categories:
+  - news
+tags:
+  - legal
 author: Sam
-source_url: "https://www.independent.co.uk/tech/flock-surveillance-cameras-online-search-b3033917.html"
+source_url: 'https://www.independent.co.uk/tech/flock-surveillance-cameras-online-search-b3033917.html'
 ---
 <article>
   <header>

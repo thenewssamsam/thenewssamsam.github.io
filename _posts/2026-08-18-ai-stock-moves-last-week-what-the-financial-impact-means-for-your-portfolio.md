@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "AI Stock Moves Last Week: What the Financial Impact Means for Your Portfolio"
+title: 'AI Stock Moves Last Week: What the Financial Impact Means for Your Portfolio'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://finance.yahoo.com/markets/stocks/articles/ai-money-moves-put-five-014819017.html"
+source_url: 'https://finance.yahoo.com/markets/stocks/articles/ai-money-moves-put-five-014819017.html'
 ---
 <article>
   <header>

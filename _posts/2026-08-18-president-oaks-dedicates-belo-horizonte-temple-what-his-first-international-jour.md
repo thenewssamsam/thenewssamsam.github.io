@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "President Oaks Dedicates Belo Horizonte Temple: What His First International Journey Reveals About Faith"
+title: 'President Oaks Dedicates Belo Horizonte Temple: What His First International Journey Reveals About Faith'
 date: 2026-08-18
-categories: [news]
-tags: [faith]
+categories:
+  - news
+tags:
+  - faith
 author: Sam
-source_url: "https://newsroom.churchofjesuschrist.org/article/president-oaks-dedicates-belo-horizonte-brazil-temple"
+source_url: 'https://newsroom.churchofjesuschrist.org/article/president-oaks-dedicates-belo-horizonte-brazil-temple'
 ---
 <article>
   <header class="ncg-header">

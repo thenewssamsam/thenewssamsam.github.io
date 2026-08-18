@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Todd Blanche and DOJ Independence: What a Legal Rights Explainer Reveals About Executive Power"
+title: 'Todd Blanche and DOJ Independence: What a Legal Rights Explainer Reveals About Executive Power'
 date: 2026-08-18
-categories: [news]
-tags: [legal]
+categories:
+  - news
+tags:
+  - legal
 author: Sam
-source_url: "https://www.usatoday.com/story/news/politics/2026/08/16/todd-blanche-donald-trump-justice-department-prosecutions/91330763007/"
+source_url: 'https://www.usatoday.com/story/news/politics/2026/08/16/todd-blanche-donald-trump-justice-department-prosecutions/91330763007/'
 ---
 <article class="ncg-article-container">
   <style>

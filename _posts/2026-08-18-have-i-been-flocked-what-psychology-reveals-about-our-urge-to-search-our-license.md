@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Have I Been Flocked? What Psychology Reveals About Our Urge to Search Our License Plates"
+title: 'Have I Been Flocked? What Psychology Reveals About Our Urge to Search Our License Plates'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://mashable.com/tech/have-i-been-flocked-license-plate-search"
+source_url: 'https://mashable.com/tech/have-i-been-flocked-license-plate-search'
 ---
 
 <article>

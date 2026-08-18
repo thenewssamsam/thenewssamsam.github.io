@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Palestinian American Returns to West Bank Home: What Faith and Scripture Reveal About the Standoff in Qusra"
+title: 'Palestinian American Returns to West Bank Home: What Faith and Scripture Reveal About the Standoff in Qusra'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank"
+source_url: 'https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank'
 ---
 
 <article>

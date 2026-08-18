@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Dayton Park Mass Shooting Leaves 1: What Psychology Explains About Community Trauma"
+title: 'Dayton Park Mass Shooting Leaves 1: What Psychology Explains About Community Trauma'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.whio.com/news/1-dead-4-injured-after-mass-shooting-park-suspect-custody/CFPVGALLDRBKDH4NCKSYQA5FVI/"
+source_url: 'https://www.whio.com/news/1-dead-4-injured-after-mass-shooting-park-suspect-custody/CFPVGALLDRBKDH4NCKSYQA5FVI/'
 ---
 <article>
 <header>

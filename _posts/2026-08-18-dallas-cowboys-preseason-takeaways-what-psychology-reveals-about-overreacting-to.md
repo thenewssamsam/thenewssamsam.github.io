@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Dallas Cowboys Preseason Takeaways: What Psychology Reveals About Overreacting to August Football"
+title: 'Dallas Cowboys Preseason Takeaways: What Psychology Reveals About Overreacting to August Football'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://sports.yahoo.com/articles/cowboys-news-takeaways-first-preseason-110000032.html"
+source_url: 'https://sports.yahoo.com/articles/cowboys-news-takeaways-first-preseason-110000032.html'
 ---
 <article>
 <header>

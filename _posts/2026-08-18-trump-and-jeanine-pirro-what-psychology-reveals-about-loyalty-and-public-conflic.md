@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trump and Jeanine Pirro: What Psychology Reveals About Loyalty and Public Conflict"
+title: 'Trump and Jeanine Pirro: What Psychology Reveals About Loyalty and Public Conflict'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.thedailybeast.com/trump-80-insults-his-own-goon-in-unhinged-ragepost/"
+source_url: 'https://www.thedailybeast.com/trump-80-insults-his-own-goon-in-unhinged-ragepost/'
 ---
 <article>
 <header>

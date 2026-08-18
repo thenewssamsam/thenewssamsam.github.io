@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Attorney General Todd Blanche Declines Independence Pledge: A Legal Rights Explainer on DOJ Autonomy"
+title: 'Attorney General Todd Blanche Declines Independence Pledge: A Legal Rights Explainer on DOJ Autonomy'
 date: 2026-08-18
-categories: [news]
-tags: [legal]
+categories:
+  - news
+tags:
+  - legal
 author: Sam
-source_url: "https://www.cnn.com/2026/08/16/politics/todd-blanche-trump-administration"
+source_url: 'https://www.cnn.com/2026/08/16/politics/todd-blanche-trump-administration'
 ---
 <article>
 <header>

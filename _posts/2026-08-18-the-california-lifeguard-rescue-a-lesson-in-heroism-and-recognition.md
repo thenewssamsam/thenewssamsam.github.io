@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The California Lifeguard Rescue: A Lesson in Heroism and Recognition"
+title: 'The California Lifeguard Rescue: A Lesson in Heroism and Recognition'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.theguardian.com/us-news/2026/aug/17/trump-oval-office-california-resuced-teen-viral"
+source_url: 'https://www.theguardian.com/us-news/2026/aug/17/trump-oval-office-california-resuced-teen-viral'
 ---
 
 <article>

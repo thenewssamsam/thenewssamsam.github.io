@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Bill Cassidy Denounces Trump’s MMR Vaccine Claims: What This Means for Parents"
+title: 'Bill Cassidy Denounces Trump’s MMR Vaccine Claims: What This Means for Parents'
 date: 2026-08-17
-categories: [news]
-tags: [parenting]
+categories:
+  - news
+tags:
+  - parenting
 author: Sam
-source_url: "https://www.theguardian.com/us-news/2026/aug/16/republican-senator-bill-cassidy-denounces-trump-vaccine-claims"
+source_url: 'https://www.theguardian.com/us-news/2026/aug/16/republican-senator-bill-cassidy-denounces-trump-vaccine-claims'
 ---
 <article>
   <header class="ncg-header">

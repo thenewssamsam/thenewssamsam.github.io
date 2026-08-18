@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Kushner’s Gaza Ultimatum: A Historical Parallel to Fragile Peacemaking"
+title: 'Kushner’s Gaza Ultimatum: A Historical Parallel to Fragile Peacemaking'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.foxnews.com/world/kushner-gives-hamas-stark-ultimatum-disarm-israel-gets-us-backing-finish-job"
+source_url: 'https://www.foxnews.com/world/kushner-gives-hamas-stark-ultimatum-disarm-israel-gets-us-backing-finish-job'
 ---
 
 <article>

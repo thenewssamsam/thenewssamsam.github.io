@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Ukraine Shopping Center Strike: What a Faith Perspective Reveals About Civilian Resilience"
+title: 'Ukraine Shopping Center Strike: What a Faith Perspective Reveals About Civilian Resilience'
 date: 2026-08-18
-categories: [news]
-tags: [faith]
+categories:
+  - news
+tags:
+  - faith
 author: Sam
-source_url: "https://kyivindependent.com/russian-attacks-kill-9-injure-43-across-ukraine-over-past-day-as-jet-powered-drone-hits-shopping-center-in-odesa-oblast/"
+source_url: 'https://kyivindependent.com/russian-attacks-kill-9-injure-43-across-ukraine-over-past-day-as-jet-powered-drone-hits-shopping-center-in-odesa-oblast/'
 ---
 <article class="ncg-article-container">
 <header class="ncg-header">

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Hurricane Lala Aftermath: What Parenting and Family Resilience Tells Us About Surviving Extended Outages"
+title: 'Hurricane Lala Aftermath: What Parenting and Family Resilience Tells Us About Surviving Extended Outages'
 date: 2026-08-18
-categories: [news]
-tags: [parenting]
+categories:
+  - news
+tags:
+  - parenting
 author: Sam
-source_url: "https://www.staradvertiser.com/2026/08/16/breaking-news/heco-over-4000-big-isle-customers-without-power-as-lala-hits/"
+source_url: 'https://www.staradvertiser.com/2026/08/16/breaking-news/heco-over-4000-big-isle-customers-without-power-as-lala-hits/'
 ---
 <article>
   <header class="ncg-header">

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "AstraZeneca Discontinues eVOLVE-Lung02 Trial: What the Clinical Halt Reveals About Modern Cancer Drug Development"
+title: 'AstraZeneca Discontinues eVOLVE-Lung02 Trial: What the Clinical Halt Reveals About Modern Cancer Drug Development'
 date: 2026-08-18
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://www.astrazeneca.com/media-centre/press-releases/2026/update-on-evolve-lung02-phase-iii-trial.html"
+source_url: 'https://www.astrazeneca.com/media-centre/press-releases/2026/update-on-evolve-lung02-phase-iii-trial.html'
 ---
 <article>
 <header>

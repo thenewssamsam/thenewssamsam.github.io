@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "USS Benfold Power Loss: What History Reveals About the Fragility of Modern Naval Might"
+title: 'USS Benfold Power Loss: What History Reveals About the Fragility of Modern Naval Might'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.stripes.com/theaters/asia_pacific/2026-08-17/uss-benfold-adrift-south-china-sea-22576714.html"
+source_url: 'https://www.stripes.com/theaters/asia_pacific/2026-08-17/uss-benfold-adrift-south-china-sea-22576714.html'
 ---
 <article>
 <header class="ncg-header">

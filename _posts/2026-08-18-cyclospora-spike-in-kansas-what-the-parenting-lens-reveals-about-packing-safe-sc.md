@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Cyclospora Spike in Kansas: What the Parenting Lens Reveals About Packing Safe School Lunches"
+title: 'Cyclospora Spike in Kansas: What the Parenting Lens Reveals About Packing Safe School Lunches'
 date: 2026-08-18
-categories: [news]
-tags: [parenting]
+categories:
+  - news
+tags:
+  - parenting
 author: Sam
-source_url: "https://www.kwch.com/2026/08/18/parents-urged-rethink-packed-lunches-cyclospora-cases-surge-kansas/"
+source_url: 'https://www.kwch.com/2026/08/18/parents-urged-rethink-packed-lunches-cyclospora-cases-surge-kansas/'
 ---
 
 <article>

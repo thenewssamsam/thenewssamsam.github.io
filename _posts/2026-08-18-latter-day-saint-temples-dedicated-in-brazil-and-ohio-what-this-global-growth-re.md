@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Latter-Day Saint Temples Dedicated in Brazil and Ohio: What This Global Growth Reveals About Modern Faith"
+title: 'Latter-Day Saint Temples Dedicated in Brazil and Ohio: What This Global Growth Reveals About Modern Faith'
 date: 2026-08-18
-categories: [news]
-tags: [faith]
+categories:
+  - news
+tags:
+  - faith
 author: Sam
-source_url: "https://www.deseret.com/faith/2026/08/16/dallin-h-oaks-church-president-dedicates-belo-horizonte-brazil-temple/"
+source_url: 'https://www.deseret.com/faith/2026/08/16/dallin-h-oaks-church-president-dedicates-belo-horizonte-brazil-temple/'
 ---
 <article>
 <header>

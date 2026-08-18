@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "US-Iran War Standoff: What a Historical Parallel Reveals About the Strait of Hormuz Crisis"
+title: 'US-Iran War Standoff: What a Historical Parallel Reveals About the Strait of Hormuz Crisis'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.cbsnews.com/live-updates/us-iran-war-deal-expired-strait-of-hormuz/"
+source_url: 'https://www.cbsnews.com/live-updates/us-iran-war-deal-expired-strait-of-hormuz/'
 ---
 <article>
   <header>

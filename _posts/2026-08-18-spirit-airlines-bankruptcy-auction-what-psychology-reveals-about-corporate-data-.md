@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Spirit Airlines Bankruptcy Auction: What Psychology Reveals About Corporate Data Haunts"
+title: 'Spirit Airlines Bankruptcy Auction: What Psychology Reveals About Corporate Data Haunts'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://gizmodo.com/spirit-airlines-is-dead-but-its-data-will-haunt-googles-servers-for-generations-to-come-2000799546"
+source_url: 'https://gizmodo.com/spirit-airlines-is-dead-but-its-data-will-haunt-googles-servers-for-generations-to-come-2000799546'
 ---
 
 <article>

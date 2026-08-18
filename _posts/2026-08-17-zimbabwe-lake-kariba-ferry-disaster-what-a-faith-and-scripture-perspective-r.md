@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Zimbabwe Lake Kariba Ferry Disaster: What a Faith and Scripture Perspective R..."
+title: 'Zimbabwe Lake Kariba Ferry Disaster: What a Faith and Scripture Perspective R'
 date: 2026-08-17
-categories: [news]
-tags: [faith]
+categories:
+  - news
+tags:
+  - faith
 author: Sam
-source_url: "https://apnews.com/article/zimbabwe-ferry-capsize-death-toll-rises-children-cfd6c6df88f0d72b3ab227d8f41214f4"
+source_url: 'https://apnews.com/article/zimbabwe-ferry-capsize-death-toll-rises-children-cfd6c6df88f0d72b3ab227d8f41214f4'
 ---
 <article>
   <header>

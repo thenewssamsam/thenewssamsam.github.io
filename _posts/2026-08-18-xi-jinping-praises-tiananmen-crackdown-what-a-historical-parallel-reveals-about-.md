@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Xi Jinping Praises Tiananmen Crackdown: What a Historical Parallel Reveals About China Today"
+title: 'Xi Jinping Praises Tiananmen Crackdown: What a Historical Parallel Reveals About China Today'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.cnn.com/2026/08/17/china/china-xi-jinping-speech-tiananmen-crackdown-intl-hnk"
+source_url: 'https://www.cnn.com/2026/08/17/china/china-xi-jinping-speech-tiananmen-crackdown-intl-hnk'
 ---
 <article>
 <header>

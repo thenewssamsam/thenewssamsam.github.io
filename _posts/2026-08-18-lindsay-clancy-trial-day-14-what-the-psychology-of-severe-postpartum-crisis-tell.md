@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Lindsay Clancy Trial Day 14: What the Psychology of Severe Postpartum Crisis Tells Us"
+title: 'Lindsay Clancy Trial Day 14: What the Psychology of Severe Postpartum Crisis Tells Us'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live-day-14/"
+source_url: 'https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live-day-14/'
 ---
 
 <article>

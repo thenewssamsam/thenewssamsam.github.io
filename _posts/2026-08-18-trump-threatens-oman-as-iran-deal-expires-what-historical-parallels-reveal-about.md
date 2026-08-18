@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trump Threatens Oman As Iran Deal Expires: What Historical Parallels Reveal About Escalation"
+title: 'Trump Threatens Oman As Iran Deal Expires: What Historical Parallels Reveal About Escalation'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.cnn.com/2026/08/17/world/live-news/iran-war-trump"
+source_url: 'https://www.cnn.com/2026/08/17/world/live-news/iran-war-trump'
 ---
 <article>
 <header>

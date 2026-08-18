@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "a2 Milk Company FY26 Supply Chain Crisis: What Financial Impact and Brand Loyalty Tell Us About Consumer Habits"
+title: 'a2 Milk Company FY26 Supply Chain Crisis: What Financial Impact and Brand Loyalty Tell Us About Consumer Habits'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.nutraingredients.com/Article/2026/08/17/a2mcs-fy26-revenue-suffers-from-infant-formula-supply-chain-disruption/"
+source_url: 'https://www.nutraingredients.com/Article/2026/08/17/a2mcs-fy26-revenue-suffers-from-infant-formula-supply-chain-disruption/'
 ---
 <article>
   <header class="ncg-header">

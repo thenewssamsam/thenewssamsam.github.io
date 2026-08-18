@@ -2,10 +2,12 @@
 layout: post
 title: "Lula's Historic Fourth Term Bid: What a Historical Parallel Reveals About Brazil's High-Stakes Election"
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro"
+source_url: 'https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro'
 ---
 <article>
 <header>

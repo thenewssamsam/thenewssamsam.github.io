@@ -2,10 +2,12 @@
 layout: post
 title: "Alibaba Sells Lingxi Games for $1.5 Billion: What Financial Impact Reveals About Big Tech's Strategy"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://qz.com/alibaba-lingxi-games-trustar-capital-sale-081726"
+source_url: 'https://qz.com/alibaba-lingxi-games-trustar-capital-sale-081726'
 ---
 <article>
 <style>

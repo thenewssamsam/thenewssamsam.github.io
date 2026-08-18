@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The US-Iran Memorandum of Understanding: A Historical Lesson in Ambiguity"
+title: 'The US-Iran Memorandum of Understanding: A Historical Lesson in Ambiguity'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart"
+source_url: 'https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart'
 ---
 
 <article>

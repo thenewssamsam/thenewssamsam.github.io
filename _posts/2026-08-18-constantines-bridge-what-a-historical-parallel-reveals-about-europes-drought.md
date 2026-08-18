@@ -2,10 +2,12 @@
 layout: post
 title: "Constantine's Bridge: What a Historical Parallel Reveals About Europe's Drought"
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://thedebrief.org/a-mile-long-ancient-roman-engineering-marvel-has-suddenly-surfaced-from-beneath-this-famous-waterway/"
+source_url: 'https://thedebrief.org/a-mile-long-ancient-roman-engineering-marvel-has-suddenly-surfaced-from-beneath-this-famous-waterway/'
 ---
 <article>
   <header class="ncg-header">

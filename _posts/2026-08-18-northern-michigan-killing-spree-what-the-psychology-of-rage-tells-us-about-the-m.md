@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Northern Michigan Killing Spree: What the Psychology of Rage Tells Us About the Missaukee County Tragedy"
+title: 'Northern Michigan Killing Spree: What the Psychology of Rage Tells Us About the Missaukee County Tragedy'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.mlive.com/news/2026/08/i-hope-hell-gives-him-his-due-new-details-emerge-about-northern-michigan-killing-spree.html"
+source_url: 'https://www.mlive.com/news/2026/08/i-hope-hell-gives-him-his-due-new-details-emerge-about-northern-michigan-killing-spree.html'
 ---
 <article>
 <header class="ncg-header">

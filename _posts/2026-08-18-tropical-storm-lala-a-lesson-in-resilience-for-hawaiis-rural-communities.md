@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Tropical Storm Lala: A Lesson in Resilience for Hawaii’s Rural Communities"
+title: 'Tropical Storm Lala: A Lesson in Resilience for Hawaii’s Rural Communities'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://apnews.com/article/hawaii-lala-hurricane-tropical-storm-damage-446cc73e6f3f72636cd593aa61f100cc"
+source_url: 'https://apnews.com/article/hawaii-lala-hurricane-tropical-storm-damage-446cc73e6f3f72636cd593aa61f100cc'
 ---
 
 <article>

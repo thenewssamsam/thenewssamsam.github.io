@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Uber and Zipline Partner for Drone Delivery: A Financial Look at the Race for Quick Commerce"
+title: 'Uber and Zipline Partner for Drone Delivery: A Financial Look at the Race for Quick Commerce'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://finance.yahoo.com/technology/articles/uber-adds-zipline-drones-eats-131849943.html"
+source_url: 'https://finance.yahoo.com/technology/articles/uber-adds-zipline-drones-eats-131849943.html'
 ---
 
 <article>

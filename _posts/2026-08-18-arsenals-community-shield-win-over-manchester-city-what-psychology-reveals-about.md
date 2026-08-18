@@ -2,10 +2,12 @@
 layout: post
 title: "Arsenal's Community Shield Win Over Manchester City: What Psychology Reveals About Confidence and Momentum"
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.cbssports.com/soccer/news/arsenals-crushing-win-manchester-city-community-shield/"
+source_url: 'https://www.cbssports.com/soccer/news/arsenals-crushing-win-manchester-city-community-shield/'
 ---
 <article>
   <header class="ncg-header">

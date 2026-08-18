@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Jamal Adams Injury: What the Psychology of Setbacks Reveals About Resilience"
+title: 'Jamal Adams Injury: What the Psychology of Setbacks Reveals About Resilience'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://sports.yahoo.com/articles/jamal-adams-vikings-season-ends-110033314.html"
+source_url: 'https://sports.yahoo.com/articles/jamal-adams-vikings-season-ends-110033314.html'
 ---
 <article>
 <style>

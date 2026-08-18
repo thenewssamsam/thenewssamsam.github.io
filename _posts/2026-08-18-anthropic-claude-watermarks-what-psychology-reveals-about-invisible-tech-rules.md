@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Anthropic Claude Watermarks: What Psychology Reveals About Invisible Tech Rules"
+title: 'Anthropic Claude Watermarks: What Psychology Reveals About Invisible Tech Rules'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system"
+source_url: 'https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system'
 ---
 <article>
   <header class="ncg-header">

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Greek Ferry "Vomit Comet": What Psychology and Behavior Reveal About Modern Tourism"
+title: 'The Greek Ferry "Vomit Comet": What Psychology and Behavior Reveal About Modern Tourism'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://nypost.com/2026/08/16/lifestyle/greek-ferry-causing-tourists-to-get-seasick-with-high-speeds/"
+source_url: 'https://nypost.com/2026/08/16/lifestyle/greek-ferry-causing-tourists-to-get-seasick-with-high-speeds/'
 ---
 <article>
   <header class="ncg-header">

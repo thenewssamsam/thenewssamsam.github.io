@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "When Immigration Enforcement Hits Home: A Psychology Look at Policy and Cognitive Dissonance"
+title: 'When Immigration Enforcement Hits Home: A Psychology Look at Policy and Cognitive Dissonance'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://inshorts.com/en/news/wife-of-3-time-trump-voter-detained-in-us-immigration-crackdown-1786963611129"
+source_url: 'https://inshorts.com/en/news/wife-of-3-time-trump-voter-detained-in-us-immigration-crackdown-1786963611129'
 ---
 <article>
 <header class="ncg-header">

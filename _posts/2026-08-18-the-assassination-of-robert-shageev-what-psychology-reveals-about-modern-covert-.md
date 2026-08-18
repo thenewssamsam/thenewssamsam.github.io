@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Assassination of Robert Shageev: What Psychology Reveals About Modern Covert Conflict"
+title: 'The Assassination of Robert Shageev: What Psychology Reveals About Modern Covert Conflict'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://maritime-executive.com/article/russian-escort-accused-of-killing-senior-russian-navy-officer-in-sevastopol"
+source_url: 'https://maritime-executive.com/article/russian-escort-accused-of-killing-senior-russian-navy-officer-in-sevastopol'
 ---
 <article>
 <header>

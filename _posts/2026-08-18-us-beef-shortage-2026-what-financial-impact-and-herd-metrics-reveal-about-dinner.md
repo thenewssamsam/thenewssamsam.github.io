@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "US Beef Shortage 2026: What Financial Impact and Herd Metrics Reveal About Dinner Table Prices"
+title: 'US Beef Shortage 2026: What Financial Impact and Herd Metrics Reveal About Dinner Table Prices'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.foxbusiness.com/politics/historic-shortage-squeezing-american-dinner-staple-relief-could-years-away"
+source_url: 'https://www.foxbusiness.com/politics/historic-shortage-squeezing-american-dinner-staple-relief-could-years-away'
 ---
 <article>
   <header>

@@ -2,10 +2,12 @@
 layout: post
 title: "Vishal Garg Fired: What Psychology Reveals About the Zoom-Firing CEO's Shocked Reaction"
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.independent.co.uk/news/world/americas/better-ceo-vishal-garg-fired-b3033937.html"
+source_url: 'https://www.independent.co.uk/news/world/americas/better-ceo-vishal-garg-fired-b3033937.html'
 ---
 <article>
 <header class="ncg-header">

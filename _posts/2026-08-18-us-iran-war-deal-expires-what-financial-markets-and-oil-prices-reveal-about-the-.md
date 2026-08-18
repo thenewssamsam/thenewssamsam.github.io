@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "US-Iran War Deal Expires: What Financial Markets and Oil Prices Reveal About the Strait of Hormuz Stalemate"
+title: 'US-Iran War Deal Expires: What Financial Markets and Oil Prices Reveal About the Strait of Hormuz Stalemate'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.cbsnews.com/live-updates/us-iran-war-deal-expired-strait-of-hormuz/"
+source_url: 'https://www.cbsnews.com/live-updates/us-iran-war-deal-expired-strait-of-hormuz/'
 ---
 <article>
   <header class="ncg-header">

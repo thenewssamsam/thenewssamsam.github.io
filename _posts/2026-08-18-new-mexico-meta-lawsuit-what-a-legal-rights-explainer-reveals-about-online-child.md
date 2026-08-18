@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "New Mexico Meta Lawsuit: What a Legal Rights Explainer Reveals About Online Child Safety Laws"
+title: 'New Mexico Meta Lawsuit: What a Legal Rights Explainer Reveals About Online Child Safety Laws'
 date: 2026-08-18
-categories: [news]
-tags: [legal]
+categories:
+  - news
+tags:
+  - legal
 author: Sam
-source_url: "https://www.theguardian.com/technology/2026/aug/17/raul-torrez-new-mexico-meta-social-media-safety-laws"
+source_url: 'https://www.theguardian.com/technology/2026/aug/17/raul-torrez-new-mexico-meta-social-media-safety-laws'
 ---
 <article>
   <header>

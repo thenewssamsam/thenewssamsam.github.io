@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Lanterns Premiere Shocker: What the Hal Jordan Twist Reveals About Psychological Loss Aversion"
+title: 'Lanterns Premiere Shocker: What the Hal Jordan Twist Reveals About Psychological Loss Aversion'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://variety.com/2026/tv/news/lanterns-premiere-how-does-hal-die-1236835653/"
+source_url: 'https://variety.com/2026/tv/news/lanterns-premiere-how-does-hal-die-1236835653/'
 ---
 <article>
 <header>

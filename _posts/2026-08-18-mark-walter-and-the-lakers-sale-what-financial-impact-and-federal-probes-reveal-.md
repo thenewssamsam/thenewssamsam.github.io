@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Mark Walter and the Lakers Sale: What Financial Impact and Federal Probes Reveal About a Trillion-Dollar Sports Empire"
+title: 'Mark Walter and the Lakers Sale: What Financial Impact and Federal Probes Reveal About a Trillion-Dollar Sports Empire'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.nytimes.com/athletic/7517341/2026/08/17/mark-walter-lakers-sale-federal-investigation/"
+source_url: 'https://www.nytimes.com/athletic/7517341/2026/08/17/mark-walter-lakers-sale-federal-investigation/'
 ---
 <article>
 <header>

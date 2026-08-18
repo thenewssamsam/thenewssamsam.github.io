@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Central Indiana Weather Forecast: What Psychology Explains About How We Handle Severe Weather Fatigue"
+title: 'Central Indiana Weather Forecast: What Psychology Explains About How We Handle Severe Weather Fatigue'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.wishtv.com/weather/monday-storms-fog-threat/"
+source_url: 'https://www.wishtv.com/weather/monday-storms-fog-threat/'
 ---
 <article>
 <header>

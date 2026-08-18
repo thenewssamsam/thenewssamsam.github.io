@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Russia and Ukraine Trade Deadly Strikes: What a Historical Parallel Reveals About Escalation Cycles"
+title: 'Russia and Ukraine Trade Deadly Strikes: What a Historical Parallel Reveals About Escalation Cycles'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.bbc.com/news/articles/cn7n4lm11vro"
+source_url: 'https://www.bbc.com/news/articles/cn7n4lm11vro'
 ---
 <article>
 <header>

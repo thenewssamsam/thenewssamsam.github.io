@@ -2,10 +2,12 @@
 layout: post
 title: "Australia's Bondi Beach Gun Buyback: What History Reveals About Major Policy Shifts"
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.foxnews.com/world/australia-sets-launch-sweeping-gun-buyback-bondi-beach-terror-attack-sensible-gun-reform"
+source_url: 'https://www.foxnews.com/world/australia-sets-launch-sweeping-gun-buyback-bondi-beach-terror-attack-sensible-gun-reform'
 ---
 <article>
 <header>

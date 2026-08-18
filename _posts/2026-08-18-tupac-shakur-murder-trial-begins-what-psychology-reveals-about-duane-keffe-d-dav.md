@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Tupac Shakur Murder Trial Begins: What Psychology Reveals About Duane "Keffe D" Davis and the Power of Confession"
+title: 'Tupac Shakur Murder Trial Begins: What Psychology Reveals About Duane "Keffe D" Davis and the Power of Confession'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://apnews.com/article/tupac-shakur-keffe-d-las-vegas-trial-00b666bad0c1cadb4b647e5976fd1f9e"
+source_url: 'https://apnews.com/article/tupac-shakur-keffe-d-las-vegas-trial-00b666bad0c1cadb4b647e5976fd1f9e'
 ---
 <article>
 <header>

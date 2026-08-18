@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Alaska’s Affordability Crisis: A Financial Look at Voter Priorities"
+title: 'Alaska’s Affordability Crisis: A Financial Look at Voter Priorities'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.dataforprogress.org/blog/2026/8/17/as-alaskas-affordability-crisis-deepens-peltola-leads-in-senate-race"
+source_url: 'https://www.dataforprogress.org/blog/2026/8/17/as-alaskas-affordability-crisis-deepens-peltola-leads-in-senate-race'
 ---
 
 <article>

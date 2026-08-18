@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Europe Wildfires 2026: What a Historical Perspective Reveals About Extreme Heat"
+title: 'Europe Wildfires 2026: What a Historical Perspective Reveals About Extreme Heat'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.nbcnews.com/world/europe/europe-wildfires-death-toll-rcna592809"
+source_url: 'https://www.nbcnews.com/world/europe/europe-wildfires-death-toll-rcna592809'
 ---
 <article>
 <header>

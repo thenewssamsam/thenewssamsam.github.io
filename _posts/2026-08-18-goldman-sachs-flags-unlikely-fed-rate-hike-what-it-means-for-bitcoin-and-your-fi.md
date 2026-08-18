@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Goldman Sachs Flags Unlikely Fed Rate Hike: What It Means for Bitcoin and Your Finances"
+title: 'Goldman Sachs Flags Unlikely Fed Rate Hike: What It Means for Bitcoin and Your Finances'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.coindesk.com/markets/2026/08/17/september-fed-interest-rate-increase-is-very-unlikely-goldman-sachs-says"
+source_url: 'https://www.coindesk.com/markets/2026/08/17/september-fed-interest-rate-increase-is-very-unlikely-goldman-sachs-says'
 ---
 <article>
   <style>

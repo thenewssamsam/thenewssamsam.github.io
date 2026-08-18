@@ -2,10 +2,12 @@
 layout: post
 title: "Nvidia's $1 Trillion Forecast: What Jensen Huang's Bold Bet Means for Investors"
 date: 2026-08-17
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-doubled-nvidias-own-032000622.html"
+source_url: 'https://finance.yahoo.com/markets/stocks/articles/jensen-huang-doubled-nvidias-own-032000622.html'
 ---
 <article>
   <header>

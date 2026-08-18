@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Officer Alhassane Barry Shooting: What Psychology Explains About Conflict Escalation"
+title: 'Officer Alhassane Barry Shooting: What Psychology Explains About Conflict Escalation'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.audacy.com/kywnewsradio/news/local/off-duty-officer-killed-man-injured-southwest-philly-shooting"
+source_url: 'https://www.audacy.com/kywnewsradio/news/local/off-duty-officer-killed-man-injured-southwest-philly-shooting'
 ---
 <article>
 <header>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Iran Signals US Ground War Readiness: What Historical Parallels Reveal About Escalation"
+title: 'Iran Signals US Ground War Readiness: What Historical Parallels Reveal About Escalation'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires"
+source_url: 'https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires'
 ---
 
 <article>

@@ -2,10 +2,12 @@
 layout: post
 title: "Andrew Painter's Rocky Return: What the Psychology of Resilience Reveals About the Phillies' Comeback"
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.mlb.com/news/phillies-overcome-five-run-deficit-to-sweep-twins"
+source_url: 'https://www.mlb.com/news/phillies-overcome-five-run-deficit-to-sweep-twins'
 ---
 <article>
   <header class="ncg-header">

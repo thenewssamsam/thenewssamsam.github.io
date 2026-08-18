@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Why Wildfire Safety Rules Keep Failing — A Financial and Practical Look at Western Communities"
+title: 'Why Wildfire Safety Rules Keep Failing — A Financial and Practical Look at Western Communities'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection"
+source_url: 'https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-community-protection'
 ---
 <article>
   <header class="ncg-header">

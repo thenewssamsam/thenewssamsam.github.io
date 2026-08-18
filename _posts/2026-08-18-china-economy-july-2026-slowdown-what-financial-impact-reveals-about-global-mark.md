@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "China Economy July 2026 Slowdown: What Financial Impact Reveals About Global Markets"
+title: 'China Economy July 2026 Slowdown: What Financial Impact Reveals About Global Markets'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html"
+source_url: 'https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html'
 ---
 <article>
 <header>

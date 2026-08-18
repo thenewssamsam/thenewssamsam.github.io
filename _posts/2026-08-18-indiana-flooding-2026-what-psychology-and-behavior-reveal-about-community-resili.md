@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Indiana Flooding 2026: What Psychology and Behavior Reveal About Community Resilience"
+title: 'Indiana Flooding 2026: What Psychology and Behavior Reveal About Community Resilience'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths"
+source_url: 'https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths'
 ---
 <article style="font-family: -apple-system, 'Segoe UI', Roboto, sans-serif; color: #222222; background-color: #ffffff; line-height: 1.7; padding: 20px; max-width: 800px; margin: 0 auto;">
 <header style="margin-bottom: 2rem;">

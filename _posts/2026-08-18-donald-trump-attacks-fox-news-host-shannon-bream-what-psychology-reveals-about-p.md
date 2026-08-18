@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Donald Trump Attacks Fox News Host Shannon Bream: What Psychology Reveals About Political Feuds and Public Criticism"
+title: 'Donald Trump Attacks Fox News Host Shannon Bream: What Psychology Reveals About Political Feuds and Public Criticism'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.thedailybeast.com/donald-trump-80-declares-fox-news-host-shannon-bream-an-enemy-of-maga/"
+source_url: 'https://www.thedailybeast.com/donald-trump-80-declares-fox-news-host-shannon-bream-an-enemy-of-maga/'
 ---
 <article>
   <header>

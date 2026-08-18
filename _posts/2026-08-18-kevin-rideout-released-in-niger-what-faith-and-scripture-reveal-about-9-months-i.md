@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Kevin Rideout Released in Niger: What Faith and Scripture Reveal About 9 Months in Captivity"
+title: 'Kevin Rideout Released in Niger: What Faith and Scripture Reveal About 9 Months in Captivity'
 date: 2026-08-18
-categories: [news]
-tags: [faith]
+categories:
+  - news
+tags:
+  - faith
 author: Sam
-source_url: "https://nypost.com/2026/08/17/world-news/american-missionary-kevin-rideout-set-to-head-home-to-us-after-more-than-9-months-in-captivity-in-niger/"
+source_url: 'https://nypost.com/2026/08/17/world-news/american-missionary-kevin-rideout-set-to-head-home-to-us-after-more-than-9-months-in-captivity-in-niger/'
 ---
 <article>
 <header>

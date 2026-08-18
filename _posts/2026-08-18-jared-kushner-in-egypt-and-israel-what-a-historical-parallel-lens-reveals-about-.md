@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Jared Kushner in Egypt and Israel: What a Historical Parallel Lens Reveals About Middle East Diplomacy"
+title: 'Jared Kushner in Egypt and Israel: What a Historical Parallel Lens Reveals About Middle East Diplomacy'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.cbsnews.com/news/jared-kushner-hamas-netanyahu-gaza-peace-deal-negotiations/"
+source_url: 'https://www.cbsnews.com/news/jared-kushner-hamas-netanyahu-gaza-peace-deal-negotiations/'
 ---
 <article>
   <header class="ncg-header">

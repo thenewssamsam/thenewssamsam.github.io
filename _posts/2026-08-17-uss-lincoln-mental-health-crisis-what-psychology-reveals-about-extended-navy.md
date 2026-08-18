@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "USS Lincoln Mental Health Crisis: What Psychology Reveals About Extended Navy..."
+title: 'USS Lincoln Mental Health Crisis: What Psychology Reveals About Extended Navy'
 date: 2026-08-17
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html"
+source_url: 'https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html'
 ---
 <article>
   <header class="ncg-header">

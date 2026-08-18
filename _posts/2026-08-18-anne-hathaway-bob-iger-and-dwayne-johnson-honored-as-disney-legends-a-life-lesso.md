@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Anne Hathaway, Bob Iger, and Dwayne Johnson Honored as Disney Legends: A Life Lessons Look at Success and Legacy"
+title: 'Anne Hathaway, Bob Iger, and Dwayne Johnson Honored as Disney Legends: A Life Lessons Look at Success and Legacy'
 date: 2026-08-18
-categories: [news]
-tags: [life]
+categories:
+  - news
+tags:
+  - life
 author: Sam
-source_url: "https://abcnews.com/GMA/Culture/disney-legends-2026-anne-hathaway-bob-iger-dwayne-johnson/story?id=135603616"
+source_url: 'https://abcnews.com/GMA/Culture/disney-legends-2026-anne-hathaway-bob-iger-dwayne-johnson/story?id=135603616'
 ---
 <article>
 <header>

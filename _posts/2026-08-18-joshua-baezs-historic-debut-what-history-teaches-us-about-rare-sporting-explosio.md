@@ -2,10 +2,12 @@
 layout: post
 title: "Joshua Baez's Historic Debut: What History Teaches Us About Rare Sporting Explosions"
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://defector.com/in-his-debut-game-joshua-baez-ties-stump-wiedeman-on-career-homers-list"
+source_url: 'https://defector.com/in-his-debut-game-joshua-baez-ties-stump-wiedeman-on-career-homers-list'
 ---
 <article>
   <header>

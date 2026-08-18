@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Lindsay Clancy Trial: What Psychology Reveals About Postpartum Psychosis and the Insanity Defense"
+title: 'Lindsay Clancy Trial: What Psychology Reveals About Postpartum Psychosis and the Insanity Defense'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.theatlantic.com/ideas/2026/08/lindsay-clancy-murder-trial-insanity/688286/"
+source_url: 'https://www.theatlantic.com/ideas/2026/08/lindsay-clancy-murder-trial-insanity/688286/'
 ---
 <article>
 <header>

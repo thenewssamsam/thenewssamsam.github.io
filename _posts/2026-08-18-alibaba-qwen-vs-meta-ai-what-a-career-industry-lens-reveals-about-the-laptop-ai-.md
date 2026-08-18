@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Alibaba Qwen vs. Meta AI: What a Career & Industry Lens Reveals About the Laptop AI Race"
+title: 'Alibaba Qwen vs. Meta AI: What a Career & Industry Lens Reveals About the Laptop AI Race'
 date: 2026-08-18
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html"
+source_url: 'https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html'
 ---
 <article class="ncg-article">
   <header class="ncg-header">

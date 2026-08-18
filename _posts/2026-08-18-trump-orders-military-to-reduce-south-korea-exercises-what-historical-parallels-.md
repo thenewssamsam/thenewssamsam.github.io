@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trump Orders Military to Reduce South Korea Exercises: What Historical Parallels Reveal About Alliances"
+title: 'Trump Orders Military to Reduce South Korea Exercises: What Historical Parallels Reveal About Alliances'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.nbcnews.com/politics/trump-administration/trump-orders-military-substantially-reduce-joint-exercises-south-korea-rcna592832"
+source_url: 'https://www.nbcnews.com/politics/trump-administration/trump-orders-military-substantially-reduce-joint-exercises-south-korea-rcna592832'
 ---
 <article>
   <header>

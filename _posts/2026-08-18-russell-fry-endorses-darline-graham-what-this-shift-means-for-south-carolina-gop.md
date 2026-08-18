@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Russell Fry Endorses Darline Graham: What This Shift Means for South Carolina GOP Unity"
+title: 'Russell Fry Endorses Darline Graham: What This Shift Means for South Carolina GOP Unity'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.foxnews.com/politics/russell-fry-endorses-ex-rival-darline-graham-failing-advance-special-gop-us-senate-primary-runoff"
+source_url: 'https://www.foxnews.com/politics/russell-fry-endorses-ex-rival-darline-graham-failing-advance-special-gop-us-senate-primary-runoff'
 ---
 
 <article>

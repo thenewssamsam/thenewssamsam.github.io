@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Arsenal 3-0 Man City Community Shield: What Psychology Reveals About Football Fan Reactions"
+title: 'Arsenal 3-0 Man City Community Shield: What Psychology Reveals About Football Fan Reactions'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.bbc.com/sport/football/articles/c3ekkkqe7zqo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D"
+source_url: 'https://www.bbc.com/sport/football/articles/c3ekkkqe7zqo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D'
 ---
 <article>
 <header>

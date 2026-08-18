@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "East L.A. AutoZone Ransacked: What Psychology and Behavior Reveal About Mob Mentality"
+title: 'East L.A. AutoZone Ransacked: What Psychology and Behavior Reveal About Mob Mentality'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.latimes.com/california/story/2026-08-16/27-suspected-of-ransacking-autozone-during-east-la-street-takeovers"
+source_url: 'https://www.latimes.com/california/story/2026-08-16/27-suspected-of-ransacking-autozone-during-east-la-street-takeovers'
 ---
 <article>
 <style>

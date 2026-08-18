@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Long Island Street Takeovers: What the Psychology of Mob Mentality Explains About Weekend Car Stunts"
+title: 'Long Island Street Takeovers: What the Psychology of Mob Mentality Explains About Weekend Car Stunts'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://nypost.com/2026/08/16/us-news/long-island-cops-chase-hooligans-town-to-town-to-nix-wild-street-takeovers-before-finally-busting-15/"
+source_url: 'https://nypost.com/2026/08/16/us-news/long-island-cops-chase-hooligans-town-to-town-to-nix-wild-street-takeovers-before-finally-busting-15/'
 ---
 <article>
 <header>

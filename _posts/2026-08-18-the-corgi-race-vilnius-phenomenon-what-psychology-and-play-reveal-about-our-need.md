@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Corgi Race Vilnius Phenomenon: What Psychology and Play Reveal About Our Need for Joy"
+title: 'The Corgi Race Vilnius Phenomenon: What Psychology and Play Reveal About Our Need for Joy'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://apnews.com/article/lithuania-vilnius-corgi-race-costumes-nose-bark-82c1d801bc7805e78bf365ea44a1344f"
+source_url: 'https://apnews.com/article/lithuania-vilnius-corgi-race-costumes-nose-bark-82c1d801bc7805e78bf365ea44a1344f'
 ---
 <article>
 <header>

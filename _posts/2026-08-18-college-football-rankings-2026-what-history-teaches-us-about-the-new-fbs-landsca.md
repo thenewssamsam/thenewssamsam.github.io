@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "College Football Rankings 2026: What History Teaches Us About the New FBS Landscape"
+title: 'College Football Rankings 2026: What History Teaches Us About the New FBS Landscape'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.foxsports.com/stories/college-football/rankings-2026-preseason-138"
+source_url: 'https://www.foxsports.com/stories/college-football/rankings-2026-preseason-138'
 ---
 <article>
   <header>

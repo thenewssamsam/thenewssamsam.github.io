@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Grok CSAM Lawsuit Expands: What the Psychology of AI Abuse Reveals About Digital Safety"
+title: 'Grok CSAM Lawsuit Expands: What the Psychology of AI Abuse Reveals About Digital Safety'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.engadget.com/2237875/another-woman-joins-lawsuit-accusing-grok-of-generating-csam/"
+source_url: 'https://www.engadget.com/2237875/another-woman-joins-lawsuit-accusing-grok-of-generating-csam/'
 ---
 <article>
   <header>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Debbie Wasserman Schultz’s Florida Primary Bid: What a Historical Parallel Reveals About Intraparty Power Struggles"
+title: 'Debbie Wasserman Schultz’s Florida Primary Bid: What a Historical Parallel Reveals About Intraparty Power Struggles'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.ms.now/news/debbie-wasserman-schultz-florida-primaries-black-democrats"
+source_url: 'https://www.ms.now/news/debbie-wasserman-schultz-florida-primaries-black-democrats'
 ---
 <article>
   <header>

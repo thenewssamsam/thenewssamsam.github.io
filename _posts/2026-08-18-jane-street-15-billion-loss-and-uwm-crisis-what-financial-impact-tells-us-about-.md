@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Jane Street $15 Billion Loss and UWM Crisis: What Financial Impact Tells Us About Market Instability"
+title: 'Jane Street $15 Billion Loss and UWM Crisis: What Financial Impact Tells Us About Market Instability'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.wsws.org/en/articles/2026/08/17/gnmb-a17.html"
+source_url: 'https://www.wsws.org/en/articles/2026/08/17/gnmb-a17.html'
 ---
 <article>
   <header>

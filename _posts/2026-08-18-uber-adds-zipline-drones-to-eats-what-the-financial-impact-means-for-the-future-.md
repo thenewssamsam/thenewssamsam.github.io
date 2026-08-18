@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Uber Adds Zipline Drones to Eats: What the Financial Impact Means for the Future of Delivery"
+title: 'Uber Adds Zipline Drones to Eats: What the Financial Impact Means for the Future of Delivery'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://finance.yahoo.com/technology/articles/uber-adds-zipline-drones-eats-131849943.html"
+source_url: 'https://finance.yahoo.com/technology/articles/uber-adds-zipline-drones-eats-131849943.html'
 ---
 
 <article>

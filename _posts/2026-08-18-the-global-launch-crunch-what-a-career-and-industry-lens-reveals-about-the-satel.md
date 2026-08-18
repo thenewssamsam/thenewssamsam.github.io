@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Global Launch Crunch: What a Career and Industry Lens Reveals About the Satellite Bottleneck"
+title: 'The Global Launch Crunch: What a Career and Industry Lens Reveals About the Satellite Bottleneck'
 date: 2026-08-18
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/"
+source_url: 'https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/'
 ---
 <article>
   <header class="ncg-header">

@@ -2,10 +2,12 @@
 layout: post
 title: "RKLB Stock Rises Overnight: What the Financial Impact of Rocket Lab's Globalstar Milestone Means for Investors"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://finance.yahoo.com/markets/stocks/articles/rklb-stock-rises-overnight-rocket-010749148.html"
+source_url: 'https://finance.yahoo.com/markets/stocks/articles/rklb-stock-rises-overnight-rocket-010749148.html'
 ---
 <article>
 <header>

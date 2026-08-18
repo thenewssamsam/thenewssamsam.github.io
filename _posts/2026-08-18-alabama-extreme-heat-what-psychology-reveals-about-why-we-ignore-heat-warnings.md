@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Alabama Extreme Heat: What Psychology Reveals About Why We Ignore Heat Warnings"
+title: 'Alabama Extreme Heat: What Psychology Reveals About Why We Ignore Heat Warnings'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://abc3340.com/news/local/the-weather-authority-highs-near-100-today-with-isolated-storms-possible"
+source_url: 'https://abc3340.com/news/local/the-weather-authority-highs-near-100-today-with-isolated-storms-possible'
 ---
 <article class="ncg-article-container">
   <header class="ncg-header">

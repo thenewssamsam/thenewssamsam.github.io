@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles"
+title: 'Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://english.aawsat.com/arab-world/5307734-yemeni-army-says-it-carried-out-181-operations-against-houthis-24-hours"
+source_url: 'https://english.aawsat.com/arab-world/5307734-yemeni-army-says-it-carried-out-181-operations-against-houthis-24-hours'
 ---
 <article>
 <header>

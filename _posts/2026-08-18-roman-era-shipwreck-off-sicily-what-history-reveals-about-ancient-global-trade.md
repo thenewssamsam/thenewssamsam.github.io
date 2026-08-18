@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Roman-Era Shipwreck Off Sicily: What History Reveals About Ancient Global Trade"
+title: 'Roman-Era Shipwreck Off Sicily: What History Reveals About Ancient Global Trade'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.yahoo.com/news/science/articles/italy-identifies-roman-era-shipwreck-220600465.html"
+source_url: 'https://www.yahoo.com/news/science/articles/italy-identifies-roman-era-shipwreck-220600465.html'
 ---
 <article>
   <header class="ncg-header">

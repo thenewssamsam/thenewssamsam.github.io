@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Alabama Extreme Heat Warning 2026: What a Historic NWS Alert Reveals About Our Changing Summers"
+title: 'Alabama Extreme Heat Warning 2026: What a Historic NWS Alert Reveals About Our Changing Summers'
 date: 2026-08-18
-categories: [news]
-tags: [health]
+categories:
+  - news
+tags:
+  - health
 author: Sam
-source_url: "https://www.al.com/weather/2026/08/extreme-heat-warning-issued-for-alabama-starting-tonight-how-hot-could-monday-be.html"
+source_url: 'https://www.al.com/weather/2026/08/extreme-heat-warning-issued-for-alabama-starting-tonight-how-hot-could-monday-be.html'
 ---
 <article>
 <header>

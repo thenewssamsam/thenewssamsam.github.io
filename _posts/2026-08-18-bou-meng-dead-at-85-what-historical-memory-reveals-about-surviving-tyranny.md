@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Bou Meng Dead at 85: What Historical Memory Reveals About Surviving Tyranny"
+title: 'Bou Meng Dead at 85: What Historical Memory Reveals About Surviving Tyranny'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://apnews.com/article/cambodia-khmer-rouge-bou-meng-tuol-sleng-s21-4249e0990d282b636e0f3eedcc600ad2"
+source_url: 'https://apnews.com/article/cambodia-khmer-rouge-bou-meng-tuol-sleng-s21-4249e0990d282b636e0f3eedcc600ad2'
 ---
 <article>
   <header class="ncg-header">

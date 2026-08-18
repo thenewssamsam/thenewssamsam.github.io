@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Alexandria Ocasio-Cortez Egg-Freezing Backlash: What Psychology Reveals About Modern Public Scrutiny"
+title: 'Alexandria Ocasio-Cortez Egg-Freezing Backlash: What Psychology Reveals About Modern Public Scrutiny'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://nypost.com/2026/08/16/us-news/aoc-whines-egg-freezing-journey-met-with-negativity-but-she-has-no-regrets/"
+source_url: 'https://nypost.com/2026/08/16/us-news/aoc-whines-egg-freezing-journey-met-with-negativity-but-she-has-no-regrets/'
 ---
 <article>
   <header>

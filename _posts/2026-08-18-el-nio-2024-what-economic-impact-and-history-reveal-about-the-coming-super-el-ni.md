@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "El Niño 2024: What Economic Impact and History Reveal About the Coming Super El Niño"
+title: 'El Niño 2024: What Economic Impact and History Reveal About the Coming Super El Niño'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.wired.com/story/what-el-nino-means-weather-water-global-economy/"
+source_url: 'https://www.wired.com/story/what-el-nino-means-weather-water-global-economy/'
 ---
 
 <article>

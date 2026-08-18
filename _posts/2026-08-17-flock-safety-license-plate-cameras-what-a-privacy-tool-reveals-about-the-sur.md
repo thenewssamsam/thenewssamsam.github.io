@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Flock Safety License Plate Cameras: What a Privacy Tool Reveals About the Sur..."
+title: 'Flock Safety License Plate Cameras: What a Privacy Tool Reveals About the Sur'
 date: 2026-08-17
-categories: [news]
-tags: [legal]
+categories:
+  - news
+tags:
+  - legal
 author: Sam
-source_url: "https://kstp.com/kstp-news/top-news/has-your-car-been-flocked-website-shows-whether-your-vehicle-is-in-the-database/"
+source_url: 'https://kstp.com/kstp-news/top-news/has-your-car-been-flocked-website-shows-whether-your-vehicle-is-in-the-database/'
 ---
 <article>
 <header>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Donald Trump and Natalie Harp: What the Psychology of Parasocial Loyalty Reveals About Political Orbit"
+title: 'Donald Trump and Natalie Harp: What the Psychology of Parasocial Loyalty Reveals About Political Orbit'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.thedailybeast.com/trump-80-cornered-on-relationship-with-blonde-aide-35/"
+source_url: 'https://www.thedailybeast.com/trump-80-cornered-on-relationship-with-blonde-aide-35/'
 ---
 
 <article>

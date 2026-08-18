@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trump Blames Vandals for National Mall Grass Damage: What Psychology Reveals About Cognitive Dissonance and Blame"
+title: 'Trump Blames Vandals for National Mall Grass Damage: What Psychology Reveals About Cognitive Dissonance and Blame'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.nbcwashington.com/news/president-trump-politics/trump-blames-vandals-for-damaged-grass-in-the-same-spot-where-he-held-his-big-july-4-celebration/4142934/"
+source_url: 'https://www.nbcwashington.com/news/president-trump-politics/trump-blames-vandals-for-damaged-grass-in-the-same-spot-where-he-held-his-big-july-4-celebration/4142934/'
 ---
 <article>
   <header class="ncg-header">

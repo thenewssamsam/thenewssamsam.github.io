@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Virginia State University Shooting: What a Psychology Lens Reveals About Campus Violence"
+title: 'Virginia State University Shooting: What a Psychology Lens Reveals About Campus Violence'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.bbc.com/news/articles/c0l5583903yo"
+source_url: 'https://www.bbc.com/news/articles/c0l5583903yo'
 ---
 <article>
 <style>

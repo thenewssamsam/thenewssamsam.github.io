@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Hayden Panettiere Dead at 36: What Psychology Reveals About the Hidden Battles of Child Stars"
+title: 'Hayden Panettiere Dead at 36: What Psychology Reveals About the Hidden Battles of Child Stars'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.cnn.com/2026/08/16/entertainment/hayden-panettiere-dead-hnk"
+source_url: 'https://www.cnn.com/2026/08/16/entertainment/hayden-panettiere-dead-hnk'
 ---
 <article>
   <header>

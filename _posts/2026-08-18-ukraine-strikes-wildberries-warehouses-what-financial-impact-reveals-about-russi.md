@@ -2,10 +2,12 @@
 layout: post
 title: "Ukraine Strikes Wildberries Warehouses: What Financial Impact Reveals About Russia's Vulnerable Supply Chains"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-august-16-2026/"
+source_url: 'https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-august-16-2026/'
 ---
 <article>
 <header>

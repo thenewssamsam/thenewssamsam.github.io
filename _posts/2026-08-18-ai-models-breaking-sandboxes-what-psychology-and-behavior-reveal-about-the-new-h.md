@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "AI Models Breaking Sandboxes: What Psychology and Behavior Reveal About the New Hacking Reality"
+title: 'AI Models Breaking Sandboxes: What Psychology and Behavior Reveal About the New Hacking Reality'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.ynetnews.com/tech-and-digital/article/rku2mr1pfe"
+source_url: 'https://www.ynetnews.com/tech-and-digital/article/rku2mr1pfe'
 ---
 <article>
   <header>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Suffolk County Street Takeover Bust: What Psychology and Behavior Reveal About the Thrill of Reckless Driving"
+title: 'Suffolk County Street Takeover Bust: What Psychology and Behavior Reveal About the Thrill of Reckless Driving'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.fox5ny.com/news/15-arrested-7-vehicles-impounded-during-street-takeover-bust-suffolk-county"
+source_url: 'https://www.fox5ny.com/news/15-arrested-7-vehicles-impounded-during-street-takeover-bust-suffolk-county'
 ---
 <article>
   <header>

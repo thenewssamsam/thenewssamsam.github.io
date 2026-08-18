@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Tragedy on the M3: What the Hungarian Bus Crash Reveals About Human Limits"
+title: 'Tragedy on the M3: What the Hungarian Bus Crash Reveals About Human Limits'
 date: 2026-08-17
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.euronews.com/my-europe/2026/08/16/at-least-12-people-killed-in-a-polish-tourist-bus-crash-in-hungary"
+source_url: 'https://www.euronews.com/my-europe/2026/08/16/at-least-12-people-killed-in-a-polish-tourist-bus-crash-in-hungary'
 ---
 <article>
 <header>

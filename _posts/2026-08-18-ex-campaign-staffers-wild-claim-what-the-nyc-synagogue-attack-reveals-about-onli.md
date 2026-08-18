@@ -2,10 +2,12 @@
 layout: post
 title: "Ex-Campaign Staffer's Wild Claim: What the NYC Synagogue Attack Reveals About Online Rumors"
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://nypost.com/2026/08/16/us-news/ex-mamdani-campaign-staffer-makes-outrageous-claim-about-hateful-nyc-synagogue-attack-where-attacker-yelled-f-k-the-jews/"
+source_url: 'https://nypost.com/2026/08/16/us-news/ex-mamdani-campaign-staffer-makes-outrageous-claim-about-hateful-nyc-synagogue-attack-where-attacker-yelled-f-k-the-jews/'
 ---
 <article>
   <header>

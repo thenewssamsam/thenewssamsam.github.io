@@ -2,10 +2,12 @@
 layout: post
 title: "Tokyo's Yasukuni Shrine Controversy: What a Historical Parallel Reveals About Unresolved Wartime Grievances"
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities"
+source_url: 'https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-shrine-linked-to-japans-wartime-atrocities'
 ---
 <article>
 <header>

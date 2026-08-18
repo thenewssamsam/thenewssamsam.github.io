@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Scottie Scheffler Wins FedEx St. Jude Championship: What Financial Impact and Prize Payouts Reveal About Modern Golf"
+title: 'Scottie Scheffler Wins FedEx St. Jude Championship: What Financial Impact and Prize Payouts Reveal About Modern Golf'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://sports.yahoo.com/golf/article/fedex-st-jude-championship-purse-payouts-how-much-did-scottie-scheffler-earn-for-his-win-at-tpc-southwind-214959843.html"
+source_url: 'https://sports.yahoo.com/golf/article/fedex-st-jude-championship-purse-payouts-how-much-did-scottie-scheffler-earn-for-his-win-at-tpc-southwind-214959843.html'
 ---
 <article>
 <header>

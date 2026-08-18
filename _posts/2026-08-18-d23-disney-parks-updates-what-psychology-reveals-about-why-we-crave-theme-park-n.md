@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "D23 Disney Parks Updates: What Psychology Reveals About Why We Crave Theme Park Nostalgia"
+title: 'D23 Disney Parks Updates: What Psychology Reveals About Why We Crave Theme Park Nostalgia'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://gizmodo.com/the-5-most-exciting-disney-parks-updates-from-d23-2000799079"
+source_url: 'https://gizmodo.com/the-5-most-exciting-disney-parks-updates-from-d23-2000799079'
 ---
 <article>
 <header>

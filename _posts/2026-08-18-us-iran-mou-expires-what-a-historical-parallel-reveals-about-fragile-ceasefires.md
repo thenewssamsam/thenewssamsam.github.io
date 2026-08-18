@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "US-Iran MoU Expires: What a Historical Parallel Reveals About Fragile Ceasefires"
+title: 'US-Iran MoU Expires: What a Historical Parallel Reveals About Fragile Ceasefires'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart"
+source_url: 'https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart'
 ---
 <article>
 <header>

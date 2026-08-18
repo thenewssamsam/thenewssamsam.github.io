@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Jason Arday Tragedy: What Psychology Reveals About the Cost of Online Bloodsports"
+title: 'The Jason Arday Tragedy: What Psychology Reveals About the Cost of Online Bloodsports'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.bbc.com/news/articles/cwymmp30711o"
+source_url: 'https://www.bbc.com/news/articles/cwymmp30711o'
 ---
 <article>
   <header>

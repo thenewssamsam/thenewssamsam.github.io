@@ -2,10 +2,12 @@
 layout: post
 title: "Peter Thiel Buying a Stake in Vista Energy: What Financial Impact Reveals About Argentina's Shale Boom"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://qz.com/peter-thiel-thiel-macro-vista-energy-argentina-stake-081726"
+source_url: 'https://qz.com/peter-thiel-thiel-macro-vista-energy-argentina-stake-081726'
 ---
 <article>
 <style>

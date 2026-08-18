@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Donald Trump Fumes at CNN Reporter: What the Psychology of Public Confrontation Reveals"
+title: 'Donald Trump Fumes at CNN Reporter: What the Psychology of Public Confrontation Reveals'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://deadline.com/2026/08/trump-yells-at-cnn-reporter-north-korea-1237043330/"
+source_url: 'https://deadline.com/2026/08/trump-yells-at-cnn-reporter-north-korea-1237043330/'
 ---
 
 <article>

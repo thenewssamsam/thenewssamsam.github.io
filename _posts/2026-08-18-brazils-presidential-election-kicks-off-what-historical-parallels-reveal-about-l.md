@@ -2,10 +2,12 @@
 layout: post
 title: "Brazil's Presidential Election Kicks Off: What Historical Parallels Reveal About Lula and Flávio Bolsonaro"
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://apnews.com/article/brazil-lula-flavio-bolsonaro-campaign-opens-8f4ad67b107cb05736f450f67198b190"
+source_url: 'https://apnews.com/article/brazil-lula-flavio-bolsonaro-campaign-opens-8f4ad67b107cb05736f450f67198b190'
 ---
 <article>
 <header>

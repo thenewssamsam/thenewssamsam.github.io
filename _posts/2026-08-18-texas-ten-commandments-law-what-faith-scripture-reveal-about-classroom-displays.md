@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Texas Ten Commandments Law: What Faith & Scripture Reveal About Classroom Displays"
+title: 'Texas Ten Commandments Law: What Faith & Scripture Reveal About Classroom Displays'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.scotusblog.com/2026/08/texas-families-ask-supreme-court-to-take-up-challenge-to-ten-commandments-in-schools/"
+source_url: 'https://www.scotusblog.com/2026/08/texas-families-ask-supreme-court-to-take-up-challenge-to-ten-commandments-in-schools/'
 ---
 
 <article>

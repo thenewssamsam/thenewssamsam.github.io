@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trump Cuts US-South Korea Drills: What Historical Parallels Reveal About Alliances and Appeasement"
+title: 'Trump Cuts US-South Korea Drills: What Historical Parallels Reveal About Alliances and Appeasement'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.theguardian.com/us-news/2026/aug/17/first-thing-trump-cuts-us-south-korea-military-drills-relationship-kim-jong-un"
+source_url: 'https://www.theguardian.com/us-news/2026/aug/17/first-thing-trump-cuts-us-south-korea-military-drills-relationship-kim-jong-un'
 ---
 <article>
   <header>

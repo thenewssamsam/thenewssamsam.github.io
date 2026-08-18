@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Iran-U.S. Deadlock: A Historical Parallel on the Perils of Attrition"
+title: 'The Iran-U.S. Deadlock: A Historical Parallel on the Perils of Attrition'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://apnews.com/article/iran-us-war-diplomacy-deal-deadline-nuclear-258e9c556fc861c05ccf6ed2b38515d6"
+source_url: 'https://apnews.com/article/iran-us-war-diplomacy-deal-deadline-nuclear-258e9c556fc861c05ccf6ed2b38515d6'
 ---
 
 <article>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Jon Ossoff Criticizes Trump: What a Historical Parallel Reveals About Wartime Priorities"
+title: 'Jon Ossoff Criticizes Trump: What a Historical Parallel Reveals About Wartime Priorities'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.independent.co.uk/bulletin/news/trump-jon-ossoff-iran-natalie-harp-golf-b3034218.html"
+source_url: 'https://www.independent.co.uk/bulletin/news/trump-jon-ossoff-iran-natalie-harp-golf-b3034218.html'
 ---
 <article>
 <header>

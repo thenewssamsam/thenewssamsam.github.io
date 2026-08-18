@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "China Investment Slump Deepens: What Financial Impact Reveals About Global Markets"
+title: 'China Investment Slump Deepens: What Financial Impact Reveals About Global Markets'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.ft.com/content/09a8a200-e572-486e-9bff-1f57933aebfc?syn-25a6b1a6=1"
+source_url: 'https://www.ft.com/content/09a8a200-e572-486e-9bff-1f57933aebfc?syn-25a6b1a6=1'
 ---
 <article>
   <header class="ncg-header">

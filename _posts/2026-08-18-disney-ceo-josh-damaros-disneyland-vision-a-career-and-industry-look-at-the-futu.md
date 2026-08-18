@@ -2,10 +2,12 @@
 layout: post
 title: "Disney CEO Josh D'Amaro's Disneyland Vision: A Career and Industry Look at the Future of Theme Parks"
 date: 2026-08-18
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://www.ocregister.com/2026/08/16/disney-ceo-josh-damaro-lays-out-vision-for-disneyland/"
+source_url: 'https://www.ocregister.com/2026/08/16/disney-ceo-josh-damaro-lays-out-vision-for-disneyland/'
 ---
 <article>
   <header class="ncg-header">

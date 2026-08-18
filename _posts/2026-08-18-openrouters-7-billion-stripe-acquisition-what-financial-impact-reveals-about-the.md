@@ -2,10 +2,12 @@
 layout: post
 title: "OpenRouter's $7 Billion Stripe Acquisition: What Financial Impact Reveals About the AI Token Economy"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://eu.36kr.com/en/p/3943273131342979"
+source_url: 'https://eu.36kr.com/en/p/3943273131342979'
 ---
 <article>
   <header>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trump Demands Iran Surrender and Threatens Oman: A Historical Parallel on Imperial Overreach and Chokepoints"
+title: 'Trump Demands Iran Surrender and Threatens Oman: A Historical Parallel on Imperial Overreach and Chokepoints'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires"
+source_url: 'https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires'
 ---
 
 <article>

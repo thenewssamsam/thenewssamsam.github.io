@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Lexington Kentucky Mass Shooting at Charles Young Park: What Faith and Scripture Reveal About Community Trauma"
+title: 'Lexington Kentucky Mass Shooting at Charles Young Park: What Faith and Scripture Reveal About Community Trauma'
 date: 2026-08-18
-categories: [news]
-tags: [faith]
+categories:
+  - news
+tags:
+  - faith
 author: Sam
-source_url: "https://www.usatoday.com/story/news/nation/2026/08/17/lexington-kentucky-shooting-charles-young-park/91333526007/"
+source_url: 'https://www.usatoday.com/story/news/nation/2026/08/17/lexington-kentucky-shooting-charles-young-park/91333526007/'
 ---
 <article>
 <header>

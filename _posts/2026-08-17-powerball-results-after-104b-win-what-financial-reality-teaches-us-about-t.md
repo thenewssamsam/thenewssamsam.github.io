@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Powerball Results After $1.04B Win: What Financial Reality Teaches Us About t..."
+title: 'Powerball Results After $1.04B Win: What Financial Reality Teaches Us About t'
 date: 2026-08-17
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.usatoday.com/story/money/lottery/2026/08/15/powerball-winning-numbers-august-15-2026/91312814007/"
+source_url: 'https://www.usatoday.com/story/money/lottery/2026/08/15/powerball-winning-numbers-august-15-2026/91312814007/'
 ---
 <article>
 <header class="ncg-header">

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Rebel Creamery Bankruptcy: What a $23.8M Lawsuit Reveals About Business Packaging"
+title: 'Rebel Creamery Bankruptcy: What a $23.8M Lawsuit Reveals About Business Packaging'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.foxbusiness.com/economy/maker-ice-cream-sold-grocery-stores-nationwide-files-bankruptcy-appeals-judgment"
+source_url: 'https://www.foxbusiness.com/economy/maker-ice-cream-sold-grocery-stores-nationwide-files-bankruptcy-appeals-judgment'
 ---
 <article>
 <header>

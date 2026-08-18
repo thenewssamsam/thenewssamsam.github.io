@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trump Threatens Oman Over Strait of Hormuz: What a Historical Parallel Reveals About Escalation"
+title: 'Trump Threatens Oman Over Strait of Hormuz: What a Historical Parallel Reveals About Escalation'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.cnn.com/2026/08/18/world/live-news/iran-war-trump"
+source_url: 'https://www.cnn.com/2026/08/18/world/live-news/iran-war-trump'
 ---
 
 <article>

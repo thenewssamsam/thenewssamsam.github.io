@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Amazon Is Destroying Rare Books for AI Training: What Psychology Reveals About Our Digital Blind Spot"
+title: 'Amazon Is Destroying Rare Books for AI Training: What Psychology Reveals About Our Digital Blind Spot'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://finance.yahoo.com/technology/ai/articles/amazon-once-online-bookseller-destroying-163844418.html"
+source_url: 'https://finance.yahoo.com/technology/ai/articles/amazon-once-online-bookseller-destroying-163844418.html'
 ---
 
 <article>

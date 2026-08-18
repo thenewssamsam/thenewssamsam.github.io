@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Uber Eats and Zipline Drones: What the Financial Impact Means for Delivery Economics"
+title: 'Uber Eats and Zipline Drones: What the Financial Impact Means for Delivery Economics'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://finance.yahoo.com/technology/articles/uber-adds-zipline-drones-eats-131849943.html"
+source_url: 'https://finance.yahoo.com/technology/articles/uber-adds-zipline-drones-eats-131849943.html'
 ---
 
 <article>

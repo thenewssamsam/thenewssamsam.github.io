@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Philadelphia City Hall Mask Incident: What the Psychology of Viral Stunts Reveals About Modern Public Safety"
+title: 'Philadelphia City Hall Mask Incident: What the Psychology of Viral Stunts Reveals About Modern Public Safety'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.fox29.com/news/man-creepy-mask-sought-terrorizing-people-near-city-hall"
+source_url: 'https://www.fox29.com/news/man-creepy-mask-sought-terrorizing-people-near-city-hall'
 ---
 
 <article>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "USS Lincoln Crisis: What Psychology and Human Limits Reveal About Extended Military Deployments"
+title: 'USS Lincoln Crisis: What Psychology and Human Limits Reveal About Extended Military Deployments'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.aljazeera.com/news/2026/8/17/uss-lincoln-crisis-how-it-compares-to-past-aircraft-carrier-deployments"
+source_url: 'https://www.aljazeera.com/news/2026/8/17/uss-lincoln-crisis-how-it-compares-to-past-aircraft-carrier-deployments'
 ---
 <article>
 <header>

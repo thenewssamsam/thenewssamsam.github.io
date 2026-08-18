@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Jared Bridegan Murder Trial: What Psychology Reveals About Bitter Custody Battles"
+title: 'The Jared Bridegan Murder Trial: What Psychology Reveals About Bitter Custody Battles'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.cnn.com/2026/08/17/us/jared-bridegan-mario-fernandez-saldana-murder-trial"
+source_url: 'https://www.cnn.com/2026/08/17/us/jared-bridegan-mario-fernandez-saldana-murder-trial'
 ---
 <article>
 <header>

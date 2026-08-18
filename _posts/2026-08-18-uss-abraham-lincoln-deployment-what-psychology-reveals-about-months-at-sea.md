@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "USS Abraham Lincoln Deployment: What Psychology Reveals About Months at Sea"
+title: 'USS Abraham Lincoln Deployment: What Psychology Reveals About Months at Sea'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.bbc.com/news/articles/c5y6z4krrx3o"
+source_url: 'https://www.bbc.com/news/articles/c5y6z4krrx3o'
 ---
 
 <article>

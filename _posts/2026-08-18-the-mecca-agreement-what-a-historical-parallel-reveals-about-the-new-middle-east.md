@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Mecca Agreement: What a Historical Parallel Reveals About the New Middle East Security Pact"
+title: 'The Mecca Agreement: What a Historical Parallel Reveals About the New Middle East Security Pact'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.i24news.tv/en/news/international/artc-this-is-big-trump-praises-mecca-agreement-between-saudi-arabia-turkey-and-pakistan-live-blog"
+source_url: 'https://www.i24news.tv/en/news/international/artc-this-is-big-trump-praises-mecca-agreement-between-saudi-arabia-turkey-and-pakistan-live-blog'
 ---
 <article>
   <header>

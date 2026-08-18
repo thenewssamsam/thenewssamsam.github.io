@@ -2,10 +2,12 @@
 layout: post
 title: "Micron Technology Stock Claws Back: What Financial Impact and Market Psychology Reveal About the Chip Maker's Rally"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.investors.com/research/micron-technology-stock-mu-memory-chip-dram/"
+source_url: 'https://www.investors.com/research/micron-technology-stock-mu-memory-chip-dram/'
 ---
 
 <article>

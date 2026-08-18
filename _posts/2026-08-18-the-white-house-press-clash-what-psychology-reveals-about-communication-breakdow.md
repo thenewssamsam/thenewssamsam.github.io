@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The White House-Press Clash: What Psychology Reveals About Communication Breakdown"
+title: 'The White House-Press Clash: What Psychology Reveals About Communication Breakdown'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://variety.com/2026/tv/news/trump-attacks-cnn-kristen-holmes-north-korea-dictator-1236836707/"
+source_url: 'https://variety.com/2026/tv/news/trump-attacks-cnn-kristen-holmes-north-korea-dictator-1236836707/'
 ---
 
 <article>

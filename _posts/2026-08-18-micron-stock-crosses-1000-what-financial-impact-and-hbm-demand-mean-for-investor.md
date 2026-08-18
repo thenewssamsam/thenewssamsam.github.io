@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Micron Stock Crosses $1,000: What Financial Impact and HBM Demand Mean for Investors"
+title: 'Micron Stock Crosses $1,000: What Financial Impact and HBM Demand Mean for Investors'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://finance.yahoo.com/markets/stocks/article/micron-stock-heats-up-again-crossing-1000-115304344.html"
+source_url: 'https://finance.yahoo.com/markets/stocks/article/micron-stock-heats-up-again-crossing-1000-115304344.html'
 ---
 
 <article>

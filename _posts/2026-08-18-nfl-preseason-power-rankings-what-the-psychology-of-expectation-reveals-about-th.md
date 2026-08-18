@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "NFL Preseason Power Rankings: What the Psychology of Expectation Reveals About the Rams and Bills"
+title: 'NFL Preseason Power Rankings: What the Psychology of Expectation Reveals About the Rams and Bills'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://sports.yahoo.com/articles/nfl-preseason-power-rankings-bills-114359199.html"
+source_url: 'https://sports.yahoo.com/articles/nfl-preseason-power-rankings-bills-114359199.html'
 ---
 <article>
 <header>

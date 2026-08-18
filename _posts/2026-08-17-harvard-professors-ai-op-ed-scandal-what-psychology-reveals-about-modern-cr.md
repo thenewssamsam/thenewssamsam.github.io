@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Harvard Professor’s AI Op-Ed Scandal: What Psychology Reveals About Modern Cr..."
+title: 'Harvard Professor’s AI Op-Ed Scandal: What Psychology Reveals About Modern Cr'
 date: 2026-08-17
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://nypost.com/2026/08/16/media/harvard-prof-slammed-for-using-ai-to-write-to-write-anti-trump-op-ed/"
+source_url: 'https://nypost.com/2026/08/16/media/harvard-prof-slammed-for-using-ai-to-write-to-write-anti-trump-op-ed/'
 ---
 <article>
 <header>

@@ -2,10 +2,12 @@
 layout: post
 title: "Ferrari's $40M Electric Car Auction: What Financial Impact Reveals About Luxury Branding and the EV Shift"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.bbc.com/news/articles/c77ggpgrp2do"
+source_url: 'https://www.bbc.com/news/articles/c77ggpgrp2do'
 ---
 <article>
   <header class="ncg-header">

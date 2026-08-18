@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Lindsay Clancy Murder Trial: What Psychology and Behavior Reveal About Postpartum Psychosis and the Insanity Defense"
+title: 'The Lindsay Clancy Murder Trial: What Psychology and Behavior Reveal About Postpartum Psychosis and the Insanity Defense'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.wbur.org/news/2026/08/17/prosecution-rests-murder-trial-lindsay-clancy"
+source_url: 'https://www.wbur.org/news/2026/08/17/prosecution-rests-murder-trial-lindsay-clancy'
 ---
 
 <article>

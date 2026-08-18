@@ -2,10 +2,12 @@
 layout: post
 title: "Luigi Mangione's Legal Fund Stays Open Post-Guilty Plea: What Psychology and Public Sympathy Reveal About Modern Crowdfunding"
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.tmz.com/2026/08/16/luigi-mangiones-legal-fund-allowed-to-stay-active-despite-guilty-plea/"
+source_url: 'https://www.tmz.com/2026/08/16/luigi-mangiones-legal-fund-allowed-to-stay-active-despite-guilty-plea/'
 ---
 <article>
 <style>

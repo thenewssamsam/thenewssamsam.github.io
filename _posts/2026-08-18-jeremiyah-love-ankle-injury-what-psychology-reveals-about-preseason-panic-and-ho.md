@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Jeremiyah Love Ankle Injury: What Psychology Reveals About Preseason Panic and Hope"
+title: 'Jeremiyah Love Ankle Injury: What Psychology Reveals About Preseason Panic and Hope'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.nbcsports.com/fantasy/football/player-news/2026-08-16/cards-still-hopeful-love-ankle-plays-week-1"
+source_url: 'https://www.nbcsports.com/fantasy/football/player-news/2026-08-16/cards-still-hopeful-love-ankle-plays-week-1'
 ---
 <article>
 <style>

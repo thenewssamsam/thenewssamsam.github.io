@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Morocco Ceuta Border Arrests: What the Psychology of Desperation and Groupthink Explains About the Crisis"
+title: 'Morocco Ceuta Border Arrests: What the Psychology of Desperation and Groupthink Explains About the Crisis'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://apnews.com/article/morocco-spain-ceuta-migration-657264597941c8caeb7f36973cd31739"
+source_url: 'https://apnews.com/article/morocco-spain-ceuta-migration-657264597941c8caeb7f36973cd31739'
 ---
 <article>
 <header>

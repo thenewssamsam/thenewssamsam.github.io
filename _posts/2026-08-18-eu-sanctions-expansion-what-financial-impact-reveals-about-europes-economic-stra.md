@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "EU Sanctions Expansion: What Financial Impact Reveals About Europe’s Economic Strategy"
+title: 'EU Sanctions Expansion: What Financial Impact Reveals About Europe’s Economic Strategy'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.kyivpost.com/post/82485"
+source_url: 'https://www.kyivpost.com/post/82485'
 ---
 <article>
   <style>

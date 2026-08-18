@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Lake Kariba Ferry Disaster: What Faith and Scripture Reveal About Collective Grief and Human Fragility"
+title: 'Lake Kariba Ferry Disaster: What Faith and Scripture Reveal About Collective Grief and Human Fragility'
 date: 2026-08-18
-categories: [news]
-tags: [faith]
+categories:
+  - news
+tags:
+  - faith
 author: Sam
-source_url: "https://people.com/18-children-among-80-people-killed-after-overcrowded-ferry-boat-capsized-lake-kariba-zimbabwe-12060983"
+source_url: 'https://people.com/18-children-among-80-people-killed-after-overcrowded-ferry-boat-capsized-lake-kariba-zimbabwe-12060983'
 ---
 <article class="ncg-article-container">
   <header class="ncg-article-header">

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Indiana Flooding 2025: What a Psychology and Behavior Lens Reveals About Disa..."
+title: 'Indiana Flooding 2025: What a Psychology and Behavior Lens Reveals About Disa'
 date: 2026-08-17
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://apnews.com/article/flooding-indiana-severe-weather-aa3624a3ff1a0d241f62ec980a23e856"
+source_url: 'https://apnews.com/article/flooding-indiana-severe-weather-aa3624a3ff1a0d241f62ec980a23e856'
 ---
 <article>
   <header class="ncg-header">

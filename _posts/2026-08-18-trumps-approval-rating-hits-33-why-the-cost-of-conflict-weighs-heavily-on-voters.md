@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trump’s Approval Rating Hits 33%: Why the Cost of Conflict Weighs Heavily on Voters"
+title: 'Trump’s Approval Rating Hits 33%: Why the Cost of Conflict Weighs Heavily on Voters'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low"
+source_url: 'https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low'
 ---
 
 <article>

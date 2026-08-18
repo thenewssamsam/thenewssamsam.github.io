@@ -2,10 +2,12 @@
 layout: post
 title: "John Larson's Primary Defeat: What It Means for Social Security's 2032 Crisis"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.cnbc.com/2026/08/16/social-security-john-larson-connecticut-primary.html"
+source_url: 'https://www.cnbc.com/2026/08/16/social-security-john-larson-connecticut-primary.html'
 ---
 <article>
   <header>

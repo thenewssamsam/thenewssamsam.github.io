@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Andy Burnham and UK Cabinet Ministers Targeted: What Psychology and Behavior Reveal About Modern Digital Scams"
+title: 'Andy Burnham and UK Cabinet Ministers Targeted: What Psychology and Behavior Reveal About Modern Digital Scams'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.theguardian.com/politics/2026/aug/17/andy-burnham-exchanged-messages-individual-impersonating-trump-chief-of-staff-susie-wiles"
+source_url: 'https://www.theguardian.com/politics/2026/aug/17/andy-burnham-exchanged-messages-individual-impersonating-trump-chief-of-staff-susie-wiles'
 ---
 <article>
 <header>

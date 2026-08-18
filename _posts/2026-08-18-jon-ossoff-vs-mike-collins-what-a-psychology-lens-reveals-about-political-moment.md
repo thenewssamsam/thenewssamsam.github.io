@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Jon Ossoff vs. Mike Collins: What a Psychology Lens Reveals About Political Momentum"
+title: 'Jon Ossoff vs. Mike Collins: What a Psychology Lens Reveals About Political Momentum'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.ajc.com/politics/2026/08/jon-ossoff-wants-more-than-a-win-against-mike-collins/"
+source_url: 'https://www.ajc.com/politics/2026/08/jon-ossoff-wants-more-than-a-win-against-mike-collins/'
 ---
 <article>
 <header>

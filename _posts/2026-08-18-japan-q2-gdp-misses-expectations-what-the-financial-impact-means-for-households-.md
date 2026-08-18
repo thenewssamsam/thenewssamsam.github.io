@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Japan Q2 GDP Misses Expectations: What the Financial Impact Means for Households and Markets"
+title: 'Japan Q2 GDP Misses Expectations: What the Financial Impact Means for Households and Markets'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.cnbc.com/2026/08/17/japan-gdp-misses-estimates-trade-exports-yen-nikkei.html"
+source_url: 'https://www.cnbc.com/2026/08/17/japan-gdp-misses-estimates-trade-exports-yen-nikkei.html'
 ---
 <article>
 <header>

@@ -2,10 +2,12 @@
 layout: post
 title: "Ukraine Strikes Wildberries: What Financial Impact Reveals About Russia's E-Commerce Choke Point"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.dw.com/en/ukraine-attacks-wildberries-russias-biggest-online-market/a-78384605"
+source_url: 'https://www.dw.com/en/ukraine-attacks-wildberries-russias-biggest-online-market/a-78384605'
 ---
 <article>
   <header>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Stripe Acquiring OpenRouter for $7B+: What a Career & Industry Lens Reveals A..."
+title: 'Stripe Acquiring OpenRouter for $7B+: What a Career & Industry Lens Reveals A'
 date: 2026-08-17
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
+source_url: 'https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/'
 ---
 <article>
   <header class="ncg-header">

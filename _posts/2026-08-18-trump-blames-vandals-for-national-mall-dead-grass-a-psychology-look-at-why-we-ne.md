@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trump Blames Vandals for National Mall Dead Grass: A Psychology Look at Why We Need Someone to Blame"
+title: 'Trump Blames Vandals for National Mall Dead Grass: A Psychology Look at Why We Need Someone to Blame'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.foxnews.com/politics/trump-blames-vandals-dead-grass-national-mall-4th-july-celebration"
+source_url: 'https://www.foxnews.com/politics/trump-blames-vandals-dead-grass-national-mall-4th-july-celebration'
 ---
 <article>
 <header>

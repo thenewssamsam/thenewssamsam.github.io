@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Long Island Rail Road East River Tunnel Reopening: What a Century-Old Infrastructure Project Reveals About Modern Resilience"
+title: 'Long Island Rail Road East River Tunnel Reopening: What a Century-Old Infrastructure Project Reveals About Modern Resilience'
 date: 2026-08-18
-categories: [news]
-tags: [life]
+categories:
+  - news
+tags:
+  - life
 author: Sam
-source_url: "https://www.newsday.com/long-island/transportation/east-river-tunnel-long-island-rail-road-n3gu4tav"
+source_url: 'https://www.newsday.com/long-island/transportation/east-river-tunnel-long-island-rail-road-n3gu4tav'
 ---
 
 <article>

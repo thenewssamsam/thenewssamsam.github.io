@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trump Cuts US-South Korea Military Drills: What Historical Parallels Reveal About Alliance Shifts"
+title: 'Trump Cuts US-South Korea Military Drills: What Historical Parallels Reveal About Alliance Shifts'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.theguardian.com/us-news/2026/aug/17/first-thing-trump-cuts-us-south-korea-military-drills-relationship-kim-jong-un"
+source_url: 'https://www.theguardian.com/us-news/2026/aug/17/first-thing-trump-cuts-us-south-korea-military-drills-relationship-kim-jong-un'
 ---
 <article>
   <header class="ncg-header">

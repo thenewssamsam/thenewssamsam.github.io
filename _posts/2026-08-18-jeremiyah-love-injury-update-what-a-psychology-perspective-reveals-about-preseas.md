@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Jeremiyah Love Injury Update: What a Psychology Perspective Reveals About Preseason Panic"
+title: 'Jeremiyah Love Injury Update: What a Psychology Perspective Reveals About Preseason Panic'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.usatoday.com/story/sports/nfl/cardinals/2026/08/17/jeremiyah-love-inury-update-high-ankle-sprain/91333917007/"
+source_url: 'https://www.usatoday.com/story/sports/nfl/cardinals/2026/08/17/jeremiyah-love-inury-update-high-ankle-sprain/91333917007/'
 ---
 <article>
   <style>

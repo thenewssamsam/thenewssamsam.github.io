@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Centennial Mills Demolition: What the Pearl District Crisis Reveals About Local & Community Impact"
+title: 'Centennial Mills Demolition: What the Pearl District Crisis Reveals About Local & Community Impact'
 date: 2026-08-18
-categories: [news]
-tags: [local]
+categories:
+  - news
+tags:
+  - local
 author: Sam
-source_url: "https://katu.com/news/local/demolition-day-nears-as-centennial-mills-fire-takes-toll-on-portlands-pearl-district-oregon-monday-august-northwest-naito-parkway-business-finance-economy-small-biz-owner-stores-warehouse-abandoned-demolition"
+source_url: 'https://katu.com/news/local/demolition-day-nears-as-centennial-mills-fire-takes-toll-on-portlands-pearl-district-oregon-monday-august-northwest-naito-parkway-business-finance-economy-small-biz-owner-stores-warehouse-abandoned-demolition'
 ---
 <article>
   <header class="ncg-header">

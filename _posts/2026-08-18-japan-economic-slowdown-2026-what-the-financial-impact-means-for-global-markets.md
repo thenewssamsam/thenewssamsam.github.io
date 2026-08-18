@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Japan Economic Slowdown 2026: What the Financial Impact Means for Global Markets"
+title: 'Japan Economic Slowdown 2026: What the Financial Impact Means for Global Markets'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts"
+source_url: 'https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts'
 ---
 <article>
 <header class="njp-header">

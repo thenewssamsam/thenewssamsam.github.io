@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Lindsay Clancy Trial Updates: What the Psychology of Postpartum Psychosis Reveals About the Duxbury Case"
+title: 'Lindsay Clancy Trial Updates: What the Psychology of Postpartum Psychosis Reveals About the Duxbury Case'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.bostonglobe.com/2026/08/17/metro/lindsay-clancy-trial-live-updates/"
+source_url: 'https://www.bostonglobe.com/2026/08/17/metro/lindsay-clancy-trial-live-updates/'
 ---
 
 <article>

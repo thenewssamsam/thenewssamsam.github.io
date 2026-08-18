@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Amazon Is Destroying Rare Books for AI Training: What the Psychology of Progress Reveals About Our Obsession with Scale"
+title: 'Amazon Is Destroying Rare Books for AI Training: What the Psychology of Progress Reveals About Our Obsession with Scale'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/"
+source_url: 'https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/'
 ---
 
 <article>

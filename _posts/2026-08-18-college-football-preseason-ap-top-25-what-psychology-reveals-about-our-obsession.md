@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "College Football Preseason AP Top 25: What Psychology Reveals About Our Obsession With Early Rankings"
+title: 'College Football Preseason AP Top 25: What Psychology Reveals About Our Obsession With Early Rankings'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.cbssports.com/college-football/news/top-25-preseason-rankings-big-ten/"
+source_url: 'https://www.cbssports.com/college-football/news/top-25-preseason-rankings-big-ten/'
 ---
 <article>
   <header>

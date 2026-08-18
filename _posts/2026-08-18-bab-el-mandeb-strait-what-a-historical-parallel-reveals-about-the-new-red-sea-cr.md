@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Bab el-Mandeb Strait: What a Historical Parallel Reveals About the New Red Sea Crisis"
+title: 'Bab el-Mandeb Strait: What a Historical Parallel Reveals About the New Red Sea Crisis'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.foxnews.com/world/bab-el-mandeb-strait-faces-growing-threat-houthi-attacks-raise-fears-second-hormuz"
+source_url: 'https://www.foxnews.com/world/bab-el-mandeb-strait-faces-growing-threat-houthi-attacks-raise-fears-second-hormuz'
 ---
 <article>
   <header>

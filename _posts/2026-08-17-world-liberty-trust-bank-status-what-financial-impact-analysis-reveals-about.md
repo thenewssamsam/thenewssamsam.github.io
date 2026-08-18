@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "World Liberty Trust Bank Status: What Financial Impact Analysis Reveals About..."
+title: 'World Liberty Trust Bank Status: What Financial Impact Analysis Reveals About'
 date: 2026-08-17
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://abcnews.com/Business/trump-linked-crypto-venture-world-liberty-trust-granted/story?id=135668756"
+source_url: 'https://abcnews.com/Business/trump-linked-crypto-venture-world-liberty-trust-granted/story?id=135668756'
 ---
 <article>
   <header class="ncg-header">

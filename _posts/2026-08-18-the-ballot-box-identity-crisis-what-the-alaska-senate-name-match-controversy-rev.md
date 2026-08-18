@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Ballot Box Identity Crisis: What the Alaska Senate Name-Match Controversy Reveals About Voter Psychology"
+title: 'The Ballot Box Identity Crisis: What the Alaska Senate Name-Match Controversy Reveals About Voter Psychology'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://abcnews.com/Politics/trump-accuses-democrats-trickery-candidate-same-alaska-sen/story?id=135693218"
+source_url: 'https://abcnews.com/Politics/trump-accuses-democrats-trickery-candidate-same-alaska-sen/story?id=135693218'
 ---
 <article>
   <header>

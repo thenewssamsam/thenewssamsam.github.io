@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Caitlin Clark and Indiana Fever Beat Atlanta Dream: What Psychology Reveals About Competitive Burnout and Elite Rivalries"
+title: 'Caitlin Clark and Indiana Fever Beat Atlanta Dream: What Psychology Reveals About Competitive Burnout and Elite Rivalries'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://bleacherreport.com/articles/25472870-caitlin-clark-angel-reese-sophie-cunninghams-final-box-score-stats-highlights-fever-top-dream"
+source_url: 'https://bleacherreport.com/articles/25472870-caitlin-clark-angel-reese-sophie-cunninghams-final-box-score-stats-highlights-fever-top-dream'
 ---
 <article>
 <header>

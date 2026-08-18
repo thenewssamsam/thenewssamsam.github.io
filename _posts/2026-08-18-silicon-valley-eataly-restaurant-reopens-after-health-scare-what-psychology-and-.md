@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Silicon Valley Eataly Restaurant Reopens After Health Scare: What Psychology and Public Trust Reveal About High-End Dining"
+title: 'Silicon Valley Eataly Restaurant Reopens After Health Scare: What Psychology and Public Trust Reveal About High-End Dining'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.sfgate.com/food/article/eataly-health-inspection-22390392.php"
+source_url: 'https://www.sfgate.com/food/article/eataly-health-inspection-22390392.php'
 ---
 <article>
 <header>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Indiana Flooding: A Parenting Perspective on Teaching Resilience"
+title: 'Indiana Flooding: A Parenting Perspective on Teaching Resilience'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.foxweather.com/weather-news/watch-drone-video-staggering-indiana-flood-destruction"
+source_url: 'https://www.foxweather.com/weather-news/watch-drone-video-staggering-indiana-flood-destruction'
 ---
 
 <article>

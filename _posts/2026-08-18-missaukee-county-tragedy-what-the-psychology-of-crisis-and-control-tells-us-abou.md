@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Missaukee County Tragedy: What the Psychology of Crisis and Control Tells Us About Rural Violence"
+title: 'Missaukee County Tragedy: What the Psychology of Crisis and Control Tells Us About Rural Violence'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.fox2detroit.com/news/missaukee-county-cadillac-mi-deaths-what-we-know"
+source_url: 'https://www.fox2detroit.com/news/missaukee-county-cadillac-mi-deaths-what-we-know'
 ---
 <article>
   <header class="ncg-header">

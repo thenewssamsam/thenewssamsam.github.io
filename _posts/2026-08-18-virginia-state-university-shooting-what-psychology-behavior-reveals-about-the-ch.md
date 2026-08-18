@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Virginia State University Shooting: What Psychology & Behavior Reveals About the Chaos at VSU"
+title: 'Virginia State University Shooting: What Psychology & Behavior Reveals About the Chaos at VSU'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.nbcwashington.com/news/local/police-looking-for-additional-people-who-fired-guns-in-vsu-shooting/4142835/"
+source_url: 'https://www.nbcwashington.com/news/local/police-looking-for-additional-people-who-fired-guns-in-vsu-shooting/4142835/'
 ---
 <article>
 <header>

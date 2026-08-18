@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Indianapolis Flooding 2026: What History Teaches Us About Rising Rivers and Resilience"
+title: 'Indianapolis Flooding 2026: What History Teaches Us About Rising Rivers and Resilience'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.indystar.com/story/weather/indianapolis/2026/08/16/live-updates-relief-efforts-continue-after-days-of-rain-flooding--live/91324284007/"
+source_url: 'https://www.indystar.com/story/weather/indianapolis/2026/08/16/live-updates-relief-efforts-continue-after-days-of-rain-flooding--live/91324284007/'
 ---
 <article>
 <header class="ncg-header">

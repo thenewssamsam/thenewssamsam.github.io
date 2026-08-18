@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Meta Child Safety Trial Begins: What Psychology Reveals About Social Media De..."
+title: 'Meta Child Safety Trial Begins: What Psychology Reveals About Social Media De'
 date: 2026-08-17
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://finance.yahoo.com/technology/article/meta-to-face-massive-social-media-addiction-trial-tuesday-135141870.html"
+source_url: 'https://finance.yahoo.com/technology/article/meta-to-face-massive-social-media-addiction-trial-tuesday-135141870.html'
 ---
 <article>
   <style>

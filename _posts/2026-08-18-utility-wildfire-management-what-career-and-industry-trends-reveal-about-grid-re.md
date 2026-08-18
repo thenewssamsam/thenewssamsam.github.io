@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Utility Wildfire Management: What Career and Industry Trends Reveal About Grid Resilience"
+title: 'Utility Wildfire Management: What Career and Industry Trends Reveal About Grid Resilience'
 date: 2026-08-18
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://www.indexbox.io/blog/redefining-utility-reliability-and-resilience-a-centralized-approach/"
+source_url: 'https://www.indexbox.io/blog/redefining-utility-reliability-and-resilience-a-centralized-approach/'
 ---
 
 <article>

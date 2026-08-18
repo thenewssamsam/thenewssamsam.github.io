@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Twin Fires Near Athens Leave Two Dead: What Psychology Reveals About Normalcy Bias and Disaster Preparedness"
+title: 'Twin Fires Near Athens Leave Two Dead: What Psychology Reveals About Normalcy Bias and Disaster Preparedness'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.bbc.com/news/articles/c87nnwlpe5no"
+source_url: 'https://www.bbc.com/news/articles/c87nnwlpe5no'
 ---
 <article>
   <header>

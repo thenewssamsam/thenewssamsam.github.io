@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Jamal Adams Season-Ending Knee Injury: What Psychology and Career Reality Tell Us About Resilience"
+title: 'Jamal Adams Season-Ending Knee Injury: What Psychology and Career Reality Tell Us About Resilience'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamal-adams-is-out-for-the-year-with-a-knee-injury"
+source_url: 'https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamal-adams-is-out-for-the-year-with-a-knee-injury'
 ---
 <article style="-webkit-text-size-adjust: 100%; font-family: -apple-system, 'Segoe UI', Roboto, sans-serif; color: #333333; background-color: #ffffff; line-height: 1.6; padding: 20px; max-width: 800px; margin: 0 auto;">
 <header style="margin-bottom: 24px; border-bottom: 1px solid #e5e7eb; padding-bottom: 16px;">

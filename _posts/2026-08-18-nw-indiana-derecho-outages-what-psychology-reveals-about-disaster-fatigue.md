@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "NW Indiana Derecho Outages: What Psychology Reveals About Disaster Fatigue"
+title: 'NW Indiana Derecho Outages: What Psychology Reveals About Disaster Fatigue'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.nbcchicago.com/news/local/frustration-grows-as-125k-remain-without-power-in-nw-indiana-nearly-a-week-after-derecho/3976232/"
+source_url: 'https://www.nbcchicago.com/news/local/frustration-grows-as-125k-remain-without-power-in-nw-indiana-nearly-a-week-after-derecho/3976232/'
 ---
 <article>
   <header class="ncg-header">

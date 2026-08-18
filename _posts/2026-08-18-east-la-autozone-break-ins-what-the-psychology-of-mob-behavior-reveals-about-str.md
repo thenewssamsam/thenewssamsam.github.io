@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "East LA AutoZone Break-ins: What the Psychology of Mob Behavior Reveals About Street Takeovers"
+title: 'East LA AutoZone Break-ins: What the Psychology of Mob Behavior Reveals About Street Takeovers'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://abc7.com/post/los-angeles-sheriffs-department-shares-photos-27-suspects-wanted-east-la-autozone-break-ins/19690480/"
+source_url: 'https://abc7.com/post/los-angeles-sheriffs-department-shares-photos-27-suspects-wanted-east-la-autozone-break-ins/19690480/'
 ---
 <article>
 <header>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Santa Cruz Rescue: What This Viral Moment Teaches Us About Preparedness"
+title: 'The Santa Cruz Rescue: What This Viral Moment Teaches Us About Preparedness'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://apnews.com/article/trump-lifeguard-rescue-white-house-ff5632750179f2cc696f8fab23dc4bc8"
+source_url: 'https://apnews.com/article/trump-lifeguard-rescue-white-house-ff5632750179f2cc696f8fab23dc4bc8'
 ---
 
 <article>

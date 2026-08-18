@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Center City Masked Suspect: What Psychology Reveals About Urban Panic and Street Harassment"
+title: 'Center City Masked Suspect: What Psychology Reveals About Urban Panic and Street Harassment'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://6abc.com/post/masked-suspect-accused-terrorizing-women-center-city-philadelphia/19693661/"
+source_url: 'https://6abc.com/post/masked-suspect-accused-terrorizing-women-center-city-philadelphia/19693661/'
 ---
 
 <article>

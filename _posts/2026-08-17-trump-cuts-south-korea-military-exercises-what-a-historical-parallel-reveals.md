@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trump Cuts South Korea Military Exercises: What a Historical Parallel Reveals..."
+title: 'Trump Cuts South Korea Military Exercises: What a Historical Parallel Reveals'
 date: 2026-08-17
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.cnn.com/2026/08/16/middleeast/trump-south-korea-military-exercises"
+source_url: 'https://www.cnn.com/2026/08/16/middleeast/trump-south-korea-military-exercises'
 ---
 <article>
 <header>

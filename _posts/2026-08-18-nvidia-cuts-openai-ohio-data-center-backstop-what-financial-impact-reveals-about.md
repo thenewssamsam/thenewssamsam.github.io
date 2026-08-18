@@ -2,10 +2,12 @@
 layout: post
 title: "Nvidia Cuts OpenAI Ohio Data Center Backstop: What Financial Impact Reveals About AI's Real Costs"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://qz.com/nvidia-openai-ohio-data-center-backstop-081726"
+source_url: 'https://qz.com/nvidia-openai-ohio-data-center-backstop-081726'
 ---
 <article>
   <style>

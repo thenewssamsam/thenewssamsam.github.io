@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Minnesota Twins vs. Philadelphia Phillies Sweep: What a 5-0 Collapse Reveals About Life Lessons in Resilience"
+title: 'Minnesota Twins vs. Philadelphia Phillies Sweep: What a 5-0 Collapse Reveals About Life Lessons in Resilience'
 date: 2026-08-18
-categories: [news]
-tags: [life]
+categories:
+  - news
+tags:
+  - life
 author: Sam
-source_url: "https://www.startribune.com/minnesota-twins-philadelphia-phillies-game-today-score-al-wild-card-standings-alec-bohm-brooks-lee/601873398"
+source_url: 'https://www.startribune.com/minnesota-twins-philadelphia-phillies-game-today-score-al-wild-card-standings-alec-bohm-brooks-lee/601873398'
 ---
 <article>
   <header class="ncg-header">

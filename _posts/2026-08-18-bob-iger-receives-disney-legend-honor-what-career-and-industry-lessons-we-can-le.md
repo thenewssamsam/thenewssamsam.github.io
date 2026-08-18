@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Bob Iger Receives Disney Legend Honor: What Career and Industry Lessons We Can Learn From His Legacy"
+title: 'Bob Iger Receives Disney Legend Honor: What Career and Industry Lessons We Can Learn From His Legacy'
 date: 2026-08-18
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://variety.com/2026/film/news/bob-iger-robert-downey-jr-harrison-ford-d23-disney-legends-1236835731/"
+source_url: 'https://variety.com/2026/film/news/bob-iger-robert-downey-jr-harrison-ford-d23-disney-legends-1236835731/'
 ---
 <article>
   <header>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Death of Professor Jason Arday: What Psychology and Public Scrutiny Reveal About Modern Outrage Culture"
+title: 'The Death of Professor Jason Arday: What Psychology and Public Scrutiny Reveal About Modern Outrage Culture'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.cnn.com/2026/08/16/uk/arday-uk-racism-debate-intl"
+source_url: 'https://www.cnn.com/2026/08/16/uk/arday-uk-racism-debate-intl'
 ---
 <article>
   <header>

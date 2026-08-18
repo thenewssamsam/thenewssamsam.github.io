@@ -2,10 +2,12 @@
 layout: post
 title: "Elon Musk and Jensen Huang's New Partnership: What Career and Industry Trends Reveal About the $500B AI Buildout"
 date: 2026-08-18
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://247wallst.com/investing/2026/08/16/elon-musk-and-jensen-huangs-new-partnership-could-create-the-next-era-of-technology/"
+source_url: 'https://247wallst.com/investing/2026/08/16/elon-musk-and-jensen-huangs-new-partnership-could-create-the-next-era-of-technology/'
 ---
 <article>
   <header>

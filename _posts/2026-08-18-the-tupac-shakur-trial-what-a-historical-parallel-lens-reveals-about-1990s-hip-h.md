@@ -2,10 +2,12 @@
 layout: post
 title: "The Tupac Shakur Trial: What a Historical Parallel Lens Reveals About 1990s Hip-Hop's Tragedy"
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.cnn.com/2026/08/16/us/key-figures-tupac-shakur-trial"
+source_url: 'https://www.cnn.com/2026/08/16/us/key-figures-tupac-shakur-trial'
 ---
 <article>
 <header>

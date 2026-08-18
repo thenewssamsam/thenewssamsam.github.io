@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trump in South Carolina: What a Myrtle Beach Rally Reveals About Primary Politics"
+title: 'Trump in South Carolina: What a Myrtle Beach Rally Reveals About Primary Politics'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.wistv.com/2026/08/17/trump-expected-sc-visit-potential-campaign-rally/"
+source_url: 'https://www.wistv.com/2026/08/17/trump-expected-sc-visit-potential-campaign-rally/'
 ---
 
 <article>

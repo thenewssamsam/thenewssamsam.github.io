@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Jon Ossoff’s Critique of Trump’s Iran War: A Psychological Look at Political Trust"
+title: 'Jon Ossoff’s Critique of Trump’s Iran War: A Psychological Look at Political Trust'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.theguardian.com/us-news/2026/aug/17/jon-ossoff-trump-iran-war-criticism"
+source_url: 'https://www.theguardian.com/us-news/2026/aug/17/jon-ossoff-trump-iran-war-criticism'
 ---
 
 <article>

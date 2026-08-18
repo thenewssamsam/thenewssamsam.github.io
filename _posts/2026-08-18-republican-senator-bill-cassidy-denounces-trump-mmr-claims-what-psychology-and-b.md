@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Republican Senator Bill Cassidy Denounces Trump MMR Claims: What Psychology and Behavior Reveal About Vaccine Friction"
+title: 'Republican Senator Bill Cassidy Denounces Trump MMR Claims: What Psychology and Behavior Reveal About Vaccine Friction'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.theguardian.com/us-news/2026/aug/16/republican-senator-bill-cassidy-denounces-trump-vaccine-claims"
+source_url: 'https://www.theguardian.com/us-news/2026/aug/16/republican-senator-bill-cassidy-denounces-trump-vaccine-claims'
 ---
 <article>
   <header>

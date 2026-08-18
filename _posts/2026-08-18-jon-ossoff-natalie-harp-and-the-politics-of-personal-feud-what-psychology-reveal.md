@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Jon Ossoff, Natalie Harp, and the Politics of Personal Feud: What Psychology Reveals About High-Stakes Washington Clashes"
+title: 'Jon Ossoff, Natalie Harp, and the Politics of Personal Feud: What Psychology Reveals About High-Stakes Washington Clashes'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.cnn.com/2026/08/17/politics/ossoff-natalie-harp-trump"
+source_url: 'https://www.cnn.com/2026/08/17/politics/ossoff-natalie-harp-trump'
 ---
 
 <article>

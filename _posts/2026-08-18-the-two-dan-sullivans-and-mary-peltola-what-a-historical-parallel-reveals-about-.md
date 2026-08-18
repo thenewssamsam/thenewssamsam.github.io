@@ -2,10 +2,12 @@
 layout: post
 title: "The Two Dan Sullivans and Mary Peltola: What a Historical Parallel Reveals About Alaska's Wild Senate Race"
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.theguardian.com/us-news/2026/aug/17/alaska-senate-dan-sullivan-mary-peltola"
+source_url: 'https://www.theguardian.com/us-news/2026/aug/17/alaska-senate-dan-sullivan-mary-peltola'
 ---
 <article>
 <header>

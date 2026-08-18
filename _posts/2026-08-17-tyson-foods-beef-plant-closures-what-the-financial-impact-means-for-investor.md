@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Tyson Foods Beef Plant Closures: What the Financial Impact Means for Investor..."
+title: 'Tyson Foods Beef Plant Closures: What the Financial Impact Means for Investor'
 date: 2026-08-17
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-tyson-foods-tsn-120831419.html"
+source_url: 'https://finance.yahoo.com/markets/stocks/articles/investors-reacting-tyson-foods-tsn-120831419.html'
 ---
 <article>
   <header class="ncg-header">

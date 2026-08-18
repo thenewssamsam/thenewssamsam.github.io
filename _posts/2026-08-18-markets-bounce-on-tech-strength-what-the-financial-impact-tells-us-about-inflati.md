@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Markets Bounce on Tech Strength: What the Financial Impact Tells Us About Inflation and Retail Earnings"
+title: 'Markets Bounce on Tech Strength: What the Financial Impact Tells Us About Inflation and Retail Earnings'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.barchart.com/story/news/3882787/stocks-set-to-open-higher-on-tech-boost-fed-minutes-and-retail-earnings-awaited"
+source_url: 'https://www.barchart.com/story/news/3882787/stocks-set-to-open-higher-on-tech-boost-fed-minutes-and-retail-earnings-awaited'
 ---
 <article>
 <header>

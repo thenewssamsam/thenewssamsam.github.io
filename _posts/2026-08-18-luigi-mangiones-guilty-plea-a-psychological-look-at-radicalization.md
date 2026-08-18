@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Luigi Mangione’s Guilty Plea: A Psychological Look at Radicalization"
+title: 'Luigi Mangione’s Guilty Plea: A Psychological Look at Radicalization'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.rollingstone.com/culture/culture-news/luigi-mangione-friends-react-to-guilty-plea-1235610199/"
+source_url: 'https://www.rollingstone.com/culture/culture-news/luigi-mangione-friends-react-to-guilty-plea-1235610199/'
 ---
 
 <article>

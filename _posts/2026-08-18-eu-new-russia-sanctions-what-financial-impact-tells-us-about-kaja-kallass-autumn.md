@@ -2,10 +2,12 @@
 layout: post
 title: "EU New Russia Sanctions: What Financial Impact Tells Us About Kaja Kallas's Autumn Plan"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.euronews.com/my-europe/2026/08/17/eu-to-propose-tougher-sanctions-on-russia-this-autumn-kaja-kallas-says"
+source_url: 'https://www.euronews.com/my-europe/2026/08/17/eu-to-propose-tougher-sanctions-on-russia-this-autumn-kaja-kallas-says'
 ---
 <article>
   <header class="ncg-header">

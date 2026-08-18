@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trump's "Flying Palace" and Aide Controversy: What Psychology Reveals About Power and Proximity"
+title: 'Trump\'s "Flying Palace" and Aide Controversy: What Psychology Reveals About Power and Proximity'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.independent.co.uk/news/world/americas/us-politics/trump-natalie-flying-palace-jon-ossoff-b3034171.html"
+source_url: 'https://www.independent.co.uk/news/world/americas/us-politics/trump-natalie-flying-palace-jon-ossoff-b3034171.html'
 ---
 <article>
   <header class="ncg-header">

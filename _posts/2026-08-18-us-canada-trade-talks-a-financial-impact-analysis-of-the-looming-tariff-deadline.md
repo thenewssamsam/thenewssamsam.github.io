@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "US-Canada Trade Talks: A Financial Impact Analysis of the Looming Tariff Deadline"
+title: 'US-Canada Trade Talks: A Financial Impact Analysis of the Looming Tariff Deadline'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.bbc.com/news/articles/crl7600rpnko"
+source_url: 'https://www.bbc.com/news/articles/crl7600rpnko'
 ---
 
 <article>

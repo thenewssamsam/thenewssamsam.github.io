@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Strait of Hormuz Tanker Traffic Slows: What Financial Impact Tells Us About O..."
+title: 'Strait of Hormuz Tanker Traffic Slows: What Financial Impact Tells Us About O'
 date: 2026-08-17
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Slows-to-a-Trickle.html"
+source_url: 'https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Slows-to-a-Trickle.html'
 ---
 <article>
 <header>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Baltimore Ravens 53-Man Roster Projection: What Career Pressure Reveals About Preseason Battles"
+title: 'Baltimore Ravens 53-Man Roster Projection: What Career Pressure Reveals About Preseason Battles'
 date: 2026-08-18
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://sports.yahoo.com/articles/ravens-53-man-roster-projection-102627821.html"
+source_url: 'https://sports.yahoo.com/articles/ravens-53-man-roster-projection-102627821.html'
 ---
 <article>
   <header class="ncg-header">

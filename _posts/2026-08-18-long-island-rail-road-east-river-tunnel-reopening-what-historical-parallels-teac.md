@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Long Island Rail Road East River Tunnel Reopening: What Historical Parallels Teach Us About Aging Infrastructure"
+title: 'Long Island Rail Road East River Tunnel Reopening: What Historical Parallels Teach Us About Aging Infrastructure'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.newsday.com/long-island/transportation/east-river-tunnel-long-island-rail-road-n3gu4tav"
+source_url: 'https://www.newsday.com/long-island/transportation/east-river-tunnel-long-island-rail-road-n3gu4tav'
 ---
 
 <article>

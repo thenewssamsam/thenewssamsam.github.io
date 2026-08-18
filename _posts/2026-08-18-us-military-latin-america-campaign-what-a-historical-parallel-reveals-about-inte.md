@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "US Military Latin America Campaign: What a Historical Parallel Reveals About Intervention"
+title: 'US Military Latin America Campaign: What a Historical Parallel Reveals About Intervention'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://apnews.com/article/trump-military-operations-latin-american-western-hemisphere-a1fccf4414e44341d3dbd54e19ae1ba4"
+source_url: 'https://apnews.com/article/trump-military-operations-latin-american-western-hemisphere-a1fccf4414e44341d3dbd54e19ae1ba4'
 ---
 <article>
   <header>

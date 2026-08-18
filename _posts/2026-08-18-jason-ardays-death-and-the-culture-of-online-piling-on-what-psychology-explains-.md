@@ -2,10 +2,12 @@
 layout: post
 title: "Jason Arday's Death and the Culture of Online Piling-On: What Psychology Explains About Public Outrage"
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.aljazeera.com/opinions/2026/8/17/jason-ardays-death-is-institutional-murder"
+source_url: 'https://www.aljazeera.com/opinions/2026/8/17/jason-ardays-death-is-institutional-murder'
 ---
 <article>
   <header>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trump Iran Ceasefire Expires: What a Historical Parallel Lens Reveals About the Strait of Hormuz Standoff"
+title: 'Trump Iran Ceasefire Expires: What a Historical Parallel Lens Reveals About the Strait of Hormuz Standoff'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html"
+source_url: 'https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html'
 ---
 <article>
   <header>

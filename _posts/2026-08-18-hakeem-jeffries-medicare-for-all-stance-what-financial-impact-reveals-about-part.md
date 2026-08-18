@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Hakeem Jeffries Medicare For All Stance: What Financial Impact Reveals About Party Politics"
+title: 'Hakeem Jeffries Medicare For All Stance: What Financial Impact Reveals About Party Politics'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.levernews.com/hakeem-jeffries-betrayal-shows-why-democratic-voters-are-so-enraged/"
+source_url: 'https://www.levernews.com/hakeem-jeffries-betrayal-shows-why-democratic-voters-are-so-enraged/'
 ---
 <article>
 <style>

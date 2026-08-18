@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "SpaceX Falcon 9 Record Launch: What Historical Parallels Teach Us About Industrial Speed"
+title: 'SpaceX Falcon 9 Record Launch: What Historical Parallels Teach Us About Industrial Speed'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://qz.com/spacex-falcon-9-record-launch-interval-globalstar-ussf-366-081726"
+source_url: 'https://qz.com/spacex-falcon-9-record-launch-interval-globalstar-ussf-366-081726'
 ---
 <article>
   <header>

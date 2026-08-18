@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "High Dividend ETFs Beat S&P 500 by 9 Points in 2026: What Financial Impact An..."
+title: 'High Dividend ETFs Beat S&P 500 by 9 Points in 2026: What Financial Impact An'
 date: 2026-08-17
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://247wallst.com/investing/2026/08/16/high-dividend-etfs-are-beating-the-sp-500-by-9-points-in-2026-and-these-3-pay-up-to-4-percent-while-doing-it/"
+source_url: 'https://247wallst.com/investing/2026/08/16/high-dividend-etfs-are-beating-the-sp-500-by-9-points-in-2026-and-these-3-pay-up-to-4-percent-while-doing-it/'
 ---
 <article>
   <header>

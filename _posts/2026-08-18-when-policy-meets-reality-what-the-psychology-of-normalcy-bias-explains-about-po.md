@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "When Policy Meets Reality: What the Psychology of Normalcy Bias Explains About Political Awakening"
+title: 'When Policy Meets Reality: What the Psychology of Normalcy Bias Explains About Political Awakening'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.dailykos.com/stories/2026/8/16/800085128/community/i-never-thought-that-it-was-so-easy-to-take-freedom-from-anyone/"
+source_url: 'https://www.dailykos.com/stories/2026/8/16/800085128/community/i-never-thought-that-it-was-so-easy-to-take-freedom-from-anyone/'
 ---
 <article>
 <header>

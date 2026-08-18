@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Jeep Cherokee Return Is Already Living on Borrowed Time: What Career & Industry Trends Reveal"
+title: 'The Jeep Cherokee Return Is Already Living on Borrowed Time: What Career & Industry Trends Reveal'
 date: 2026-08-18
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://www.thedrive.com/news/the-jeep-cherokee-just-returned-only-to-be-replaced-in-3-years-tds"
+source_url: 'https://www.thedrive.com/news/the-jeep-cherokee-just-returned-only-to-be-replaced-in-3-years-tds'
 ---
 
 <article>

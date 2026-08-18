@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Stock Market Today: What Financial Impact and Bond Yields Reveal About the August Selloff"
+title: 'Stock Market Today: What Financial Impact and Bond Yields Reveal About the August Selloff'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-08172026-12061093"
+source_url: 'https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-08172026-12061093'
 ---
 
 <article>

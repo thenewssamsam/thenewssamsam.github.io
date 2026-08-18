@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "US Reservoirs Hit Record Lows: What a Historical Parallel Reveals About Water Scarcity"
+title: 'US Reservoirs Hit Record Lows: What a Historical Parallel Reveals About Water Scarcity'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.yahoo.com/news/us/articles/two-largest-us-reservoirs-hit-212208185.html"
+source_url: 'https://www.yahoo.com/news/us/articles/two-largest-us-reservoirs-hit-212208185.html'
 ---
 
 <article style="-webkit-font-smoothing: antialiased; background-color: #ffffff; color: #333333; font-family: -apple-system, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; margin: 0; padding: 0;">

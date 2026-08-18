@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Bally’s Chicago Casino Financial Trouble: What a Financial Impact Lens Reveals About the ‘Going Concern’ Warning"
+title: 'Bally’s Chicago Casino Financial Trouble: What a Financial Impact Lens Reveals About the ‘Going Concern’ Warning'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://chicago.suntimes.com/casinos-gambling/2026/08/17/ballys-chicago-casino-video-gambling-going-concern"
+source_url: 'https://chicago.suntimes.com/casinos-gambling/2026/08/17/ballys-chicago-casino-video-gambling-going-concern'
 ---
 
 <article>

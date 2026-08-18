@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Goldman Sachs AI Report: What Financial Impact Tells Us About the Corporate Spending Gap"
+title: 'Goldman Sachs AI Report: What Financial Impact Tells Us About the Corporate Spending Gap'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sachs-says-ai-spending-not-boosting-corporate-earnings/"
+source_url: 'https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sachs-says-ai-spending-not-boosting-corporate-earnings/'
 ---
 <article>
   <header class="ncg-header">

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Medford Street Takeover: What Psychology Reveals About the Thrill of Illegal Car Meets"
+title: 'Medford Street Takeover: What Psychology Reveals About the Thrill of Illegal Car Meets'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.newsday.com/long-island/crime/street-takeover-li-medford-mcxufabj"
+source_url: 'https://www.newsday.com/long-island/crime/street-takeover-li-medford-mcxufabj'
 ---
 <article>
 <style>

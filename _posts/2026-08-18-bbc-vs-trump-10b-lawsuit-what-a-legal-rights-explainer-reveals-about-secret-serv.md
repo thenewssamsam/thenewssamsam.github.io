@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "BBC vs. Trump $10B Lawsuit: What a Legal Rights Explainer Reveals About Secret Service Subpoenas"
+title: 'BBC vs. Trump $10B Lawsuit: What a Legal Rights Explainer Reveals About Secret Service Subpoenas'
 date: 2026-08-18
-categories: [news]
-tags: [legal]
+categories:
+  - news
+tags:
+  - legal
 author: Sam
-source_url: "https://apnews.com/article/bbc-trump-defamation-lawsuit-subpoenas-6e5936f0a221c04927459efdb1e949ef"
+source_url: 'https://apnews.com/article/bbc-trump-defamation-lawsuit-subpoenas-6e5936f0a221c04927459efdb1e949ef'
 ---
 <article>
 <header>

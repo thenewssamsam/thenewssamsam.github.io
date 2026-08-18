@@ -2,10 +2,12 @@
 layout: post
 title: "Russia's Missile Warships Near Japan: What a Historical Parallel Reveals About the Kuril Islands Standoff"
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://united24media.com/world/russia-sends-four-missile-warships-near-japan-after-putins-provocative-kuril-islands-visit-21742"
+source_url: 'https://united24media.com/world/russia-sends-four-missile-warships-near-japan-after-putins-provocative-kuril-islands-visit-21742'
 ---
 <article>
   <header class="ncg-header">

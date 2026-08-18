@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Dallin Oaks First International Trip as LDS President: A Faith Perspective on Leadership and Legacy"
+title: 'Dallin Oaks First International Trip as LDS President: A Faith Perspective on Leadership and Legacy'
 date: 2026-08-18
-categories: [news]
-tags: [faith]
+categories:
+  - news
+tags:
+  - faith
 author: Sam
-source_url: "https://www.sltrib.com/religion/2026/08/16/dallin-oaks-first-international/"
+source_url: 'https://www.sltrib.com/religion/2026/08/16/dallin-oaks-first-international/'
 ---
 <article>
   <style>

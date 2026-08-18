@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "U.S.-Iran Ceasefire Expiration: A Historical Parallel on Energy and Conflict"
+title: 'U.S.-Iran Ceasefire Expiration: A Historical Parallel on Energy and Conflict'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.cnbc.com/2026/08/17/cnbc-daily-open-us-iran-war-ceasefire-expire.html"
+source_url: 'https://www.cnbc.com/2026/08/17/cnbc-daily-open-us-iran-war-ceasefire-expire.html'
 ---
 
 <article>

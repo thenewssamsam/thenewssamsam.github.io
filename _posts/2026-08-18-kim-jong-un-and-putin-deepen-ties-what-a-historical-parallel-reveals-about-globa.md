@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Kim Jong Un and Putin Deepen Ties: What a Historical Parallel Reveals About Global Alliances"
+title: 'Kim Jong Un and Putin Deepen Ties: What a Historical Parallel Reveals About Global Alliances'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.pravda.com.ua/eng/news/2026/08/17/8048927/"
+source_url: 'https://www.pravda.com.ua/eng/news/2026/08/17/8048927/'
 ---
 <article>
   <header>

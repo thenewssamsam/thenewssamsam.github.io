@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "McKenna West Surrogacy Legal Battle: What Parenting and Family Values Reveal About This Complex Case"
+title: 'McKenna West Surrogacy Legal Battle: What Parenting and Family Values Reveal About This Complex Case'
 date: 2026-08-18
-categories: [news]
-tags: [parenting]
+categories:
+  - news
+tags:
+  - parenting
 author: Sam
-source_url: "https://www.tmz.com/2026/08/16/surrogate-mckenna-west-fundraiser-draws-thousands-of-donations/"
+source_url: 'https://www.tmz.com/2026/08/16/surrogate-mckenna-west-fundraiser-draws-thousands-of-donations/'
 ---
 <article>
   <header class="ncg-header">

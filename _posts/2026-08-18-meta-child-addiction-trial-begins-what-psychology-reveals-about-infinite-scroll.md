@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Meta Child Addiction Trial Begins: What Psychology Reveals About Infinite Scroll"
+title: 'Meta Child Addiction Trial Begins: What Psychology Reveals About Infinite Scroll'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction"
+source_url: 'https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction'
 ---
 <article>
   <header>

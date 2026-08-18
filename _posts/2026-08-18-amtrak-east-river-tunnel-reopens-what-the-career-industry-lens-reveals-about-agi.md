@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Amtrak East River Tunnel Reopens: What the Career & Industry Lens Reveals About Aging Infrastructure"
+title: 'Amtrak East River Tunnel Reopens: What the Career & Industry Lens Reveals About Aging Infrastructure'
 date: 2026-08-18
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://ny1.com/nyc/all-boroughs/news/2026/08/17/one-of-two-amtrak-tubes-damaged-by-superstorm-sandy-reopens-after-repairs"
+source_url: 'https://ny1.com/nyc/all-boroughs/news/2026/08/17/one-of-two-amtrak-tubes-damaged-by-superstorm-sandy-reopens-after-repairs'
 ---
 
 <article>

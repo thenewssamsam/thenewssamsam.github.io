@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Wyoming Grok Lawsuit: What Psychology Reveals About the Scale of AI Abuse"
+title: 'Wyoming Grok Lawsuit: What Psychology Reveals About the Scale of AI Abuse'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.yahoo.com/news/us/articles/wyoming-woman-alleges-her-childhood-152432505.html"
+source_url: 'https://www.yahoo.com/news/us/articles/wyoming-woman-alleges-her-childhood-152432505.html'
 ---
 <article>
 <header>

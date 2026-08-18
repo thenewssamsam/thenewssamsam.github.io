@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Indonesia Flores Earthquake: What Parenting and Family Resilience Reveal About Surviving Disaster"
+title: 'Indonesia Flores Earthquake: What Parenting and Family Resilience Reveal About Surviving Disaster'
 date: 2026-08-18
-categories: [news]
-tags: [parenting]
+categories:
+  - news
+tags:
+  - parenting
 author: Sam
-source_url: "https://apnews.com/article/indonesia-flores-earthquake-landslide-ec45607ccc22d9df2d5cfe4ab82d33eb"
+source_url: 'https://apnews.com/article/indonesia-flores-earthquake-landslide-ec45607ccc22d9df2d5cfe4ab82d33eb'
 ---
 <article>
 <header>

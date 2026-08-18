@@ -2,10 +2,12 @@
 layout: post
 title: "Herbie Wertheim's $40 Million Ferrari Luce EV: What Financial History Teaches Us About Luxury Speculation"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.motor1.com/news/805168/herbie-wertheim-40-million-ferrari/"
+source_url: 'https://www.motor1.com/news/805168/herbie-wertheim-40-million-ferrari/'
 ---
 <article>
   <header>

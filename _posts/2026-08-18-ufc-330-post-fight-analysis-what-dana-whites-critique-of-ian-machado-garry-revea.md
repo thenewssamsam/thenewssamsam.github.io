@@ -2,10 +2,12 @@
 layout: post
 title: "UFC 330 Post-Fight Analysis: What Dana White's Critique of Ian Machado Garry Reveals About the Psychology of Killer Instinct"
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.ufc.com/news/dana-white-islam-makhachev-ian-machado-garry-edson-barboza-philly-crowd-more"
+source_url: 'https://www.ufc.com/news/dana-white-islam-makhachev-ian-machado-garry-edson-barboza-philly-crowd-more'
 ---
 <article>
   <header>

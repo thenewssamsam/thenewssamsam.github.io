@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "NATO Airspace Breach: What a Historical Parallel Lens Reveals About the War i..."
+title: 'NATO Airspace Breach: What a Historical Parallel Lens Reveals About the War i'
 date: 2026-08-17
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.nbcnews.com/world/ukraine/suspected-russian-drone-shot-romania-kyiv-moscow-exchange-strikes-rcna592763"
+source_url: 'https://www.nbcnews.com/world/ukraine/suspected-russian-drone-shot-romania-kyiv-moscow-exchange-strikes-rcna592763'
 ---
 <article>
   <header class="ncg-header">

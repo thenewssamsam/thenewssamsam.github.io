@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Seahawks Preseason Opener: What Career & Industry Lessons Reveal About Backup Struggles"
+title: 'Seahawks Preseason Opener: What Career & Industry Lessons Reveal About Backup Struggles'
 date: 2026-08-18
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://www.seattletimes.com/sports/seahawks/3-observations-from-seahawks-preseason-opener-vs-dallas-cowboys/"
+source_url: 'https://www.seattletimes.com/sports/seahawks/3-observations-from-seahawks-preseason-opener-vs-dallas-cowboys/'
 ---
 <article>
   <header>

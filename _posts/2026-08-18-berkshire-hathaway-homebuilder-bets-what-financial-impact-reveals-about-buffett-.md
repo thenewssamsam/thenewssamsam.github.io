@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Berkshire Hathaway Homebuilder Bets: What Financial Impact Reveals About Buffett Legacy"
+title: 'Berkshire Hathaway Homebuilder Bets: What Financial Impact Reveals About Buffett Legacy'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://fortune.com/2026/08/16/berkshire-hathaway-homebuilder-lennar-dr-horton-banks-shares/"
+source_url: 'https://fortune.com/2026/08/16/berkshire-hathaway-homebuilder-lennar-dr-horton-banks-shares/'
 ---
 <article>
 <header>

@@ -2,10 +2,12 @@
 layout: post
 title: "Trump's Critique of Fox News: What Financial Impact and Media Stocks Reveal About Headline Risk"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.tipranks.com/news/catalyst/trumps-attack-on-fox-news-limited-but-notable-risks-for-foxa-and-communication-services-etf"
+source_url: 'https://www.tipranks.com/news/catalyst/trumps-attack-on-fox-news-limited-but-notable-risks-for-foxa-and-communication-services-etf'
 ---
 <article>
 <header>

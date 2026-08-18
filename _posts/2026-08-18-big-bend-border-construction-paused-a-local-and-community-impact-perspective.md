@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Big Bend Border Construction Paused: A Local and Community Impact Perspective"
+title: 'Big Bend Border Construction Paused: A Local and Community Impact Perspective'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.texastribune.org/2026/08/17/texas-big-bend-national-park-border-wall-construction-pause/"
+source_url: 'https://www.texastribune.org/2026/08/17/texas-big-bend-national-park-border-wall-construction-pause/'
 ---
 
 <article>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Ceuta Mass Border Crossing: What a Historical Parallel Reveals About Geopolitical Leverage"
+title: 'The Ceuta Mass Border Crossing: What a Historical Parallel Reveals About Geopolitical Leverage'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.npr.org/2026/08/16/nx-s1-5927053/what-happened-in-ceuta"
+source_url: 'https://www.npr.org/2026/08/16/nx-s1-5927053/what-happened-in-ceuta'
 ---
 <article>
   <header>

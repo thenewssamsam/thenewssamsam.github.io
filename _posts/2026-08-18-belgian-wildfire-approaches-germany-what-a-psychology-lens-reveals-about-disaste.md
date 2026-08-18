@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Belgian Wildfire Approaches Germany: What a Psychology Lens Reveals About Disaster Blindness"
+title: 'Belgian Wildfire Approaches Germany: What a Psychology Lens Reveals About Disaster Blindness'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.wral.com/news/ap/cd5a8-belgian-wildfire-approaches-germany-despite-rain-as-greece-probes-deadly-blaze/"
+source_url: 'https://www.wral.com/news/ap/cd5a8-belgian-wildfire-approaches-germany-despite-rain-as-greece-probes-deadly-blaze/'
 ---
 <article>
   <header>

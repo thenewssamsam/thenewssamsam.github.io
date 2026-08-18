@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Uber and Zipline Partnership: What Career and Industry Trends Reveal About the 1 Million Drone Delivery Push"
+title: 'Uber and Zipline Partnership: What Career and Industry Trends Reveal About the 1 Million Drone Delivery Push'
 date: 2026-08-18
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://www.engadget.com/2238260/uber-aims-for-1-million-daily-drone-deliveries-with-zipline-partnership/"
+source_url: 'https://www.engadget.com/2238260/uber-aims-for-1-million-daily-drone-deliveries-with-zipline-partnership/'
 ---
 
 <article>

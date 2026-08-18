@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Dwayne Johnson Disney Legend Honor: What Parenting and Legacy Really Mean Beyond The Rock Persona"
+title: 'Dwayne Johnson Disney Legend Honor: What Parenting and Legacy Really Mean Beyond The Rock Persona'
 date: 2026-08-18
-categories: [news]
-tags: [parenting]
+categories:
+  - news
+tags:
+  - parenting
 author: Sam
-source_url: "https://variety.com/2026/film/news/dwayne-johnson-disney-legend-d23-emily-blunt-1236833908/"
+source_url: 'https://variety.com/2026/film/news/dwayne-johnson-disney-legend-d23-emily-blunt-1236833908/'
 ---
 <article>
 <header>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Long Island Street Takeover Arrests: What Psychology and Group Dynamics Reveal About Illegal Car Meets"
+title: 'Long Island Street Takeover Arrests: What Psychology and Group Dynamics Reveal About Illegal Car Meets'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.foxnews.com/us/long-island-street-takeover-erupts-drivers-block-road-perform-donuts-burnouts-police"
+source_url: 'https://www.foxnews.com/us/long-island-street-takeover-erupts-drivers-block-road-perform-donuts-burnouts-police'
 ---
 <article>
   <header>

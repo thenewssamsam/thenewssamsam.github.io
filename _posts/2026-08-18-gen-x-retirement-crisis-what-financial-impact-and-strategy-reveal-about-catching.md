@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Gen X Retirement Crisis: What Financial Impact and Strategy Reveal About Catching Up"
+title: 'Gen X Retirement Crisis: What Financial Impact and Strategy Reveal About Catching Up'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://money.com/gen-x-retirement-age-68-savings/"
+source_url: 'https://money.com/gen-x-retirement-age-68-savings/'
 ---
 
 <article>

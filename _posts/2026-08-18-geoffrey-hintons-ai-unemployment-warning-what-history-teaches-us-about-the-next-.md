@@ -2,10 +2,12 @@
 layout: post
 title: "Geoffrey Hinton's AI Unemployment Warning: What History Teaches Us About the Next Industrial Revolution"
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://fortune.com/article/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-big-tech-replacing-workers/"
+source_url: 'https://fortune.com/article/godfather-of-ai-geoffrey-hinton-massive-unemployment-warning-big-tech-replacing-workers/'
 ---
 <article>
 <header>

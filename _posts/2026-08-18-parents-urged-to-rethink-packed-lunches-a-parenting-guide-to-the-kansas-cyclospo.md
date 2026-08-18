@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Parents Urged to Rethink Packed Lunches: A Parenting Guide to the Kansas Cyclospora Surge"
+title: 'Parents Urged to Rethink Packed Lunches: A Parenting Guide to the Kansas Cyclospora Surge'
 date: 2026-08-18
-categories: [news]
-tags: [parenting]
+categories:
+  - news
+tags:
+  - parenting
 author: Sam
-source_url: "https://www.kwch.com/2026/08/18/parents-urged-rethink-packed-lunches-cyclospora-cases-surge-kansas/"
+source_url: 'https://www.kwch.com/2026/08/18/parents-urged-rethink-packed-lunches-cyclospora-cases-surge-kansas/'
 ---
 
 <article>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The New England Democratic Primaries: What a Historical Parallel Reveals About the Age Wave in Politics"
+title: 'The New England Democratic Primaries: What a Historical Parallel Reveals About the Age Wave in Politics'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://abcnews.com/Politics/generational-divide-forefront-new-england-democratic-primaries/story?id=135685342"
+source_url: 'https://abcnews.com/Politics/generational-divide-forefront-new-england-democratic-primaries/story?id=135685342'
 ---
 <article>
 <header>

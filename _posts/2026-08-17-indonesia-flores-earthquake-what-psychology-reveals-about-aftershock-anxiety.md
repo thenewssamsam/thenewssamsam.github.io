@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Indonesia Flores Earthquake: What Psychology Reveals About Aftershock Anxiety..."
+title: 'Indonesia Flores Earthquake: What Psychology Reveals About Aftershock Anxiety'
 date: 2026-08-17
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://apnews.com/article/indonesia-flores-earthquake-landslide-bf1d024bdec7727094f8dc73d7dd5e34"
+source_url: 'https://apnews.com/article/indonesia-flores-earthquake-landslide-bf1d024bdec7727094f8dc73d7dd5e34'
 ---
 <article>
 <header>

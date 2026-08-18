@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "US Military Pulls Last Pacific Carrier for Iran War: A Historical Parallel on Imperial Overstretch"
+title: 'US Military Pulls Last Pacific Carrier for Iran War: A Historical Parallel on Imperial Overstretch'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://nypost.com/2026/08/16/world-news/us-military-moving-last-aircraft-carrier-out-of-the-pacific-to-prioritize-operation-epic-fury-in-iran/"
+source_url: 'https://nypost.com/2026/08/16/world-news/us-military-moving-last-aircraft-carrier-out-of-the-pacific-to-prioritize-operation-epic-fury-in-iran/'
 ---
 <article>
   <header>

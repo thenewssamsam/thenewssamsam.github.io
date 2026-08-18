@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Europe Wildfires 2026: What a Psychology Lens Reveals About Our Blind Spots to Climate Disasters"
+title: 'Europe Wildfires 2026: What a Psychology Lens Reveals About Our Blind Spots to Climate Disasters'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://apnews.com/article/europe-wildfires-belgium-66c6fb6801f5574fde2dfc07a610a4cb"
+source_url: 'https://apnews.com/article/europe-wildfires-belgium-66c6fb6801f5574fde2dfc07a610a4cb'
 ---
 <article>
   <header class="ncg-header">

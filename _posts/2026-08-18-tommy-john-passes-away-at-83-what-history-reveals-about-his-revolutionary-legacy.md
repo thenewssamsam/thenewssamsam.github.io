@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Tommy John Passes Away at 83: What History Reveals About His Revolutionary Legacy"
+title: 'Tommy John Passes Away at 83: What History Reveals About His Revolutionary Legacy'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://sports.yahoo.com/articles/mlb-news-tommy-john-passes-120000939.html"
+source_url: 'https://sports.yahoo.com/articles/mlb-news-tommy-john-passes-120000939.html'
 ---
 <article>
 <style>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Pacific Carrier Gap: What Historical Parallels Reveal About U.S. Deterrence"
+title: 'The Pacific Carrier Gap: What Historical Parallels Reveal About U.S. Deterrence'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.axios.com/2026/08/17/us-allies-pacific-aircraft-carrier-gap"
+source_url: 'https://www.axios.com/2026/08/17/us-allies-pacific-aircraft-carrier-gap'
 ---
 
 <article>

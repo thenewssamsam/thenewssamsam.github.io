@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Why Oklahoma Electric Bills Are Going Up: A Financial Look Beyond the Data Center Hype"
+title: 'Why Oklahoma Electric Bills Are Going Up: A Financial Look Beyond the Data Center Hype'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.newson6.com/data-centers-in-oklahoma/why-oklahoma-electric-bills-are-going-up-not-just-data-centers"
+source_url: 'https://www.newson6.com/data-centers-in-oklahoma/why-oklahoma-electric-bills-are-going-up-not-just-data-centers'
 ---
 <article>
 <header>

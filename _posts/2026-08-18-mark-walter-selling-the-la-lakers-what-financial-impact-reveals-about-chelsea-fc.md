@@ -2,10 +2,12 @@
 layout: post
 title: "Mark Walter Selling the LA Lakers: What Financial Impact Reveals About Chelsea FC's Future"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://josimarfootball.com/2026/08/17/credit-in-the-straight-world-2/"
+source_url: 'https://josimarfootball.com/2026/08/17/credit-in-the-straight-world-2/'
 ---
 <article>
   <header class="ncg-header">

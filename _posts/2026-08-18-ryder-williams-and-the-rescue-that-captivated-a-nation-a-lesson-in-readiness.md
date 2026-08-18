@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Ryder Williams and the Rescue That Captivated a Nation: A Lesson in Readiness"
+title: 'Ryder Williams and the Rescue That Captivated a Nation: A Lesson in Readiness'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.cbsnews.com/news/trump-teen-lifeguard-ryder-williams-oval-office/"
+source_url: 'https://www.cbsnews.com/news/trump-teen-lifeguard-ryder-williams-oval-office/'
 ---
 
 <article>

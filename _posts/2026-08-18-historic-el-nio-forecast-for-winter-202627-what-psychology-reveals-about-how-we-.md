@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Historic El Niño Forecast for Winter 2026–27: What Psychology Reveals About How We Prepare for Extreme Weather"
+title: 'Historic El Niño Forecast for Winter 2026–27: What Psychology Reveals About How We Prepare for Extreme Weather'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://watchers.news/2026/08/17/el-nino-forecast-to-reach-historic-strength-ahead-of-winter-2026-27/"
+source_url: 'https://watchers.news/2026/08/17/el-nino-forecast-to-reach-historic-strength-ahead-of-winter-2026-27/'
 ---
 
 <article>

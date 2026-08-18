@@ -2,10 +2,12 @@
 layout: post
 title: "China Invokes Jiang Zemin's Legacy: What a Historical Parallel Reveals About Xi Jinping's Next Big Test"
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.scmp.com/news/china/politics/article/3364198/communist-party-china-invokes-jiangs-legacy-call-rally-round-xis-leadership"
+source_url: 'https://www.scmp.com/news/china/politics/article/3364198/communist-party-china-invokes-jiangs-legacy-call-rally-round-xis-leadership'
 ---
 <article>
 <header>

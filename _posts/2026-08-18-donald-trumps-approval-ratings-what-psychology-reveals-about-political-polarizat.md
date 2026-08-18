@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Donald Trump’s Approval Ratings: What Psychology Reveals About Political Polarization"
+title: 'Donald Trump’s Approval Ratings: What Psychology Reveals About Political Polarization'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://nymag.com/intelligencer/article/polls-show-trumps-maga-base-is-all-he-has-left.html"
+source_url: 'https://nymag.com/intelligencer/article/polls-show-trumps-maga-base-is-all-he-has-left.html'
 ---
 
 <article>

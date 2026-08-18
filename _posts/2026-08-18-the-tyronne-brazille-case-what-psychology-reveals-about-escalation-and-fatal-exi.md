@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Tyronne Brazille Case: What Psychology Reveals About Escalation and Fatal Exit Violence"
+title: 'The Tyronne Brazille Case: What Psychology Reveals About Escalation and Fatal Exit Violence'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://nypost.com/2026/08/17/us-news/louisiana-husband-tyronne-brazille-allegedly-killed-wife-propped-her-body-in-the-passenger-seat-and-drove-through-several-states-before-being-arrested/"
+source_url: 'https://nypost.com/2026/08/17/us-news/louisiana-husband-tyronne-brazille-allegedly-killed-wife-propped-her-body-in-the-passenger-seat-and-drove-through-several-states-before-being-arrested/'
 ---
 <article class="ncg-article">
   <header class="ncg-header">

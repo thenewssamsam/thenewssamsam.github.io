@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trump Rally in Myrtle Beach: What a Historical Parallel Reveals About Party Power"
+title: 'Trump Rally in Myrtle Beach: What a Historical Parallel Reveals About Party Power'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://wpde.com/news/local/trump-rally-in-myrtle-beach-prompts-postponement-of-south-carolina-gop-senate-event-darline-graham-ralph-norman-scgop"
+source_url: 'https://wpde.com/news/local/trump-rally-in-myrtle-beach-prompts-postponement-of-south-carolina-gop-senate-event-darline-graham-ralph-norman-scgop'
 ---
 
 <article>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Penn State Fraternity Drug Ring: What Psychology Reveals About College Groupthink and Risk"
+title: 'Penn State Fraternity Drug Ring: What Psychology Reveals About College Groupthink and Risk'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.usatoday.com/story/news/nation/2026/08/18/penn-state-students-fraternities-drug-trafficking/91347024007/"
+source_url: 'https://www.usatoday.com/story/news/nation/2026/08/18/penn-state-students-fraternities-drug-trafficking/91347024007/'
 ---
 
 <article>

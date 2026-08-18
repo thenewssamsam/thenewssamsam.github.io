@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Cialis and Longevity: What the Health & Wellness Lens Reveals About the Buzz Around Tadalafil"
+title: 'Cialis and Longevity: What the Health & Wellness Lens Reveals About the Buzz Around Tadalafil'
 date: 2026-08-18
-categories: [news]
-tags: [health]
+categories:
+  - news
+tags:
+  - health
 author: Sam
-source_url: "https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health"
+source_url: 'https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafil-longevity-heart-health'
 ---
 <article>
 <header>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Hayden Panettiere Death at 36: A Health and Emotional Well-Being Perspective on Tragedy and Support"
+title: 'Hayden Panettiere Death at 36: A Health and Emotional Well-Being Perspective on Tragedy and Support'
 date: 2026-08-18
-categories: [news]
-tags: [health]
+categories:
+  - news
+tags:
+  - health
 author: Sam
-source_url: "https://people.com/hayden-panettiere-suffered-apparent-overdose-was-unresponsive-as-advanced-life-support-was-administered-before-death-12061106"
+source_url: 'https://people.com/hayden-panettiere-suffered-apparent-overdose-was-unresponsive-as-advanced-life-support-was-administered-before-death-12061106'
 ---
 <article>
 <header>

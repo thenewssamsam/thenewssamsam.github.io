@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "August 16 Storms and Flooding Risk: What Psychology Reveals About Severe Weather Uncertainty"
+title: 'August 16 Storms and Flooding Risk: What Psychology Reveals About Severe Weather Uncertainty'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://justinweather.com/2026/08/16/august-16-soggy-sunday-with-severe-storms-and-flooding-more-likely-west/"
+source_url: 'https://justinweather.com/2026/08/16/august-16-soggy-sunday-with-severe-storms-and-flooding-more-likely-west/'
 ---
 <article>
   <header>

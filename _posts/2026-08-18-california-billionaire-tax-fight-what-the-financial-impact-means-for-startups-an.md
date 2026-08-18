@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "California Billionaire Tax Fight: What the Financial Impact Means for Startups and Residents"
+title: 'California Billionaire Tax Fight: What the Financial Impact Means for Startups and Residents'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.foxnews.com/politics/only-map-need-see-californias-billionaire-tax-fight-heats"
+source_url: 'https://www.foxnews.com/politics/only-map-need-see-californias-billionaire-tax-fight-heats'
 ---
 <article>
 <header>

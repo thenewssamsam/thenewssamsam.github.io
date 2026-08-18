@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Amtrak Reopens East River Tunnel: What Financial and Economic Realities Reveal About Aging US Infrastructure"
+title: 'Amtrak Reopens East River Tunnel: What Financial and Economic Realities Reveal About Aging US Infrastructure'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://abc7ny.com/post/amtrak-reopens-east-river-tunnel-line-damaged-superstorm-sandy/19690971/"
+source_url: 'https://abc7ny.com/post/amtrak-reopens-east-river-tunnel-line-damaged-superstorm-sandy/19690971/'
 ---
 
 <article>

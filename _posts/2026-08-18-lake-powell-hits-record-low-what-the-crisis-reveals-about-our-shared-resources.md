@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Lake Powell Hits Record Low: What the Crisis Reveals About Our Shared Resources"
+title: 'Lake Powell Hits Record Low: What the Crisis Reveals About Our Shared Resources'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.sfgate.com/bayarea/article/lake-powell-record-low-22392180.php"
+source_url: 'https://www.sfgate.com/bayarea/article/lake-powell-record-low-22392180.php'
 ---
 
 <article>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Flock Safety License Plate Readers: What a Legal Rights Explainer Reveals About Privacy and Your Car"
+title: 'Flock Safety License Plate Readers: What a Legal Rights Explainer Reveals About Privacy and Your Car'
 date: 2026-08-18
-categories: [news]
-tags: [legal]
+categories:
+  - news
+tags:
+  - legal
 author: Sam
-source_url: "https://kstp.com/kstp-news/top-news/has-your-car-been-flocked-website-shows-whether-your-vehicle-is-in-the-database/"
+source_url: 'https://kstp.com/kstp-news/top-news/has-your-car-been-flocked-website-shows-whether-your-vehicle-is-in-the-database/'
 ---
 <article>
   <header class="ncg-header">

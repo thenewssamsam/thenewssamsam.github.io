@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Natalie Harp Controversy: What the Ossoff-Trump Feud Says About Modern Political Access"
+title: 'The Natalie Harp Controversy: What the Ossoff-Trump Feud Says About Modern Political Access'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.cnn.com/2026/08/17/politics/ossoff-natalie-harp-trump"
+source_url: 'https://www.cnn.com/2026/08/17/politics/ossoff-natalie-harp-trump'
 ---
 
 <article>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Lexington Park Shooting: What Psychology Reveals About Community Trauma and Healing"
+title: 'Lexington Park Shooting: What Psychology Reveals About Community Trauma and Healing'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.nbcnews.com/news/us-news/five-shot-lexington-ky-park-leaving-one-dead-rcna592770"
+source_url: 'https://www.nbcnews.com/news/us-news/five-shot-lexington-ky-park-leaving-one-dead-rcna592770'
 ---
 <article>
 <header>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Andy Burnham Imposter Text Scandal: What Psychology Reveals About High-Level Scams"
+title: 'Andy Burnham Imposter Text Scandal: What Psychology Reveals About High-Level Scams'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.politico.eu/article/andy-burnham-messages-impersonator-top-trump-aide-susie-wiles/"
+source_url: 'https://www.politico.eu/article/andy-burnham-messages-impersonator-top-trump-aide-susie-wiles/'
 ---
 <article>
 <header>

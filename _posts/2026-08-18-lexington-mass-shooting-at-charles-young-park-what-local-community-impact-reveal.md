@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Lexington Mass Shooting at Charles Young Park: What Local & Community Impact Reveals About Our Neighborhoods"
+title: 'Lexington Mass Shooting at Charles Young Park: What Local & Community Impact Reveals About Our Neighborhoods'
 date: 2026-08-18
-categories: [news]
-tags: [local]
+categories:
+  - news
+tags:
+  - local
 author: Sam
-source_url: "https://www.wkyt.com/2026/08/16/officials-give-update-lexington-mass-shooting/"
+source_url: 'https://www.wkyt.com/2026/08/16/officials-give-update-lexington-mass-shooting/'
 ---
 <article>
 <header>

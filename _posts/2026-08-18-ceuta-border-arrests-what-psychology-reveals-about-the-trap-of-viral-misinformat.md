@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Ceuta Border Arrests: What Psychology Reveals About the Trap of Viral Misinformation"
+title: 'Ceuta Border Arrests: What Psychology Reveals About the Trap of Viral Misinformation'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown"
+source_url: 'https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown'
 ---
 <article>
   <header class="ncg-header">

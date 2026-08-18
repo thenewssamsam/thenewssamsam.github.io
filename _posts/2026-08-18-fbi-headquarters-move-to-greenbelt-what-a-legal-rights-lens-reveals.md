@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "FBI Headquarters Move to Greenbelt: What a Legal Rights Lens Reveals"
+title: 'FBI Headquarters Move to Greenbelt: What a Legal Rights Lens Reveals'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.nbcwashington.com/news/local/judge-blocks-plan-to-scrap-fbi-headquarters-move-to-greenbelt/4143335/"
+source_url: 'https://www.nbcwashington.com/news/local/judge-blocks-plan-to-scrap-fbi-headquarters-move-to-greenbelt/4143335/'
 ---
 
 <article>

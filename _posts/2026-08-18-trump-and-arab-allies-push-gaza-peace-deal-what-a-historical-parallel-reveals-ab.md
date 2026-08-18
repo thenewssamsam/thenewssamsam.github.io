@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trump and Arab Allies Push Gaza Peace Deal: What a Historical Parallel Reveals About High-Stakes Diplomacy"
+title: 'Trump and Arab Allies Push Gaza Peace Deal: What a Historical Parallel Reveals About High-Stakes Diplomacy'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://nypost.com/2026/08/16/world-news/arab-allies-join-trump-in-calling-for-israel-to-drop-opposition-to-us-backed-gaza-peace-plan/"
+source_url: 'https://nypost.com/2026/08/16/world-news/arab-allies-join-trump-in-calling-for-israel-to-drop-opposition-to-us-backed-gaza-peace-plan/'
 ---
 <article>
   <header class="ncg-header">

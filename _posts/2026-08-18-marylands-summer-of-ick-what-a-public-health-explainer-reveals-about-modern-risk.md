@@ -2,10 +2,12 @@
 layout: post
 title: "Maryland's Summer of Ick: What a Public Health Explainer Reveals About Modern Risk"
 date: 2026-08-18
-categories: [news]
-tags: [health]
+categories:
+  - news
+tags:
+  - health
 author: Sam
-source_url: "https://www.thebanner.com/community/public-health/cyclosporiasis-measles-ticks-GZQ5VTFGZFDOJBI44RVFBYYOSU/"
+source_url: 'https://www.thebanner.com/community/public-health/cyclosporiasis-measles-ticks-GZQ5VTFGZFDOJBI44RVFBYYOSU/'
 ---
 <article>
   <header>

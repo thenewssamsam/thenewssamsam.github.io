@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Fox News Host Joey Jones Slams USS Lincoln Sailors: What a Psychology and Beh..."
+title: 'Fox News Host Joey Jones Slams USS Lincoln Sailors: What a Psychology and Beh'
 date: 2026-08-17
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.thedailybeast.com/fox-news-host-slams-us-troops-as-weak-in-stunning-rant/"
+source_url: 'https://www.thedailybeast.com/fox-news-host-slams-us-troops-as-weak-in-stunning-rant/'
 ---
 <article>
   <header class="ncg-header">

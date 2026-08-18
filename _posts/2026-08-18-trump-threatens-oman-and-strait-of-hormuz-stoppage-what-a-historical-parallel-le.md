@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trump Threatens Oman and Strait of Hormuz Stoppage: What a Historical Parallel Lens Reveals About Escalating Middle East Tensions"
+title: 'Trump Threatens Oman and Strait of Hormuz Stoppage: What a Historical Parallel Lens Reveals About Escalating Middle East Tensions'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.cnn.com/2026/08/18/world/live-news/iran-war-trump"
+source_url: 'https://www.cnn.com/2026/08/18/world/live-news/iran-war-trump'
 ---
 
 <article>

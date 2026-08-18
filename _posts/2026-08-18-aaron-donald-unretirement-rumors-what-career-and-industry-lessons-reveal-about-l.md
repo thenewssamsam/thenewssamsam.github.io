@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Aaron Donald Unretirement Rumors: What Career and Industry Lessons Reveal About Leaving and Returning to Work"
+title: 'Aaron Donald Unretirement Rumors: What Career and Industry Lessons Reveal About Leaving and Returning to Work'
 date: 2026-08-18
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://www.nfl.com/news/rams-sean-mcvay-has-no-timeline-for-aaron-donald-decision-i-am-hopeful-that-it-will-be-sooner-rather-than-later"
+source_url: 'https://www.nfl.com/news/rams-sean-mcvay-has-no-timeline-for-aaron-donald-decision-i-am-hopeful-that-it-will-be-sooner-rather-than-later'
 ---
 <article>
 <header>

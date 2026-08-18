@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Von Miller Signs With the Cowboys: What Psychology &amp; Behavior Reveals About Late-Career Homecomings"
+title: 'Von Miller Signs With the Cowboys: What Psychology &amp; Behavior Reveals About Late-Career Homecomings'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/von-miller-calls-signing-with-the-cowboys-a-dream-within-a-dream"
+source_url: 'https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/von-miller-calls-signing-with-the-cowboys-a-dream-within-a-dream'
 ---
 <article>
 <header>

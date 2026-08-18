@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The National Firearms Act Ruling: A Legal Rights Explainer on What Changed"
+title: 'The National Firearms Act Ruling: A Legal Rights Explainer on What Changed'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling"
+source_url: 'https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling'
 ---
 
 <article>

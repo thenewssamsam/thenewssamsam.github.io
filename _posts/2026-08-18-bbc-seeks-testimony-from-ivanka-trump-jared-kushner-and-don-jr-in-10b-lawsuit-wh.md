@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "BBC Seeks Testimony from Ivanka Trump, Jared Kushner, and Don Jr. in $10B Lawsuit: What Psychology Reveals About High-Stakes Legal Strategy"
+title: 'BBC Seeks Testimony from Ivanka Trump, Jared Kushner, and Don Jr. in $10B Lawsuit: What Psychology Reveals About High-Stakes Legal Strategy'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://fortune.com/2026/08/16/bbc-us-court-testimony-ivanka-trump-jared-kushner-don-jr-defamation-suit/"
+source_url: 'https://fortune.com/2026/08/16/bbc-us-court-testimony-ivanka-trump-jared-kushner-don-jr-defamation-suit/'
 ---
 <article>
   <header>

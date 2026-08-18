@@ -2,10 +2,12 @@
 layout: post
 title: "China's Economy Slowed in July: What the Financial Impact Means for Global Markets"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.wsj.com/economy/chinas-economic-activity-weakened-in-july-0ce9bde7"
+source_url: 'https://www.wsj.com/economy/chinas-economic-activity-weakened-in-july-0ce9bde7'
 ---
 
 <article>

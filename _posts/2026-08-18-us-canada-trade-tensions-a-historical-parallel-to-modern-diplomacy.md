@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "US-Canada Trade Tensions: A Historical Parallel to Modern Diplomacy"
+title: 'US-Canada Trade Tensions: A Historical Parallel to Modern Diplomacy'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.bostonglobe.com/2026/08/18/nation/trump-presidency-live-updates/"
+source_url: 'https://www.bostonglobe.com/2026/08/18/nation/trump-presidency-live-updates/'
 ---
 
 <article>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Central Synagogue Attack: What Faith & Scripture Reveal About the Sanctity of Holy Places"
+title: 'Central Synagogue Attack: What Faith & Scripture Reveal About the Sanctity of Holy Places'
 date: 2026-08-18
-categories: [news]
-tags: [faith]
+categories:
+  - news
+tags:
+  - faith
 author: Sam
-source_url: "https://www.amny.com/news/central-synagogue-attack-hate-crime-charges/"
+source_url: 'https://www.amny.com/news/central-synagogue-attack-hate-crime-charges/'
 ---
 <article>
 <header>

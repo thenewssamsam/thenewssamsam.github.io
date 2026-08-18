@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Meta Legal Trial in California: What a Psychology Lens Reveals About Social Media Addiction"
+title: 'Meta Legal Trial in California: What a Psychology Lens Reveals About Social Media Addiction'
 date: 2026-08-18
-categories: [news]
-tags: [news]
+categories:
+  - news
+tags:
+  - news
 author: Sam
-source_url: "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html"
+source_url: 'https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html'
 ---
 <article>
   <header>

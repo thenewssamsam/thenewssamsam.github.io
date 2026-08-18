@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Arsenal 3-0 Manchester City: What a Financial Lens Reveals About Premier League Squad Depth"
+title: 'Arsenal 3-0 Manchester City: What a Financial Lens Reveals About Premier League Squad Depth'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league"
+source_url: 'https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-premier-league'
 ---
 <article>
   <header class="ncg-header">

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "US-North Korea Drills Scrapped: What Historical Parallels Reveal About Alliances"
+title: 'US-North Korea Drills Scrapped: What Historical Parallels Reveal About Alliances'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.cnn.com/2026/08/17/asia/us-north-korea-military-exercises-trump-analysis-intl-hnk-ml"
+source_url: 'https://www.cnn.com/2026/08/17/asia/us-north-korea-military-exercises-trump-analysis-intl-hnk-ml'
 ---
 <article>
 <header>

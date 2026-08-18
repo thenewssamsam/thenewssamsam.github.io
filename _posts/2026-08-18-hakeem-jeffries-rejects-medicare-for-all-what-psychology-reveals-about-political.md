@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Hakeem Jeffries Rejects Medicare for All: What Psychology Reveals About Political Realignment"
+title: 'Hakeem Jeffries Rejects Medicare for All: What Psychology Reveals About Political Realignment'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.newsweek.com/hakeem-jeffries-rejects-medicare-for-all-dsa-agenda-12328842"
+source_url: 'https://www.newsweek.com/hakeem-jeffries-rejects-medicare-for-all-dsa-agenda-12328842'
 ---
 <article>
 <header>

@@ -2,10 +2,12 @@
 layout: post
 title: "Ukraine's Massive Drone Strike on Russia: What Historical Parallels Tell Us About Total Industrial Warfare"
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-wildberries-drone-attack-b3033999.html"
+source_url: 'https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-wildberries-drone-attack-b3033999.html'
 ---
 <article>
 <header>

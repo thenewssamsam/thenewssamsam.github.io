@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Gen X Retirement Savings: What the Financial Impact Lens Reveals About the 401(k) Generation"
+title: 'Gen X Retirement Savings: What the Financial Impact Lens Reveals About the 401(k) Generation'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.investopedia.com/gen-x-retirement-savings-how-much-they-ve-saved-and-why-many-haven-t-met-benchma-12036511"
+source_url: 'https://www.investopedia.com/gen-x-retirement-savings-how-much-they-ve-saved-and-why-many-haven-t-met-benchma-12036511'
 ---
 
 <article>

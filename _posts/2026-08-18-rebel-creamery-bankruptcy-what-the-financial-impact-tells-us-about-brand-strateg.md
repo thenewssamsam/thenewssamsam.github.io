@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Rebel Creamery Bankruptcy: What the Financial Impact Tells Us About Brand Strategy and Legal Risk"
+title: 'Rebel Creamery Bankruptcy: What the Financial Impact Tells Us About Brand Strategy and Legal Risk'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.independent.co.uk/life-style/ice-cream-brand-rebel-creamery-bankrupt-b3033941.html"
+source_url: 'https://www.independent.co.uk/life-style/ice-cream-brand-rebel-creamery-bankrupt-b3033941.html'
 ---
 <article>
   <header class="ncg-header">

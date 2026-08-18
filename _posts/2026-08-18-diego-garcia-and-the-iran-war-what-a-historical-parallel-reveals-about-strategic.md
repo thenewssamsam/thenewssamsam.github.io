@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Diego Garcia and the Iran War: What a Historical Parallel Reveals About Strategic Bases"
+title: 'Diego Garcia and the Iran War: What a Historical Parallel Reveals About Strategic Bases'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.foxnews.com/world/iran-war-thrusts-diego-garcia-spotlight-official-calls-us-military-base-integral"
+source_url: 'https://www.foxnews.com/world/iran-war-thrusts-diego-garcia-spotlight-official-calls-us-military-base-integral'
 ---
 <article>
   <header class="ncg-header">

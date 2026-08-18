@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Germany Weighs Banning the AfD: What the Psychology of Extremism Reveals About "Militant Democracy""
+title: 'Germany Weighs Banning the AfD: What the Psychology of Extremism Reveals About "Militant Democracy"'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.democrata.es/en/international/germany-is-considering-the-illegalization-of-the-far-right-afd-with-the-government-divided/"
+source_url: 'https://www.democrata.es/en/international/germany-is-considering-the-illegalization-of-the-far-right-afd-with-the-government-divided/'
 ---
 <article>
 <header>

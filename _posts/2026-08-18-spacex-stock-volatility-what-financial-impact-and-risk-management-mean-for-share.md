@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "SpaceX Stock Volatility: What Financial Impact and Risk Management Mean for Shareholders"
+title: 'SpaceX Stock Volatility: What Financial Impact and Risk Management Mean for Shareholders'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://finance.yahoo.com/personal-finance/investing/article/spacex-stock-volatility-what-to-do-next-if-you-own-shares-141704338.html"
+source_url: 'https://finance.yahoo.com/personal-finance/investing/article/spacex-stock-volatility-what-to-do-next-if-you-own-shares-141704338.html'
 ---
 <article>
   <header>

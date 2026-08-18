@@ -2,10 +2,12 @@
 layout: post
 title: "Peter Thiel Invests $76 Million in Vista Energy: What Financial Impact Reveals About Argentina's Shale Boom"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.cnbc.com/2026/08/17/peter-thiel-hedge-fund-vista-energy-argentina-stake.html"
+source_url: 'https://www.cnbc.com/2026/08/17/peter-thiel-hedge-fund-vista-energy-argentina-stake.html'
 ---
 <article>
 <style>

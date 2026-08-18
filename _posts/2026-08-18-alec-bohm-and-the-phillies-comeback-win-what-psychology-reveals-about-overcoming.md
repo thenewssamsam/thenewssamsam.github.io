@@ -2,10 +2,12 @@
 layout: post
 title: "Alec Bohm and the Phillies' Comeback Win: What Psychology Reveals About Overcoming Early Failure"
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.nbcsportsphiladelphia.com/mlb/philadelphia-phillies/alec-bohm-andrew-painter-jhoan-duran-road-trip/747025/"
+source_url: 'https://www.nbcsportsphiladelphia.com/mlb/philadelphia-phillies/alec-bohm-andrew-painter-jhoan-duran-road-trip/747025/'
 ---
 <article>
   <header>

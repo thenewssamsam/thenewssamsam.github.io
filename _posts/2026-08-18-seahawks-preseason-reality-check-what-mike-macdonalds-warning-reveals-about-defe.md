@@ -2,10 +2,12 @@
 layout: post
 title: "Seahawks Preseason Reality Check: What Mike Macdonald's Warning Reveals About Defense After a Super Bowl"
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-wasnt-happy-with-the-seahawks-performance-in-preseason-opener"
+source_url: 'https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-macdonald-wasnt-happy-with-the-seahawks-performance-in-preseason-opener'
 ---
 <article>
 <header>

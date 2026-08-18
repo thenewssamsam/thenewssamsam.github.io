@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Von Miller Signing With Cowboys: What Psychology & Behavior Reveals About High-Stakes Career Shifts"
+title: 'Von Miller Signing With Cowboys: What Psychology & Behavior Reveals About High-Stakes Career Shifts'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://nypost.com/2026/08/16/sports/von-miller-signing-with-cowboys-in-major-defensive-boost/"
+source_url: 'https://nypost.com/2026/08/16/sports/von-miller-signing-with-cowboys-in-major-defensive-boost/'
 ---
 <article>
   <header class="ncg-header">

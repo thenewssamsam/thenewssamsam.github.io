@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Syracuse Airport Parking Fees Just Went Up — What It Costs Travelers Now and Why"
+title: 'Syracuse Airport Parking Fees Just Went Up — What It Costs Travelers Now and Why'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.syracuse.com/business/2026/08/syracuse-airport-charges-the-highest-parking-fees-in-upstate-ny-it-just-raised-them-even-more.html"
+source_url: 'https://www.syracuse.com/business/2026/08/syracuse-airport-charges-the-highest-parking-fees-in-upstate-ny-it-just-raised-them-even-more.html'
 ---
 <article>
 <header>

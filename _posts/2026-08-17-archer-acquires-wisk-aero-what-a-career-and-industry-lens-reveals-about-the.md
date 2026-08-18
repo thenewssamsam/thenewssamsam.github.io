@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Archer Acquires Wisk Aero: What a Career and Industry Lens Reveals About the ..."
+title: 'Archer Acquires Wisk Aero: What a Career and Industry Lens Reveals About the'
 date: 2026-08-17
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/"
+source_url: 'https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/'
 ---
 <article>
 <header>

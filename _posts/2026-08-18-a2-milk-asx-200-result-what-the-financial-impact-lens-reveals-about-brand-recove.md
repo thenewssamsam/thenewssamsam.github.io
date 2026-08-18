@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "A2 Milk ASX 200 Result: What the Financial Impact Lens Reveals About Brand Recovery and Supply Chains"
+title: 'A2 Milk ASX 200 Result: What the Financial Impact Lens Reveals About Brand Recovery and Supply Chains'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://kalkinemedia.com/au/stocks/consumer/a2-milk-asxa2m-why-is-this-asx-200-result-in-focus"
+source_url: 'https://kalkinemedia.com/au/stocks/consumer/a2-milk-asxa2m-why-is-this-asx-200-result-in-focus'
 ---
 <article>
   <header class="ncg-header">

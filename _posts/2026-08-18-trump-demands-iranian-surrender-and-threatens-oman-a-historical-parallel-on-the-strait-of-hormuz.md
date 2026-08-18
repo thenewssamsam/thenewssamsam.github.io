@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trump Demands Iranian Surrender and Threatens Oman: A Historical Parallel on the Strait of Hormuz"
+title: 'Trump Demands Iranian Surrender and Threatens Oman: A Historical Parallel on the Strait of Hormuz'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires"
+source_url: 'https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires'
 ---
 
 <article>

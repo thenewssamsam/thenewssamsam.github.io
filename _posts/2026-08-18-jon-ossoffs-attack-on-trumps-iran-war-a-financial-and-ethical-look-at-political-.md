@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Jon Ossoff’s Attack on Trump’s Iran War: A Financial and Ethical Look at Political Power"
+title: 'Jon Ossoff’s Attack on Trump’s Iran War: A Financial and Ethical Look at Political Power'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.theguardian.com/us-news/2026/aug/17/jon-ossoff-trump-iran-war-criticism"
+source_url: 'https://www.theguardian.com/us-news/2026/aug/17/jon-ossoff-trump-iran-war-criticism'
 ---
 
 <article>

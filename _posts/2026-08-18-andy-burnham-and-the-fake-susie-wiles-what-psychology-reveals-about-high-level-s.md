@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Andy Burnham and the Fake Susie Wiles: What Psychology Reveals About High-Level Scams"
+title: 'Andy Burnham and the Fake Susie Wiles: What Psychology Reveals About High-Level Scams'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.cbsnews.com/news/uk-prime-minister-andy-burnham-susie-wiles-donald-trump-impersonator/"
+source_url: 'https://www.cbsnews.com/news/uk-prime-minister-andy-burnham-susie-wiles-donald-trump-impersonator/'
 ---
 <article>
 <header>

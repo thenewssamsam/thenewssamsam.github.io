@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Long Island Rail Road East River Tunnel Reopening: A Financial Look at the $1.6 Billion Fix"
+title: 'Long Island Rail Road East River Tunnel Reopening: A Financial Look at the $1.6 Billion Fix'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.newsday.com/long-island/transportation/east-river-tunnel-long-island-rail-road-n3gu4tav"
+source_url: 'https://www.newsday.com/long-island/transportation/east-river-tunnel-long-island-rail-road-n3gu4tav'
 ---
 
 <article>

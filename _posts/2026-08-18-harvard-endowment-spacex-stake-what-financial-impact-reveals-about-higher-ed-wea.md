@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Harvard Endowment SpaceX Stake: What Financial Impact Reveals About Higher Ed Wealth"
+title: 'Harvard Endowment SpaceX Stake: What Financial Impact Reveals About Higher Ed Wealth'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://qz.com/harvard-endowment-spacex-stake-2-billion-081726"
+source_url: 'https://qz.com/harvard-endowment-spacex-stake-2-billion-081726'
 ---
 
 <article>

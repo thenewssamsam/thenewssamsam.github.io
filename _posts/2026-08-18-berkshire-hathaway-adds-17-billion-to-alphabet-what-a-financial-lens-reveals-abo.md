@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Berkshire Hathaway Adds $17 Billion to Alphabet: What a Financial Lens Reveals About Buffett’s Tech Bet"
+title: 'Berkshire Hathaway Adds $17 Billion to Alphabet: What a Financial Lens Reveals About Buffett’s Tech Bet'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-adds-17-billion-111109454.html"
+source_url: 'https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-adds-17-billion-111109454.html'
 ---
 <article>
   <header class="ncg-header">

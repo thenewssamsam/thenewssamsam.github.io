@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Rebel Creamery Bankruptcy: What a $23.8 Million Trademark Loss Reveals About Small Business Risk"
+title: 'Rebel Creamery Bankruptcy: What a $23.8 Million Trademark Loss Reveals About Small Business Risk'
 date: 2026-08-18
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://www.yahoo.com/news/us/article/the-mistake-that-helped-cost-rebel-creamery-238-million-and-pushed-it-into-bankruptcy-181438719.html"
+source_url: 'https://www.yahoo.com/news/us/article/the-mistake-that-helped-cost-rebel-creamery-238-million-and-pushed-it-into-bankruptcy-181438719.html'
 ---
 <article>
   <header>

@@ -2,10 +2,12 @@
 layout: post
 title: "Jon Ossoff Midtown Rally: What a Historical Parallel Reveals About Georgia's High-Stakes Senate Race"
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.atlantanewsfirst.com/2026/08/17/ossoff-rallies-supporters-midtown-georgia-senate-race-enters-final-months/"
+source_url: 'https://www.atlantanewsfirst.com/2026/08/17/ossoff-rallies-supporters-midtown-georgia-senate-race-enters-final-months/'
 ---
 <article>
   <header>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "DOJ Voter Roll Battles: What a Legal Rights Explainer Reveals About Federal Power"
+title: 'DOJ Voter Roll Battles: What a Legal Rights Explainer Reveals About Federal Power'
 date: 2026-08-18
-categories: [news]
-tags: [legal]
+categories:
+  - news
+tags:
+  - legal
 author: Sam
-source_url: "https://www.nbcnews.com/politics/justice-department/attorney-general-todd-blanche-doj-state-voter-rolls-supreme-court-rcna592721"
+source_url: 'https://www.nbcnews.com/politics/justice-department/attorney-general-todd-blanche-doj-state-voter-rolls-supreme-court-rcna592721'
 ---
 <article>
   <header>

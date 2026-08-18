@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Brazil Presidential Election 2026: What a Historical Parallel Lens Reveals About Lula vs. Bolsonaro"
+title: 'Brazil Presidential Election 2026: What a Historical Parallel Lens Reveals About Lula vs. Bolsonaro'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.aljazeera.com/news/2026/8/16/brazil-lula-bolsonaro-return-to-strongholds-to-launch-runs-for-president"
+source_url: 'https://www.aljazeera.com/news/2026/8/16/brazil-lula-bolsonaro-return-to-strongholds-to-launch-runs-for-president'
 ---
 <article class="ncg-article">
 <style>

@@ -2,10 +2,12 @@
 layout: post
 title: "Bill Cassidy Slams Trump Vaccine Order: What a Physician-Politician's Break Tells Us About Family Health and Politics"
 date: 2026-08-18
-categories: [news]
-tags: [parenting]
+categories:
+  - news
+tags:
+  - parenting
 author: Sam
-source_url: "https://www.cnn.com/2026/08/16/politics/bill-cassidy-trump-vaccine-policy"
+source_url: 'https://www.cnn.com/2026/08/16/politics/bill-cassidy-trump-vaccine-policy'
 ---
 <article>
 <header>

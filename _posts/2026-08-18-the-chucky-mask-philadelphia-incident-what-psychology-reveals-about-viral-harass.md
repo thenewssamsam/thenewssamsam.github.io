@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Chucky Mask Philadelphia Incident: What Psychology Reveals About Viral Harassment Culture"
+title: 'The Chucky Mask Philadelphia Incident: What Psychology Reveals About Viral Harassment Culture'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://abcnews.com/US/suspect-wearing-chucky-doll-face-mask-accused-terrorizing/story?id=135722571"
+source_url: 'https://abcnews.com/US/suspect-wearing-chucky-doll-face-mask-accused-terrorizing/story?id=135722571'
 ---
 
 <article>

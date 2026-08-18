@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Larry Ellison Bio: What a Career Built on Defying Skeptics Reveals About Ambition"
+title: 'Larry Ellison Bio: What a Career Built on Defying Skeptics Reveals About Ambition'
 date: 2026-08-18
-categories: [news]
-tags: [life]
+categories:
+  - news
+tags:
+  - life
 author: Sam
-source_url: "https://www.boredpanda.com/larry-ellison-bio-and-career-highlights/"
+source_url: 'https://www.boredpanda.com/larry-ellison-bio-and-career-highlights/'
 ---
 <article>
 <header>

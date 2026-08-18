@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Andy Burnham and the Susie Wiles Impersonator: What Psychology Reveals About High-Level Scams"
+title: 'Andy Burnham and the Susie Wiles Impersonator: What Psychology Reveals About High-Level Scams'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.bbc.com/news/articles/clyvj5zdjj2o"
+source_url: 'https://www.bbc.com/news/articles/clyvj5zdjj2o'
 ---
 <article>
   <header class="ncg-header">

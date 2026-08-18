@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Elmore County Cooling Stations Open: What Health & Wellness Wisdom Reveals About Surviving Extreme Heat"
+title: 'Elmore County Cooling Stations Open: What Health & Wellness Wisdom Reveals About Surviving Extreme Heat'
 date: 2026-08-18
-categories: [news]
-tags: [health]
+categories:
+  - news
+tags:
+  - health
 author: Sam
-source_url: "https://www.waka.com/2026/08/17/elmore-county-ema-opening-cooling-stations-during-mondays-extreme-heat/"
+source_url: 'https://www.waka.com/2026/08/17/elmore-county-ema-opening-cooling-stations-during-mondays-extreme-heat/'
 ---
 <article>
 <header>

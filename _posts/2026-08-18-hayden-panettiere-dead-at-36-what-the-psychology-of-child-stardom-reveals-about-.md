@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Hayden Panettiere Dead at 36: What the Psychology of Child Stardom Reveals About the Price of Growing Up Onscreen"
+title: 'Hayden Panettiere Dead at 36: What the Psychology of Child Stardom Reveals About the Price of Growing Up Onscreen'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies"
+source_url: 'https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies'
 ---
 <article class="ncg-article">
   <header class="ncg-header">

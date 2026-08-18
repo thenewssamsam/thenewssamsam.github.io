@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Satellite Launch Deals: What the Financial Impact Means for Space Investors"
+title: 'Satellite Launch Deals: What the Financial Impact Means for Space Investors'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/"
+source_url: 'https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/'
 ---
 <article>
   <header>

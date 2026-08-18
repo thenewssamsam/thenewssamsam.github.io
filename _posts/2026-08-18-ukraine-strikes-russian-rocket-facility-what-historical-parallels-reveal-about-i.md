@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Ukraine Strikes Russian Rocket Facility: What Historical Parallels Reveal About Industrial Warfare"
+title: 'Ukraine Strikes Russian Rocket Facility: What Historical Parallels Reveal About Industrial Warfare'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-news-rocket-facility-hit-b3033769.html"
+source_url: 'https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-news-rocket-facility-hit-b3033769.html'
 ---
 <article>
 <header>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Lake Mead and Powell at Record Lows: A Historical Parallel on Resource Scarcity"
+title: 'Lake Mead and Powell at Record Lows: A Historical Parallel on Resource Scarcity'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.yahoo.com/news/us/articles/two-largest-us-reservoirs-hit-212208185.html"
+source_url: 'https://www.yahoo.com/news/us/articles/two-largest-us-reservoirs-hit-212208185.html'
 ---
 
 <article>

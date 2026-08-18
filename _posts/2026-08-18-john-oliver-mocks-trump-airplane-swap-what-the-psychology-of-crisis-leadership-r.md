@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "John Oliver Mocks Trump Airplane Swap: What the Psychology of Crisis Leadership Reveals About Escaping on a Catering Truck"
+title: 'John Oliver Mocks Trump Airplane Swap: What the Psychology of Crisis Leadership Reveals About Escaping on a Catering Truck'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://variety.com/2026/tv/news/john-oliver-mocks-trump-sacrificing-staff-airplane-swap-incident-iran-1236836013/"
+source_url: 'https://variety.com/2026/tv/news/john-oliver-mocks-trump-sacrificing-staff-airplane-swap-incident-iran-1236836013/'
 ---
 <article>
   <header>

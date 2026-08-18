@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Valley Fair Eataly Closure: What a Health Inspection Reveals About Modern Dining"
+title: 'Valley Fair Eataly Closure: What a Health Inspection Reveals About Modern Dining'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.mercurynews.com/2026/08/16/eataly-san-jose-santa-clara-closed-cockroaches/"
+source_url: 'https://www.mercurynews.com/2026/08/16/eataly-san-jose-santa-clara-closed-cockroaches/'
 ---
 <article>
   <style>

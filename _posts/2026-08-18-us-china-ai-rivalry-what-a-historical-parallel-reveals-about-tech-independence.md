@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "US-China AI Rivalry: What a Historical Parallel Reveals About Tech Independence"
+title: 'US-China AI Rivalry: What a Historical Parallel Reveals About Tech Independence'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.scmp.com/news/china/diplomacy/article/3364296/can-china-follow-its-own-technological-path-amid-growing-ai-rivalry-us"
+source_url: 'https://www.scmp.com/news/china/diplomacy/article/3364296/can-china-follow-its-own-technological-path-amid-growing-ai-rivalry-us'
 ---
 <article>
 <style>

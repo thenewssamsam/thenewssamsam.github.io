@@ -2,10 +2,12 @@
 layout: post
 title: "The Jeep Cherokee's Three-Year Lifespan: What Career and Industry Trends Reveal About Modern Auto Manufacturing"
 date: 2026-08-18
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://www.thedrive.com/news/the-jeep-cherokee-just-returned-only-to-be-replaced-in-3-years-tds"
+source_url: 'https://www.thedrive.com/news/the-jeep-cherokee-just-returned-only-to-be-replaced-in-3-years-tds'
 ---
 
 <article>

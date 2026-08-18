@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Supreme Court’s Ruling on E. Jean Carroll: What Legal Rights Actually Mean for Public Figures"
+title: 'The Supreme Court’s Ruling on E. Jean Carroll: What Legal Rights Actually Mean for Public Figures'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.cnn.com/2026/08/17/politics/supreme-court-trump-e-jean-carroll"
+source_url: 'https://www.cnn.com/2026/08/17/politics/supreme-court-trump-e-jean-carroll'
 ---
 
 <article>

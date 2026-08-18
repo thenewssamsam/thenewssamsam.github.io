@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Hayden Panettiere Death at 36: What Psychology Reveals About the Hidden Toll of Childhood Stardom"
+title: 'Hayden Panettiere Death at 36: What Psychology Reveals About the Hidden Toll of Childhood Stardom'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.usatoday.com/story/entertainment/celebrities/2026/08/17/hayden-panettiere-death-cause-news-greenville-south-carolina/91334604007/"
+source_url: 'https://www.usatoday.com/story/entertainment/celebrities/2026/08/17/hayden-panettiere-death-cause-news-greenville-south-carolina/91334604007/'
 ---
 
 <article>

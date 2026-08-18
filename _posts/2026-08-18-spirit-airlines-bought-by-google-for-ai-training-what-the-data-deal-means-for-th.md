@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Spirit Airlines Bought by Google for AI Training: What the Data Deal Means for the Future of Tech"
+title: 'Spirit Airlines Bought by Google for AI Training: What the Data Deal Means for the Future of Tech'
 date: 2026-08-18
-categories: [news]
-tags: [legal]
+categories:
+  - news
+tags:
+  - legal
 author: Sam
-source_url: "https://gizmodo.com/spirit-airlines-is-dead-but-its-data-will-haunt-googles-servers-for-generations-to-come-2000799546"
+source_url: 'https://gizmodo.com/spirit-airlines-is-dead-but-its-data-will-haunt-googles-servers-for-generations-to-come-2000799546'
 ---
 
 <article>

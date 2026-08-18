@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Tommy John Passes Away at 83: What His Historic Surgery Reveals About Resilience and Legacy"
+title: 'Tommy John Passes Away at 83: What His Historic Surgery Reveals About Resilience and Legacy'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.theguardian.com/sport/2026/aug/16/tommy-john-pitcher-whose-surgery-changed-baseball-dies-at-age-of-83"
+source_url: 'https://www.theguardian.com/sport/2026/aug/16/tommy-john-pitcher-whose-surgery-changed-baseball-dies-at-age-of-83'
 ---
 <article>
   <header class="ncg-header">

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Von Miller Signs With Cowboys: What a Career & Industry View Reveals About the Move"
+title: 'Von Miller Signs With Cowboys: What a Career & Industry View Reveals About the Move'
 date: 2026-08-18
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://sports.yahoo.com/articles/tremendous-them-shannon-sharpe-chad-110112896.html"
+source_url: 'https://sports.yahoo.com/articles/tremendous-them-shannon-sharpe-chad-110112896.html'
 ---
 <article>
   <header>

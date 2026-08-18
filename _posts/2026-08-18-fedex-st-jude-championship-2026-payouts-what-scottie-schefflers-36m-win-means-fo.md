@@ -2,10 +2,12 @@
 layout: post
 title: "FedEx St. Jude Championship 2026 Payouts: What Scottie Scheffler's $3.6M Win Means for Golf Economics"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.golfchannel.com/pga-tour/news/fedex-st-jude-championship-2026-prize-money-full-payout"
+source_url: 'https://www.golfchannel.com/pga-tour/news/fedex-st-jude-championship-2026-prize-money-full-payout'
 ---
 <article>
   <header class="fi-header">

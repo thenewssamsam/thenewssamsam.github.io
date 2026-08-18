@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Itamar Ben-Gvir Gaza Remarks: What a Psychology Lens Reveals About Extremist Rhetoric"
+title: 'Itamar Ben-Gvir Gaza Remarks: What a Psychology Lens Reveals About Extremist Rhetoric'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly"
+source_url: 'https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly'
 ---
 <article>
   <header>

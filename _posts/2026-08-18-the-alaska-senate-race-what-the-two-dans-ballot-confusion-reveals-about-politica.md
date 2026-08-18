@@ -2,10 +2,12 @@
 layout: post
 title: "The Alaska Senate Race: What the 'Two Dans' Ballot Confusion Reveals About Political Strategy"
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.theguardian.com/us-news/2026/aug/17/alaska-senate-dan-sullivan-mary-peltola"
+source_url: 'https://www.theguardian.com/us-news/2026/aug/17/alaska-senate-dan-sullivan-mary-peltola'
 ---
 
 <article>

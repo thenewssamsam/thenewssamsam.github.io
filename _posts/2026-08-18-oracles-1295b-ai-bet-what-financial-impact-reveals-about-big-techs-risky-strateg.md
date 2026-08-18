@@ -2,10 +2,12 @@
 layout: post
 title: "Oracle's $129.5B AI Bet: What Financial Impact Reveals About Big Tech's Risky Strategy"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.ibtimes.co.uk/oracle-ai-expansion-high-stakes-gamble-1814508"
+source_url: 'https://www.ibtimes.co.uk/oracle-ai-expansion-high-stakes-gamble-1814508'
 ---
 <article>
 <header>

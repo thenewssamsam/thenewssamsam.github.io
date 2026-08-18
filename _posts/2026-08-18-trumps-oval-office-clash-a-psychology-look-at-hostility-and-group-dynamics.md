@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trump’s Oval Office Clash: A Psychology Look at Hostility and Group Dynamics"
+title: 'Trump’s Oval Office Clash: A Psychology Look at Hostility and Group Dynamics'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://timesofindia.indiatimes.com/world/us/youre-loud-boisterous-person-youre-fake-news-be-quiet-trump-snaps-at-reporter-over-korea-question/articleshow/133311889.cms"
+source_url: 'https://timesofindia.indiatimes.com/world/us/youre-loud-boisterous-person-youre-fake-news-be-quiet-trump-snaps-at-reporter-over-korea-question/articleshow/133311889.cms'
 ---
 
 <article>

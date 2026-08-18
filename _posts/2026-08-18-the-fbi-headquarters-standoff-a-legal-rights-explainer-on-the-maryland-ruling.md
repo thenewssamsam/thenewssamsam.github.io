@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The FBI Headquarters Standoff: A Legal Rights Explainer on the Maryland Ruling"
+title: 'The FBI Headquarters Standoff: A Legal Rights Explainer on the Maryland Ruling'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://apnews.com/article/fbi-headquarters-maryland-reagan-building-f5a77411bf54f3e17beb9cd41fd046a8"
+source_url: 'https://apnews.com/article/fbi-headquarters-maryland-reagan-building-f5a77411bf54f3e17beb9cd41fd046a8'
 ---
 
 <article>

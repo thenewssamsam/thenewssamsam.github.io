@@ -2,10 +2,12 @@
 layout: post
 title: "The 2028 Democratic Primary Calendar: What Historical Parallels Reveal About the Party's New Strategy"
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.wbur.org/news/2026/08/17/dnc-2028-presidential-primary-election-calendar-south-carolina-new-hampshire"
+source_url: 'https://www.wbur.org/news/2026/08/17/dnc-2028-presidential-primary-election-calendar-south-carolina-new-hampshire'
 ---
 <article>
   <header>

@@ -2,10 +2,12 @@
 layout: post
 title: "Hayden Panettiere and the Psychology of the Tornado: What Sylvia Jefferies' Tribute Reveals About Public Pain"
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://people.com/hayden-panettiere-nashville-mom-sylvia-jefferies-shares-raw-tribute-12062124"
+source_url: 'https://people.com/hayden-panettiere-nashville-mom-sylvia-jefferies-shares-raw-tribute-12062124'
 ---
 
 <article>

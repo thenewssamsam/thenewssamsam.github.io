@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Big Tech AI Spending and Cloud Growth: What Financial Principles Reveal About the Next Market Boom"
+title: 'Big Tech AI Spending and Cloud Growth: What Financial Principles Reveal About the Next Market Boom'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://finance.yahoo.com/news/spending-is-leading-to-earnings-wall-street-strategists-see-payoff-from-big-techs-ai-investment-151610093.html"
+source_url: 'https://finance.yahoo.com/news/spending-is-leading-to-earnings-wall-street-strategists-see-payoff-from-big-techs-ai-investment-151610093.html'
 ---
 <article>
 <header class="ncg-header">

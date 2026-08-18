@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Virginia State University Shooting: What Psychology Reveals About the 14-Hour Dorm Hiding Spot"
+title: 'Virginia State University Shooting: What Psychology Reveals About the 14-Hour Dorm Hiding Spot'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.theguardian.com/us-news/2026/aug/16/virginia-state-university-shooting-suspect-arrested"
+source_url: 'https://www.theguardian.com/us-news/2026/aug/16/virginia-state-university-shooting-suspect-arrested'
 ---
 <article>
   <header>

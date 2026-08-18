@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Yemen Conflict Escalates: What Historical Parallels Reveal About the Breaking..."
+title: 'Yemen Conflict Escalates: What Historical Parallels Reveal About the Breaking'
 date: 2026-08-17
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates"
+source_url: 'https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates'
 ---
 <article>
   <header class="ncg-header">

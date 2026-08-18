@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Jon Ossoff, Natalie Harp, and the Politics of Access: What Psychology Reveals About Washington Proximity"
+title: 'Jon Ossoff, Natalie Harp, and the Politics of Access: What Psychology Reveals About Washington Proximity'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.newsweek.com/jon-ossoff-turns-spotlight-on-donald-trump-aide-natalie-harp-12330009"
+source_url: 'https://www.newsweek.com/jon-ossoff-turns-spotlight-on-donald-trump-aide-natalie-harp-12330009'
 ---
 <article>
   <header>

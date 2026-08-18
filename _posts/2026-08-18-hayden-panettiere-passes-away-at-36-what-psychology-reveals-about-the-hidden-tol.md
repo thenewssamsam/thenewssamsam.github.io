@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Hayden Panettiere Passes Away at 36: What Psychology Reveals About the Hidden Toll of Child Stardom"
+title: 'Hayden Panettiere Passes Away at 36: What Psychology Reveals About the Hidden Toll of Child Stardom'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.bbc.com/news/articles/cq5665zgg1po"
+source_url: 'https://www.bbc.com/news/articles/cq5665zgg1po'
 ---
 
 <article>

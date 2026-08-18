@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Nike Shares Hit 11-Year Low: What the Financial Impact Tells Us About Retail Turnarounds"
+title: 'Nike Shares Hit 11-Year Low: What the Financial Impact Tells Us About Retail Turnarounds'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://ca.finance.yahoo.com/news/nike-shares-hit-11-low-174500075.html"
+source_url: 'https://ca.finance.yahoo.com/news/nike-shares-hit-11-low-174500075.html'
 ---
 
 <article>

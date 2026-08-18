@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Stock Market Selloff and US-Iran Tensions: What Financial Impact Tells Us About Yields and Oil"
+title: 'Stock Market Selloff and US-Iran Tensions: What Financial Impact Tells Us About Yields and Oil'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html"
+source_url: 'https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html'
 ---
 <article>
 <header>

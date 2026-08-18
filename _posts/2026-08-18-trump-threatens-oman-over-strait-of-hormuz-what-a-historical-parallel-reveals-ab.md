@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trump Threatens Oman Over Strait of Hormuz: What a Historical Parallel Reveals About Geopolitical Brinkmanship"
+title: 'Trump Threatens Oman Over Strait of Hormuz: What a Historical Parallel Reveals About Geopolitical Brinkmanship'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://apnews.com/article/iran-us-israel-lebanon-gaza-hormuz-august-17-2026-53ae10812e472a4e5bb228b9f318a5fc"
+source_url: 'https://apnews.com/article/iran-us-israel-lebanon-gaza-hormuz-august-17-2026-53ae10812e472a4e5bb228b9f318a5fc'
 ---
 
 <article>

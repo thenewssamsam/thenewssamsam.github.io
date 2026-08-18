@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Predicting the 2026 Preseason AP Poll: What Psychology and Groupthink Tell Us About Early College Football Hype"
+title: 'Predicting the 2026 Preseason AP Poll: What Psychology and Groupthink Tell Us About Early College Football Hype'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://sports.yahoo.com/articles/predicting-2026-preseason-ap-poll-120000350.html"
+source_url: 'https://sports.yahoo.com/articles/predicting-2026-preseason-ap-poll-120000350.html'
 ---
 <article>
   <header>

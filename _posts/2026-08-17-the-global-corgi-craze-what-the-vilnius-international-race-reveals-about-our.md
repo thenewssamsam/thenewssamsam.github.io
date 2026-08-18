@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Global Corgi Craze: What the Vilnius International Race Reveals About Our..."
+title: 'The Global Corgi Craze: What the Vilnius International Race Reveals About Our'
 date: 2026-08-17
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://apnews.com/article/lithuania-vilnius-corgi-race-costumes-nose-bark-82c1d801bc7805e78bf365ea44a1344f"
+source_url: 'https://apnews.com/article/lithuania-vilnius-corgi-race-costumes-nose-bark-82c1d801bc7805e78bf365ea44a1344f'
 ---
 <article>
   <header>

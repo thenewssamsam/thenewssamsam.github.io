@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "NIPSCO Storm Recovery Meals: What Local & Community Impact Reveals About Disaster Relief"
+title: 'NIPSCO Storm Recovery Meals: What Local & Community Impact Reveals About Disaster Relief'
 date: 2026-08-18
-categories: [news]
-tags: [local]
+categories:
+  - news
+tags:
+  - local
 author: Sam
-source_url: "https://wsbt.com/news/local/storm-damage-recovery-cleanup-power-outages-assistance-aid-families-community-food-distribution-meals-lunch-dinner-free-nipsco-portage-hammond-laporte-gary-merrillville-highland-northwest-indiana"
+source_url: 'https://wsbt.com/news/local/storm-damage-recovery-cleanup-power-outages-assistance-aid-families-community-food-distribution-meals-lunch-dinner-free-nipsco-portage-hammond-laporte-gary-merrillville-highland-northwest-indiana'
 ---
 <article class="ncg-article">
 <header class="ncg-header">

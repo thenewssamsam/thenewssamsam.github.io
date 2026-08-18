@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Jeff Currie Turns Bullish on Gold: What Financial Mechanics Reveal About Long-Term Volatility"
+title: 'Jeff Currie Turns Bullish on Gold: What Financial Mechanics Reveal About Long-Term Volatility'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.cnbc.com/2026/08/17/gold-prices-jeff-currie-gold.html"
+source_url: 'https://www.cnbc.com/2026/08/17/gold-prices-jeff-currie-gold.html'
 ---
 <article>
 <style>

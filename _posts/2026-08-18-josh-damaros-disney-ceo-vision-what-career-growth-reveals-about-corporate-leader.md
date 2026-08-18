@@ -2,10 +2,12 @@
 layout: post
 title: "Josh D'Amaro's Disney CEO Vision: What Career Growth Reveals About Corporate Leadership"
 date: 2026-08-18
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://deadline.com/2026/08/disney-josh-damaro-ceo-opportunities-d23-1237042155/"
+source_url: 'https://deadline.com/2026/08/disney-josh-damaro-ceo-opportunities-d23-1237042155/'
 ---
 <article style="font-family: -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #222222; background-color: #ffffff; line-height: 1.7; max-width: 800px; margin: 0 auto; padding: 20px;">
   <header style="margin-bottom: 30px; border-bottom: 1px solid #e0e0e0; padding-bottom: 20px;">

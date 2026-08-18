@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Ohio Valley and Appalachian Flood Threat: What History and Human Psychology Reveal About Repeat Disasters"
+title: 'Ohio Valley and Appalachian Flood Threat: What History and Human Psychology Reveal About Repeat Disasters'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.foxweather.com/weather-news/heavy-rain-thunderstorms-severe-weather-alerts-east-coast"
+source_url: 'https://www.foxweather.com/weather-news/heavy-rain-thunderstorms-severe-weather-alerts-east-coast'
 ---
 <article>
   <style>

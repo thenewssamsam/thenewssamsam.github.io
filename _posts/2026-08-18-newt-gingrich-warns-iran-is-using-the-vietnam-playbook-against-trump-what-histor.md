@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Newt Gingrich Warns Iran Is Using the Vietnam Playbook Against Trump — What History Reveals About Asymmetric Political Warfare"
+title: 'Newt Gingrich Warns Iran Is Using the Vietnam Playbook Against Trump — What History Reveals About Asymmetric Political Warfare'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://nypost.com/2026/08/16/us-news/iran-betting-it-can-outlast-trump-if-dems-take-congress-gingrich-says/"
+source_url: 'https://nypost.com/2026/08/16/us-news/iran-betting-it-can-outlast-trump-if-dems-take-congress-gingrich-says/'
 ---
 <article>
   <header>

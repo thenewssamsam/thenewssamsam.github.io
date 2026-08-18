@@ -2,10 +2,12 @@
 layout: post
 title: "Mary Peltola's Alaska Senate Bid: What History Reveals About Independent Politics"
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.usatoday.com/story/news/politics/elections/2026/08/17/mary-peltola-alaska-senate-election-democrats/91294319007/"
+source_url: 'https://www.usatoday.com/story/news/politics/elections/2026/08/17/mary-peltola-alaska-senate-election-democrats/91294319007/'
 ---
 <article>
 <header>

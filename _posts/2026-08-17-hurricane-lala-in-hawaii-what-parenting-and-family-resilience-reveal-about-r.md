@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Hurricane Lala in Hawaii: What Parenting and Family Resilience Reveal About R..."
+title: 'Hurricane Lala in Hawaii: What Parenting and Family Resilience Reveal About R'
 date: 2026-08-17
-categories: [news]
-tags: [parenting]
+categories:
+  - news
+tags:
+  - parenting
 author: Sam
-source_url: "https://www.sfchronicle.com/weather/article/hawaii-hurricane-lala-flooding-storm-22390237.php"
+source_url: 'https://www.sfchronicle.com/weather/article/hawaii-hurricane-lala-flooding-storm-22390237.php'
 ---
 <article>
   <header class="ncg-header">

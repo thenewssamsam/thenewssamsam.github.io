@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Debbie Wasserman Schultz in Florida: What Political Representation Means in a Diverse District"
+title: 'Debbie Wasserman Schultz in Florida: What Political Representation Means in a Diverse District'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://apnews.com/article/midterms-florida-trump-debbie-wasserman-schultz-72997f3c390437a7f33dc4134736d324"
+source_url: 'https://apnews.com/article/midterms-florida-trump-debbie-wasserman-schultz-72997f3c390437a7f33dc4134736d324'
 ---
 <article>
 <header>

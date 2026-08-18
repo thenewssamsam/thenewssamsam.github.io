@@ -2,10 +2,12 @@
 layout: post
 title: "Harvard Endowment's $2.2 Billion SpaceX Stake: What Financial Impact and Wealth Stewardship Reveal About Institutional Investing"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://qz.com/harvard-endowment-spacex-stake-2-billion-081726"
+source_url: 'https://qz.com/harvard-endowment-spacex-stake-2-billion-081726'
 ---
 
 <article>

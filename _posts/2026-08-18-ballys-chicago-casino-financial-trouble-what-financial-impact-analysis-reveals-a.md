@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Ballys Chicago Casino Financial Trouble: What Financial Impact Analysis Reveals About the $400M Project"
+title: 'Ballys Chicago Casino Financial Trouble: What Financial Impact Analysis Reveals About the $400M Project'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://chicago.suntimes.com/casinos-gambling/2026/08/17/ballys-chicago-casino-video-gambling-going-concern"
+source_url: 'https://chicago.suntimes.com/casinos-gambling/2026/08/17/ballys-chicago-casino-video-gambling-going-concern'
 ---
 
 <article>

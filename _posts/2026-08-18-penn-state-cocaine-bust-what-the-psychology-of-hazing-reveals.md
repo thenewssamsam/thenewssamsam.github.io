@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Penn State Cocaine Bust: What the Psychology of Hazing Reveals"
+title: 'Penn State Cocaine Bust: What the Psychology of Hazing Reveals'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.foxnews.com/us/penn-state-cocaine-bust-nets-14-arrests-over-alleged-pledge-coke-cutting-indoctrination-rituals"
+source_url: 'https://www.foxnews.com/us/penn-state-cocaine-bust-nets-14-arrests-over-alleged-pledge-coke-cutting-indoctrination-rituals'
 ---
 
 <article>

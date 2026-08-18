@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Michigan Shootings in Missaukee County: What a Psychology Lens Reveals About Domestic Violence and Normalcy Bias"
+title: 'Michigan Shootings in Missaukee County: What a Psychology Lens Reveals About Domestic Violence and Normalcy Bias'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://abc7.com/post/michigan-shootings-6-dead-including-suspect-chad-hickman-missaukee-county-shooting-incidents-girl-survived/19687974/"
+source_url: 'https://abc7.com/post/michigan-shootings-6-dead-including-suspect-chad-hickman-missaukee-county-shooting-incidents-girl-survived/19687974/'
 ---
 <article>
   <header class="ncg-header">

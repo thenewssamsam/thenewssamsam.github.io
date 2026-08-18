@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Missaukee County Mass Shooting: What Faith and Community Reveal in the Wake of Tragedy"
+title: 'Missaukee County Mass Shooting: What Faith and Community Reveal in the Wake of Tragedy'
 date: 2026-08-18
-categories: [news]
-tags: [faith]
+categories:
+  - news
+tags:
+  - faith
 author: Sam
-source_url: "https://www.detroitnews.com/story/news/local/michigan/2026/08/16/missaukee-county-mass-shooting-vigil-justice/91327822007/"
+source_url: 'https://www.detroitnews.com/story/news/local/michigan/2026/08/16/missaukee-county-mass-shooting-vigil-justice/91327822007/'
 ---
 <article>
 <header class="ncg-header">

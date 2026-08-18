@@ -2,10 +2,12 @@
 layout: post
 title: "Mark Zuckerberg's AI Manifesto: What Psychology Explains About Public Skepticism"
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/"
+source_url: 'https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/'
 ---
 <article>
 <header>

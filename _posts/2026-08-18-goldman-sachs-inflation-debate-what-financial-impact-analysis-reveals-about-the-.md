@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Goldman Sachs Inflation Debate: What Financial Impact Analysis Reveals About the Fed and Bond Markets"
+title: 'Goldman Sachs Inflation Debate: What Financial Impact Analysis Reveals About the Fed and Bond Markets'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://investinglive.com/central-banks/goldman-sachs-labour-market-not-that-interesting-as-inflation-dominates-fed-debate/"
+source_url: 'https://investinglive.com/central-banks/goldman-sachs-labour-market-not-that-interesting-as-inflation-dominates-fed-debate/'
 ---
 <article>
 <header>

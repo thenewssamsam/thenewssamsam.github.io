@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The $26 Million Farm Rejection: What Faith and Stewardship Reveal About the AI Boom"
+title: 'The $26 Million Farm Rejection: What Faith and Stewardship Reveal About the AI Boom'
 date: 2026-08-18
-categories: [news]
-tags: [faith]
+categories:
+  - news
+tags:
+  - faith
 author: Sam
-source_url: "https://www.syracuse.com/us-news/2026/08/farmer-gives-6-word-response-to-ai-companys-26m-offer-for-data-center.html"
+source_url: 'https://www.syracuse.com/us-news/2026/08/farmer-gives-6-word-response-to-ai-companys-26m-offer-for-data-center.html'
 ---
 <article>
 <header class="ncg-header">

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The House Ethics Investigation into Rep. Jimmy Gomez: A Psychology of Power Perspective"
+title: 'The House Ethics Investigation into Rep. Jimmy Gomez: A Psychology of Power Perspective'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.npr.org/2026/08/17/nx-s1-5935513/jimmy-gomez-house-ethics-investigation"
+source_url: 'https://www.npr.org/2026/08/17/nx-s1-5935513/jimmy-gomez-house-ethics-investigation'
 ---
 
 <article>

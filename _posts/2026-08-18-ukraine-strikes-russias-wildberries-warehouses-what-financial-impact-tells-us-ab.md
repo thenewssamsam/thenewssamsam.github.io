@@ -2,10 +2,12 @@
 layout: post
 title: "Ukraine Strikes Russia's Wildberries Warehouses: What Financial Impact Tells Us About the War's New Economic Reality"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://apnews.com/article/russia-ukraine-war-putin-wildberries-kim-48c331f100a1d981959c5d75a1397d21"
+source_url: 'https://apnews.com/article/russia-ukraine-war-putin-wildberries-kim-48c331f100a1d981959c5d75a1397d21'
 ---
 <article>
   <header>

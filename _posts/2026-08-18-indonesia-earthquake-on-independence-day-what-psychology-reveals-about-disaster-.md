@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Indonesia Earthquake on Independence Day: What Psychology Reveals About Disaster Trauma and Survival"
+title: 'Indonesia Earthquake on Independence Day: What Psychology Reveals About Disaster Trauma and Survival'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.cbsnews.com/news/indonesia-earthquake-death-toll-flores-island-independence-day/"
+source_url: 'https://www.cbsnews.com/news/indonesia-earthquake-death-toll-flores-island-independence-day/'
 ---
 <article>
 <header>

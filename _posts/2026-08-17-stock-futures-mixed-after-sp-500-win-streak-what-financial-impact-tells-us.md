@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Stock Futures Mixed After S&P 500 Win Streak: What Financial Impact Tells Us ..."
+title: 'Stock Futures Mixed After S&P 500 Win Streak: What Financial Impact Tells Us'
 date: 2026-08-17
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.cnbc.com/2026/08/16/stock-market-today-live-updates-.html"
+source_url: 'https://www.cnbc.com/2026/08/16/stock-market-today-live-updates-.html'
 ---
 <article class="ncg-article-wrapper">
 <style>

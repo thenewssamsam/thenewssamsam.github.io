@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Ian Machado Garry After UFC 330: What the Psychology of Hesitation Reveals About the Elite Mindset"
+title: 'Ian Machado Garry After UFC 330: What the Psychology of Hesitation Reveals About the Elite Mindset'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://bleacherreport.com/articles/25472801-dana-white-rips-machado-garrys-lack-killer-instinct-after-ufc-330-drives-me-f-king-crazy"
+source_url: 'https://bleacherreport.com/articles/25472801-dana-white-rips-machado-garrys-lack-killer-instinct-after-ufc-330-drives-me-f-king-crazy'
 ---
 <article>
 <header>

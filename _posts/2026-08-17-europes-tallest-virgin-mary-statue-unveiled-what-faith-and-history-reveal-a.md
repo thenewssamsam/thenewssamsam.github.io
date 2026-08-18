@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Europe's Tallest Virgin Mary Statue Unveiled: What Faith and History Reveal A..."
+title: "Europe's Tallest Virgin Mary Statue Unveiled: What Faith and History Reveal A"
 date: 2026-08-17
-categories: [news]
-tags: [faith]
+categories:
+  - news
+tags:
+  - faith
 author: Sam
-source_url: "https://www.theguardian.com/world/2026/aug/16/tallest-statue-virgin-mary-poland-europe"
+source_url: 'https://www.theguardian.com/world/2026/aug/16/tallest-statue-virgin-mary-poland-europe'
 ---
 <article>
 <header>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Hakeem Jeffries Rejects DSA Platform: What a Historical Parallel Reveals About Democratic Party Fractures"
+title: 'Hakeem Jeffries Rejects DSA Platform: What a Historical Parallel Reveals About Democratic Party Fractures'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.washingtontimes.com/news/2026/aug/16/house-democratic-leader-hakeem-jeffries-denounces-democratic/"
+source_url: 'https://www.washingtontimes.com/news/2026/aug/16/house-democratic-leader-hakeem-jeffries-denounces-democratic/'
 ---
 <article>
   <header>

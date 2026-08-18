@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "NFL Preseason Injuries: What Psychology &amp; Behavior Reveals About the August Panic"
+title: 'NFL Preseason Injuries: What Psychology &amp; Behavior Reveals About the August Panic'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://fansided.com/nfl/troubling-nfl-injuries-from-week-1-of-preseason-jeremiyah-love-d-j-moore-and-more"
+source_url: 'https://fansided.com/nfl/troubling-nfl-injuries-from-week-1-of-preseason-jeremiyah-love-d-j-moore-and-more'
 ---
 <article>
 <header>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Dan Newlin Colombia Earthquake Aid: What a Faith and Scripture Perspective Reveals About Compassion in Crisis"
+title: 'Dan Newlin Colombia Earthquake Aid: What a Faith and Scripture Perspective Reveals About Compassion in Crisis'
 date: 2026-08-18
-categories: [news]
-tags: [faith]
+categories:
+  - news
+tags:
+  - faith
 author: Sam
-source_url: "https://www.wesh.com/article/central-florida-aid-flight-colombia-earthquake/73451860"
+source_url: 'https://www.wesh.com/article/central-florida-aid-flight-colombia-earthquake/73451860'
 ---
 <article class="ncg-article">
   <style>

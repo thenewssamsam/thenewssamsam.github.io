@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Palestinian American Returns to West Bank: What Faith and Scripture Reveal About Home, Defense, and Justice"
+title: 'Palestinian American Returns to West Bank: What Faith and Scripture Reveal About Home, Defense, and Justice'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://apnews.com/article/israel-west-bank-palestinian-american-israeli-settlers-515e39a03c3e7cb00528c466bf106270"
+source_url: 'https://apnews.com/article/israel-west-bank-palestinian-american-israeli-settlers-515e39a03c3e7cb00528c466bf106270'
 ---
 
 <article>

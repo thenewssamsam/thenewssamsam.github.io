@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Indonesia Earthquake Search Efforts: What Psychology Reveals About Normalcy Bias in Disasters"
+title: 'Indonesia Earthquake Search Efforts: What Psychology Reveals About Normalcy Bias in Disasters'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.yahoo.com/news/videos/search-rescue-teams-continue-search-112208902.html"
+source_url: 'https://www.yahoo.com/news/videos/search-rescue-teams-continue-search-112208902.html'
 ---
 <article>
 <style>

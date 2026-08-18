@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Donald Trump Loses It at Fox News Anchor Shannon Bream: What the Psychology of Grievance Reveals About Media Dynamics"
+title: 'Donald Trump Loses It at Fox News Anchor Shannon Bream: What the Psychology of Grievance Reveals About Media Dynamics'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.huffpost.com/entry/donald-trump-fox-news-shannon-bream_n_6a82d0e4e4b0ddd9c1b275f4"
+source_url: 'https://www.huffpost.com/entry/donald-trump-fox-news-shannon-bream_n_6a82d0e4e4b0ddd9c1b275f4'
 ---
 <article>
 <header>

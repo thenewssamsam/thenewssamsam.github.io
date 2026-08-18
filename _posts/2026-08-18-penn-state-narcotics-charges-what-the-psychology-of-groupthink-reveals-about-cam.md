@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Penn State Narcotics Charges: What the Psychology of Groupthink Reveals About Campus Culture"
+title: 'Penn State Narcotics Charges: What the Psychology of Groupthink Reveals About Campus Culture'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.psu.edu/news/campus-life/story/penn-state-responds-serious-criminal-charges-against-current-and-former-students"
+source_url: 'https://www.psu.edu/news/campus-life/story/penn-state-responds-serious-criminal-charges-against-current-and-former-students'
 ---
 
 <article>

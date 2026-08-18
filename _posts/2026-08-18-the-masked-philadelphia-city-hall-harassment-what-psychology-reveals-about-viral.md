@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Masked Philadelphia City Hall Harassment: What Psychology Reveals About Viral Prank Culture"
+title: 'The Masked Philadelphia City Hall Harassment: What Psychology Reveals About Viral Prank Culture'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.nbcphiladelphia.com/news/local/masked-man-reportedly-harassing-people-near-city-hall-philadelphia/4449313/"
+source_url: 'https://www.nbcphiladelphia.com/news/local/masked-man-reportedly-harassing-people-near-city-hall-philadelphia/4449313/'
 ---
 
 <article>

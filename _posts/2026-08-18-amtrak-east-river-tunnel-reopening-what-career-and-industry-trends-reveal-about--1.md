@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Amtrak East River Tunnel Reopening: What Career and Industry Trends Reveal About U.S. Infrastructure"
+title: 'Amtrak East River Tunnel Reopening: What Career and Industry Trends Reveal About U.S. Infrastructure'
 date: 2026-08-18
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://media.amtrak.com/2026/08/amtrak-completes-first-phase-of-east-river-tunnel-rehabilitation-project-restores-train-service-in-line-2/"
+source_url: 'https://media.amtrak.com/2026/08/amtrak-completes-first-phase-of-east-river-tunnel-rehabilitation-project-restores-train-service-in-line-2/'
 ---
 
 <article>

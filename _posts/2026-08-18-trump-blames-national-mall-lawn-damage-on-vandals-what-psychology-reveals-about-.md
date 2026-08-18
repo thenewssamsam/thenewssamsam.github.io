@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trump Blames National Mall Lawn Damage on Vandals: What Psychology Reveals About the Need to Blame"
+title: 'Trump Blames National Mall Lawn Damage on Vandals: What Psychology Reveals About the Need to Blame'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.forbes.com/sites/siladityaray/2026/08/17/trump-blames-vandals-for-damaging-lawn-at-national-mall-site-where-he-held-july-4-rally/"
+source_url: 'https://www.forbes.com/sites/siladityaray/2026/08/17/trump-blames-vandals-for-damaging-lawn-at-national-mall-site-where-he-held-july-4-rally/'
 ---
 <article>
 <header>

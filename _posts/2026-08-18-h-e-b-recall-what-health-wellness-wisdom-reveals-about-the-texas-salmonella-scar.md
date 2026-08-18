@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "H-E-B Recall: What Health & Wellness Wisdom Reveals About the Texas Salmonella Scare"
+title: 'H-E-B Recall: What Health & Wellness Wisdom Reveals About the Texas Salmonella Scare'
 date: 2026-08-18
-categories: [news]
-tags: [health]
+categories:
+  - news
+tags:
+  - health
 author: Sam
-source_url: "https://www.chron.com/news/article/heb-recall-salmonella-risk-texas-22390421.php"
+source_url: 'https://www.chron.com/news/article/heb-recall-salmonella-risk-texas-22390421.php'
 ---
 <article>
 <header>

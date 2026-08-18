@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Eagles Preseason Opener: What Career & Industry Lenses Reveal About the Backup QB Race"
+title: 'Eagles Preseason Opener: What Career & Industry Lenses Reveal About the Backup QB Race'
 date: 2026-08-18
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://www.nytimes.com/athletic/7516358/2026/08/16/eagles-preseason-progress-qb2-uar-bernard-joshua-weru/"
+source_url: 'https://www.nytimes.com/athletic/7516358/2026/08/16/eagles-preseason-progress-qb2-uar-bernard-joshua-weru/'
 ---
 <article>
   <header>

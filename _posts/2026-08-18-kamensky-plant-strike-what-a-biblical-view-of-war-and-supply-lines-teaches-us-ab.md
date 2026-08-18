@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Kamensky Plant Strike: What a Biblical View of War and Supply Lines Teaches Us About Modern Conflict"
+title: 'Kamensky Plant Strike: What a Biblical View of War and Supply Lines Teaches Us About Modern Conflict'
 date: 2026-08-18
-categories: [news]
-tags: [faith]
+categories:
+  - news
+tags:
+  - faith
 author: Sam
-source_url: "https://www.pravda.com.ua/eng/news/2026/08/17/8048980/"
+source_url: 'https://www.pravda.com.ua/eng/news/2026/08/17/8048980/'
 ---
 <article>
   <style>

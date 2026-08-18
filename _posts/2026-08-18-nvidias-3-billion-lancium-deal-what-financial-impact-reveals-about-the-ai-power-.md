@@ -2,10 +2,12 @@
 layout: post
 title: "NVIDIA's $3 Billion Lancium Deal: What Financial Impact Reveals About the AI Power Crunch"
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://finance.yahoo.com/technology/ai/articles/nvidia-3-billion-bet-power-202314612.html"
+source_url: 'https://finance.yahoo.com/technology/ai/articles/nvidia-3-billion-bet-power-202314612.html'
 ---
 <article>
 <header class="ncg-header">

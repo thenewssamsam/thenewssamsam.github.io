@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Meta Child Privacy Trial: What Psychology Reveals About Social Media Addiction"
+title: 'Meta Child Privacy Trial: What Psychology Reveals About Social Media Addiction'
 date: 2026-08-18
-categories: [news]
-tags: [news]
+categories:
+  - news
+tags:
+  - news
 author: Sam
-source_url: "https://www.bbc.com/news/articles/clyqpx6xk69o"
+source_url: 'https://www.bbc.com/news/articles/clyqpx6xk69o'
 ---
 <article>
   <header>

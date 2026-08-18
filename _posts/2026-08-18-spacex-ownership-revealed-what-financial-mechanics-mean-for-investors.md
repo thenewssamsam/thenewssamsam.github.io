@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "SpaceX Ownership Revealed: What Financial Mechanics Mean for Investors"
+title: 'SpaceX Ownership Revealed: What Financial Mechanics Mean for Investors'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://finance.yahoo.com/markets/article/spacexs-biggest-investors-are-finally-visible--just-as-millions-more-shares-unlock-chart-of-the-day-154946600.html"
+source_url: 'https://finance.yahoo.com/markets/article/spacexs-biggest-investors-are-finally-visible--just-as-millions-more-shares-unlock-chart-of-the-day-154946600.html'
 ---
 
 <article>

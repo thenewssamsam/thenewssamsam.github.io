@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Flock Safety License Plate Tracking: What the Psychology of Surveillance Reveals About Privacy"
+title: 'Flock Safety License Plate Tracking: What the Psychology of Surveillance Reveals About Privacy'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.cbsnews.com/news/flock-license-plate-tracking-search-check/"
+source_url: 'https://www.cbsnews.com/news/flock-license-plate-tracking-search-check/'
 ---
 
 <article>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Peak Design City Line Review: What a Clever Little Hook Reveals About Everyday Minimalism"
+title: 'Peak Design City Line Review: What a Clever Little Hook Reveals About Everyday Minimalism'
 date: 2026-08-18
-categories: [news]
-tags: [life]
+categories:
+  - news
+tags:
+  - life
 author: Sam
-source_url: "https://www.theverge.com/tech/980137/peak-design-city-line-review"
+source_url: 'https://www.theverge.com/tech/980137/peak-design-city-line-review'
 ---
 <article>
 <header>

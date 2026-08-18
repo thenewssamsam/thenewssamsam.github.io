@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Mount Etna Lightning Strike: What Psychology Reveals About Normalcy Bias on Active Volcanoes"
+title: 'Mount Etna Lightning Strike: What Psychology Reveals About Normalcy Bias on Active Volcanoes'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.cbsnews.com/news/mount-etna-erupting-american-tourist-killed-lightning-strike-italy-volcano/"
+source_url: 'https://www.cbsnews.com/news/mount-etna-erupting-american-tourist-killed-lightning-strike-italy-volcano/'
 ---
 <article>
 <header>

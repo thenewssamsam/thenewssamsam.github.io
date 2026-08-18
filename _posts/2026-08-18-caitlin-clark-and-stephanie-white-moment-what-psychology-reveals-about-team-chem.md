@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Caitlin Clark and Stephanie White Moment: What Psychology Reveals About Team Chemistry"
+title: 'Caitlin Clark and Stephanie White Moment: What Psychology Reveals About Team Chemistry'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://sports.yahoo.com/articles/happiest-ve-seen-cc-unifying-114712213.html"
+source_url: 'https://sports.yahoo.com/articles/happiest-ve-seen-cc-unifying-114712213.html'
 ---
 <article>
 <header>

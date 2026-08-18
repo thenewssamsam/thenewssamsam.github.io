@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Critical Minerals Squeeze: What a Financial Lens Reveals About Global Supply Risks"
+title: 'The Critical Minerals Squeeze: What a Financial Lens Reveals About Global Supply Risks'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://investornews.com/critical-minerals-rare-earths/critical-minerals-report-08-16-2026-the-critical-minerals-bull-market-is-here-as-china-puts-its-arsenal-back-in-play/"
+source_url: 'https://investornews.com/critical-minerals-rare-earths/critical-minerals-report-08-16-2026-the-critical-minerals-bull-market-is-here-as-china-puts-its-arsenal-back-in-play/'
 ---
 <article>
 <header>

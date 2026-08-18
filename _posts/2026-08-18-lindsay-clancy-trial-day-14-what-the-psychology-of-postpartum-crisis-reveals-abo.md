@@ -2,10 +2,12 @@
 layout: post
 title: "Lindsay Clancy Trial Day 14: What the Psychology of Postpartum Crisis Reveals About a Mother's Defense"
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live-day-14/"
+source_url: 'https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live-day-14/'
 ---
 <article>
   <header class="ncg-header">

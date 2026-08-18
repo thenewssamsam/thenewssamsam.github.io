@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Amtrak Reopens Sandy-Damaged East River Tube: What a Historical Parallel Reveals About Infrastructure"
+title: 'Amtrak Reopens Sandy-Damaged East River Tube: What a Historical Parallel Reveals About Infrastructure'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://ny1.com/nyc/all-boroughs/news/2026/08/17/one-of-two-amtrak-tubes-damaged-by-superstorm-sandy-reopens-after-repairs"
+source_url: 'https://ny1.com/nyc/all-boroughs/news/2026/08/17/one-of-two-amtrak-tubes-damaged-by-superstorm-sandy-reopens-after-repairs'
 ---
 
 <article>

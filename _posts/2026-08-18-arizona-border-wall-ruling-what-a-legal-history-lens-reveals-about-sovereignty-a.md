@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Arizona Border Wall Ruling: What a Legal History Lens Reveals About Sovereignty and Security"
+title: 'Arizona Border Wall Ruling: What a Legal History Lens Reveals About Sovereignty and Security'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.foxnews.com/politics/federal-judge-clears-path-border-wall-construction-arizona"
+source_url: 'https://www.foxnews.com/politics/federal-judge-clears-path-border-wall-construction-arizona'
 ---
 <article>
   <header>

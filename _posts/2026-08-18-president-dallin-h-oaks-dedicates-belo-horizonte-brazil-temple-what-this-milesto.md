@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "President Dallin H. Oaks Dedicates Belo Horizonte Brazil Temple: What This Milestone Means for Global Faith"
+title: 'President Dallin H. Oaks Dedicates Belo Horizonte Brazil Temple: What This Milestone Means for Global Faith'
 date: 2026-08-18
-categories: [news]
-tags: [faith]
+categories:
+  - news
+tags:
+  - faith
 author: Sam
-source_url: "https://www.thechurchnews.com/temples/2026/08/16/dallin-h-oaks-church-president-dedicates-belo-horizonte-brazil-temple/"
+source_url: 'https://www.thechurchnews.com/temples/2026/08/16/dallin-h-oaks-church-president-dedicates-belo-horizonte-brazil-temple/'
 ---
 <article class="ncg-article-wrapper">
 <header class="ncg-header">

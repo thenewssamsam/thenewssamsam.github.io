@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Charles Young Park Shooting: What Psychology Reveals About Community Trauma a..."
+title: 'Charles Young Park Shooting: What Psychology Reveals About Community Trauma a'
 date: 2026-08-17
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.wkyt.com/2026/08/16/officials-give-update-lexington-mass-shooting/"
+source_url: 'https://www.wkyt.com/2026/08/16/officials-give-update-lexington-mass-shooting/'
 ---
 <article>
   <header style="margin-bottom: 2rem;">

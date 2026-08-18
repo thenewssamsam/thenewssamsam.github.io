@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Rebel Creamery Bankruptcy: What a $23M Lawsuit Reveals About Business and Design"
+title: 'Rebel Creamery Bankruptcy: What a $23M Lawsuit Reveals About Business and Design'
 date: 2026-08-18
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://www.cleveland.com/news/2026/08/ice-cream-brand-sold-at-walmart-target-and-kroger-files-for-bankruptcy.html"
+source_url: 'https://www.cleveland.com/news/2026/08/ice-cream-brand-sold-at-walmart-target-and-kroger-files-for-bankruptcy.html'
 ---
 <article>
   <header class="ncg-header">

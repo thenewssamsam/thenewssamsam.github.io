@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "EU Prepares Largest Russia Sanctions Package: What a Financial Lens Reveals About Economic Warfare"
+title: 'EU Prepares Largest Russia Sanctions Package: What a Financial Lens Reveals About Economic Warfare'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.pravda.com.ua/eng/news/2026/08/17/8048949/"
+source_url: 'https://www.pravda.com.ua/eng/news/2026/08/17/8048949/'
 ---
 <article class="ncg-article" style="font-family: -apple-system, 'Segoe UI', Roboto, sans-serif; color: #2d3748; line-height: 1.6; max-w: 800px; margin: 0 auto; padding: 20px;">
   <header class="ncg-header" style="margin-bottom: 2rem; border-bottom: 1px solid #e2e8f0; padding-bottom: 1.5rem;">

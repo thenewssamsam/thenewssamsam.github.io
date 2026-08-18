@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "White House Attacks on Reporters: A Psychology of Power and Deflection"
+title: 'White House Attacks on Reporters: A Psychology of Power and Deflection'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.theguardian.com/us-news/2026/aug/17/white-house-personal-attack-cnn-reporter-trump"
+source_url: 'https://www.theguardian.com/us-news/2026/aug/17/white-house-personal-attack-cnn-reporter-trump'
 ---
 
 <article>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trump Confirms IRGC Backchannel: What a Historical Parallel Reveals About High-Stakes Diplomacy"
+title: 'Trump Confirms IRGC Backchannel: What a Historical Parallel Reveals About High-Stakes Diplomacy'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.foxnews.com/world/trump-confirms-irgc-backchannel-calls-irans-white-flag-surrender"
+source_url: 'https://www.foxnews.com/world/trump-confirms-irgc-backchannel-calls-irans-white-flag-surrender'
 ---
 <article>
 <header class="ncg-header">

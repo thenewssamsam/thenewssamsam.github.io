@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Real Estate Kernel Behind Texas Republicans’ Anti-Muslim Legislative Agenda: What Psychology and Behavior Reveal About Fear and Property"
+title: 'The Real Estate Kernel Behind Texas Republicans’ Anti-Muslim Legislative Agenda: What Psychology and Behavior Reveal About Fear and Property'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://therealdeal.com/texas/2026/08/16/behind-texas-republicans-anti-muslim-legislative-agenda/"
+source_url: 'https://therealdeal.com/texas/2026/08/16/behind-texas-republicans-anti-muslim-legislative-agenda/'
 ---
 <article>
 <header>

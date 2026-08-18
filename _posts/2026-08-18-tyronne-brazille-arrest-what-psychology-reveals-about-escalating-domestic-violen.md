@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Tyronne Brazille Arrest: What Psychology Reveals About Escalating Domestic Violence"
+title: 'Tyronne Brazille Arrest: What Psychology Reveals About Escalating Domestic Violence'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.foxnews.com/us/louisiana-man-accused-killing-wife-propping-body-multistate-drive"
+source_url: 'https://www.foxnews.com/us/louisiana-man-accused-killing-wife-propping-body-multistate-drive'
 ---
 <article>
   <header class="ncg-header">

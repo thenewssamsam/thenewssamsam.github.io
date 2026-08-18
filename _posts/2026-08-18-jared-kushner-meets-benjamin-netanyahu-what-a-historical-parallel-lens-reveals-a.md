@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Jared Kushner Meets Benjamin Netanyahu: What a Historical Parallel Lens Reveals About Middle East Diplomacy"
+title: 'Jared Kushner Meets Benjamin Netanyahu: What a Historical Parallel Lens Reveals About Middle East Diplomacy'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.bbc.com/news/articles/c77gg5vn44yo"
+source_url: 'https://www.bbc.com/news/articles/c77gg5vn44yo'
 ---
 <article>
 <header>

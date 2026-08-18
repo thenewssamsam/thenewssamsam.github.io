@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Sorrento Valley Fire Arrest: What Psychology Reveals About Arson and Normalcy Bias"
+title: 'Sorrento Valley Fire Arrest: What Psychology Reveals About Arson and Normalcy Bias'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.10news.com/news/local-news/vegetation-fire-erupts-in-the-sorrento-valley"
+source_url: 'https://www.10news.com/news/local-news/vegetation-fire-erupts-in-the-sorrento-valley'
 ---
 <article>
 <header>

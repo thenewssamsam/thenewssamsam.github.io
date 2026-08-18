@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "The Terry Moran ABC News Exit: What Psychology Reveals About Media Echo Chambers"
+title: 'The Terry Moran ABC News Exit: What Psychology Reveals About Media Echo Chambers'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.foxnews.com/media/former-abc-news-correspondent-admits-network-liberal-claims-nobody-voted-trump"
+source_url: 'https://www.foxnews.com/media/former-abc-news-correspondent-admits-network-liberal-claims-nobody-voted-trump'
 ---
 <article>
   <header>

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Alibaba Qwen3.8-27B vs Meta: What the Laptop AI Race Means for Your Career"
+title: 'Alibaba Qwen3.8-27B vs Meta: What the Laptop AI Race Means for Your Career'
 date: 2026-08-18
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://qz.com/alibaba-qwen-open-weight-laptop-ai-model-meta-081726"
+source_url: 'https://qz.com/alibaba-qwen-open-weight-laptop-ai-model-meta-081726'
 ---
 <article>
   <header class="ncg-header">

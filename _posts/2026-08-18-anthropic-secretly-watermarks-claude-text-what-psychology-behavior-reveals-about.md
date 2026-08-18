@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Anthropic Secretly Watermarks Claude Text: What Psychology & Behavior Reveals About Our Digital Future"
+title: 'Anthropic Secretly Watermarks Claude Text: What Psychology & Behavior Reveals About Our Digital Future'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.androidauthority.com/how-claude-watermarks-text-3699100/"
+source_url: 'https://www.androidauthority.com/how-claude-watermarks-text-3699100/'
 ---
 <article>
 <header class="ncg-header">

@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Sirens, Mass Texts, and a 5-Second Countdown: What the Centennial Mills Demolition Reveals About Urban Resilience"
+title: 'Sirens, Mass Texts, and a 5-Second Countdown: What the Centennial Mills Demolition Reveals About Urban Resilience'
 date: 2026-08-18
-categories: [news]
-tags: [local]
+categories:
+  - news
+tags:
+  - local
 author: Sam
-source_url: "https://www.oregonlive.com/crime/2026/08/sirens-mass-public-safety-texts-and-a-5-second-countdown-what-to-expect-near-mondays-planned-centennial-mills-warehouse-demolition.html"
+source_url: 'https://www.oregonlive.com/crime/2026/08/sirens-mass-public-safety-texts-and-a-5-second-countdown-what-to-expect-near-mondays-planned-centennial-mills-warehouse-demolition.html'
 ---
 <article>
 <style>

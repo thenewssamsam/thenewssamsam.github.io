@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Berkshire Hathaway Boosts Alphabet Stake by 658%: What Financial Analysis Reveals About Google Stock"
+title: 'Berkshire Hathaway Boosts Alphabet Stake by 658%: What Financial Analysis Reveals About Google Stock'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://247wallst.com/investing/2026/08/17/berkshire-raised-its-alphabet-share-count-by-658-in-a-single-quarter-heres-where-the-stock-is-headed/"
+source_url: 'https://247wallst.com/investing/2026/08/17/berkshire-raised-its-alphabet-share-count-by-658-in-a-single-quarter-heres-where-the-stock-is-headed/'
 ---
 
 <article>

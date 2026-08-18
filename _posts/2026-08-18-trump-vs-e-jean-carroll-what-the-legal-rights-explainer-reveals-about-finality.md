@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Trump vs. E. Jean Carroll: What the Legal Rights Explainer Reveals About Finality"
+title: 'Trump vs. E. Jean Carroll: What the Legal Rights Explainer Reveals About Finality'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://apnews.com/article/trump-supreme-court-e-jean-carroll-defamation-769b731baf27199224c30af55cd0a149"
+source_url: 'https://apnews.com/article/trump-supreme-court-e-jean-carroll-defamation-769b731baf27199224c30af55cd0a149'
 ---
 
 <article>

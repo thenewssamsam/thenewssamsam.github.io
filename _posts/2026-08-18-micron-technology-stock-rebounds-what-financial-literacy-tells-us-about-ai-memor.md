@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Micron Technology Stock Rebounds: What Financial Literacy Tells Us About AI Memory Chip Rally"
+title: 'Micron Technology Stock Rebounds: What Financial Literacy Tells Us About AI Memory Chip Rally'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.investors.com/research/micron-technology-stock-mu-memory-chip-dram/"
+source_url: 'https://www.investors.com/research/micron-technology-stock-mu-memory-chip-dram/'
 ---
 
 <article>

@@ -2,10 +2,12 @@
 layout: post
 title: "Starbase Expansion in South Texas: What Local & Community Impact Reveals About SpaceX's Growing Footprint"
 date: 2026-08-18
-categories: [news]
-tags: [local]
+categories:
+  - news
+tags:
+  - local
 author: Sam
-source_url: "https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex"
+source_url: 'https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-texas-spacex'
 ---
 <article>
   <header class="ncg-header">

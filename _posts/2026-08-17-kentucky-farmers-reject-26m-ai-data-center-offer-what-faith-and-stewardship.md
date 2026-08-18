@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Kentucky Farmers Reject $26M AI Data Center Offer: What Faith and Stewardship..."
+title: 'Kentucky Farmers Reject $26M AI Data Center Offer: What Faith and Stewardship'
 date: 2026-08-17
-categories: [news]
-tags: [faith]
+categories:
+  - news
+tags:
+  - faith
 author: Sam
-source_url: "https://nypost.com/2026/08/16/us-news/country-hick-kentucky-farmers-reject-ai-companys-26m-offer-to-build-data-centers-on-land/"
+source_url: 'https://nypost.com/2026/08/16/us-news/country-hick-kentucky-farmers-reject-ai-companys-26m-offer-to-build-data-centers-on-land/'
 ---
 <article>
   <header>

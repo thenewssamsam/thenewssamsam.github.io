@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Tragedy on the M3: What the Medjugorje Pilgrim Bus Crash Reveals About Human ..."
+title: 'Tragedy on the M3: What the Medjugorje Pilgrim Bus Crash Reveals About Human'
 date: 2026-08-17
-categories: [news]
-tags: [faith]
+categories:
+  - news
+tags:
+  - faith
 author: Sam
-source_url: "https://www.theguardian.com/world/2026/aug/16/polish-tourist-bus-crash-northern-hungary-catholic-pilgrims"
+source_url: 'https://www.theguardian.com/world/2026/aug/16/polish-tourist-bus-crash-northern-hungary-catholic-pilgrims'
 ---
 <article>
   <header class="ncg-header">

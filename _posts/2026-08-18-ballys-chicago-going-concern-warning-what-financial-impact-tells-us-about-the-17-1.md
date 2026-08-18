@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Bally’s Chicago Going Concern Warning: What Financial Impact Tells Us About the $1.7 Billion Casino Project"
+title: 'Bally’s Chicago Going Concern Warning: What Financial Impact Tells Us About the $1.7 Billion Casino Project'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.chicagotribune.com/2026/08/17/ballys-chicago-going-concern-warning/"
+source_url: 'https://www.chicagotribune.com/2026/08/17/ballys-chicago-going-concern-warning/'
 ---
 
 <article>

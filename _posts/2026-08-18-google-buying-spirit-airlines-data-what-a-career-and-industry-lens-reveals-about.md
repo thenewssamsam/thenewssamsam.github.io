@@ -2,10 +2,12 @@
 layout: post
 title: "Google Buying Spirit Airlines Data: What a Career and Industry Lens Reveals About AI's Next Phase"
 date: 2026-08-18
-categories: [news]
-tags: [career]
+categories:
+  - news
+tags:
+  - career
 author: Sam
-source_url: "https://news.bloomberglaw.com/bankruptcy-law/google-aims-to-boost-ai-with-purchase-of-spirit-airlines-data"
+source_url: 'https://news.bloomberglaw.com/bankruptcy-law/google-aims-to-boost-ai-with-purchase-of-spirit-airlines-data'
 ---
 
 <article>

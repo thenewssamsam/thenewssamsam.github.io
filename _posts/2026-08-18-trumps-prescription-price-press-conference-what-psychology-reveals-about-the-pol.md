@@ -2,10 +2,12 @@
 layout: post
 title: "Trump's Prescription Price Press Conference: What Psychology Reveals About the Politics of Credit"
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.huffingtonpost.co.uk/entry/trump-prescriptions-us-news_uk_6a82c28de4b0ddd9c1b26c68"
+source_url: 'https://www.huffingtonpost.co.uk/entry/trump-prescriptions-us-news_uk_6a82c28de4b0ddd9c1b26c68'
 ---
 <article>
 <style>

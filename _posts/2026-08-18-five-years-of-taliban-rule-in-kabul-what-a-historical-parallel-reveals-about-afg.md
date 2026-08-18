@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Five Years of Taliban Rule in Kabul: What a Historical Parallel Reveals About Afghanistan Today"
+title: 'Five Years of Taliban Rule in Kabul: What a Historical Parallel Reveals About Afghanistan Today'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul"
+source_url: 'https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul'
 ---
 <article>
 <header>

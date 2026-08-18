@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Stock Market Today: What Harvard’s $2.2 Billion SpaceX Stake Reveals About Institutional Investing"
+title: 'Stock Market Today: What Harvard’s $2.2 Billion SpaceX Stake Reveals About Institutional Investing'
 date: 2026-08-18
-categories: [news]
-tags: [financial]
+categories:
+  - news
+tags:
+  - financial
 author: Sam
-source_url: "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-on-monday-august-17-2026-12061089"
+source_url: 'https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-on-monday-august-17-2026-12061089'
 ---
 
 <article>

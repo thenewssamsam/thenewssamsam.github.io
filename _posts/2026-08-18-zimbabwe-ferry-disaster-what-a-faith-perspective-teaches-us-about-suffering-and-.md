@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship"
+title: 'Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship'
 date: 2026-08-18
-categories: [news]
-tags: [faith]
+categories:
+  - news
+tags:
+  - faith
 author: Sam
-source_url: "https://apnews.com/article/zimbabwe-ferry-capsize-death-toll-rises-children-cfd6c6df88f0d72b3ab227d8f41214f4"
+source_url: 'https://apnews.com/article/zimbabwe-ferry-capsize-death-toll-rises-children-cfd6c6df88f0d72b3ab227d8f41214f4'
 ---
 <article>
 <style>

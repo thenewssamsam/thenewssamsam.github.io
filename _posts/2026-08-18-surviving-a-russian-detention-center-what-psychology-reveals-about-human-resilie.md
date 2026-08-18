@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Surviving a Russian Detention Center: What Psychology Reveals About Human Resilience Under Occupation"
+title: 'Surviving a Russian Detention Center: What Psychology Reveals About Human Resilience Under Occupation'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.veridica.ro/en/opinions/weve-become-like-family-trying-to-survive-a-russian-detention-center"
+source_url: 'https://www.veridica.ro/en/opinions/weve-become-like-family-trying-to-survive-a-russian-detention-center'
 ---
 <article>
 <header>

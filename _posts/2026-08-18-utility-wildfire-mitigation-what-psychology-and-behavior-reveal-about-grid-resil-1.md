@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Utility Wildfire Mitigation: What Psychology and Behavior Reveal About Grid Resilience"
+title: 'Utility Wildfire Mitigation: What Psychology and Behavior Reveal About Grid Resilience'
 date: 2026-08-18
-categories: [news]
-tags: [psychology]
+categories:
+  - news
+tags:
+  - psychology
 author: Sam
-source_url: "https://www.renewableenergyworld.com/news/how-can-utilities-build-continuous-improvement-into-wildfire-mitigation-and-resiliency-efforts/"
+source_url: 'https://www.renewableenergyworld.com/news/how-can-utilities-build-continuous-improvement-into-wildfire-mitigation-and-resiliency-efforts/'
 ---
 
 <article>

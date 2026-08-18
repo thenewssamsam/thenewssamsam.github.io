@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Super El Nino California Snowfall 2026: What History Teaches Us About the Next Big Winter"
+title: 'Super El Nino California Snowfall 2026: What History Teaches Us About the Next Big Winter'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://nypost.com/2026/08/16/science/super-el-nino-odds-for-california-snow-fall-revealed-in-new-expert-map-record-breaking/"
+source_url: 'https://nypost.com/2026/08/16/science/super-el-nino-odds-for-california-snow-fall-revealed-in-new-expert-map-record-breaking/'
 ---
 <article>
 <header>

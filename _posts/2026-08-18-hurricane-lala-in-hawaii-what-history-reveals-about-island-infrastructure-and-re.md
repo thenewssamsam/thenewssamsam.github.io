@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Hurricane Lala in Hawaii: What History Reveals About Island Infrastructure and Resilience"
+title: 'Hurricane Lala in Hawaii: What History Reveals About Island Infrastructure and Resilience'
 date: 2026-08-18
-categories: [news]
-tags: [historical]
+categories:
+  - news
+tags:
+  - historical
 author: Sam
-source_url: "https://www.sfchronicle.com/weather/article/hawaii-hurricane-lala-flooding-storm-22390237.php"
+source_url: 'https://www.sfchronicle.com/weather/article/hawaii-hurricane-lala-flooding-storm-22390237.php'
 ---
 <article>
 <header>

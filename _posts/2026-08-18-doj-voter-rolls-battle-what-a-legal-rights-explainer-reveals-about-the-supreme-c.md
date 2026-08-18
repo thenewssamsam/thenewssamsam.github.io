@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "DOJ Voter Rolls Battle: What a Legal Rights Explainer Reveals About the Supreme Court Showdown"
+title: 'DOJ Voter Rolls Battle: What a Legal Rights Explainer Reveals About the Supreme Court Showdown'
 date: 2026-08-18
-categories: [news]
-tags: [legal]
+categories:
+  - news
+tags:
+  - legal
 author: Sam
-source_url: "https://www.democracydocket.com/news-alerts/attorney-general-blanche-says-taking-state-voter-rolls-case-to-supreme-court-is-a-possibility/"
+source_url: 'https://www.democracydocket.com/news-alerts/attorney-general-blanche-says-taking-state-voter-rolls-case-to-supreme-court-is-a-possibility/'
 ---
 <article>
   <header>

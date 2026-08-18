@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Ryder Williams and the Oval Office Rescue: Lessons in Courage and Duty"
+title: 'Ryder Williams and the Oval Office Rescue: Lessons in Courage and Duty'
 date: 2026-08-18
-categories: [news]
-tags: [auto]
+categories:
+  - news
+tags:
+  - auto
 author: Sam
-source_url: "https://www.foxnews.com/politics/trump-meets-teen-lifeguard-boy-saved-viral-ocean-rescue-oval-office"
+source_url: 'https://www.foxnews.com/politics/trump-meets-teen-lifeguard-boy-saved-viral-ocean-rescue-oval-office'
 ---
 
 <article>

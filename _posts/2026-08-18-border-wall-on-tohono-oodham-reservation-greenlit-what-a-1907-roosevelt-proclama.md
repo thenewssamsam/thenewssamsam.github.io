@@ -2,10 +2,12 @@
 layout: post
 title: "Border Wall on Tohono O'odham Reservation Greenlit: What a 1907 Roosevelt Proclamation Reveals About Sovereign Lands"
 date: 2026-08-18
-categories: [news]
-tags: [legal]
+categories:
+  - news
+tags:
+  - legal
 author: Sam
-source_url: "https://nypost.com/2026/08/16/us-news/border-wall-construction-on-reservation-greenlit/"
+source_url: 'https://nypost.com/2026/08/16/us-news/border-wall-construction-on-reservation-greenlit/'
 ---
 <article>
 <header>
