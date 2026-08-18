@@ -53,9 +53,9 @@ def generate_sitemap(site_url="https://thenewssamsam.github.io", posts_dir="_pos
             # 從檔名提取日期
             date = extract_date_from_filename(post_file)
             
-            # 生成 URL (Jekyll 格式：/YYYY/MM/DD/title.html)
+            # 生成 URL (Jekyll 格式：/news/YYYY/MM/DD/title.html)
             title = post_file.replace('.md', '').split('-', 3)[3]  # 移除日期部分
-            url = urljoin(site_url, f'/{date.replace("-", "/")}/{title}.html')
+            url = urljoin(site_url, f'/news/{date.replace("-", "/")}/{title}.html')
             
             entries.append({
                 'loc': url,
