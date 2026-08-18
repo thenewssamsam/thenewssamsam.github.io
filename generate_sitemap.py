@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-生成 sitemap.xml 腳本
+生成 sitemap.txt 腳本
 用於 GitHub Pages 網站的 SEO 優化
-支援文章優先級、更新頻率等設定
+使用純文本格式（URL + ISO 8601 時間戳）
 """
 
 import os
@@ -20,30 +20,23 @@ def extract_date_from_filename(filename):
 
 def generate_sitemap(site_url="https://thenewssamsam.github.io", posts_dir="_posts"):
     """
-    生成 sitemap.xml
+    生成 sitemap.txt（純文本格式）
+    
+    格式：URL + ISO 8601 時間戳（例如：https://example.com/page.html2026-08-17T14:43:32Z）
     
     Args:
         site_url: 網站 URL
         posts_dir: 文章目錄路徑
     """
     
-    entries = []
+    lines = []
     
     # 1. 主頁
-    entries.append({
-        'loc': site_url,
-        'lastmod': datetime.now().strftime("%Y-%m-%d"),
-        'changefreq': 'daily',
-        'priority': '1.0'
-    })
+    now = datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
+    lines.append(f"{site_url}{now}")
     
     # 2. About 頁面
-    entries.append({
-        'loc': urljoin(site_url, '/about.html'),
-        'lastmod': datetime.now().strftime("%Y-%m-%d"),
-        'changefreq': 'monthly',
-        'priority': '0.8'
-    })
+    lines.append(f"{urljoin(site_url, '/about.html')}{now}")
     
     # 3. 所有文章
     if os.path.exists(posts_dir):
@@ -57,47 +50,30 @@ def generate_sitemap(site_url="https://thenewssamsam.github.io", posts_dir="_pos
             title = post_file.replace('.md', '').split('-', 3)[3]  # 移除日期部分
             url = urljoin(site_url, f'/news/{date.replace("-", "/")}/{title}.html')
             
-            entries.append({
-                'loc': url,
-                'lastmod': date,
-                'changefreq': 'monthly',
-                'priority': '0.7'
-            })
+            # 使用文章日期作為時間戳（設為當天中午）
+            timestamp = f"{date}T12:00:00Z"
+            lines.append(f"{url}{timestamp}")
     
-    # 生成 XML
-    xml_lines = [
-        '<?xml version="1.0" encoding="UTF-8"?>',
-        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
-    ]
-    
-    for entry in entries:
-        xml_lines.append('  <url>')
-        xml_lines.append(f'    <loc>{entry["loc"]}</loc>')
-        xml_lines.append(f'    <lastmod>{entry["lastmod"]}</lastmod>')
-        xml_lines.append(f'    <changefreq>{entry["changefreq"]}</changefreq>')
-        xml_lines.append(f'    <priority>{entry["priority"]}</priority>')
-        xml_lines.append('  </url>')
-    
-    xml_lines.append('</urlset>')
-    
-    return '\n'.join(xml_lines)
+    return '\n'.join(lines)
 
-def save_sitemap(sitemap_content, output_file='sitemap.xml'):
-    """儲存 sitemap.xml"""
+def save_sitemap(sitemap_content, output_file='sitemap.txt'):
+    """儲存 sitemap.txt"""
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write(sitemap_content)
     print(f"✅ Sitemap 已生成：{output_file}")
-    print(f"   內容行數：{len(sitemap_content.splitlines())}")
+    print(f"   URL 數量：{len(sitemap_content.splitlines())}")
 
 if __name__ == "__main__":
     # 根據執行位置自動偵測
     script_dir = Path(__file__).parent.absolute()
     posts_dir = script_dir / '_posts'
-    output_file = script_dir / 'sitemap.xml'
+    output_file = script_dir / 'sitemap.txt'
     
     sitemap = generate_sitemap(posts_dir=str(posts_dir))
     save_sitemap(sitemap, str(output_file))
     
-    # 印出前 500 字預覽
-    print("\n📄 Sitemap 預覽（前 500 字）：")
-    print(sitemap[:500] + "..." if len(sitemap) > 500 else sitemap)
+    # 印出前 5 行預覽
+    print("\n📄 Sitemap 預覽（前 5 行）：")
+    lines = sitemap.splitlines()
+    for i, line in enumerate(lines[:5], 1):
+        print(f"{i}. {line}")
