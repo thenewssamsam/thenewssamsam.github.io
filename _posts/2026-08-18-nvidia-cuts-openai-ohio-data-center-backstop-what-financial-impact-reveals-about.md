@@ -7,7 +7,6 @@ tags: [financial]
 author: Sam
 source_url: "https://qz.com/nvidia-openai-ohio-data-center-backstop-081726"
 ---
-
 <article>
   <style>
     .ncg-container {
@@ -135,6 +134,8 @@ Seagate Portable External Hard Drive ($59.99)
 </a></p>
 
 
+
+
   <p>The chipmaker lowered its proposed financial backstop from an eye-watering $250 billion to less than $120 billion. In infrastructure and venture-scale tech investments, a reduction of more than 50% on a single project guarantee is not a minor footnote—it signals a major recalibration of risk, capital allocation, and partner exposure.</p>
 
   <h2 id="financial-impact">A Financial Impact Perspective: The Limits of Silicon Scaling</h2>
@@ -168,6 +169,26 @@ Seagate Portable External Hard Drive ($59.99)
     Source: <a href="https://qz.com/nvidia-openai-ohio-data-center-backstop-081726" target="_blank" rel="noopener noreferrer">Original News Report</a>
   </div>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

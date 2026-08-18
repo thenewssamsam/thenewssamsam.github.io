@@ -7,7 +7,6 @@ tags: [life]
 author: Sam
 source_url: "https://www.startribune.com/minnesota-twins-philadelphia-phillies-game-today-score-al-wild-card-standings-alec-bohm-brooks-lee/601873398"
 ---
-
 <article>
   <header class="ncg-header">
     <div class="ncg-meta-bar">
@@ -37,6 +36,8 @@ source_url: "https://www.startribune.com/minnesota-twins-philadelphia-phillies-g
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
     <p>The finale itself was a masterclass in unraveling: a promising 5-0 lead engineered by new starter Dean Kremer vanished in a flash, rookie reliever Andrew Morris stumbled in the eighth, and defensive lapses compounded the damage. When you are fighting for postseason life, a collapse like that stings far deeper than an ordinary mid-season loss.</p>
   </section>
@@ -204,6 +205,26 @@ li {
   text-decoration: underline;
 }
 </style>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

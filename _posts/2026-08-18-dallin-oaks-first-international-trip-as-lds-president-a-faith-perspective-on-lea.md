@@ -7,7 +7,6 @@ tags: [faith]
 author: Sam
 source_url: "https://www.sltrib.com/religion/2026/08/16/dallin-oaks-first-international/"
 ---
-
 <article>
   <style>
     .ncg-container { font-family: -apple-system, "Segoe UI", Roboto, sans-serif; color: #2d3748; background-color: #ffffff; line-height: 1.7; max-width: 800px; margin: 0 auto; padding: 20px; }
@@ -38,9 +37,11 @@ source_url: "https://www.sltrib.com/religion/2026/08/16/dallin-oaks-first-intern
     <h2 id="what-happened">What Happened in Brazil?</h2>
     <p>President Dallin H. Oaks recently concluded his first international trip as the president of The Church of Jesus Christ of Latter-day Saints. The journey was highlighted by his visit to Brazil, where he expressed a deep personal eagerness to connect with the membership, stating, “I was anxious to come to Brazil... and feel the spirit of the people.” The trip reached its spiritual peak on Sunday, Aug. 16, 2026, when President Oaks presided over and performed the sacred religious rite of dedicating the Belo Horizonte Brazil Temple—a ceremony he has performed before in various capacities during his decades of apostolic service, but one that takes on a distinct weight now as he leads the global faith.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
 
     <h2 id="a-faith-perspective">A Faith Perspective on Leadership and Global Stewardship</h2>
@@ -100,6 +101,26 @@ Seagate Portable External Hard Drive ($59.99)
     </script>
   </div>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-ukraine-shopping-center-strike-what-a-faith-perspective-reveals-about-civilian-r.html" class="related-article-link">
+            <div class="related-article-title">Ukraine Shopping Center Strike: What a Faith Perspective Reveals About Civilian Resilience</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

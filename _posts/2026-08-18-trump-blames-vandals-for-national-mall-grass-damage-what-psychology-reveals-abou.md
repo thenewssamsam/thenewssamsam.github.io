@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.nbcwashington.com/news/president-trump-politics/trump-blames-vandals-for-damaged-grass-in-the-same-spot-where-he-held-his-big-july-4-celebration/4142934/"
 ---
-
 <article>
   <header class="ncg-header">
     <div class="ncg-meta-top">
@@ -42,6 +41,8 @@ source_url: "https://www.nbcwashington.com/news/president-trump-politics/trump-b
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
     <p>However, the physical timeline of the location tells a different story. Just weeks prior, that exact stretch of lawn served as the foundation for a massive stage, bandstands, and seating areas accommodating crowds gathered for a high-profile July 4 celebration. Streaming webcams and press photographs from the event and its immediate aftermath documented heavy machinery and workers dismantling the temporary structures, exposing bruised and flattened turf underneath. Local authorities, including the U.S. Attorney's office, have previously attributed similar site degradation to construction stress rather than malicious destruction, even as separate, unrelated acts of vandalism in the capital remain under active investigation.</p>
   </section>
@@ -113,6 +114,26 @@ Seagate Portable External Hard Drive ($59.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

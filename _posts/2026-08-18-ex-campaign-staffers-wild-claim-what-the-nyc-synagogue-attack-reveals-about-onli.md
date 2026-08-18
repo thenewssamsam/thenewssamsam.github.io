@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://nypost.com/2026/08/16/us-news/ex-mamdani-campaign-staffer-makes-outrageous-claim-about-hateful-nyc-synagogue-attack-where-attacker-yelled-f-k-the-jews/"
 ---
-
 <article>
   <header>
     <h1>Ex-Campaign Staffer's Wild Claim: What the NYC Synagogue Attack Reveals About Online Rumors</h1>
@@ -28,6 +27,8 @@ source_url: "https://nypost.com/2026/08/16/us-news/ex-mamdani-campaign-staffer-m
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 
   <p>Yet, amidst the initial shockwaves of the event, Debbie Saslaw—a former senior producer and co-founder of a digital agency that worked on the campaign of political figure Zohran Mamdani—posted a claim on X that sent shockwaves through local political circles. Linking to a news report about the arrest, Saslaw wrote: <em>“Apparently this guy was an orthodox jew who was lashing out at jews. I wouldn’t call that an ‘antisemitic attack.’”</em></p>
@@ -134,6 +135,32 @@ Seagate Portable External Hard Drive ($59.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

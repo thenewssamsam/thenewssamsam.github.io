@@ -7,7 +7,6 @@ tags: [health]
 author: Sam
 source_url: "https://people.com/hayden-panettiere-suffered-apparent-overdose-was-unresponsive-as-advanced-life-support-was-administered-before-death-12061106"
 ---
-
 <article>
 <header>
 <time datetime="2026-08-17">Published: August 17, 2026</time>
@@ -21,9 +20,11 @@ source_url: "https://people.com/hayden-panettiere-suffered-apparent-overdose-was
 
 <p>According to reports from the Greenville Police Department and the Greenville County Coroner's Office, emergency responders arrived at a residence in Greenville, South Carolina, on Sunday afternoon, August 16, following a 911 call placed by an acquaintance. First responders found Panettiere unresponsive and immediately initiated advanced cardiac life support measures. Despite their efforts, resuscitation was unsuccessful, and she was pronounced deceased at 2:32 p.m.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0GX8NPZ1T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+GOPPUS Insulated Leak-Proof Bottle ($19.99)
 </a></p>
+
+
 
 
 <p>Subsequent preliminary reports from the coroner's office confirmed that an autopsy completed on Monday revealed no signs of trauma that would have contributed to the death. The official cause and manner of death remain pending further investigation and toxicology studies. Meanwhile, dispatch audio and sources close to the situation have indicated that an apparent overdose was a focal point of the emergency response, with emergency treatments like Narcan present at the scene. Panettiere leaves behind an 11-year-old daughter, Kaya.</p>
@@ -87,18 +88,50 @@ Tactical Waterproof Backpack ($35.99)
 <h3>📚 Recommended Resources</h3>
 <div class="recommendations-grid">
 <div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    <div class="product-title"><a href="https://amazon.com/dp/B07MBBP71L?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Bambaw Stainless Steel Water Bottle</a></div>
+    <div class="product-price">$25.99</div>
     <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+        <a href="https://amazon.com/dp/B07MBBP71L?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
     <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
 </div>
 <div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    <div class="product-title"><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">CeraVe Skin Renewing Night Cream</a></div>
+    <div class="product-price">$18.99</div>
     <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+        <a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0GKT8JXPZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Wawahydro Insulated Water Bottle</a></div>
+    <div class="product-price">$29.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0GKT8JXPZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0GVH72LRS?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">KewLitz Insulated Stainless Steel Bottle</a></div>
+    <div class="product-price">$24.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0GVH72LRS?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0GX8NPZ1T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">GOPPUS Insulated Leak-Proof Bottle</a></div>
+    <div class="product-price">$19.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0GX8NPZ1T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B09QQCX392?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">EZPIK Reachers and Grabbers</a></div>
+    <div class="product-price">$14.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B09QQCX392?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
     <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
 </div>

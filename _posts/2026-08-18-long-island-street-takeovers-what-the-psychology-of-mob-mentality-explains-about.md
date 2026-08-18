@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://nypost.com/2026/08/16/us-news/long-island-cops-chase-hooligans-town-to-town-to-nix-wild-street-takeovers-before-finally-busting-15/"
 ---
-
 <article>
 <header>
 <span class="lsi-category" style="display:inline-block; font-size:0.85rem; font-weight:700; text-transform:uppercase; letter-spacing:0.05em; color:#6b46c1; margin-bottom:0.5rem;">News Commentary &bull; Psychology & Behavior</span>
@@ -116,6 +115,32 @@ The loudest engines rarely signal the best direction.
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

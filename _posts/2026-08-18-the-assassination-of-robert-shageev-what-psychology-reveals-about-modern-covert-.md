@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://maritime-executive.com/article/russian-escort-accused-of-killing-senior-russian-navy-officer-in-sevastopol"
 ---
-
 <article>
 <header>
 <span class="ncg-category">Geopolitics &amp; Human Behavior</span>
@@ -26,9 +25,11 @@ source_url: "https://maritime-executive.com/article/russian-escort-accused-of-ki
 <h2 id="what-happened">What Happened in Sevastopol?</h2>
 <p>According to reports from maritime and regional security sources, Russian authorities have arrested 32-year-old Margarita Reut in connection with a covert bombing in Sevastopol. Reut, a resident of Sochi and a Russian national, allegedly planted an explosive device in a trash bin on Stoletovsky Avenue on August 13. The device detonated as Captain Robert Shageev—commander of the Black Sea Fleet's 4th Separate Submarine Brigade—walked past with an acquaintance. Shageev was killed instantly at the scene.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
 <p>Russian intelligence services allege that Reut was recruited, paid, and instructed by Ukrainian intelligence. The incident follows a pattern of high-profile security events in contested and occupied regions, including recent attacks targeting defense contractors and military officials. Shageev himself was a significant figure: before joining the Russian Navy, he commanded the aging <em>Zaporizhzhia</em>, the sole submarine of the Ukrainian Navy, before transferring his allegiance during the 2014 annexation of Crimea. Wanted by Kyiv for high treason, his history made him a prominent target in an escalating shadow war.</p>
 
@@ -129,6 +130,26 @@ Seagate Portable External Hard Drive ($59.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

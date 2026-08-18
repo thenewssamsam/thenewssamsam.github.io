@@ -7,7 +7,6 @@ tags: [career]
 author: Sam
 source_url: "https://www.seattletimes.com/sports/seahawks/3-observations-from-seahawks-preseason-opener-vs-dallas-cowboys/"
 ---
-
 <article>
   <header>
     <h1>Seahawks Preseason Opener: What Career & Industry Lessons Reveal About Backup Struggles</h1>
@@ -21,9 +20,11 @@ source_url: "https://www.seattletimes.com/sports/seahawks/3-observations-from-se
   <h2 id="what-happened">What Happened in the Preseason Opener?</h2>
   <p>Head coach Mike Macdonald made it clear that the primary value of the night lay in exposing operational flaws rather than celebrating a final score. With starting quarterback Sam Darnold resting, the Seahawks rotated Drew Lock and second-year prospect Jalen Milroe under center. Lock orchestrated an opening touchdown drive, finishing 9-of-13 for 40 yards and a score, while showing a willingness to stretch the field. Milroe, working through limited regular-season experience, went 5-for-8 for 36 yards and added 36 rushing yards, though he took a costly sack and struggled to process plays quickly enough under pressure.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+abshoo College Bookbag ($29.99)
 </a></p>
+
+
 
   <p>Beyond the quarterback battle, the night highlighted a glaring chasm between first-stringers and backups—particularly along the offensive line. Running backs managed just 65 yards on 22 attempts against Dallas reserves, while the line coughed up five penalties, including multiple holding flags. For Macdonald, the sloppy communication, missed assignments, and operational friction were not just football problems; they were systemic workflow failures.</p>
 
@@ -67,22 +68,90 @@ Tactical Waterproof Backpack ($35.99)
   </footer>
 </article>
 
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
+
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>
 <div class="recommendations-grid">
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">QT-QY Military Tactical Backpack</a></div>
+    <div class="product-price">$34.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Toshiba 5400RPM Hard Drive</a></div>
+    <div class="product-price">$49.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">abshoo College Bookbag</a></div>
+    <div class="product-price">$29.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Backpack USB Charging Port</a></div>
+    <div class="product-price">$39.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">KEOFID Classic Backpack</a></div>
+    <div class="product-price">$32.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">JIYINGDUO External Hard Drive</a></div>
+    <div class="product-price">$44.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">GAZELLE External Hard Drive</a></div>
+    <div class="product-price">$54.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
     <div class="product-price">$35.99</div>
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
     <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
 </div>

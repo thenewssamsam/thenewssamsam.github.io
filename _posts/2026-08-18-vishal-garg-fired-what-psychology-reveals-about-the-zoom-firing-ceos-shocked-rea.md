@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.independent.co.uk/news/world/americas/better-ceo-vishal-garg-fired-b3033937.html"
 ---
-
 <article>
 <header class="ncg-header">
 <p class="ncg-meta"><time datetime="2026-03-30">March 30, 2026</time> &bull; 6 min read</p>
@@ -31,9 +30,11 @@ source_url: "https://www.independent.co.uk/news/world/americas/better-ceo-vishal
 <p>According to reports from CNN and other outlets, Vishal Garg was let go from Better Homes &amp; Finance on August 3. The ousting came after hedge fund manager Daniel Lewis joined the board of directors. Within just a week of securing his seat, Lewis reportedly convinced the board to remove Garg and name Lewis interim CEO.</p>
 <p>Garg, whose leadership has seen Better’s valuation plummet from an $8 million pandemic-era peak down to $300 million—compounded by a drop in annual sales from $1.5 billion in 2021 to $70 million in 2023—expressed profound betrayal. He told CNN that Lewis praised the company’s strategy on social media just to gain his confidence and win a spot on the board.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 <p>"He hoodwinked me," Garg said. In response, Garg has retained legal counsel, sent a demand letter for his reinstatement, and even offered to work for $1 a year until the company returns to profitability. Despite these maneuvers, Better’s stock has dropped 45 percent since the leadership shakeup, reflecting deep market uncertainty.</p>
 
@@ -88,6 +89,32 @@ Tactical Waterproof Backpack ($35.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

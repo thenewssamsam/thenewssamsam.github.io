@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.thedailybeast.com/trump-80-insults-his-own-goon-in-unhinged-ragepost/"
 ---
-
 <article>
 <header>
 <h1 id="top">Trump and Jeanine Pirro: What Psychology Reveals About Loyalty and Public Conflict</h1>
@@ -32,9 +31,11 @@ source_url: "https://www.thedailybeast.com/trump-80-insults-his-own-goon-in-unhi
 <h2 id="what-happened">What Happened</h2>
 <p>The friction centers around a dropped case involving alleged vandalism at the Lincoln Memorial Reflecting Pool and a subsequent social media post from Donald Trump targeting U.S. Attorney for the District of Columbia Jeanine Pirro. Initially, Pirro's office pursued charges against former Olympian David Hearn for damaging the pool's lining during a high-profile renovation. However, after reviewing the evidence, prosecutors concluded the damage stemmed from a botched job by a contractor rather than intentional vandalism, leading the office to drop the case.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 <p>Trump publicly expressed frustration, stating Pirro "folded like an umbrella." Days later, he returned to Truth Social to share photos of worn summer grass near the monuments—likely the result of foot traffic and heat from a recent Fourth of July celebration—and used the post to take another public swipe at Pirro's legal background. Despite Attorney General Todd Blanche voicing support for Pirro and explaining that the evidence simply did not support the charges, the public friction highlights the unpredictable nature of executive oversight.</p>
 </section>
@@ -92,6 +93,32 @@ Tactical Waterproof Backpack ($35.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

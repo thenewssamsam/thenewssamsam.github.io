@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://nypost.com/2026/08/16/sports/von-miller-signing-with-cowboys-in-major-defensive-boost/"
 ---
-
 <article>
   <header class="ncg-header">
     <div class="ncg-meta-row">
@@ -35,9 +34,11 @@ source_url: "https://nypost.com/2026/08/16/sports/von-miller-signing-with-cowboy
     <p>For veteran edge rusher Von Miller, the NFL carousel has taken a familiar, deeply personal turn. Multiple reports confirm that the 37-year-old pass rusher, who spent last season with the Washington Commanders, is expected to sign with the Dallas Cowboys ahead of the 2026 season. For Miller, a Texas native who starred at DeSoto High School and played collegiately at Texas A&M, the move represents a literal and figurative coming home.</p>
     <p>The signing brings active NFL career sack leader (138.5 sacks) to a revamped Dallas defense that already features newly-extended tackle Quinnen Williams, Rashan Gary, and first-round pick Malachi Lawrence. Fresh off a nine-sack bounce-back campaign in Washington—his highest total since 2021—Miller joins a Cowboys squad looking to rebound from a disappointing 7-9-1 season in 2025. And in a quintessential NFC East twist, his old team in Washington will now face him twice a year, starting right out of the gate in Week 1.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
     <p>Long before the ink dried, Miller had been dropping heavy hints. From an Instagram post flashing a Cowboys jersey to telling SB Nation that a Dallas gig meant "I only have to drive 20 minutes to work," the gravitational pull of his hometown was undeniable.</p>
   </section>
@@ -97,6 +98,26 @@ Tactical Waterproof Backpack ($35.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

@@ -30,6 +30,8 @@ Tactical Waterproof Backpack ($35.99)
 </a></p>
 
 
+
+
   <p>The human toll is severe. Beyond the twelve lives lost, virtually all remaining passengers were transferred to local hospitals in Eger, Debrecen, and Miskolc. Ten individuals were reported to be in a serious condition, while the Hungarian ambulance service confirmed that 37 people sustained minor injuries. Leaders from both nations, including Polish President Karol Nawrocki and Hungarian Prime Minister Péter Magyar, issued statements expressing profound grief, offering condolences to the grieving families, and commending the swift response of emergency rescue personnel.</p>
 
   <h2 id="a-faith-perspective">A Faith Perspective: Finding Solid Ground in Sudden Sorrow</h2>
@@ -98,6 +100,26 @@ Tactical Waterproof Backpack ($35.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

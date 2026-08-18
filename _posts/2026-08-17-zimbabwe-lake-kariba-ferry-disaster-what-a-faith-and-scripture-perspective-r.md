@@ -107,6 +107,8 @@ source_url: "https://apnews.com/article/zimbabwe-ferry-capsize-death-toll-rises-
 Seagate Portable External Hard Drive ($59.99)
 </a></p>
 
+
+
   </section>
 
   <section id="what-happened">
@@ -171,6 +173,26 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Source: <a href="https://apnews.com/article/zimbabwe-ferry-capsize-death-toll-rises-children-cfd6c6df88f0d72b3ab227d8f41214f4" target="_blank" rel="noopener noreferrer">Original News Report from Associated Press</a></p>
   </div>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-ukraine-shopping-center-strike-what-a-faith-perspective-reveals-about-civilian-r.html" class="related-article-link">
+            <div class="related-article-title">Ukraine Shopping Center Strike: What a Faith Perspective Reveals About Civilian Resilience</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

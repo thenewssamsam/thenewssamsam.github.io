@@ -7,7 +7,6 @@ tags: [historical]
 author: Sam
 source_url: "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-wildberries-drone-attack-b3033999.html"
 ---
-
 <article>
 <header>
 <h1 id="top">Ukraine's Massive Drone Strike on Russia: What Historical Parallels Tell Us About Total Industrial Warfare</h1>
@@ -34,6 +33,8 @@ source_url: "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 
 <h2 id="what-happened">What Happened: A Record-Breaking Night of Strikes</h2>
@@ -97,6 +98,26 @@ Seagate Portable External Hard Drive ($59.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

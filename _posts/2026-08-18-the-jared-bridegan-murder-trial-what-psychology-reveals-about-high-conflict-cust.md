@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.cbsnews.com/news/microsoft-manager-murder-jared-bridegan-suspect-trial-florida/"
 ---
-
 <article>
   <header>
     <h1>The Jared Bridegan Murder Trial: What Psychology Reveals About High-Conflict Custody Battles</h1>
@@ -24,9 +23,11 @@ source_url: "https://www.cbsnews.com/news/microsoft-manager-murder-jared-bridega
 
   <p>While juries weigh the evidence, the testimony, and the financial paper trail involving a $10,000 payment to a former tenant, a deeper, uncomfortable question lingers outside the courtroom: How does a family dispute over school conferences and religious differences escalate into an alleged murder plot? Looking through the lens of psychology and human behavior offers a chilling roadmap of how high-conflict separations can short-circuit normal emotional regulation.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
 
   <section id="the-anatomy-of-high-conflict">
@@ -157,6 +158,32 @@ Seagate Portable External Hard Drive ($59.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

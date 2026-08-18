@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.independent.co.uk/news/world/americas/us-politics/trump-natalie-flying-palace-jon-ossoff-b3034171.html"
 ---
-
 <article>
   <header class="ncg-header">
     <div class="ncg-meta-row">
@@ -27,6 +26,8 @@ source_url: "https://www.independent.co.uk/news/world/americas/us-politics/trump
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 
   <h2 id="what-happened">What Happened: The Speech, the Jet, and the Aide</h2>

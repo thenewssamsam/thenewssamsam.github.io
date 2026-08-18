@@ -7,7 +7,6 @@ tags: [historical]
 author: Sam
 source_url: "https://www.pravda.com.ua/eng/news/2026/08/17/8048927/"
 ---
-
 <article>
   <header>
     <h1>Kim Jong Un and Putin Deepen Ties: What a Historical Parallel Reveals About Global Alliances</h1>
@@ -20,9 +19,11 @@ source_url: "https://www.pravda.com.ua/eng/news/2026/08/17/8048927/"
     <p>When North Korean leader Kim Jong Un recently sent a message to Russian President Vladimir Putin reaffirming their deepening bilateral ties, it marked another milestone in an increasingly aggressive axis of authoritarian cooperation. But while modern headlines focus on artillery shells, ballistic missiles, and troop deployments, the rhetoric of shared struggle relies on a narrative deeply rooted in the past.</p>
     <p>By examining how historical coalitions of convenience have formed and fractured under geopolitical pressure, we can better understand what this modern alignment means for global stability—and why history suggests these partnerships are rarely built to last.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
   </section>
 
@@ -98,6 +99,32 @@ Tactical Waterproof Backpack ($35.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

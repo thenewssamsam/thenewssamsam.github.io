@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.forbes.com/sites/siladityaray/2026/08/17/trump-blames-vandals-for-damaging-lawn-at-national-mall-site-where-he-held-july-4-rally/"
 ---
-
 <article>
 <header>
 <h1>Trump Blames National Mall Lawn Damage on Vandals: What Psychology Reveals About the Need to Blame</h1>
@@ -37,6 +36,8 @@ source_url: "https://www.forbes.com/sites/siladityaray/2026/08/17/trump-blames-v
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 </section>
 
@@ -122,6 +123,26 @@ Seagate Portable External Hard Drive ($59.99)
 footer { margin-top: 2rem; font-size: 0.9rem; color: #666; border-top: 1px solid #e2e8f0; padding-top: 1rem; }
 </style>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

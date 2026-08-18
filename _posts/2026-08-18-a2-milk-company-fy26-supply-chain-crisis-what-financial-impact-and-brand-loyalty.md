@@ -7,7 +7,6 @@ tags: [financial]
 author: Sam
 source_url: "https://www.nutraingredients.com/Article/2026/08/17/a2mcs-fy26-revenue-suffers-from-infant-formula-supply-chain-disruption/"
 ---
-
 <article>
   <header class="ncg-header">
     <time datetime="2026-08-17">Published: August 17, 2026</time>
@@ -35,6 +34,8 @@ source_url: "https://www.nutraingredients.com/Article/2026/08/17/a2mcs-fy26-reve
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
     
     <p>Though the company insists these bottlenecks have now been resolved, the temporary absence from store shelves and daigou networks forced parents to experiment with competitor brands. Today, uptake of its China-label infant milk formula sits at roughly 40% of pre-disruption levels, leaving executives facing a steep uphill battle to win back lost market share.</p>
@@ -104,6 +105,26 @@ Tactical Waterproof Backpack ($35.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

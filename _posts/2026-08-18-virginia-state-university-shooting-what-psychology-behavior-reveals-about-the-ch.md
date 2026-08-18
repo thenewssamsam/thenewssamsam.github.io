@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.nbcwashington.com/news/local/police-looking-for-additional-people-who-fired-guns-in-vsu-shooting/4142835/"
 ---
-
 <article>
 <header>
 <span class="ncg-category-tag">News Commentary &amp; Analysis</span>
@@ -55,9 +54,11 @@ source_url: "https://www.nbcwashington.com/news/local/police-looking-for-additio
 <h2 id="what-happened">What Happened at VSU?</h2>
 <p>The shooting unfolded at approximately 1:30 a.m. Saturday near the Quad Annexes at Virginia State University (VSU), a historically Black university in Ettrick, Virginia. According to Chesterfield County Police, officers responding to the scene discovered five individuals suffering from gunshot wounds outside campus residential buildings. The victims ranged in age from 17 to 23, and authorities confirmed that only one of them was enrolled as a student at the university.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 <p>The incident triggered an immediate campus lockdown as law enforcement swept the area. More than 14 hours later—and several hours after university officials had already lifted the lockdown, assuring the public that the immediate threat had passed—police located and arrested a suspect hiding inside a dormitory closet. Nineteen-year-old Camron Harris of Henrico, Virginia, was taken into custody without bond, facing four counts of malicious wounding and four counts of using a firearm in the commission of a felony. Police noted that Harris was not a student at VSU.</p>
 <p>However, the investigation is far from over. Lt. James Lamb, commander of the Chesterfield County Police Department's Major Crimes Unit, disclosed that authorities are actively seeking additional individuals who discharged firearms during the altercation. Investigators are currently working to determine whether those additional shooters acted in self-defense or were part of the initial aggression.</p>
@@ -143,6 +144,32 @@ Tactical Waterproof Backpack ($35.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

@@ -7,7 +7,6 @@ tags: [financial]
 author: Sam
 source_url: "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-august-16-2026/"
 ---
-
 <article>
 <header>
 <time datetime="2026-08-16">Published: August 16, 2026</time>
@@ -33,9 +32,11 @@ source_url: "https://understandingwar.org/research/russia-ukraine/russian-offens
 
 <p>According to reports from the Ukrainian Ministry of Defense and regional officials including Moscow Oblast Governor Andrey Vorobyov, overnight strikes on August 15-16 targeted critical distribution infrastructure deep within Russian territory. Among the damaged facilities was Wildberries' largest logistics hub—a sprawling 250,000-square-meter installation in the Koledino Industrial Park in Podolsk, located roughly 420 kilometers from the international border. A parallel strike hit the Severnoye Domodedovo logistics complex approximately 430 kilometers away.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 
 <p>Geolocated footage and corporate statements confirmed that fires erupted at both locations, forcing the company to scramble and reorganize its complex supply chains. Reuters reported earlier in August that these successive waves of strikes had already destroyed at least 1.18 million square meters of Wildberries warehouse space. As the campaign intensifies, the disruption to commercial goods distribution continues to compound.</p>
@@ -103,6 +104,26 @@ Tactical Waterproof Backpack ($35.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

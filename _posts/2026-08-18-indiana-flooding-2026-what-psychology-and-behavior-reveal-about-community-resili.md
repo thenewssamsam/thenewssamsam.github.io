@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-deaths"
 ---
-
 <article style="font-family: -apple-system, 'Segoe UI', Roboto, sans-serif; color: #222222; background-color: #ffffff; line-height: 1.7; padding: 20px; max-width: 800px; margin: 0 auto;">
 <header style="margin-bottom: 2rem;">
 <div style="font-size: 0.9rem; color: #555555; margin-bottom: 0.5rem;">
@@ -33,9 +32,11 @@ source_url: "https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-death
 <p>Over a three-day span beginning August 11, 2026, severe storms dropped unprecedented amounts of rainfall across multiple counties in Indiana. Portions of the state absorbed more than 11 inches of rain, pushing rivers like the White River in Anderson to record levels of 24.9 feet. Indianapolis Mayor Joe Hogsett noted that the city experienced its most severe flooding in more than 30 years.</p>
 <p>The human toll has been sobering. At least seven people across multiple counties lost their lives in incidents related to the historic weather event. Furthermore, local utility NIPSCO reported that over 128,000 customers were left without power as floodwaters surged. In response to the crisis, President Donald Trump approved an emergency declaration for Indiana, authorizing FEMA to support ongoing recovery efforts.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 <p>While floodwaters have begun to recede in some areas and Indianapolis public works crews have started reopening flood gates, the threat has not fully passed. The National Weather Service warned that additional thunderstorms carrying heavy rainfall are expected to move across central Indiana and neighboring West Virginia.</p>
 </section>
@@ -89,6 +90,32 @@ Tactical Waterproof Backpack ($35.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

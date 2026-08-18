@@ -7,7 +7,6 @@ tags: [historical]
 author: Sam
 source_url: "https://www.pravda.com.ua/eng/news/2026/08/16/8048902/"
 ---
-
 <article>
   <style>
     .hpl-article {
@@ -169,6 +168,8 @@ source_url: "https://www.pravda.com.ua/eng/news/2026/08/16/8048902/"
 Seagate Portable External Hard Drive ($59.99)
 </a></p>
 
+
+
     <p>This development unfolded against the backdrop of ongoing nocturnal strikes, including a reported operation targeting the Kamensky Combine, a solid rocket fuel manufacturing facility in Russia's Rostov Oblast near the border.</p>
   </section>
 
@@ -212,6 +213,26 @@ Seagate Portable External Hard Drive ($59.99)
     <a href="https://www.pravda.com.ua/eng/news/2026/08/16/8048902/" target="_blank" rel="noopener noreferrer">Original News Report</a>
   </div>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

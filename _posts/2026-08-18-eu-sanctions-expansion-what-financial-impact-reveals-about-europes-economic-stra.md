@@ -7,7 +7,6 @@ tags: [financial]
 author: Sam
 source_url: "https://www.kyivpost.com/post/82485"
 ---
-
 <article>
   <style>
     .ef-container {
@@ -179,6 +178,8 @@ source_url: "https://www.kyivpost.com/post/82485"
 Tactical Waterproof Backpack ($35.99)
 </a></p>
 
+
+
   <p>Rather than retreating, Kallas signalled a sharp pivot in German daily <em>Die Welt</em>. She stated that her upcoming autumn listings represent the most far-reaching sanctions package since the start of the war. Once adopted, the measures would instantly elevate the total count of targeted Russian entities by thirty-three percent, building upon a framework that the European Commission reports has already deprived Moscow's military apparatus of over €1 trillion.</p>
 
   <div class="ef-quote-box">
@@ -246,6 +247,32 @@ Tactical Waterproof Backpack ($35.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

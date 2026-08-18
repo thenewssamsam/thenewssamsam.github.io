@@ -149,6 +149,8 @@ Tactical Waterproof Backpack ($35.99)
 </a></p>
 
 
+
+
   <p>Legal teams representing the states plan to introduce testimony from top tech executives, including Meta CEO Mark Zuckerberg and Instagram CEO Adam Mosseri. The plaintiffs claim that Meta was fully aware its platforms harmed young users—driving spikes in anxiety, depression, and self-harm—while publicly maintaining that the products were safe. Furthermore, the states argue that Meta violated the Children's Online Privacy Protection Act (COPPA) by knowingly gathering data from children under 13 without parental consent.</p>
 
   <p>Meta has forcefully denied the allegations. A company spokesperson called the financial demands—which could theoretically reach as high as $1.4 trillion, a figure close to Meta's entire market capitalization—"outlandish" and "vastly disproportionate." Meta contends that the states are attempting to penalize the company for industry-wide challenges like age verification while ignoring its existing protections for teens.</p>
@@ -204,6 +206,26 @@ Tactical Waterproof Backpack ($35.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

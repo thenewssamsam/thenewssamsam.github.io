@@ -7,7 +7,6 @@ tags: [life]
 author: Sam
 source_url: "https://abcnews.com/GMA/Culture/disney-legends-2026-anne-hathaway-bob-iger-dwayne-johnson/story?id=135603616"
 ---
-
 <article>
 <header>
 <span class="ncg-badge">Entertainment &amp; Culture</span>
@@ -40,6 +39,8 @@ source_url: "https://abcnews.com/GMA/Culture/disney-legends-2026-anne-hathaway-b
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 
 <p>Each honoree's presentation came with personal tributes from peers. David Frankel, who directed Hathaway in <em>The Devil Wears Prada</em>, praised her unrelenting dedication to her craft. Current Disney CEO Josh D'Amaro introduced his predecessor Bob Iger by calling him "one of the most consequential business leaders of our time," drawing high-profile video and live tributes from Robert Downey Jr., Harrison Ford, Diane Sawyer, Ellen Pompeo, and Al Michaels. Emily Blunt honored her <em>Jungle Cruise</em> co-star Dwayne Johnson, while Vanessa Hudgens celebrated the Jonas Brothers, and Auli'i Cravalho paid homage to Lin-Manuel Miranda.</p>

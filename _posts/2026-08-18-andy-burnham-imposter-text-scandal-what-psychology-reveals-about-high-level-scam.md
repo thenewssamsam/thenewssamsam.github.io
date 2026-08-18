@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.politico.eu/article/andy-burnham-messages-impersonator-top-trump-aide-susie-wiles/"
 ---
-
 <article>
 <header>
     <h1>Andy Burnham Imposter Text Scandal: What Psychology Reveals About High-Level Scams</h1>
@@ -144,6 +143,8 @@ Tactical Waterproof Backpack ($35.99)
 </a></p>
 
 
+
+
 <h2 id="psychology-perspective">The Psychology of Elite Vulnerability</h2>
 
 <p>How does a high-ranking political leader, surrounded by security apparatuses and advisors, end up chatting with a digital fraudster? From a psychological perspective, high-level social engineering exploits deeply ingrained human cognitive shortcuts rather than just technical software flaws.</p>
@@ -199,6 +200,26 @@ Tactical Waterproof Backpack ($35.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

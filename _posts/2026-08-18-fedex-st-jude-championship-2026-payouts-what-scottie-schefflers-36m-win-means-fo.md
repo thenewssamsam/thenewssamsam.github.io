@@ -7,7 +7,6 @@ tags: [financial]
 author: Sam
 source_url: "https://www.golfchannel.com/pga-tour/news/fedex-st-jude-championship-2026-prize-money-full-payout"
 ---
-
 <article>
   <header class="fi-header">
     <time datetime="2026-06-08">Published: June 8, 2026</time>
@@ -32,9 +31,11 @@ source_url: "https://www.golfchannel.com/pga-tour/news/fedex-st-jude-championshi
     <p>Scottie Scheffler overcame a brief early stumble during Sunday's final round to dominate the field at the 2026 FedEx St. Jude Championship. Securing his 21st career PGA Tour victory in commanding fashion, Scheffler left the rest of the elite field fighting for second place—ultimately claimed by Si Woo Kim, who took home $2,160,000.</p>
     <p>Beyond the immediate victory in Memphis, the win marked a historic shift in golf's all-time earnings ledger. Scheffler surpassed Rory McIlroy for second place on the PGA Tour's official career money list and inched within striking distance of Tiger Woods' top spot.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
   </section>
 
@@ -138,6 +139,20 @@ Tactical Waterproof Backpack ($35.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-us-beef-shortage-2026-what-financial-impact-and-herd-metrics-reveal-about-dinner.html" class="related-article-link">
+            <div class="related-article-title">US Beef Shortage 2026: What Financial Impact and Herd Metrics Reveal About Dinner Table Prices</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

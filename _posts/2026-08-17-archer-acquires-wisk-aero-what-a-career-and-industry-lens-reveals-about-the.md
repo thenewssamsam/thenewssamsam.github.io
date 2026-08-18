@@ -29,9 +29,11 @@ source_url: "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-
   <p>The electric vertical takeoff and landing (eVTOL) industry just experienced a seismic shift. In one of the most surprising twists in modern aviation history, Archer Aviation announced it has officially acquired its former rival, Wisk Aero, following a complex web of past intellectual property lawsuits and corporate restructuring.</p>
   <p>Under the terms of the deal, aerospace giant Boeing sold Wisk Aero—along with digital airspace company SkyGrid and drone maker Insitu—to Archer in exchange for a 16.5% ownership stake in the company. This consolidation comes on the heels of a winding history that began with Google co-founder Larry Page backing Sebastian Thrun's Kitty Hawk startup before transitioning into a joint venture with Boeing.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Toshiba 5400RPM Hard Drive ($49.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+KEOFID Classic Backpack ($32.99)
 </a></p>
+
+
 
   <p>Meanwhile, fellow electric air taxi pioneer Joby Aviation made a parallel strategic move, acquiring Resonant Sciences for $500 million to establish a dedicated defense business unit, Joby Defense. Together, these moves underscore a broader reality: even as eVTOL developers pursue long-term regulatory certification for urban air taxis, they are aggressively consolidating assets and chasing near-term revenue streams to sustain their runway.</p>
 </section>
@@ -143,30 +145,72 @@ Toshiba 5400RPM Hard Drive ($49.99)
 </script>
 </article>
 
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
+
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>
 <div class="recommendations-grid">
 <div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">abshoo College Bookbag</a></div>
-    <div class="product-price">$29.99</div>
+    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
+    <div class="product-price">$35.99</div>
     <div class="product-button">
-        <a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
     <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
 </div>
 <div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">QT-QY Military Tactical Backpack</a></div>
-    <div class="product-price">$34.99</div>
+    <div class="product-title"><a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">KEOFID Classic Backpack</a></div>
+    <div class="product-price">$32.99</div>
     <div class="product-button">
-        <a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+        <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
     <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
 </div>
 <div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">JIYINGDUO External Hard Drive</a></div>
-    <div class="product-price">$44.99</div>
+    <div class="product-title"><a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Toshiba 5400RPM Hard Drive</a></div>
+    <div class="product-price">$49.99</div>
     <div class="product-button">
-        <a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+        <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">GAZELLE External Hard Drive</a></div>
+    <div class="product-price">$54.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Backpack USB Charging Port</a></div>
+    <div class="product-price">$39.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
     <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
 </div>

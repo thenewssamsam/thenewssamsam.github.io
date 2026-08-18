@@ -7,7 +7,6 @@ tags: [historical]
 author: Sam
 source_url: "https://www.cbsnews.com/news/jared-kushner-hamas-netanyahu-gaza-peace-deal-negotiations/"
 ---
-
 <article>
   <header class="ncg-header">
     <time datetime="2026-03-02" class="ncg-date">Published: March 2, 2026</time>
@@ -21,9 +20,11 @@ source_url: "https://www.cbsnews.com/news/jared-kushner-hamas-netanyahu-gaza-pea
   <p>Jared Kushner, serving as a negotiator on Middle East affairs, traveled to Egypt on Sunday to meet directly with Hamas leaders, including Khalil al-Hayya. The rare, discreet meeting aimed to translate the U.S.-backed "Board of Peace" road map into concrete, verifiable steps. According to sources familiar with the discussions, the plan demands the complete disarmament of Hamas, the transfer of governing responsibilities to a new National Committee for the Administration of Gaza, and the eventual deployment of an international stabilizing force.</p>
   <p>Following the talks in Egypt, Kushner flew to Israel to confer with Prime Minister Benjamin Netanyahu and President Isaac Herzog. While Netanyahu’s office described the conversations as "deep and constructive," the diplomatic waters remain exceptionally rough. Just last week, Netanyahu openly defied elements of the U.S. peace plan, vowing there would be no full military withdrawal until Hamas is genuinely stripped of its military infrastructure. Meanwhile, regional powers like Saudi Arabia and the United Arab Emirates have publicly blamed Israel for obstructing the peace efforts, demanding immediate measures from Washington to keep the agreement on track.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
 
   <h2 id="historical-parallel">A Historical Parallel Perspective: The Anatomy of High-Stakes Backchannel Diplomacy</h2>
@@ -78,6 +79,32 @@ Seagate Portable External Hard Drive ($59.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

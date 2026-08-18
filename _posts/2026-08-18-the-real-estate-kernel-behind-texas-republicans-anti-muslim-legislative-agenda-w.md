@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://therealdeal.com/texas/2026/08/16/behind-texas-republicans-anti-muslim-legislative-agenda/"
 ---
-
 <article>
 <header>
 <h1>The Real Estate Kernel Behind Texas Republicans’ Anti-Muslim Legislative Agenda: What Psychology and Behavior Reveal About Fear and Property</h1>
@@ -27,6 +26,8 @@ source_url: "https://therealdeal.com/texas/2026/08/16/behind-texas-republicans-a
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 
 <h2 id="what-happened">What Happened: The Real Estate Flashpoint</h2>
@@ -89,6 +90,32 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Source: <a href="https://therealdeal.com/texas/2026/08/16/behind-texas-republicans-anti-muslim-legislative-agenda/" target="_blank" rel="noopener noreferrer">Original News Report</a></p>
 </footer>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

@@ -7,7 +7,6 @@ tags: [legal]
 author: Sam
 source_url: "https://www.usatoday.com/story/news/politics/2026/08/16/todd-blanche-donald-trump-justice-department-prosecutions/91330763007/"
 ---
-
 <article class="ncg-article-container">
   <style>
     .ncg-article-container {
@@ -146,6 +145,8 @@ source_url: "https://www.usatoday.com/story/news/politics/2026/08/16/todd-blanch
 Tactical Waterproof Backpack ($35.99)
 </a></p>
 
+
+
   <p>The interview followed Blanche's confirmation by the Senate after serving as acting attorney general since April. Throughout his confirmation process and prior congressional testimony, Blanche emphasized that the Department of Justice is part of the executive branch and takes policy direction from the president.</p>
   <p>The discussions surrounding prosecutorial independence have intensified alongside high-profile cases and social media commentary from the White House concerning matters such as the Lincoln Memorial Reflecting Pool vandalism case and prosecutions involving figures like former FBI Director James Comey and New York Attorney General Letitia James.</p>
 
@@ -212,6 +213,32 @@ Tactical Waterproof Backpack ($35.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

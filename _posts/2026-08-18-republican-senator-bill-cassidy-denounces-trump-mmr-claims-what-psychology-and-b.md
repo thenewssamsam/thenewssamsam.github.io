@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.theguardian.com/us-news/2026/aug/16/republican-senator-bill-cassidy-denounces-trump-vaccine-claims"
 ---
-
 <article>
   <header>
     <h1>Republican Senator Bill Cassidy Denounces Trump MMR Claims: What Psychology and Behavior Reveal About Vaccine Friction</h1>
@@ -58,9 +57,11 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/16/republican-senator-
       <p>In a striking weekend interview on CNN, Senator Bill Cassidy—a trained medical doctor whose primary defeat ended his Senate career—did not mince words regarding recent policy shifts. Responding to announcements that recommended childhood vaccination schedules face restructuring, Cassidy called claims labeling the combined measles, mumps, and rubella (MMR) vaccine "sort of like a nuclear weapon" both absurd and potentially dangerous.</p>
       <p>The policy shift in question involves altering guidance to split combined MMR shots into six separate doses administered across multiple visits, alongside revisions to public health messaging regarding long-standing scientific consensus. Cassidy, who previously chaired the Senate health committee, argued that the real-world friction of tripling medical visits and increasing logistical hurdles for families would inevitably depress immunization rates and drive up healthcare costs.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
     </section>
 
@@ -134,6 +135,32 @@ Seagate Portable External Hard Drive ($59.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

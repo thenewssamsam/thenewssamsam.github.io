@@ -7,7 +7,6 @@ tags: [historical]
 author: Sam
 source_url: "https://www.aljazeera.com/news/2026/8/16/brazil-lula-bolsonaro-return-to-strongholds-to-launch-runs-for-president"
 ---
-
 <article class="ncg-article">
 <style>
   .ncg-article {
@@ -127,6 +126,8 @@ Tactical Waterproof Backpack ($35.99)
 </a></p>
 
 
+
+
 <p>Meanwhile, on Copacabana Beach in Rio de Janeiro, Senator Flavio Bolsonaro gathered thousands of supporters. Former President Jair Bolsonaro, currently under house arrest following his conviction for an attempted coup, was absent, leaving his 45-year-old son to carry the family mantle. The events immediately highlighted the geographic and ideological fault lines defining the campaign: Lula anchoring himself in labor strongholds, and the Bolsonaro movement leaning into populist demonstrations in coastal urban centers.</p>
 
 <p>Beneath the rallies lie fierce debates over foreign policy and natural resources. Lula has strongly denounced alleged foreign interference, pointing to international trade pressures and visa revocations, while asserting Brazil's sovereign control over its vast rare mineral reserves. Conversely, the Bolsonaro campaign positions itself as uniquely equipped to negotiate major trade deals with global powers like the United States, China, India, and Argentina—whose President Javier Milei attended the right-wing convention.</p>
@@ -180,6 +181,26 @@ Tactical Waterproof Backpack ($35.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

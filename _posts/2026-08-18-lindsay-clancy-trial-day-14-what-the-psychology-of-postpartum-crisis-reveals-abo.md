@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live-day-14/"
 ---
-
 <article>
   <header class="ncg-header">
     <div class="ncg-meta-row">
@@ -36,9 +35,11 @@ source_url: "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live
     <p>The courtroom in Plymouth Superior Court was heavy with tension as the prosecution officially rested its case, paving the way for the defense to begin presenting witnesses. Lindsay Clancy, a 36-year-old former labor and delivery nurse, stands accused of first-degree murder in the January 24, 2023, deaths of her three young children—5-year-old Cora, 3-year-old Dawson, and 8-month-old Callan—at their Duxbury home.</p>
     <p>While the prosecution argues that Clancy methodically planned the killings before attempting suicide, the defense—led by attorney Kevin Reddington—contends that Clancy was suffering from severe, unmanaged postpartum psychiatric illness and medication-induced mental defect, rendering her legally not criminally responsible.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
     <p>The emotional core of Day 14 centered on the testimony of Paula Musgrove, Clancy's mother. Musgrove detailed how her daughter's behavior shifted dramatically in October 2022 following the birth of her third child and the introduction of new anxiety medications. Reading text messages sent by Clancy, the court heard desperate pleas: <em>"I'm really sick. Something is wrong... I started taking the medicine my doctor prescribed for anxiety and I think it's made things worse."</em> Most chillingly for the jury, Musgrove testified that weeks before the tragedy, Clancy confessed with visible terror: <em>"I just have to tell you guys something... She told us that she had thoughts of harming the children."</em></p>
     <p>Despite this terrifying admission, cross-examination by prosecutors highlighted the complexities families face when trying to gauge risk: Musgrove admitted she did not seek immediate institutionalization because she was present to help, and subsequent text messages sometimes showed Clancy reporting she felt "a little bit better." The defense also called Clancy's sister, Allison Ozga, and a former coworker who recalled past conversations about tragic maternal mental health cases like Andrea Yates. Following the denial of a defense motion for a directed verdict of not guilty, the jury heard detailed forensic and medical testimony as the defense laid bare its argument regarding Clancy's cognitive state.</p>
@@ -93,6 +94,32 @@ Tactical Waterproof Backpack ($35.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

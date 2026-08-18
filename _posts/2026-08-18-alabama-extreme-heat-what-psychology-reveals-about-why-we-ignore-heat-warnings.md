@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://abc3340.com/news/local/the-weather-authority-highs-near-100-today-with-isolated-storms-possible"
 ---
-
 <article class="ncg-article-container">
   <header class="ncg-header">
     <div class="ncg-meta-info">
@@ -37,9 +36,11 @@ source_url: "https://abc3340.com/news/local/the-weather-authority-highs-near-100
     <p>Summer in the South is never mild, but mid-August is testing endurance across the Yellowhammer State. An Extreme Heat Warning remains in effect across a massive swath of central Alabama—including Birmingham, Tuscaloosa, Montgomery, Auburn, and surrounding communities—as the National Weather Service warns that oppressive humidity and soaring temperatures could drive heat indices as high as 113 degrees.</p>
     <p>According to reports from ABC 33/40, Birmingham is already enduring its 12th consecutive day with temperatures of at least 90 degrees, marking the city's longest such streak of the year. If current forecasts hold, that streak could stretch to 19 straight days by the weekend. While triple-digit official temperatures have narrowly been avoided so far in Birmingham, the high humidity ensures that outdoor conditions feel relentlessly punishing. Chief Meteorologist James Spann notes that widespread storm relief is not on the horizon, leaving residents to cope with stagnant sunshine and only isolated afternoon thunderstorms.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
     <p>Weather alerts are clear, hydration reminders are everywhere, and local authorities are urging residents to take precautions. Yet, despite clear warnings, daily life goes on. People still mow lawns in the afternoon, run errands during peak sun, and brush off discomfort as "just normal Southern summer weather." That disconnect between a severe physical threat and our casual human response is where behavioral psychology steps in.</p>
   </section>
@@ -156,6 +157,26 @@ Seagate Portable External Hard Drive ($59.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

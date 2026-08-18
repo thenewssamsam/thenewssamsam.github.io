@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.nbcchicago.com/news/local/frustration-grows-as-125k-remain-without-power-in-nw-indiana-nearly-a-week-after-derecho/3976232/"
 ---
-
 <article>
   <header class="ncg-header">
     <div class="ncg-meta-row">
@@ -36,9 +35,11 @@ source_url: "https://www.nbcchicago.com/news/local/frustration-grows-as-125k-rem
     <p>There is a specific kind of exhaustion that settles in when the lights refuse to turn back on. By Sunday, as outages stretched into a sixth agonizing day across Northwest Indiana following a destructive derecho, patience had worn paper-thin. For more than 125,000 residents, daily life had been reduced to the hum of backup generators, spoiled groceries, and the quiet dread of flooded basements.</p>
     <p>In towns like Dyer and Munster, local leaders reported that frustration had officially reached a boiling point. But beyond the physical disruption of downed power lines and powerless wastewater treatment facilities, a deeper human crisis was unfolding: the psychological strain of prolonged uncertainty.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
   </section>
 
@@ -123,6 +124,26 @@ Tactical Waterproof Backpack ($35.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

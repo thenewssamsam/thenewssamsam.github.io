@@ -7,7 +7,6 @@ tags: [financial]
 author: Sam
 source_url: "https://sports.yahoo.com/golf/article/fedex-st-jude-championship-purse-payouts-how-much-did-scottie-scheffler-earn-for-his-win-at-tpc-southwind-214959843.html"
 ---
-
 <article>
 <header>
     <h1>Scottie Scheffler Wins FedEx St. Jude Championship: What Financial Impact and Prize Payouts Reveal About Modern Golf</h1>
@@ -94,6 +93,8 @@ source_url: "https://sports.yahoo.com/golf/article/fedex-st-jude-championship-pu
 Seagate Portable External Hard Drive ($59.99)
 </a></p>
 
+
+
 <p>Carding a solid 4-under 66 in the final round, Scheffler left the rest of the field in his rear-view mirror, securing an eight-shot win over runner-up Si Woo Kim. By the time he birdied the 13th hole, his lead had stretched to seven strokes, turning the championship’s final stretch into a victory lap. With this triumph, Scheffler secured his 21st career victory on Tour and joined an elite club of just five golfers in the past four decades to record multiple wins by eight or more strokes.</p>
 
 <h2 id="financial-impact">The Financial Mechanics of Modern Golf Payouts</h2>
@@ -148,6 +149,26 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Source: <a href="https://sports.yahoo.com/golf/article/fedex-st-jude-championship-purse-payouts-how-much-did-scottie-scheffler-earn-for-his-win-at-tpc-southwind-214959843.html" target="_blank" rel="noopener noreferrer">Yahoo Sports</a></p>
 </footer>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

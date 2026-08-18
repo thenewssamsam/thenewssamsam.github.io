@@ -7,7 +7,6 @@ tags: [faith]
 author: Sam
 source_url: "https://www.wesh.com/article/central-florida-aid-flight-colombia-earthquake/73451860"
 ---
-
 <article class="ncg-article">
   <style>
     .ncg-article { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; color: #333; line-height: 1.7; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #fff; }
@@ -41,9 +40,11 @@ source_url: "https://www.wesh.com/article/central-florida-aid-flight-colombia-ea
   <h2 id="what-happened">What Happened in Colombia?</h2>
   <p>Rescuers in Colombia are continuing their painstaking search through rubble one week after a powerful 7.4-magnitude earthquake rocked the country. As the death toll approaches 300 and countless others remain injured, the nation's healthcare infrastructure has been pushed to a breaking point.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
   <p>Amidst the chaos, local Central Florida attorney Dan Newlin stepped in with a massive relief effort. Just 12 hours before the earthquake hit, Newlin happened to be in Cali, Colombia, attending the country's presidential inauguration, where he connected with the new president and his wife. When disaster struck, Colombia's first lady personally reached out to Newlin for assistance.</p>
   <p>Answering the call without hesitation, Newlin coordinated with AdventHealth, which quickly delivered a truck filled with supplies. On Monday, two planes chartered by Newlin transported over 5,000 pounds of critical medical supplies directly to Bogotá. According to Newlin, local hospitals were desperately "starving for medication" and unable to perform basic surgeries due to a lack of proper equipment. Now, those critical items have reached the frontline medical workers who need them most.</p>
@@ -102,6 +103,32 @@ Seagate Portable External Hard Drive ($59.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

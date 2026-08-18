@@ -7,7 +7,6 @@ tags: [parenting]
 author: Sam
 source_url: "https://variety.com/2026/film/news/dwayne-johnson-disney-legend-d23-emily-blunt-1236833908/"
 ---
-
 <article>
 <header>
 <h1 id="top">Dwayne Johnson Disney Legend Honor: What Parenting and Legacy Really Mean Beyond The Rock Persona</h1>
@@ -38,6 +37,8 @@ source_url: "https://variety.com/2026/film/news/dwayne-johnson-disney-legend-d23
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
 <p>Rather than dwelling purely on his cinematic accomplishments—which span franchises like <em>Moana</em>, <em>Jungle Cruise</em>, and <em>Race to Witch Mountain</em>—Johnson used his off-the-cuff speech to recount taking his daughter Simone to Disneyland when she was five years old. Because the ceremony coincided with Simone's 25th birthday, Johnson spontaneously led the entire arena in a birthday tribute, highlighting that his most cherished role is not movie star or producer, but dad.</p>
 </section>

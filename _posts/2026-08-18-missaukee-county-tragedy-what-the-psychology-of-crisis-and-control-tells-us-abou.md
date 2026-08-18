@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.fox2detroit.com/news/missaukee-county-cadillac-mi-deaths-what-we-know"
 ---
-
 <article>
   <header class="ncg-header">
     <time datetime="2026-03-09">Published: March 9, 2026</time>
@@ -22,9 +21,11 @@ source_url: "https://www.fox2detroit.com/news/missaukee-county-cadillac-mi-death
   
   <p>The suspect, identified by authorities as 39-year-old Chad Hickman, fled before law enforcement arrived, triggering a large-scale search across the region. As the manhunt intensified, the scope of the tragedy widened. Investigators located a fourth victim—a 53-year-old man—dead at a separate home in the county. Shortly afterward, a fifth victim, a 29-year-old woman, was discovered deceased in a wooded area near Whitlock Lake alongside Hickman, who was also found dead.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 
   <p>As officials note that a definitive motive remains under investigation, local records and statements from neighbors have begun to sketch a troubling background. Court records cited by the Associated Press show that Hickman was convicted in 2024 of misdemeanor fourth-degree child abuse and sentenced to a year in jail, with felony assault and criminal sexual conduct charges dismissed in the same case. Neighbors also reported past friction, painting a picture of an escalating local dynamic that ultimately culminated in sudden, catastrophic violence.</p>
@@ -73,6 +74,32 @@ Tactical Waterproof Backpack ($35.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.mlive.com/news/2026/08/i-hope-hell-gives-him-his-due-new-details-emerge-about-northern-michigan-killing-spree.html"
 ---
-
 <article>
 <header class="ncg-header">
 <p class="ncg-meta-info"><time datetime="2026-08-16">Published: August 16, 2026</time> &bull; 6 min read</p>
@@ -34,6 +33,8 @@ source_url: "https://www.mlive.com/news/2026/08/i-hope-hell-gives-him-his-due-ne
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
 <p>Further investigation revealed additional crime scenes, including a second home where a 53-year-old man was found dead, and finally a wooded area where Hickman and a 29-year-old woman were found deceased. Court records and family accounts later filled in harrowing details about prior friction, domestic stress, and a community left reeling by its second major mass casualty event in Michigan in as many months.</p>
 </section>
@@ -139,6 +140,32 @@ Tactical Waterproof Backpack ($35.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

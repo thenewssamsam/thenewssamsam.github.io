@@ -35,9 +35,11 @@ source_url: "https://apnews.com/article/flooding-indiana-severe-weather-aa3624a3
     <p>Days of relentless storms and heavy downpours left at least seven people dead across Indiana, capping a devastating week of severe weather that paralyzed parts of the Midwest. In Indianapolis, floodwaters along the White River peaked before finally beginning to recede, leaving residents to survey waterlogged homes and ruined possessions.</p>
     <p>The numbers behind the event underscore its severity. The White River crested at more than 24 feet in communities like Anderson and Noblesville, surpassing flood records that had stood since 1913. Indianapolis Mayor Joe Hogsett noted that the flooding was the worst the city has seen in over thirty years. Across the state, historic rainfall washed out roads and bridges, forced more than 350 emergency evacuations, and left nearly 130,000 utility customers without power.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
     <p>Tragically, the storms claimed seven lives, including a 4-year-old boy killed by a falling tree in Jennings County, a cyclist who fell into a washed-out road in Henry County, and motorists swept away by rising waters. President Donald Trump approved federal disaster assistance for the state to aid ongoing rescue and recovery efforts.</p>
   </section>
@@ -149,6 +151,26 @@ Seagate Portable External Hard Drive ($59.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

@@ -41,6 +41,8 @@ source_url: "https://nypost.com/2026/08/16/media/harvard-prof-slammed-for-using-
 Tactical Waterproof Backpack ($35.99)
 </a></p>
 
+
+
 <p>The <em>FT</em> note stated that AI was used to condense a longer draft prior to submission, bypassing the publication's strict editorial code of conduct which explicitly bars AI in the writing process. Social media users quickly seized on the stilted prose, labeling the piece &#8220;AI slop.&#8222; Peers and admirers expressed genuine astonishment that an economist of Hausmann's stature would outsource his distinct intellectual voice to an algorithm&#8212;especially behind a paywall.</p>
 </section>
 
@@ -117,6 +119,26 @@ Tactical Waterproof Backpack ($35.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

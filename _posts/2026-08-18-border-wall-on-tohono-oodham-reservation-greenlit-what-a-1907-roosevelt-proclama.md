@@ -7,7 +7,6 @@ tags: [legal]
 author: Sam
 source_url: "https://nypost.com/2026/08/16/us-news/border-wall-construction-on-reservation-greenlit/"
 ---
-
 <article>
 <header>
 <nav class="ncg-toc" aria-label="Table of Contents">
@@ -34,6 +33,8 @@ source_url: "https://nypost.com/2026/08/16/us-news/border-wall-construction-on-r
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 
 <p>However, Judge Leon's decision turned on a piece of history predating the reservation's official boundaries: a 1907 proclamation signed by President Theodore Roosevelt. That executive action established that all public land within 60 feet of an international boundary remained under the exclusive control of the federal government, originally intended as a shield against cross-border smuggling. Because the Tohono O'odham reservation was formally declared later, in 1917, the judge ruled that the prior federal claim superseded the tribe's modern objections.</p>
@@ -94,6 +95,32 @@ Seagate Portable External Hard Drive ($59.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

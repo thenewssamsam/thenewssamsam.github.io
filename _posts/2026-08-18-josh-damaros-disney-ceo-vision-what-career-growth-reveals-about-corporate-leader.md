@@ -7,7 +7,6 @@ tags: [career]
 author: Sam
 source_url: "https://deadline.com/2026/08/disney-josh-damaro-ceo-opportunities-d23-1237042155/"
 ---
-
 <article style="font-family: -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #222222; background-color: #ffffff; line-height: 1.7; max-width: 800px; margin: 0 auto; padding: 20px;">
   <header style="margin-bottom: 30px; border-bottom: 1px solid #e0e0e0; padding-bottom: 20px;">
     <div style="font-size: 14px; color: #666666; margin-bottom: 8px;">
@@ -34,9 +33,11 @@ source_url: "https://deadline.com/2026/08/disney-josh-damaro-ceo-opportunities-d
     <p>Stepping onto the stage at D23: The Ultimate Disney Fan Event, Josh D'Amaro faced a crowd of thousands not merely as a corporate officer, but as the newly minted Chief Executive Officer of the Walt Disney Company. Having taken over the reins from Bob Iger five months prior, D'Amaro used his conversation with Ginnifer Goodwin on Day 3 of the fan convention to reflect on his journey, the current state of entertainment, and his strategic vision for the global giant.</p>
     <p>For an executive who began his career at an entry-level position at Disneyland back in 1998, the milestone carried profound personal weight. "It is still strange for people to refer to me as CEO because I've been here for 30 years," D'Amaro admitted during the sit-down. Rather than leaning into corporate jargon, his public remarks highlighted the grassroots operational experience that shaped his perspective on fandom, theme parks, and media production.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+KEOFID Classic Backpack ($32.99)
 </a></p>
+
+
 
     <p>The timing of the event is crucial. The entertainment industry finds itself locked in a fierce, complex battle over streaming profitability, technological adaptation, and intellectual property dominance. Against this backdrop, D'Amaro's appearance wasn't just a celebration of upcoming films and theme park attractions; it was a deliberate statement about organizational identity and corporate durability.</p>
   </section>
@@ -122,6 +123,32 @@ Seagate Portable External Hard Drive ($59.99)
   </script>
 </article>
 
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
+
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>
 <div class="recommendations-grid">
@@ -134,10 +161,50 @@ Seagate Portable External Hard Drive ($59.99)
     <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
 </div>
 <div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    <div class="product-title"><a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Backpack USB Charging Port</a></div>
+    <div class="product-price">$39.99</div>
     <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+        <a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">JIYINGDUO External Hard Drive</a></div>
+    <div class="product-price">$44.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">QT-QY Military Tactical Backpack</a></div>
+    <div class="product-price">$34.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">GAZELLE External Hard Drive</a></div>
+    <div class="product-price">$54.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">abshoo College Bookbag</a></div>
+    <div class="product-price">$29.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Toshiba 5400RPM Hard Drive</a></div>
+    <div class="product-price">$49.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
     <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
 </div>

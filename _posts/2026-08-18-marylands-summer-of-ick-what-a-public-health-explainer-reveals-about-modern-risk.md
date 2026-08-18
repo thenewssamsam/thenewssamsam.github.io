@@ -7,7 +7,6 @@ tags: [health]
 author: Sam
 source_url: "https://www.thebanner.com/community/public-health/cyclosporiasis-measles-ticks-GZQ5VTFGZFDOJBI44RVFBYYOSU/"
 ---
-
 <article>
   <header>
     <h1>Maryland's Summer of Ick: What a Public Health Explainer Reveals About Modern Risk</h1>
@@ -21,9 +20,11 @@ source_url: "https://www.thebanner.com/community/public-health/cyclosporiasis-me
   <h2 id="what-happened">What Happened: A Menu of Modern Pathogens</h2>
   <p>According to recent reports from public health agencies and experts in Maryland, the state has logged notable spikes in several distinct infections. Among the most talked about is cyclosporiasis, a foodborne parasitic illness that has triggered thousands of cases nationally—including nearly 200 in Maryland—and made "explosive diarrhea" an uncomfortable trending topic. Linked in some national distribution channels to imported produce, the outbreak has caught consumers and public health trackers off guard.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0GX8NPZ1T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+GOPPUS Insulated Leak-Proof Bottle ($19.99)
 </a></p>
+
+
 
   
   <p>At the same time, warmer waters in the Chesapeake Bay are proving more hospitable to <em>vibrio</em> bacteria, increasing risks for swimmers and seafood lovers. Tick and mosquito populations are enjoying longer, more active seasons, driving up exposure to Lyme disease and introducing new concerns like alpha-gal syndrome, a red-meat allergy transmitted by lone star ticks. Meanwhile, measles cases have ticked upward amid declining vaccination confidence, and a drug-resistant fungus known as <em>Candida auris</em> continues to circulate in healthcare settings.</p>
@@ -77,9 +78,77 @@ Seagate Portable External Hard Drive ($59.99)
   </script>
 </article>
 
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
+
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>
 <div class="recommendations-grid">
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B07MBBP71L?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Bambaw Stainless Steel Water Bottle</a></div>
+    <div class="product-price">$25.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B07MBBP71L?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">CeraVe Skin Renewing Night Cream</a></div>
+    <div class="product-price">$18.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0GKT8JXPZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Wawahydro Insulated Water Bottle</a></div>
+    <div class="product-price">$29.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0GKT8JXPZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0GVH72LRS?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">KewLitz Insulated Stainless Steel Bottle</a></div>
+    <div class="product-price">$24.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0GVH72LRS?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0GX8NPZ1T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">GOPPUS Insulated Leak-Proof Bottle</a></div>
+    <div class="product-price">$19.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0GX8NPZ1T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B09QQCX392?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">EZPIK Reachers and Grabbers</a></div>
+    <div class="product-price">$14.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B09QQCX392?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
     <div class="product-price">$35.99</div>

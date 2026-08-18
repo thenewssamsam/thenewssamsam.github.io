@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.yahoo.com/news/videos/search-rescue-teams-continue-search-112208902.html"
 ---
-
 <article>
 <style>
 .ncg-article {
@@ -128,6 +127,8 @@ source_url: "https://www.yahoo.com/news/videos/search-rescue-teams-continue-sear
 Tactical Waterproof Backpack ($35.99)
 </a></p>
 
+
+
 <p>While official assessments and rescue operations unfold, events like these inevitably focus global attention on the vulnerability of mountain and coastal regions alike when seismic activity strikes without a moment's notice.</p>
 
 <h2 id="psychology-perspective">A Psychology Perspective: Normalcy Bias and Crisis Decision-Making</h2>
@@ -219,6 +220,26 @@ Tactical Waterproof Backpack ($35.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

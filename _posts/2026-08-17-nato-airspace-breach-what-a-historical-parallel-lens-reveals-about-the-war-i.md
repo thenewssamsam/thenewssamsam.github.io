@@ -26,6 +26,8 @@ Tactical Waterproof Backpack ($35.99)
 </a></p>
 
 
+
+
   <h2 id="historical-parallel">A Historical Parallel Perspective: The Danger of Spillover</h2>
   <p>History rarely repeats itself in exact terms, but it frequently rhymes with unsettling precision. The friction points we are witnessing along NATO's eastern flank—where stray munitions, miscalculated trajectories, and proxy logistics hubs blur the line between direct combatants and neutral neighbors—mirror the precarious border dynamics of mid-20th-century European conflicts.</p>
   <p>Consider the lessons of the Spanish Civil War (1936–1939) or the early phases of twentieth-century continental skirmishes. In those eras, localized engagements rapidly metastasized because peripheral nations struggled to maintain strict neutrality while neighboring powers utilized economic networks, volunteer brigades, and logistical supply chains that straddled international borders. The targeting of commercial infrastructure like the Wildberries warehouse—viewed by Ukraine as a dual-use military supply hub—recalls historical precedents where civilian trade networks became legitimate military objectives due to total-war mobilization.</p>
@@ -132,6 +134,26 @@ Tactical Waterproof Backpack ($35.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

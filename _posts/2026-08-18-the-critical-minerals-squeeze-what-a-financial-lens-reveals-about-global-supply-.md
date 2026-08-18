@@ -7,7 +7,6 @@ tags: [financial]
 author: Sam
 source_url: "https://investornews.com/critical-minerals-rare-earths/critical-minerals-report-08-16-2026-the-critical-minerals-bull-market-is-here-as-china-puts-its-arsenal-back-in-play/"
 ---
-
 <article>
 <header>
 <h1>The Critical Minerals Squeeze: What a Financial Lens Reveals About Global Supply Risks</h1>
@@ -24,9 +23,11 @@ source_url: "https://investornews.com/critical-minerals-rare-earths/critical-min
 <p>Recent market reports highlight an acute tightening across critical mineral supply chains. On the London Metal Exchange, cash-to-three-month copper spreads recently widened to approximately US$434 a tonne—marking the steepest backwardation in five years—while cash copper remained near US$14,500 a tonne amid falling warehouse inventories. Simultaneously, rare earth prices have climbed sharply, with European erbium prices jumping over 50% and Chinese prices rising roughly 40% ahead of a November export-control deadline.</p>
 <p>Adding to the pressure, the Democratic Republic of the Congo moved to prohibit exports of copper and cobalt concentrates to force domestic processing, while enforcement actions in China involving dual-use export restrictions have introduced severe operational friction for foreign enterprises. Consuming nations are discovering that securing future deposits is entirely different from controlling present physical flows.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
 
 <h2 id="a-financial-lens-perspective">A Financial Lens Perspective</h2>
@@ -82,6 +83,26 @@ Seagate Portable External Hard Drive ($59.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

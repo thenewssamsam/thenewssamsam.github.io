@@ -7,7 +7,6 @@ tags: [legal]
 author: Sam
 source_url: "https://kstp.com/kstp-news/top-news/has-your-car-been-flocked-website-shows-whether-your-vehicle-is-in-the-database/"
 ---
-
 <article>
   <header class="ncg-header">
     <time datetime="2026-03-30">Published: March 30, 2026</time>
@@ -33,9 +32,11 @@ source_url: "https://kstp.com/kstp-news/top-news/has-your-car-been-flocked-websi
     <p>Automated license plate readers (ALPRs)—most notably operated by the surveillance technology company Flock Safety—have quietly become fixtures on American roadways. These solar- and battery-powered cameras snap photos of passing vehicles, capturing not just license plate numbers but also vehicle makes, models, colors, and even bumper stickers.</p>
     <p>Law enforcement agencies across the country utilize these networks to aid active investigations, track stolen vehicles, and locate missing persons. Supporters argue that the technology provides an invaluable force multiplier for police departments facing staffing shortages.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
     <p>However, that same pervasive reach has fueled intense public scrutiny. Critics and privacy advocates point out that aggregating millions of movement logs creates a searchable historical record of everyday citizens' travel habits—even those who have never committed a crime. This rising tension has recently culminated in a new online tool called <em>Have I Been Flocked?</em>, which allows motorists to check whether their license plate data is currently stored in the company's database.</p>
   </section>
@@ -102,6 +103,32 @@ Seagate Portable External Hard Drive ($59.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

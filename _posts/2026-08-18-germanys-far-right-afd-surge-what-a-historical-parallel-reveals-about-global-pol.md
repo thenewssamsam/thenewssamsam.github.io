@@ -7,7 +7,6 @@ tags: [historical]
 author: Sam
 source_url: "https://www.notus.org/foreign-policy/germany-far-right-is-on-the-rise"
 ---
-
 <article>
 <header>
 <span class="ncg-badge">Global Politics Analysis</span>
@@ -39,6 +38,8 @@ source_url: "https://www.notus.org/foreign-policy/germany-far-right-is-on-the-ri
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 
 <p>The stakes extend far beyond local administration. Germany's state governments control critical voting power in the Bundesrat, the federal upper house responsible for approving national legislation. Furthermore, an electoral victory in Saxony-Anhalt threatens to breach the <em>Brandmauer</em>—the informal yet strictly enforced political consensus maintained by mainstream parties since World War II to never cooperate with the far right. With Berlin elections following closely on September 20, experts note this represents a dangerous double test for the nation's political stability.</p>
@@ -103,6 +104,26 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Source: <a href="https://www.notus.org/foreign-policy/germany-far-right-is-on-the-rise" target="_blank" rel="noopener noreferrer">Original News Report via Notus</a></p>
 </footer>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

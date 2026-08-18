@@ -7,7 +7,6 @@ tags: [financial]
 author: Sam
 source_url: "https://www.cnbc.com/2026/08/17/japan-gdp-misses-estimates-trade-exports-yen-nikkei.html"
 ---
-
 <article>
 <header>
 <h1>Japan Q2 GDP Misses Expectations: What the Financial Impact Means for Households and Markets</h1>
@@ -36,6 +35,8 @@ source_url: "https://www.cnbc.com/2026/08/17/japan-gdp-misses-estimates-trade-ex
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
 
 <h2 id="ncg-what-happened">What Happened: The Numbers Behind the Miss</h2>
@@ -121,6 +122,26 @@ Tactical Waterproof Backpack ($35.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-us-iran-war-deal-expires-what-financial-markets-and-oil-prices-reveal-about-the-.html" class="related-article-link">
+            <div class="related-article-title">US-Iran War Deal Expires: What Financial Markets and Oil Prices Reveal About the Strait of Hormuz Stalemate</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-us-beef-shortage-2026-what-financial-impact-and-herd-metrics-reveal-about-dinner.html" class="related-article-link">
+            <div class="related-article-title">US Beef Shortage 2026: What Financial Impact and Herd Metrics Reveal About Dinner Table Prices</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

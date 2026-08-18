@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.foxnews.com/us/louisiana-man-accused-killing-wife-propping-body-multistate-drive"
 ---
-
 <article>
   <header class="ncg-header">
     <div class="ncg-meta-row">
@@ -41,6 +40,8 @@ source_url: "https://www.foxnews.com/us/louisiana-man-accused-killing-wife-propp
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
     <p>Investigators allege that before Bradford could execute her escape plan, an argument at Independence Community Park in Baton Rouge turned fatal. Police state Brazille shot and killed his wife, then placed her body in the passenger seat, propping it up as he drove through multiple state lines before Memphis police stopped him. Brazille is currently scheduled for extradition back to Louisiana to face a murder charge.</p>
     <p>For friends like Decker, the revelation brought profound shock, tempered by a chilling realization of threats made in passing. Decker noted that Brazille had previously threatened suicide or violence when discussions of separation arose, a red flag that many friends dismiss until it is too late.</p>
@@ -106,6 +107,32 @@ Seagate Portable External Hard Drive ($59.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

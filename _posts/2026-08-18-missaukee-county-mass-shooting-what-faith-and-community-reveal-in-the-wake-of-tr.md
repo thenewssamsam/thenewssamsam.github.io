@@ -7,7 +7,6 @@ tags: [faith]
 author: Sam
 source_url: "https://www.detroitnews.com/story/news/local/michigan/2026/08/16/missaukee-county-mass-shooting-vigil-justice/91327822007/"
 ---
-
 <article>
 <header class="ncg-header">
 <div class="ncg-meta-row">
@@ -23,9 +22,11 @@ source_url: "https://www.detroitnews.com/story/news/local/michigan/2026/08/16/mi
 <p>In a small lakefront town where everyone usually knows their neighbors, a Friday morning in August changed everything. On August 15, 2026, a mass shooting across multiple locations in Missaukee County, Michigan, left six people dead, including the suspected gunman. For Jennings, a community of just 250 residents, the shock has reverberated far beyond the hemlock-lined roads and quiet waters of Lake Township.</p>
 <p>When violence strikes a densely populated city, it is absorbed by the sheer scale of urban life. But when tragedy hits a hamlet like Jennings, the loss is immediate, intimate, and felt by nearly everyone. Two days after the tragedy, as state police continued piecing together an active investigation, the Jennings Community Church did what small towns have done for generations: they opened the doors, put out the coffee, and invited grieving neighbors in to pray.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
 </section>
 
@@ -107,6 +108,26 @@ Seagate Portable External Hard Drive ($59.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-virginia-state-university-shooting-what-psychology-reveals-about-the-14-hour-dor.html" class="related-article-link">
+            <div class="related-article-title">Virginia State University Shooting: What Psychology Reveals About the 14-Hour Dorm Hiding Spot</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

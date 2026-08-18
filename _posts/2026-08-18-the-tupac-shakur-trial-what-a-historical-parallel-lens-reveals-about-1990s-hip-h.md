@@ -7,7 +7,6 @@ tags: [historical]
 author: Sam
 source_url: "https://www.cnn.com/2026/08/16/us/key-figures-tupac-shakur-trial"
 ---
-
 <article>
 <header>
 <time datetime="2026-08-16">Published: August 16, 2026</time>
@@ -33,9 +32,11 @@ source_url: "https://www.cnn.com/2026/08/16/us/key-figures-tupac-shakur-trial"
 <h2 id="what-happened">What Happened: The Long Road to the Courtroom</h2>
 <p>The events leading up to Duane Davis's trial trace back to the night of September 7, 1996. After attending a Mike Tyson boxing match at the MGM Grand in Las Vegas, Tupac Shakur and his entourage—led by Death Row Records founder Marion "Suge" Knight—became involved in a physical altercation with Orlando Anderson, a member of the South Side Compton Crips and the nephew of Davis.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 <p>According to law enforcement and statements detailed in Davis's 2019 memoir, <em>Compton Street Legend</em>, that casino brawl served as the catalyst for retaliation. Later that evening, a white Cadillac pulled alongside the BMW carrying Shakur and Knight. Shots rang out from the backseat, fatally wounding the 25-year-old rapper, who died six days later on September 13.</p>
 <p>While prosecutors do not allege that Davis fired the weapon himself, they argue he orchestrated the ambush, supplied the firearm, and acted with the intent to promote a criminal gang. Davis has pleaded not guilty to one count of first-degree murder with a deadly weapon. Yet, despite his recent claims in interviews that he fabricated details in his book purely for financial gain, investigators maintain that his prior recorded statements and proffer agreements corroborate his central role in the conspiracy.</p>
@@ -98,6 +99,26 @@ Tactical Waterproof Backpack ($35.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

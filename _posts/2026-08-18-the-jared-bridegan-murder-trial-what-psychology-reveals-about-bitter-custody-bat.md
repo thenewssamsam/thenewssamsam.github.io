@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.cnn.com/2026/08/17/us/jared-bridegan-mario-fernandez-saldana-murder-trial"
 ---
-
 <article>
 <header>
 <span class="ncg-badge">Legal &amp; Behavioral Analysis</span>
@@ -37,9 +36,11 @@ source_url: "https://www.cnn.com/2026/08/17/us/jared-bridegan-mario-fernandez-sa
 <h2>The Setup on a Quiet Florida Evening</h2>
 <p>The facts presented by prosecutors in the courtroom paint a chilling picture of premeditation. In February 2022, 33-year-old Microsoft executive Jared Bridegan dropped off his twins at his ex-wife’s Jacksonville Beach home. Driving home with his toddler daughter safely strapped in the backseat, he encountered an obstruction: a tire deliberately placed in the middle of a dark residential road.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
 <p>When Bridegan stepped out of his vehicle to move it, he walked straight into an ambush. Multiple bullets ended his life in front of his young daughter, who remained uninjured in the back. Investigators say personal items, including his wallet and watch, were left untouched. This was not a robbery; it was personal.</p>
 <p>According to prosecutors, the incident was the culmination of a monthslong murder-for-hire plot orchestrated by Shanna Gardner, Bridegan’s ex-wife, and her husband, Mario Fernandez Saldana, whose trial kicked off Monday. Fernandez Saldana faces charges including first-degree murder, while his defense attorneys maintain he had no motive or involvement in the crime.</p>
@@ -91,6 +92,26 @@ Seagate Portable External Hard Drive ($59.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

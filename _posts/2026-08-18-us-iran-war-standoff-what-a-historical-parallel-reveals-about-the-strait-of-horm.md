@@ -7,7 +7,6 @@ tags: [historical]
 author: Sam
 source_url: "https://www.cbsnews.com/live-updates/us-iran-war-deal-expired-strait-of-hormuz/"
 ---
-
 <article>
   <header>
     <h1>US-Iran War Standoff: What a Historical Parallel Reveals About the Strait of Hormuz Crisis</h1>
@@ -33,9 +32,11 @@ source_url: "https://www.cbsnews.com/live-updates/us-iran-war-deal-expired-strai
     <h2>What Happened: The 60-Day Deadline Expires</h2>
     <p>Monday marked the formal expiration of a 60-day memorandum of understanding signed by the United States and Iran, which was originally intended to pave the way for a broader regional peace deal. Instead of a breakthrough, the milestone arrived amid a flurry of diplomatic friction and rising military posturing.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
     <p>President Donald Trump stated in the Oval Office that Iran is unwilling to make the kind of deal necessary to prevent it from acquiring nuclear weapons, adding that he views the idea of declaring the Strait of Hormuz a US territory as "a great idea" enforced by ongoing military blockades. Meanwhile, Jared Kushner met with regional leaders in Israel regarding broader Middle East diplomacy, and Brent crude oil prices ticked upward past $90 a barrel as markets digested the persistent uncertainty surrounding Persian Gulf shipping routes.</p>
     <p>Compounding the diplomatic friction, Iranian officials condemned a recent drone attack in Iraq's northern Kurdish region, while US Central Command continued managing complex, extended naval deployments in the region.</p>
@@ -101,6 +102,26 @@ Seagate Portable External Hard Drive ($59.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

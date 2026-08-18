@@ -7,7 +7,6 @@ tags: [historical]
 author: Sam
 source_url: "https://www.independent.co.uk/bulletin/news/trump-jon-ossoff-iran-natalie-harp-golf-b3034218.html"
 ---
-
 <article>
 <header>
     <h1>Jon Ossoff Criticizes Trump: What a Historical Parallel Reveals About Wartime Priorities</h1>
@@ -29,9 +28,11 @@ source_url: "https://www.independent.co.uk/bulletin/news/trump-jon-ossoff-iran-n
     <h2>What Happened</h2>
     <p>Democratic Senator Jon Ossoff recently delivered a sharp critique of Donald Trump's leadership priorities in Atlanta, arguing that the administration is neglecting urgent national security duties while American service members face heightened risks overseas. Ossoff specifically pointed to reported presidential focus on personal projects, frequent golf outings, and travel arrangements involving aide Natalie Harp, contrasting these activities with the ongoing management of tensions involving Iran.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
     <p>The Georgia senator also raised concerns regarding a reported secret plane switch involving Harp that left senior White House officials on a decoy aircraft amid Iranian assassination threats. Furthermore, the critique touched on morale and health challenges faced by families of sailors on an extended deployment aboard the USS Abraham Lincoln. Defense Secretary Pete Hegseth quickly pushed back on those complaints, asserting that the crew receives full support and necessary resources during their deployment.</p>
 </section>
@@ -143,6 +144,32 @@ Seagate Portable External Hard Drive ($59.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

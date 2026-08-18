@@ -37,9 +37,11 @@ source_url: "https://www.thedailybeast.com/fox-news-host-slams-us-troops-as-weak
     <h2>What Happened: The On-Air Eruption</h2>
     <p>During a weekend segment on Fox News, Joey Jones—a retired Marine explosive ordnance disposal technician who lost both legs above the knee in Afghanistan in 2010—reacted sharply to a CNN clip featuring an unnamed crew member from the aircraft carrier USS <em>Abraham Lincoln</em>.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
     <p>The sailor and their family members had voiced frustration over deteriorating conditions aboard the ship, which has been deployed at sea for over 250 days. Specifically, the crew pointed to food shortages, sanitation issues, plunging morale, and meals consisting primarily of tuna mixed with noodles.</p>
     <p>Jones, drawing on his own extensive combat deployments, pushed back with intense anger. He recounted surviving on ramen and tuna packets in Afghanistan, argued that carrier sailors are safer at sea than ground troops in active combat zones, and concluded with a stark warning: <em>“If this is a representation of who our military is now... we're just Rome sitting there waiting to burn—we've got nothing left.”</em></p>
@@ -113,6 +115,26 @@ Seagate Portable External Hard Drive ($59.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-wyoming-grok-lawsuit-what-psychology-reveals-about-the-scale-of-ai-abuse.html" class="related-article-link">
+            <div class="related-article-title">Wyoming Grok Lawsuit: What Psychology Reveals About the Scale of AI Abuse</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-when-policy-meets-reality-what-the-psychology-of-normalcy-bias-explains-about-po.html" class="related-article-link">
+            <div class="related-article-title">When Policy Meets Reality: What the Psychology of Normalcy Bias Explains About Political Awakening</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

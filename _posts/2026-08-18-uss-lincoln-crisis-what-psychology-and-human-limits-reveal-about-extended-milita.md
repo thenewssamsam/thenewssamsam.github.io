@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.aljazeera.com/news/2026/8/17/uss-lincoln-crisis-how-it-compares-to-past-aircraft-carrier-deployments"
 ---
-
 <article>
 <header>
 <span class="ncg-meta-tag">Military &amp; Psychology</span>
@@ -34,9 +33,11 @@ source_url: "https://www.aljazeera.com/news/2026/8/17/uss-lincoln-crisis-how-it-
 <h2>What Happened on the USS Abraham Lincoln?</h2>
 <p>The USS Abraham Lincoln left its homeport of San Diego on November 21, 2025, for what was supposed to be a standard rotation in the Asia Pacific and the Middle East. That mission was originally scheduled to conclude in May 2026. Instead, amid escalating tensions and an indefinite naval blockade on Iranian ports in the Gulf, the deployment has been repeatedly extended.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
 <p>With more than 5,000 personnel on board and just a single-day port stop in Guam back in December 2025, conditions on the flagship carrier have deteriorated. Families of crew members have spoken out in publications like the <em>Navy Times</em> and <em>Stars and Stripes</em>, describing broken plumbing, food shortages, and acute psychological distress. While top military leadership—including CENTCOM Commander Admiral Brad Cooper—have visited the vessel and defended the crew's resilience, political leaders from both parties have raised urgent questions about accountability, operational tempo, and the dismissal of mental health concerns by defense officials.</p>
 </section>
@@ -101,6 +102,26 @@ Seagate Portable External Hard Drive ($59.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

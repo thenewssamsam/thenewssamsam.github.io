@@ -7,7 +7,6 @@ tags: [legal]
 author: Sam
 source_url: "https://www.cnn.com/2026/08/16/politics/todd-blanche-trump-administration"
 ---
-
 <article>
 <header>
 <span class="ncg-badge">Legal Rights Explainer</span>
@@ -40,6 +39,8 @@ source_url: "https://www.cnn.com/2026/08/16/politics/todd-blanche-trump-administ
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
 <p>“No, I’m not going to pledge that, and no attorney general should ever pledge that,” Blanche said, while simultaneously asserting that President Donald Trump has never asked him to cross a legal line and that the Justice Department would prosecute cases without fear or favor.</p>
 <p>However, Blanche also acknowledged that he would take the president's views into account on individual prosecution decisions, noting that every American—including the president—has a perspective to offer. This commentary followed recent friction involving high-profile matters, including the DC U.S. Attorney's office dismissing the Reflecting Pool vandalism case, a decision that drew intense frustration from the Oval Office.</p>

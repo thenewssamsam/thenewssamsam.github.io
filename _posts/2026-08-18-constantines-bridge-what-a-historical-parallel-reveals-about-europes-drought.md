@@ -7,7 +7,6 @@ tags: [historical]
 author: Sam
 source_url: "https://thedebrief.org/a-mile-long-ancient-roman-engineering-marvel-has-suddenly-surfaced-from-beneath-this-famous-waterway/"
 ---
-
 <article>
   <header class="ncg-header">
     <div class="ncg-meta-row">
@@ -24,9 +23,11 @@ source_url: "https://thedebrief.org/a-mile-long-ancient-roman-engineering-marvel
     <p>In the shallow summer waters near the village of Gigen, Bulgaria, an extraordinary archaeological ghost story has made a rare public appearance. A severe and prolonged summer heatwave gripping Europe has caused major waterways, including the Rhine and the Danube, to experience dramatic drops in water levels. As the Danube receded, it exposed the ancient stone foundations of <strong>Constantine's Bridge</strong>—a monumental architectural feat first assembled nearly seventeen centuries ago.</p>
     <p>Archaeologists from the Pleven Regional Historical Museum, aided by drone technology operated by researcher Pavel Popov, successfully mapped the massive underwater structural bases. Built under the reign of Roman Emperor Constantine I and inaugurated on July 5, A.D. 328, the mile-long bridge once connected modern-day Romania (near Sucidava) with Bulgaria (near Pleven and the ancient city of Oescus). At the time of its completion, it stood as the single longest Roman-built bridge anywhere in the ancient world, an empire-spanning infrastructure project designed to project power and secure trade routes across a formidable natural barrier.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
     <p>Yet, despite its monumental scale, the bridge's lifespan was remarkably brief. Historians believe it fell into ruin within decades, likely destroyed or abandoned by around A.D. 367 as Roman political and military control shifted across the frontier. For centuries, its submerged footings remained hidden beneath the river silt—until modern climate extremes pulled them back to the surface.</p>
   </section>
@@ -118,6 +119,32 @@ Seagate Portable External Hard Drive ($59.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

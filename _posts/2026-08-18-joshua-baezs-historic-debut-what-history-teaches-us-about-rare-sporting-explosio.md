@@ -7,7 +7,6 @@ tags: [historical]
 author: Sam
 source_url: "https://defector.com/in-his-debut-game-joshua-baez-ties-stump-wiedeman-on-career-homers-list"
 ---
-
 <article>
   <header>
     <h1>Joshua Baez's Historic Debut: What History Teaches Us About Rare Sporting Explosions</h1>
@@ -35,9 +34,11 @@ source_url: "https://defector.com/in-his-debut-game-joshua-baez-ties-stump-wiede
     <h2>What Happened at Wrigley Field</h2>
     <p>According to Baseball Almanac data cited by Defector, over 22,800 men have played Major League Baseball since the National League's founding in 1876. Before Saturday, not a single one of them had matched what Baez accomplished against the Chicago Cubs.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
     <p>In the top of the first inning, facing Cubs left-hander Matthew Boyd, the 23-year-old rookie sent the very first big-league pitch he ever saw 449 feet to center field, nearly clearing Wrigley Field entirely. He wasn't done. In the third inning, he connected on a 3-2 pitch for a two-run shot into the left-field bleachers. In the sixth, he completed the trifecta with a drive to right field.</p>
     <p>Baez finished the day 3-for-4 with five RBIs, leading the Cardinals to an 8-4 victory. Yet the statistical anomaly was matched by a deeply personal narrative: Baez dedicated the performance to his late father, Jose Manuel Baez, whose lifelong dream was to play in the big leagues—a promise kept by a son who took the long, grinding road through the minor leagues.</p>
@@ -94,6 +95,26 @@ Tactical Waterproof Backpack ($35.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

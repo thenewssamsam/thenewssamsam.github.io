@@ -7,7 +7,6 @@ tags: [financial]
 author: Sam
 source_url: "https://www.coindesk.com/markets/2026/08/17/september-fed-interest-rate-increase-is-very-unlikely-goldman-sachs-says"
 ---
-
 <article>
   <style>
     .ncg-wrapper { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; color: #222; background-color: #fafafa; line-height: 1.6; padding: 20px; border-radius: 12px; max-width: 800px; margin: 0 auto; box-shadow: 0 4px 12px rgba(0,0,0,0.05); }
@@ -64,6 +63,8 @@ source_url: "https://www.coindesk.com/markets/2026/08/17/september-fed-interest-
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
     <p>Hatzius noted in a weekend client note that inflation metrics are behaving favorably, leading the bank to conclude that current market pricing for the federal funds target rate remains overly hawkish. CME FedWatch data reinforces this assessment, showing that traders currently price in only a 30.6% probability of a 25 basis point hike to the 3.75%–4% range. Bitcoin responded with a modest 1% uptick, sustaining its tight consolidation band between $62,000 and $66,000.</p>
 

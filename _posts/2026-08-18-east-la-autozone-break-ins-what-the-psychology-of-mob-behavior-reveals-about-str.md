@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://abc7.com/post/los-angeles-sheriffs-department-shares-photos-27-suspects-wanted-east-la-autozone-break-ins/19690480/"
 ---
-
 <article>
 <header>
 <h1 id="top">East LA AutoZone Break-ins: What the Psychology of Mob Behavior Reveals About Street Takeovers</h1>
@@ -36,6 +35,8 @@ source_url: "https://abc7.com/post/los-angeles-sheriffs-department-shares-photos
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
 
 <p>Astonishingly, the location was hit again less than 24 hours later. At approximately 3:30 a.m. on August 9, some of the same participants—along with new faces—returned to execute a nearly identical break-in at the exact same store. In total, the sheriff's department has circulated 27 distinct suspect photos—comprising multiple males and females captured on the business's internal surveillance footage—as they appeal to the public for help identifying those involved.</p>
@@ -145,6 +146,26 @@ Tactical Waterproof Backpack ($35.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

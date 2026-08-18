@@ -7,7 +7,6 @@ tags: [local]
 author: Sam
 source_url: "https://wsbt.com/news/local/storm-damage-recovery-cleanup-power-outages-assistance-aid-families-community-food-distribution-meals-lunch-dinner-free-nipsco-portage-hammond-laporte-gary-merrillville-highland-northwest-indiana"
 ---
-
 <article class="ncg-article">
 <header class="ncg-header">
 <div class="ncg-meta-bar">
@@ -24,9 +23,11 @@ source_url: "https://wsbt.com/news/local/storm-damage-recovery-cleanup-power-out
 <p>Severe storms recently tore through northwest Indiana, leaving behind a trail of significant property damage, tangled debris, and frustratingly lengthy power outages. For thousands of residents, the immediate aftermath meant spoiled groceries, dark homes, and disrupted daily routines.</p>
 <p>Amid the ongoing cleanup—which even brought the National Guard to places like LaPorte County—utility provider NIPSCO has stepped beyond traditional infrastructure repair. The company is actively coordinating free hot meal distributions across multiple regional hubs, offering both lunch and dinner to community members who need a helping hand while power is restored.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Crevice Cleaning Brush Set ($12.99)
 </a></p>
+
+
 
 </section>
 
@@ -80,9 +81,43 @@ Seagate Portable External Hard Drive ($59.99)
 </footer>
 </article>
 
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
+
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>
 <div class="recommendations-grid">
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Crevice Cleaning Brush Set</a></div>
+    <div class="product-price">$12.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
     <div class="product-price">$35.99</div>

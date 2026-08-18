@@ -40,6 +40,8 @@ source_url: "https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks
 Seagate Portable External Hard Drive ($59.99)
 </a></p>
 
+
+
     <p>This violence shatters the relative calm established in April 2022. It follows an even deadlier incident earlier this month, when strikes on military camps in Marib and Hadramout killed at least 30 government soldiers in the single deadliest episode of the conflict in years. Fighting has now flared anew in al-Jawf, al-Dhalea, and Taiz.</p>
   </section>
 
@@ -118,6 +120,26 @@ Seagate Portable External Hard Drive ($59.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

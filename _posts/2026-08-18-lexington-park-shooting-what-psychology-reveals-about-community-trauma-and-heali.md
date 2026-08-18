@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.nbcnews.com/news/us-news/five-shot-lexington-ky-park-leaving-one-dead-rcna592770"
 ---
-
 <article>
 <header>
 <h1 id="top">Lexington Park Shooting: What Psychology Reveals About Community Trauma and Healing</h1>
@@ -37,6 +36,8 @@ source_url: "https://www.nbcnews.com/news/us-news/five-shot-lexington-ky-park-le
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
 <p>Authorities subsequently arrested 18-year-old Jametrius M. Griffin, charging him with murder, assault, and tampering with evidence. Police records show he is being held without bond at the Fayette County Detention Center. While investigators stated that the shooting did not appear to be random—suggesting a targeted altercation rather than an indiscriminate attack—the presence of families, children, and community members turned a public celebration into a site of profound trauma.</p>
 <p>Local leaders, including Mayor Linda Gorton and gun violence prevention advocate Devine Carama—who was present at the park when the shots rang out—immediately emphasized the urgent need for mental health support. City officials mobilized free psychological resources at the Dunbar Community Center to help witnesses, families, and bystanders process the shock.</p>
@@ -161,6 +162,32 @@ Tactical Waterproof Backpack ($35.99)
 .ncg-source-footer { margin-top: 2rem; font-size: 0.9rem; color: #666; border-top: 1px solid #e5e7eb; padding-top: 1rem; }
 </style>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.democrata.es/en/international/germany-is-considering-the-illegalization-of-the-far-right-afd-with-the-government-divided/"
 ---
-
 <article>
 <header>
 <h1 id="germany-weighs-banning-the-afd-what-the-psychology-of-extremism-reveals-about-militant-democracy">Germany Weighs Banning the AfD: What the Psychology of Extremism Reveals About "Militant Democracy"</h1>
@@ -39,6 +38,8 @@ source_url: "https://www.democrata.es/en/international/germany-is-considering-th
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 <p>The urgency is driven by electoral realities. With regional elections looming in states like Saxony-Anhalt, Berlin, and Mecklenburg-Western Pomerania—where the AfD leads polls and threatens to capture close to 40% of the vote—traditional parties are scrambling for a response. Yet no formal procedure has been initiated by the three authorized bodies: the Bundestag, the Bundesrat, or the federal government.</p>
 <p>While the Social Democratic Party (SPD), The Greens, and The Left argue that examining a ban is an urgent necessity under Germany's constitutional self-defense framework, the conservative CDU and CSU warn that a failed judicial attempt could backfire spectacularly.</p>
@@ -109,6 +110,26 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Source: <a href="https://www.democrata.es/en/international/germany-is-considering-the-illegalization-of-the-far-right-afd-with-the-government-divided/" target="_blank" rel="noopener noreferrer">Original News Report from Demócrata</a></p>
 </footer>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

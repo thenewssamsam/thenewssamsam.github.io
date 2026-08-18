@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.nbcsportsphiladelphia.com/mlb/philadelphia-phillies/alec-bohm-andrew-painter-jhoan-duran-road-trip/747025/"
 ---
-
 <article>
   <header>
     <h1 id="top">Alec Bohm and the Phillies' Comeback Win: What Psychology Reveals About Overcoming Early Failure</h1>
@@ -24,9 +23,11 @@ source_url: "https://www.nbcsportsphiladelphia.com/mlb/philadelphia-phillies/ale
   <p>Sunday afternoon baseball in Minneapolis started as a nightmare for the young Phillies pitching staff. Andrew Painter, working through a rocky rookie campaign following his Triple-A demotion, was immediately bitten by his persistent bugaboo: the first inning. After a leadoff walk, a pair of singles, and another walk, Twins third baseman Brooks Lee crushed a hanging slider deep down the right-field line for a grand slam. By the time the dust settled, Painter had surrendered a five-run lead, pushing his first-inning ERA to a staggering 9.56.</p>
   <p>For the first five innings, Philadelphia's offense sputtered against Twins right-hander Dean Kremer. They loaded the bases and squandered early opportunities from Kyle Schwarber, Edmundo Sosa, and Justin Crawford. But patience preached in a late-July hitters meeting finally paid dividends in the sixth. Walks, hard-fought at-bats, and a massive three-run home run down the left-field line by Alec Bohm erased the deficit. Tied at four, the Phillies kept pressing: Bohm poked a clutch single in the seventh to score Bryce Harper, and Bryan De Lu Cruz added a two-run single down the first-base line to seal a 7-5 win.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
 
   <h2 id="why-it-matters">Why It Matters Right Now</h2>
@@ -93,6 +94,26 @@ Seagate Portable External Hard Drive ($59.99)
     .ncg-source { font-size: 0.9rem; margin-top: 1.5rem; color: #555; }
   </style>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

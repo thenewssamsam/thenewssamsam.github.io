@@ -7,7 +7,6 @@ tags: [historical]
 author: Sam
 source_url: "https://www.cnn.com/2026/08/17/asia/us-north-korea-military-exercises-trump-analysis-intl-hnk-ml"
 ---
-
 <article>
 <header>
 <time datetime="2026-08-17">Published: August 17, 2026</time>
@@ -31,9 +30,11 @@ source_url: "https://www.cnn.com/2026/08/17/asia/us-north-korea-military-exercis
 <h2 id="what-happened">What Happened: The Scaling Back of Ulchi Freedom Shield</h2>
 <p>The announcement arrived via Truth Social over the weekend, catching military planners and regional experts off guard. Trump argued that the exercises are costly—with much of the financial burden traditionally borne by the United States—and send a signal he considers "totally inappropriate and hostile" while Pyongyang remains outwardly conciliatory.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 
 <p>Yet, reality on the ground tells a markedly different story. North Korea has spent recent years aggressively modernizing its military and nuclear capabilities. Beyond domestic parades showcasing guided-missile destroyers alongside Kim's likely successor, Pyongyang has deepened its military ties with Moscow. North Korean soldiers have gained real-world combat experience on Ukrainian battlefields, and a mutual defense treaty inked with Vladimir Putin binds the two isolated regimes ever closer. China, Russia, and North Korea continue to project a united, autocrat-aligned front in East Asia.</p>
@@ -102,6 +103,32 @@ Tactical Waterproof Backpack ($35.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

@@ -7,7 +7,6 @@ tags: [historical]
 author: Sam
 source_url: "https://www.sfchronicle.com/weather/article/hawaii-hurricane-lala-flooding-storm-22390237.php"
 ---
-
 <article>
 <header>
 <h1 id="top">Hurricane Lala in Hawaii: What History Reveals About Island Infrastructure and Resilience</h1>
@@ -35,6 +34,8 @@ source_url: "https://www.sfchronicle.com/weather/article/hawaii-hurricane-lala-f
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
 
 <p>At the height of the storm, Hawaiian Electric reported that more than 250,000 customers lost power across Hawaii Island, Maui, and Oahu. While crews managed to restore service to roughly 60,000 customers by Sunday evening, officials issued stark warnings that remote rural areas on the Big Island could remain without electricity for weeks or even months due to extensive grid destruction. Compounding the emergency, high winds trapped staff inside Maui's Haleakala National Park after fallen trees blocked access roads, and rising waters triggered additional rescue efforts along the eastern coast of Oahu.</p>
@@ -97,6 +98,26 @@ Tactical Waterproof Backpack ($35.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

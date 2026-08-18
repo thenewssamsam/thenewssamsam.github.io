@@ -7,7 +7,6 @@ tags: [historical]
 author: Sam
 source_url: "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul"
 ---
-
 <article>
 <header>
 <style>
@@ -122,6 +121,8 @@ source_url: "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-
 Tactical Waterproof Backpack ($35.99)
 </a></p>
 
+
+
 <p>During the commemorations, leadership pointed to the absence of large-scale civil warfare since foreign troops withdrew and the previous government collapsed in August 2021. Officials renewed longstanding demands for international recognition, asserting that diplomatic engagement rather than economic sanctions and isolation is essential for stabilizing the country.</p>
 
 <h2 id="historical-perspective">A Historical Parallel Perspective</h2>
@@ -155,6 +156,32 @@ Tactical Waterproof Backpack ($35.99)
 Source: <a href="https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul" target="_blank" rel="noopener noreferrer">Original News Report</a>
 </div>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

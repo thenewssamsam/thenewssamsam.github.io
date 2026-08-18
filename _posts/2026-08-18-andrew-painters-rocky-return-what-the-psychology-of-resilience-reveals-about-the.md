@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.mlb.com/news/phillies-overcome-five-run-deficit-to-sweep-twins"
 ---
-
 <article>
   <header class="ncg-header">
     <div class="ncg-meta-row">
@@ -26,9 +25,11 @@ source_url: "https://www.mlb.com/news/phillies-overcome-five-run-deficit-to-swee
   <p>Sunday afternoon at Target Field was supposed to be a celebration of full-circle baseball poetry. Exactly three years after his dazzling Spring Training debut against the Minnesota Twins—where a 99 mph fastball left Carlos Correa predicting stardom, followed swiftly by elbow pain and Tommy John surgery—Andrew Painter took the mound in a Phillies uniform once again.</p>
   <p>Instead of a triumphant fairy tale, the first inning became a grueling test of endurance. Painter walked the leadoff man, gave up back-to-back line-drive singles, loaded the bases, and surrendered a towering grand slam to Brooks Lee. Moments later, a stray fastball clipped Luke Keaschall on the helmet, clearing the air with tense words and umpire huddles.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
   <p>Down 4-0 before recording an out, Painter was staring down the exact nightmare that had triggered his demotion earlier this season. But this time, something shifted. Instead of imploding, Painter locked in, gutted out five full innings, and handed the ball over to a surging bullpen. Alec Bohm provided a three-run blast in the sixth, Bryan De La Cruz delivered a go-ahead single in the eighth, and the Phillies completed a resilient 7-5 sweep to vault ahead in the NL Wild Card race.</p>
 
@@ -95,6 +96,32 @@ Seagate Portable External Hard Drive ($59.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

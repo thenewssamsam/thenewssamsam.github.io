@@ -7,7 +7,6 @@ tags: [financial]
 author: Sam
 source_url: "https://www.dw.com/en/ukraine-attacks-wildberries-russias-biggest-online-market/a-78384605"
 ---
-
 <article>
   <header>
     <h1>Ukraine Strikes Wildberries: What Financial Impact Reveals About Russia's E-Commerce Choke Point</h1>
@@ -36,9 +35,11 @@ source_url: "https://www.dw.com/en/ukraine-attacks-wildberries-russias-biggest-o
     <p>Over the past few weeks, about 20 logistics hubs belonging to Wildberries—often described as Russia's answer to Amazon—have come under near-daily attack. A recent overnight strike in Podolsk followed attacks on warehouses in Tver and Salavat. While Russian air defenses intercept many of the incoming drones, the sheer physical scale of these facilities makes them vulnerable targets.</p>
     <p>Spanning the size of dozens of soccer fields, these massive fulfillment centers are critical to keeping consumer goods moving across a vast nation. The human toll has also mounted, with at least nine employees confirmed dead, scores injured, and several major storehouses forced to halt operations entirely.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
     <p>Kyiv has explicitly stated that these warehouses function as dual-use infrastructure, distributing military components, drone parts, and navigation systems alongside civilian items. Moscow rejects these claims, insisting the platform serves purely civilian retail. But beneath the tactical military rationale lies a stark economic strategy: hitting a vital commercial choke point.</p>
   </section>
@@ -109,6 +110,32 @@ Seagate Portable External Hard Drive ($59.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

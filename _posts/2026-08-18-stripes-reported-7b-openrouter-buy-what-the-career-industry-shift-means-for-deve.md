@@ -7,7 +7,6 @@ tags: [career]
 author: Sam
 source_url: "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
 ---
-
 <article>
 <header>
 <nav class="ncg-toc" aria-label="Table of Contents">
@@ -31,9 +30,11 @@ source_url: "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai
 <h2>What Happened</h2>
 <p>According to reports from Bloomberg, financial infrastructure titan Stripe has finalized a deal to acquire AI gateway startup OpenRouter for upwards of $7 billion. The transaction follows intense speculation and reporting from The Wall Street Journal regarding ongoing acquisition talks between the two companies.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
 <p>OpenRouter has built its reputation as a unified access point allowing customers to seamlessly select and switch between different artificial intelligence models depending on performance needs and budget constraints. The startup experienced explosive growth, recently announcing a $113 million Series B funding round in May at a reported $1.3 billion valuation backed by prominent investors including Sequoia, Andreessen Horowitz, Menlo Ventures, and Alphabet's CapitalG. At the time of that funding, OpenRouter CEO Alex Atallah positioned the company as the "Stripe for AI"—a vision that Stripe has now chosen to purchase outright rather than build alongside.</p>
 <p>While a Stripe spokesperson declined to comment to TechCrunch on rumors or speculation, the sheer scale of the reported deal points to a massive consolidation wave in enterprise AI infrastructure.</p>
@@ -133,6 +134,32 @@ Seagate Portable External Hard Drive ($59.99)
 </script>
 </article>
 
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-von-miller-signs-with-the-cowboys-what-psychology-amp-behavior-reveals-about-lat.html" class="related-article-link">
+            <div class="related-article-title">Von Miller Signs With the Cowboys: What Psychology &amp; Behavior Reveals About Late-Career Homecomings</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-von-miller-signs-with-cowboys-what-a-career-industry-view-reveals-about-the-move.html" class="related-article-link">
+            <div class="related-article-title">Von Miller Signs With Cowboys: What a Career & Industry View Reveals About the Move</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-von-miller-signing-with-cowboys-what-psychology-behavior-reveals-about-high-stak.html" class="related-article-link">
+            <div class="related-article-title">Von Miller Signing With Cowboys: What Psychology & Behavior Reveals About High-Stakes Career Shifts</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
+
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>
 <div class="recommendations-grid">
@@ -145,10 +172,42 @@ Seagate Portable External Hard Drive ($59.99)
     <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
 </div>
 <div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    <div class="product-title"><a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Toshiba 5400RPM Hard Drive</a></div>
+    <div class="product-price">$49.99</div>
     <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+        <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">abshoo College Bookbag</a></div>
+    <div class="product-price">$29.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">KEOFID Classic Backpack</a></div>
+    <div class="product-price">$32.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Backpack USB Charging Port</a></div>
+    <div class="product-price">$39.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">JIYINGDUO External Hard Drive</a></div>
+    <div class="product-price">$44.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
     <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
 </div>

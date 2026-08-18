@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://variety.com/2026/tv/news/john-oliver-mocks-trump-sacrificing-staff-airplane-swap-incident-iran-1236836013/"
 ---
-
 <article>
   <header>
     <h1 id="top">John Oliver Mocks Trump Airplane Swap: What the Psychology of Crisis Leadership Reveals About Escaping on a Catering Truck</h1>
@@ -24,9 +23,11 @@ source_url: "https://variety.com/2026/tv/news/john-oliver-mocks-trump-sacrificin
 
   <p>According to reports highlighted on the show, intelligence regarding a potential security threat prompted a covert switcheroo: Trump reportedly slipped out of his primary aircraft and onto a catering truck, leaving a decoy plane, top administration officials, and traveling journalists behind while he took off on a smaller military jet. While the logistics of an emergency catering-truck escape sounded like something straight out of a political satire, the more troubling detail for many observers wasn't the truck itself—it was who stayed on the original plane.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
 
   <nav class="ncg-toc" aria-label="Table of Contents">
@@ -183,6 +184,26 @@ Seagate Portable External Hard Drive ($59.99)
   margin-bottom: 0.4rem;
 }
 </style>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

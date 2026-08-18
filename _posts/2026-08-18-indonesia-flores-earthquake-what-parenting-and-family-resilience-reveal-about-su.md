@@ -7,7 +7,6 @@ tags: [parenting]
 author: Sam
 source_url: "https://apnews.com/article/indonesia-flores-earthquake-landslide-ec45607ccc22d9df2d5cfe4ab82d33eb"
 ---
-
 <article>
 <header>
 <span class="ncg-category-tag">Disaster Recovery &amp; Family Resilience</span>
@@ -41,6 +40,8 @@ source_url: "https://apnews.com/article/indonesia-flores-earthquake-landslide-ec
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 <p>In the hardest-hit village of Reo in Manggarai regency, residents like clothing trader Rasyid Jafar watched their lives shatter in seconds. Thousands spent Independence Day weekend camping outdoors under makeshift tarpaulin tents, terrified of the 1,576 aftershocks recorded by authorities. For older residents, the sudden disaster evoked painful memories of the devastating 1992 Flores earthquake and tsunami that claimed roughly 2,500 lives.</p>
 </section>
@@ -107,6 +108,32 @@ Seagate Portable External Hard Drive ($59.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

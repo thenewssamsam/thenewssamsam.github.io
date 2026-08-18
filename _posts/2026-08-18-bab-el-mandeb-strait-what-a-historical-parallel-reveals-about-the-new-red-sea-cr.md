@@ -7,7 +7,6 @@ tags: [historical]
 author: Sam
 source_url: "https://www.foxnews.com/world/bab-el-mandeb-strait-faces-growing-threat-houthi-attacks-raise-fears-second-hormuz"
 ---
-
 <article>
   <header>
     <h1>Bab el-Mandeb Strait: What a Historical Parallel Reveals About the New Red Sea Crisis</h1>
@@ -32,9 +31,11 @@ source_url: "https://www.foxnews.com/world/bab-el-mandeb-strait-faces-growing-th
     <h2>What Happened in the Bab el-Mandeb Strait?</h2>
     <p>The global shipping corridor connecting the Gulf of Aden to the Red Sea and the Suez Canal is facing its most severe threat in over a decade. Recent escalations, highlighted by lethal attacks on commercial vessels like the Egyptian-owned cargo ship <em>Tihamah</em>, have reignited fears that the Bab el-Mandeb Strait could transform into a second Strait of Hormuz. Four crew members lost their lives in the initial strike, followed tragically by the deaths of two Yemeni rescuers.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
     <p>While naval coalitions work tirelessly to protect individual vessels, experts note that naval power alone cannot easily neutralize land-based threats in a fractured nation like Yemen. With tanker transits dropping significantly and shipping companies adopting defensive postures—ranging from armed guards to broadcasting Chinese ownership—the economic stakes are rippling outward. Saudi Arabia, increasingly reliant on Red Sea infrastructure due to disruptions further east, finds itself caught in a tightening geopolitical vise.</p>
   </section>
@@ -114,6 +115,32 @@ Seagate Portable External Hard Drive ($59.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

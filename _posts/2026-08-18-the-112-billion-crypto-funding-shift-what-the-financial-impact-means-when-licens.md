@@ -7,7 +7,6 @@ tags: [financial]
 author: Sam
 source_url: "https://www.odaily.news/en/post/5212519"
 ---
-
 <article>
 <header>
     <h1>The $11.2 Billion Crypto Funding Shift: What the Financial Impact Means When Licenses Beat Code</h1>
@@ -34,9 +33,11 @@ source_url: "https://www.odaily.news/en/post/5212519"
 <h2 id="ncg-what-happened">What Happened: The $11.2 Billion Reality Check</h2>
 <p>To understand how stark this shift is, we only need to look at where the capital concentrated. The top three sectors absorbing the $11.2 billion in funding were payments and stablecoins ($3.7 billion), prediction markets ($2 billion), and exchanges and trading platforms ($1.7 billion). </p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 <p>These sectors share one defining trait: in any major global jurisdiction, operating legally requires extensive regulatory sign-off. High-profile rounds underscore this concentration of institutional trust. Prediction market Kalshi locked down $1 billion in investments from heavyweight institutions like Sequoia Capital, Morgan Stanley, Ark Invest, and a16z. Meanwhile, competitor Polymarket raised $600 million in a round led by Intercontinental Exchange (ICE), the parent company of the New York Stock Exchange. In the payments sector, names like BlackRock, Goldman Sachs, and Gulf sovereign wealth funds anchored massive capital injections.</p>
 
@@ -94,6 +95,26 @@ Tactical Waterproof Backpack ($35.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-when-policy-meets-reality-what-the-psychology-of-normalcy-bias-explains-about-po.html" class="related-article-link">
+            <div class="related-article-title">When Policy Meets Reality: What the Psychology of Normalcy Bias Explains About Political Awakening</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-us-iran-war-deal-expires-what-financial-markets-and-oil-prices-reveal-about-the-.html" class="related-article-link">
+            <div class="related-article-title">US-Iran War Deal Expires: What Financial Markets and Oil Prices Reveal About the Strait of Hormuz Stalemate</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

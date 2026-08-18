@@ -7,7 +7,6 @@ tags: [historical]
 author: Sam
 source_url: "https://sports.yahoo.com/articles/mlb-news-tommy-john-passes-120000939.html"
 ---
-
 <article>
 <style>
   .ncg-container { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; color: #222; line-height: 1.7; max-width: 800px; margin: 0 auto; padding: 20px; background: #fff; }
@@ -60,9 +59,11 @@ source_url: "https://sports.yahoo.com/articles/mlb-news-tommy-john-passes-120000
   <p>Legendary Major League Baseball pitcher Tommy John has passed away at the age of 83, marking the end of an era for a man whose name became synonymous with modern sports medicine. While the baseball world mourns the loss of the iconic left-hander, the sports news cycle brings a mix of remarkable milestones and tough updates: from historic MLB debuts by rookies like Joshua Baez and Brett Callahan to injury setbacks for contemporary stars like Hunter Greene and Aaron Judge.</p>
   <p>For most modern sports fans, the name Tommy John lives on in the medical procedure that saved thousands of pitching careers. But long before Dr. Frank Jobe performed the miraculous ligament replacement surgery in 1974, John was a fiercely competitive pitcher who carved out a brilliant 26-year big-league career. His passing invites us to look back not just at a stat line, but at how a single moment of medical innovation altered the trajectory of professional sports forever.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
 </section>
 
@@ -180,6 +181,26 @@ Seagate Portable External Hard Drive ($59.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

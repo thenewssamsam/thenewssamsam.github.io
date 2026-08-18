@@ -76,6 +76,8 @@ Tactical Waterproof Backpack ($35.99)
 </a></p>
 
 
+
+
   <h2 id="what-happened">What Happened in Maysville?</h2>
 
   <p>According to reports from the <em>Wall Street Journal</em>, Delsia Bare and Ida Huddleston initially entertained discussions to sell their combined 534 acres in Maysville, Kentucky. The payout was extraordinarily generous—$48,000 per acre for Bare's 463 acres, and $60,000 an acre for Huddleston's 71 acres, totaling over $26 million, well above current market valuation.</p>
@@ -169,6 +171,26 @@ Tactical Waterproof Backpack ($35.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-why-oklahoma-electric-bills-are-going-up-a-financial-look-beyond-the-data-center.html" class="related-article-link">
+            <div class="related-article-title">Why Oklahoma Electric Bills Are Going Up: A Financial Look Beyond the Data Center Hype</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

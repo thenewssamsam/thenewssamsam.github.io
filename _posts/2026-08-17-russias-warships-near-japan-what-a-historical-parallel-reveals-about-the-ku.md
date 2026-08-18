@@ -23,6 +23,8 @@ source_url: "https://united24media.com/world/russia-sends-four-missile-warships-
 Seagate Portable External Hard Drive ($59.99)
 </a></p>
 
+
+
 <p>The timing of the deployment tells the real story. These same warships were first spotted heading east through the Soya Strait on August 9. Their return voyage on August 14 happened just one day after Russian leader Vladimir Putin visited Iturup—one of the four islands in the Kuril chain that Japan refers to as its Northern Territories. The Soviet Union seized the archipelago in the closing days of World War II in 1945, and the 80-year dispute has meant Moscow and Tokyo have never signed a formal peace treaty.</p>
 <p>Following Tokyo's formal protests over Putin's visit, Dmitry Medvedev, Deputy Chairman of Russia's Security Council, escalated the diplomatic rhetoric by warning Japan of severe repercussions. The naval deployment served as a very literal, floating punctuation mark to that warning.</p>
 </section>
@@ -86,6 +88,32 @@ Seagate Portable External Hard Drive ($59.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

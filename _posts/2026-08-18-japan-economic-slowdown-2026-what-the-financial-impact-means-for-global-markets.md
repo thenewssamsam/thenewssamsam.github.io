@@ -7,7 +7,6 @@ tags: [financial]
 author: Sam
 source_url: "https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts"
 ---
-
 <article>
 <header class="njp-header">
 <p class="njp-meta"><time datetime="2026-08-17">Published: August 17, 2026</time> &bull; 6 min read</p>
@@ -31,9 +30,11 @@ source_url: "https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-mi
 <p>According to official data released by Japan's Cabinet Office on Monday, gross domestic product (GDP) grew by 0.3 percent in the April-June period compared to the previous quarter. While this marks the third consecutive quarterly expansion, it represents a cooling from the 0.5 percent growth recorded in the prior quarter. More importantly, it fell short of the 0.5 percent growth economists had universally forecast.</p>
 <p>On an annualised basis, the nation expanded 1.1 percent—substantially below the 1.67 percent annualised growth predicted by a survey of 37 economists conducted by the Japan Center for Economic Research. Despite these domestic headwinds, regional stock markets rallied on Monday, with Tokyo's benchmark Nikkei 225 index finishing up over 0.7 percent alongside gains across major Asian exchanges.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
 </section>
 
@@ -106,6 +107,32 @@ Seagate Portable External Hard Drive ($59.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-us-iran-war-deal-expires-what-financial-markets-and-oil-prices-reveal-about-the-.html" class="related-article-link">
+            <div class="related-article-title">US-Iran War Deal Expires: What Financial Markets and Oil Prices Reveal About the Strait of Hormuz Stalemate</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-us-beef-shortage-2026-what-financial-impact-and-herd-metrics-reveal-about-dinner.html" class="related-article-link">
+            <div class="related-article-title">US Beef Shortage 2026: What Financial Impact and Herd Metrics Reveal About Dinner Table Prices</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-ukraine-strikes-wildberries-what-financial-impact-reveals-about-russias-e-commer.html" class="related-article-link">
+            <div class="related-article-title">Ukraine Strikes Wildberries: What Financial Impact Reveals About Russia's E-Commerce Choke Point</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

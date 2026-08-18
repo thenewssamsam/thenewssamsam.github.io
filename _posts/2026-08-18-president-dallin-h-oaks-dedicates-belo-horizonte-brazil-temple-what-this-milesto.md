@@ -7,7 +7,6 @@ tags: [faith]
 author: Sam
 source_url: "https://www.thechurchnews.com/temples/2026/08/16/dallin-h-oaks-church-president-dedicates-belo-horizonte-brazil-temple/"
 ---
-
 <article class="ncg-article-wrapper">
 <header class="ncg-header">
 <div class="ncg-meta-info">
@@ -25,9 +24,11 @@ source_url: "https://www.thechurchnews.com/temples/2026/08/16/dallin-h-oaks-chur
 <p>On Sunday, August 16, 2026, President Dallin H. Oaks—just days after celebrating his 94th birthday—offered the dedicatory prayer for the Belo Horizonte Brazil Temple. Traveling with his wife, Sister Kristen M. Oaks, alongside General Authority Seventies and local leaders, the President of the Church performed his first international temple dedication since being set apart in October 2025.</p>
 <p>The new sacred structure is the 12th operating temple in Brazil and the 220th worldwide, followed immediately by the Cleveland Ohio Temple as the 221st. For decades, Latter-day Saints in Belo Horizonte and the surrounding state of Minas Gerais faced arduous journeys of up to eight hours overnight by bus to reach the distant houses of the Lord in São Paulo or Campinas. Now, members in the region have a dedicated sanctuary right in their capital city, transforming both their regular worship and their connection to sacred ordinances.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
 
 <h2 id="a-faith-perspective">A Faith &amp; Scripture Perspective: The House of the Lord</h2>
@@ -78,6 +79,26 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 </div>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-ukraine-shopping-center-strike-what-a-faith-perspective-reveals-about-civilian-r.html" class="related-article-link">
+            <div class="related-article-title">Ukraine Shopping Center Strike: What a Faith Perspective Reveals About Civilian Resilience</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

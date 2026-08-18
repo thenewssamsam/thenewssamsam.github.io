@@ -7,7 +7,6 @@ tags: [historical]
 author: Sam
 source_url: "https://www.nbcnews.com/politics/trump-administration/trump-orders-military-substantially-reduce-joint-exercises-south-korea-rcna592832"
 ---
-
 <article>
 <header>
 <h1>Trump Orders Military to Reduce South Korea Exercises: A Historical Parallel Look at Alliances and Deterrence</h1>
@@ -24,9 +23,11 @@ source_url: "https://www.nbcnews.com/politics/trump-administration/trump-orders-
 <h2>What Happened?</h2>
 <p>On Sunday, President Trump announced via social media that he had instructed Secretary of War Pete Hegseth to scale down large annual military exercises with South Korea. Trump criticized the traditional drills as sending a signal that is "totally inappropriate and hostile" toward North Korea, noting that Kim Jong Un’s regime has remained unthreatening toward the U.S. while he has been in office.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
 <p>The announcement also touched on unrelated diplomatic friction, with Trump pointing out that South Korea declined a recent request to join U.S. efforts regarding Iran. Despite the presidential directive, South Korea’s defense ministry initially stated that the drills were proceeding as planned, while President Lee Jae Myung's office emphasized continued close coordination between Washington and Seoul. Regional experts and lawmakers, including Sen. Mark Kelly, quickly criticized the move, warning that hollowing out joint exercises weakens deterrence and complicates alliance readiness against nuclear threats.</p>
 </section>
@@ -86,6 +87,32 @@ Seagate Portable External Hard Drive ($59.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-xi-jinping-praises-tiananmen-crackdown-what-a-historical-parallel-reveals-about-.html" class="related-article-link">
+            <div class="related-article-title">Xi Jinping Praises Tiananmen Crackdown: What a Historical Parallel Reveals About China Today</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

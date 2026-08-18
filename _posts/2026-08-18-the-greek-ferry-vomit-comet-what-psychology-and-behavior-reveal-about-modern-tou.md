@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://nypost.com/2026/08/16/lifestyle/greek-ferry-causing-tourists-to-get-seasick-with-high-speeds/"
 ---
-
 <article>
   <header class="ncg-header">
     <div class="ncg-meta-bar">
@@ -29,6 +28,8 @@ source_url: "https://nypost.com/2026/08/16/lifestyle/greek-ferry-causing-tourist
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack ($35.99)
 </a></p>
+
+
 
   </section>
 

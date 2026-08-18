@@ -7,7 +7,6 @@ tags: [news]
 author: Sam
 source_url: "https://www.bbc.com/news/articles/clyqpx6xk69o"
 ---
-
 <article>
   <header>
     <h1>Meta Child Privacy Trial: What Psychology Reveals About Social Media Addiction</h1>
@@ -35,9 +34,11 @@ source_url: "https://www.bbc.com/news/articles/clyqpx6xk69o"
     <p>A high-stakes legal battle is unfolding before Chief Federal Judge Yvonne Gonzalez Rogers in California, bringing together attorneys general from 30 states representing nearly two-thirds of the American population. The lawsuit accuses Meta of designing its platforms—specifically Instagram and Facebook—to hook children and teenagers through features that encourage compulsive engagement.</p>
     <p>The plaintiffs are demanding sweeping operational changes. They want Meta to implement strict parental verification processes, strip out dopamine-manipulating recommendation algorithms, remove appearance-altering photo filters, end video autoplay, prohibit multiple accounts, and eliminate disappearing posts like Instagram Stories.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
     <p>This federal action follows a landmark ruling in New Mexico, where Judge Bryan Biedscheid declared Meta a "public nuisance" akin to a polluting factory, ordering the removal of like counts for minors, restrictions on nighttime push notifications, and bans on sharing nudity. While that initial order applies only to New Mexico, a broader loss in the multi-state federal trial could force Meta to reshape its user experience nationwide.</p>
     <p>Meta has consistently denied the allegations, stating through a spokeswoman that the company is confident evidence will demonstrate its longstanding commitment to supporting young people. Yet internal company documents, unearthed through the legal discovery process, have revealed a complex internal understanding of how these features impact vulnerable minds.</p>
@@ -236,6 +237,32 @@ Tactical Waterproof Backpack ($35.99)
   padding-top: 1rem;
 }
 </style>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

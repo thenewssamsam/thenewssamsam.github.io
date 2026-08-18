@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://thewaltdisneycompany.com/news/d23-2026-disney-legends-awards/"
 ---
-
 <article>
 <header class="ncg-header">
 <time datetime="2026-03-08">Published: March 8, 2026</time>
@@ -33,9 +32,11 @@ source_url: "https://thewaltdisneycompany.com/news/d23-2026-disney-legends-award
 <p>The Anaheim Convention Center recently played host to the grand finale of the largest D23 event in history. Hosted by Ryan Seacrest and opened by Disney CEO Josh D’Amaro, the 2026 Disney Legends Awards Ceremony inducted eleven towering figures from film, television, sports, and theme park design.</p>
 <p>The prestigious 2026 class features a remarkably diverse lineup of talent: Chris Berman, Jerry Bruckheimer, Susan Egan, Eric Goldberg, Anne Hathaway, company leader Bob Iger, Kim Irvine, Dwayne Johnson, the Jonas Brothers, Lin-Manuel Miranda, and Alan Tudyk. Each honoree received a tribute featuring surprise guest appearances, musical medleys, and emotional career retrospectives. From Lin-Manuel Miranda performing beloved hits from <em>Moana</em> and <em>Encanto</em> to Bob Iger receiving accolades from industry icons like Harrison Ford and Robert Downey Jr., the afternoon was designed to celebrate the human creators behind decades of childhood memories.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 <p>Beyond the star-studded stage, the multi-day convention offered fans rare auctions, documentaries like Leslie Iwerks’ <em>Disney Worldbuilders</em>, and immersive show floors. But while the merchandise and panel announcements drove immediate headlines, the underlying emotional engine of the weekend was much deeper.</p>
 </section>
@@ -94,6 +95,26 @@ Tactical Waterproof Backpack ($35.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

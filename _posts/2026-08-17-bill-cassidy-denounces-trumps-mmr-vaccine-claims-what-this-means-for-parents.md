@@ -35,9 +35,11 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/16/republican-senator-
     <p>In a striking break from political allies, Republican Senator Bill Cassidy of Louisiana—a practicing medical doctor and outgoing chair of the Senate health committee—publicly denounced Donald Trump’s recent claims regarding the safety of the combined Measles, Mumps, and Rubella (MMR) vaccine. Speaking on CNN, Cassidy labeled the administration's push to scrap the combined two-dose MMR shot in favor of six separate individual injections as "crazy, stupid" and potentially tragic.</p>
     <p>The clash follows an executive-level push by the White House, with federal health secretary Robert F. Kennedy Jr. at the president's side, to alter recommended childhood immunization schedules. Trump characterized the standard MMR shot as comparable to a "nuclear weapon" that could be "quite lethal." Meanwhile, changes implemented at the Centers for Disease Control and Prevention (CDC) have introduced asterisks and footnotes questioning long-established scientific consensus regarding vaccines and autism.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
     <p>Cassidy’s outspoken criticism arrives at a complex political juncture. Having lost his primary bid to a Trump-backed challenger, and having recently cast key confirmation votes for controversial administration nominees, the senator's critique of the administration's vaccine agenda highlights an ongoing tension between political loyalty and medical reality.</p>
   </section>
@@ -115,6 +117,26 @@ Tactical Waterproof Backpack ($35.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-trumps-prescription-price-press-conference-what-psychology-reveals-about-the-pol.html" class="related-article-link">
+            <div class="related-article-title">Trump's Prescription Price Press Conference: What Psychology Reveals About the Politics of Credit</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-trumps-critique-of-fox-news-what-financial-impact-and-media-stocks-reveal-about-.html" class="related-article-link">
+            <div class="related-article-title">Trump's Critique of Fox News: What Financial Impact and Media Stocks Reveal About Headline Risk</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

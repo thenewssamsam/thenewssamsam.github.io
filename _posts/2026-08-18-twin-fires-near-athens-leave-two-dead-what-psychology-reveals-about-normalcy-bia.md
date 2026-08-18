@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.bbc.com/news/articles/c87nnwlpe5no"
 ---
-
 <article>
   <header>
     <h1>Twin Fires Near Athens Leave Two Dead: What Psychology Reveals About Normalcy Bias and Disaster Preparedness</h1>
@@ -21,9 +20,11 @@ source_url: "https://www.bbc.com/news/articles/c87nnwlpe5no"
   
   <p>Authorities deployed about 200 firefighters, 50 fire engines, water tankers, construction machinery, and specialized aircraft to keep the twin blazes from crossing a central mountain and merging into a single catastrophic wall of fire. By Sunday evening, around 500 people had been safely evacuated by sea using coast guard vessels, patrol boats, and private watercraft, while at least 10 individuals suffered burns or smoke inhalation.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 
   <p>The Greek crisis is part of a broader, bruising weekend for European emergency services, with massive wildfires also battering Belgium's Hautes Fagnes nature reserve and parts of Croatia, all against the backdrop of record-shattering heat recorded by the EU's Copernicus climate monitoring service.</p>
@@ -120,6 +121,26 @@ Tactical Waterproof Backpack ($35.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

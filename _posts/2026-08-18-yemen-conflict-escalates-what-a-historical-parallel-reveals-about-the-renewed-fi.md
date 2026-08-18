@@ -7,7 +7,6 @@ tags: [historical]
 author: Sam
 source_url: "https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates"
 ---
-
 <article>
 <header>
 <span class="ncg-badge" style="background:#4b3832; color:#fff; padding:4px 10px; font-size:12px; border-radius:4px; font-weight:600; text-transform:uppercase;">Historical Parallel</span>
@@ -102,6 +101,32 @@ Source: <a href="https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-att
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-xi-jinping-praises-tiananmen-crackdown-what-a-historical-parallel-reveals-about-.html" class="related-article-link">
+            <div class="related-article-title">Xi Jinping Praises Tiananmen Crackdown: What a Historical Parallel Reveals About China Today</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

@@ -26,6 +26,8 @@ source_url: "https://www.independent.co.uk/tech/flock-surveillance-cameras-onlin
 Seagate Portable External Hard Drive ($59.99)
 </a></p>
 
+
+
   <p>The newly launched lookup site leverages data obtained through Freedom of Information Act (FOIA) requests. When a license plate appears on the site, it indicates that a vehicle was photographed by a camera and that an operator subsequently ran a search on that plate. Importantly, operators are not exclusively police officers, and a search does not automatically mean a driver was pulled over, investigated, or suspected of a crime. Public records tracked by the site indicate that searches are most frequently linked to narcotics investigations and motor vehicle thefts.</p>
 
   <h2 id="legal-perspective">A Legal Rights Explainer: Tracking, Warrants, and the Fourth Amendment</h2>
@@ -83,6 +85,26 @@ Seagate Portable External Hard Drive ($59.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

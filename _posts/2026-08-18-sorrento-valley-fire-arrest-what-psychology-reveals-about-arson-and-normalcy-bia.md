@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.10news.com/news/local-news/vegetation-fire-erupts-in-the-sorrento-valley"
 ---
-
 <article>
 <header>
 <h1 id="sorrento-valley-fire-arrest-what-psychology-reveals-about-arson-and-normalcy-bias">Sorrento Valley Fire Arrest: What Psychology Reveals About Arson and Normalcy Bias</h1>
@@ -34,9 +33,11 @@ source_url: "https://www.10news.com/news/local-news/vegetation-fire-erupts-in-th
 <h2 id="what-happened-in-sorrento-valley">What Happened: The 131-Acre Blaze and Arrest</h2>
 <p>The Sorrento Valley fire ignited on a Sunday afternoon, rapidly chewing through 131 acres of brush between Sorrento Valley Boulevard and Carmel Mountain Road. According to the San Diego Fire-Rescue Department, ground crews faced immediate challenges due to rugged hiking trail access and washouts from previous fires. Deputy Chief Dan Eddy noted that five fixed-wing aircraft and multiple helicopters—scooping water from a nearby golf course with a rapid three-minute turnaround—were instrumental in halting the fire's forward spread within an hour.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 <p>While evacuation orders forced residents to temporary assembly points like Mandell Weiss Eastgate Park, swift aerial and ground coordination prevented structural destruction. By Sunday evening, all evacuation warnings were lifted, though Zone SDC-1444-A remained under an active evacuation order. Shortly after, San Diego police confirmed a major development: 30-year-old Brandon Glasgo was taken into custody on suspicion of arson, with an arraignment scheduled for Wednesday. While firefighters worked through the night to secure containment lines, the community was left grappling with a sobering reality: human action, rather than nature alone, had put hundreds of homes at risk.</p>
 
@@ -177,6 +178,32 @@ Tactical Waterproof Backpack ($35.99)
   color: #2b4c7e;
 }
 </style>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemen-conflict-escalates-what-a-historical-parallel-reveals-about-the-renewed-fi.html" class="related-article-link">
+            <div class="related-article-title">Yemen Conflict Escalates: What a Historical Parallel Reveals About the Renewed Fighting in Marib and al-Makha</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

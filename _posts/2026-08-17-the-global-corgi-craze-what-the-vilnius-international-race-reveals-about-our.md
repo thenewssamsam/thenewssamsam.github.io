@@ -35,9 +35,11 @@ source_url: "https://apnews.com/article/lithuania-vilnius-corgi-race-costumes-no
 
   <p>Organizer Edvinas Miskas noted the symbolic shift of welcoming participants from the UK, remarking that when people from the breed's native land travel to Lithuania instead of the reverse, the title of "European capital of corgis" starts to carry real weight.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 
   <p>While 94 dogs tackled the marquee 25-meter (82-foot) sprint—won ultimately by American competitor GG (short for Gustave the Girl Dog), who narrowly edged out fellow U.S. entrant Mr. Corgington and Lithuania's two-time former champion Moka—the event deliberately expanded far beyond raw speed. The festival celebrated canine talents of all kinds through a costume parade featuring 38 creative outfits (won by Amigo in a knight-like suit), a "smartest nose" treat-search challenge shared by Latvian corgis Tora and Rusty, and a booming loudest bark contest claimed by Mr. Corgington.</p>
@@ -90,6 +92,26 @@ Tactical Waterproof Backpack ($35.99)
   }
   </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>

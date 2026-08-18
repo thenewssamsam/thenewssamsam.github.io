@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://fansided.com/nfl/troubling-nfl-injuries-from-week-1-of-preseason-jeremiyah-love-d-j-moore-and-more"
 ---
-
 <article>
 <header>
 <span style="display:inline-block; background-color:#e8f4fd; color:#1d6fa5; padding:4px 10px; border-radius:4px; font-size:12px; font-weight:600; margin-bottom:12px;">Psychology &amp; Behavior Lens</span>
@@ -26,6 +25,8 @@ source_url: "https://fansided.com/nfl/troubling-nfl-injuries-from-week-1-of-pres
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive ($59.99)
 </a></p>
+
+
 
 <p>Up in Western New York, Buffalo Bills fans held their collective breath when wide receiver D.J. Moore—who had already flashed immediate chemistry with Josh Allen—scared coaches with an ankle scare. Meanwhile, veteran Jamal Adams was carted off with a knee injury for the Minnesota Vikings, Chicago Bears safety Xavier Woods left with a groin issue, and Washington Commanders backup quarterback Marcus Mariota suffered a minor knee tweak. Across the league, teams scrambled to adjust to the fragile reality of training camp attrition.</p>
 </section>
@@ -88,6 +89,26 @@ Seagate Portable External Hard Drive ($59.99)
 }
 </script>
 </article>
+
+
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-yemeni-army-launches-181-strikes-after-missile-attacks-what-a-historical-paralle.html" class="related-article-link">
+            <div class="related-article-title">Yemeni Army Launches 181 Strikes After Missile Attacks: What a Historical Parallel Reveals About Escalation Cycles</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
+</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>
