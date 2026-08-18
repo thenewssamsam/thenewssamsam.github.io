@@ -7,10 +7,13 @@ layout: default
         <h1 class="post-title">{{ page.title }}</h1>
         <div class="post-meta">
             <time datetime="{{ page.date | date_to_xmlschema }}">
-                {{ page.date | date: "%B %d, %Y" }}
+                📅 {{ page.date | date: "%B %d, %Y" }}
             </time>
             {% if page.author %}
-            <span class="author">by {{ page.author }}</span>
+            <span class="author">✍️ by {{ page.author }}</span>
+            {% endif %}
+            {% if page.source_url %}
+            <span class="source">🔗 <a href="{{ page.source_url }}" target="_blank" rel="noopener noreferrer">Source</a></span>
             {% endif %}
         </div>
     </header>
@@ -19,19 +22,9 @@ layout: default
         {{ content }}
     </div>
 
-    <!-- AdSense Advertisement (Top of article) -->
+    <!-- AdSense Advertisement (placeholder - replace with your AdSense code) -->
     <div class="ad-container ad-top">
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXX"></script>
-        <!-- Responsive Ad -->
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-XXXXXXXXX"
-             data-ad-slot="1234567890"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-        <script>
-             (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
+        <p style="color: var(--text-light); font-style: italic;">Advertisement Space</p>
     </div>
 
     <footer class="post-footer">
@@ -44,13 +37,13 @@ layout: default
 </article>
 
 <section class="related-posts">
-    <h2>Related Articles</h2>
+    <h2>📚 Related Articles</h2>
     <div class="posts-grid">
         {% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" | sample: 3 %}
         {% for post in related_posts %}
         <article class="post-card">
             <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-            <p class="date">{{ post.date | date: "%B %d, %Y" }}</p>
+            <p class="date">📅 {{ post.date | date: "%B %d, %Y" }}</p>
         </article>
         {% endfor %}
     </div>
