@@ -3,9 +3,6 @@ description: AI-powered commentary on global news from a faith perspective
 url: "https://thenewssamsam.github.io"
 baseurl: ""
 
-# Permalink settings
-permalink: /:categories/:title/
-
 # Theme
 theme: minima
 plugins:
