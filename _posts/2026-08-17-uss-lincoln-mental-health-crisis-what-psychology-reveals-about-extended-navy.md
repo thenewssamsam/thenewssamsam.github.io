@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html"
 ---
-
 <article>
   <header class="ncg-header">
     <div class="ncg-meta-row">
@@ -34,6 +33,11 @@ source_url: "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-menta
     <h2>What Happened Aboard the USS Lincoln?</h2>
     <p>For more than eight months, the aircraft carrier USS Lincoln has maintained a grueling deployment schedule in the Middle East, operating at the sharp edge of tensions involving U.S. forces and Iran. But behind the gray hull and flight deck operations, a human crisis has been quietly unfolding. Recent reports from outlets like the <em>Navy Times</em> and <em>Stars and Stripes</em> revealed that several sailors aboard the ship attempted to go overboard amid deteriorating mental health and plummeting morale.</p>
     <p>The situation came to a head when U.S. Central Command Commander Adm. Brad Cooper visited the ship and publicly acknowledged the mental health challenges facing the crew. While Cooper defended the ship’s internal metrics—pointing out that the Lincoln actually maintains some of the lowest mental health-related case numbers among the Navy's 11 active carriers—he candidly admitted a hard truth: <em>"Find any of the nearly 4 million Navy veterans in America today and they will likely tell you that service at sea for long periods isn't for everyone."</em></p>
+<!-- Amazon Associates Recommendation -->
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
+</a></p>
+
     <p>The incident has triggered a sharp fracture in Washington. While President Donald Trump and Defense Secretary Pete Hegseth downplayed reports of systemic distress—with Trump insisting the deployment has not gone on "nearly long enough" before a scheduled relief by the USS George Washington—lawmakers like Sen. Kirsten Gillibrand are demanding immediate hearings, citing an urgent need for accountability regarding conditions for service members in an extended, high-stakes combat theater.</p>
   </section>
 
@@ -104,3 +108,25 @@ source_url: "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-menta
   }
   </script>
 </article>
+
+<section class="amazon-recommendations">
+<h3>📚 Recommended Resources</h3>
+<div class="recommendations-grid">
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
+    <div class="product-price">$35.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
+    <div class="product-price">$59.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+</div>
+</section>

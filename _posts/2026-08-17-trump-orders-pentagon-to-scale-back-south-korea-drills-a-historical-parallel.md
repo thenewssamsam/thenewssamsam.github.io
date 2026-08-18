@@ -7,7 +7,6 @@ tags: [historical]
 author: Sam
 source_url: "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea"
 ---
-
 <article>
 <header>
 <h1>Trump Orders Pentagon to Scale Back South Korea Drills: A Historical Parallel on Alliances</h1>
@@ -34,6 +33,11 @@ source_url: "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-ko
 <section id="what-happened">
 <h2>What Happened: The Order to Scale Back</h2>
 <p>On Sunday, President Trump took to social media to announce that he had instructed Secretary of War Pete Hegseth to substantially reduce the ongoing Ulchi Freedom Shield military exercises involving U.S. and South Korean forces. The 11-day drills, featuring 18,000 South Korean soldiers, had just commenced on Monday to reinforce readiness against persistent North Korean ballistic missile threats.</p>
+<!-- Amazon Associates Recommendation -->
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
+</a></p>
+
 <p>According to the administration, the decision stemmed from two primary grievances: South Korea's refusal to join the U.S. war effort against Iran, and Trump's ongoing diplomatic overtures toward Pyongyang. Trump argued that the joint drills are financially burdensome and send an inappropriate, hostile signal to North Korea, which he noted has remained respectful during his presidency. The announcement drew immediate pushback from military analysts and lawmakers, including Democratic Senator Mark Kelly, who warned that hollowing out vital alliance exercises is a shortsighted mistake.</p>
 </section>
 
@@ -145,3 +149,25 @@ source_url: "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-ko
 }
 </script>
 </article>
+
+<section class="amazon-recommendations">
+<h3>📚 Recommended Resources</h3>
+<div class="recommendations-grid">
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
+    <div class="product-price">$35.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
+    <div class="product-price">$59.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+</div>
+</section>

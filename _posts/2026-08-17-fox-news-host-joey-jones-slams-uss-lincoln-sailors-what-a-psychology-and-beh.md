@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://www.thedailybeast.com/fox-news-host-slams-us-troops-as-weak-in-stunning-rant/"
 ---
-
 <article>
   <header class="ncg-header">
     <h1 class="ncg-title">Fox News Host Joey Jones Slams USS Lincoln Sailors: What a Psychology and Behavior Lens Reveals About Wartime Stress</h1>
@@ -37,6 +36,11 @@ source_url: "https://www.thedailybeast.com/fox-news-host-slams-us-troops-as-weak
   <section id="what-happened" class="ncg-section">
     <h2>What Happened: The On-Air Eruption</h2>
     <p>During a weekend segment on Fox News, Joey Jones—a retired Marine explosive ordnance disposal technician who lost both legs above the knee in Afghanistan in 2010—reacted sharply to a CNN clip featuring an unnamed crew member from the aircraft carrier USS <em>Abraham Lincoln</em>.</p>
+<!-- Amazon Associates Recommendation -->
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
+</a></p>
+
     <p>The sailor and their family members had voiced frustration over deteriorating conditions aboard the ship, which has been deployed at sea for over 250 days. Specifically, the crew pointed to food shortages, sanitation issues, plunging morale, and meals consisting primarily of tuna mixed with noodles.</p>
     <p>Jones, drawing on his own extensive combat deployments, pushed back with intense anger. He recounted surviving on ramen and tuna packets in Afghanistan, argued that carrier sailors are safer at sea than ground troops in active combat zones, and concluded with a stark warning: <em>“If this is a representation of who our military is now... we're just Rome sitting there waiting to burn—we've got nothing left.”</em></p>
   </section>
@@ -109,3 +113,25 @@ source_url: "https://www.thedailybeast.com/fox-news-host-slams-us-troops-as-weak
   }
   </script>
 </article>
+
+<section class="amazon-recommendations">
+<h3>📚 Recommended Resources</h3>
+<div class="recommendations-grid">
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
+    <div class="product-price">$35.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
+    <div class="product-price">$59.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+</div>
+</section>

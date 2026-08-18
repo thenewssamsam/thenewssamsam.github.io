@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://apnews.com/article/lithuania-vilnius-corgi-race-costumes-nose-bark-82c1d801bc7805e78bf365ea44a1344f"
 ---
-
 <article>
   <header>
     <h1>The Global Corgi Craze: What the Vilnius International Race Reveals About Our Need for Joy</h1>
@@ -35,6 +34,11 @@ source_url: "https://apnews.com/article/lithuania-vilnius-corgi-race-costumes-no
   <p>What started five years ago as a modest gathering of 40 local dogs in a single city has blossomed into a full-scale international festival. The fifth Corgi Race Vilnius drew competitors and spectators from nine different countries, including Lithuania, Latvia, Poland, Estonia, Germany, Ukraine, the Czech Republic, the United States, and Britain—the historic homeland of the breed, famously cherished by the late Queen Elizabeth II.</p>
 
   <p>Organizer Edvinas Miskas noted the symbolic shift of welcoming participants from the UK, remarking that when people from the breed's native land travel to Lithuania instead of the reverse, the title of "European capital of corgis" starts to carry real weight.</p>
+<!-- Amazon Associates Recommendation -->
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
+</a></p>
+
 
   <p>While 94 dogs tackled the marquee 25-meter (82-foot) sprint—won ultimately by American competitor GG (short for Gustave the Girl Dog), who narrowly edged out fellow U.S. entrant Mr. Corgington and Lithuania's two-time former champion Moka—the event deliberately expanded far beyond raw speed. The festival celebrated canine talents of all kinds through a costume parade featuring 38 creative outfits (won by Amigo in a knight-like suit), a "smartest nose" treat-search challenge shared by Latvian corgis Tora and Rusty, and a booming loudest bark contest claimed by Mr. Corgington.</p>
 
@@ -86,3 +90,25 @@ source_url: "https://apnews.com/article/lithuania-vilnius-corgi-race-costumes-no
   }
   </script>
 </article>
+
+<section class="amazon-recommendations">
+<h3>📚 Recommended Resources</h3>
+<div class="recommendations-grid">
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
+    <div class="product-price">$35.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
+    <div class="product-price">$59.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+</div>
+</section>

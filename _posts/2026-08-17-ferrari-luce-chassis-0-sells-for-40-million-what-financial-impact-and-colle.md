@@ -7,7 +7,6 @@ tags: [financial]
 author: Sam
 source_url: "https://electrek.co/2026/08/16/ferrari-luce-chassis-0-sells-40-million-record/"
 ---
-
 <article>
 <header>
 <time datetime="2026-08-16">Published: August 16, 2026</time> &bull; 6 min read
@@ -29,6 +28,11 @@ source_url: "https://electrek.co/2026/08/16/ferrari-luce-chassis-0-sells-40-mill
 
 <h2 id="what-happened">What Happened: The $40 Million Hammer</h2>
 <p>The vehicle in question was chassis ZFF21BUA8T0338000, designated simply as "Chassis 0." RM Sotheby’s offered the car without reserve and waived the buyer’s premium, meaning the hammer price of $40 million served as an unadulterated donation to The Ferrari Foundation, which funds educational initiatives.</p>
+<!-- Amazon Associates Recommendation -->
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
+</a></p>
+
 
 <p>The winning bidder secured a Tailor Made build featuring a one-off "Madreperla Semi-Gloss" paint finish shifting between green and violet, alongside Le Mans metallic leather interiors. However, the buyer won't be driving it home immediately; the car returns to Maranello for final assembly ahead of a scheduled Q1 2027 delivery. The sale eclipses Ferrari’s previous charity auction record set just a year prior—a one-off Daytona SP3 that commanded $26 million—proving that Maranello’s elite clientele are more than willing to pay astronomical sums for rolling pieces of automotive history.</p>
 
@@ -78,3 +82,25 @@ source_url: "https://electrek.co/2026/08/16/ferrari-luce-chassis-0-sells-40-mill
 }
 </script>
 </article>
+
+<section class="amazon-recommendations">
+<h3>📚 Recommended Resources</h3>
+<div class="recommendations-grid">
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
+    <div class="product-price">$35.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
+    <div class="product-price">$59.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+</div>
+</section>

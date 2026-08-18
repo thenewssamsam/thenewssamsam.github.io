@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://apnews.com/article/flooding-indiana-severe-weather-aa3624a3ff1a0d241f62ec980a23e856"
 ---
-
 <article>
   <header class="ncg-header">
     <div class="ncg-meta-row">
@@ -35,6 +34,11 @@ source_url: "https://apnews.com/article/flooding-indiana-severe-weather-aa3624a3
     <h2>What Happened: Record-Setting Rains Across Indiana</h2>
     <p>Days of relentless storms and heavy downpours left at least seven people dead across Indiana, capping a devastating week of severe weather that paralyzed parts of the Midwest. In Indianapolis, floodwaters along the White River peaked before finally beginning to recede, leaving residents to survey waterlogged homes and ruined possessions.</p>
     <p>The numbers behind the event underscore its severity. The White River crested at more than 24 feet in communities like Anderson and Noblesville, surpassing flood records that had stood since 1913. Indianapolis Mayor Joe Hogsett noted that the flooding was the worst the city has seen in over thirty years. Across the state, historic rainfall washed out roads and bridges, forced more than 350 emergency evacuations, and left nearly 130,000 utility customers without power.</p>
+<!-- Amazon Associates Recommendation -->
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
+</a></p>
+
     <p>Tragically, the storms claimed seven lives, including a 4-year-old boy killed by a falling tree in Jennings County, a cyclist who fell into a washed-out road in Henry County, and motorists swept away by rising waters. President Donald Trump approved federal disaster assistance for the state to aid ongoing rescue and recovery efforts.</p>
   </section>
 
@@ -145,3 +149,25 @@ source_url: "https://apnews.com/article/flooding-indiana-severe-weather-aa3624a3
   }
   </script>
 </article>
+
+<section class="amazon-recommendations">
+<h3>📚 Recommended Resources</h3>
+<div class="recommendations-grid">
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
+    <div class="product-price">$35.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
+    <div class="product-price">$59.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+</div>
+</section>

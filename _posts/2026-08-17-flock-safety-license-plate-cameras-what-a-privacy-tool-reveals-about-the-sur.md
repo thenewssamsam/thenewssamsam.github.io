@@ -7,7 +7,6 @@ tags: [legal]
 author: Sam
 source_url: "https://kstp.com/kstp-news/top-news/has-your-car-been-flocked-website-shows-whether-your-vehicle-is-in-the-database/"
 ---
-
 <article>
 <header>
     <h1>Flock Safety License Plate Cameras: What a Privacy Tool Reveals About the Surveillance Debate</h1>
@@ -21,6 +20,11 @@ source_url: "https://kstp.com/kstp-news/top-news/has-your-car-been-flocked-websi
 <section id="ncg-intro">
     <p>Automated license plate reader cameras have quickly transformed from an invisible municipal utility into one of the most contentious public safety debates in the country. With networks of cameras snapping millions of plates daily to assist law enforcement, citizens are increasingly asking a fundamental question: <em>Where is my vehicle data going, and who can see it?</em></p>
     <p>That growing tension has given rise to a public lookup tool called <strong>Have I Been Flocked?</strong>, allowing vehicle owners to check if their license plate information sits inside the database of surveillance technology provider Flock Safety. Against a backdrop of rising public pushback, policy shifts from the company itself, and even targeted vandalism in states like Minnesota, the conversation around automated surveillance has reached a critical turning point.</p>
+<!-- Amazon Associates Recommendation -->
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
+</a></p>
+
 </section>
 
 <div class="ncg-toc">
@@ -98,3 +102,25 @@ source_url: "https://kstp.com/kstp-news/top-news/has-your-car-been-flocked-websi
 }
 </script>
 </article>
+
+<section class="amazon-recommendations">
+<h3>📚 Recommended Resources</h3>
+<div class="recommendations-grid">
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
+    <div class="product-price">$35.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
+    <div class="product-price">$59.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+</div>
+</section>

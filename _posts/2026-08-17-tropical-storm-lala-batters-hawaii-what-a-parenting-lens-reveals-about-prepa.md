@@ -7,7 +7,6 @@ tags: [parenting]
 author: Sam
 source_url: "https://www.cnn.com/2026/08/16/weather/tropical-storm-lala-hawaii-damage-climate"
 ---
-
 <article>
 <header>
 <h1 id="top">Tropical Storm Lala Batters Hawaii: What a Parenting Lens Reveals About Preparing Kids for Disaster</h1>
@@ -19,6 +18,11 @@ source_url: "https://www.cnn.com/2026/08/16/weather/tropical-storm-lala-hawaii-d
 
 <h2 id="what-happened">What Happened in Hawaii</h2>
 <p>Tropical Storm Lala brought intense flooding, strong winds, and widespread destruction across the Hawaiian Islands over the weekend, packing hurricane-force wind gusts in Hawaii, Honolulu, and Maui counties. According to Hawaii Gov. Josh Green, at least 100 homes were damaged or destroyed, and approximately 165,000 customers remained without power as the storm began pulling away from Kauai on Sunday night.</p>
+<!-- Amazon Associates Recommendation -->
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
+</a></p>
+
 <p>The storm delivered over 30 inches of rain to parts of the Big Island, triggering severe flash flooding, massive landslides, and highway collapses that left communities like Pāhala temporarily isolated. In response, state and county offices, schools, and courts were closed for Monday, while emergency crews scrambled to rescue residents from rising waters—including an elderly woman pulled from a tree after her house washed away.</p>
 
 <h2 id="parenting-perspective">A Parenting Perspective: Helping Children Through Climate Crises</h2>
@@ -70,3 +74,25 @@ source_url: "https://www.cnn.com/2026/08/16/weather/tropical-storm-lala-hawaii-d
 }
 </script>
 </article>
+
+<section class="amazon-recommendations">
+<h3>📚 Recommended Resources</h3>
+<div class="recommendations-grid">
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
+    <div class="product-price">$35.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
+    <div class="product-price">$59.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+</div>
+</section>

@@ -7,7 +7,6 @@ tags: [historical]
 author: Sam
 source_url: "https://www.theguardian.com/world/2026/aug/17/ukraine-war-briefing-kyiv-capable-ballistic-missiles-russia-in-months"
 ---
-
 <article>
   <header>
     <h1>Ukraine Domestic Ballistic Missiles: What a Historical Parallel Reveals About the War's Next Phase</h1>
@@ -15,6 +14,11 @@ source_url: "https://www.theguardian.com/world/2026/aug/17/ukraine-war-briefing-
   </header>
 
   <p>Ukraine could possess the capability to strike targets deep inside Russia using domestically manufactured ballistic missiles within the next three to six months, according to estimates from former defense minister Mykhailo Fedorov. As the conflict grinds past its 1,600th day, this technological push represents a significant shift from relying primarily on long-range drones and cruise missiles. But as history shows, every leap in offensive capability triggers a complex cycle of adaptation, escalation, and strategic reevaluation.</p>
+<!-- Amazon Associates Recommendation -->
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
+</a></p>
+
 
   <div class="ncg-toc">
     <h3>Table of Contents</h3>
@@ -88,3 +92,25 @@ source_url: "https://www.theguardian.com/world/2026/aug/17/ukraine-war-briefing-
   }
   </script>
 </article>
+
+<section class="amazon-recommendations">
+<h3>📚 Recommended Resources</h3>
+<div class="recommendations-grid">
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
+    <div class="product-price">$35.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
+    <div class="product-price">$59.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+</div>
+</section>

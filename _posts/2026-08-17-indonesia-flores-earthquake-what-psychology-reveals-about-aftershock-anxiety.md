@@ -7,7 +7,6 @@ tags: [psychology]
 author: Sam
 source_url: "https://apnews.com/article/indonesia-flores-earthquake-landslide-bf1d024bdec7727094f8dc73d7dd5e34"
 ---
-
 <article>
 <header>
     <h1>Indonesia Flores Earthquake: What Psychology Reveals About Aftershock Anxiety and Human Survival</h1>
@@ -34,6 +33,11 @@ source_url: "https://apnews.com/article/indonesia-flores-earthquake-landslide-bf
 <section id="what-happened-in-flores">
     <h2>What Happened in Flores</h2>
     <p>Rescue teams in eastern Indonesia recently recovered six more bodies following a powerful magnitude 7.7 earthquake, bringing the confirmed death toll to at least 53. The disaster struck shortly before 6 a.m., centered at a shallow depth of 10 kilometers across six regencies on Flores, a predominantly Catholic island within Indonesia.</p>
+<!-- Amazon Associates Recommendation -->
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
+</a></p>
+
     <p>The violent shaking triggered devastating landslides that blocked sections of the Trans-Flores Highway, cutting off remote mountain communities in Manggarai, East Manggarai, and Nagekeo. More than 1,100 homes were either destroyed or damaged across the East Nusa Tenggara province, forcing roughly 5,000 residents into temporary shelters.</p>
     <p>Adding to the distress, authorities recorded nearly 1,000 aftershocks in the wake of the main tremor. While many went unfelt, dozens rattled already-shaken residents, driving families like farmer Anastasia Imad—whose home nearly collapsed—to spend the night shivering outside in makeshift green tents rather than risk sleeping indoors.</p>
 </section>
@@ -89,3 +93,25 @@ source_url: "https://apnews.com/article/indonesia-flores-earthquake-landslide-bf
 }
 </script>
 </article>
+
+<section class="amazon-recommendations">
+<h3>📚 Recommended Resources</h3>
+<div class="recommendations-grid">
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
+    <div class="product-price">$35.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
+    <div class="product-price">$59.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+</div>
+</section>

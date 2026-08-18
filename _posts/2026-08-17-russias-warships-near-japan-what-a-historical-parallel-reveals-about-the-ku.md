@@ -7,7 +7,6 @@ tags: [historical]
 author: Sam
 source_url: "https://united24media.com/world/russia-sends-four-missile-warships-near-japan-after-putins-provocative-kuril-islands-visit-21742"
 ---
-
 <article>
 <header>
 <time datetime="2026-08-17">Published: August 17, 2026</time> &bull; 6 min read
@@ -19,6 +18,11 @@ source_url: "https://united24media.com/world/russia-sends-four-missile-warships-
 <section id="what-happened">
 <h2>What Happened off the Coast of Hokkaido?</h2>
 <p>According to Japan's Joint Staff, four Russian Project 12411M Molniya-1 missile corvettes were detected off Cape Soya on Hokkaido's northern tip. A maritime patrol aircraft from the Japan Maritime Self-Defense Force closely monitored the vessels, which did not cross into Japanese territorial waters.</p>
+<!-- Amazon Associates Recommendation -->
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
+</a></p>
+
 <p>The timing of the deployment tells the real story. These same warships were first spotted heading east through the Soya Strait on August 9. Their return voyage on August 14 happened just one day after Russian leader Vladimir Putin visited Iturup—one of the four islands in the Kuril chain that Japan refers to as its Northern Territories. The Soviet Union seized the archipelago in the closing days of World War II in 1945, and the 80-year dispute has meant Moscow and Tokyo have never signed a formal peace treaty.</p>
 <p>Following Tokyo's formal protests over Putin's visit, Dmitry Medvedev, Deputy Chairman of Russia's Security Council, escalated the diplomatic rhetoric by warning Japan of severe repercussions. The naval deployment served as a very literal, floating punctuation mark to that warning.</p>
 </section>
@@ -82,3 +86,25 @@ source_url: "https://united24media.com/world/russia-sends-four-missile-warships-
 }
 </script>
 </article>
+
+<section class="amazon-recommendations">
+<h3>📚 Recommended Resources</h3>
+<div class="recommendations-grid">
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
+    <div class="product-price">$35.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
+    <div class="product-price">$59.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+</div>
+</section>

@@ -7,7 +7,6 @@ tags: [financial]
 author: Sam
 source_url: "https://robinjbrooks.substack.com/p/where-is-the-global-debt-crisis-most"
 ---
-
 <article>
 <header>
 <time datetime="2026-03-30">Published: March 30, 2026</time>
@@ -23,6 +22,11 @@ source_url: "https://robinjbrooks.substack.com/p/where-is-the-global-debt-crisis
 <section id="ncg-what-happened">
 <h2>The Mechanics of Sovereign Debt Stress</h2>
 <p>Pinpointing an impending sovereign debt crisis has become exceptionally difficult. For years, major central banks have intervened heavily in government bond markets, capping yields and distorting the natural signals that investors rely on to assess fiscal health. However, recent economic data has exposed deep fractures in the system.</p>
+<!-- Amazon Associates Recommendation -->
+<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Seagate Portable External Hard Drive ($59.99)
+</a></p>
+
 <p>Following dovish inflation prints in the United States, traditional market logic suggested that long-term government bond yields should fall as expectations for aggressive Federal Reserve rate hikes cooled. Instead, the exact opposite happened: long-term yields rose globally and sharply in several major economies. This abnormal market behavior signals that investors are demanding a higher risk premium to compensate for expanding fiscal deficits and growing debt burdens.</p>
 <p>To measure where fiscal distress is most severe, Brooks analyzes the shape of government yield curves—specifically comparing 10-year government bond yields with 10y10y forward yields (what markets price for the 10-year yield ten years from now). Because forward yields are insulated from short-term central bank rate decisions, they provide a much cleaner read on what institutional investors truly believe about long-term debt sustainability.</p>
 </section>
@@ -97,3 +101,25 @@ source_url: "https://robinjbrooks.substack.com/p/where-is-the-global-debt-crisis
 }
 </script>
 </article>
+
+<section class="amazon-recommendations">
+<h3>📚 Recommended Resources</h3>
+<div class="recommendations-grid">
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
+    <div class="product-price">$35.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
+    <div class="product-price">$59.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+</div>
+</section>

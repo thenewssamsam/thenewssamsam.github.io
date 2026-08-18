@@ -7,7 +7,6 @@ tags: [historical]
 author: Sam
 source_url: "https://www.cnn.com/2026/08/16/middleeast/trump-south-korea-military-exercises"
 ---
-
 <article>
 <header>
 <time datetime="2026-08-16">Published: August 16, 2026</time>
@@ -18,6 +17,11 @@ source_url: "https://www.cnn.com/2026/08/16/middleeast/trump-south-korea-militar
 <p>When diplomatic decisions hinge as much on personal rapport as they do on decades-old treaties, the tectonic plates of international security tend to shift rather quickly. President Donald Trump announced on Sunday that the United States would scale back joint military exercises with South Korea, a cornerstone of East Asian defense for over seventy years. Citing his ongoing personal relationship with North Korean leader Kim Jong Un and expressing frustration over Seoul declining to join American efforts regarding Iran, the announcement landed just hours before the massive Ulchi Freedom Shield drills were scheduled to begin.</p>
 
 <p>For observers of international relations, this sudden pivot feels both startling and strangely familiar. It raises an urgent question: how do security alliances weather abrupt policy shifts, and what does history teach us about transactional diplomacy between superpowers and long-standing partners?</p>
+<!-- Amazon Associates Recommendation -->
+<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Tactical Waterproof Backpack ($35.99)
+</a></p>
+
 
 <nav class="ncg-toc" aria-label="Table of Contents">
 <strong>Table of Contents</strong>
@@ -152,3 +156,25 @@ source_url: "https://www.cnn.com/2026/08/16/middleeast/trump-south-korea-militar
 }
 </script>
 </article>
+
+<section class="amazon-recommendations">
+<h3>📚 Recommended Resources</h3>
+<div class="recommendations-grid">
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
+    <div class="product-price">$35.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
+    <div class="product-price">$59.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+</div>
+</section>

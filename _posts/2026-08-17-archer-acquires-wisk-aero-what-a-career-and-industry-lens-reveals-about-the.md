@@ -7,7 +7,6 @@ tags: [career]
 author: Sam
 source_url: "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/"
 ---
-
 <article>
 <header>
   <h1>Archer Acquires Wisk Aero: What a Career and Industry Lens Reveals About the Electric Air Taxi Consolidation</h1>
@@ -29,6 +28,11 @@ source_url: "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-
   <h2>What Happened in the eVTOL Sector?</h2>
   <p>The electric vertical takeoff and landing (eVTOL) industry just experienced a seismic shift. In one of the most surprising twists in modern aviation history, Archer Aviation announced it has officially acquired its former rival, Wisk Aero, following a complex web of past intellectual property lawsuits and corporate restructuring.</p>
   <p>Under the terms of the deal, aerospace giant Boeing sold Wisk Aero—along with digital airspace company SkyGrid and drone maker Insitu—to Archer in exchange for a 16.5% ownership stake in the company. This consolidation comes on the heels of a winding history that began with Google co-founder Larry Page backing Sebastian Thrun's Kitty Hawk startup before transitioning into a joint venture with Boeing.</p>
+<!-- Amazon Associates Recommendation -->
+<p>Consider also: <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+Toshiba 5400RPM Hard Drive ($49.99)
+</a></p>
+
   <p>Meanwhile, fellow electric air taxi pioneer Joby Aviation made a parallel strategic move, acquiring Resonant Sciences for $500 million to establish a dedicated defense business unit, Joby Defense. Together, these moves underscore a broader reality: even as eVTOL developers pursue long-term regulatory certification for urban air taxis, they are aggressively consolidating assets and chasing near-term revenue streams to sustain their runway.</p>
 </section>
 
@@ -138,3 +142,33 @@ source_url: "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-
 }
 </script>
 </article>
+
+<section class="amazon-recommendations">
+<h3>📚 Recommended Resources</h3>
+<div class="recommendations-grid">
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">abshoo College Bookbag</a></div>
+    <div class="product-price">$29.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">QT-QY Military Tactical Backpack</a></div>
+    <div class="product-price">$34.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+<div class="amazon-product-card">
+    <div class="product-title"><a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">JIYINGDUO External Hard Drive</a></div>
+    <div class="product-price">$44.99</div>
+    <div class="product-button">
+        <a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
+    </div>
+    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
+</div>
+</div>
+</section>
