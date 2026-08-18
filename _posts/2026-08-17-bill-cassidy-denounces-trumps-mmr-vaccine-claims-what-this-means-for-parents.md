@@ -120,23 +120,7 @@ Seagate Portable External Hard Drive ($59.99)
 
 
 
-<section class="related-articles">
-<h3>📖 Related Articles</h3>
-<div class="related-articles-grid">
 
-    <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-trumps-prescription-price-press-conference-what-psychology-reveals-about-the-pol.html" class="related-article-link">
-            <div class="related-article-title">Trump's Prescription Price Press Conference: What Psychology Reveals About the Politics of Credit</div>
-            <div class="related-article-date">2026-08-18</div>
-        </a>
-    </div>
-    <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-trumps-critique-of-fox-news-what-financial-impact-and-media-stocks-reveal-about-.html" class="related-article-link">
-            <div class="related-article-title">Trump's Critique of Fox News: What Financial Impact and Media Stocks Reveal About Headline Risk</div>
-            <div class="related-article-date">2026-08-18</div>
-        </a>
-    </div></div>
-</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>
@@ -158,4 +142,22 @@ Seagate Portable External Hard Drive ($59.99)
     <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
 </div>
 </div>
+</section>
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/uber-adds-zipline-drones-to-eats-what-the-financial-impact-means-for-the-future-.html" class="related-article-link">
+            <div class="related-article-title">Uber Adds Zipline Drones to Eats: What the Financial Impact Means for the Future of Delivery</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/trumps-prescription-price-press-conference-what-psychology-reveals-about-the-pol.html" class="related-article-link">
+            <div class="related-article-title">Trump's Prescription Price Press Conference: What Psychology Reveals About the Politics of Credit</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
 </section>

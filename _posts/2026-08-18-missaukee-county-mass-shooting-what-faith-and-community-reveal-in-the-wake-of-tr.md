@@ -111,23 +111,7 @@ Tactical Waterproof Backpack ($35.99)
 
 
 
-<section class="related-articles">
-<h3>📖 Related Articles</h3>
-<div class="related-articles-grid">
 
-    <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
-            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
-            <div class="related-article-date">2026-08-18</div>
-        </a>
-    </div>
-    <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-virginia-state-university-shooting-what-psychology-reveals-about-the-14-hour-dor.html" class="related-article-link">
-            <div class="related-article-title">Virginia State University Shooting: What Psychology Reveals About the 14-Hour Dorm Hiding Spot</div>
-            <div class="related-article-date">2026-08-18</div>
-        </a>
-    </div></div>
-</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>
@@ -149,4 +133,28 @@ Tactical Waterproof Backpack ($35.99)
     <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
 </div>
 </div>
+</section>
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/zimbabwe-ferry-disaster-what-a-faith-perspective-teaches-us-about-suffering-and-.html" class="related-article-link">
+            <div class="related-article-title">Zimbabwe Ferry Disaster: What a Faith Perspective Teaches Us About Suffering and Stewardship</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/virginia-state-university-shooting-what-psychology-reveals-about-the-14-hour-dor.html" class="related-article-link">
+            <div class="related-article-title">Virginia State University Shooting: What Psychology Reveals About the 14-Hour Dorm Hiding Spot</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/virginia-state-university-shooting-what-psychology-behavior-reveals-about-the-ch.html" class="related-article-link">
+            <div class="related-article-title">Virginia State University Shooting: What Psychology & Behavior Reveals About the Chaos at VSU</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
 </section>

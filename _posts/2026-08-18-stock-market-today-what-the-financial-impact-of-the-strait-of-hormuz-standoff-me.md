@@ -108,19 +108,18 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 </section>
 
-
 <section class="related-articles">
 <h3>📖 Related Articles</h3>
 <div class="related-articles-grid">
 
     <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-xi-jinping-praises-tiananmen-crackdown-what-a-historical-parallel-reveals-about-.html" class="related-article-link">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/xi-jinping-praises-tiananmen-crackdown-what-a-historical-parallel-reveals-about-.html" class="related-article-link">
             <div class="related-article-title">Xi Jinping Praises Tiananmen Crackdown: What a Historical Parallel Reveals About China Today</div>
             <div class="related-article-date">2026-08-18</div>
         </a>
     </div>
     <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-us-iran-war-standoff-what-a-historical-parallel-reveals-about-the-strait-of-horm.html" class="related-article-link">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/us-iran-war-standoff-what-a-historical-parallel-reveals-about-the-strait-of-horm.html" class="related-article-link">
             <div class="related-article-title">US-Iran War Standoff: What a Historical Parallel Reveals About the Strait of Hormuz Crisis</div>
             <div class="related-article-date">2026-08-18</div>
         </a>

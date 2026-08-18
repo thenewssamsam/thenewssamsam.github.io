@@ -157,17 +157,7 @@ Seagate Portable External Hard Drive ($59.99)
 
 
 
-<section class="related-articles">
-<h3>📖 Related Articles</h3>
-<div class="related-articles-grid">
 
-    <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-ukraine-strikes-russias-wildberries-warehouses-what-financial-impact-tells-us-ab.html" class="related-article-link">
-            <div class="related-article-title">Ukraine Strikes Russia's Wildberries Warehouses: What Financial Impact Tells Us About the War's New Economic Reality</div>
-            <div class="related-article-date">2026-08-18</div>
-        </a>
-    </div></div>
-</section>
 
 <section class="amazon-recommendations">
 <h3>📚 Recommended Resources</h3>
@@ -189,4 +179,16 @@ Seagate Portable External Hard Drive ($59.99)
     <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
 </div>
 </div>
+</section>
+
+<section class="related-articles">
+<h3>📖 Related Articles</h3>
+<div class="related-articles-grid">
+
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/ukraine-strikes-russias-wildberries-warehouses-what-financial-impact-tells-us-ab.html" class="related-article-link">
+            <div class="related-article-title">Ukraine Strikes Russia's Wildberries Warehouses: What Financial Impact Tells Us About the War's New Economic Reality</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div></div>
 </section>

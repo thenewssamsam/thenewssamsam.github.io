@@ -134,20 +134,25 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 </section>
 
-
 <section class="related-articles">
 <h3>📖 Related Articles</h3>
 <div class="related-articles-grid">
 
     <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-us-iran-war-deal-expires-what-financial-markets-and-oil-prices-reveal-about-the-.html" class="related-article-link">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/us-iran-war-deal-expires-what-financial-markets-and-oil-prices-reveal-about-the-.html" class="related-article-link">
             <div class="related-article-title">US-Iran War Deal Expires: What Financial Markets and Oil Prices Reveal About the Strait of Hormuz Stalemate</div>
             <div class="related-article-date">2026-08-18</div>
         </a>
     </div>
     <div class="related-article-card">
-        <a href="https://thenewssamsam.github.io/news/2026/08/18/2026-08-18-us-china-ai-rivalry-what-a-historical-parallel-reveals-about-tech-independence.html" class="related-article-link">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/us-china-ai-rivalry-what-a-historical-parallel-reveals-about-tech-independence.html" class="related-article-link">
             <div class="related-article-title">US-China AI Rivalry: What a Historical Parallel Reveals About Tech Independence</div>
+            <div class="related-article-date">2026-08-18</div>
+        </a>
+    </div>
+    <div class="related-article-card">
+        <a href="https://thenewssamsam.github.io/news/2026/08/18/uber-and-zipline-partner-for-1-million-drone-deliveries-what-career-industry-tre.html" class="related-article-link">
+            <div class="related-article-title">Uber and Zipline Partner for 1 Million Drone Deliveries: What Career & Industry Trends Reveal About the Future of Gig Work</div>
             <div class="related-article-date">2026-08-18</div>
         </a>
     </div></div>
