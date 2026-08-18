@@ -8,7 +8,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
+  # - jekyll-sitemap  # Disabled: using custom generate_sitemap.py instead
 
 # Pagination
 paginate: 10
