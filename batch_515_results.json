@@ -1,0 +1,21 @@
+{
+  "timestamp": "2026-08-19T10:22:13.086042",
+  "batch": "Batch 515",
+  "stats": {
+    "success": 81,
+    "failed": 6,
+    "duplicate": 0,
+    "processed": 87,
+    "paywall": 0
+  },
+  "elapsed_seconds": 1742,
+  "published_count": 81,
+  "failed_urls": [
+    "https://www.cnn.com/2026/08/18/politics/florida-alaska-wyoming-primaries-what-to-watch",
+    "https://turnto10.com/news/local/testimony-in-lindsay-clancy-murder-case-continues-after-family-takes-the-stand-young-children-victims-family-testimony-aug-18-2026",
+    "https://www.thebulwark.com/p/andrew-egger-trumps-travels-with",
+    "https://www.nbcphiladelphia.com/news/local/masked-man-reportedly-harassing-people-near-city-hall-philadelphia/4449313/",
+    "https://www.nbcnews.com/business/economy/oil-jumps-trump-no-iran-ceasefire-rcna592978",
+    "https://news.un.org/en/story/2026/08/1168155"
+  ]
+}
