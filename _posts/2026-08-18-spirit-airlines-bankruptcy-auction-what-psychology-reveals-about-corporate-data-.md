@@ -17,14 +17,14 @@ source_url: 'https://gizmodo.com/spirit-airlines-is-dead-but-its-data-will-haunt
     <h1>Spirit Airlines Bankruptcy Auction: What Psychology Reveals About Corporate Data Haunts</h1>
   </header>
 
-  <p>When an airline folds, its planes get parked, its gates get reallocated, and its corporate remains get auctioned off to the highest bidder. But when Spirit Airlines recently cleared out its hangar, the most valuable cargo wasn't metal or jet fuel—it was digital exhaust. Google stepped in with a $10 million winning bid at a bankruptcy auction, securing a massive trove of internal company communications, chat logs, and operational history to feed its hungry AI models. For millions of former passengers worried about their flight histories, there is a small sigh of relief: passenger profiles and loyalty records were left out of this specific transaction. Yet, the sale of hundreds of millions of internal emails, Teams chats, and lines of code marks a fascinating turning point in how we view the digital ghosts left behind by failed enterprises.</p>
+  <p>When an airline folds, its planes get parked, its gates get reallocated, and its corporate remains get auctioned off to the highest bidder. But when Spirit Airlines recently cleared out its hangar, the most valuable cargo wasn't metal or jet fuel—it was digital exhaust. Google stepped in with a  million winning bid at a bankruptcy auction, securing a massive trove of internal company communications, chat logs, and operational history to feed its hungry AI models. For millions of former passengers worried about their flight histories, there is a small sigh of relief: passenger profiles and loyalty records were left out of this specific transaction. Yet, the sale of hundreds of millions of internal emails, Teams chats, and lines of code marks a fascinating turning point in how we view the digital ghosts left behind by failed enterprises.</p>
 
   <section id="what-happened">
     <h2>What Happened to Spirit Airlines' Digital Footprint?</h2>
     <p>Following its bankruptcy filing, Spirit Airlines liquidated various assets to satisfy creditors. Among them was an enormous cache of enterprise data. According to court filings in the U.S. Bankruptcy Court for the Southern District of New York, Google outbid AI training data giant Mercor to acquire:</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <ul>
@@ -52,7 +52,7 @@ Tactical Waterproof Backpack ($35.99)
 
   <section id="why-ai-wants-our-chats">
     <h2>Why AI Needs Our Old Work Chats</h2>
-    <p>Why would Google pay $10 million for millions of internal messages from a defunct budget airline? Because synthetic text can only teach an AI so much. Textbooks and Wikipedia articles give models formal grammar and factual knowledge, but they lack the chaotic, nuanced texture of actual human problem-solving.</p>
+    <p>Why would Google pay  million for millions of internal messages from a defunct budget airline? Because synthetic text can only teach an AI so much. Textbooks and Wikipedia articles give models formal grammar and factual knowledge, but they lack the chaotic, nuanced texture of actual human problem-solving.</p>
     <p>Internal corporate communications show how people negotiate deadlines, troubleshoot unexpected crises, complain about software glitches, and coordinate complex schedules under pressure. If AI models are ever going to assist effectively with enterprise management or executive tasks, they need to study the messy friction of daily organizational life. In essence, Google didn't just buy Spirit Airlines' data; it bought a massive digital behavioral laboratory.</p>
   </section>
 
@@ -90,7 +90,7 @@ Tactical Waterproof Backpack ($35.99)
     "@context": "https://schema.org",
     "@type": "NewsArticle",
     "headline": "Spirit Airlines Bankruptcy Auction: What Psychology Reveals About Corporate Data Haunts",
-    "description": "Google bought Spirit Airlines internal data for $10 million in a bankruptcy auction to train AI. Discover what corporate digital ghosts reveal about modern data.",
+    "description": "Google bought Spirit Airlines internal data for  million in a bankruptcy auction to train AI. Discover what corporate digital ghosts reveal about modern data.",
     "datePublished": "2025-05-18",
     "author": {
       "@type": "Person",
@@ -105,7 +105,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -113,7 +113,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

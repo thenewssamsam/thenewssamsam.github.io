@@ -47,7 +47,7 @@ source_url: 'https://www.foxnews.com/us/long-island-street-takeover-erupts-drive
     <p>This crackdown was not a stroke of random luck. Officials stated that the department's task force had intercepted digital chatter and monitored social media intelligence ahead of the weekend. The group had already bounced between multiple locations—including stops near Commack Road and Sunrise Highway in Islip, and Route 112 in Patchogue—before officers finally boxed them in.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -199,7 +199,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -207,7 +207,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

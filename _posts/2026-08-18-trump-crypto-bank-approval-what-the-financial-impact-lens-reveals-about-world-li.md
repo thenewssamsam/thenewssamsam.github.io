@@ -27,7 +27,7 @@ source_url: 'https://www.cnn.com/2026/08/17/investing/trump-crypto-bank-world-li
   <p>To understand why this regulatory green light matters, we need to look past the political noise and examine the cold, hard financial mechanics of what a trust bank charter actually changes for World Liberty, its stablecoin, and the broader financial ecosystem.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -46,7 +46,7 @@ Seagate Portable External Hard Drive ($59.99)
 
   <p>According to reports from CNN Business, World Liberty Financial received preliminary conditional approval from the Office of the Comptroller of the Currency (OCC)—an agency overseen by regulators appointed by President Trump—to transition into a trust bank.</p>
 
-  <p>While final approval remains contingent upon meeting a strict series of conditions, the milestone grants the crypto venture official recognition within the federal banking framework. The firm's leadership structure, disclosures, and investor agreements have faced intense scrutiny, particularly given that President Trump earned more than $526 million from token sales last year alone, alongside roughly $263 million from equity sales to a United Arab Emirates royal-led investor group, per disclosures and reporting from <em>The Wall Street Journal</em>.</p>
+  <p>While final approval remains contingent upon meeting a strict series of conditions, the milestone grants the crypto venture official recognition within the federal banking framework. The firm's leadership structure, disclosures, and investor agreements have faced intense scrutiny, particularly given that President Trump earned more than  million from token sales last year alone, alongside roughly  million from equity sales to a United Arab Emirates royal-led investor group, per disclosures and reporting from <em>The Wall Street Journal</em>.</p>
 
   <p>Critics point out the obvious circularity of the arrangement. Richard Painter, top ethics lawyer under President George W. Bush, noted to CNN that having a president heavily invested in a regulated industry while holding the power to hire and fire regulators creates a highly precarious structural dynamic.</p>
 
@@ -58,7 +58,7 @@ Seagate Portable External Hard Drive ($59.99)
 
   <p>From a purely financial perspective, why does World Liberty want a trust bank charter if it cannot take retail deposits or make traditional commercial loans?</p>
 
-  <p>The answer lies in operational efficiency, fee structures, and margin retention surrounding its flagship product: <strong>USD1</strong>, a dollar-backed stablecoin boasting more than $4 billion in circulation.</p>
+  <p>The answer lies in operational efficiency, fee structures, and margin retention surrounding its flagship product: <strong>USD1</strong>, a dollar-backed stablecoin boasting more than  billion in circulation.</p>
 
   <ul>
     <li><strong>Eliminating Intermediaries:</strong> Currently, stablecoin issuers rely heavily on traditional commercial banks and third-party custodians to manage reserves, issue tokens, and settle transactions. Each of those middlemen takes a cut of the operational friction.</li>
@@ -134,7 +134,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -142,7 +142,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

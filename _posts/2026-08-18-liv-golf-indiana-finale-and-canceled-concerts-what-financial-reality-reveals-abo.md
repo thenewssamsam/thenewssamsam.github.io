@@ -38,7 +38,7 @@ source_url: 'https://golf.com/news/liv-golf-final-event-indianapolis-concerts-in
 <p>The Michigan event at The Cardinal at St. John's was quietly scrapped after being communicated to players, while ticket-buyers continued purchasing seats. Meanwhile, just north of Indianapolis, the tour's signature festival-style weekend—featuring country star Thomas Rhett and DJ Disco Lines—faced a parallel fate. References to the concerts vanished from the website, ticketing links went dead, and headliners' touring schedules dropped the dates. LIV ultimately confirmed the Michigan cancellation and the dropped concert lineups in a Monday afternoon press release, leaving ticket-holders and industry analysts to pick up the pieces.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -157,7 +157,7 @@ Source: <a href="https://golf.com/news/liv-golf-final-event-indianapolis-concert
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -165,7 +165,7 @@ Source: <a href="https://golf.com/news/liv-golf-final-event-indianapolis-concert
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

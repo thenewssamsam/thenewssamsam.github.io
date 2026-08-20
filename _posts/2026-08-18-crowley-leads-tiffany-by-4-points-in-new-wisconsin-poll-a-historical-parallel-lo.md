@@ -97,7 +97,7 @@ source_url: 'https://www.wpr.org/news/crowley-leading-tiffany-four-points-new-po
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -105,7 +105,7 @@ source_url: 'https://www.wpr.org/news/crowley-leading-tiffany-four-points-new-po
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

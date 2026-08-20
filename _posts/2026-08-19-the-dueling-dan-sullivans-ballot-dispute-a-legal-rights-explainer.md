@@ -28,13 +28,13 @@ source_url: "https://apnews.com/article/alaska-primary-senate-sullivan-peltola-c
     <p><em>Disclaimer: This is general information, not legal advice. Consult a licensed attorney about your specific situation.</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>In the United States, the right to run for public office is protected by the First and Fourteenth Amendments, though states hold significant authority to regulate the "time, place, and manner" of elections. When a candidate's name creates potential confusion, courts typically weigh the individual’s right to seek office against the state’s interest in conducting an orderly election.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -42,7 +42,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Courts are generally hesitant to label a candidate a "sham" unless there is clear evidence of fraud or failure to meet statutory filing requirements (such as signature counts or residency). Simply sharing a name with an incumbent is rarely sufficient legal grounds to be removed from a ballot. The legal standard usually focuses on whether the candidate meets the objective requirements defined by state law, rather than their perceived motives for running.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -54,7 +54,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When name confusion is a genuine concern, courts and election boards often look for "least restrictive" solutions. In Alaska, this meant adding middle initials and party designations to the ballot. By using these identifiers, the state preserved the challenger's constitutional right to run while fulfilling its duty to provide voters with clear, accurate information. This approach is standard practice in election law to avoid the heavy-handed alternative of excluding a qualified candidate.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -64,13 +64,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The situation in Alaska, while political, invites us to consider the value of clarity and honesty in our public discourse. Scripture often speaks to the importance of being clear in our intentions. As it says in <strong>Matthew 5:37</strong>, "Simply let your 'Yes' be 'Yes,' and your 'No,' 'No'; anything beyond this comes from the evil one."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>I find this a helpful reminder that in any system—whether a government election or our personal lives—transparency is a virtue. When confusion arises, the desire to hide or manipulate can lead to unnecessary strife. We are called to pursue truth in a way that respects others. As <strong>1 Corinthians 14:33</strong> reminds us, "For God is not a God of confusion but of peace." This principle applies to our civic duties as much as our faith; we should strive for systems that clarify rather than obscure, and seek leaders who operate with transparent hearts.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

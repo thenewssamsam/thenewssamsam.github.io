@@ -40,7 +40,7 @@ source_url: ''
 <p>According to reports from CBS News, the administration's high-stakes research project has operated almost entirely behind closed doors. Leading scientists, career federal researchers, and major autism advocacy groups report being completely shut out of the process. Meanwhile, public claims made by Kennedy—ranging from unproven links involving Tylenol use during pregnancy to misunderstood vaccine safety datasets—have repeatedly failed to withstand scientific scrutiny, even as the White House presses forward with sweeping changes to the national immunization schedule.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 </section>
@@ -175,7 +175,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -183,7 +183,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -24,7 +24,7 @@ source_url: "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceas
     <p>The situation in the Strait of Hormuz has reached a precarious impasse. Following the expiration of a 60-day ceasefire, both Washington and Tehran appear to be hardening their positions. President Trump has asserted that the U.S. maintains a naval blockade and that the strait is clear of mines, despite reports of ongoing attacks on shipping vessels. Meanwhile, Iranian military officials continue to issue aggressive warnings, and the UAE has reported ballistic missile activity near its waters.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -32,7 +32,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>Quick Take:</strong> The escalation in the Strait of Hormuz is not merely a geopolitical struggle; it is a display of competing interests where the cost of pride—on both sides—is paid by the global economy and the safety of those navigating the seas.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -40,7 +40,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The economic stakes are immense, as the strait serves as a critical artery for 20% of the world’s oil trade. While global markets have shown some resilience, the persistent risk of violence has forced shipping traffic to a near-standstill, leaving the international community to grapple with the reality that a diplomatic resolution remains elusive.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -50,7 +50,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In times of international strife, it is easy to view events strictly through the lens of political strategy or military capability. However, the Scriptures invite us to look deeper at the human heart. Proverbs 16:18 warns, <em>"Pride goes before destruction, and a haughty spirit before a fall."</em> This ancient wisdom is profoundly relevant today. When nations and leaders prioritize the assertion of control over the pursuit of reconciliation, the path to peace is often obstructed by the very pride that Scripture cautions against.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -61,14 +61,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>The standoff in the strait reminds me that our security is rarely found in the strength of our blockades or the reach of our missiles. There is a tendency in human nature to believe that we can dictate the outcome of complex conflicts through sheer force of will. Yet, the Bible reminds us of our limitations. Psalm 127:1 tells us, <em>"Unless the Lord builds the house, the builders labor in vain. Unless the Lord watches over the city, the guards stand watch in vain."</em> This does not dismiss the importance of stewardship, but it does place our efforts in a humble perspective.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>As we observe the rhetoric between Washington and Tehran, we are reminded of the fragility of human power. Whether it is the threat of "beautiful holes in hulls" or the declaration of new territories, these actions often reflect a cycle of human ego rather than a strategy for long-term flourishing. We are called to pray for leaders who are willing to set aside the need for "winning" in favor of the need for justice and mercy.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

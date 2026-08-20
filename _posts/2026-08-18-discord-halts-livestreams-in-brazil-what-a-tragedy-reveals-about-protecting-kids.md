@@ -40,7 +40,7 @@ source_url: 'https://apnews.com/article/brazil-discord-children-social-media-f7f
 <p>Discord, the immensely popular communication platform used by more than 90 million active daily users worldwide—predominantly gamers—announced it has halted its livestreaming features in Brazil. The move came after the country’s national data protection agency ordered the suspension, citing robust evidence that the platform failed to protect children and adolescents from exposure to extreme violence, self-harm, and peer coercion.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -267,7 +267,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -275,7 +275,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

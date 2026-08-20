@@ -154,13 +154,13 @@ source_url: ''
   <p>On the evening of February 16, 2022, Jared Bridegan, a 33-year-old Microsoft design manager, drove his car down a familiar stretch of road in Jacksonville Beach, Florida. He had just dropped off his 9-year-old twins at the home of his ex-wife, Shanna Gardner, following a routine family date night. In the backseat sat his then-2-year-old daughter, strapped securely into her car seat.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
   <p>As Bridegan navigated the road, he encountered an unexpected obstacle: a tire deliberately placed in his lane. When he stepped out of his vehicle to move it, he was ambushed and repeatedly shot in a meticulously planned execution. According to investigators, it was not a random act of street violence, but a calculated murder-for-hire scheme engineered by Gardner and her current husband, Mario Fernandez Saldana.</p>
 
-  <p>Fernandez Saldana faces a first-degree murder charge in Duval County court, while Gardner awaits her own trial scheduled for September. The alleged gunman, Henry Tenon, previously pleaded guilty before withdrawing his plea and is now slated for a separate trial in 2027. Prosecutors allege that Tenon was paid at least $10,000 to carry out the shooting—a tragic culmination of years of bitter post-divorce conflict.</p>
+  <p>Fernandez Saldana faces a first-degree murder charge in Duval County court, while Gardner awaits her own trial scheduled for September. The alleged gunman, Henry Tenon, previously pleaded guilty before withdrawing his plea and is now slated for a separate trial in 2027. Prosecutors allege that Tenon was paid at least ,000 to carry out the shooting—a tragic culmination of years of bitter post-divorce conflict.</p>
 
   <h2 id="psychology-perspective">The Psychology of Custody Acrimony</h2>
 
@@ -193,7 +193,7 @@ Tactical Waterproof Backpack ($35.99)
     </details>
     <details>
       <summary>Was anyone else involved in the plot?</summary>
-      <p>Yes. Authorities allege that Henry Tenon carried out the shooting after being paid at least $10,000 by Fernandez Saldana and Gardner. Tenon's separate trial is scheduled for 2027.</p>
+      <p>Yes. Authorities allege that Henry Tenon carried out the shooting after being paid at least ,000 by Fernandez Saldana and Gardner. Tenon's separate trial is scheduled for 2027.</p>
     </details>
   </div>
 
@@ -212,7 +212,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -220,7 +220,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

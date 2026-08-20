@@ -37,7 +37,7 @@ source_url: 'https://finance.yahoo.com/technology/ai/articles/amazon-once-online
   <p>Recent investigative reporting by 404 Media uncovered this surreal reality by placing a tracking device inside a rare book. The trail led straight to an Amazon facility in Las Vegas designated as VGT3—fittingly marked with a symbol of a dinosaur holding a book in its claws.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -101,7 +101,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -109,7 +109,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -40,7 +40,7 @@ source_url: "https://www.foxnews.com/politics/mysterious-polling-firm-behind-fak
 <p>In reality, Bass edged Raman by a much narrower five points, and Hong was defeated in a razor-thin contest by David Crowley. When the truth finally surfaced, Median Strategies posted a brief statement on its website claiming the entire operation was designed to study "how purported polling information could enter and spread through the political information ecosystem without independent verification."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -48,7 +48,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>"Median Strategies was created as a short-term social experiment to examine how purported polling information could enter and spread through the political information ecosystem..."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </div>
@@ -56,7 +56,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>The firm slipped away quietly, declining interviews and leaving observers to pick through the wreckage of public trust. While the stunt was localized to a few primary races, the broader ripple effect touches everyone who relies on digital feeds to make sense of the world.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -66,41 +66,41 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Why do fake polls travel so far, so fast? The answer lies in human psychology and spiritual vulnerability. We live in an era characterized by anxiety about the future and deep tribal polarization. When a number appears on a screen that confirms what we already hope or fear to be true, our internal defenses drop immediately. We want to believe we have tomorrow figured out today.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <div class="ncg-product-card" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
 <p style="margin: 0 0 5px 0; font-size: 0.9rem; color: #555;">Recommended Resource:</p>
 <h4 style="margin: 0 0 10px 0; font-size: 1.1rem;"><a href="https://www.amazon.com/dp/B08N5K7S9H?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Modern Chaos</a></h4>
-<p style="margin: 0; font-size: 0.95rem; font-weight: bold; color: #b12704;">$15.99</p>
+<p style="margin: 0; font-size: 0.95rem; font-weight: bold; color: #b12704;"></p>
 </div>
 
 <p>This insatiable hunger for foreknowledge and security exposes a profound spiritual restlessness. Scripture repeatedly warns against the danger of leaning on false assurances and manufactured narratives designed to tickle itching ears. Proverbs 14:15 offers a timeless counterweight to our digital impulsivity: <em>"The simple believes everything, but the prudent gives thought to his steps."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>The Median Strategies experiment succeeded precisely because many people stopped giving thought to their steps. Instead of asking whether a new, unverified firm had the methodological rigor to back up its claims, audiences accepted the data because it fit their preferred narrative framework. Deception often works best not when it is bizarre, but when it tells us what we secretly want to hear.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="ncg-product-card" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
 <p style="margin: 0 0 5px 0; font-size: 0.9rem; color: #555;">Recommended Resource:</p>
 <h4 style="margin: 0 0 10px 0; font-size: 1.1rem;"><a href="https://www.amazon.com/dp/B07T4H5L5R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">God and the Fictional World: Navigating Modern Media Deception</a></h4>
-<p style="margin: 0; font-size: 0.95rem; font-weight: bold; color: #b12704;">$18.50</p>
+<p style="margin: 0; font-size: 0.95rem; font-weight: bold; color: #b12704;"></p>
 </div>
 
 <div class="ncg-shareable-box">
 <p><strong>Shareable Insight:</strong> "When we crave certainty so badly that we abandon verification, we invite manufactured falsehoods to guide our public square."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </div>
@@ -111,20 +111,20 @@ Seagate Portable External Hard Drive ($59.99)
 <p>In a world where artificial intelligence, anonymous actors, and social experiments routinely inject fiction into our daily news diet, discernment is no longer an optional skill—it is an essential discipline. The apostle Paul reminds believers in Ephesians 5:6-10 to walk as children of light, trying to discern what is pleasing to the Lord rather than being tossed about by clever deception.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="ncg-product-card" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
 <p style="margin: 0 0 5px 0; font-size: 0.9rem; color: #555;">Recommended Resource:</p>
 <h4 style="margin: 0 0 10px 0; font-size: 1.1rem;"><a href="https://www.amazon.com/dp/0310356539?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Discerning the Voice of God: How to Recognize When God Speaks</a></h4>
-<p style="margin: 0; font-size: 0.95rem; font-weight: bold; color: #b12704;">$14.99</p>
+<p style="margin: 0; font-size: 0.95rem; font-weight: bold; color: #b12704;"></p>
 </div>
 
 <p>When an anonymous entity drops a sensational data point that conveniently reinforces our political preferences, our first reaction should be skepticism, not sharing. Truth requires verification, patience, and humility. A rush to publish or repost often reveals an underlying desire to see our "side" win rather than a commitment to honest reality.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -134,7 +134,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>How should a person of faith react to constant exposures of misinformation and social experiments masquerading as news? Here are three concrete ways to practice discernment:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <ul>
@@ -146,7 +146,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="ncg-product-card" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
 <p style="margin: 0 0 5px 0; font-size: 0.9rem; color: #555;">Recommended Resource:</p>
 <h4 style="margin: 0 0 10px 0; font-size: 1.1rem;"><a href="https://www.amazon.com/dp/1535902740?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Armor of God - Bible Study Book</a></h4>
-<p style="margin: 0; font-size: 0.95rem; font-weight: bold; color: #b12704;">$16.99</p>
+<p style="margin: 0; font-size: 0.95rem; font-weight: bold; color: #b12704;"></p>
 </div>
 </section>
 
@@ -157,7 +157,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="ncg-product-card" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
 <p style="margin: 0 0 5px 0; font-size: 0.9rem; color: #555;">Recommended Resource:</p>
 <h4 style="margin: 0 0 10px 0; font-size: 1.1rem;"><a href="https://www.amazon.com/dp/0736968770?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Power of a Praying Prayer Life</a></h4>
-<p style="margin: 0; font-size: 0.95rem; font-weight: bold; color: #b12704;">$13.49</p>
+<p style="margin: 0; font-size: 0.95rem; font-weight: bold; color: #b12704;"></p>
 </div>
 </section>
 

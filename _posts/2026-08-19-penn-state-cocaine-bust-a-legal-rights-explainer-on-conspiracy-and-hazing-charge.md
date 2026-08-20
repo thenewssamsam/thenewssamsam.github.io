@@ -24,7 +24,7 @@ source_url: "https://www.foxnews.com/us/penn-state-cocaine-bust-nets-14-arrests-
     <p>According to the Attorney General’s office, the investigation uncovered a coordinated operation that utilized off-campus fraternity houses to cut, package, and distribute cocaine. The charges are multifaceted, involving not just the primary alleged ringleaders, but also fraternity members and even a parent accused of obstructing the investigation. The university has responded by placing the Delta Upsilon fraternity on interim suspension, while noting that the Sigma Chi chapter involved is not currently recognized by the school.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -34,7 +34,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>When authorities file charges like "corrupt organizations" and "conspiracy," they are moving beyond simple possession. In a legal context, a conspiracy charge means the prosecution believes there was an agreement between two or more people to commit a crime, followed by an "overt act" in furtherance of that crime.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -46,15 +46,15 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The charge of tampering with evidence or hindering an investigation is often as damaging as the underlying crime. If an individual takes steps to conceal, destroy, or alter evidence—or provides false information to law enforcement—they can face felony charges regardless of whether they were part of the original drug distribution ring.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <div class="ncg-product" style="border-left: 5px solid #ffd700; background: #fdfaf0; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Resource:</strong> <em>The Law of Evidence: A Quick Reference Guide</em> - $19.99. <a href="#">Check Price on Amazon</a></p>
+      <p><strong>Recommended Resource:</strong> <em>The Law of Evidence: A Quick Reference Guide</em> - . <a href="#">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -63,7 +63,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The allegation that cutting cocaine was used as an "indoctrination" ritual introduces the legal element of hazing. In many jurisdictions, hazing is not just a university policy violation; it can trigger criminal statutes if the activity creates a risk of physical harm or involves coerced illicit behavior.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -73,13 +73,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The complexity of these legal proceedings reminds us that our choices have far-reaching consequences that often extend beyond our own lives. Proverbs 12:22 tells us, <em>"The Lord detests lying lips, but he delights in people who are trustworthy."</em> (NIV). This situation serves as a sobering reminder of how the pursuit of secrecy or "group belonging" can lead individuals down a path that compromises their future and hurts others.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Similarly, we are reminded in Ephesians 5:11, <em>"Have nothing to do with the fruitless deeds of darkness, but rather expose them."</em> (NIV). When we are faced with the pressure to conform to environments that operate outside of moral or legal boundaries, we are invited to consider the weight of our influence and the importance of choosing integrity, even when it is difficult.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

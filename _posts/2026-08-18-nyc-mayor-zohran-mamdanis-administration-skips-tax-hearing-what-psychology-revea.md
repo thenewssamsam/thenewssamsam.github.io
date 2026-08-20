@@ -24,7 +24,7 @@ source_url: 'https://nypost.com/2026/08/17/us-news/mamdani-admin-will-skip-overs
 <p>Instead of appearing before the City Council to answer hard questions from both opposition Republicans and allied Democrats, administration officials announced they would submit written testimony instead. Citing ongoing litigation as a shield, the no-show has drawn sharp rebukes from across the political spectrum—raising deeper questions about executive accountability when administrative machinery breaks down.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -41,7 +41,7 @@ Seagate Portable External Hard Drive ($59.99)
 
 <h2 id="what-happened">What Happened: The Botched Tax Rollout and No-Show</h2>
 
-<p>The friction stems from the state-approved pied-à-terre surcharge aimed at high-value secondary residences—one- to three-family homes worth $5 million or more, and co-ops or condos valued at $1 million or upward that serve as non-primary homes. While the policy was designed to extract revenue from wealthy absentee owners, the execution stumbled out of the gate.</p>
+<p>The friction stems from the state-approved pied-à-terre surcharge aimed at high-value secondary residences—one- to three-family homes worth  million or more, and co-ops or condos valued at  million or upward that serve as non-primary homes. While the policy was designed to extract revenue from wealthy absentee owners, the execution stumbled out of the gate.</p>
 
 <p>City officials first published a sprawling database of over 900,000 homeowners after Mayor Mamdani urged wealthy residents to check their mailboxes. The catch? The vast majority of people on that public list were never actually subject to the tax. Shortly after, 17,000 formal notices landed in mailboxes warning homeowners they owed the tax unless they filed exemptions.</p>
 
@@ -131,7 +131,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -139,7 +139,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -40,18 +40,18 @@ source_url: "https://www.foxnews.com/politics/trumps-support-doesnt-save-scandal
     <p>However, the local backlash proved insurmountable. High-profile Republicans, including Rep. Nancy Mace of South Carolina and Florida congressional colleagues Mike Haridopolos and Anna Paulina Luna, stepped forward to back Elijah, a familiar face to Central Florida residents from his years as an Orlando-area news anchor and NFL sideline reporter.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <div class="ncg-product-card" style="border-left: 4px solid #f0ad4e; background: #fdf8e2; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener">The Right Side of History: How Reason and Morality Made America Great</a> ($16.99) — Explore the foundational principles of civic duty, accountability, and community leadership in modern American politics.
+    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener">The Right Side of History: How Reason and Morality Made America Great</a>  — Explore the foundational principles of civic duty, accountability, and community leadership in modern American politics.
 </div>
 
     <p>The race shifted rapidly from a routine incumbent defense to a referendum on personal conduct and local responsiveness. While Mills held a comfortable lead in early polling, grassroots momentum and local familiarity coalesced around Elijah, whose roots in Seminole County where he raised his sons resonated deeply with primary voters seeking stability and trust.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -61,14 +61,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When national politics and local representation collide, the community on the ground always bears the immediate aftermath. For the residents of Florida's 7th District—specifically within Seminole County—this primary election highlights a crucial dynamic: national endorsements cannot completely insulate an elected official from local dissatisfaction.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>In nationalized election cycles, federal lawmakers often spend significant time in Washington, D.C., raising campaign funds and engaging in high-profile ideological battles. While this builds national brand recognition, it can sometimes create a disconnect with the everyday concerns of constituents back home—such as local infrastructure, economic development, and community trust. When scandals or ethics investigations overshadow legislative work, that disconnect widens into a chasm.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -76,26 +76,26 @@ Seagate Portable External Hard Drive ($59.99)
     <p>"National endorsements can open doors, but local trust keeps a representative in office—and when that trust frays, no amount of high-level backing can bridge the gap."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </div>
 
 <div class="ncg-product-card" style="border-left: 4px solid #f0ad4e; background: #fdf8e2; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0143127748?tag=thenewssam-20" target="_blank" rel="noopener">Bowling Alone: The Collapse and Revival of American Community</a> ($18.50) — A deep dive into social capital and the importance of active, trusted local networks in American civic life.
+    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0143127748?tag=thenewssam-20" target="_blank" rel="noopener">Bowling Alone: The Collapse and Revival of American Community</a>  — A deep dive into social capital and the importance of active, trusted local networks in American civic life.
 </div>
 
     <p>Ryan Elijah's background as a local television news anchor uniquely positioned him to capitalize on this dynamic. Having spent years broadcasting into Central Florida living rooms, Elijah was already a known and trusted figure before entering the political arena. For voters weary of congressional drama and ethics distractions, electing a familiar local voice offered a return to community-focused representation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>Furthermore, the involvement of other Florida representatives like Mike Haridopolos and Anna Paulina Luna endorsing Elijah signals an important intra-state political calculation. Local lawmakers often gauge how a scandal affects regional party viability, especially with Democrats eyeing the seat as a potential target in the upcoming midterms. Protecting the integrity and stability of the district took precedence over defending an incumbent.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -105,25 +105,25 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Moments like this primary upset naturally cause many citizens to reflect deeper on the moral and spiritual dimensions of public leadership. Leadership, at its core, is a profound trust—a call to serve others with integrity, honesty, and a clear conscience.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>Scripture reminds us in Proverbs 22:1 that "A good name is to be chosen rather than great riches, and favor is better than silver or gold." When individuals are entrusted with public authority, the character they display in private and public life carries immense weight. Similarly, Colossians 3:23 encourages us to work heartily, as for the Lord rather than for human masters, setting a high standard of accountability for those who hold positions of public trust.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="ncg-product-card" style="border-left: 4px solid #f0ad4e; background: #fdf8e2; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1581346263?tag=thenewssam-20" target="_blank" rel="noopener">The Peacemaker: A Biblical Guide to Resolving Personal Conflict</a> ($15.99) — Practical biblical principles for handling disputes, seeking truth, and fostering genuine accountability in communities.
+    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1581346263?tag=thenewssam-20" target="_blank" rel="noopener">The Peacemaker: A Biblical Guide to Resolving Personal Conflict</a>  — Practical biblical principles for handling disputes, seeking truth, and fostering genuine accountability in communities.
 </div>
 
     <p>For everyday citizens, these political transitions remind us not to place ultimate hope in political figures or powerful endorsements, but in principles of justice, truth, and community stewardship. Leaders will falter, but communities grounded in shared values and mutual accountability possess the resilience to rebuild and chart a better path forward.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -133,7 +133,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Elections do not end when the ballots are counted; they require ongoing civic engagement to ensure that whoever holds office remains accountable to the people they serve. Here are concrete ways local residents in Florida's 7th District and beyond can respond to political shifts:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -144,7 +144,7 @@ Seagate Portable External Hard Drive ($59.99)
     </ul>
 
 <div class="ncg-product-card" style="border-left: 4px solid #f0ad4e; background: #fdf8e2; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0063062369?tag=thenewssam-20" target="_blank" rel="noopener">The Little Book of Common Sense Investing</a> ($14.80) — Build personal financial stability so you can focus energy on community engagement and family priorities.
+    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0063062369?tag=thenewssam-20" target="_blank" rel="noopener">The Little Book of Common Sense Investing</a>  — Build personal financial stability so you can focus energy on community engagement and family priorities.
 </div>
 </section>
 
@@ -153,12 +153,12 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Rep. Cory Mills' primary defeat in Florida's 7th District demonstrates that grassroots voters still hold the ultimate power at the ballot box. While national endorsements carry immense weight in modern primaries, they cannot entirely overshadow local concerns, character, and the demand for accountable leadership. As Ryan Elijah prepares to carry the Republican banner into the general election, the voters of Central Florida have reminded the political establishment that local representation begins and ends with trust.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <div class="ncg-product-card" style="border-left: 4px solid #f0ad4e; background: #fdf8e2; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0743273567?tag=thenewssam-20" target="_blank" rel="noopener">Team of Rivals: The Political Genius of Abraham Lincoln</a> ($22.00) — A classic exploration of political leadership, character, and governance during times of national division.
+    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0743273567?tag=thenewssam-20" target="_blank" rel="noopener">Team of Rivals: The Political Genius of Abraham Lincoln</a>  — A classic exploration of political leadership, character, and governance during times of national division.
 </div>
 </section>
 

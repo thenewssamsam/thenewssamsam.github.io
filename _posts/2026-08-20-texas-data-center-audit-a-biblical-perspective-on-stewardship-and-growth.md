@@ -27,7 +27,7 @@ source_url: 'https://communityimpact.com/central-austin/texas-legislature/live-u
     <p>During a House State Affairs Committee hearing on August 19, 2026, state grid officials and regulators clarified the scope of the upcoming audit. ERCOT, the state's grid operator, is tasked with evaluating roughly 200 gigawatts of proposed load, a figure that dwarfs the current record demand of 91 gigawatts. The audit, expected to conclude in late 2026, seeks to gather critical data on water usage, tax incentives, and the specific impact these facilities will have on the existing electrical transmission infrastructure.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -37,7 +37,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In the rush to build the digital infrastructure of the future, we often focus on economic metrics and capacity limits. However, the biblical principle of <strong>stewardship</strong> reminds us that development is not merely a technical challenge—it is a moral one. We are called to manage the resources of the earth with wisdom, recognizing that our actions today impact the well-being of our neighbors tomorrow.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -48,14 +48,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p><em>"The earth is the Lord’s, and everything in it, the world, and all who live in it."</em> (Psalm 24:1). This verse serves as a foundational reminder that our land, water, and energy are ultimately not our own to exploit, but gifts to be managed. When we see massive industrial projects like these data centers, the question shouldn't just be "Can we build it?" but "Should we build it in a way that exhausts the resources our neighbors depend on?"</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>The lack of transparency regarding water usage, as noted by state lawmakers, is a cause for concern. If a project consumes resources in a way that threatens local supplies, is it acting as a good neighbor? Stewardship requires us to look beyond profit and balance the needs of the industry with the needs of the common good.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -65,13 +65,13 @@ Tactical Waterproof Backpack ($35.99)
     <p><em>"Suppose one of you wants to build a tower. Won’t you first sit down and estimate the cost to see if you have enough money to complete it?"</em> (Luke 14:28). While this passage is often applied to personal faith, it is profoundly relevant to our public life. The state’s pause on data center approvals is, in essence, a moment to "sit down and estimate the cost." It is a recognition that unchecked expansion without understanding the full impact on our grid and water supplies is not wisdom—it is recklessness.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>We are reminded that wisdom involves foresight. By pausing to audit these projects, our leaders are attempting to act with the prudence that Scripture encourages. We should pray that this process leads to decisions that honor both the need for growth and the sanctity of the resources that sustain us.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

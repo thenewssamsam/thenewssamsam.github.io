@@ -20,13 +20,13 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-r
     <p>In a significant shift for Florida’s 7th Congressional District, incumbent Republican Rep. Cory Mills has lost his primary election bid to challenger Ryan Elijah. The Associated Press called the race for Elijah, who secured a victory by approximately 12 percentage points. The loss follows a tumultuous cycle for Mills, who faced an ongoing House Ethics Committee investigation regarding allegations of domestic abuse and campaign finance violations.</p>
     
     <div style="border-left: 4px solid #d4af37; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended for families:</strong> <a href="#"><em>The Seven Habits of Highly Effective Teens</em> - $14.99</a>. A great resource for starting conversations about personal responsibility.</p>
+      <p><strong>Recommended for families:</strong> <a href="#"><em>The Seven Habits of Highly Effective Teens</em> - </a>. A great resource for starting conversations about personal responsibility.</p>
     </div>
 
     <p>While some voters like Patrick Austin praised Mills for "delivering for the district," others, such as Tiffany Davis, cited the "baggage" of the scandals as a deciding factor. The uncertainty surrounding Mills’ candidacy had already caused political analysts to shift the district’s status from "solid Republican" to "likely Republican," signaling that the controversy had real-world consequences for the party's standing.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -36,7 +36,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>When news of high-profile political scandal breaks, it often enters our living rooms via television or social media. For parents, this presents a unique challenge: how do we talk to our children about leadership, accountability, and the consequences of one's actions?</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -44,15 +44,15 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The situation with Rep. Mills provides a concrete, albeit difficult, example of how public actions carry private consequences. For teens, the lesson is clear: your reputation is built on your daily choices. When we discuss this with our children, it is important to focus on the concept that <strong>public office requires a higher standard of personal conduct</strong>. Accountability is not just about avoiding legal trouble; it is about maintaining trust with the people you serve.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <div style="border-left: 4px solid #d4af37; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>For your bookshelf:</strong> <a href="#"><em>Parenting Teens with Love and Logic</em> - $12.50</a>. Helps parents navigate tough conversations about maturity and choices.</p>
+      <p><strong>For your bookshelf:</strong> <a href="#"><em>Parenting Teens with Love and Logic</em> - </a>. Helps parents navigate tough conversations about maturity and choices.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -73,14 +73,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This news cycle brings to mind the importance of being "blameless" in our dealings with others. It is a reminder that we are all called to live with transparency. As it says in <strong>Proverbs 11:3</strong>, "The integrity of the upright guides them, but the crookedness of the treacherous destroys them."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>I am reminded that our children are watching how we react to these stories. Do we gloss over the moral failures of those we align with, or do we hold fast to the truth? <strong>Philippians 4:8</strong> invites us to think on "whatever is true, whatever is noble, whatever is right." This is a helpful filter for our families as we process the news of the day—by focusing on what is true and right, we teach our kids to prioritize character over convenience.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -90,7 +90,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Instead of shielding our children from the news, use it as a springboard for character building:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ol>

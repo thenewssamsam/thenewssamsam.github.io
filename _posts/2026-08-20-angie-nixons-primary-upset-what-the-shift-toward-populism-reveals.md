@@ -24,18 +24,18 @@ source_url: 'https://apnews.com/article/angie-nixon-florida-senate-democratic-so
 
   <section id="what-happened">
     <h2>The Anatomy of an Upset</h2>
-    <p>Angie Nixon’s victory over Alex Vindman was unexpected by many political analysts. While Vindman leveraged significant name recognition and a war chest of roughly $16 million, Nixon—who raised less than $1 million—focused on grassroots social media engagement. Her platform, which includes universal healthcare and childcare, resonated with voters who feel the current party establishment has failed to address their basic economic needs.</p>
+    <p>Angie Nixon’s victory over Alex Vindman was unexpected by many political analysts. While Vindman leveraged significant name recognition and a war chest of roughly  million, Nixon—who raised less than  million—focused on grassroots social media engagement. Her platform, which includes universal healthcare and childcare, resonated with voters who feel the current party establishment has failed to address their basic economic needs.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <div style="border-left: 4px solid #7e57c2; background-color: #f3e5f5; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Reading:</strong> <a href="#">The Psychology of Political Movements</a> - $14.99. Understanding how grassroots campaigns build momentum in the digital age.</p>
+      <p><strong>Recommended Reading:</strong> <a href="#">The Psychology of Political Movements</a> - . Understanding how grassroots campaigns build momentum in the digital age.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -46,7 +46,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>From a behavioral standpoint, Nixon’s win reflects a shift away from the "resistance" identity that defined Democratic politics during the first Trump administration. Voters often experience <em>cognitive dissonance</em> when establishment candidates promise change but deliver incremental results. When the "resistance" label becomes associated with stagnant political outcomes, voters naturally migrate toward candidates who offer a more affirmative, albeit strident, vision.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -58,7 +58,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Political parties often fall into <em>groupthink</em>, where leadership assumes that moderate, "safe" candidates are the only path to victory. Nixon’s win disrupts this assumption. By eschewing traditional broadcast media for targeted social media, she bypassed the establishment gatekeepers, demonstrating that modern political influence is increasingly decentralized.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -68,13 +68,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>As we observe these shifts in our political landscape, I am reminded of the importance of seeking truth behind the slogans. Proverbs 14:15 tells us, "The simple believes everything, but the prudent gives thought to his steps." Whether we lean progressive or moderate, we are called to be stewards of our communities, prioritizing the needs of the vulnerable over the noise of the political machine.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>This situation invites us to consider how we engage with one another. When we label others or dismiss their concerns, we miss the opportunity to understand the underlying human needs they are expressing. 1 Peter 3:8 encourages us to "have unity of mind, sympathy, brotherly love, a tender heart, and a humble mind." Regardless of the election outcome, our primary responsibility remains to act with integrity and love toward our neighbors, even when our political visions diverge.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

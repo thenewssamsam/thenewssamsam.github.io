@@ -26,7 +26,7 @@ source_url: "https://www.cnn.com/2026/08/18/asia/trump-us-south-korea-military-e
   <p>Pentagon officials confirmed that associated live-training events were reduced, with certain drills either canceled or converted into computer simulations. Both US and South Korean defense spokespersons emphasized that essential readiness objectives would be preserved, maintaining that US training goals would not suffer degradation. Meanwhile, South Korean President Lee Jae Myung publicly supported the adjustment as an effort to create conditions for dialogue, while simultaneously agreeing on the need for increased South Korean defense spending.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -38,7 +38,7 @@ Tactical Waterproof Backpack ($35.99)
   <p>High-stakes geopolitical news often breeds widespread misconceptions. Here is a fact-checked breakdown of what is real and what is overstated regarding the recent exercise cuts.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -61,21 +61,21 @@ Tactical Waterproof Backpack ($35.99)
 
   <div class="ncg-product-rec" style="border-left: 4px solid #f39c12; background: #fdfefe; padding: 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
     <p style="margin: 0 0 8px 0; font-size: 0.95em; color: #555;">Recommended Resource for Global Affairs Readers:</p>
-    <p style="margin: 0; font-weight: 600;"><a href="https://www.amazon.com/dp/B08N5K1W98?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2980b9; text-decoration: none;">The Jakarta Method: Washington's Anticommunist Crusade and the Mass Murder Program That Shaped Our World</a> - Explore the historical mechanics of US foreign policy and international alliances ($16.99)</p>
+    <p style="margin: 0; font-weight: 600;"><a href="https://www.amazon.com/dp/B08N5K1W98?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2980b9; text-decoration: none;">The Jakarta Method: Washington's Anticommunist Crusade and the Mass Murder Program That Shaped Our World</a> - Explore the historical mechanics of US foreign policy and international alliances </p>
   </div>
 
   <h2 id="scripture-perspective">A Moment for Reflection</h2>
   <p>Navigating international conflict, national security, and diplomatic maneuvers often leaves ordinary citizens feeling anxious about the stability of the world around them. This current event makes me think about the enduring wisdom found in Scripture regarding peace and human leadership.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   
   <p>Proverbs 21:1 reminds us, <em>"The king’s heart is a stream of water in the hand of the Lord; he turns it wherever he will."</em> This verse offers a grounding reminder that while presidents, prime ministers, and military leaders make sweeping decisions on the global stage, human governance operates under a higher sovereignty. We are invited to look past sensationalized claims and pray for leaders to exercise genuine wisdom, discernment, and a commitment to justice rather than relying solely on posturing.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -83,7 +83,7 @@ Seagate Portable External Hard Drive ($59.99)
   <p>The adjustment of the Ulchi Freedom Shield exercises is more than a scheduling change; it is a visible test of how long-standing alliances adapt to changing political pressures. South Korea hosts thousands of US troops, notably at Camp Humphreys, making cooperation vital to security across the Indo-Pacific region.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   
@@ -91,7 +91,7 @@ Seagate Portable External Hard Drive ($59.99)
 
   <div class="ncg-product-rec" style="border-left: 4px solid #f39c12; background: #fdfefe; padding: 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
     <p style="margin: 0 0 8px 0; font-size: 0.95em; color: #555;">Recommended Resource for Critical Thinking:</p>
-    <p style="margin: 0; font-weight: 600;"><a href="https://www.amazon.com/dp/B07V5W9K17?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2980b9; text-decoration: none;">Thinking, Fast and Slow</a> by Daniel Kahneman - Understand cognitive biases, decision-making patterns, and how we process complex news information ($14.99)</p>
+    <p style="margin: 0; font-weight: 600;"><a href="https://www.amazon.com/dp/B07V5W9K17?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2980b9; text-decoration: none;">Thinking, Fast and Slow</a> by Daniel Kahneman - Understand cognitive biases, decision-making patterns, and how we process complex news information </p>
   </div>
 
   <h2 id="faq">Frequently Asked Questions</h2>

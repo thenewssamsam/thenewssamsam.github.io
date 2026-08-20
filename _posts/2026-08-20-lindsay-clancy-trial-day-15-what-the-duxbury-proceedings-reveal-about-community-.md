@@ -40,7 +40,7 @@ source_url: "https://www.nbcboston.com/news/local/lindsay-clancy-trial-day-15-li
 <p>As the Lindsay Clancy trial entered its fifteenth day in Massachusetts, proceedings focused heavily on forensic analysis and the ongoing presentation of defense witnesses. Jurors inside the courtroom viewed a detailed forensic pathologist's reconstruction of the Duxbury home where the tragic events of January 24, 2023, unfolded. The presentation illustrated expert theories regarding how Lindsay Clancy was injured during the incident following the deaths of her three young children—Cora, 5, Dawson, 3, and Callan, 8 months.</p>
 
 <div style="background: #fffdf5; border-left: 4px solid #d4af37; padding: 1rem; margin: 1.5rem 0; border-radius: 0 6px 6px 0; font-size: 0.95rem;">
-<p style="margin: 0; color: #555;"><strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b8860b; font-weight: bold;">Journaling Set for Mental Health &amp; Healing</a> – $19.99</p>
+<p style="margin: 0; color: #555;"><strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b8860b; font-weight: bold;">Journaling Set for Mental Health &amp; Healing</a> – </p>
 </div>
 
 <p>The court also heard testimony from a medical professional who assisted Clancy in contacting her husband from the hospital, alongside the testimony of Clancy's former mother-in-law, Susan Clancy. However, the session was marked by sharp controversy when a prosecutor posed a question concerning murder as a "mortal sin," prompting an immediate objection and a subsequent strike from the official record by the judge. The defense, having rested the prosecution's case earlier in the week, continued building its argument that Lindsay was suffering from severe bipolar disorder and postpartum psychosis at the time.</p>
@@ -51,18 +51,18 @@ source_url: "https://www.nbcboston.com/news/local/lindsay-clancy-trial-day-15-li
 <p>For the residents of Duxbury and the wider South Shore community of Massachusetts, high-profile trials of this magnitude are rarely viewed through a purely legal lens. They strike at the very heart of local identity, safety, and mutual trust. When a tragedy occurs in a quiet, tight-knit residential neighborhood, the ripples extend far beyond police reports and courtroom exhibits.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div style="background: #fffdf5; border-left: 4px solid #d4af37; padding: 1.0rem; margin: 1.5rem 0; border-radius: 0 6px 6px 0; font-size: 0.95rem;">
-<p style="margin: 0; color: #555;"><strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B073Q4V8WZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b8860b; font-weight: bold;">Noise Cancelling Sleep Earplugs</a> – $24.99</p>
+<p style="margin: 0; color: #555;"><strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B073Q4V8WZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b8860b; font-weight: bold;">Noise Cancelling Sleep Earplugs</a> – </p>
 </div>
 
 <p>Local communities often find themselves divided or deeply unsettled when complex medical defenses collide with devastating losses of young life. On one hand, neighbors and local observers grapple with the horror of what happened inside that home. On the other hand, healthcare advocates and mental health professionals in the region point to the urgent need for a deeper public understanding of postpartum psychiatric disorders. The trial forces local communities to confront uncomfortable realities about maternal mental health support systems, isolation among new parents, and the limits of institutional safety nets.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -74,7 +74,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>Furthermore, courtroom moments like the contested "mortal sin" inquiry resonate intensely within local social circles and digital community forums. They highlight how deeply moral, religious, and ethical frameworks intertwine with public perceptions of guilt, accountability, and mercy. For local families following the daily updates, the case remains an ongoing emotional weight that defies simple categorization.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -84,18 +84,18 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Moments of profound community trauma often force individuals to look beyond legal arguments and confront deeper questions of human frailty. One cannot examine such deep sorrow without remembering that human minds and bodies are fragile vessels navigating a fallen world.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div style="background: #fffdf5; border-left: 4px solid #d4af37; padding: 1.0rem; margin: 1.5rem 0; border-radius: 0 6px 6px 0; font-size: 0.95rem;">
-<p style="margin: 0; color: #555;"><strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B07V2V54J5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b8860b; font-weight: bold;">Calm Essential Oil Diffuser</a> – $29.99</p>
+<p style="margin: 0; color: #555;"><strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B07V2V54J5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b8860b; font-weight: bold;">Calm Essential Oil Diffuser</a> – </p>
 </div>
 
 <p>Scripture reminds us in Psalm 34:18 that "The Lord is close to the brokenhearted and saves those who are crushed in spirit." This verse offers a quiet reminder that where human understanding fails and legal battles rage, divine compassion meets those who suffer in ways hidden from public view. It invites communities to respond not with hasty condemnation, but with a humble recognition of our shared need for grace, patience, and profound healing.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -110,7 +110,7 @@ Tactical Waterproof Backpack ($35.99)
 </ul>
 
 <div style="background: #fffdf5; border-left: 4px solid #d4af37; padding: 1.0rem; margin: 1.5rem 0; border-radius: 0 6px 6px 0; font-size: 0.95rem;">
-<p style="margin: 0; color: #555;"><strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B0852V8X32?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b8860b; font-weight: bold;">Weighted Blanket for Stress Relief</a> – $45.99</p>
+<p style="margin: 0; color: #555;"><strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B0852V8X32?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b8860b; font-weight: bold;">Weighted Blanket for Stress Relief</a> – </p>
 </div>
 </section>
 
@@ -120,7 +120,7 @@ Tactical Waterproof Backpack ($35.99)
 <p style="font-weight: bold; color: #2c3e50; margin: 0;">May our communities grow ever more vigilant in offering both practical support and profound compassion where it is needed most.</p>
 
 <div style="background: #fffdf5; border-left: 4px solid #d4af37; padding: 1.0rem; margin: 1.5rem 0; border-radius: 0 6px 6px 0; font-size: 0.95rem;">
-<p style="margin: 0; color: #555;"><strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B07Z3XQ9VW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b8860b; font-weight: bold;">Gratitude Journal for Daily Reflection</a> – $15.99</p>
+<p style="margin: 0; color: #555;"><strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B07Z3XQ9VW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b8860b; font-weight: bold;">Gratitude Journal for Daily Reflection</a> – </p>
 </div>
 </section>
 

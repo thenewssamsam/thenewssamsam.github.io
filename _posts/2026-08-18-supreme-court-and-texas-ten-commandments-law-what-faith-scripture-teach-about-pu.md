@@ -36,7 +36,7 @@ source_url: 'https://www.usatoday.com/story/news/politics/2026/08/17/supreme-cou
   <p>The 5th U.S. Circuit Court of Appeals previously upheld the law by a 9-7 vote in April. The multifaith coalition—whose members include Jewish, Baha'i, Christian, Unitarian Universalist, and non-religious families—argues that the mandate intrudes upon their fundamental right to guide their children's religious education at home.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
   <p>"Texas politicians shouldn’t have a seat at the table in deciding how our children receive their religious education," said Rebekah and Ted Lowe, two of the participating parents, in a joint statement. "This law puts one version of religious beliefs above all others in our public schools and sends a message to our children that what we teach them about religion at home is somehow wrong."</p>
@@ -108,7 +108,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -116,7 +116,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -43,10 +43,10 @@ source_url: 'https://www.foxnews.com/media/jon-ossoffs-controversial-trump-jab-s
 <p>Conservatives swiftly condemned the remark as sexist and cowardly, noting that when pressed on MS NOW, Ossoff insisted he simply meant Harp served as a "security blanket" rather than standing by the heavier implications of his phrasing. Meanwhile, progressive media outlets seized on the moment. Major publications and cable networks dedicated substantial airtime and digital inches to profiling Harp, dissecting her proximity to the president, and even airing an interview with her estranged brother.</p>
 
 <div class="ncg-amazon-box" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-<p><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B08N5K2V7X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World</a> — $16.99</p>
+<p><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B08N5K2V7X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World</a> — </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </div>
@@ -54,7 +54,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>From mainstream profiles labeling Harp a "geyser of positivity" to tabloid-style speculation about internal White House dynamics, the story ballooned far beyond a simple campaign stump speech. It highlighted a familiar modern pattern: a single calculated soundbite designed to generate maximum social media engagement, followed by an entire ecosystem of media outlets scrambling to amplify the speculation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -64,7 +64,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>In moments like this, where political theater intersects with personal reputation, Scripture provides a timeless framework for evaluating our collective behavior. The relentless churn of modern media often thrives on what the Apostle James described as speech driven by earthly, unspiritual motives rather than heavenly wisdom.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -76,14 +76,14 @@ Seagate Portable External Hard Drive ($59.99)
 <p>This verse cuts straight to the core of political commentary culture. Whether the remarks in question are calculated for a viral clip or amplified by commentators seeking clicks and ratings, the underlying machinery often loses sight of a fundamental truth: every individual involved—from high-ranking senators and former presidents to presidential aides and their families—bears the image of God. When public discourse reduces people to caricatures, political props, or targets for innuendo, it strips away that inherent human dignity.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Furthermore, Proverbs offers a direct caution regarding the rapid spread of untested claims and divisive gossip:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -91,7 +91,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>"A perverse person stirs up conflict, and a gossip separates close friends."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <cite>— Proverbs 16:28 (NIV)</cite>
@@ -100,15 +100,15 @@ Seagate Portable External Hard Drive ($59.99)
 <p>The media feeding frenzy surrounding Natalie Harp demonstrates how quickly modern platforms can magnify speculation into perceived reality. Proverbs reminds us that spreading division for the sake of entertainment, outrage, or political advantage is a destructive pursuit. It invites us to pause and ask whether our own consumption and sharing of such stories contributes to healing our cultural divides or merely deepens them.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <div class="ncg-amazon-box" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-<p><strong>Recommended Tool:</strong> <a href="https://www.amazon.com/dp/B07ZPKN6VC?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">ESV Study Bible, Large Print (TruTone, Chestnut)</a> — $49.99</p>
+<p><strong>Recommended Tool:</strong> <a href="https://www.amazon.com/dp/B07ZPKN6VC?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">ESV Study Bible, Large Print (TruTone, Chestnut)</a> — </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </div>
@@ -117,7 +117,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>"When political entertainment reduces human beings to viral soundbites, we forget that every person bears the image of the Creator."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </div>
@@ -128,14 +128,14 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Behind every cable news graphic and trending hashtag are real human beings experiencing the very tangible pressures of public life. Critics like podcaster Meghan McCain rightly pointed out the absurdity of professional environments where close working relationships between male leaders and female aides are instantly subjected to archaic and sexist tropes. "What year is this? Should women never go into politics?" McCain asked on social media.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>From a behavioral and ethical standpoint, the incident highlights a deep cultural fatigue. People are exhausted by a political culture that constantly assumes the worst motives in others. When public figures model cynicism and casual disparagement, it trickles down into everyday conversations, family dinners, and workplaces, eroding the trust required to maintain a healthy society.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -152,10 +152,10 @@ Seagate Portable External Hard Drive ($59.99)
 </ul>
 
 <div class="ncg-amazon-box" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-<p><strong>Helpful Resource:</strong> <a href="https://www.amazon.com/dp/B01F6W2NPE?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Gentle and Lowly: The Heart of Christ for Sinners and Sufferers</a> — $13.49</p>
+<p><strong>Helpful Resource:</strong> <a href="https://www.amazon.com/dp/B01F6W2NPE?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Gentle and Lowly: The Heart of Christ for Sinners and Sufferers</a> — </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </div>

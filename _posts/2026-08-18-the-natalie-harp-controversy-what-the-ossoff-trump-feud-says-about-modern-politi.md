@@ -26,7 +26,7 @@ source_url: 'https://www.cnn.com/2026/08/17/politics/ossoff-natalie-harp-trump'
     <p>During a weekend rally in Atlanta, Senator Jon Ossoff, who is currently seeking reelection, took aim at President Trump’s work ethic and global leadership. However, the remarks took a sharp turn when Ossoff specifically mentioned Natalie Harp, the president’s executive assistant. Ossoff suggested the president prefers traveling with Harp on a "flying palace" over tending to his duties as commander-in-chief.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>The reaction from the White House was swift and vitriolic. Communications director Steven Cheung and other officials responded with aggressive personal attacks against the senator, signaling that the administration views Ossoff’s focus on the president’s inner circle as a serious provocation.</p>
@@ -71,7 +71,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -79,7 +79,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

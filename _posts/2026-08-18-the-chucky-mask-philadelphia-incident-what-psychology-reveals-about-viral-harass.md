@@ -36,7 +36,7 @@ source_url: 'https://abcnews.com/US/suspect-wearing-chucky-doll-face-mask-accuse
 <p>According to Philadelphia Police, the unsettling series of events unfolded last Wednesday morning around 5:18 a.m. in the busy Center City district. For roughly twenty minutes, a masked individual targeted unsuspecting pedestrians, running up to both men and women in an effort to scare and antagonize them.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>The most severe documented encounter involved a female jogger. Surveillance video captured the suspect chasing the victim and asking her, "Are you ready to die?" The terrified woman fled, screaming for help, and injured her leg during the ordeal. Police Captain Jason Smith noted during a press briefing that investigators believe at least six people were accosted during the brief window, though only the jogger has come forward so far.</p>
@@ -111,7 +111,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -119,7 +119,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

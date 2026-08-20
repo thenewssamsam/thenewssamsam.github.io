@@ -38,7 +38,7 @@ source_url: "https://www.nbcnews.com/business/economy/trump-pauses-canada-tariff
       What Happened: The Midnight Tariff Pause
     </h2>
     <p style="margin-bottom: 15px;">
-      Late Tuesday evening, just hours before an unprecedented 50 percent tariff wave was scheduled to strike roughly $20 billion worth of Canadian imports, President Trump announced a three-day postponement. Writing on social media, Trump pointed to a tentative deal reached between Washington and Ottawa, subject to final document sign-offs, and hinted at the potential resurrection of the Keystone XL pipeline.
+      Late Tuesday evening, just hours before an unprecedented 50 percent tariff wave was scheduled to strike roughly  billion worth of Canadian imports, President Trump announced a three-day postponement. Writing on social media, Trump pointed to a tentative deal reached between Washington and Ottawa, subject to final document sign-offs, and hinted at the potential resurrection of the Keystone XL pipeline.
     </p>
     <p style="margin-bottom: 15px;">
       Canadian Prime Minister Mark Carney confirmed the temporary reprieve, noting that substantial progress had been made during intensive, high-stakes discussions, though important administrative and technical work remains. The threatened duties—designed to penalize Canada under Section 338 of the Tariff Act of 1930 for its prior retaliatory measures—would have disrupted everything from hockey sticks and building materials to liquor and apparel.
@@ -47,7 +47,7 @@ source_url: "https://www.nbcnews.com/business/economy/trump-pauses-canada-tariff
     <!-- Amazon Product Recommendation 1 -->
     <div style="background: #fffbeb; border-left: 4px solid #f59e0b; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 0.95rem;">
       <p style="margin: 0 0 8px 0; font-weight: 600; color: #92400e;">Recommended Resource on Economic History:</p>
-      <p style="margin: 0;"><a href="https://www.amazon.com/dp/B073V27387?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">Lords of Finance: The Bankers Who Broke the World</a> ($18.99) — Explore how past economic policies and political decisions reshaped global markets during turbulent times.</p>
+      <p style="margin: 0;"><a href="https://www.amazon.com/dp/B073V27387?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">Lords of Finance: The Bankers Who Broke the World</a>  — Explore how past economic policies and political decisions reshaped global markets during turbulent times.</p>
     </div>
 
     <p style="margin-bottom: 15px;">
@@ -72,7 +72,7 @@ source_url: "https://www.nbcnews.com/business/economy/trump-pauses-canada-tariff
     <!-- Amazon Product Recommendation 2 -->
     <div style="background: #fffbeb; border-left: 4px solid #f59e0b; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 0.95rem;">
       <p style="margin: 0 0 8px 0; font-weight: 600; color: #92400e;">Understanding Global Trade:</p>
-      <p style="margin: 0;"><a href="https://www.amazon.com/dp/B085V59W7Z?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">The Ascent of Money: A Financial History of the World</a> ($16.49) — Discover the historical roots of modern banking, trade agreements, and global market stability.</p>
+      <p style="margin: 0;"><a href="https://www.amazon.com/dp/B085V59W7Z?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">The Ascent of Money: A Financial History of the World</a>  — Discover the historical roots of modern banking, trade agreements, and global market stability.</p>
     </div>
 
     <h3 style="font-size: 1.2rem; font-weight: 600; color: #1f2937; margin-top: 20px; margin-bottom: 10px;">
@@ -92,7 +92,7 @@ source_url: "https://www.nbcnews.com/business/economy/trump-pauses-canada-tariff
     <!-- Amazon Product Recommendation 3 -->
     <div style="background: #fffbeb; border-left: 4px solid #f59e0b; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 0.95rem;">
       <p style="margin: 0 0 8px 0; font-weight: 600; color: #92400e;">Business Strategy & Leadership:</p>
-      <p style="margin: 0;"><a href="https://www.amazon.com/dp/B079V5Z3V1?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">Principles: Life and Work by Ray Dalio</a> ($17.50) — Learn how to navigate economic cycles and strategic negotiations through clear, time-tested frameworks.</p>
+      <p style="margin: 0;"><a href="https://www.amazon.com/dp/B079V5Z3V1?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">Principles: Life and Work by Ray Dalio</a>  — Learn how to navigate economic cycles and strategic negotiations through clear, time-tested frameworks.</p>
     </div>
   </section>
 
@@ -107,7 +107,7 @@ source_url: "https://www.nbcnews.com/business/economy/trump-pauses-canada-tariff
     <!-- Amazon Product Recommendation 4 -->
     <div style="background: #fffbeb; border-left: 4px solid #f59e0b; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 0.95rem;">
       <p style="margin: 0 0 8px 0; font-weight: 600; color: #92400e;">Economic Literacy:</p>
-      <p style="margin: 0;"><a href="https://www.amazon.com/dp/B074Z1J4PV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">Basic Economics by Thomas Sowell</a> ($19.99) — A comprehensive guide to understanding how markets, prices, and government policies interact in the real world.</p>
+      <p style="margin: 0;"><a href="https://www.amazon.com/dp/B074Z1J4PV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">Basic Economics by Thomas Sowell</a>  — A comprehensive guide to understanding how markets, prices, and government policies interact in the real world.</p>
     </div>
 
     <p style="margin-bottom: 15px;">
@@ -117,7 +117,7 @@ source_url: "https://www.nbcnews.com/business/economy/trump-pauses-canada-tariff
     <!-- Amazon Product Recommendation 5 -->
     <div style="background: #fffbeb; border-left: 4px solid #f59e0b; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 0.95rem;">
       <p style="margin: 0 0 8px 0; font-weight: 600; color: #92400e;">Supply Chain Management:</p>
-      <p style="margin: 0;"><a href="https://www.amazon.com/dp/B08V5N4J2X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">The Box: How the Shipping Container Made the World Smaller</a> ($15.80) — Understand the critical logistics networks that connect international trade and modern supply chains.</p>
+      <p style="margin: 0;"><a href="https://www.amazon.com/dp/B08V5N4J2X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">The Box: How the Shipping Container Made the World Smaller</a>  — Understand the critical logistics networks that connect international trade and modern supply chains.</p>
     </div>
   </section>
 
@@ -132,7 +132,7 @@ source_url: "https://www.nbcnews.com/business/economy/trump-pauses-canada-tariff
     <!-- Amazon Product Recommendation 6 -->
     <div style="background: #fffbeb; border-left: 4px solid #f59e0b; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 0.95rem;">
       <p style="margin: 0 0 8px 0; font-weight: 600; color: #92400e;">Personal Growth & Wisdom:</p>
-      <p style="margin: 0;"><a href="https://www.amazon.com/dp/B07YQ948QM?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living</a> ($14.99) — Timeless philosophical insights for keeping perspective during uncertain times.</p>
+      <p style="margin: 0;"><a href="https://www.amazon.com/dp/B07YQ948QM?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living</a>  — Timeless philosophical insights for keeping perspective during uncertain times.</p>
     </div>
 
     <p style="margin-bottom: 15px;">
@@ -159,7 +159,7 @@ source_url: "https://www.nbcnews.com/business/economy/trump-pauses-canada-tariff
     <!-- Amazon Product Recommendation 7 -->
     <div style="background: #fffbeb; border-left: 4px solid #f59e0b; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 0.95rem;">
       <p style="margin: 0 0 8px 0; font-weight: 600; color: #92400e;">Financial Resilience:</p>
-      <p style="margin: 0;"><a href="https://www.amazon.com/dp/B07CC5SR6D?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">The Psychology of Money by Morgan Housel</a> ($16.19) — Timeless lessons on wealth, greed, and happiness to help you navigate economic unpredictability.</p>
+      <p style="margin: 0;"><a href="https://www.amazon.com/dp/B07CC5SR6D?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">The Psychology of Money by Morgan Housel</a>  — Timeless lessons on wealth, greed, and happiness to help you navigate economic unpredictability.</p>
     </div>
   </section>
 
@@ -175,7 +175,7 @@ source_url: "https://www.nbcnews.com/business/economy/trump-pauses-canada-tariff
   <!-- Amazon Product Recommendation 8 -->
   <div style="background: #fffbeb; border-left: 4px solid #f59e0b; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 0.95rem;">
     <p style="margin: 0 0 8px 0; font-weight: 600; color: #92400e;">Recommended Reading:</p>
-    <p style="margin: 0;"><a href="https://www.amazon.com/dp/B07PGL2Z1X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">Thinking, Fast and Slow by Daniel Kahneman</a> ($14.80) — Understand the cognitive biases and decision-making patterns that influence both political leaders and everyday consumers.</p>
+    <p style="margin: 0;"><a href="https://www.amazon.com/dp/B07PGL2Z1X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">Thinking, Fast and Slow by Daniel Kahneman</a>  — Understand the cognitive biases and decision-making patterns that influence both political leaders and everyday consumers.</p>
   </div>
 
   <footer style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #e5e7eb; font-size: 0.9rem; color: #6b7280;">

@@ -21,7 +21,7 @@ source_url: 'https://bleacherreport.com/articles/25472870-caitlin-clark-angel-re
 <p>As the Fever improved to 23-12 and carved out a 1.5-game cushion over the Dream for the No. 4 seed in the WNBA playoff race, the game offered a textbook window into how psychological concepts like cognitive dissonance, comparison loops, and normalcy bias shape modern sports fandom and athlete mental health.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -99,7 +99,7 @@ Source: <a href="https://bleacherreport.com/articles/25472870-caitlin-clark-ange
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -107,7 +107,7 @@ Source: <a href="https://bleacherreport.com/articles/25472870-caitlin-clark-ange
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

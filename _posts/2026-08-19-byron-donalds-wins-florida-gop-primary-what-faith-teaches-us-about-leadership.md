@@ -24,13 +24,13 @@ source_url: "https://www.foxnews.com/politics/trumps-handpicked-desantis-success
     <p>The primary race was a high-stakes contest featuring several prominent Florida figures. Despite the crowded field, Donalds—a three-term congressman—leveraged his strong alignment with the "Trump agenda" to separate himself from the pack. His primary opponent, Lt. Gov. Jay Collins, ran on a platform of continuing the DeSantis legacy, but voters ultimately favored Donalds’ vision for the state.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Donalds has centered his campaign on economic concerns, specifically affordability, deregulation, and infrastructure growth. As the state continues to trend Republican, the general election will likely focus on contrasting visions for Florida’s growth and governance.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -40,7 +40,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In the world of politics, victory is often framed as a personal triumph or the validation of a specific agenda. However, from a biblical worldview, leadership is less about the acquisition of power and more about the weight of stewardship. Whether in government, the workplace, or the home, those who step into positions of influence are called to a higher standard of accountability.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -48,7 +48,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p><strong>"Leadership is not a platform for personal glory, but a call to serve the common good with humility and a steady focus on justice."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -56,14 +56,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The transition of power from one leader to another, as we are seeing in Florida with the departure of Governor DeSantis and the rise of a new nominee, invites us to consider the brevity of human authority. In <strong>Psalm 75:6-7</strong>, we are reminded: <em>"For not from the east or from the west and not from the wilderness comes lifting up, but it is God who executes judgment, putting down one and lifting up another."</em> This verse humbles both the candidate and the voter, reminding us that while human campaigns are energetic and competitive, there is a greater sovereignty at play.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>Furthermore, <strong>Micah 6:8</strong> provides a timeless mandate for any leader: <em>"He has told you, O man, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?"</em> As voters evaluate candidates like Donalds and Jolly, this trifecta of justice, kindness, and humility serves as a spiritual compass for assessing whether a leader truly seeks the well-being of the people they represent.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

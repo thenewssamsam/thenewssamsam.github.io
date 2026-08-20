@@ -32,7 +32,7 @@ source_url: "https://www.cnn.com/2026/08/18/politics/live-news/florida-primary-e
 <p>Meanwhile, in the high-stakes race to succeed outgoing Governor Ron DeSantis, Republican Representative Byron Donalds is projected to win his party's nomination. Donalds faced a bruising primary battle, navigating headwinds from outgoing leadership before securing the nomination to face Democratic candidate David Jolly this fall.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Down-ballot races also saw significant shifts. In Florida's 7th District, Republican Representative Cory Mills lost his primary amid ongoing investigations, while veteran lawmakers like Representative Debbie Wasserman Schultz and Representative Jared Moskowitz secured crucial nominations in their respective districts.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -53,30 +53,30 @@ Tactical Waterproof Backpack ($35.99)
 <p>While national pundits often reduce primary nights to mere wins and losses for national party factions, the real story unfolds at the neighborhood level. For residents across Florida, the outcome of these primaries dictates the legislative priorities that will directly shape local infrastructure, school funding, property insurance markets, and cost-of-living policies for years to come.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>When voters head to the polls in local primaries, they are grappling with immediate, tangible pressures. From escalating housing costs in major metropolitan areas to rural infrastructure needs, the candidates chosen tonight will carry these community-level burdens onto the state and federal stages.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <div style="border-left: 4px solid #ffb300; background: #fff8e1; padding: 15px; margin: 20px 0; border-radius: 4px;">
-<strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Amazon eero 6+ Mesh Wi-Fi Router</a> - $139.99<br>Stay connected to breaking local news, live election updates, and community forums with a reliable, high-speed home network.
+<strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Amazon eero 6+ Mesh Wi-Fi Router</a> - <br>Stay connected to breaking local news, live election updates, and community forums with a reliable, high-speed home network.
 </div>
 
 <p>Furthermore, shifting district boundaries and competitive primaries in areas like the redrawn 20th District highlight how representation is evolving. For communities that have historically fought for political visibility, these election cycles test whether new leadership will genuinely advocate for local economic equity or merely echo national talking points.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div style="border-left: 4px solid #ffb300; background: #fff8e1; padding: 15px; margin: 20px 0; border-radius: 4px;">
-<strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/B09B8V1LZ3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Anker Portable Charger, 313 Power Bank</a> - $21.99<br>Keep your mobile devices charged while tracking community election results and communicating with local neighbors on primary night.
+<strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/B09B8V1LZ3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Anker Portable Charger, 313 Power Bank</a> - <br>Keep your mobile devices charged while tracking community election results and communicating with local neighbors on primary night.
 </div>
 </section>
 
@@ -85,26 +85,26 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Political seasons often stir up intense passions, divisions, and anxieties within our towns and cities. Watching neighbors argue over the direction of local leadership can sometimes feel discouraging, reminding us of how fractured our communities can become when disagreements take root.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>This dynamic makes me think of the timeless wisdom found in Scripture, which encourages believers to seek the well-being of the places where they live: <em>"Also, seek the peace and prosperity of the city to which I have carried you into exile. Pray to the Lord for it, because if it prospers, you too will prosper"</em> (Jeremiah 29:7, NIV). Similarly, the Apostle Paul reminds us in 1 Timothy 2:1-2 to offer prayers and thanksgiving for all people, including those in authority, so that we may live peaceful and quiet lives.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>These reflections invite us to remember that true community flourishing does not rely solely on who wins an election, but on how neighbors treat one another in the aftermath. Kindness, civic engagement, and genuine care for the vulnerable remain essential regardless of political outcomes.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div style="border-left: 4px solid #ffb300; background: #fff8e1; padding: 15px; margin: 20px 0; border-radius: 4px;">
-<strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/B073Q4XMcc?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Journal for Civic Prayer and Reflection</a> - $12.99<br>A quiet space to write down your thoughts, prayers, and hopes for your local community's future.
+<strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/B073Q4XMcc?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Journal for Civic Prayer and Reflection</a> - <br>A quiet space to write down your thoughts, prayers, and hopes for your local community's future.
 </div>
 </section>
 
@@ -113,7 +113,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Elections do not end when the polls close on primary night; in many ways, that is when true civic responsibility begins. For Florida residents looking to engage constructively with these results, several practical steps can make a lasting difference:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -124,7 +124,7 @@ Tactical Waterproof Backpack ($35.99)
 </ul>
 
 <div style="border-left: 4px solid #ffb300; background: #fff8e1; padding: 15px; margin: 20px 0; border-radius: 4px;">
-<strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/B085959FL2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Moleskine Classic Notebook</a> - $19.95<br>Jot down notes from local town halls, council meetings, and community organizing sessions.
+<strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/B085959FL2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Moleskine Classic Notebook</a> - <br>Jot down notes from local town halls, council meetings, and community organizing sessions.
 </div>
 </section>
 
@@ -133,7 +133,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>As the dust settles on the 2026 Florida primary elections, the focus shifts immediately to the November general election. The campaigns ahead will test whether candidates can successfully bridge local concerns with broader state platforms. For everyday voters, staying grounded, informed, and actively involved in community life remains the most powerful way to shape tomorrow's leadership.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -141,13 +141,13 @@ Tactical Waterproof Backpack ($35.99)
 <p>Political headlines will continue to shift with every new poll and primary cycle, but the heartbeat of any state remains rooted in its local neighborhoods, schools, and families. True community strength is built from the ground up, one thoughtful conversation and neighborly act at a time.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <p><em>Local resilience isn't granted by election results; it is nurtured by the people who call a place home.</em></p>
 
 <div style="border-left: 4px solid #ffb300; background: #fff8e1; padding: 15px; margin: 20px 0; border-radius: 4px;">
-<strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/B07X9V1FXD?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">YETI Rambler 20 oz Travel Mug</a> - $35.00<br>Keep your coffee hot while attending early morning community meetings or reviewing local ballot measures.
+<strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/B07X9V1FXD?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">YETI Rambler 20 oz Travel Mug</a> - <br>Keep your coffee hot while attending early morning community meetings or reviewing local ballot measures.
 </div>
 </section>
 

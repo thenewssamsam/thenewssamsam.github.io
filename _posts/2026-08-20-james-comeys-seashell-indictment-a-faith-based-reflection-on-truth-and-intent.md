@@ -27,15 +27,15 @@ source_url: 'https://www.cnn.com/2026/08/19/politics/comey-seashell-indictment-p
         <p>The Department of Justice, in a recent court filing, asserted that the decision to indict James Comey was made by Ellis Boyle, the U.S. Attorney in Eastern North Carolina, without direction from the Attorney General or the President. This assertion comes as the DOJ seeks to defend itself against Comey’s claims of political vindictiveness. The indictment stems from an image Comey posted in 2025, which critics interpreted as a coded threat, given that "86" is slang for "getting rid of" and "47" references the 47th president.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         
         <div class="ncg-product" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-            <p><strong>Recommended Reading:</strong> <a href="#">The Ethics of Public Discourse - $19.99</a></p>
+            <p><strong>Recommended Reading:</strong> <a href="#">The Ethics of Public Discourse - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         </div>
@@ -48,7 +48,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p>In the noise of political accusations, it is easy to lose sight of the moral weight behind our words. Proverbs 18:21 reminds us: <em>"Death and life are in the power of the tongue, and those who love it will eat its fruits."</em> (ESV). This verse serves as a sobering reminder that our words, regardless of our perceived intent, carry consequences that ripple far beyond our initial purpose.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         
@@ -59,15 +59,15 @@ Seagate Portable External Hard Drive ($59.99)
         <p>The Comey case forces us to consider the burden of public influence. When we speak—or post—into the digital square, we are not merely expressing a private thought; we are shaping a narrative. Scripture invites us to consider the state of our hearts when we communicate. Are we seeking to build up, or are we being careless with the power we possess? The confusion surrounding the "8647" post highlights how easily ambiguity can be weaponized in a climate of distrust.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
         <div class="ncg-product" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-            <p><strong>Recommended Reading:</strong> <a href="#">Journaling for Clarity and Wisdom - $12.50</a></p>
+            <p><strong>Recommended Reading:</strong> <a href="#">Journaling for Clarity and Wisdom - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
         </div>
@@ -78,14 +78,14 @@ Tactical Waterproof Backpack ($35.99)
         <p>Another profound lesson emerges from the New Testament. In Matthew 12:36, we are warned: <em>"I tell you, on the day of judgment people will give account for every careless word they speak."</em> (ESV). While this speaks to the ultimate divine accounting, it provides a powerful framework for civil discourse. Being "careless" in our communication is often a failure of love—a failure to consider how our neighbors might receive our messages.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
         
         <p>Whether one believes the indictment is a case of political overreach or a necessary response to a threat, the underlying issue remains the same: the loss of shared truth. When intent is constantly questioned, society fractures. As Christians, we are called to be "salt and light," which often means being the people who speak with clarity and seek peace, even when it is difficult.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </section>
@@ -95,19 +95,19 @@ Seagate Portable External Hard Drive ($59.99)
         <p>1. <strong>Practice Discernment Over Reaction:</strong> Before sharing or commenting on inflammatory news, pause. Ask yourself if your engagement adds clarity or merely contributes to the noise.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
         <p>2. <strong>Seek Truth in Love:</strong> We should advocate for justice without losing our witness. This means engaging in political conversations with the same grace we hope to receive.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
         <p>3. <strong>Guard Your Digital Testimony:</strong> Recognize that your social media presence is a reflection of your values. Let your online interactions be marked by wisdom and the desire to foster understanding.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </section>
@@ -117,13 +117,13 @@ Seagate Portable External Hard Drive ($59.99)
         <p>The legal battles in Washington will continue to evolve, and the headlines will shift. However, the call to live with integrity remains constant. We may not be able to control how others interpret our words, but we are fully responsible for the intent and care with which we choose them. May we strive to be people who use our influence to bridge divides rather than deepen them.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
         <p><em>Let our words be a reflection of the light we claim to follow.</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </section>

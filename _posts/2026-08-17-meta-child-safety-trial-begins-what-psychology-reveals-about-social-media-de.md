@@ -147,7 +147,7 @@ source_url: 'https://finance.yahoo.com/technology/article/meta-to-face-massive-s
   <p>The trial serves as a crucial bellwether for thousands of similar lawsuits piling up against major social media companies across the United States. Spearheaded by states including California, Colorado, Kentucky, and New Jersey, the 2023 lawsuit alleges that Meta deliberately created and refined psychologically manipulative platform features designed to maximize the time young users spend on Instagram and Facebook.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -155,7 +155,7 @@ Tactical Waterproof Backpack ($35.99)
 
   <p>Legal teams representing the states plan to introduce testimony from top tech executives, including Meta CEO Mark Zuckerberg and Instagram CEO Adam Mosseri. The plaintiffs claim that Meta was fully aware its platforms harmed young users—driving spikes in anxiety, depression, and self-harm—while publicly maintaining that the products were safe. Furthermore, the states argue that Meta violated the Children's Online Privacy Protection Act (COPPA) by knowingly gathering data from children under 13 without parental consent.</p>
 
-  <p>Meta has forcefully denied the allegations. A company spokesperson called the financial demands—which could theoretically reach as high as $1.4 trillion, a figure close to Meta's entire market capitalization—"outlandish" and "vastly disproportionate." Meta contends that the states are attempting to penalize the company for industry-wide challenges like age verification while ignoring its existing protections for teens.</p>
+  <p>Meta has forcefully denied the allegations. A company spokesperson called the financial demands—which could theoretically reach as high as  trillion, a figure close to Meta's entire market capitalization—"outlandish" and "vastly disproportionate." Meta contends that the states are attempting to penalize the company for industry-wide challenges like age verification while ignoring its existing protections for teens.</p>
 
   <h2 id="the-psychology-of-design">The Psychology of Feature Design</h2>
 
@@ -218,7 +218,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -226,7 +226,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

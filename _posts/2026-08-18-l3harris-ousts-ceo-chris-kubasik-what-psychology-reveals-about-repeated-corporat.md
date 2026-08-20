@@ -35,7 +35,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defe
     <p>On a Sunday in August 2026, the board of directors at L3Harris Technologies made a high-stakes decision: they ousted CEO and Chairman Chris Kubasik after an independent investigation revealed conduct "not consistent with the values of the Company." Shares of the major defense contractor dropped more than 4% immediately following the announcement.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
     <p>According to reports from outlets like Semafor, the probe centered on an inappropriate relationship with an employee. The company was quick to clarify in its regulatory filings that the ouster was entirely unrelated to financial reporting, accounting controls, or operational performance. To steady the ship, the board elevated Sam Mehta—formerly president of the Space & Mission Systems and Communications & Spectrum Dominance segments—to the role of president and CEO.</p>
@@ -60,7 +60,7 @@ Seagate Portable External Hard Drive ($59.99)
 <section id="market-and-defense">
     <h2>Market Fallout and the Road Ahead for L3Harris</h2>
     <p>Beyond the behavioral angles, L3Harris is navigating a critical juncture. The company is deeply embedded in defense supply chains, including missile solutions and high-profile aerospace projects. Sam Mehta steps into the top job with deep institutional knowledge, having successfully run key technological segments.</p>
-    <p>The timing is sensitive. L3Harris recently postponed the initial public offering for its missile solutions business from late 2026 to mid-2027, following a $1 billion convertible preferred equity investment from the Department of Defense. Furthermore, the company has historic ties to high-profile aviation projects, such as modifying a 747 jumbo jet gifted by Qatar to serve as a new Air Force One.</p>
+    <p>The timing is sensitive. L3Harris recently postponed the initial public offering for its missile solutions business from late 2026 to mid-2027, following a  billion convertible preferred equity investment from the Department of Defense. Furthermore, the company has historic ties to high-profile aviation projects, such as modifying a 747 jumbo jet gifted by Qatar to serve as a new Air Force One.</p>
     <p>With Lewis Hay III stepping in as independent chairman, the board is projecting stability and robust succession planning. Markets reacted swiftly with a minor dip, but institutional investors will be watching closely to see if Mehta can maintain operational focus without missing a beat.</p>
 </section>
 
@@ -164,7 +164,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -172,7 +172,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

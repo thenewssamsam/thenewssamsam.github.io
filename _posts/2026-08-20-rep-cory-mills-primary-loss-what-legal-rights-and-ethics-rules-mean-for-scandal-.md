@@ -36,13 +36,13 @@ source_url: "https://www.foxnews.com/politics/trumps-support-doesnt-save-scandal
 <p>The defeat capped off months of mounting political pressure surrounding Mills. The incumbent congressman faced intense scrutiny over an ongoing House Ethics Committee investigation and unconfirmed allegations regarding federal probes—accusations that Mills has vigorously denied, claiming a political opponent orchestrated a smear campaign. While Mills repeatedly leaned on his military service and presidential backing on the campaign trail, fellow Republicans—including Reps. Nancy Mace, Mike Haridopolos, and Anna Paulina Luna—ultimately lined up behind Elijah or pushed for accountability measures.</p>
 
 <div class="ncg-amazon-box" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B07V5L6Z4X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Understanding Constitutional Law: A Guide for Citizens ($19.99)</a> - A clear, accessible guide to how America's legal and legislative systems balance political power with accountability.
+  <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B07V5L6Z4X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Understanding Constitutional Law: A Guide for Citizens </a> - A clear, accessible guide to how America's legal and legislative systems balance political power with accountability.
 </div>
 
 <p>For voters and political observers, the race raises urgent questions about the intersection of electoral politics, institutional ethics rules, and the legal rights of public officials when misconduct allegations surface. When a lawmaker faces simultaneous internal congressional probes and public accusations, how do legislative rules function, and what legal frameworks govern the fallout?</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -52,14 +52,14 @@ Tactical Waterproof Backpack ($35.99)
 <p>To understand why a scandal-plagued incumbent can stumble at the ballot box, one must examine how the U.S. House of Representatives polices its own members. The House Ethics Committee operates independently of federal criminal prosecutors, serving as the chamber's internal disciplinary body. Unlike a court of law, where guilt must be proven beyond a reasonable doubt, an ethics investigation is an administrative inquiry focused on whether a member violated House rules, federal laws, or standards of conduct.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>When an ethics probe is announced or leaked, it triggers a cascade of political and legal consequences:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <ul>
@@ -75,7 +75,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 
 <div class="ncg-amazon-box" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Ethics of Public Office: Institutional Integrity in Modern Politics ($24.50)</a> - An insightful look at how legislative bodies manage internal discipline and public trust.
+  <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Ethics of Public Office: Institutional Integrity in Modern Politics </a> - An insightful look at how legislative bodies manage internal discipline and public trust.
 </div>
 </section>
 
@@ -84,14 +84,14 @@ Tactical Waterproof Backpack ($35.99)
 <p>When public officials face explosive allegations—such as Mills' denial of a Department of Justice investigation and his claim that a primary opponent fabricated the rumors—legal questions regarding defamation and political speech frequently arise. In the American legal system, public figures face a notoriously high bar when filing defamation lawsuits, requiring them to prove "actual malice" (that the speaker knew the statement was false or acted with reckless disregard for the truth).</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>However, the court of public opinion operates under very different rules than a court of law. Legal rights protect politicians from demonstrably false, defamatory attacks that cross the line into illegality, but aggressive political rhetoric, opposition research, and public accusations are heavily protected under the First Amendment. This creates a difficult tightrope for embattled lawmakers:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <ul>
@@ -101,7 +101,7 @@ Seagate Portable External Hard Drive ($59.99)
 </ul>
 
 <div class="ncg-amazon-box" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0316410311?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Law of Public Communication ($45.00)</a> - A comprehensive guide to understanding defamation, free speech, and legal boundaries in public discourse.
+  <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0316410311?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Law of Public Communication </a> - A comprehensive guide to understanding defamation, free speech, and legal boundaries in public discourse.
 </div>
 </section>
 
@@ -110,14 +110,14 @@ Seagate Portable External Hard Drive ($59.99)
 <p>When political power clashes with moral accountability, it often forces observers to reflect on timeless principles of honesty and leadership. In biblical literature, integrity is framed not merely as a political asset, but as the foundational bedrock of a stable community. Proverbs 10:9 reminds us: "Whoever walks in integrity walks securely, but he who makes his ways crooked will be found out."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>This incident invites us to consider how easily the pursuit of influence can cloud moral judgment. Whether in Washington boardrooms or local primary races, Scripture reminds leaders that transparency and truth-telling carry enduring value. "An honest witness tells the truth, but a false witness tells lies" (Proverbs 12:17). While political campaigns are inherently combative, the underlying human desire for trustworthy leadership remains a universal constant that no endorsement can manufacture.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -132,7 +132,7 @@ Seagate Portable External Hard Drive ($59.99)
 </ul>
 
 <div class="ncg-amazon-box" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Righteous Mind: Why Good People Are Divided by Politics and Religion ($16.99)</a> - A profound exploration of the psychology behind political beliefs and moral judgment.
+  <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Righteous Mind: Why Good People Are Divided by Politics and Religion </a> - A profound exploration of the psychology behind political beliefs and moral judgment.
 </div>
 </section>
 

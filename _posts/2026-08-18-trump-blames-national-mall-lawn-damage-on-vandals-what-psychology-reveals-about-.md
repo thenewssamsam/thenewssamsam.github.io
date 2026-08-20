@@ -36,7 +36,7 @@ source_url: 'https://www.forbes.com/sites/siladityaray/2026/08/17/trump-blames-v
 <p>This latest social media post mirrors a previous controversy involving the Lincoln Memorial Reflecting Pool, where Trump claimed damage to the pool's newly renovated blue flooring was the result of deliberate vandalism. However, federal prosecutors dropped the criminal case after Department of the Interior evidence pointed instead to a flawed and rushed installation process. Despite the findings, Trump doubled down, publicly criticizing U.S. Attorney Jeanine Pirro for dropping the charges. While actual vandalism did occur nearby—such as an unrelated spray-painting incident at the World War II Memorial resulting in an arrest—the friction between official investigative findings and presidential claims highlights a familiar modern political dynamic.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -135,7 +135,7 @@ footer { margin-top: 2rem; font-size: 0.9rem; color: #666; border-top: 1px solid
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -143,7 +143,7 @@ footer { margin-top: 2rem; font-size: 0.9rem; color: #666; border-top: 1px solid
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -47,31 +47,31 @@ source_url: "https://www.nbcnews.com/politics/justice-department/doj-issues-gran
     <p>When two individuals with identical names occupy the same political space, it creates an immediate puzzle for voters trying to figure out who is who. In an era where digital search results, social media profiles, and ballot names can easily blur together, name duplication stops being a mere coincidence and turns into an administrative nightmare. Federal investigators are now digging deeper into the mechanics and motivations behind this unusual race.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div class="ncg-amazon-rec">
-      Recommended Resource: <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Amazon eero Pro 6E Mesh Wi-Fi System</a> - $199.99. Secure your home digital network and manage family online safety effectively.
+      Recommended Resource: <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Amazon eero Pro 6E Mesh Wi-Fi System</a> - . Secure your home digital network and manage family online safety effectively.
     </div>
 
     <h2 id="family-perspective">A Parenting Perspective: Managing Digital Identity and Clear Communication</h2>
     <p>It is a long leap from a federal grand jury subpoena in an Alaskan Senate race to the dinner table at home. Yet, at its core, this story is about brand confusion, digital footprint management, and the importance of clear communication. In our digital lives, kids, teens, and parents alike navigate a world where handles, usernames, and public profiles often get mixed up.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>How often do we talk to our children about how their online footprint represents them? Just as voters in Alaska are struggling to distinguish between two candidates with the exact same name, college admissions officers, future employers, and peers frequently struggle to separate individuals with common names online. Teaching young people how to curate a distinct, honest, and clear personal identity online is an essential modern life skill.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div class="ncg-amazon-rec">
-      Recommended Resource: <a href="https://www.amazon.com/dp/B07ZPKF8RG?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Echo Dot (5th Gen) Smart Speaker with Alexa</a> - $49.99. Great for family organization, setting reminders, and managing daily routines together.
+      Recommended Resource: <a href="https://www.amazon.com/dp/B07ZPKF8RG?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Echo Dot (5th Gen) Smart Speaker with Alexa</a> - . Great for family organization, setting reminders, and managing daily routines together.
     </div>
 
     <div class="ncg-quote-box">
@@ -81,38 +81,38 @@ Tactical Waterproof Backpack ($35.99)
     <p>Furthermore, this bizarre political duel offers a natural opening to discuss the value of transparency with teenagers. When things become murky or confusing in public life, it prompts us to ask: Are we clear about who we are and what we stand for in our own communities? Guiding kids to be unambiguous in their digital communications helps prevent misunderstandings before they ever spiral into something larger.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <div class="ncg-amazon-rec">
-      Recommended Resource: <a href="https://www.amazon.com/dp/B08V57X7CZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Fujifilm Instax Mini 11 Instant Camera</a> - $76.95. Encourage offline family memories and tangible keepsakes away from confusing screens.
+      Recommended Resource: <a href="https://www.amazon.com/dp/B08V57X7CZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Fujifilm Instax Mini 11 Instant Camera</a> - . Encourage offline family memories and tangible keepsakes away from confusing screens.
     </div>
 
     <h2 id="biblical-reflection">A Reflection on Truth and Wisdom</h2>
     <p>This situation also brings to mind the timeless value of walking in truth and clarity. Scripture reminds us of the importance of living transparently so that our intentions are never misunderstood. Proverbs 11:3 tells us, <q>The integrity of the upright guides them, but the unfaithfulness of the crooked destroys them.</q></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>While the complexities of political investigations go far beyond our daily family routines, this verse invites us to consider how we model integrity in our own spheres. When confusion arises in our workplaces, schools, or communities, choosing clear, honest communication is often the best antidote.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <div class="ncg-amazon-rec">
-      Recommended Resource: <a href="https://www.amazon.com/dp/1433562693?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">ESV Study Bible, TruTone, Brown</a> - $45.49. Deepen your family's daily scripture reading with helpful maps, notes, and commentary.
+      Recommended Resource: <a href="https://www.amazon.com/dp/1433562693?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">ESV Study Bible, TruTone, Brown</a> - . Deepen your family's daily scripture reading with helpful maps, notes, and commentary.
     </div>
 
     <h2 id="how-families-respond">How Should Families Respond?</h2>
     <p>Instead of panicking over headlines or complex legal battles, parents can use news stories like the Alaska Senate subpoena saga to spark meaningful conversations around the house:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <ul>
@@ -122,7 +122,7 @@ Tactical Waterproof Backpack ($35.99)
     </ul>
 
     <div class="ncg-amazon-rec">
-      Recommended Resource: <a href="https://www.amazon.com/dp/0316769487?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Catcher in the Rye by J.D. Salinger</a> - $9.99. A classic coming-of-age novel to read and discuss together about identity and growing up.
+      Recommended Resource: <a href="https://www.amazon.com/dp/0316769487?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Catcher in the Rye by J.D. Salinger</a> - . A classic coming-of-age novel to read and discuss together about identity and growing up.
     </div>
 
     <h2 id="faq">Frequently Asked Questions</h2>

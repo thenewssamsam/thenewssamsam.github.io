@@ -36,10 +36,10 @@ source_url: 'https://media.amtrak.com/2026/08/amtrak-completes-first-phase-of-ea
   <section id="what-happened">
     <h2>What Happened: Inside the East River Tunnel Project</h2>
     <p>Opening originally in 1910, the East River Tunnel stands as one of the busiest passenger rail transit conduits in the Western Hemisphere. Every single day, approximately 450 trains operated by Amtrak, LIRR, and NJ Transit pass through its tubes, connecting New York City to points across Long Island, New Jersey, and the broader Northeast corridor.</p>
-    <p>However, the passage of time and severe weather took a heavy toll. More than a decade ago, Superstorm Sandy flooded the century-old tunnels with roughly 14 million gallons of corrosive salt water, severely degrading interior systems. The $1.6 billion rehabilitation initiative addresses these structural wounds head-on.</p>
+    <p>However, the passage of time and severe weather took a heavy toll. More than a decade ago, Superstorm Sandy flooded the century-old tunnels with roughly 14 million gallons of corrosive salt water, severely degrading interior systems. The  billion rehabilitation initiative addresses these structural wounds head-on.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
     <p>Over the past year of intensive construction in Line 2, work crews completely gutted and reconstructed the deteriorated infrastructure. The massive overhaul involved stripping away and replacing:</p>
@@ -67,7 +67,7 @@ Seagate Portable External Hard Drive ($59.99)
 
   <section id="workforce-impact">
     <h2>The Modern Engineering Workforce and Logistics Challenge</h2>
-    <p>Executing a $1.6 billion megaproject on time and within budget—as Amtrak and its partner agencies (including the MTA, LIRR, and NJ Transit) have achieved so far—demands exceptional inter-agency coordination. Historically, fragmented jurisdiction between federal, state, and municipal transit agencies created severe friction for major capital works.</p>
+    <p>Executing a  billion megaproject on time and within budget—as Amtrak and its partner agencies (including the MTA, LIRR, and NJ Transit) have achieved so far—demands exceptional inter-agency coordination. Historically, fragmented jurisdiction between federal, state, and municipal transit agencies created severe friction for major capital works.</p>
     <p>The successful reopening of Line 2 proves that collaborative governance models work when paired with reliable federal funding, such as the grants administered by the Federal Railroad Administration. Leaders from federal, state, and labor sectors—including MTA Chair Janno Lieber and various regional rail executives—emphasized that seamless institutional cooperation is now a baseline requirement for modern transit upgrades.</p>
     <p>For workforce planners, the challenge moving forward is not just securing capital funding, but cultivating enough trained specialists to execute multiple overlapping megaprojects simultaneously. With projects like the Hudson Tunnel Project, the Portal North Bridge upgrade, and the Penn Station Access initiatives moving forward concurrently, the demand for skilled labor in the New York metropolitan region remains exceptionally high.</p>
   </section>
@@ -176,7 +176,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -184,7 +184,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

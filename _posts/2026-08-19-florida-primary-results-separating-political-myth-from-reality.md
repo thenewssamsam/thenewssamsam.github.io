@@ -28,7 +28,7 @@ source_url: "https://apnews.com/article/florida-primaries-donald-trump-wasserman
       <p><strong>Fact:</strong> While Donald Trump’s influence remains significant in Florida, it is not absolute. U.S. Rep. Byron Donalds, who secured the GOP nomination for governor, noted that while the former president’s backing is strong, it is not "determinative." The loss of incumbent Rep. Cory Mills—who was notably absent from Trump’s final endorsement list—further suggests that local factors and candidate-specific controversies play a substantial role in primary outcomes.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -38,7 +38,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p><strong>Fact:</strong> The nomination of David Jolly, a former Republican, as the Democratic candidate for governor challenges the assumption that voters strictly adhere to partisan history. Some voters, like Port St. Lucie retiree Rich Chamberlin, indicated that opposition from attack ads actually increased their support for Jolly, demonstrating that voter behavior is often reactive to campaign tactics rather than just candidate pedigree.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -48,13 +48,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>As I reflect on these political shifts, I am reminded that our true security is never found in human leaders or party platforms. It is easy to get swept up in the fervor of an election cycle, but the Bible encourages a different focus. <em>"Do not put your trust in princes, in human beings, who cannot save"</em> (Psalm 146:3, NIV).</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>This does not mean we should ignore our civic duties; rather, it invites us to consider our motivations. Are we acting out of fear, or out of a genuine desire to seek justice and truth? When we place our ultimate hope in political outcomes, we are often left anxious and divided. Instead, we can find peace by remembering that God’s sovereignty remains constant, regardless of which name is on the ballot. As we navigate this season, let us strive to be people of integrity who value truth over tribalism.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -77,7 +77,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Florida’s primary results prove that the state’s political landscape is fluid. Whether it is the rise of new candidates or the shifting demographics of congressional districts, the only constant is the power of the individual voter to look past the noise and make an informed decision. Stay curious, stay skeptical of easy narratives, and stay involved.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

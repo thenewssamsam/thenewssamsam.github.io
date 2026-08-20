@@ -24,7 +24,7 @@ source_url: "https://fox17.com/news/local/federal-prosecutors-appeal-kilmar-abre
   <p>Defense attorneys swiftly moved to dismiss the indictment, arguing that the federal government was engaging in vindictive prosecution—essentially claiming that officials pursued criminal charges merely to retaliate against Abrego Garcia for successfully challenging his unlawful deportation. U.S. District Judge Waverly Crenshaw agreed, dismissing the indictment based on a presumption of vindictive prosecution. Now, the U.S. Attorney's Office for the Middle District of Tennessee has formally filed its opening brief with the U.S. Court of Appeals for the Sixth Circuit, arguing that the lower court overstepped its bounds and that the prosecution was built on legitimate evidence rather than retaliation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -32,19 +32,19 @@ Seagate Portable External Hard Drive ($59.99)
   <p>From a legal rights standpoint, the core dispute in the Abrego Garcia appeal is not about whether the underlying allegations are true. As criminal law experts note, a claim of vindictive prosecution is a constitutional defense rooted in the Due Process Clause of the Fifth Amendment.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   <p>The law generally grants the executive branch immense discretion to decide who gets prosecuted and when. Prosecutors argue that career attorneys evaluated the evidence from the 2022 traffic stop and concluded there was proof beyond a reasonable doubt, meaning the decision to indict was driven by standard law enforcement objectives rather than malice or retaliation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   <p>However, constitutional protections exist to ensure that citizens are not penalized by the state simply for exercising their legal rights. When a defendant successfully challenges government action—such as fighting an unlawful deportation—and is subsequently hit with new criminal charges, the law recognizes a potential "presumption of vindictiveness" if the timing and circumstances suggest retaliation. Judge Crenshaw applied this principle to dismiss the indictment, signaling concern that the state's heavy machinery was being turned against an individual because he successfully asserted his rights in immigration court.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   
@@ -52,7 +52,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>&ldquo;Constitutional due process guarantees that citizens can challenge government overreach without fearing retaliatory criminal charges.&rdquo;</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>
@@ -60,7 +60,7 @@ Seagate Portable External Hard Drive ($59.99)
   <p>The government's appeal warns of a slippery slope. Prosecutors contend that if lower courts can dismiss indictments based largely on judicial speculation about executive motivations, it improperly infringes on the separation of powers. The Sixth Circuit must now decide where the boundary lies: how much scrutiny can a federal judge apply to a prosecutor's motives before crossing into executive territory?</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -68,7 +68,7 @@ Seagate Portable External Hard Drive ($59.99)
   <p>Situations involving high-stakes legal battles and questions of fairness often prompt deeper reflection on justice and human accountability. Watching powerful institutions grapple with error and authority is a reminder of the inherent complexities of earthly systems. One is reminded of the biblical principle emphasizing fair weights and impartial judgment, as found in Proverbs 16:11: "Honest balances and scales are the Lord's; all the weights in the bag are his work." This ancient wisdom points to a timeless human desire for standards of justice that remain upright, transparent, and free from personal or institutional retaliation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -76,7 +76,7 @@ Seagate Portable External Hard Drive ($59.99)
   <p>While high-profile federal appellate cases can feel distant from daily life, they highlight principles of accountability that affect every citizen:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   <ul>
@@ -89,7 +89,7 @@ Tactical Waterproof Backpack ($35.99)
     <p><em>This is general information, not legal advice. Consult a licensed attorney about your specific situation.</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>

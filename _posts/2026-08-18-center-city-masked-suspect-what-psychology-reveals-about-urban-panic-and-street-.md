@@ -25,7 +25,7 @@ source_url: 'https://6abc.com/post/masked-suspect-accused-terrorizing-women-cent
 <p>According to Philadelphia police, the string of alarming incidents unfolded during morning commuting hours in the heart of Center City. Surveillance video released by investigators captures a masked man relentlessly chasing a woman jogging near City Hall at approximately 5:30 a.m. on a Wednesday.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>During the pursuit, the suspect held his cell phone in front of the startled runner and asked a chilling question: <em>&quot;Are you ready to die?&quot;</em></p>
@@ -99,7 +99,7 @@ The use of a mask combined with holding a cell phone directly in a victim's face
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -107,7 +107,7 @@ The use of a mask combined with holding a cell phone directly in a victim's face
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

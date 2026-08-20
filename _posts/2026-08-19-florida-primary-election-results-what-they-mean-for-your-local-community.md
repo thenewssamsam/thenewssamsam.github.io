@@ -24,16 +24,16 @@ source_url: "https://www.fox35orlando.com/news/florida-primary-election-result-2
     <p>Florida voters headed to the polls to decide which candidates will advance to the general election in November. These primaries are the critical "first cut," narrowing the field for high-profile positions and essential state-level roles. Whether you are in Orange, Seminole, or Volusia County, these results determine the political trajectory of your immediate surroundings.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>
 
   <div class="ncg-product" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Stay informed on the go:</strong> <a href="#">Portable Power Bank for Long Election Days - $29.99</a></p>
+    <p><strong>Stay informed on the go:</strong> <a href="#">Portable Power Bank for Long Election Days - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </div>
@@ -43,7 +43,7 @@ Crevice Cleaning Brush Set ($12.99)
     <p>It is easy to view election results as distant numbers on a screen, but local community impact is profound. When we look at state Senate and House contests, we are seeing the selection of individuals who will draft bills affecting local zoning, education funding, and community safety.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     
@@ -54,7 +54,7 @@ Crevice Cleaning Brush Set ($12.99)
     <p>Consider the infrastructure in your own county. Decisions made by state representatives directly influence how your local tax dollars are allocated for road repairs, public parks, and emergency services. A primary result today dictates the options you have on your ballot in November, effectively setting the agenda for your community for the next several years.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>
@@ -64,16 +64,16 @@ Crevice Cleaning Brush Set ($12.99)
     <p>In the midst of political uncertainty, I am reminded of the call to be faithful stewards of our society. The Bible encourages us to seek the welfare of the city where we dwell (Jeremiah 29:7). This reminds us that participating in our community—whether through voting or engaging with neighbors—is an act of service. Proverbs 29:2 also notes, "When the righteous are in authority, the people rejoice." While we may not always see the outcomes we hope for, we are invited to pray for those in leadership and continue acting with integrity in our own spheres of influence.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>
 
   <div class="ncg-product" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Keep your home office organized:</strong> <a href="#">Desk Organizer for Important Documents - $19.99</a></p>
+    <p><strong>Keep your home office organized:</strong> <a href="#">Desk Organizer for Important Documents - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </div>

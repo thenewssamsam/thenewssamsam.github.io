@@ -113,7 +113,7 @@ source_url: "https://www.nbcnews.com/news/us-news/penn-state-agostino-abbatiello
 <p>When sending a child off to college, parents usually worry about midterms, homesickness, and late-night study sessions. Rarely do families prepare for headlines involving underground campus drug empires. Yet the recent case of Agostino Abbatiello, an accounting major and fraternity brother alleged by authorities to be Penn State's largest drug dealer, has sent shockwaves through university communities and forced families to confront an uncomfortable reality: campus crime and modern illicit networks can touch any student body.</p>
 
 <div class="ncg-amazon-box">
-    Recommended Resource: <a href="https://www.amazon.com/dp/B07X8V796L?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Campus Green: A Parent's Guide to College Safety and Student Well-being</a> - $18.99
+    Recommended Resource: <a href="https://www.amazon.com/dp/B07X8V796L?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Campus Green: A Parent's Guide to College Safety and Student Well-being</a> - 
 </div>
 
 <h2 id="what-happened">What Happened in the Penn State Investigation?</h2>
@@ -123,12 +123,12 @@ source_url: "https://www.nbcnews.com/news/us-news/penn-state-agostino-abbatiello
 <p>While investigations continue and legal proceedings unfold, the sheer scale of the alleged operation has stunned administrators and parents alike. It highlights how seamlessly illicit enterprises can embed themselves within standard student life, utilizing familiar campus networks, social circles, and digital communication tools to facilitate dangerous activities right under our noses.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <div class="ncg-amazon-box">
-    Recommended Tool: <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Anker Portable Charger Power Bank for College Students</a> - $29.99
+    Recommended Tool: <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Anker Portable Charger Power Bank for College Students</a> - 
 </div>
 
 <h2 id="parenting-perspective">A Parenting & Family Perspective: Looking Beyond the Surface</h2>
@@ -136,14 +136,14 @@ Tactical Waterproof Backpack ($35.99)
 <p>As parents, seeing a bright college student with a seemingly normal academic and social profile accused of leading a major criminal enterprise naturally triggers profound anxiety. How does a young adult move from studying debits and credits to orchestrating a campus drug network? Psychologists and parenting experts remind us that sudden shifts in behavior often stem from a complex mix of peer pressure, financial stress, the illusion of invincibility, and the rapid expansion of modern digital marketplaces.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>College is a time of immense transition. Young adults are experimenting with independence, often while managing unprecedented academic loads and complex social dynamics within fraternities and peer groups. When oversight drops away, vulnerable or ambitious students can easily rationalize high-risk behaviors.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -152,7 +152,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 
 <div class="ncg-amazon-box">
-    Recommended Reading: <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Yes Brain: How to Cultivate Courage, Curiosity, and Resilience in Your Child</a> - $16.99
+    Recommended Reading: <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Yes Brain: How to Cultivate Courage, Curiosity, and Resilience in Your Child</a> - 
 </div>
 
 <h2 id="biblical-reflection">Wisdom and Moral Choices</h2>
@@ -160,12 +160,12 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Incidents like this also prompt a deeper moral reflection on the paths young people choose when temptation and opportunity intersect. In moments of immense pressure, the choices we make ripple far beyond our immediate circle. One timeless proverb reminds us of the hidden dangers of walking down compromised paths: <em>"The integrity of the upright guides them, but the unfaithfulness of the crooked destroys them"</em> (Proverbs 11:3). This serves as a gentle reminder to encourage our children to anchor their decisions in strong core values, even when the temptations of independence and peer approval loom large.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="ncg-amazon-box">
-    Recommended Book: <a href="https://www.amazon.com/dp/0310345324?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry by John Mark Comer</a> - $15.99
+    Recommended Book: <a href="https://www.amazon.com/dp/0310345324?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry by John Mark Comer</a> - 
 </div>
 
 <h2 id="how-parents-should-respond">How Should Parents Respond?</h2>
@@ -173,7 +173,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Rather than reacting with panic or draconian surveillance, parents can use news events like this to open constructive, non-judgmental dialogues with their college-aged children:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -185,7 +185,7 @@ Tactical Waterproof Backpack ($35.99)
 </ul>
 
 <div class="ncg-amazon-box">
-    Recommended Journal: <a href="https://www.amazon.com/dp/0593233514?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Five Minute Journal: A Happier in 5 Minutes a Day</a> - $29.00
+    Recommended Journal: <a href="https://www.amazon.com/dp/0593233514?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Five Minute Journal: A Happier in 5 Minutes a Day</a> - 
 </div>
 
 <h2 id="faq">Frequently Asked Questions</h2>
@@ -196,7 +196,7 @@ Tactical Waterproof Backpack ($35.99)
         <p>Involved individuals face severe felony charges, including drug trafficking, conspiracy, and intent to distribute, which carry lengthy prison sentences and permanent criminal records that end professional careers.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </details>
@@ -205,7 +205,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p>Warning signs include sudden, unexplained financial windfalls, secretive behavior, drastic changes in academic performance, withdrawal from family communication, and new associations with high-risk peer groups.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </details>

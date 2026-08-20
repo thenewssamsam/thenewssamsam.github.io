@@ -34,10 +34,10 @@ source_url: 'https://fortune.com/2026/08/16/berkshire-hathaway-homebuilder-lenna
 <section id="what-happened">
 <h2>What Happened: The Q2 Portfolio Shift</h2>
 <p>When Berkshire Hathaway adjusts its equity portfolio, Wall Street pays attention. The conglomerate's latest regulatory filing reveals a striking reallocation of capital under CEO Greg Abel, who took the helm at the start of the year while Warren Buffett remains chairman. During the April-June quarter, Berkshire dramatically doubled down on its tech ambitions with Alphabet, aggressively expanded its footprint in the U.S. homebuilding sector, and continued pulling back from traditional banking and consumer staples.</p>
-<p>The headline-grabber is Berkshire's deepening commitment to residential real estate and construction. The conglomerate increased its stake in Lennar by nearly 30% in the second quarter, established a fresh position in D.R. Horton, and completed a $6.8 billion buyout of Taylor Morrison in July. At the same time, Berkshire pruned its financial holdings—slashing Capital One shares by 58% and trimming stakes in Bank of America and Ally Financial—while liquidating its entire position in beverage maker Constellation Brands.</p>
+<p>The headline-grabber is Berkshire's deepening commitment to residential real estate and construction. The conglomerate increased its stake in Lennar by nearly 30% in the second quarter, established a fresh position in D.R. Horton, and completed a  billion buyout of Taylor Morrison in July. At the same time, Berkshire pruned its financial holdings—slashing Capital One shares by 58% and trimming stakes in Bank of America and Ally Financial—while liquidating its entire position in beverage maker Constellation Brands.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -53,7 +53,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>"When a multi-billion-dollar conglomerate pivots hard toward physical assets and infrastructure, it is a masterclass in reading long-term supply constraints over short-term market noise."</p>
 </div>
 
-<p>Meanwhile, the expanded $37.76 billion stake in Alphabet—bolstered by a $10 billion stock commitment agreed to in June—underscores a different financial reality: the staggering capital expenditure required to build out artificial intelligence infrastructure. Alphabet's plans to raise $80 billion for computing power require partners with fortress-like balance sheets. Berkshire has the cash to fund these capital-intensive bets while demanding operational efficiency.</p>
+<p>Meanwhile, the expanded  billion stake in Alphabet—bolstered by a  billion stock commitment agreed to in June—underscores a different financial reality: the staggering capital expenditure required to build out artificial intelligence infrastructure. Alphabet's plans to raise  billion for computing power require partners with fortress-like balance sheets. Berkshire has the cash to fund these capital-intensive bets while demanding operational efficiency.</p>
 </section>
 
 <section id="broader-market">
@@ -157,7 +157,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -165,7 +165,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

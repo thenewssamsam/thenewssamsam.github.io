@@ -35,7 +35,7 @@ source_url: "https://www.bbc.com/news/articles/cnvn0j31qj8o"
 
   <div class="ncg-product-card" style="border-left: 4px solid #d97706; background: #fef3c7; padding: 15px; margin: 20px 0; border-radius: 6px;">
     <p style="margin: 0 0 8px 0; font-weight: bold; color: #92400e;">Recommended Essential: Emergency Preparedness Kit</p>
-    <p style="margin: 0 0 10px 0; font-size: 14px; color: #78350f;">Stay prepared for local community emergencies and severe weather disruptions with a reliable, comprehensive survival kit. Price: $49.99</p>
+    <p style="margin: 0 0 10px 0; font-size: 14px; color: #78350f;">Stay prepared for local community emergencies and severe weather disruptions with a reliable, comprehensive survival kit. </p>
     <a href="https://www.amazon.com/dp/B074P4WK73?tag=thenewssam-20" target="_blank" rel="nofollow noopener" style="color: #b45309; font-weight: bold; text-decoration: underline;">View on Amazon</a>
   </div>
 
@@ -43,13 +43,13 @@ source_url: "https://www.bbc.com/news/articles/cnvn0j31qj8o"
   <p>When international defense pacts wobble, the impact is intensely local. In towns adjacent to major military bases, the rhythm of daily life is deeply intertwined with alliance readiness. Local business owners, families of service members, and civic leaders in South Korea view these joint exercises not merely as diplomatic maneuvers, but as a practical baseline for regional deterrence.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   <p>When Washington abruptly curtails exercises as leverage in unrelated global disputes—such as negotiations involving Iran or potential summits with Pyongyang—it creates a palpable sense of uncertainty on the ground. Citizens living near the demilitarized zone and major urban centers rely on predictable, steadfast deterrence to maintain economic stability and community confidence. Sudden shifts signal vulnerability, forcing local municipalities to question whether their daily security is being weighed against distant, shifting political priorities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -59,7 +59,7 @@ Tactical Waterproof Backpack ($35.99)
 
   <div class="ncg-product-card" style="border-left: 4px solid #d97706; background: #fef3c7; padding: 15px; margin: 20px 0; border-radius: 6px;">
     <p style="margin: 0 0 8px 0; font-weight: bold; color: #92400e;">Recommended Resource: Disaster Radio & Weather Alert</p>
-    <p style="margin: 0 0 10px 0; font-size: 14px; color: #78350f;">Keep your family informed with a hand-crank solar emergency weather radio. Price: $32.99</p>
+    <p style="margin: 0 0 10px 0; font-size: 14px; color: #78350f;">Keep your family informed with a hand-crank solar emergency weather radio. </p>
     <a href="https://www.amazon.com/dp/B07F93V7Q9?tag=thenewssam-20" target="_blank" rel="nofollow noopener" style="color: #b45309; font-weight: bold; text-decoration: underline;">View on Amazon</a>
   </div>
 
@@ -67,13 +67,13 @@ Tactical Waterproof Backpack ($35.99)
   <p>Navigating times of international tension and shifting alliances can easily stir anxiety in our local communities. This situation reminds us of the timeless wisdom found in Scripture regarding where we place our ultimate trust. Psalm 20:7 invites us to consider: <em>"Some trust in chariots and some in horses, but we trust in the name of the Lord our God."</em> While earthly alliances and defense pacts provide necessary order, true peace within our neighborhoods ultimately rests beyond the shifting whims of political leaders.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
   <div class="ncg-product-card" style="border-left: 4px solid #d97706; background: #fef3c7; padding: 15px; margin: 20px 0; border-radius: 6px;">
     <p style="margin: 0 0 8px 0; font-weight: bold; color: #92400e;">Recommended Book: Finding Peace in Troubled Times</p>
-    <p style="margin: 0 0 10px 0; font-size: 14px; color: #78350f;">Encouraging daily devotionals focused on maintaining calm and faith amidst global uncertainty. Price: $14.99</p>
+    <p style="margin: 0 0 10px 0; font-size: 14px; color: #78350f;">Encouraging daily devotionals focused on maintaining calm and faith amidst global uncertainty. </p>
     <a href="https://www.amazon.com/dp/B08N5K2V9H?tag=thenewssam-20" target="_blank" rel="nofollow noopener" style="color: #b45309; font-weight: bold; text-decoration: underline;">View on Amazon</a>
   </div>
 
@@ -81,7 +81,7 @@ Seagate Portable External Hard Drive ($59.99)
   <p>For residents and local leaders in regions affected by shifting geopolitical commitments, panic is neither productive nor warranted, but grounded awareness is essential. Communities can take several practical steps:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   <ul>
@@ -92,7 +92,7 @@ Tactical Waterproof Backpack ($35.99)
 
   <div class="ncg-product-card" style="border-left: 4px solid #d97706; background: #fef3c7; padding: 15px; margin: 20px 0; border-radius: 6px;">
     <p style="margin: 0 0 8px 0; font-weight: bold; color: #92400e;">Recommended Tool: Heavy-Duty Flashlight</p>
-    <p style="margin: 0 0 10px 0; font-size: 14px; color: #78350f;">High-lumen tactical LED flashlight for reliable household emergency lighting. Price: $24.99</p>
+    <p style="margin: 0 0 10px 0; font-size: 14px; color: #78350f;">High-lumen tactical LED flashlight for reliable household emergency lighting. </p>
     <a href="https://www.amazon.com/dp/B07XZT9K65?tag=thenewssam-20" target="_blank" rel="nofollow noopener" style="color: #b45309; font-weight: bold; text-decoration: underline;">View on Amazon</a>
   </div>
 

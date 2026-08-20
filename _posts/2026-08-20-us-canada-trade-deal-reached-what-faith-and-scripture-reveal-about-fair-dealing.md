@@ -41,13 +41,13 @@ source_url: 'https://www.aljazeera.com/economy/2026/8/19/us-and-canada-reach-ver
 <p>While trade representatives in both Washington and Ottawa continue finalizing the intricate documentation, the immediate easing of trade tensions offers a momentary sigh of relief for millions of workers, businesses, and families whose daily livelihoods depend on the smooth flow of goods across the world's longest undefended border.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
 
 <div style="background: #fff8e6; border-left: 4px solid #d4af37; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
-<strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/B07P9W587K?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b8860b; text-decoration: underline;">The Geneva Bible: 1599 Edition</a> ($34.99) — Explore historical Christian perspectives on economics, governance, and moral responsibility in society.
+<strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/B07P9W587K?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b8860b; text-decoration: underline;">The Geneva Bible: 1599 Edition</a>  — Explore historical Christian perspectives on economics, governance, and moral responsibility in society.
 </div>
 
 <section id="the-economic-stakes">
@@ -55,14 +55,14 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Behind the acronyms, policy briefings, and billions of dollars in traded goods lie real human communities. Nearly 72 percent of Canada's goods exports flow southward into the United States, meaning that any disruption in trade directly touches manufacturing plants, agricultural cooperatives, shipping logistics, and family dinner tables on both sides of the border.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <p>When trade relationships become strained by threats of heavy tariffs, anxiety ripples quickly through local economies. Farmers wonder about export markets, factory workers question job security, and consumers brace for rising prices on everyday goods. The recent brinkmanship serves as a reminder of how deeply interconnected modern nations have become—and how fragile peace and stability can feel when economic friction rises.</p>
 <p>Yet, moments of diplomatic crisis also create opportunities for renewed cooperation. As officials work through the finer details of vehicle content requirements and agricultural exemptions, the core challenge remains structural: how to build an economic framework that honors national interests while fostering mutual prosperity rather than division.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -72,7 +72,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>From a traditional biblical worldview, human commerce and government policy are not disconnected from spiritual reality. Throughout Scripture, God places a profound emphasis on honesty, equity, and the manner in which communities treat one another in economic transactions.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <p>When leaders negotiate trade pacts labeled "very fair," it invites us to consider what genuine fairness looks like from a higher standard. Proverbs 16:11 reminds us: <em>"A honest balance and scales are the Lord's; all the weights of the bag are his work."</em> This verse speaks to a foundational moral principle: economic systems function best when they are rooted in truth, transparency, and integrity rather than exploitation.</p>
@@ -84,13 +84,13 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Furthermore, international relationships mirror the timeless call to live at peace with our neighbors wherever possible. Nations do not exist in isolation. Just as individuals are called to seek the welfare of their communities, leaders carry a heavy responsibility to steward resources in a way that protects the vulnerable, encourages industriousness, and avoids unnecessary strife.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
 
 <div style="background: #fff8e6; border-left: 4px solid #d4af37; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
-<strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/B084W1G9Y2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b8860b; text-decoration: underline;">ESV Study Bible, LeatherTouch</a> ($49.99) — Deepen your understanding of scriptural wisdom regarding justice, community ethics, and daily stewardship.
+<strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/B084W1G9Y2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b8860b; text-decoration: underline;">ESV Study Bible, LeatherTouch</a>  — Deepen your understanding of scriptural wisdom regarding justice, community ethics, and daily stewardship.
 </div>
 
 <section id="scripture-and-human-choice">
@@ -98,25 +98,25 @@ Tactical Waterproof Backpack ($35.99)
 <p>As negotiations progress, it is easy to become caught up in the political theater of trade disputes. Headlines often magnify conflict, fear, and competition. Yet, moments of reconciliation remind us that cooperation is always a superior path to hostility.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <p>Reflecting on these global developments brings to mind the words of the Apostle Paul in Romans 12:18: <em>"If possible, so far as it depends on you, live peaceably with all."</em> While geopolitical negotiations involve complex national interests and competing economic pressures, the underlying goal of diplomacy should always mirror this pursuit of harmony and stability.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <p>When trade agreements succeed in lowering barriers and fostering mutual benefit, they create breathing room for families and communities to flourish. They remind us that human ingenuity, when guided by a desire for fairness, can overcome division.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
 
 <div style="background: #fff8e6; border-left: 4px solid #d4af37; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
-<strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/1598561634?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b8860b; text-decoration: underline;">The Complete Works of Josephus</a> ($29.95) — Gain valuable historical context on ancient Near Eastern economics, trade routes, and geopolitical relations.
+<strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/1598561634?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b8860b; text-decoration: underline;">The Complete Works of Josephus</a>  — Gain valuable historical context on ancient Near Eastern economics, trade routes, and geopolitical relations.
 </div>
 
 <section id="how-should-christians-respond">
@@ -124,7 +124,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>For believers observing international news, political headlines can easily provoke anxiety or partisan frustration. However, Scripture encourages a grounded, prayerful response:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <ul>
@@ -136,7 +136,7 @@ Tactical Waterproof Backpack ($35.99)
 </section>
 
 <div style="background: #fff8e6; border-left: 4px solid #d4af37; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
-<strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/0310452391?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b8860b; text-decoration: underline;">NIV Life Application Study Bible</a> ($39.99) — Practical guidance for applying timeless biblical truths to modern economic and social challenges.
+<strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/0310452391?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b8860b; text-decoration: underline;">NIV Life Application Study Bible</a>  — Practical guidance for applying timeless biblical truths to modern economic and social challenges.
 </div>
 
 <section id="conclusion">
@@ -144,7 +144,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>The US-Canada trade agreement offers a welcome reminder that dialogue can bridge divides and avert unnecessary conflict. As we navigate an ever-changing economic landscape, let us remember that true security is found not in protective barriers alone, but in mutual trust, honest stewardship, and peace.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 

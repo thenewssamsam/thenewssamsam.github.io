@@ -20,7 +20,7 @@ source_url: "https://www.usatoday.com/story/news/politics/2026/08/17/president-t
 
   <section id="news-context">
     <h2>The Current Political Landscape</h2>
-    <p>The recent polling data released on August 17 highlights a significant shift in public sentiment. With 80% of Americans expressing concern that the conflict in Iran will last for an "extended period," the administration faces intense scrutiny. The economic fallout, specifically the surge in gas prices to an average of $4.06 per gallon, has become a focal point for voters who are increasingly skeptical of the administration’s foreign policy trajectory.</p>
+    <p>The recent polling data released on August 17 highlights a significant shift in public sentiment. With 80% of Americans expressing concern that the conflict in Iran will last for an "extended period," the administration faces intense scrutiny. The economic fallout, specifically the surge in gas prices to an average of  per gallon, has become a focal point for voters who are increasingly skeptical of the administration’s foreign policy trajectory.</p>
   </section>
 
   <section id="legal-rights-explainer">
@@ -28,13 +28,13 @@ source_url: "https://www.usatoday.com/story/news/politics/2026/08/17/president-t
     <p><em>This is general information, not legal advice. Consult a licensed attorney about your specific situation.</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>When the President of the United States makes threats regarding military action, citizens often ask: What are the legal constraints on such power? The U.S. Constitution provides a framework of "checks and balances" that governs how the executive branch interacts with foreign nations and military operations.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -42,7 +42,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The War Powers Resolution of 1973 was designed to limit the president's ability to commit U.S. forces to an armed conflict without the consent of Congress. While the president acts as Commander-in-Chief, the power to declare war rests solely with the legislative branch. In practice, presidents often cite their authority to protect national interests, but this remains a subject of intense legal debate.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -50,7 +50,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Congress maintains several tools to check executive overreach, including the power of the purse (funding limitations) and the power of impeachment. These mechanisms ensure that the executive branch remains accountable to the public and the law. When a president threatens action against an ally, it tests the limits of diplomatic immunity and treaty obligations under international law.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -63,13 +63,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In times of national anxiety and political volatility, it is easy to feel overwhelmed by the weight of the news. I am reminded of the wisdom found in Proverbs 21:1: <em>"The king's heart is a stream of water in the hand of the Lord; he turns it wherever he will."</em> This verse invites us to consider that while human leaders hold significant earthly power, they are ultimately subject to a higher sovereignty. It is a humble reminder to pray for those in authority, not because we agree with every policy, but because the stability of our nation and the lives of many depend on wise, righteous leadership.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Another reflection comes from Micah 6:8, which instructs us: <em>"He has told you, O man, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?"</em> Even when the world feels chaotic, our personal mandate remains one of integrity and peace-seeking.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

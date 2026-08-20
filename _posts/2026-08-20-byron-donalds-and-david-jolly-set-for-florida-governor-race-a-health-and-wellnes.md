@@ -38,12 +38,12 @@ source_url: "https://www.nbcnews.com/politics/2026-election/republican-byron-don
 
   <section id="what-happened">
     <h2>What Happened in the Florida Primary?</h2>
-    <p>Florida primary voters delivered expected victories on both sides of the aisle, kicking off a general election battle to succeed term-limited Governor Ron DeSantis. Republican Rep. Byron Donalds secured his party's nomination after a crowded and at times fiercely personal primary contest featuring roughly $100 million in spending and heavy attention following an endorsement from President Donald Trump.</p>
+    <p>Florida primary voters delivered expected victories on both sides of the aisle, kicking off a general election battle to succeed term-limited Governor Ron DeSantis. Republican Rep. Byron Donalds secured his party's nomination after a crowded and at times fiercely personal primary contest featuring roughly  million in spending and heavy attention following an endorsement from President Donald Trump.</p>
     
     <p>On the Democratic side, former Republican-turned-Democrat David Jolly won his primary with nominal opposition, positioning himself as a moderate candidate. The upcoming general election serves as a pivotal test for whether Florida remains a reliably red state under Republican dominance or if Democrats can rebuild after eight years of the DeSantis administration.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -51,7 +51,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p>"The constant exposure to high-conflict political messaging can trigger chronic stress responses, making it essential to protect our mental and emotional boundaries."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -62,26 +62,26 @@ Tactical Waterproof Backpack ($35.99)
     <p>When major elections dominate the news cycle for months on end, the human nervous system absorbs a steady stream of perceived threats, urgency, and division. Psychologists note that constant exposure to aggressive campaign rhetoric can elevate cortisol levels, disrupt sleep, and strain personal relationships among neighbors and family members who hold opposing views.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>In a diverse state like Florida, where political stakes feel intensely personal to many residents, finding a healthy balance between civic engagement and emotional preservation is critical. Chronic political stress does not just affect our mood; it can erode our patience, weaken our focus, and diminish our overall quality of life if left unmanaged.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <!-- Amazon Product 1 -->
     <div class="amazon-recommendation-box" style="border-left: 4px solid #f0c14b; background-color: #f8f9fa; padding: 12px 15px; margin: 20px 0; border-radius: 4px;">
-      <p style="margin: 0; font-size: 15px;"><strong>Recommended for Calm:</strong> <a href="https://www.amazon.com/dp/B07ZPC9W35?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Weighted Blanket for Stress Relief & Better Sleep</a> - Designed to soothe the nervous system during high-stress news cycles ($39.99).</p>
+      <p style="margin: 0; font-size: 15px;"><strong>Recommended for Calm:</strong> <a href="https://www.amazon.com/dp/B07ZPC9W35?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Weighted Blanket for Stress Relief & Better Sleep</a> - Designed to soothe the nervous system during high-stress news cycles .</p>
     </div>
 
     <p>Furthermore, navigating heated discussions within local communities requires emotional intelligence. Recognizing when a conversation has crossed from constructive debate into draining hostility allows individuals to step back and protect their mental energy.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -91,14 +91,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Health and wellness extend beyond individual self-care into the health of our local neighborhoods. When statewide political races become deeply divisive, communities often experience fractures in social trust. Rebuilding that trust requires intentional effort to connect with neighbors on a human level rather than through a political lens.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>Scripture reminds us of the value of peaceable living and gentle speech in maintaining communal health:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -106,7 +106,7 @@ Tactical Waterproof Backpack ($35.99)
       <p>"If possible, so far as it depends on you, live peaceably with all." — <strong>Romans 12:18 (ESV)</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
       <p class="hw-scripture-reflection">This timeless guidance invites us to examine our own responses to conflict, encouraging us to foster environments of grace, patience, and mutual respect even when societal pressures push us toward division.</p>
@@ -114,13 +114,13 @@ Seagate Portable External Hard Drive ($59.99)
 
     <!-- Amazon Product 2 -->
     <div class="amazon-recommendation-box" style="border-left: 4px solid #f0c14b; background-color: #f8f9fa; padding: 12px 15px; margin: 20px 0; border-radius: 4px;">
-      <p style="margin: 0; font-size: 15px;"><strong>Mindfulness Essential:</strong> <a href="https://www.amazon.com/dp/B07X8V3H4Q?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Aromatherapy Essential Oil Diffuser & Humidifier</a> - Create a calming, restorative sanctuary at home away from campaign noise ($24.99).</p>
+      <p style="margin: 0; font-size: 15px;"><strong>Mindfulness Essential:</strong> <a href="https://www.amazon.com/dp/B07X8V3H4Q?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Aromatherapy Essential Oil Diffuser & Humidifier</a> - Create a calming, restorative sanctuary at home away from campaign noise .</p>
     </div>
 
     <p>By prioritizing community well-being, residents can ensure that local relationships remain strong and supportive regardless of which candidate ultimately wins the governor's office.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -130,7 +130,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>To stay informed without sacrificing your peace of mind during the upcoming months of the Florida gubernatorial campaign, consider implementing a few practical boundary-setting strategies:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -143,7 +143,7 @@ Seagate Portable External Hard Drive ($59.99)
 
     <!-- Amazon Product 3 -->
     <div class="amazon-recommendation-box" style="border-left: 4px solid #f0c14b; background-color: #f8f9fa; padding: 12px 15px; margin: 20px 0; border-radius: 4px;">
-      <p style="margin: 0; font-size: 15px;"><strong>Daily Reflection Journal:</strong> <a href="https://www.amazon.com/dp/B0852V6Y9G?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Five Minute Journal: A Happier You in 5 Minutes a Day</a> - Cultivate gratitude and mental clarity amidst a busy news climate ($29.99).</p>
+      <p style="margin: 0; font-size: 15px;"><strong>Daily Reflection Journal:</strong> <a href="https://www.amazon.com/dp/B0852V6Y9G?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Five Minute Journal: A Happier You in 5 Minutes a Day</a> - Cultivate gratitude and mental clarity amidst a busy news climate .</p>
     </div>
 
     <p><em>Note: This is general information, not medical advice. If you experience persistent anxiety or overwhelming stress related to current events, consider consulting a licensed mental health professional.</em></p>

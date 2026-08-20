@@ -16,7 +16,7 @@ source_url: "https://www.bbc.com/news/articles/crl7600rpnko"
   </header>
 
   <section id="news-hook">
-    <p>With a looming Wednesday deadline for new 50% tariffs on $20 billion worth of Canadian imports, Prime Minister Mark Carney and his team are in the final hours of high-stakes negotiations in Washington. As the two nations grapple with economic anxiety and complex trade barriers, the situation invites us to consider how the principles of stewardship and the pursuit of peace apply to the often-combative arena of international relations.</p>
+    <p>With a looming Wednesday deadline for new 50% tariffs on  billion worth of Canadian imports, Prime Minister Mark Carney and his team are in the final hours of high-stakes negotiations in Washington. As the two nations grapple with economic anxiety and complex trade barriers, the situation invites us to consider how the principles of stewardship and the pursuit of peace apply to the often-combative arena of international relations.</p>
   </section>
 
   <section id="what-happened">
@@ -24,13 +24,13 @@ source_url: "https://www.bbc.com/news/articles/crl7600rpnko"
     <p>Canadian negotiators have spent the last week in Washington attempting to secure an agreement that would prevent the Trump administration from imposing fresh 50% tariffs on key Canadian sectors, including steel, aluminum, automotive, and forestry. Prime Minister Mark Carney has maintained a guarded stance, describing the talks as "very delicate and intense."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>The conflict centers on several points of contention: the U.S. demand for the removal of retaliatory tariffs on American autos, adjustments to Canada’s supply-managed dairy sector, and the lifting of provincial bans on American alcohol. While U.S. officials seek these concessions, Canadian public opinion remains deeply skeptical, with a recent Abacus Data poll showing that 74% of Canadians feel the trade dispute has impacted their households, and only 18% favor making concessions to resolve it.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -40,7 +40,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>In the heat of trade wars and economic posturing, the Bible offers a counter-cultural perspective on how nations—and individuals—should conduct their affairs. The Apostle Paul writes in Romans 12:18, <em>"If it is possible, as far as it depends on you, live at peace with everyone."</em> This is not a call to weakness or the surrender of one's principles, but rather an invitation to prioritize reconciliation and mutual well-being over the desire to "win" at the expense of a neighbor.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -51,14 +51,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>Trade negotiations are inherently about stewardship—the management of resources and the protection of the livelihoods of citizens. When leaders negotiate, they are tasked with the heavy burden of protecting their people’s interests while navigating the demands of other nations. Proverbs 11:14 reminds us, <em>"Where there is no guidance, a people falls, but in an abundance of counselors there is safety."</em> This suggests that wisdom is found in the collective, in the willingness to listen, and in the humility to seek solutions that do not merely serve personal or national pride, but serve the common good.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <p>The anxiety felt by families on both sides of the border is a reminder that these "facts and figures" represent real people. As we watch these negotiations, we are invited to pray for our leaders—not just for our own nation’s success, but for the wisdom to move past bitterness, retaliation, and the "punching bag" mentality toward a posture of justice and fairness.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

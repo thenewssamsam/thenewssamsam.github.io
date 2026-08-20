@@ -37,7 +37,7 @@ source_url: 'https://apnews.com/article/florida-primary-governor-senate-house-c5
     <p>The gubernatorial race highlights striking intraparty dynamics on both sides. On the Republican ballot, 11 candidates are vying for the nomination, featuring prominent figures such as U.S. Rep. Byron Donalds, backed by Donald Trump, and Lt. Gov. Jay Collins, a close ally of DeSantis. Meanwhile, the Democratic primary features six contenders, including former U.S. Rep. David Jolly, navigating a complex path to rebuild the party’s statewide electoral standing after decades without a gubernatorial victory.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>In the federal races, newly appointed U.S. Senator Ashley Moody faces minimal primary opposition while running to complete the final two years of Rubio's term. Her eventual November opponent will emerge from a contest between state Rep. Angie Nixon and retired Army Lt. Col. Alex Vindman. Additionally, newly drawn congressional boundaries in regions like Tampa, Orlando, and South Florida have set up fierce primary and general election battles as incumbents adapt to newly configured districts.</p>
@@ -144,7 +144,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -152,7 +152,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

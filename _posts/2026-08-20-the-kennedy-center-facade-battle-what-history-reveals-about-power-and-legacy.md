@@ -27,7 +27,7 @@ source_url: 'https://apnews.com/article/kennedy-center-trump-name-facade-court-o
     <p>The situation remains fluid. While a federal judge previously ruled that the addition of Trump’s name to the structure was illegal, the board—which remains split—has continued to push for the inclusion of the president's name as part of a "restored and renovated" branding effort. Opponents, including Rep. Joyce Beatty, argue that the board’s recent votes are "ill-informed and preordained," mirroring the procedural concerns that led to the initial court intervention in May.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Skin Renewing Night Cream ($18.99)
+CeraVe Skin Renewing Night Cream 
 </a></div>
 
   </section>
@@ -37,7 +37,7 @@ CeraVe Skin Renewing Night Cream ($18.99)
     <p>Throughout history, the intersection of public infrastructure and political legacy has been a flashpoint. From the Roman practice of <em>damnatio memoriae</em>—where the names of disgraced leaders were chiseled off public monuments—to the modern era, the physical branding of government institutions has always been more than just signage; it is a declaration of influence.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Lenovo Legion Tower Gaming PC ($899.99)
+Lenovo Legion Tower Gaming PC 
 </a></div>
 
     
@@ -48,7 +48,7 @@ Lenovo Legion Tower Gaming PC ($899.99)
     <p>Historically, when administrations seek to "renovate" or "restore" public spaces, they often use those projects as vehicles for self-memorialization. We saw similar tensions during the mid-20th century, where public works projects were frequently branded to ensure the incumbent's name would outlast their term. The Kennedy Center controversy is a modern iteration of this ancient political impulse: the desire to ensure that when future generations look at the nation's capital, they see the specific imprint of the current occupant.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Skin Renewing Night Cream ($18.99)
+CeraVe Skin Renewing Night Cream 
 </a></div>
 
   </section>
@@ -58,14 +58,14 @@ CeraVe Skin Renewing Night Cream ($18.99)
     <p>This struggle over a name on a building invites us to consider where we place our own sense of permanence. In the Gospel of Matthew, Jesus warns against the desire for earthly recognition, noting that the treasures we store up for ourselves on earth are subject to decay and dispute (Matthew 6:19-21). It is a humbling reminder that no matter how firmly we attempt to etch our names into the architecture of our world, human legacies are inherently fragile.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Lenovo Legion Tower Gaming PC ($899.99)
+Lenovo Legion Tower Gaming PC 
 </a></div>
 
     
     <p>I am reminded of the words of the Psalmist: "The grass withers, the flower fades, but the word of our God will stand forever" (Isaiah 40:8). When we see institutions—even those as grand as the Kennedy Center—become battlegrounds for personal legacies, it encourages us to shift our focus toward things that offer lasting, spiritual value rather than the fleeting recognition of a facade.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Skin Renewing Night Cream ($18.99)
+CeraVe Skin Renewing Night Cream 
 </a></div>
 
   </section>

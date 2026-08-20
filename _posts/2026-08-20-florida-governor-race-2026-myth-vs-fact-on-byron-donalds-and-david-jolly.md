@@ -22,16 +22,16 @@ source_url: "https://www.nbcnews.com/politics/2026-election/republican-byron-don
 
 <div class="ncg-product-card" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
 <p style="margin: 0 0 5px 0; font-weight: bold;">Recommended Resource:</p>
-<p style="margin: 0;"><a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Primaries: Inside American Politics and Elections</a> — $19.99</p>
+<p style="margin: 0;"><a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Primaries: Inside American Politics and Elections</a> — </p>
 </div>
 
 <h2 id="what-happened">What Happened in the Florida Primary</h2>
-<p>On Tuesday night, Florida primary voters largely backed the front-runners. On the Republican side, Rep. Byron Donalds—backed by an endorsement from President Donald Trump and a massive war chest nearing $100 million—outran a crowded and contentious GOP field to secure the Republican nomination, according to NBC News projections.</p>
+<p>On Tuesday night, Florida primary voters largely backed the front-runners. On the Republican side, Rep. Byron Donalds—backed by an endorsement from President Donald Trump and a massive war chest nearing  million—outran a crowded and contentious GOP field to secure the Republican nomination, according to NBC News projections.</p>
 
 <p>Meanwhile, David Jolly secured the Democratic nomination after facing only nominal opposition. Jolly, a former Republican member of Congress who later changed his party registration, represents a moderate lane that many Democratic strategists believe gives them the widest possible tent in a state where Republicans have dominated statewide elections for decades. Republicans control every branch of state government in Florida and have not lost a gubernatorial race since 1994.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -39,7 +39,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>To understand what this general election actually means for Florida voters, we must examine several prominent claims circulating in political commentary and test them against verified reporting and electoral data.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -48,14 +48,14 @@ Tactical Waterproof Backpack ($35.99)
 <p><strong>The Reality:</strong> Jolly is explicitly positioning himself as a moderate, having spent years as a registered Republican and serving in Congress under the GOP banner before changing parties. Many progressive Democrats in past cycles struggled in high-profile Florida races against Ron DeSantis; Jolly's nomination is an intentional pivot by party pragmatists looking to appeal to independent and moderate voters, rather than a nod to the progressive wing.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </div>
 
 <div class="ncg-product-card" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
 <p style="margin: 0 0 5px 0; font-weight: bold;">Recommended Resource:</p>
-<p style="margin: 0;"><a href="https://www.amazon.com/dp/B07V3SB24K?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Political Power and Ideology in Modern America</a> — $24.50</p>
+<p style="margin: 0;"><a href="https://www.amazon.com/dp/B07V3SB24K?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Political Power and Ideology in Modern America</a> — </p>
 </div>
 
 <div class="ncg-fact-box" style="background: #fff; border: 1px solid #e1e4e8; border-radius: 6px; padding: 20px; margin: 20px 0;">
@@ -63,14 +63,14 @@ Seagate Portable External Hard Drive ($59.99)
 <p><strong>The Reality:</strong> While Lieutenant Governor Jay Collins was initially viewed as an anointed successor when appointed by DeSantis, their relationship deteriorated. DeSantis ultimately did not endorse in the race to replace him, offering only late, lukewarm praise for former state House Speaker Paul Renner without a full endorsement, while Donalds captured the decisive Trump endorsement.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </div>
 
 <div class="ncg-product-card" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
 <p style="margin: 0 0 5px 0; font-weight: bold;">Recommended Resource:</p>
-<p style="margin: 0;"><a href="https://www.amazon.com/dp/B09ZVD5W85?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Understanding Elections and Voter Behavior</a> — $16.99</p>
+<p style="margin: 0;"><a href="https://www.amazon.com/dp/B09ZVD5W85?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Understanding Elections and Voter Behavior</a> — </p>
 </div>
 
 <div class="ncg-fact-box" style="background: #fff; border: 1px solid #e1e4e8; border-radius: 6px; padding: 20px; margin: 20px 0;">
@@ -78,7 +78,7 @@ Tactical Waterproof Backpack ($35.99)
 <p><strong>The Reality:</strong> DeSantis won his 2022 re-election by over 20 percentage points, creating a narrative that the state was permanently deep-red. However, political scientists note that general election dynamics with competitive candidates like Jolly test whether 2022 was an anomalous high-water mark for Republicans or the permanent new baseline for the Sunshine State.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </div>
@@ -91,13 +91,13 @@ Seagate Portable External Hard Drive ($59.99)
 <p>As we observe the intense polarization and strategic maneuvering of modern political campaigns, it is easy to become discouraged by the division. Yet Proverbs 19:21 reminds us, &ldquo;Many are the plans in a person's heart, but it is the Lord's purpose that prevails.&rdquo; This truth invites us to approach civic life with both active responsibility and humble perspective, remembering that human institutions rise and fall, but integrity and character remain enduring virtues.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <div class="ncg-product-card" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
 <p style="margin: 0 0 5px 0; font-weight: bold;">Recommended Resource:</p>
-<p style="margin: 0;"><a href="https://www.amazon.com/dp/1433559170?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Pursuit of God by A.W. Tozer</a> — $12.99</p>
+<p style="margin: 0;"><a href="https://www.amazon.com/dp/1433559170?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Pursuit of God by A.W. Tozer</a> — </p>
 </div>
 
 <h2 id="how-readers-respond">How Should Readers Respond?</h2>
@@ -109,7 +109,7 @@ Tactical Waterproof Backpack ($35.99)
 
 <div class="ncg-product-card" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
 <p style="margin: 0 0 5px 0; font-weight: bold;">Recommended Resource:</p>
-<p style="margin: 0;"><a href="https://www.amazon.com/dp/1590590000?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Civic Engagement and Community Leadership Guide</a> — $18.50</p>
+<p style="margin: 0;"><a href="https://www.amazon.com/dp/1590590000?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Civic Engagement and Community Leadership Guide</a> — </p>
 </div>
 
 <h2 id="closing-takeaway">One Last Thought</h2>
@@ -117,7 +117,7 @@ Tactical Waterproof Backpack ($35.99)
 
 <div class="ncg-product-card" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
 <p style="margin: 0 0 5px 0; font-weight: bold;">Recommended Resource:</p>
-<p style="margin: 0;"><a href="https://www.amazon.com/dp/038554734X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Democracy in America: Historical Insights</a> — $21.00</p>
+<p style="margin: 0;"><a href="https://www.amazon.com/dp/038554734X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Democracy in America: Historical Insights</a> — </p>
 </div>
 
 <div class="ncg-source" style="margin-top: 30px; font-size: 0.9em; color: #586069;">

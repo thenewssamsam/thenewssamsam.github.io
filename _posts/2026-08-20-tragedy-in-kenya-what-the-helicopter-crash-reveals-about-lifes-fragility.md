@@ -28,7 +28,7 @@ source_url: 'https://www.cnn.com/2026/08/19/africa/kenya-helicopter-crash-latam-
     <p>Incidents like this serve as a jarring reminder of the unpredictability of human life. We often plan our days, our trips, and our futures with the assumption that tomorrow is guaranteed. When news of such a sudden event breaks, it forces a moment of pause.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -36,7 +36,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>"The brevity of life is not meant to paralyze us with fear, but to sharpen our appreciation for the present moment."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -44,7 +44,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>We are reminded that our time here is a gift. Whether we are traveling for business, pleasure, or duty, the fragility of our circumstances is ever-present. This does not mean we should live in constant anxiety, but rather that we should live with intentionality. We are called to cherish our loved ones and ensure that our days are spent on things that truly matter.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -54,14 +54,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In the face of such sudden tragedy, I am reminded of the words in James 4:14: <em>"Why, you do not even know what will happen tomorrow. What is your life? You are a mist that appears for a little while and then vanishes."</em> This verse isn't meant to be grim; it is an invitation to anchor our hope in something beyond the shifting circumstances of this world.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>When lives are taken unexpectedly, it highlights our lack of control. It invites us to consider where our security truly lies. Psalm 90:12 offers a prayer that feels particularly relevant today: <em>"Teach us to number our days, that we may gain a heart of wisdom."</em> Wisdom begins when we acknowledge that our time is limited, leading us to seek deeper meaning and grace in every interaction we have with those around us.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

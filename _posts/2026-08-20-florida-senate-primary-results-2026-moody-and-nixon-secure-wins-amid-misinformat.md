@@ -26,7 +26,7 @@ source_url: "https://www.nbcnews.com/politics/2026-primary-special-elections/flo
     
     <div class="ncg-product-box" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0 0 10px 0; font-weight: bold;">Recommended Resource for Election Analysis:</p>
-      <p style="margin: 0;"><a href="https://www.amazon.com/dp/B07V5R9JR4?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Elements of Journalism: What Newspeople Should Know and the Public Should Expect</a> — $18.99. Essential reading for navigating news reports and separating fact from political spin.</p>
+      <p style="margin: 0;"><a href="https://www.amazon.com/dp/B07V5R9JR4?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Elements of Journalism: What Newspeople Should Know and the Public Should Expect</a> — . Essential reading for navigating news reports and separating fact from political spin.</p>
     </div>
 
     <p>On the Democratic side, the race produced a notable upset. State Representative Angie Nixon defeated Alex Vindman, a military veteran and former White House national security aide who gained national prominence during the 2019 presidential impeachment hearings. Nixon captured approximately 56.1% of the vote to Vindman's 43.9%, setting up a closely watched general election showdown in the Sunshine State.</p>
@@ -37,7 +37,7 @@ source_url: "https://www.nbcnews.com/politics/2026-primary-special-elections/flo
     <p>Elections of this magnitude routinely generate speculation, misreadings of early vote data, and exaggerated claims about what primary margins mean for the broader political landscape. Here is a factual look at the claims circulating around the race.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -46,14 +46,14 @@ Seagate Portable External Hard Drive ($59.99)
       <p><strong>Fact:</strong> Primary electorates are vastly different from general election voters. While Ashley Moody’s strong 79.6% showing against her Republican challengers demonstrates firm base support, and Angie Nixon's 56.1% win reflects momentum among primary voters, Florida remains a complex battleground where unaffiliated and moderate voters ultimately decide statewide outcomes. A primary win tells us who commands their respective party base, not necessarily how the broader electorate will vote in November.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
 
     <div class="ncg-product-box" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0 0 10px 0; font-weight: bold;">Enhance Your Critical Thinking:</p>
-      <p style="margin: 0;"><a href="https://www.amazon.com/dp/B08N5K1W45?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Thinking, Fast and Slow</a> by Daniel Kahneman — $14.99. Understand the cognitive biases that lead voters and commentators to jump to conclusions during election nights.</p>
+      <p style="margin: 0;"><a href="https://www.amazon.com/dp/B08N5K1W45?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Thinking, Fast and Slow</a> by Daniel Kahneman — . Understand the cognitive biases that lead voters and commentators to jump to conclusions during election nights.</p>
     </div>
 
     <div class="ncg-fact-box" style="margin: 20px 0; padding: 20px; background: #fff; border: 1px solid #e0e0e0; border-radius: 6px;">
@@ -61,7 +61,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>Fact:</strong> Vindman entered the race with significant national name recognition and robust fundraising connections stemming from his high-profile federal service. However, primary voters in Florida's Democratic primary responded more directly to local legislative organizing and grassroots campaigning embodied by Angie Nixon. This was a localized policy and ground-game outcome rather than an issue of name visibility.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -71,7 +71,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>Fact:</strong> Election desks rely on statistical estimates for remaining expected votes (such as the roughly 9,000 Republican and 6,500 Democratic votes estimated at 99% reporting). Having a small percentage of ballots remaining to be officially certified is standard procedure in American elections and reflects careful verification by county election officials, not systemic failure.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -86,14 +86,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>As we watch political shifts and evaluate conflicting reports during election season, I find myself thinking about the timeless wisdom found in Scripture regarding truth and honesty. When information moves at lightning speed, it is easy to get swept up in sensational claims.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>One verse that comes to mind is Proverbs 12:17, which reminds us: <em>"An honest witness tells the truth, but a false witness tells lies."</em> Similarly, Proverbs 18:13 notes, <em>"To answer before listening—that is folly and shame."</em> These passages challenge both voters and commentators to slow down, check primary sources, and value factual integrity over rapid speculation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -108,7 +108,7 @@ Tactical Waterproof Backpack ($35.99)
 
     <div class="ncg-product-box" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0 0 10px 0; font-weight: bold;">Stay Organized During Election Season:</p>
-      <p style="margin: 0;"><a href="https://www.amazon.com/dp/B099K7M8R1?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Moleskine Classic Notebook, Hardcover</a> — $22.95. Perfect for taking notes during candidate debates and keeping track of verified election facts.</p>
+      <p style="margin: 0;"><a href="https://www.amazon.com/dp/B099K7M8R1?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Moleskine Classic Notebook, Hardcover</a> — . Perfect for taking notes during candidate debates and keeping track of verified election facts.</p>
     </div>
   </section>
 

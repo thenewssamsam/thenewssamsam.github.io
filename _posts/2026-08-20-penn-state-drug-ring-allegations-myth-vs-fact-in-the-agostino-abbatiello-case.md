@@ -38,7 +38,7 @@ source_url: "https://www.nbcnews.com/news/us-news/penn-state-agostino-abbatiello
 
   <!-- Amazon Recommendation 1 -->
   <div style="background-color: #f7fafc; border-left: 4px solid #ecc94b; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Read:</strong> <a href="https://www.amazon.com/dp/B07V5W8VQK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">The Anatomy of Malice: Psychology of Crime and Investigation</a> - $18.99. A fascinating look at how law enforcement untangles complex modern networks and white-collar criminal crossover.</p>
+    <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Read:</strong> <a href="https://www.amazon.com/dp/B07V5W8VQK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">The Anatomy of Malice: Psychology of Crime and Investigation</a> - . A fascinating look at how law enforcement untangles complex modern networks and white-collar criminal crossover.</p>
   </div>
 
   <section id="myth-vs-fact" style="margin-bottom: 2.5rem;">
@@ -73,7 +73,7 @@ source_url: "https://www.nbcnews.com/news/us-news/penn-state-agostino-abbatiello
 
   <!-- Amazon Recommendation 2 -->
   <div style="background-color: #f7fafc; border-left: 4px solid #ecc94b; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <p style="margin: 0; font-size: 0.95rem;"><strong>Essential Study:</strong> <a href="https://www.amazon.com/dp/B08N5K1V9H?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">Understanding Criminal Law and Procedure</a> - $34.50. A comprehensive guide for anyone looking to understand how criminal allegations move from initial police reports to trial.</p>
+    <p style="margin: 0; font-size: 0.95rem;"><strong>Essential Study:</strong> <a href="https://www.amazon.com/dp/B08N5K1V9H?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">Understanding Criminal Law and Procedure</a> - . A comprehensive guide for anyone looking to understand how criminal allegations move from initial police reports to trial.</p>
   </div>
 
   <section id="shareable-quote" style="margin: 2rem 0;">
@@ -102,7 +102,7 @@ source_url: "https://www.nbcnews.com/news/us-news/penn-state-agostino-abbatiello
 
   <!-- Amazon Recommendation 3 -->
   <div style="background-color: #f7fafc; border-left: 4px solid #ecc94b; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <p style="margin: 0; font-size: 0.95rem;"><strong>Wisdom & Ethics:</strong> <a href="https://www.amazon.com/dp/B00287WE56?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">The Meaning of Truth: Classic Insights on Integrity and Character</a> - $14.25. Exploring why personal integrity matters in both private life and public accountability.</p>
+    <p style="margin: 0; font-size: 0.95rem;"><strong>Wisdom & Ethics:</strong> <a href="https://www.amazon.com/dp/B00287WE56?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">The Meaning of Truth: Classic Insights on Integrity and Character</a> - . Exploring why personal integrity matters in both private life and public accountability.</p>
   </div>
 
   <section id="how-readers-should-respond" style="margin-bottom: 2.5rem;">

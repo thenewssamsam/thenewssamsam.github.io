@@ -158,7 +158,7 @@ source_url: "https://www.yahoo.com/entertainment/celebrity/articles/hayden-panet
       <p>Shortly after the news broke, former world champion boxer Wladimir Klitschko—Panettiere's former partner and the father of her 11-year-old daughter, Kaya—released a statement mourning the mother of his child and vowing to keep her memory alive.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </section>
@@ -168,19 +168,19 @@ Seagate Portable External Hard Drive ($59.99)
       <p>To understand the depth of Wladimir Klitschko's public tribute, it helps to look at the history they shared. Klitschko and Panettiere were in an on-and-off relationship from 2008 to 2018, welcoming their daughter Kaya in 2014. Following Kaya's birth, Panettiere navigated a very public battle with severe postpartum depression and subsequent dependencies on alcohol and opioids.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
       <p>In a display of difficult self-awareness and protection for her child, Panettiere relinquished full custody to Klitschko in 2018 to focus on her health and rehabilitation. Klitschko's recent statement acknowledged this painful chapter with remarkable grace, noting that Panettiere "built an incredible career through immense talent, while also facing the darker sides of a very demanding industry."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
       <p>It is a stark reminder that immense early-career success often places immense psychological pressure on young performers. The friction between public adoration and private struggle frequently leaves individuals isolated, battling expectations that feel impossible to carry.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </section>
@@ -191,7 +191,7 @@ Tactical Waterproof Backpack ($35.99)
       <p>By publicly vowing to speak of Panettiere with respect and ensure young Kaya remembers her mother's true character, Klitschko demonstrated a vital psychological safeguard for grieving children. In child psychology, maintaining a secure, honest narrative about a struggling parent prevents internal guilt and confusion. When a parent honors an imperfect, deeply human ex-partner, they give the child permission to love both memory and reality without the poison of unresolved bitterness.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
       
@@ -205,13 +205,13 @@ Tactical Waterproof Backpack ($35.99)
       <p>Stories like this stir something heavy within the human spirit. Watching someone struggle publicly with addiction, stumble, try to rebuild, and ultimately lose their life far too young confronts us with our shared human frailty. None of us are immune to the heavy trials of this life, regardless of talent, fame, or strength.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
       <p>When I reflect on moments of profound loss, I am reminded of Scripture's honest assessment of human weakness. The Apostle Paul noted in 2 Corinthians 12:9 that God's power is made perfect in weakness, a reminder that human limitation is not the end of the story, but often the very place where grace meets us.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
       
@@ -219,13 +219,13 @@ Tactical Waterproof Backpack ($35.99)
         <p><strong>Scripture Reflection:</strong> "The Lord is close to the brokenhearted and saves those who are crushed in spirit." — Psalm 34:18 (NIV)</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
         <p>This verse gently reminds us that in moments of sudden shock, profound grief, and complicated sorrow, comfort isn't found in having all the answers. It is found in presence—both the presence of compassionate people rallying around a grieving family like young Kaya, and the quiet assurance that divine comfort reaches into the darkest, most painful valleys of our lives.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
       </div>
@@ -238,7 +238,7 @@ Tactical Waterproof Backpack ($35.99)
       <p>News like this can leave us feeling helpless, but it also offers practical takeaways for our own lives and communities:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
       <ul>

@@ -35,7 +35,7 @@ source_url: 'https://thewaltdisneycompany.com/news/d23-2026-disney-legends-award
 <p>The prestigious 2026 class features a remarkably diverse lineup of talent: Chris Berman, Jerry Bruckheimer, Susan Egan, Eric Goldberg, Anne Hathaway, company leader Bob Iger, Kim Irvine, Dwayne Johnson, the Jonas Brothers, Lin-Manuel Miranda, and Alan Tudyk. Each honoree received a tribute featuring surprise guest appearances, musical medleys, and emotional career retrospectives. From Lin-Manuel Miranda performing beloved hits from <em>Moana</em> and <em>Encanto</em> to Bob Iger receiving accolades from industry icons like Harrison Ford and Robert Downey Jr., the afternoon was designed to celebrate the human creators behind decades of childhood memories.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -107,7 +107,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -115,7 +115,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -38,7 +38,7 @@ source_url: 'https://www.dw.com/en/russia-prison-for-opposition-leader-over-war-
     <p>Shlosberg’s crime was simple in the eyes of the state, yet profound in its defiance. He had publicly described the ongoing war in Ukraine as a catastrophe and a "bloody game of chess," later reposting his remarks on Telegram. Days before his sentencing, Russia’s Supreme Court upheld a ban on Yabloko—the country's last registered political party calling for an end to the invasion—effectively locking them out of upcoming parliamentary elections.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>During his closing statement, Shlosberg maintained his innocence, framing himself as the target of a political show trial. Yet, his most telling observation was not about his own fate, but about the atmosphere surrounding it. As he remarked to the court, "A single person is imprisoned, yet fear seeps into the hearts of millions."</p>
@@ -115,7 +115,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -123,7 +123,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

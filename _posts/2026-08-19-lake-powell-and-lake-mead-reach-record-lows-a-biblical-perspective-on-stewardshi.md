@@ -117,7 +117,7 @@ source_url: "https://www.azfamily.com/2026/08/18/lake-powell-lake-mead-hit-recor
   <p>Experts from Arizona State University and the University of Arizona emphasize that while these historic lows were anticipated after decades of persistent overuse and a multi-decade drought, they highlight deep systemic vulnerabilities. Water experts reassure the public that faucets will not immediately run dry and that municipalities have planned for water level declines. However, households should prepare for rising water rates, and regional power grids face mounting pressure as hydroelectric generation wanes.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -125,14 +125,14 @@ Seagate Portable External Hard Drive ($59.99)
   <p>When we look at vital natural resources dwindling before our eyes, it naturally prompts deeper questions about how humanity interacts with the earth. Scripture has a great deal to say about the care of creation, framing the natural world not merely as an endless resource to be exploited, but as a sacred trust given into human hands.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   
   <p>This situation makes me think about the very beginning of the biblical narrative, where humanity was placed in a garden with a clear mandate. Stewardship in a biblical sense requires foresight, responsibility, and restraint—recognizing that our actions today echo into the futures of our children and neighbors.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -140,13 +140,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p><strong>Genesis 2:15 (ESV):</strong> "The Lord God took the man and put him in the garden of Eden to work it and keep it."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p><em>Reflection:</em> The Hebrew words for "work" and "keep" imply cultivation coupled with protective care. When resources like the Colorado River basin are overdrawn over decades, it reveals the friction between short-term consumption and long-term custodianship.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>
@@ -154,7 +154,7 @@ Tactical Waterproof Backpack ($35.99)
   <p>Water in Scripture is frequently associated with blessing, life, and divine provision. Yet it is also fragile. Throughout history, communities that ignored environmental and moral boundaries often found themselves facing scarcity. The current crisis in the Southwest is not necessarily a sudden cosmic judgment, but rather a sobering physical reminder of natural limits and human choices.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -162,7 +162,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>"When vital natural resources reach historic lows, they call us to look beyond immediate convenience and reexamine our responsibility as caretakers of the earth."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>
@@ -171,7 +171,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p><strong>Proverbs 21:20 (NIV):</strong> "The wise store up choice food and olive oil, but fools gulp theirs down."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p><em>Reflection:</em> This proverb speaks directly to the tension between immediate gratification and prudent planning. Preparing for dry years during wet years is a principle of wisdom that applies just as much to municipal water management as it does to personal finances.</p>
@@ -181,7 +181,7 @@ Tactical Waterproof Backpack ($35.99)
   <p>Faced with reports of shrinking reservoirs and rising utility costs, it is easy to shift between panic and apathy. Neither response honors God. Instead, a thoughtful, faithful response involves:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   <ul>
@@ -197,7 +197,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p>No. Water experts emphasize that cities and towns have planned for these declines for decades. While water rates are expected to rise and tap water delivery will face adjustments, residents are not at immediate risk of losing access to tap water.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </details>
@@ -206,7 +206,7 @@ Tactical Waterproof Backpack ($35.99)
       <p>The record lows are the result of a three-decade drought, persistent overuse of the Colorado River system, and shifting climate conditions that reduce snowpack and runoff.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </details>
@@ -215,7 +215,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p>Both reservoirs generate hydroelectric power. Lake Powell is currently approaching the minimum water level required to keep its turbines running, which could soon impact power generation across the western electrical grid.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </details>

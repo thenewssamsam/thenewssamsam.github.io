@@ -26,7 +26,7 @@ source_url: "https://www.post-gazette.com/news/education/2026/08/17/drug-hazing-
       <p><strong>Did you know?</strong> Universities often maintain "umbrella" liability policies that are directly affected by the frequency of campus incidents, meaning one organization's misconduct can theoretically impact the insurance overhead for the entire student body.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -34,15 +34,15 @@ Tactical Waterproof Backpack ($35.99)
     <p>Furthermore, local businesses that rely on the Greek life ecosystem—from housing providers to event vendors—often face revenue instability when chapters are suspended or shuttered. The loss of a chapter's ability to operate is not just a social event; it is a disruption to a localized micro-economy.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <div style="border-left: 5px solid #ff9900; background-color: #f4f4f4; padding: 15px; margin: 15px 0;">
-      <p><strong>Recommended Resource:</strong> <a href="#">Personal Safety & Campus Security Guide - $12.99</a></p>
+      <p><strong>Recommended Resource:</strong> <a href="#">Personal Safety & Campus Security Guide - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -57,19 +57,19 @@ Tactical Waterproof Backpack ($35.99)
     <p>This situation invites us to consider the biblical principle of stewardship. We are called to look after our communities and the people entrusted to our care. Proverbs 22:1 reminds us that "A good name is more to be desired than great riches, and favor is better than silver and gold."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>When organizations prioritize tradition or secret practices over the safety and dignity of their peers, they are not only risking legal and financial ruin—they are failing in their duty to act as responsible stewards of their community. Reflecting on this, I'm reminded that true leadership is rooted in service, not in the power dynamics that often lead to these tragic outcomes.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>As it says in Matthew 7:12, "So whatever you wish that others would do to you, do also to them." This simple rule of thumb could have saved countless students from harm and spared these organizations from the devastating financial and social consequences they now face.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

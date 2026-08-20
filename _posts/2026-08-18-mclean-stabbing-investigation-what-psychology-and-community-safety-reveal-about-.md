@@ -37,7 +37,7 @@ source_url: 'https://www.nbcwashington.com/news/local/northern-virginia/woman-fo
 <p>Early Monday morning, around 7 a.m., a jogger in McLean, Virginia, made a horrifying discovery: a woman's body lying next to a burgundy sedan in a small gravel parking lot near the popular Difficult Run Trail. Fairfax County police quickly cordoned off sections of Georgetown Pike for hours as detectives and crime scene units examined the area.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 <p>Chopper footage from the scene revealed multiple orange evidence markers placed around and on the vehicle. As of the initial reports, police have not publicly named the victim or released descriptions of potential suspects. Investigators confirmed that while the woman resided in Fairfax County, she did not live in the immediate vicinity where her body was recovered.</p>
@@ -91,7 +91,7 @@ Source: <a href="https://www.nbcwashington.com/news/local/northern-virginia/woma
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -99,7 +99,7 @@ Source: <a href="https://www.nbcwashington.com/news/local/northern-virginia/woma
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

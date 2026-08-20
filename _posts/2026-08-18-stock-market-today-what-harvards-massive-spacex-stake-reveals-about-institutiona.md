@@ -18,7 +18,7 @@ source_url: 'https://www.investopedia.com/5-things-to-know-before-the-stock-mark
       <span class="ncg-read-time">5 min read</span>
     </div>
     <h1>Stock Market Today: What Harvard's Massive SpaceX Stake Reveals About Institutional Risk</h1>
-    <p class="ncg-lead">Stock futures are pointing to a mixed open on Monday, August 17, 2026, as Wall Street braces for a heavy wave of retail earnings and central bank updates—while a surprise $2.2 billion disclosure from Harvard University puts SpaceX squarely in the institutional spotlight.</p>
+    <p class="ncg-lead">Stock futures are pointing to a mixed open on Monday, August 17, 2026, as Wall Street braces for a heavy wave of retail earnings and central bank updates—while a surprise  billion disclosure from Harvard University puts SpaceX squarely in the institutional spotlight.</p>
   </header>
 
   <nav class="ncg-toc" aria-label="Table of Contents">
@@ -36,10 +36,10 @@ source_url: 'https://www.investopedia.com/5-things-to-know-before-the-stock-mark
   <section id="market-overview">
     <h2>Mixed Futures and Macro Currents</h2>
     <p>Wall Street is kicking off a busy economic week with a divided dashboard. Stock futures were mixed ahead of the opening bell on Monday, with tech-heavy Nasdaq futures edging up 0.4% on ongoing enthusiasm for artificial intelligence hardware. Meanwhile, S&P 500 futures added a modest 0.1%, and Dow Jones Industrial Average futures slipped 0.2%.</p>
-    <p>The morning's hesitation follows a late-week pullback on Friday that closed out the major indexes in the red, though both the Nasdaq and S&P 500 managed to secure their third consecutive week of gains. Beyond equities, commodity and currency markets are reacting to multiple overlapping geopolitical and monetary crosscurrents. WTI crude oil held steady near $82.40 per barrel as the U.S. and Iran approach a crucial 60-day deadline regarding regional conflict negotiations. Gold futures rose 0.5% to $4,450 an ounce, bitcoin hovered near $63,600 after finding a floor around $62,500 on Friday, and the benchmark 10-year Treasury yield ticked down to 4.69%.</p>
+    <p>The morning's hesitation follows a late-week pullback on Friday that closed out the major indexes in the red, though both the Nasdaq and S&P 500 managed to secure their third consecutive week of gains. Beyond equities, commodity and currency markets are reacting to multiple overlapping geopolitical and monetary crosscurrents. WTI crude oil held steady near  per barrel as the U.S. and Iran approach a crucial 60-day deadline regarding regional conflict negotiations. Gold futures rose 0.5% to ,450 an ounce, bitcoin hovered near ,600 after finding a floor around ,500 on Friday, and the benchmark 10-year Treasury yield ticked down to 4.69%.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
   </section>
@@ -54,7 +54,7 @@ Tactical Waterproof Backpack ($35.99)
   <section id="ai-and-spacex">
     <h2>AI Hardware Momentum and Harvard's SpaceX Bet</h2>
     <p>Tech hardware continues to command premarket attention. Sandisk (SNDK) shares jumped 4% early Monday, leading a broader rally that included storage rivals Seagate Technology (STX) and Western Digital (WDC) up roughly 3% each. Major chipmakers such as Micron (MU), Marvell (MRVL), Advanced Micro Devices (AMD), and Intel (INTC) also pushed into positive territory, propelled by robust commercial demand despite lingering market chatter about potential tech bubbles.</p>
-    <p>Yet the most startling headline of the morning belongs to higher education's largest endowment. In its latest quarterly SEC Form 13F filing released after the market closed Friday, Harvard Management Company disclosed a massive new position: a holding of just under 13 million shares in SpaceX (SPCX), valued at over $2.2 billion at the time of filing.</p>
+    <p>Yet the most startling headline of the morning belongs to higher education's largest endowment. In its latest quarterly SEC Form 13F filing released after the market closed Friday, Harvard Management Company disclosed a massive new position: a holding of just under 13 million shares in SpaceX (SPCX), valued at over  billion at the time of filing.</p>
     <p>SpaceX, which went public in June after years as a dominant private aerospace and satellite communications enterprise, counts several university endowments among its historical early backers. With the company now trading publicly, institutional filings are laying bare the sheer scale of these legacy venture allocations.</p>
   </section>
 
@@ -65,7 +65,7 @@ Tactical Waterproof Backpack ($35.99)
     <ul>
       <li><strong>Concentration vs. Diversification:</strong> University endowments operate on multi-decade time horizons, allowing them to absorb immense volatility in single-name assets like SpaceX or AI hardware. Retail investors, by contrast, generally require broad diversification across index funds to insulate against individual company setbacks.</li>
       <li><strong>The De-Risking of the U.S. Dollar:</strong> Compounding the market's internal dynamics, the U.S. dollar index dipped to 99.45—its lowest level since early June. This decline reflects growing conviction that cooling inflation will remove pressure for further Fed rate hikes, dropping CME FedWatch rate-hike odds for next month to just 31% from over 50%. A softer dollar changes the arithmetic for multinational earnings and commodity pricing.</li>
-      <li><strong>Valuation Realities in Public Space and Tech:</strong> SpaceX shares traded relatively flat near $140 ahead of the bell, having recovered 33% from record lows hit two weeks prior. Harvard's massive entry price underscores how institutional capital views aerospace and orbital infrastructure not as speculative novelties, but as foundational economic infrastructure.</li>
+      <li><strong>Valuation Realities in Public Space and Tech:</strong> SpaceX shares traded relatively flat near  ahead of the bell, having recovered 33% from record lows hit two weeks prior. Harvard's massive entry price underscores how institutional capital views aerospace and orbital infrastructure not as speculative novelties, but as foundational economic infrastructure.</li>
     </ul>
 
     <div class="ncg-quote-box">
@@ -88,7 +88,7 @@ Tactical Waterproof Backpack ($35.99)
     <h2>Frequently Asked Questions</h2>
     <details class="ncg-faq-item">
       <summary>Why is Harvard’s stake in SpaceX making news now?</summary>
-      <p>While university endowments held private shares in SpaceX during its years as a private company, companies are required to disclose major holdings via SEC Form 13F filings once they go public. Harvard's recent filing revealed a stake of nearly 13 million shares valued at over $2.2 billion.</p>
+      <p>While university endowments held private shares in SpaceX during its years as a private company, companies are required to disclose major holdings via SEC Form 13F filings once they go public. Harvard's recent filing revealed a stake of nearly 13 million shares valued at over  billion.</p>
     </details>
     <details class="ncg-faq-item">
       <summary>How do upcoming retail earnings affect the stock market?</summary>
@@ -115,7 +115,7 @@ Tactical Waterproof Backpack ($35.99)
     "@context": "https://schema.org",
     "@type": "NewsArticle",
     "headline": "Stock Market Today: What Harvard's Massive SpaceX Stake Reveals About Institutional Risk",
-    "description": "Stock futures are mixed as retail earnings and Fed minutes approach, while Harvard reveals a $2.2 billion SpaceX stake. Analysis of what this means for investors.",
+    "description": "Stock futures are mixed as retail earnings and Fed minutes approach, while Harvard reveals a  billion SpaceX stake. Analysis of what this means for investors.",
     "datePublished": "2026-08-17",
     "author": {
       "@type": "Organization",
@@ -134,7 +134,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -142,7 +142,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

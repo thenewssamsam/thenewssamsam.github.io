@@ -18,18 +18,18 @@ source_url: 'https://abc7ny.com/post/amtrak-reopens-east-river-tunnel-line-damag
 </div>
 </header>
 
-<p>More than a decade after Superstorm Sandy filled a century-old underwater rail link with millions of gallons of corrosive salt water, Amtrak has officially reopened East River Tunnel Line 2. The milestone marks the halfway point of a massive, multi-year rehabilitation effort that carries a staggering $1.3 billion price tag—and offers a clear window into the true financial cost of maintaining America's crumbling public transportation backbone.</p>
+<p>More than a decade after Superstorm Sandy filled a century-old underwater rail link with millions of gallons of corrosive salt water, Amtrak has officially reopened East River Tunnel Line 2. The milestone marks the halfway point of a massive, multi-year rehabilitation effort that carries a staggering  billion price tag—and offers a clear window into the true financial cost of maintaining America's crumbling public transportation backbone.</p>
 
 <h2 id="what-happened">What Happened: A Century-Old Transit Link Reborn</h2>
 
 <p>Amtrak marked the reopening of Line 2 with a celebration at Penn Station, highlighting the completion of a grueling yearlong overhaul. Built in 1910, the 116-year-old tunnel system serves as a vital artery for the Northeast Corridor, carrying more than 450 Amtrak, Long Island Rail Road (LIRR), and NJ Transit trains daily between Manhattan, Queens, and points north and south.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
-<p>The rehabilitation project required stripping the three-mile tunnel down to its bare concrete liner. Crews completely replaced tracks, drainage systems, power supplies, communications lines, and life-safety infrastructure. Senator Chuck Schumer, who helped secure the $1.3 billion federal funding package, noted that the tunnel had been choked with 14 million gallons of corrosive salt water during the 2012 storm.</p>
+<p>The rehabilitation project required stripping the three-mile tunnel down to its bare concrete liner. Crews completely replaced tracks, drainage systems, power supplies, communications lines, and life-safety infrastructure. Senator Chuck Schumer, who helped secure the  billion federal funding package, noted that the tunnel had been choked with 14 million gallons of corrosive salt water during the 2012 storm.</p>
 
 <p>While the reopening of Line 2 restores critical capacity—easing a 20% reduction that pinched LIRR commuters during the closure—the work is far from finished. Attention now turns to Line 1, with rehabilitation scheduled to begin this fall and run through the end of 2027.</p>
 
@@ -37,7 +37,7 @@ Seagate Portable External Hard Drive ($59.99)
 
 <p>From a financial perspective, infrastructure projects of this scale highlight a harsh economic reality: deferred maintenance carries an exponential compounding cost.</p>
 
-<p>When Superstorm Sandy struck in 2012, the immediate operational disruption was severe. However, the long-term financial bleeding comes from operating century-old assets long past their intended design life while waiting for federal funding, environmental reviews, and legislative battles to align. A $1.3 billion price tag for just two tunnel tubes is a massive capital expenditure, but the alternative—prolonged transit unreliability—extracts an even higher toll on regional productivity.</p>
+<p>When Superstorm Sandy struck in 2012, the immediate operational disruption was severe. However, the long-term financial bleeding comes from operating century-old assets long past their intended design life while waiting for federal funding, environmental reviews, and legislative battles to align. A  billion price tag for just two tunnel tubes is a massive capital expenditure, but the alternative—prolonged transit unreliability—extracts an even higher toll on regional productivity.</p>
 
 <div class="ncg-financial-box">
 <h3>Economic Realities of Megaprojects</h3>
@@ -100,7 +100,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -108,7 +108,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

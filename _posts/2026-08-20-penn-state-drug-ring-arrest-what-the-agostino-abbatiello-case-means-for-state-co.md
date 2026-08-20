@@ -35,7 +35,7 @@ source_url: "https://www.nbcnews.com/news/us-news/penn-state-agostino-abbatiello
 
   <div style="background-color: #fff9e6; border-left: 4px solid #f39c12; padding: 15px 20px; margin: 25px 0; border-radius: 4px;">
     <p style="margin: 0 0 10px 0; font-weight: bold; color: #b78103;">Recommended Resource: Campus Safety &amp; Student Living</p>
-    <p style="margin: 0; font-size: 0.95rem;"><a href="https://www.amazon.com/dp/B08N5K2V95?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #002D62; text-decoration: underline;">The College Student's Guide to Safety and Smart Decision-Making</a> - Essential reading for modern campus life ($14.99)</p>
+    <p style="margin: 0; font-size: 0.95rem;"><a href="https://www.amazon.com/dp/B08N5K2V95?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #002D62; text-decoration: underline;">The College Student's Guide to Safety and Smart Decision-Making</a> - Essential reading for modern campus life </p>
   </div>
 
   <section id="local-community-impact" style="margin-bottom: 30px;">
@@ -54,7 +54,7 @@ source_url: "https://www.nbcnews.com/news/us-news/penn-state-agostino-abbatiello
 
   <div style="background-color: #fff9e6; border-left: 4px solid #f39c12; padding: 15px 20px; margin: 25px 0; border-radius: 4px;">
     <p style="margin: 0 0 10px 0; font-weight: bold; color: #b78103;">Recommended Resource: Financial &amp; Legal Literacy</p>
-    <p style="margin: 0; font-size: 0.95rem;"><a href="https://www.amazon.com/dp/B07X8V79ZP?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #002D62; text-decoration: underline;">Understanding American Law and Criminal Justice for Everyday Citizens</a> - A clear guide to legal procedures and accountability ($18.50)</p>
+    <p style="margin: 0; font-size: 0.95rem;"><a href="https://www.amazon.com/dp/B07X8V79ZP?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #002D62; text-decoration: underline;">Understanding American Law and Criminal Justice for Everyday Citizens</a> - A clear guide to legal procedures and accountability </p>
   </div>
 
   <section id="spiritual-reflection" style="margin-bottom: 30px;">

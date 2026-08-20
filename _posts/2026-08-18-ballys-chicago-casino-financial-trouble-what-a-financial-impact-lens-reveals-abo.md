@@ -20,22 +20,22 @@ source_url: 'https://chicago.suntimes.com/casinos-gambling/2026/08/17/ballys-chi
     </div>
   </header>
 
-  <p>When a major entertainment corporation admits in an SEC filing that there is substantial doubt about its ability to survive the next twelve months, it is more than just corporate boilerplate — it is a flashing red light for anyone tied to its projects. Bally’s recent "going concern" disclosure reveals that the debt-laden company faces mounting pressure as it tries to build its permanent $400 million Chicago casino complex in River West while absorbing millions in operating losses at its temporary Medinah Temple location.</p>
+  <p>When a major entertainment corporation admits in an SEC filing that there is substantial doubt about its ability to survive the next twelve months, it is more than just corporate boilerplate — it is a flashing red light for anyone tied to its projects. Bally’s recent "going concern" disclosure reveals that the debt-laden company faces mounting pressure as it tries to build its permanent  million Chicago casino complex in River West while absorbing millions in operating losses at its temporary Medinah Temple location.</p>
 
   <p>For Chicago taxpayers, city pension funds, and local union workers counting on the casino as a steady revenue stream, this financial stumble raises urgent questions about corporate solvency, project delivery, and the stark economic realities of modern commercial gaming.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
   <h2 id="what-happened">What Happened at Bally’s?</h2>
 
-  <p>In its quarterly filing with the Securities and Exchange Commission, Bally’s disclosed that its massive debt creates "substantial doubt about its ability to continue" operations over the coming year. The company reported a loss of $56.4 million over the first half of 2026, bringing its accumulated deficit to $233.3 million. Operating out of the historic Medinah Temple on N. Wabash Ave. since opening three years ago, the temporary casino has struggled to break even.</p>
+  <p>In its quarterly filing with the Securities and Exchange Commission, Bally’s disclosed that its massive debt creates "substantial doubt about its ability to continue" operations over the coming year. The company reported a loss of  million over the first half of 2026, bringing its accumulated deficit to  million. Operating out of the historic Medinah Temple on N. Wabash Ave. since opening three years ago, the temporary casino has struggled to break even.</p>
 
-  <p>At the same time, Bally’s is on the hook for roughly $400 million in capital expenditures over the next two years to complete its permanent resort at 777 W. Chicago Ave. To manage liquidity, the company announced it is pursuing financing alternatives, including asset monetization, equity sales, and debt restructuring.</p>
+  <p>At the same time, Bally’s is on the hook for roughly  million in capital expenditures over the next two years to complete its permanent resort at 777 W. Chicago Ave. To manage liquidity, the company announced it is pursuing financing alternatives, including asset monetization, equity sales, and debt restructuring.</p>
 
-  <p>The financial warning coincided with a bitter political dispute. Bally’s recently halted much of its ancillary construction work — including a planned hotel and event center — blaming the City Council’s approval of video gambling terminals (VGTs). City officials authorized VGTs to help balance the municipal budget, a move Bally’s argues will cannibalize its gaming revenue. Meanwhile, City Council detractors, led by Ald. Brendan Reilly, contend that the video gambling dispute is merely a convenient smokescreen for a company that is already overleveraged with more than $5 billion in corporate debt and cannot afford to finish the job.</p>
+  <p>The financial warning coincided with a bitter political dispute. Bally’s recently halted much of its ancillary construction work — including a planned hotel and event center — blaming the City Council’s approval of video gambling terminals (VGTs). City officials authorized VGTs to help balance the municipal budget, a move Bally’s argues will cannibalize its gaming revenue. Meanwhile, City Council detractors, led by Ald. Brendan Reilly, contend that the video gambling dispute is merely a convenient smokescreen for a company that is already overleveraged with more than  billion in corporate debt and cannot afford to finish the job.</p>
 
   <div class="ncg-quote-box">
     <p>“Corporate accounting warnings aren't just paperwork; they are a transparent window into whether a company can pay its bills tomorrow, let alone finish a hundred-million-dollar casino next year.”</p>
@@ -50,7 +50,7 @@ Tactical Waterproof Backpack ($35.99)
   <p>However, examining the economics of urban casino projects reveals why investors and municipal leaders get nervous:</p>
 
   <ul>
-    <li><strong>High Fixed Capital Costs:</strong> Building a permanent resort casino requires immense upfront capital ($400 million in this case), financed largely through debt rather than pure cash reserves.</li>
+    <li><strong>High Fixed Capital Costs:</strong> Building a permanent resort casino requires immense upfront capital ( million in this case), financed largely through debt rather than pure cash reserves.</li>
     <li><strong>Ramp-Up Friction:</strong> Temporary gaming facilities often underperform initial projections while absorbing high operating expenses and state tax burdens.</li>
     <li><strong>Revenue Cannibalization Risks:</strong> When supplementary gambling options like neighborhood VGTs expand, they siphon off casual local gamblers who might otherwise visit a central casino floor, directly impacting projected cash flows that lenders rely on to service corporate debt.</li>
   </ul>
@@ -59,7 +59,7 @@ Tactical Waterproof Backpack ($35.99)
 
   <p>While corporate balance sheets rarely make dinner-table conversation, a project of this scale intertwines directly with municipal health. Chicago’s leadership banked on the Bally’s casino to generate robust tax revenues earmarked for police and fire pension funds.</p>
 
-  <p>When a developer carries over $5 billion in total corporate debt and reports ongoing net losses, the margin for error shrinks dramatically. If financing markets tighten or borrowing costs rise, capital projects face delays, union construction jobs stall, and municipal budget planners are forced to scramble for alternative revenue sources.</p>
+  <p>When a developer carries over  billion in total corporate debt and reports ongoing net losses, the margin for error shrinks dramatically. If financing markets tighten or borrowing costs rise, capital projects face delays, union construction jobs stall, and municipal budget planners are forced to scramble for alternative revenue sources.</p>
 
   <p>This situation serves as a classic lesson in project finance: public-private partnerships are only as strong as the private partner's liquidity. When a corporation is over-leveraged, political disputes and technical accounting warnings become early indicators of broader economic friction.</p>
 
@@ -123,7 +123,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -131,7 +131,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

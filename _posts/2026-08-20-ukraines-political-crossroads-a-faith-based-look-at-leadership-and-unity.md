@@ -27,16 +27,16 @@ source_url: 'https://www.bbc.com/news/articles/cdew8n9erlwo'
     <p>Mykhailo Fedorov, recently dismissed from his position, has publicly advocated for a "legal, safe, and realistic mechanism" to restore the democratic process despite martial law. This call comes amid ongoing Russian aerial bombardment and a systemic crisis of governance, which Fedorov claims is hindering military effectiveness. While supporters see him as a necessary voice for reform, critics and even some of his own allies argue that holding elections while the nation is under fire is dangerously destabilizing.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-box" style="border: 2px solid #FFD700; background-color: #f9f9f9; padding: 15px; border-radius: 8px; margin: 20px 0;">
-    <p><strong>Recommended for deeper reflection:</strong> <a href="https://www.amazon.com/dp/B000SEIV0E" target="_blank" rel="noopener noreferrer">The Message Bible (Hardcover) - $24.99</a></p>
+    <p><strong>Recommended for deeper reflection:</strong> <a href="https://www.amazon.com/dp/B000SEIV0E" target="_blank" rel="noopener noreferrer">The Message Bible (Hardcover) - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>
@@ -46,7 +46,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>In times of national turmoil, the temptation to prioritize political maneuvering or personal agendas often runs high. Scripture, however, consistently points toward the necessity of unity and the stewardship of a nation’s peace. When a house is divided against itself, its ability to stand is compromised, a truth echoed in the words of Jesus in <strong>Mark 3:25</strong>: <em>"If a house is divided against itself, that house cannot stand."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -57,23 +57,23 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The tension in Kyiv reflects a human struggle: how to balance the desire for transparent, democratic accountability with the harsh realities of survival. The Bible reminds us that leaders are tasked with the heavy responsibility of seeking wisdom that transcends immediate political gain. In <strong>Proverbs 11:14</strong>, we are told, <em>"Where there is no guidance, a people falls, but in an abundance of counselors there is safety."</em> This suggests that the strength of a nation lies not in a single name or profile, but in the collective wisdom and integrity of its institutions.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>This situation invites us to reflect on our own hearts. Are we seeking truth and the common good, or are we easily swayed by the clamor of conflict? When we see leaders and citizens struggling to find the right path, it is a call to pray for those in authority, asking that they be granted the discernment to act with justice and mercy, even in the most desperate circumstances.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-box" style="border: 2px solid #FFD700; background-color: #f9f9f9; padding: 15px; border-radius: 8px; margin: 20px 0;">
-    <p><strong>Resource for personal stability:</strong> <a href="https://www.amazon.com/dp/1400201659" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry - $12.99</a></p>
+    <p><strong>Resource for personal stability:</strong> <a href="https://www.amazon.com/dp/1400201659" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>

@@ -31,7 +31,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/live-blog/elections-
     <p>When headlines are filled with dramatic defeats, sharp rhetoric, and sudden political upsets, children absorb more than we realize. Even if they are not watching the live blogs or cable news chyrons, they pick up on the tone of our voices, the tension in the room, and the anxieties swirling around the dinner table. Approaching these moments through a parenting lens means shifting our focus from who won or lost to how we model emotional resilience for the next generation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -39,7 +39,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p>&ldquo;Children don't need us to have all the answers to political chaos; they need us to show them that stability and kindness outlast the news cycle.&rdquo;</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -48,7 +48,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>How we talk about elections must match our children's developmental stages. Younger children do not need the intricate details of primary polling or congressional ethics investigations; they simply need reassurance that their immediate world is safe and predictable.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <ul>
@@ -62,7 +62,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Watching leaders rise and fall reminds us of the temporary nature of earthly systems. Proverbs 19:21 tells us, &ldquo;Many are the plans in a person's heart, but it is the Lord’s purpose that prevails.&rdquo; This truth offers a grounding perspective for families caught up in the stress of election seasons. It invites parents to model a quiet confidence that transcends political outcomes, teaching children that our ultimate security rests not in government power, but in enduring values like kindness, integrity, and grace.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -72,7 +72,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Instead of letting news alerts dictate the emotional temperature of your household, use these primary results as an opportunity to build healthy communication habits:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>
@@ -83,7 +83,7 @@ Seagate Portable External Hard Drive ($59.99)
   </section>
 
   <div class="ncg-product-card" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended for Families:</strong> <a href="https://www.amazon.com/dp/0310742542?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Beginner's Bible: Timeless Stories for Children</a> — A wonderful resource for introducing foundational values of kindness, patience, and character to younger kids. ($11.99)
+    <strong>Recommended for Families:</strong> <a href="https://www.amazon.com/dp/0310742542?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Beginner's Bible: Timeless Stories for Children</a> — A wonderful resource for introducing foundational values of kindness, patience, and character to younger kids. 
   </div>
 
   <section id="closing-thought">

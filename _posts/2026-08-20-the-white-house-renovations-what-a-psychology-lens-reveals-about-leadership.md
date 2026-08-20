@@ -19,7 +19,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/19/trump-white-house-r
   </header>
 
   <section id="introduction">
-    <p>President Donald Trump recently led a press tour of extensive renovations at the White House, showcasing new granite driveways, refurbished columns, and an ornate helipad. While the President framed these upgrades as a necessary professional improvement, the timing—occurring as national debt surpasses $40 trillion and military tensions remain high—has sparked intense debate about the psychological drivers behind such a focus.</p>
+    <p>President Donald Trump recently led a press tour of extensive renovations at the White House, showcasing new granite driveways, refurbished columns, and an ornate helipad. While the President framed these upgrades as a necessary professional improvement, the timing—occurring as national debt surpasses  trillion and military tensions remain high—has sparked intense debate about the psychological drivers behind such a focus.</p>
   </section>
 
   <section id="what-happened">
@@ -27,7 +27,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/19/trump-white-house-r
     <p>During a 40-minute tour of the White House grounds, President Trump emphasized his background as a real estate developer, referring to himself as "builder-in-chief." Key additions include a high-quality granite driveway and a new helipad, which the President noted could double as an event patio. He also highlighted the installation of premium sod, which he noted was donated by a corporate donor, and personally autographed a stone for the helipad.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-AMANSSE Lightweight Running Shoes ($65.99)
+AMANSSE Lightweight Running Shoes 
 </a></div>
 
   </section>
@@ -37,7 +37,7 @@ AMANSSE Lightweight Running Shoes ($65.99)
     <p>From a psychological perspective, a leader's fixation on physical infrastructure during a period of systemic crisis can often be analyzed through the lens of <strong>environmental mastery</strong> and <strong>symbolic control</strong>. When external variables—such as national debt or international conflict—feel intractable, individuals often pivot toward tasks where they exert absolute, tangible influence.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
     
@@ -49,7 +49,7 @@ CeraVe Hydrating Facial Cleanser ($14.99)
     <p>Psychologically, "building" serves as a defense mechanism against feelings of powerlessness. By focusing on the quality of a flagpole or the health of the grass, a leader creates a tangible record of "success" that is immune to the volatility of policy outcomes or economic indicators. This behavior is common in high-stress roles where the feedback loop for major policy is slow or negative.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-FitVille Comfortable Running Shoes ($69.99)
+FitVille Comfortable Running Shoes 
 </a></div>
 
 
@@ -57,7 +57,7 @@ FitVille Comfortable Running Shoes ($69.99)
     <p>The tour’s comparison to <em>Lifestyles of the Rich and Famous</em> highlights an aesthetic focus that can alienate observers who feel the "job of leading the nation" is being neglected. Psychologically, this creates a <strong>perception gap</strong>: the leader views the restoration of prestige as a service to the institution, while the public, struggling with fuel costs and economic instability, views the same actions as a misalignment of priorities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-FitVille Comfortable Running Shoes ($69.99)
+FitVille Comfortable Running Shoes 
 </a></div>
 
   </section>
@@ -67,13 +67,13 @@ FitVille Comfortable Running Shoes ($69.99)
     <p>This situation invites us to consider the biblical perspective on stewardship and the nature of our legacy. In <em>1 Chronicles 29:14</em>, King David reflects, "But who am I, and who are my people, that we should be able to offer so willingly after this sort? for all things come of thee, and of thine own have we given thee." This reminds us that true authority is a stewardship rather than an ownership.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-FitVille Comfortable Running Shoes ($69.99)
+FitVille Comfortable Running Shoes 
 </a></div>
 
     <p>When we focus heavily on the physical structures we "own" or "build," it is worth asking whether we are honoring our position or merely seeking a monument to our own name. <em>Matthew 6:19-21</em> warns: "Do not lay up for yourselves treasures on earth, where moth and rust destroy... For where your treasure is, there your heart will be also." This is a gentle invitation to reflect on where we place our energy—are we building things that serve the community and reflect eternal values, or are we seeking temporary validation through the materials we curate?</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
   </section>

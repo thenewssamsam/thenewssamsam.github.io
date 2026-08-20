@@ -29,21 +29,21 @@ source_url: "https://www.nbcboston.com/news/local/lindsay-clancy-trial-day-15-li
   <p>Tuesday's proceedings also included testimony from former mother-in-law Susan Clancy, alongside forensic experts and a psychiatrist. A notable moment occurred when a prosecutor questioned whether murder constituted a "mortal sin," a query that was swiftly struck from the record after sparking courtroom shock. Meanwhile, the defense continues to lay out its case after the prosecution rested, calling witnesses to substantiate the claim of diminished criminal responsibility due to severe psychiatric illness.</p>
 
   <div style="background: #fff; border: 1px solid #e0e0e0; border-left: 4px solid #f39c12; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B07ZPKCKV9?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Financial Management and Legal Budgeting Guide</a> – $24.99. A helpful resource for understanding the macro-economic and budgetary impacts of prolonged litigation.
+    <strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B07ZPKCKV9?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Financial Management and Legal Budgeting Guide</a> – . A helpful resource for understanding the macro-economic and budgetary impacts of prolonged litigation.
   </div>
 
   <h2 id="financial-impact">A Financial Impact Perspective: The Cost of Justice and Defense</h2>
   <p>While public discussion naturally centers on the profound moral and legal questions of the courtroom, high-profile criminal trials involving complex psychiatric defenses carry immense financial realities. Defending a capital or severe felony case requires an enormous expenditure of resources, stretching public defenders or private legal budgets to their absolute limits.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
   <p>Expert witnesses represent one of the most substantial expenses in modern trials. Forensic pathologists, psychiatric specialists, and home reconstruction experts command high hourly and retainer fees. In cases where the defense rests heavily on medical nuance—such as proving the physiological and psychological impact of postpartum psychosis—these specialists are indispensable, yet their involvement introduces significant financial barriers.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -52,13 +52,13 @@ Tactical Waterproof Backpack ($35.99)
   </div>
 
   <div style="background: #fff; border: 1px solid #e0e0e0; border-left: 4px solid #f39c12; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Basic Economics: A Common Sense Guide to the Economy</a> – $18.99. Understand how societal resources and systemic costs ripple through public institutions and legal frameworks.
+    <strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Basic Economics: A Common Sense Guide to the Economy</a> – . Understand how societal resources and systemic costs ripple through public institutions and legal frameworks.
   </div>
 
   <p>Furthermore, the broader economic footprint of severe mental health crises extends far beyond the courtroom walls. Families facing catastrophic medical emergencies—including long-term psychiatric treatment, rehabilitation following paralysis, and prolonged litigation—often experience complete financial restructuring. This financial strain underscores why public discourse must also address the accessibility of preventative mental healthcare before tragedies occur.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -66,18 +66,18 @@ Seagate Portable External Hard Drive ($59.99)
   <p>When society confronts deep brokenness, it naturally searches for meaning amid suffering. This situation invites us to consider the heavy burdens carried by families and communities when mental health crises go unaddressed. Scripture reminds us in Proverbs 31:8-9 to "Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy." While this speaks to legal justice, it also challenges us to extend profound compassion and better support structures to those battling invisible afflictions.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   <p>Additionally, Galatians 6:2 encourages believers to "Carry each other’s burdens, and in this way you will fulfill the law of Christ." In moments of unimaginable community grief, the financial and emotional weight borne by all involved reminds us of our shared responsibility to foster environments of healing and early intervention.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
   <div style="background: #fff; border: 1px solid #e0e0e0; border-left: 4px solid #f39c12; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B0741G4V6B?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Stress Less, Live More: Mindfulness Workbook</a> – $16.50. Practical tools for emotional well-being and managing daily psychological strain.
+    <strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B0741G4V6B?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Stress Less, Live More: Mindfulness Workbook</a> – . Practical tools for emotional well-being and managing daily psychological strain.
   </div>
 
   <h2 id="how-readers-respond">How Should Readers Respond?</h2>
@@ -88,7 +88,7 @@ Seagate Portable External Hard Drive ($59.99)
   </ul>
 
   <div style="background: #fff; border: 1px solid #e0e0e0; border-left: 4px solid #f39c12; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B08C4K5X9W?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Total Money Makeover: Classic Edition</a> – $15.20. Sound financial planning principles for navigating unexpected life crises.
+    <strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B08C4K5X9W?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Total Money Makeover: Classic Edition</a> – . Sound financial planning principles for navigating unexpected life crises.
   </div>
 
   <h2 id="closing-takeaway">One Last Thought</h2>

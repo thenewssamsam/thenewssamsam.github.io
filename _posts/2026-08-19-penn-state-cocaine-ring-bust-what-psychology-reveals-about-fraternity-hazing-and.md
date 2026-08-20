@@ -31,7 +31,7 @@ source_url: "https://www.foxnews.com/us/penn-state-cocaine-bust-nets-14-arrests-
 <p>Pennsylvania Attorney General Dave Sunday announced the sweeping arrests stemming from a coordinated, highly profitable drug-trafficking operation operating out of off-campus houses associated with the Delta Upsilon and Sigma Chi fraternities. According to investigators, alleged ringleaders Agostino Abbatiello and Thomas Robinson orchestrated regular trips to Philadelphia and New York to secure large quantities of cocaine.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 <p>The drugs were then brought back to fraternity houses, where members and pledges allegedly processed, cut, and packaged the substances for distribution across the student body. Thirteen of the defendants were identified as Penn State students or recent students during the 2023 and 2024 timeframe. The fourteenth defendant, Paul Robinson, faces felony charges for allegedly tampering with evidence and hindering the investigation on behalf of his son.</p>
@@ -103,7 +103,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -111,7 +111,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

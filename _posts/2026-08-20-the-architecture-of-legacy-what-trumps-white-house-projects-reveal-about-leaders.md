@@ -27,10 +27,10 @@ source_url: 'https://www.cnn.com/2026/08/19/politics/trump-construction-white-ho
     <p>During the tour, President Trump highlighted several completed and ongoing projects. He expressed pride in the new California-mined white granite driveway, which replaced what he deemed a "basic" asphalt surface. The President also confirmed he personally ordered the dismantling and re-leveling of a stone helipad because he was dissatisfied with the original drainage slope.</p>
     
     <div style="border-left: 4px solid #f1c40f; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B00004W491" target="_blank" rel="noopener noreferrer">Heavy Duty Construction Hard Hat - $14.99</a></p>
+      <p><strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B00004W491" target="_blank" rel="noopener noreferrer">Heavy Duty Construction Hard Hat - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -38,7 +38,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Beyond the driveway and helipad, construction continues on a massive 90,000-square-foot ballroom and bunker complex. The President framed these additions as essential for national security and state functions, noting that these structures "will be here long after we’re gone."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -48,15 +48,15 @@ Tactical Waterproof Backpack ($35.99)
     <p>For many, the President’s focus on the physical state of the White House might seem like a distraction from broader national issues. However, when viewed through the lens of personal leadership, it reveals a fundamental belief: that the physical environment we inhabit shapes the quality of our output.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div style="border-left: 4px solid #f1c40f; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B07P61565W" target="_blank" rel="noopener noreferrer">Professional Measuring Tape 25ft - $12.99</a></p>
+      <p><strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B07P61565W" target="_blank" rel="noopener noreferrer">Professional Measuring Tape 25ft - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -65,7 +65,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The President’s attention to the radial cut of granite and the leveling of a helipad reflects a trait often found in high-output leaders: the refusal to delegate the "feel" of a project. While critics argue these tasks are below a President’s pay grade, there is a lesson here about ownership. When you are the one signing the stone that will eventually be part of the foundation, you are signaling that the final result matters more than the convenience of the process.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -74,10 +74,10 @@ Seagate Portable External Hard Drive ($59.99)
     </blockquote>
 
     <div style="border-left: 4px solid #f1c40f; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B00002N50O" target="_blank" rel="noopener noreferrer">Stanley 16oz Fiberglass Hammer - $18.50</a></p>
+      <p><strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B00002N50O" target="_blank" rel="noopener noreferrer">Stanley 16oz Fiberglass Hammer - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -88,13 +88,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>This focus on building and legacy brings to mind the biblical concept of stewardship. In 1 Corinthians 3:10, the Apostle Paul writes, <em>"By the grace God has given me, I laid a foundation as a wise builder, and someone else is building on it. But each one should build with care."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>This verse invites us to consider the intent behind our work. Whether we are building a driveway, a home, or a professional legacy, the quality of our effort reflects the values we hold. It reminds me that while we may seek to create things that last, true significance is found in the integrity of the foundation we choose to build upon.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -108,10 +108,10 @@ Seagate Portable External Hard Drive ($59.99)
     </ul>
 
     <div style="border-left: 4px solid #f1c40f; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B07D38C87M" target="_blank" rel="noopener noreferrer">High Visibility Safety Vest - $9.99</a></p>
+      <p><strong>Featured Product:</strong> <a href="https://www.amazon.com/dp/B07D38C87M" target="_blank" rel="noopener noreferrer">High Visibility Safety Vest - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>

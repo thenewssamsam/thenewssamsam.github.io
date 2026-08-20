@@ -25,7 +25,7 @@ source_url: 'https://www.cnn.com/2026/08/19/politics/trump-construction-white-ho
     <p>The President’s tour highlighted several key projects, most notably the replacement of the original asphalt driveway with California-mined white granite and the reconstruction of a helipad. Trump noted that he personally ordered the helipad to be dismantled and rebuilt because he was dissatisfied with the slope, ensuring it was "dead flat." Beyond these, he pointed to facade restorations and the ongoing, controversial 90,000-square-foot ballroom project, which his administration describes as a "military complex" currently 65% complete.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -39,7 +39,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>While critics often focus on the expense or the timing of these projects, there is a broader life lesson here about how we view our own contributions. For many, "legacy" is an abstract concept—reputation, influence, or memories. For Trump, legacy is tangible. He views the physical environment of the White House as a reflection of the nation’s stature.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -47,15 +47,15 @@ Tactical Waterproof Backpack ($35.99)
     <p>Trump’s obsession with the "radial cut of granite" or the "slope for the rain" might seem trivial to some, but it speaks to a management philosophy: if you don’t care about the small things, you won’t care about the big things. In our own lives, whether we are managing a home, a career, or a community project, the quality of our output is often defined by the details we are willing to revisit and correct.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div style="border: 1px solid #ddd; padding: 15px; background: #f9f9f9; margin: 15px 0;">
-        <p><strong>Recommended for Home Projects:</strong> <a href="#">Heavy-Duty Laser Level for Precision Work - $49.99</a></p>
+        <p><strong>Recommended for Home Projects:</strong> <a href="#">Heavy-Duty Laser Level for Precision Work - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -64,15 +64,15 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The decision to tear down a nearly finished helipad because the slope wasn't perfect is a stark lesson in avoiding the "sunk cost fallacy." Many people continue down a path that isn't working simply because they have already invested time and money. The President’s willingness to pause, dismantle, and start fresh—even at the risk of criticism—is a hallmark of a builder’s mindset.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <div style="border: 1px solid #ddd; padding: 15px; background: #f9f9f9; margin: 15px 0;">
-        <p><strong>Essential Tools:</strong> <a href="#">Professional Grade Measuring Tape - $15.50</a></p>
+        <p><strong>Essential Tools:</strong> <a href="#">Professional Grade Measuring Tape - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -83,19 +83,19 @@ Tactical Waterproof Backpack ($35.99)
     <p>This focus on building and maintaining the "great house" brings to mind the biblical principles of stewardship. In 1 Chronicles 29, King David takes great pride in preparing the materials for the temple, ensuring that the work was done with excellence and attention to the finest detail. While we are not all builders of national monuments, we are all stewards of the spaces and responsibilities entrusted to us.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p><em>"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."</em> (Colossians 3:23, NIV). This verse reminds us that the excellence we apply to our work—whether it’s laying stone or managing a household—is a reflection of our character and our commitment to doing things well.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>There is a fine line between noble stewardship and prideful obsession. As we consider our own legacies, it is worth asking: Am I building things that will last, and am I doing so with a heart that seeks to serve something greater than my own reputation?</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -105,7 +105,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Instead of merely observing these projects from afar, consider these three takeaways for your own life:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <ul>

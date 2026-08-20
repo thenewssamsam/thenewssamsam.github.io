@@ -90,7 +90,7 @@ source_url: 'https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-5
     </p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -111,7 +111,7 @@ Seagate Portable External Hard Drive ($59.99)
       Major stock indexes closed lower across the board on Monday, August 17, 2026. The blue-chip Dow Jones Industrial Average, the benchmark S&P 500, and the tech-heavy Nasdaq Composite finished the session down 0.5%, 0.5%, and 0.3%, respectively. This downward pressure follows a late-week slide on Friday that snapped the Dow's two-week winning streak.
     </p>
     <p>
-      At the same time, crude oil futures advanced roughly 2.4%—with West Texas Intermediate (WTI) reaching $84.35 a barrel and Brent crude climbing to $90.65. The surge was driven by renewed pessimism regarding diplomatic efforts between the U.S. and Iran over reopening the Strait of Hormuz, a crucial maritime chokepoint that normally carries a fifth of the world's crude oil supply. Meanwhile, the 30-year Treasury yield surged to 5.31%, its highest level since 2007, reflecting investor anxieties over long-term inflation and debt supply.
+      At the same time, crude oil futures advanced roughly 2.4%—with West Texas Intermediate (WTI) reaching  a barrel and Brent crude climbing to . The surge was driven by renewed pessimism regarding diplomatic efforts between the U.S. and Iran over reopening the Strait of Hormuz, a crucial maritime chokepoint that normally carries a fifth of the world's crude oil supply. Meanwhile, the 30-year Treasury yield surged to 5.31%, its highest level since 2007, reflecting investor anxieties over long-term inflation and debt supply.
     </p>
 
     <div class="ncg-quote-box">
@@ -235,7 +235,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -243,7 +243,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

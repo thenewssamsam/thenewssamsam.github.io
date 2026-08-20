@@ -27,7 +27,7 @@ source_url: ''
   <p>Then reality caught up with the press releases. Last week, LIV quietly stopped selling tickets, days after U.S. broadcast partner Fox Sports scrubbed the event from its television listings. Facing mounting pressure, LIV Golf finally conceded on Monday what had long been obvious: the Team Championship is dead.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
   <p>Instead of a grand finale in Michigan, the league announced that the team champion will be crowned during this week’s event in Indianapolis. Post-round entertainment, including scheduled performances by country singer Thomas Rhett and DJ Disco Lines, was also scrapped due to what tour officials termed "unavoidable changes in the entertainment program."</p>
@@ -40,7 +40,7 @@ Seagate Portable External Hard Drive ($59.99)
     <h3>The Numbers Behind the Pivot</h3>
     <ul>
       <li><strong>Second Cancellation:</strong> The Michigan finale follows the mysterious "postponement" of a June event in New Orleans, ostensibly blamed on summer heat.</li>
-      <li><strong>Unpaid Invoices:</strong> Broadcast production partner Mobii filed a federal lawsuit in Miami seeking $1.13 million in past-due invoices after payments dried up in 2026.</li>
+      <li><strong>Unpaid Invoices:</strong> Broadcast production partner Mobii filed a federal lawsuit in Miami seeking  million in past-due invoices after payments dried up in 2026.</li>
       <li><strong>Legal Safety Steps:</strong> LIV filed a WARN (Worker Adjustment and Retraining Notification) notice in New York on July 8, preparing the ground for potential layoffs.</li>
     </ul>
   </div>
@@ -89,7 +89,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -97,7 +97,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

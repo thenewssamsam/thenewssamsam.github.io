@@ -42,14 +42,14 @@ source_url: 'https://www.thedailybeast.com/trump-offers-explosive-new-reason-why
       What began as a modest proposal to upgrade White House event spaces has taken a dramatic turn. Former President Donald Trump recently led reporters on an impromptu tour of the White House grounds, showcasing progress on a multi-million-dollar construction project that has grown far beyond a simple granite helipad and ballroom. 
     </p>
     <p>
-      Initially pitched as a $200 million renovation, the price tag has soared to roughly $400 million, incorporating heavy-duty construction elements. More notably, Trump acknowledged that the sprawling project includes military components, drone defenses, and a series of bomb shelters designed to protect select leaders and dignitaries. The disclosure comes as the administration fights a legal battle in the Supreme Court following challenges from the National Trust for Historic Preservation over unilateral construction on federal property.
+      Initially pitched as a  million renovation, the price tag has soared to roughly  million, incorporating heavy-duty construction elements. More notably, Trump acknowledged that the sprawling project includes military components, drone defenses, and a series of bomb shelters designed to protect select leaders and dignitaries. The disclosure comes as the administration fights a legal battle in the Supreme Court following challenges from the National Trust for Historic Preservation over unilateral construction on federal property.
     </p>
     <p>
       While legal briefs emphasize national security needs—citing past threats and plots against leadership—the public revelation of deeply buried shelters beneath the so-called "People's House" highlights a timeless human preoccupation: physical preservation in the face of escalating danger.
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -61,7 +61,7 @@ Seagate Portable External Hard Drive ($59.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>
@@ -69,14 +69,14 @@ Tactical Waterproof Backpack ($35.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <!-- Amazon Product Recommendation 1 -->
     <div style="border-left: 4px solid #f6ad55; background: #fffaf0; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0; font-size: 0.95rem; color: #744210;">
-        <strong>Recommended Reading:</strong> Explore themes of peace and stability in uncertain times with <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #dd6b20; font-weight: bold; text-decoration: underline;">The Ruthless Elimination of Hurry</a> by John Mark Comer ($14.99), offering practical wisdom on finding inner calm when the world feels overwhelming.
+        <strong>Recommended Reading:</strong> Explore themes of peace and stability in uncertain times with <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #dd6b20; font-weight: bold; text-decoration: underline;">The Ruthless Elimination of Hurry</a> by John Mark Comer , offering practical wisdom on finding inner calm when the world feels overwhelming.
       </p>
     </div>
 
@@ -85,7 +85,7 @@ Seagate Portable External Hard Drive ($59.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -103,7 +103,7 @@ Tactical Waterproof Backpack ($35.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>
@@ -111,14 +111,14 @@ Seagate Portable External Hard Drive ($59.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <!-- Amazon Product Recommendation 2 -->
     <div style="border-left: 4px solid #f6ad55; background: #fffaf0; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0; font-size: 0.95rem; color: #744210;">
-        <strong>Spiritual Resource:</strong> Deepen your study of Scripture with the <a href="https://www.amazon.com/dp/1433554224?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #dd6b20; font-weight: bold; text-decoration: underline;">ESV Study Bible</a> ($34.99), designed to provide rich historical and theological context for passages on faith and trust.
+        <strong>Spiritual Resource:</strong> Deepen your study of Scripture with the <a href="https://www.amazon.com/dp/1433554224?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #dd6b20; font-weight: bold; text-decoration: underline;">ESV Study Bible</a> , designed to provide rich historical and theological context for passages on faith and trust.
       </p>
     </div>
 

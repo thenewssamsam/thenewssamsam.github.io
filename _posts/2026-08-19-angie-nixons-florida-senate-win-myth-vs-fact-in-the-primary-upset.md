@@ -21,18 +21,18 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vi
 
   <section id="what-happened">
     <h2>What Happened?</h2>
-    <p>Angie Nixon, a state representative and member of the Democratic Socialists of America (DSA), secured the Democratic nomination for the US Senate seat currently held by Ashley Moody. While Alexander Vindman entered the race with massive name recognition and a $16.3 million fundraising lead compared to Nixon’s $975,000, voters ultimately favored Nixon's grassroots platform.</p>
+    <p>Angie Nixon, a state representative and member of the Democratic Socialists of America (DSA), secured the Democratic nomination for the US Senate seat currently held by Ashley Moody. While Alexander Vindman entered the race with massive name recognition and a  million fundraising lead compared to Nixon’s ,000, voters ultimately favored Nixon's grassroots platform.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <div style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Reading:</strong> Keep track of your campaign notes and political research with a high-quality <strong><a href="#">Moleskine Classic Notebook</a> - $22.95</strong>. Perfect for organizing thoughts on complex election cycles.</p>
+      <p><strong>Recommended Reading:</strong> Keep track of your campaign notes and political research with a high-quality <strong><a href="#">Moleskine Classic Notebook</a> - </strong>. Perfect for organizing thoughts on complex election cycles.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -43,7 +43,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Because upset victories often invite speculation, it is important to separate rumors from verified data.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -51,7 +51,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p><strong>Fact:</strong> While Vindman held an overwhelming financial advantage, the results prove that fundraising is not the sole determinant of success. Nixon’s strategy focused on grassroots organizing and direct engagement, effectively neutralizing the "funding gap" narrative.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -59,7 +59,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p><strong>Fact:</strong> While Vindman had significant backing, national Democratic leaders shifted their tone rapidly after the results, with figures like Chuck Schumer praising Nixon’s career as a union organizer and her commitment to Florida.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -68,7 +68,7 @@ Tactical Waterproof Backpack ($35.99)
       <p>— Angie Nixon</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -77,15 +77,15 @@ Seagate Portable External Hard Drive ($59.99)
     <p><strong>Fact:</strong> Nixon’s victory demonstrates that a progressive platform can resonate with a diverse Florida electorate, even in a state where other establishment candidates like Debbie Wasserman Schultz maintained their positions.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <div style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Essential Tech:</strong> Stay connected to the latest news updates with the <strong><a href="#">Apple iPhone 16 Pro</a> - $999.00</strong>. High-speed connectivity is key to tracking real-time election results.</p>
+      <p><strong>Essential Tech:</strong> Stay connected to the latest news updates with the <strong><a href="#">Apple iPhone 16 Pro</a> - </strong>. High-speed connectivity is key to tracking real-time election results.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -96,7 +96,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Watching this election cycle unfold, I am reminded of the importance of looking past the surface level of political noise. Proverbs 18:17 tells us, "In a lawsuit the first to speak seems right, until someone comes forward and cross-examines." This reminds us that truth is rarely found in the loudest voice or the biggest bank account; it is often found in the quiet, persistent work of those serving their community.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Whether in politics or our personal lives, we are invited to consider the value of humility. As James 4:6 reminds us, "God opposes the proud but shows favor to the humble." This race serves as a poignant reminder that status and worldly influence are fleeting, while integrity and service leave a lasting impact on those around us.</p>
@@ -111,10 +111,10 @@ Seagate Portable External Hard Drive ($59.99)
     </ul>
     
     <div style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Stay Organized:</strong> Manage your election season schedule with the <strong><a href="#">2026 Academic Planner</a> - $18.50</strong>. Keep track of upcoming debates and voting deadlines.</p>
+      <p><strong>Stay Organized:</strong> Manage your election season schedule with the <strong><a href="#">2026 Academic Planner</a> - </strong>. Keep track of upcoming debates and voting deadlines.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -125,7 +125,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>The Florida primary results underscore a shifting political tide that challenges our assumptions about campaign finance and establishment power. As voters head toward the general election, the focus will now shift to the broader contrast between Nixon and Moody. Regardless of political affiliation, the outcome reminds us that voters remain the final arbiters of a candidate's message, proving that direct engagement often outweighs the influence of massive campaign war chests.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p><em>The ballot box remains the ultimate equalizer in the American experiment.</em></p>

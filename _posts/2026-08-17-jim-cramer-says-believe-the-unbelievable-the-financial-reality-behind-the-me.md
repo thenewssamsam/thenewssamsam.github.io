@@ -37,10 +37,10 @@ source_url: 'https://www.cnbc.com/2026/08/16/cramer-believe-the-unbelievable-in-
 
 <h2 id="the-unbelievable-market">The Unbelievable Market Rally</h2>
 <p>For decades, cyclical memory and storage manufacturers were treated as financial landmines. Companies like SanDisk, Seagate, Western Digital, and Micron would experience brief periods of staggering demand, only to plunge into destructive overproduction cycles that wiped out investor gains. But the year-to-date performances in 2026 shatter those historical expectations entirely.</p>
-<p>SanDisk has surged 496%, Seagate is up 238%, Western Digital has climbed 171%, and Micron has skyrocketed to a staggering $1 trillion market capitalization. Gross margins that once hovered in the 20% to 35% range have nearly doubled or tripled in some cases, pushing Seagate to 47% and Micron to an astonishing 85%. To traditional market veterans, these numbers defy financial gravity. Yet they reflect a fundamental transformation in how massive hardware providers operate in the age of generative AI infrastructure.</p>
+<p>SanDisk has surged 496%, Seagate is up 238%, Western Digital has climbed 171%, and Micron has skyrocketed to a staggering  trillion market capitalization. Gross margins that once hovered in the 20% to 35% range have nearly doubled or tripled in some cases, pushing Seagate to 47% and Micron to an astonishing 85%. To traditional market veterans, these numbers defy financial gravity. Yet they reflect a fundamental transformation in how massive hardware providers operate in the age of generative AI infrastructure.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -48,7 +48,7 @@ Seagate Portable External Hard Drive ($59.99)
 
 <h2 id="breaking-the-cyclical-curse">Breaking the Cyclical Curse</h2>
 <p>Historically, the downfall of memory and storage makers was self-inflicted. Whenever prices and demand spiked, executives rushed to build new fabrication plants, triggering massive oversupply and crushing prices. Today, that playbook has changed. Through long-term supply agreements and disciplined capital allocation—referred to by SanDisk as the "New Business Model"—these companies have curbed the urge to race to the bottom.</p>
-<p>Instead of flooding the market with uncommitted supply, firms are tying production directly to contracted data center expansion. This disciplined output management, paired with multi-billion-dollar share buybacks (such as SanDisk's $6 billion program and Seagate's $5 billion repurchase plan), signals a completely transformed corporate ethos. They are returning capital to shareholders while maintaining tight control over supply, neutralizing the wild historical swings that terrorized retail and institutional investors alike.</p>
+<p>Instead of flooding the market with uncommitted supply, firms are tying production directly to contracted data center expansion. This disciplined output management, paired with multi-billion-dollar share buybacks (such as SanDisk's  billion program and Seagate's  billion repurchase plan), signals a completely transformed corporate ethos. They are returning capital to shareholders while maintaining tight control over supply, neutralizing the wild historical swings that terrorized retail and institutional investors alike.</p>
 
 <div class="ncg-quote-box" aria-label="Shareable Quote">
 <blockquote>"Sometimes, the opportunity is too great, and you can't afford not to take it. We can't be kept back by a doctrine that no longer works."</blockquote>
@@ -166,7 +166,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -174,7 +174,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

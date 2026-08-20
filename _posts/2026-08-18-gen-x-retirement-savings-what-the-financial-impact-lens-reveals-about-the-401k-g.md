@@ -18,7 +18,7 @@ source_url: 'https://www.investopedia.com/gen-x-retirement-savings-how-much-they
 </div>
 </header>
 
-<p>As the oldest members of Generation X turn 61, fresh data from the Federal Reserve reveals an uncomfortable reality: about 4 in 10 Gen X households have zero retirement savings. For those who do have accounts, the median balance sits around $100,000—leaving a staggering gap between current realities and widely cited retirement benchmarks.</p>
+<p>As the oldest members of Generation X turn 61, fresh data from the Federal Reserve reveals an uncomfortable reality: about 4 in 10 Gen X households have zero retirement savings. For those who do have accounts, the median balance sits around ,000—leaving a staggering gap between current realities and widely cited retirement benchmarks.</p>
 
 <nav class="ncg-toc" aria-label="Table of Contents">
 <strong>Table of Contents</strong>
@@ -35,11 +35,11 @@ source_url: 'https://www.investopedia.com/gen-x-retirement-savings-how-much-they
 <p>Americans born between 1965 and 1980 entered the workforce right as corporate America was phasing out traditional pensions and shifting the burden of retirement funding onto individual employees via 401(k) plans. Gen X became the original test case for this do-it-yourself retirement system.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
-<p>According to the Federal Reserve's Survey of Consumer Finances, only about 62% of Gen X households have any form of retirement savings. That leaves nearly 40% with nothing at all. Among households that do hold accounts, the median balance—meaning half have more and half have less—is approximately $100,000.</p>
-<p>To put that in perspective, major financial institutions like Fidelity recommend having six times your salary saved by age 50 and eight times by age 60. With the national average salary hovering near $70,000, those benchmarks suggest a target of $420,000 by 50 and $560,000 by 60. The typical Gen X balance falls well short of those marks.</p>
+<p>According to the Federal Reserve's Survey of Consumer Finances, only about 62% of Gen X households have any form of retirement savings. That leaves nearly 40% with nothing at all. Among households that do hold accounts, the median balance—meaning half have more and half have less—is approximately ,000.</p>
+<p>To put that in perspective, major financial institutions like Fidelity recommend having six times your salary saved by age 50 and eight times by age 60. With the national average salary hovering near ,000, those benchmarks suggest a target of ,000 by 50 and ,000 by 60. The typical Gen X balance falls well short of those marks.</p>
 
 <h2 id="the-financial-mechanics">The Financial Mechanics Behind the Gap</h2>
 <p>To understand why this savings gap exists, we have to look at the economic mechanics of how Gen X entered adulthood:</p>
@@ -54,7 +54,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 
 <h2 id="why-estimates-differ">Why Some Provider Data Looks Much Better</h2>
-<p>If you look at reports from major retirement plan providers, the numbers can look surprisingly high. For instance, Vanguard reported median balances between $67,800 and $95,600 for older workers in its defined contribution plans, while Empower reported median balances exceeding $332,000 for its platform dashboard users.</p>
+<p>If you look at reports from major retirement plan providers, the numbers can look surprisingly high. For instance, Vanguard reported median balances between ,800 and ,600 for older workers in its defined contribution plans, while Empower reported median balances exceeding ,000 for its platform dashboard users.</p>
 <p>From a financial analytics perspective, this discrepancy comes down to selection bias. Provider data only captures people who are already actively participating in workplace plans or voluntarily tracking their money. It excludes the roughly 40% of households captured by the Federal Reserve who have no retirement accounts whatsoever. Active savers skew wealthier, more financially literate, and more consistently employed by companies offering generous matching contributions.</p>
 
 <h2 id="closing-the-gap">Practical Ways Gen X Can Catch Up</h2>
@@ -76,8 +76,8 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Many factors contribute, including stagnant wage growth during early career years, high housing and debt costs, lack of access to workplace retirement plans, and the historical absence of auto-enrollment features when they entered the workforce.</p>
 </details>
 <details class="ncg-faq-item">
-<summary>Is $100,000 enough to retire on?</summary>
-<p>On its own, a $100,000 balance falls short of standard living cost benchmarks for a multi-decade retirement, but when combined with maximum Social Security benefits, downsizing housing, and part-time work, many households find ways to bridge the gap.</p>
+<summary>Is ,000 enough to retire on?</summary>
+<p>On its own, a ,000 balance falls short of standard living cost benchmarks for a multi-decade retirement, but when combined with maximum Social Security benefits, downsizing housing, and part-time work, many households find ways to bridge the gap.</p>
 </details>
 </section>
 
@@ -136,10 +136,10 @@ Seagate Portable External Hard Drive ($59.99)
     },
     {
       "@type": "Question",
-      "name": "Is $100,000 enough to retire on?",
+      "name": "Is ,000 enough to retire on?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "On its own, a $100,000 balance falls short of standard living cost benchmarks for a multi-decade retirement, but when combined with maximum Social Security benefits, downsizing housing, and part-time work, many households find ways to bridge the gap."
+        "text": "On its own, a ,000 balance falls short of standard living cost benchmarks for a multi-decade retirement, but when combined with maximum Social Security benefits, downsizing housing, and part-time work, many households find ways to bridge the gap."
       }
     }
   ]
@@ -152,7 +152,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -160,7 +160,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

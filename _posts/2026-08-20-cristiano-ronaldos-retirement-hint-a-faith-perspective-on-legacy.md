@@ -27,7 +27,7 @@ source_url: 'https://edition.cnn.com/2026/08/17/sport/cristiano-ronaldo-hints-re
     <p>Ronaldo, who recently married Georgina Rodríguez, spoke candidly with Vogue about his transition away from the sport. With 976 career goals to his name, he remains within reach of the historic 1,000-goal milestone while playing for Al-Nassr. Yet, he admits that football will leave a "big hole" that he intends to fill with travel, family time, and new hobbies. He speaks not of regret, but of a life "all mapped out" after two and a half decades of immense sacrifice.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -37,7 +37,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Ronaldo’s desire to leave a "spectacular legacy" is a natural human ambition. We all want our lives to have mattered. However, from a biblical worldview, the definition of a "spectacular" life often diverges from worldly acclaim. While the world measures greatness in Ballon d’Or trophies and goal tallies, Scripture invites us to consider the fruit that remains long after the applause fades.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -48,7 +48,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>The Bible reminds us in <strong>1 Timothy 6:6-7</strong>: <em>"But godliness with contentment is great gain. For we brought nothing into the world, and we can take nothing out of it."</em> Ronaldo’s transition is a poignant reminder that even the most celebrated earthly careers are temporary. As he looks to fill the "hole" that football will leave, he is encountering the universal human need for purpose beyond performance.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -56,7 +56,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>Reflective Insight:</strong> When we strip away the jerseys and the stadiums, we are left with the core of who we are. I’m reminded that Jesus taught us that the greatest legacy is serving others, not being served. As Ronaldo steps away from the spotlight, it is an invitation for all of us—regardless of our profession—to shift our focus from the "spectacular" in the eyes of men to the "faithful" in the eyes of God.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -67,7 +67,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Watching a legend like Ronaldo prepare for retirement serves as a mirror for our own lives. We can respond in three ways:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>

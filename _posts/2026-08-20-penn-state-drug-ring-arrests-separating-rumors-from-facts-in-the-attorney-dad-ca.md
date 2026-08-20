@@ -70,14 +70,14 @@ source_url: "https://www.cbsnews.com/pittsburgh/news/penn-state-drug-fraternity-
     <p>While the vast majority of those charged are students or young adults connected to campus life, one high-profile name stood out in the police affidavits. Paul Robinson, a managing attorney at the Pittsburgh law firm Meyer, Darragh, Buckler, Bebenek, and Eck, P.L.L.C., became the only nonstudent arrested in the sweep. Investigators charged Robinson with felony tampering with evidence and hindering apprehension, accusing him of trying to conceal a safe containing drugs and cash belonging to one of the alleged ringleaders—who happens to be his son, Thomas Robinson.</p>
 
     <div class="ncg-product-box">
-      <strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B07V5W6G81?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Anatomy of Malice: Ruminations on the Psychology of Crime and Integrity ($16.99)</a> – A thoughtful exploration of ethical boundaries and personal responsibility under pressure.
+      <strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B07V5W6G81?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Anatomy of Malice: Ruminations on the Psychology of Crime and Integrity </a> – A thoughtful exploration of ethical boundaries and personal responsibility under pressure.
     </div>
 
     <h2 id="myth-vs-fact">Myth vs. Fact: Unpacking the Allegations</h2>
     <p>In high-profile legal stories involving prominent figures, rumors spread rapidly across local forums and social media. Let us look closely at what the official reports state versus what remains speculative or entirely false.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -87,7 +87,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p><strong>The Reality:</strong> Online chatter sometimes jumps to conclusions about corporate or institutional complicity when an employee faces severe charges. However, the law firm quickly issued a public statement clarifying that the allegations concern Paul Robinson strictly on an individual basis. The firm emphasized that the case has no connection to its clients, its operations, or the legal services it provides, and noted that they are reviewing the circumstances independently.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
       </div>
@@ -97,7 +97,7 @@ Tactical Waterproof Backpack ($35.99)
         <p><strong>The Reality:</strong> Unlike the other thirteen individuals facing direct drug distribution and trafficking counts, Paul Robinson's charges are specifically focused on obstruction of justice. Prosecutors assert he attempted to hide a safe containing cash and narcotics, making him the sole nonstudent ensnared in this specific enforcement phase.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
       </div>
@@ -107,28 +107,28 @@ Tactical Waterproof Backpack ($35.99)
         <p><strong>The Reality:</strong> It is easy for broad news reports to cast a wide net over campus Greek life. Official statements from prosecutors specifically target individuals connected to Delta Upsilon and Sigma Chi houses regarding this specific distribution ring, rather than implicating every student organization or individual member across the entire university.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
       </div>
     </div>
 
     <div class="ncg-product-box">
-      <strong>Helpful Resource:</strong> <a href="https://www.amazon.com/dp/B08N5K8WY8?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Critical Thinking: Evaluating Information in a Digital Age ($14.50)</a> – Essential strategies for cutting through media noise and verifying news facts accurately.
+      <strong>Helpful Resource:</strong> <a href="https://www.amazon.com/dp/B08N5K8WY8?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Critical Thinking: Evaluating Information in a Digital Age </a> – Essential strategies for cutting through media noise and verifying news facts accurately.
     </div>
 
     <h2 id="scripture-perspective">A Personal Reflection on Accountability</h2>
     <p>This situation makes me think about how quickly choices can ripple outward, impacting families and entire communities in unexpected ways. When parents try to shield their children from the consequences of their actions, it often leads to deeper sorrow rather than true protection. I am reminded of Proverbs 15:27, which notes that "the greedy bring ruin to their households, but the one who hates bribes will live." True love and wisdom do not mean covering up wrongdoing; rather, they involve guiding one another toward honesty, responsibility, and moral integrity.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>We all face moments where loyalty to family or friends conflicts with the demands of truth and justice. One lesson from this unfolding story is that true strength lies in facing our responsibilities head-on, trusting that transparency—however painful in the short term—ultimately preserves our character and human dignity.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -137,14 +137,14 @@ Seagate Portable External Hard Drive ($59.99)
     </div>
 
     <div class="ncg-product-box">
-      <strong>Parenting Tool:</strong> <a href="https://www.amazon.com/dp/B09V3K4L2M?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Guiding Teens Through Tough Times: Communication Strategies for Parents ($18.25)</a> – Practical advice on building open dialogue and ethical grounding with young adults.
+      <strong>Parenting Tool:</strong> <a href="https://www.amazon.com/dp/B09V3K4L2M?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Guiding Teens Through Tough Times: Communication Strategies for Parents </a> – Practical advice on building open dialogue and ethical grounding with young adults.
     </div>
 
     <h2 id="how-should-readers-respond">How Should Readers Respond?</h2>
     <p>Stories like the Penn State drug ring investigation can feel distant, yet they offer practical takeaways for everyday life:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>
@@ -161,7 +161,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p>Paul Robinson is a managing attorney at a Pittsburgh law firm and the father of one of the alleged student ringleaders, Thomas Robinson. He is the only nonstudent charged in this specific investigation, facing felony tampering and hindering apprehension counts.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
       </details>
@@ -171,7 +171,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p>No. The law firm stated that the allegations involve Mr. Robinson strictly on an individual basis and do not affect the firm or its clients. Similarly, the investigation focuses on specific individuals within the Delta Upsilon and Sigma Chi fraternities rather than the institution of Penn State as a whole.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
       </details>

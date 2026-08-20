@@ -37,7 +37,7 @@ source_url: 'https://www.nbcnews.com/news/us-news/man-charged-arranging-fatal-am
     <p>Investigators state that the horrific ambush took place shortly after Bridegan dropped off his 9-year-old twins at Gardner's home following a regular routine. As Bridegan drove back to St. Augustine with his 2-year-old toddler strapped securely in the backseat, a tire deliberately placed in the middle of a dark road forced him to stop. When he stepped out of his vehicle to move it, he was shot multiple times.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>According to court filings and evidence summarized by judges during bond hearings, investigators uncovered years of festering hostility following Bridegan and Gardner's 2015 divorce. What began as standard post-marital friction over parenting arrangements allegedly devolved into deep-seated hatred, culminating in a financial arrangement to end Bridegan's life.</p>
@@ -105,7 +105,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -113,7 +113,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

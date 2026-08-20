@@ -20,16 +20,16 @@ source_url: "https://www.foxnews.com/politics/progressive-florida-lawmaker-angie
 
   <section id="what-happened">
     <h2>What Happened?</h2>
-    <p>Angie Nixon, a Jacksonville Democrat with a background in labor organizing, secured the Democratic nomination despite a massive fundraising gap compared to her opponent, Alexander Vindman. Vindman, a high-profile figure known for his testimony in the first impeachment of Donald Trump, had reported over $14 million in campaign funds, dwarfing Nixon’s $625,000.</p>
+    <p>Angie Nixon, a Jacksonville Democrat with a background in labor organizing, secured the Democratic nomination despite a massive fundraising gap compared to her opponent, Alexander Vindman. Vindman, a high-profile figure known for his testimony in the first impeachment of Donald Trump, had reported over  million in campaign funds, dwarfing Nixon’s ,000.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Nixon will now face Republican Senator Ashley Moody in the November general election. Moody was appointed by Governor Ron DeSantis to fill the vacancy left when Rubio joined the Trump administration. Because this is an appointment to fill a vacancy, the winner of the November election will only serve the remainder of the original term, which expires in 2028.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -39,7 +39,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>When a U.S. Senate seat becomes vacant mid-term, the legal procedures for filling that seat are governed by a combination of federal law and state-specific statutes. <em>This is general information, not legal advice. Consult a licensed attorney about your specific situation.</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -47,7 +47,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Under the 17th Amendment to the U.S. Constitution, states have the authority to empower their governors to make temporary appointments to fill Senate vacancies until a special election can be held. In Florida, the Governor exercised this authority to appoint Ashley Moody. This ensures the state maintains its full representation in the Senate without a protracted period of vacancy.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -55,7 +55,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>"The legal process for filling a Senate vacancy is designed to balance immediate continuity of government with the ultimate right of the electorate to choose their representative."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -64,7 +64,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Because the seat was vacated, the upcoming election is a "special election" for the remainder of the term. Unlike a full six-year cycle, the winner in November will serve only until the term concludes in 2028. Voters should be aware that their legal rights in this context involve electing a representative who will serve a truncated term, after which the seat will be up for a full cycle election.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -74,13 +74,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>The transition of power and the responsibility of public office often bring to mind the importance of integrity in leadership. Proverbs 29:2 reminds us, "When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>This political shift invites us to consider the weight of our own civic participation. Whether we are candidates or voters, we are called to be good stewards of the influence we have. As I reflect on this race, I am reminded that true leadership is not merely about influence or funding, but about the character one brings to the service of their community. We are invited to pray for those who step into these roles, that they might prioritize the well-being of the people they represent over personal gain or partisan power.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -99,7 +99,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The primary results in Florida serve as a reminder that electoral outcomes are rarely dictated by fundraising totals alone. As the state moves toward the general election, voters have a critical opportunity to decide who will represent them for the remainder of this term. Understanding the legal limitations and the scope of this special election is the first step toward informed civic participation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

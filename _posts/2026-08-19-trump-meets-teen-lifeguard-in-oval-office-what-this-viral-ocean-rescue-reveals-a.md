@@ -122,7 +122,7 @@ source_url: "https://www.foxnews.com/politics/trump-meets-teen-lifeguard-boy-sav
     <p>President Trump hosted Ryder Williams, his family, and 10-year-old Nathaniel Rai—the boy who was swept out to sea by a powerful wave—for a high-profile meeting at the White House. The rescue had previously captured national attention after video footage of the harrowing event went viral online, eventually catching the eye of Eric Trump and prompting a formal presidential invitation.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>During the Oval Office meeting, President Trump commended the young lifeguard's poise under pressure. "What you did was incredible and everybody saw it," Trump told Williams, noting that lifeguards often do not get the public recognition they deserve. For Nathaniel's father, Sumit Rai, the meeting offered a poignant moment to express profound gratitude for a rescue that spared his family an unthinkable tragedy.</p>
@@ -172,7 +172,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -180,7 +180,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

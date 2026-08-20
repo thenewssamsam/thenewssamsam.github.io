@@ -20,14 +20,14 @@ source_url: 'https://www.newsday.com/long-island/transportation/east-river-tunne
     </div>
   </header>
 
-  <p class="ncg-lead">When the first Long Island Rail Road train rolls through the newly rebuilt East River tunnel this week, most commuters will barely notice the change from their seats in the semidarkness. Yet this quiet milestone marks the end of a grueling 15-month closure and a pivotal moment in a $1.6 billion engineering recovery effort that touches the daily lives of hundreds of thousands of travelers.</p>
+  <p class="ncg-lead">When the first Long Island Rail Road train rolls through the newly rebuilt East River tunnel this week, most commuters will barely notice the change from their seats in the semidarkness. Yet this quiet milestone marks the end of a grueling 15-month closure and a pivotal moment in a  billion engineering recovery effort that touches the daily lives of hundreds of thousands of travelers.</p>
 
   <h2 id="what-happened">What Happened: A Decade in the Making</h2>
   <p>Line 2, one of four vital East River tunnel crossings connecting Penn Station in Manhattan to Queens, is officially reopening after extensive reconstruction. Originally opened in 1910 alongside the historic Penn Station, the tunnel suffered catastrophic damage during Superstorm Sandy in 2012, when millions of gallons of corrosive saltwater inundated the tracks and left a legacy of chronic delays.</p>
-  <p>The rehabilitation project, which kicked off in May 2025, required a complete, 15-month shutdown of Line 2 while three remaining tunnels bore the weight of commuter traffic. According to Amtrak and federal officials—including U.S. Sen. Chuck Schumer, who helped secure significant federal funding from the 2021 infrastructure package—workers completely rebuilt the track beds, concrete linings, drainage systems, and signaling equipment. With Line 2 now operational, Amtrak is preparing to shift its focus to Line 1 this fall, setting up another 13-month shutdown to complete the $1.6 billion twin-tunnel overhaul designed to last another century.</p>
+  <p>The rehabilitation project, which kicked off in May 2025, required a complete, 15-month shutdown of Line 2 while three remaining tunnels bore the weight of commuter traffic. According to Amtrak and federal officials—including U.S. Sen. Chuck Schumer, who helped secure significant federal funding from the 2021 infrastructure package—workers completely rebuilt the track beds, concrete linings, drainage systems, and signaling equipment. With Line 2 now operational, Amtrak is preparing to shift its focus to Line 1 this fall, setting up another 13-month shutdown to complete the  billion twin-tunnel overhaul designed to last another century.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -71,7 +71,7 @@ Seagate Portable External Hard Drive ($59.99)
     "@context": "https://schema.org",
     "@type": "NewsArticle",
     "headline": "Long Island Rail Road East River Tunnel Reopening: What a Century-Old Infrastructure Project Reveals About Modern Resilience",
-    "description": "The LIRR reopens its rebuilt East River tunnel after a 15-month shutdown. Discover what this $1.6 billion engineering feat reveals about modern resilience and infrastructure.",
+    "description": "The LIRR reopens its rebuilt East River tunnel after a 15-month shutdown. Discover what this  billion engineering feat reveals about modern resilience and infrastructure.",
     "datePublished": "2026-03-30",
     "author": {
       "@type": "Person",
@@ -86,7 +86,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -94,7 +94,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

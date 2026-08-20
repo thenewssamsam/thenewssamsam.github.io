@@ -25,7 +25,7 @@ source_url: 'https://www.ajc.com/news/2026/08/2-young-atlanta-girls-might-have-b
 <p>Yet behind the immense relief of a safe recovery lies a chilling reminder of a different kind of danger—one that doesn't fit the classic "stranger in the bushes" narrative. According to Atlanta Police Homicide Unit Commander Lt. Christapher Butler, Brown had deliberately cultivated trust with the girls' mother before Saturday night's disappearance. That detail forces us to look past simple stranger anxiety and examine a much more complex psychological reality: how human beings evaluate safety, why manipulative actors succeed in gaining confidence, and what parents can do when trust is weaponized.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -104,7 +104,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -112,7 +112,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

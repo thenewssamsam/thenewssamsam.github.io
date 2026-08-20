@@ -23,10 +23,10 @@ source_url: 'https://www.cbsnews.com/news/microsoft-manager-murder-jared-bridega
 
   <p>The details laid out in opening statements by prosecutors paint a picture of a bitterly contested divorce that deteriorated far beyond the typical friction of co-parenting. Bridegan, 33, was driving home after dropping off his 9-year-old twins when he encountered a tire deliberately placed in the roadway. When he stepped out of his Volkswagen Atlas to clear it, with his 2-year-old daughter secured in the backseat, he was shot twice. Prosecutors argue the killing was orchestrated by Fernandez Saldana and Gardner, driven by years of intense post-divorce strife over religion, lifestyle, and child-rearing.</p>
 
-  <p>While juries weigh the evidence, the testimony, and the financial paper trail involving a $10,000 payment to a former tenant, a deeper, uncomfortable question lingers outside the courtroom: How does a family dispute over school conferences and religious differences escalate into an alleged murder plot? Looking through the lens of psychology and human behavior offers a chilling roadmap of how high-conflict separations can short-circuit normal emotional regulation.</p>
+  <p>While juries weigh the evidence, the testimony, and the financial paper trail involving a ,000 payment to a former tenant, a deeper, uncomfortable question lingers outside the courtroom: How does a family dispute over school conferences and religious differences escalate into an alleged murder plot? Looking through the lens of psychology and human behavior offers a chilling roadmap of how high-conflict separations can short-circuit normal emotional regulation.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -170,7 +170,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -178,7 +178,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

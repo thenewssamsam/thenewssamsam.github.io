@@ -23,7 +23,7 @@ source_url: "https://www.cnn.com/2026/08/18/politics/florida-alaska-wyoming-prim
     <p>Florida’s primary is dominated by the race to replace term-limited Governor Ron DeSantis. The GOP contest has seen bitter exchanges, with candidates like James Fishback using inflammatory language against opponents. Meanwhile, congressional races across the state are marked by ethics investigations, accusations of misconduct, and significant shifts in district maps. Similar high-tension primaries are unfolding in Alaska and California, creating a nationwide environment of heightened political volatility.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -33,7 +33,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>From a general wellness perspective, consuming a constant stream of "wild" political news—characterized by personal attacks and high-conflict narratives—can trigger the body's stress response. When we read about "bitter feuds" or "antisemitic campaigns," our nervous system often reacts as if we are facing a direct, immediate threat. This is a common physiological response to perceived social danger.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -41,7 +41,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Chronic exposure to polarizing news can lead to what many experts call "election fatigue." Symptoms include irritability, sleep disturbances, and a sense of helplessness. It is important to remember that while staying informed is a civic duty, it should not come at the expense of your emotional equilibrium.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -57,7 +57,7 @@ Tactical Waterproof Backpack ($35.99)
     <p><em>This is general information, not medical advice. If you are feeling overwhelmed, please consult a healthcare professional.</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -67,7 +67,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>As I look at the intensity of these races, I am reminded of the wisdom found in Proverbs 17:22, which says: <em>"A cheerful heart is good medicine, but a crushed spirit dries up the bones."</em> It is so easy to let the "bitter feuds" of the political world crush our spirits, but we are called to maintain a spirit of peace even in turbulent times. Philippians 4:6-7 also invites us to replace anxiety with prayer, promising a peace that surpasses understanding. This serves as a gentle reminder that our worth and our stability are not found in the outcome of a primary election, but in something far more enduring.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -77,7 +77,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Your response to this primary season can be proactive rather than reactive:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <ul>

@@ -24,16 +24,16 @@ source_url: "https://apnews.com/article/florida-primaries-donald-trump-wasserman
     <p>The Tuesday primaries solidified the candidates for the upcoming gubernatorial election and several key congressional races. Beyond the gubernatorial contest, progressive state Rep. Angie Nixon won the Democratic nomination for a U.S. Senate special election to face Republican Sen. Ashley Moody. Additionally, incumbents and newcomers faced off in various House races, including a notable victory for Rep. Debbie Wasserman Schultz in a redrawn district and the ousting of Rep. Cory Mills in a central Florida district.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-box" style="border: 1px solid #ffd800; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Recommended Reading:</strong> <a href="#">"The Citizen's Guide to Government" - $14.99</a></p>
+    <p><strong>Recommended Reading:</strong> <a href="#">"The Citizen's Guide to Government" - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When election cycles ramp up, the intensity of political rhetoric can feel overwhelming for parents and children alike. Whether your children are school-aged or teenagers, these moments serve as an opportunity to teach civic engagement rather than just partisan loyalty.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -51,7 +51,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Younger children may not understand the nuances of a gubernatorial race, but they can grasp the concept of choosing a leader. Focus on the importance of "listening to others" and "working together" for the good of the neighborhood. Frame the election as a community process rather than a battle of personalities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -63,16 +63,16 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Teenagers are often exposed to social media ads and heated debates. Instead of telling them who to support, ask questions: "What do you think is the biggest issue facing our state right now?" or "How does this candidate’s plan affect the schools?" This helps them develop their own critical thinking skills.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-box" style="border: 1px solid #ffd800; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Activity Idea:</strong> <a href="#">"Interactive Civics Activity Kit for Teens" - $22.50</a></p>
+    <p><strong>Activity Idea:</strong> <a href="#">"Interactive Civics Activity Kit for Teens" - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>
@@ -82,14 +82,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>As I watch these political developments, I am reminded of the complexity of human governance. It makes me think about the wisdom needed to lead with integrity. Scripture invites us to consider the burden placed upon those in authority:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <blockquote>"I urge, then, first of all, that petitions, prayers, intercession and thanksgiving be made for all people—for kings and all those in authority, that we may live peaceful and quiet lives in all godliness and holiness." (1 Timothy 2:1-2, NIV)</blockquote>
     <p>This verse reminds me that our primary role as citizens is to pray for our leaders—regardless of their party—that they might act with justice and mercy. It also reminds me that our peace is not ultimately found in the outcome of an election, but in the character we cultivate within our own homes and communities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

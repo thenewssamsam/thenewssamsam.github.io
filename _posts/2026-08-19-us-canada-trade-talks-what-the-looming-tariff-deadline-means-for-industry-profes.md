@@ -16,7 +16,7 @@ source_url: "https://www.bbc.com/news/articles/crl7600rpnko"
   </header>
 
   <section id="introduction">
-    <p>As Canadian negotiators work against the clock in Washington, the outcome of the latest US-Canada trade talks carries significant weight for North American industries. With a 50% tariff on $20 billion worth of Canadian imports looming this Wednesday, businesses across the steel, auto, and forestry sectors are bracing for potential disruption. For professionals and industry leaders, this is more than a political headline—it is a critical moment for supply chain stability and long-term economic planning.</p>
+    <p>As Canadian negotiators work against the clock in Washington, the outcome of the latest US-Canada trade talks carries significant weight for North American industries. With a 50% tariff on  billion worth of Canadian imports looming this Wednesday, businesses across the steel, auto, and forestry sectors are bracing for potential disruption. For professionals and industry leaders, this is more than a political headline—it is a critical moment for supply chain stability and long-term economic planning.</p>
   </section>
 
   <section id="what-happened">
@@ -25,7 +25,7 @@ source_url: "https://www.bbc.com/news/articles/crl7600rpnko"
     <p>While the goal is to avoid the implementation of 50% tariffs on specific Canadian goods, both sides remain at an impasse. Minister Dominic LeBlanc has emphasized that the work is not yet done, underscoring the precarious nature of the next 48 hours.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-abshoo College Bookbag ($29.99)
+abshoo College Bookbag 
 </a></div>
 
   </section>
@@ -35,7 +35,7 @@ abshoo College Bookbag ($29.99)
     <p>For those working in manufacturing, logistics, and international trade, the current climate creates a "wait-and-see" environment that complicates operational forecasting. When tariffs are used as a primary lever in trade diplomacy, the ripple effects are felt most acutely in sectors with tight margins and integrated cross-border supply chains.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Industries like automotive and steel rely on a seamless flow of goods between the US and Canada. A 50% tariff would fundamentally alter the cost structure for manufacturers. Professionals in these fields should be preparing for potential price volatility and supply chain rerouting. In times like these, the ability to pivot—or at least have a robust contingency plan—becomes a core competency.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Backpack USB Charging Port ($39.99)
+Backpack USB Charging Port 
 </a></div>
 
 
@@ -55,7 +55,7 @@ Backpack USB Charging Port ($39.99)
     <p>The dairy and forestry sectors are facing unique pressures. For dairy, the conflict over supply management represents a fundamental clash between different agricultural philosophies. Industry leaders in these areas are currently navigating high levels of anxiety as political leaders, such as Quebec’s Christine Fréchette, maintain that certain systems are non-negotiable. For professionals in these sectors, monitoring provincial policy as closely as federal negotiations is essential.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -65,13 +65,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In the midst of these complex negotiations, one is reminded of the biblical wisdom regarding the value of patience and the weight of leadership. Proverbs 11:14 (ESV) notes, "Where there is no guidance, a people falls, but in an abundance of counselors there is safety." This underscores the importance of the collaborative, albeit difficult, work being done by the negotiating teams.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-KEOFID Classic Backpack ($32.99)
+KEOFID Classic Backpack 
 </a></div>
 
     <p>Furthermore, Matthew 5:9 (NIV) reminds us: "Blessed are the peacemakers, for they will be called children of God." While trade negotiations are transactional, the pursuit of stability and the avoidance of unnecessary economic pain for families—who are clearly feeling the strain, as indicated by recent polling—is a pursuit of the common good. We are called to be stewards of our resources and our communities, and this includes managing our professional affairs with both integrity and a heart for the stability of our neighbors.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-GAZELLE External Hard Drive ($54.99)
+GAZELLE External Hard Drive 
 </a></div>
 
   </section>
@@ -90,7 +90,7 @@ GAZELLE External Hard Drive ($54.99)
     <p>The next few days will likely define the trade environment for the foreseeable future. Whether a deal is struck or the tariffs go into effect, the most successful professionals will be those who remain informed and agile, refusing to let political volatility dictate their long-term professional strategy.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Backpack USB Charging Port ($39.99)
+Backpack USB Charging Port 
 </a></div>
 
   </section>

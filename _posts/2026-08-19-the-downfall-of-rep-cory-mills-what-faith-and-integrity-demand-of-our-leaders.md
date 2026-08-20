@@ -22,7 +22,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/gop-rep-cory-mills-l
         <p>The primary was defined not just by policy debates, but by the shadow of multiple investigations—including a House Ethics Committee probe into alleged sexual misconduct and campaign finance violations, alongside a Department of Justice investigation into his financial dealings. While Mills has consistently denied any wrongdoing, the weight of these allegations clearly resonated with the electorate, leading fellow Republicans to break ranks and support his challenger.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </section>
@@ -32,7 +32,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p>From a biblical perspective, the story of Representative Mills is less about political strategy and more about the fundamental requirement of character in leadership. Scripture places a high premium on the reputation and conduct of those who hold positions of authority. The Apostle Paul, in his letter to Titus, reminds the early church: <em>"In everything set them an example by doing what is good. In your teaching show integrity, seriousness and soundness of speech"</em> (Titus 2:7, NIV).</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -40,7 +40,7 @@ Tactical Waterproof Backpack ($35.99)
             <p><strong>Shareable Insight:</strong> "Political endorsements may open doors, but only personal integrity can sustain a legacy of service. A leader's true mandate comes from the character they display when no one is watching."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         </div>
@@ -48,14 +48,14 @@ Seagate Portable External Hard Drive ($59.99)
         <p>When we look at the requirements for leadership in the Bible, the emphasis is rarely on earthly power or status. Instead, the focus is on being "above reproach." This is not to say that leaders must be perfect, but they must be accountable. The investigations surrounding Mr. Mills involve serious allegations of misconduct. When these allegations arise, the response of the leader is just as critical as the event itself.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
         <p>This situation invites us to consider the nature of accountability. In a healthy society, leadership is a stewardship—a trust placed in an individual by the people. When that trust is frayed by repeated investigations, the ability to effectively serve the community is compromised. As followers of Christ, we are called to look beyond the surface of headlines and consider the deeper moral currents at play in our public institutions.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </section>
@@ -65,21 +65,21 @@ Seagate Portable External Hard Drive ($59.99)
         <p>This news makes me think about the nature of our own responsibilities, both in public and private life. I am reminded that the standards we set for our leaders should reflect the values we hold dear. When we see a collapse of character in the public square, it should serve as a mirror, asking us to evaluate our own commitment to truth and transparency.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
         
         <p>Proverbs 22:1 tells us: <em>"A good name is more desirable than great riches; to be esteemed is better than silver or gold"</em> (Proverbs 22:1, NIV). This verse serves as a powerful reminder that the currency of a life—the "good name"—is far more valuable than political capital or the backing of powerful figures. When that name is tarnished, no amount of political maneuvering can truly restore the trust that has been lost.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
         
         <p>We must pray for those in office, but we must also be willing to hold them to the standards of integrity that God expects from all of us. True leadership is not about maintaining a position at all costs; it is about serving the common good with a clean conscience and a heart dedicated to righteousness.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </section>

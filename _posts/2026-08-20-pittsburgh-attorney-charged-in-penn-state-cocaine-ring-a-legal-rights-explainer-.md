@@ -41,13 +41,13 @@ source_url: "https://triblive.com/local/regional/father-charged-in-suspected-coc
 <p>The core allegation against Paul Robinson involves actions taken to protect his 23-year-old son, Thomas Michael Robinson, who investigators identify as a suspected leader of the drug ring. While the younger Robinson reportedly cooperated with authorities after an initial December 2024 arrest, his father now faces severe felony counts, including tampering with evidence—specifically, a safe containing drugs and cash—and obstructing a police investigation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
 
 <div class="ncg-product-card" style="border-left: 4px solid #f59e0b; background: #fffbeb; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Legal Resource:</strong> <a href="https://www.amazon.com/dp/1524876240?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Understanding Criminal Law (Understanding Series) - $54.95</a>
+    <strong>Recommended Legal Resource:</strong> <a href="https://www.amazon.com/dp/1524876240?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Understanding Criminal Law (Understanding Series) - </a>
     <p style="margin: 5px 0 0 0; font-size: 0.9em; color: #78350f;">A comprehensive guide to understanding criminal offenses, liability, and defense strategies.</p>
 </div>
 
@@ -56,7 +56,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>From a criminal defense standpoint, the charges against Paul Robinson highlight a crucial, often misunderstood boundary in American law: the legal distinction between being a supportive parent and becoming an accomplice or a co-conspirator through active concealment.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -67,7 +67,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Under Pennsylvania law, evidence tampering and hindering apprehension are serious felonies. When an individual takes physical steps to conceal, destroy, or alter items known to be evidence in an official proceeding—such as moving a safe containing narcotics and illicit cash—they cross the legal Rubicon from emotional support into criminal culpability. Prosecutors do not need to prove that the individual participated in the underlying drug distribution ring; they only need to demonstrate intent to impair the availability of evidence in a criminal investigation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -75,13 +75,13 @@ Tactical Waterproof Backpack ($35.99)
 <p>In high-profile investigations involving family members, tensions run high between personal loyalties and legal duties. While citizens generally possess a constitutional right to remain silent and refuse to speak with law enforcement without an attorney present, actively misdirecting police, hiding physical assets, or moving drug stug fundamentally alters a person's legal standing. For an experienced trial attorney facing these counts, the irony and severity of the allegations underscore how easily emotional panic can translate into indictable felonies.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
 
 <div class="ncg-product-card" style="border-left: 4px solid #f59e0b; background: #fffbeb; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Professional Office Essential:</strong> <a href="https://www.amazon.com/dp/B073V84Q6M?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazon Basics Heavy-Duty Steel Security Safe - $49.99</a>
+    <strong>Professional Office Essential:</strong> <a href="https://www.amazon.com/dp/B073V84Q6M?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Amazon Basics Heavy-Duty Steel Security Safe - </a>
     <p style="margin: 5px 0 0 0; font-size: 0.9em; color: #78350f;">A secure home safe for storing legal documents and valuables securely.</p>
 </div>
 
@@ -90,27 +90,27 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Incidents like this invite a deeper moral and spiritual reflection on the nature of truth, accountability, and integrity. In moments of crisis, human instinct often drives us to shield those we love at any cost, sometimes blurring the lines between moral duty and ethical compromise. Scripture offers a sobering perspective on integrity in difficult seasons.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Proverbs 10:9 reminds us, "Whoever walks in integrity walks securely, but whoever takes crooked paths will be found out." This ancient wisdom speaks directly to the reality that secret actions, no matter how carefully hidden in safes or private spaces, eventually come to light.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Furthermore, Proverbs 21:15 notes, "When justice is done, it brings joy to the righteous but terror to evildoers." As this case moves through the court system, it reminds observers that the pursuit of truth and justice remains essential for a stable society, calling all individuals—regardless of their profession or social standing—to walk in honesty and transparency.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
 
 <div class="ncg-product-card" style="border-left: 4px solid #f59e0b; background: #fffbeb; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/150117134X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The Choice: Embrace the Possible by Dr. Edith Eger - $16.99</a>
+    <strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/150117134X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The Choice: Embrace the Possible by Dr. Edith Eger - </a>
     <p style="margin: 5px 0 0 0; font-size: 0.9em; color: #78350f;">A powerful memoir on accountability, healing, and making conscious choices.</p>
 </div>
 
@@ -119,7 +119,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>While the details of this high-profile case unfold in Allegheny County and Centre County courts, everyday citizens can take away several practical lessons regarding legal boundaries and family dynamics:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <ul>
@@ -134,7 +134,7 @@ Tactical Waterproof Backpack ($35.99)
 </section>
 
 <div class="ncg-product-card" style="border-left: 4px solid #f59e0b; background: #fffbeb; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Office & Writing Essential:</strong> <a href="https://www.amazon.com/dp/B07N3RHM8G?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Leuchtturm1917 Medium A5 Dotted Hardcover Notebook - $24.95</a>
+    <strong>Office & Writing Essential:</strong> <a href="https://www.amazon.com/dp/B07N3RHM8G?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Leuchtturm1917 Medium A5 Dotted Hardcover Notebook - </a>
     <p style="margin: 5px 0 0 0; font-size: 0.9em; color: #78350f;">An essential notebook for keeping organized notes, schedules, and daily thoughts.</p>
 </div>
 

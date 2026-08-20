@@ -20,10 +20,10 @@ source_url: "https://www.cnn.com/2026/08/18/politics/live-news/florida-primary-e
     <p>The 2026 primary season reached a significant milestone this week, with major shifts in Florida and beyond. CNN projects that state Rep. Angie Nixon will secure the Democratic nomination for the U.S. Senate, setting the stage for a high-profile contest against GOP Sen. Ashley Moody. Meanwhile, in the race for the Florida governorship, Rep. Byron Donalds has emerged as the Republican nominee, moving forward to face Democrat David Jolly. These results underscore a volatile political climate where endorsements, ideological shifts, and personal character—as seen in the primary losses of candidates facing ethical inquiries—are shaping the future of governance.</p>
     
     <div class="ncg-amazon-box" style="border: 2px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B000SEJ49I?tag=thenewssam-20">The Purpose Driven Life: What on Earth Am I Here For? - $14.99</a></p>
+      <p><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B000SEJ49I?tag=thenewssam-20">The Purpose Driven Life: What on Earth Am I Here For? - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -34,7 +34,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>In the noise of campaign rhetoric, it is easy for the heart to grow weary. As we witness these shifts in leadership, we are reminded that political power, while important for organizing a society, is not the ultimate source of our hope. From a biblical worldview, the pursuit of office should be an act of stewardship—a responsibility to seek justice, love mercy, and walk humbly.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -49,15 +49,15 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The recent primary results highlight a "bitter fight" in many races, reminding us that division is often the default setting of our political culture. When candidates focus on tearing down opponents or leveraging power for personal gain, the common good is often lost. Scripture invites us to consider that our neighbor, regardless of their political affiliation, is made in the image of God. When we view political contests through this lens, our engagement changes from a desire to "whoop" our opponents to a desire to see our communities flourish under righteous leadership.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div class="ncg-amazon-box" style="border: 2px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/1400201659?tag=thenewssam-20">The Explicit Gospel - $12.50</a></p>
+      <p><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/1400201659?tag=thenewssam-20">The Explicit Gospel - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -68,21 +68,21 @@ Tactical Waterproof Backpack ($35.99)
     <p>Watching these results, I am struck by how much energy is spent on the "who" of politics, and how little on the "how." One lesson I find in this moment is the importance of integrity. When candidates fall due to ethics violations, it serves as a sober reminder that character is the foundation of any sustainable leadership.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>As the Apostle Paul wrote to the Philippians: <em>"Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence, if there is anything worthy of praise, think about these things."</em> (Philippians 4:8).</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>This verse challenges us to look beyond the headlines and assess our leaders by their fruits. Are they promoting justice? Are they acting with honor? Our role as citizens is to hold leaders accountable to these standards, not just during election season, but consistently throughout their tenure.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

@@ -34,7 +34,7 @@ source_url: "https://www.nbcnews.com/politics/justice-department/doj-issues-gran
 </section>
 
 <div class="ncg-product-card" style="border-left: 4px solid #2e7d32; background: #f1f8f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-<p style="margin: 0 0 5px 0; font-weight: bold; color: #1b5e20;">Recommended Wellness Support: <a href="https://www.amazon.com/dp/B073Q54326?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Natural Stress Relief Supplement - Ashwagandha Blend</a> ($19.99)</p>
+<p style="margin: 0 0 5px 0; font-weight: bold; color: #1b5e20;">Recommended Wellness Support: <a href="https://www.amazon.com/dp/B073Q54326?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Natural Stress Relief Supplement - Ashwagandha Blend</a> </p>
 <p style="margin: 0; font-size: 0.9em; color: #444;">Support your nervous system during high-stress news cycles with natural adaptogens.</p>
 </div>
 
@@ -43,14 +43,14 @@ source_url: "https://www.nbcnews.com/politics/justice-department/doj-issues-gran
 <p>From a general health and wellness standpoint, relentless exposure to bizarre political news, legal battles, and institutional friction takes a measurable toll on the human body. When stories like the Alaska Senate name-saga unfold with compounding layers of confusion, our brains process them not just as distant events, but as unpredictable stimuli.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>This is general information, not medical advice. Consult a licensed healthcare professional about your specific health and wellness needs.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -62,20 +62,20 @@ Tactical Waterproof Backpack ($35.99)
 <p>Psychologists and wellness experts frequently point out that human neurology evolved to track immediate threats within a local tribe—not to process convoluted federal investigations happening thousands of miles away. When we flood our minds with endless updates about grand jury subpoenas, campaign mix-ups, and institutional investigations, we trigger what modern wellness science calls continuous partial attention and information fatigue syndrome.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Physical symptoms often follow close behind: shallow breathing, muscle tension in the neck and shoulders, disrupted sleep cycles, and a pervasive sense of mental exhaustion. Recognizing these signs is the first step toward reclaiming our personal equilibrium.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
 
 <div class="ncg-product-card" style="border-left: 4px solid #2e7d32; background: #f1f8f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-<p style="margin: 0 0 5px 0; font-weight: bold; color: #1b5e20;">Recommended Sleep Support: <a href="https://www.amazon.com/dp/B0013OVS7K?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Weighted Blanket for Anxiety and Better Sleep</a> ($45.99)</p>
+<p style="margin: 0 0 5px 0; font-weight: bold; color: #1b5e20;">Recommended Sleep Support: <a href="https://www.amazon.com/dp/B0013OVS7K?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Weighted Blanket for Anxiety and Better Sleep</a> </p>
 <p style="margin: 0; font-size: 0.9em; color: #444;">Calm your nervous system and improve rest after consuming stressful news.</p>
 </div>
 
@@ -84,20 +84,20 @@ Seagate Portable External Hard Drive ($59.99)
 <p>This news makes me think about how easily our inner peace gets hijacked by the endless noise of human ambition and institutional friction. We live in a world where confusion and rivalry seem constantly ready to boil over, leaving us anxious and spiritually drained.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>I am reminded of the simple wisdom found in Proverbs 14:30: "A tranquil heart gives life to the flesh, but envy makes the bones rot." While political maneuvering and grand jury investigations play out in headlines, our daily choice is whether to let the turbulent state of the world dictate the condition of our hearts.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
 
 <div class="ncg-product-card" style="border-left: 4px solid #2e7d32; background: #f1f8f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-<p style="margin: 0 0 5px 0; font-weight: bold; color: #1b5e20;">Recommended Mindfulness Tool: <a href="https://www.amazon.com/dp/B085Z1R439?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Guided Meditation Timer and Chime Clock</a> ($29.99)</p>
+<p style="margin: 0 0 5px 0; font-weight: bold; color: #1b5e20;">Recommended Mindfulness Tool: <a href="https://www.amazon.com/dp/B085Z1R439?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Guided Meditation Timer and Chime Clock</a> </p>
 <p style="margin: 0; font-size: 0.9em; color: #444;">Establish a daily grounding routine to step away from digital noise.</p>
 </div>
 
@@ -106,7 +106,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Protecting your personal well-being in the middle of a heavy news cycle does not mean sticking your head in the sand. Instead, it requires intentional boundaries:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <ul>
@@ -117,7 +117,7 @@ Seagate Portable External Hard Drive ($59.99)
 </section>
 
 <div class="ncg-product-card" style="border-left: 4px solid #2e7d32; background: #f1f8f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-<p style="margin: 0 0 5px 0; font-weight: bold; color: #1b5e20;">Recommended Journaling Tool: <a href="https://www.amazon.com/dp/B07V3532C3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Daily Gratitude and Mindfulness Journal</a> ($14.99)</p>
+<p style="margin: 0 0 5px 0; font-weight: bold; color: #1b5e20;">Recommended Journaling Tool: <a href="https://www.amazon.com/dp/B07V3532C3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Daily Gratitude and Mindfulness Journal</a> </p>
 <p style="margin: 0; font-size: 0.9em; color: #444;">Process your thoughts and focus on grounded, positive daily habits.</p>
 </div>
 

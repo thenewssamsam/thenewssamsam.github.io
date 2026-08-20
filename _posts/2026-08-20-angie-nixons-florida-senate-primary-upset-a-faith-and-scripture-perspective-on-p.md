@@ -37,7 +37,7 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vi
     <section id="what-happened" style="margin-bottom: 32px;">
         <h2 style="font-size: 1.5rem; font-weight: 700; color: #2d3748; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; margin-bottom: 16px;" id="what-happened">What Happened in the Florida Primary?</h2>
         <p style="margin-bottom: 16px;">
-            The numbers heading into the primary told a story of David versus Goliath. According to reporting from Florida Politics, Alexander Vindman entered the race with approximately $16.3 million in funding, whereas Nixon held roughly $975,000. Vindman, a prominent whistleblower from Donald Trump's first presidential term, had positioned his campaign around challenging Republican incumbent appointee Ashley Moody.
+            The numbers heading into the primary told a story of David versus Goliath. According to reporting from Florida Politics, Alexander Vindman entered the race with approximately  million in funding, whereas Nixon held roughly ,000. Vindman, a prominent whistleblower from Donald Trump's first presidential term, had positioned his campaign around challenging Republican incumbent appointee Ashley Moody.
         </p>
         <p style="margin-bottom: 16px;">
             Despite this monumental financial gulf, Associated Press figures show Nixon securing 56.1% of the vote to Vindman's 43.9%. Nixon, a Jacksonville native known for her active opposition to Governor Ron DeSantis's redistricting policies—including a high-profile sit-in that resulted in misdemeanor charges—built her campaign on grassroots organizing and deep community roots. Vindman ultimately conceded gracefully, praising Nixon's campaign and pledging his support for the upcoming general election battle against Moody.
@@ -57,7 +57,7 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vi
 
         <div style="background: #fffaf0; border: 1px solid #feebc8; padding: 16px; border-radius: 8px; margin: 20px 0;">
             <p style="font-weight: 600; color: #c05621; margin-bottom: 8px;">Recommended Resource for Personal Reflection:</p>
-            <p style="margin: 0; font-size: 0.950rem;"><a href="https://www.amazon.com/dp/B0040ZH3VO?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #dd6b20; text-decoration: underline;">Mere Christianity by C.S. Lewis</a> - Explore timeless wisdom on human pride, humility, and moral choices in public and private life. ($12.99)</p>
+            <p style="margin: 0; font-size: 0.950rem;"><a href="https://www.amazon.com/dp/B0040ZH3VO?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #dd6b20; text-decoration: underline;">Mere Christianity by C.S. Lewis</a> - Explore timeless wisdom on human pride, humility, and moral choices in public and private life. </p>
         </div>
 
         <h3 style="font-size: 1.25rem; font-weight: 600; color: #4a5568; margin-top: 20px; margin-bottom: 12px;">The Call to True Humility and Stewardship</h3>
@@ -92,7 +92,7 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vi
 
         <div style="background: #fffaf0; border: 1px solid #feebc8; padding: 16px; border-radius: 8px; margin: 20px 0;">
             <p style="font-weight: 600; color: #c05621; margin-bottom: 8px;">Recommended Resource:</p>
-            <p style="margin: 0; font-size: 0.950rem;"><a href="https://www.amazon.com/dp/B085V3G797?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #dd6b20; text-decoration: underline;">The Ruthless Elimination of Hurry by John Mark Comer</a> - Learn to find peace and spiritual grounding away from the frantic pace of modern public life. ($14.99)</p>
+            <p style="margin: 0; font-size: 0.950rem;"><a href="https://www.amazon.com/dp/B085V3G797?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #dd6b20; text-decoration: underline;">The Ruthless Elimination of Hurry by John Mark Comer</a> - Learn to find peace and spiritual grounding away from the frantic pace of modern public life. </p>
         </div>
     </section>
 

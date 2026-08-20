@@ -22,7 +22,7 @@ source_url: "https://www.psu.edu/news/campus-life/story/penn-state-responds-seri
     <p>This situation serves as a stark reminder of the professional and personal risks inherent in organizational leadership. Whether in a university setting or a corporate environment, the "culture of the group" often dictates the actions of its individual members.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-GAZELLE External Hard Drive ($54.99)
+GAZELLE External Hard Drive 
 </a></div>
 
   </section>
@@ -31,7 +31,7 @@ GAZELLE External Hard Drive ($54.99)
     <p><strong>Professional Insight:</strong> "When an organization loses its ethical compass, the legal and professional fallout rarely stops at the leadership level; it compromises the future of every member involved."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>
@@ -42,15 +42,15 @@ Tactical Waterproof Backpack ($35.99)
     <p>From an industry analysis perspective, the distinction between "recognized" and "unrecognized" organizations is critical. Just as a corporation is liable for the actions of its departments, a university faces significant reputational and legal risk when its brand is associated with rogue entities. For students, the lesson is clear: alignment with an organization that operates outside of formal governance is a liability that can derail a career before it begins.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-QT-QY Military Tactical Backpack ($34.99)
+QT-QY Military Tactical Backpack 
 </a></div>
 
     
     <div style="border-left: 5px solid #4a90e2; background-color: #f4f7fa; padding: 10px; margin: 15px 0;">
-      <p><strong>Recommended Resource:</strong> <a href="#">Professional Ethics in Leadership: A Guide (Price: $19.99)</a></p>
+      <p><strong>Recommended Resource:</strong> <a href="#">Professional Ethics in Leadership: A Guide ()</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-KEOFID Classic Backpack ($32.99)
+KEOFID Classic Backpack 
 </a></div>
 
     </div>
@@ -59,7 +59,7 @@ KEOFID Classic Backpack ($32.99)
     <p>University conduct processes are effectively the "internal audits" of higher education. By separating individual conduct from organizational responsibility, Penn State is attempting to apply a structural accountability model. This mirrors how modern corporations manage internal investigations: identifying the systemic failure (the organization) while addressing the individual breach (the student).</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Toshiba 5400RPM Hard Drive ($49.99)
+Toshiba 5400RPM Hard Drive 
 </a></div>
 
   </section>
@@ -69,13 +69,13 @@ Toshiba 5400RPM Hard Drive ($49.99)
     <p>This situation invites us to consider the weight of our associations and the integrity of our choices. Proverbs 13:20 reminds us, "Walk with the wise and become wise, for a companion of fools suffers harm." This isn't just about peer pressure; it’s about the environment we choose to cultivate.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-JIYINGDUO External Hard Drive ($44.99)
+JIYINGDUO External Hard Drive 
 </a></div>
 
     <p>I am reminded that our actions in private, even when we believe we are operating "off-campus" or outside of oversight, have public consequences. True character is defined by what we do when we think no one is watching. Scripture invites us to be people of integrity, whose public and private lives align, ensuring that our associations reflect the values we claim to hold.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-abshoo College Bookbag ($29.99)
+abshoo College Bookbag 
 </a></div>
 
   </section>
@@ -90,10 +90,10 @@ abshoo College Bookbag ($29.99)
   </section>
 
   <div style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Recommended Resource:</strong> <a href="#">The Culture Code: Secrets of Highly Successful Groups (Price: $14.50)</a></p>
+    <p><strong>Recommended Resource:</strong> <a href="#">The Culture Code: Secrets of Highly Successful Groups ()</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-abshoo College Bookbag ($29.99)
+abshoo College Bookbag 
 </a></div>
 
   </div>

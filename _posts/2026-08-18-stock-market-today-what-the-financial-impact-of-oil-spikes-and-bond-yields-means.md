@@ -39,7 +39,7 @@ source_url: 'https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-5
 <p>The immediate catalyst for the renewed market caution is a familiar mix of macroeconomic headwinds: lingering uncertainty surrounding shipping chokepoints in the Middle East, disappointing retail sales numbers from the previous week, and bond yields pushing toward multi-year highs. For everyday investors trying to navigate these swings, understanding the mechanical links between oil, interest rates, and stock valuations is far more useful than reacting to daily price fluctuations.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 </section>
@@ -47,7 +47,7 @@ Tactical Waterproof Backpack ($35.99)
 <section id="financial-impact">
 <h2>The Financial Impact: Oil, Bonds, and the Cost of Capital</h2>
 <p>When financial markets experience a broad-based pullback, it rarely happens in a vacuum. Monday's session highlighted two major economic transmission belts: energy markets and fixed-income yields.</p>
-<p>Crude oil futures jumped roughly 2.4%—with U.S. benchmark WTI reaching $84.35 a barrel and international Brent hitting $90.65—following reports that diplomatic efforts concerning the Strait of Hormuz faced hurdles. Because petroleum is a foundational input for manufacturing, transportation, and consumer goods, rising oil prices act as a subtle tax on the entire global economy. Higher fuel costs squeeze corporate profit margins and stoke fears that stubborn inflation could force central banks to keep interest rates elevated for longer.</p>
+<p>Crude oil futures jumped roughly 2.4%—with U.S. benchmark WTI reaching  a barrel and international Brent hitting —following reports that diplomatic efforts concerning the Strait of Hormuz faced hurdles. Because petroleum is a foundational input for manufacturing, transportation, and consumer goods, rising oil prices act as a subtle tax on the entire global economy. Higher fuel costs squeeze corporate profit margins and stoke fears that stubborn inflation could force central banks to keep interest rates elevated for longer.</p>
 <p>Simultaneously, the fixed-income market flashed warning signs. The 10-year Treasury yield edged near 4.73%, while the 30-year yield surged to 5.31%, its highest level since 2007. From a purely mechanical standpoint, higher bond yields alter asset pricing across the board:</p>
 <ul>
 <li><strong>Competing Returns:</strong> When safer government bonds offer yields above 5%, institutional investors demand higher expected earnings from riskier equities, particularly high-growth tech stocks whose valuations rely heavily on future cash flows.</li>
@@ -189,7 +189,7 @@ article ul { margin-bottom: 1.25rem; }
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -197,7 +197,7 @@ article ul { margin-bottom: 1.25rem; }
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

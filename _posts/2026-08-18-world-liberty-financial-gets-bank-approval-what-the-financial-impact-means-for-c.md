@@ -34,10 +34,10 @@ source_url: 'https://www.usatoday.com/story/news/politics/2026/08/17/treasury-tr
 <section id="what-happened">
 <h2>What Happened: The Treasury Charter</h2>
 <p>On August 14, 2026, the Treasury Department’s Office of the Comptroller of the Currency (OCC) granted preliminary conditional approval for the <strong>World Liberty Trust Company</strong> to operate as a bank. The approval specifically empowers the firm—co-founded by President Donald Trump and his sons—to issue stablecoins tied directly to the U.S. dollar.</p>
-<p>The announcement follows a lucrative year for the enterprise. According to financial disclosures, the broader crypto company brought in nearly $800 million for President Trump in 2025 alone. Zach Witkoff, chief executive officer of World Liberty Financial and son of administration diplomat Steve Witkoff, stated that the company's ambition is to build a trusted digital dollar that strengthens the U.S. currency's global role.</p>
+<p>The announcement follows a lucrative year for the enterprise. According to financial disclosures, the broader crypto company brought in nearly  million for President Trump in 2025 alone. Zach Witkoff, chief executive officer of World Liberty Financial and son of administration diplomat Steve Witkoff, stated that the company's ambition is to build a trusted digital dollar that strengthens the U.S. currency's global role.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 <p>Predictably, the decision drew sharp division. Critics, led by Senator Elizabeth Warren, characterized the charter as an unprecedented conflict of interest and self-dealing. Meanwhile, administration spokespersons and company representatives emphasized that Trump's holdings remain in fully discretionary accounts managed by independent third parties, and that strict operational safeguards are built into the preliminary approval to separate the family's holding entities from day-to-day banking functions.</p>
@@ -49,7 +49,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>A stablecoin is a cryptocurrency designed to maintain a stable value—typically pegged 1:1 to a fiat currency like the U.S. dollar. To back those digital tokens safely, issuers must hold reserves in cash, short-term Treasury bills, or highly liquid equivalent assets. Operating as a chartered trust company changes the playing field fundamentally:</p>
 <ul>
 <li><strong>Federal Oversight:</strong> Instead of operating purely as a software or financial technology startup, a chartered trust falls under permanent federal regulatory supervision.</li>
-<li><strong>Capital Requirements:</strong> The preliminary approval mandates that World Liberty maintain at least $20 million in capital and hire an internal audit manager.</li>
+<li><strong>Capital Requirements:</strong> The preliminary approval mandates that World Liberty maintain at least  million in capital and hire an internal audit manager.</li>
 <li><strong>Direct Issuance Power:</strong> Holding a charter gives the entity legal certainty to issue, manage, and settle digital dollar tokens under established regulatory guidelines rather than gray-market interpretations.</li>
 </ul>
 <p>From a purely financial standpoint, transitioning from a token-selling venture into a regulated trust transforms fee generation into structured banking revenue. It bridges the gap between decentralized finance (DeFi) protocols and institutional trust—giving corporate customers a federally supervised counterparty for digital settlement.</p>
@@ -122,7 +122,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -130,7 +130,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

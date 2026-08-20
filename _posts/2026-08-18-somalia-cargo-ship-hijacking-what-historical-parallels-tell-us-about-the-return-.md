@@ -39,7 +39,7 @@ source_url: 'https://www.dw.com/en/somalia-pirates-seize-commercial-cargo-ship/a
 <p>International maritime monitors reported on Monday that an unnamed commercial cargo ship was seized by eight armed individuals near the Horn of Africa. Both the UK Maritime Trade Operations (UKMTO) and the EU Maritime Security Center Indian Ocean (MSCIO) issued urgent alerts following the boarding.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>While the crew is currently reported safe, the incident marks a troubling escalation in regional waters. The UKMTO has advised vessels in the area to transit with extreme caution and immediately report any suspicious activity. This latest takeover does not occur in a vacuum; it is part of a growing wave of maritime disruptions affecting global trade routes.</p>
@@ -112,7 +112,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -120,7 +120,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

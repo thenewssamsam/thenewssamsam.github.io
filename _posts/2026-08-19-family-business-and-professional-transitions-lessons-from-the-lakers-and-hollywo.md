@@ -26,7 +26,7 @@ source_url: "https://www.nbcnews.com/news/us-news/tuesday-primaries-buss-family-
       <p><strong>Recommended Reading:</strong> <em>Family Business Governance: Maximizing Value and Harmony</em> - <a href="#">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -34,7 +34,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>For professionals involved in family businesses, the "Lakers drama" underscores the necessity of formal governance. When roles are blurred and communication breaks down, the professional standing of the entire organization is at risk. Clear communication, legal documentation, and professional mediation are not just corporate buzzwords; they are the bedrock of sustainability.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -44,7 +44,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Hayden Panettiere’s career, which began before she could even walk, offers a different perspective on professional longevity. Embracing a path she did not choose, Panettiere’s life reflects the immense pressure of "early-start" industries. Her journey highlights the importance of agency in one's career trajectory.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -55,7 +55,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Many professionals today find themselves in roles chosen for them by circumstance or external expectations. Taking ownership of your professional development—even mid-career—is essential for mental well-being and long-term satisfaction.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -65,13 +65,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In the midst of career transitions, we are reminded of the value of stewardship and wisdom. Proverbs 16:9 tells us, <em>"The heart of man plans his way, but the Lord establishes his steps."</em> This verse invites us to consider that while we must plan and navigate our professional lives with diligence, there is a humility in recognizing that our path is often influenced by factors beyond our control.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>I am reminded that whether we are managing a multi-million dollar sports franchise or seeking a new direction in our own work, the focus should remain on integrity. As Philippians 2:4 encourages, <em>"Let each of you look not only to his own interests, but also to the interests of others."</em> This principle is a powerful tool for navigating conflict, whether in a family business or a high-pressure office environment.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

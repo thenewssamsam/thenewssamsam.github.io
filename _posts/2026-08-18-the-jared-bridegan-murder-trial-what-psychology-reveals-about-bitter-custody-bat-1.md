@@ -38,7 +38,7 @@ source_url: ''
 <p>He started driving home with his 2-year-old daughter in the backseat when he came upon a tire in the middle of the road. He stopped his car and got out to move it. But before he could get back behind the wheel, someone shot him dead in the street and fled.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 <p>Jared Bridegan, 33, had made the drive from Jacksonville Beach to his home in nearby St. Augustine countless times before. That Wednesday in February 2022 had unfolded like any other: dinner with his toddler and twins, handing off the twins to their mother, and the evening drive home to his wife and baby. But prosecutors say Bridegan&#8217;s killer knew his routine, too, and had planted the tire to lure him out of the car. Jacksonville Beach Police Chief Paul Smith called it &#8220;a planned and targeted ambush and murder.&#8221;</p>
@@ -137,7 +137,7 @@ a:hover { text-decoration: underline; }
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -145,7 +145,7 @@ a:hover { text-decoration: underline; }
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

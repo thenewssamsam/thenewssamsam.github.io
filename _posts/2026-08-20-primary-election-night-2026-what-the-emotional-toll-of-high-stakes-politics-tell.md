@@ -38,7 +38,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/live-blog/elections-
 <p>From bitter debates in South Carolina to tight special elections in California, these contests remind us how much emotional and psychological energy is poured into our civic life. Yet, as the returns roll in late into the night, many Americans find themselves feeling drained, anxious, and overwhelmed by the relentless cycle of political conflict.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -48,7 +48,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>It is entirely normal to feel a physical and emotional weight when watching high-stakes political events unfold. Psychologists often note that prolonged exposure to contentious news activates our fight-or-flight response, elevating cortisol levels and disrupting sleep. When entire communities become polarized or candidates face aggressive public scrutiny, our nervous systems register that tension as personal instability.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -56,7 +56,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>"When our daily conversations become dominated by perpetual political anxiety, our well-being suffers—making mindful boundaries not just helpful, but essential for mental health."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </blockquote>
@@ -64,7 +64,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Here is general guidance for navigating the emotional turbulence of election season without letting it consume your daily life:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <ul>
@@ -75,19 +75,19 @@ Seagate Portable External Hard Drive ($59.99)
 
 <div class="ncg-amazon-recommendation" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
   <p style="margin: 0; font-weight: bold;">Recommended for Your Well-Being:</p>
-  <p style="margin: 5px 0;"><a href="https://www.amazon.com/dp/B073X8QY71?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Anxiety and Phobia Workbook</a> - A trusted resource for managing stress and emotional overwhelm ($21.99)</p>
+  <p style="margin: 5px 0;"><a href="https://www.amazon.com/dp/B073X8QY71?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Anxiety and Phobia Workbook</a> - A trusted resource for managing stress and emotional overwhelm </p>
 </div>
 
 <p>This is general information, not medical advice. If election-related anxiety is severely impacting your daily functioning, consult a qualified mental health professional.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="ncg-amazon-recommendation" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
   <p style="margin: 0; font-weight: bold;">Recommended for Your Well-Being:</p>
-  <p style="margin: 5px 0;"><a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Weighted Blanket for Stress Relief</a> - Helps soothe the nervous system during high-stress news cycles ($49.99)</p>
+  <p style="margin: 5px 0;"><a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Weighted Blanket for Stress Relief</a> - Helps soothe the nervous system during high-stress news cycles </p>
 </div>
 
 </section>
@@ -97,13 +97,13 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Watching the relentless competition for power and influence often makes me think about where we place our ultimate hope. I'm reminded that human governance fluctuates with every election cycle, but inner peace comes from a steadier place. As Proverbs 19:21 wisely observes, "Many are the plans in a person's heart, but it is the Lord's purpose that prevails." This reflection invites us to care deeply about our communities while guarding our hearts against despair when things don't go our way.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="ncg-amazon-recommendation" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
   <p style="margin: 0; font-weight: bold;">Recommended for Your Well-Being:</p>
-  <p style="margin: 5px 0;"><a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Book of Awakening: Having the Life You Want by Being Present to the Life You Have</a> - Daily mindfulness reflections ($16.00)</p>
+  <p style="margin: 5px 0;"><a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Book of Awakening: Having the Life You Want by Being Present to the Life You Have</a> - Daily mindfulness reflections </p>
 </div>
 
 </section>
@@ -113,13 +113,13 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Engagement in civic life is important, but how we engage matters for our health. Instead of viewing elections as existential threats to your peace of mind, try treating them as one part of a larger community story. Channel your concerns into constructive local actions—such as volunteering in your neighborhood or supporting local charities—where you can tangibly see the positive difference you make.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <div class="ncg-amazon-recommendation" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
   <p style="margin: 0; font-weight: bold;">Recommended for Your Well-Being:</p>
-  <p style="margin: 5px 0;"><a href="https://www.amazon.com/dp/1982137274?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Comfort Book</a> - Matt Haig's gentle reflections on hope, mental health, and resilience ($14.99)</p>
+  <p style="margin: 5px 0;"><a href="https://www.amazon.com/dp/1982137274?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Comfort Book</a> - Matt Haig's gentle reflections on hope, mental health, and resilience </p>
 </div>
 
 </section>

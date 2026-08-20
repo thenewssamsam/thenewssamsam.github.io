@@ -137,7 +137,7 @@ source_url: "https://www.usatoday.com/story/news/politics/2026/08/17/president-t
     <section>
         <h2 id="psychology-angle" class="ncg-h2">The Psychology of Perceived Loss and Economic Anxiety</h2>
         <p class="ncg-p">Why do poll numbers shift so dramatically during geopolitical crises? From a psychological perspective, public reaction to events like the ongoing war on Iran is heavily influenced by loss aversion and normalcy bias. When conflict threatens roughly a fifth of the global oil trade, the immediate psychological impact hits home the moment drivers pull up to the pump.</p>
-        <p class="ncg-p">According to AAA data cited in the report, the average price of a gallon of gas hit $4.06 on August 17—a striking jump from $3.13 a year prior. When everyday essentials surge in cost, citizens experience a profound sense of instability. Behavioral economics shows that people feel the pain of a financial loss far more acutely than the joy of a gain. Combine this economic sting with the sobering reality that 80% of Americans—including 87% of Democrats and 71% of Republicans—believe the conflict with Iran will drag on indefinitely, and a clear psychological pattern emerges. Chronic uncertainty breeds widespread dissatisfaction.</p>
+        <p class="ncg-p">According to AAA data cited in the report, the average price of a gallon of gas hit  on August 17—a striking jump from  a year prior. When everyday essentials surge in cost, citizens experience a profound sense of instability. Behavioral economics shows that people feel the pain of a financial loss far more acutely than the joy of a gain. Combine this economic sting with the sobering reality that 80% of Americans—including 87% of Democrats and 71% of Republicans—believe the conflict with Iran will drag on indefinitely, and a clear psychological pattern emerges. Chronic uncertainty breeds widespread dissatisfaction.</p>
         
         <div class="ncg-quote-box">
             <p>&ldquo;When fuel prices surge and foreign conflicts stretch into uncertainty, the human brain shifts instantly from optimism to defense, driving down political trust.&rdquo;</p>
@@ -153,7 +153,7 @@ source_url: "https://www.usatoday.com/story/news/politics/2026/08/17/president-t
             <p>Similarly, the Apostle Paul offers guidance on guarding our internal peace when external circumstances threaten to overwhelm us: <em>&ldquo;Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God.&rdquo;</em> (Philippians 4:6). These passages invite us to practice good stewardship over our mental and spiritual energy, recognizing that while leaders and policies will fluctuate, our foundational security should rest on something far more enduring than political approval numbers or fluctuating gas prices.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
         </div>
@@ -175,7 +175,7 @@ Tactical Waterproof Backpack ($35.99)
             <p>Poll numbers and political fortunes rise and fall with the tides of public sentiment and economic reality, but the strength of a community is measured by how its people treat one another during times of strain. As we navigate a turbulent political and economic landscape, maintaining perspective and calm resilience is our best path forward.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
             <p><strong>In times of uncertainty, our greatest strength lies in steady wisdom and compassionate community.</strong></p>

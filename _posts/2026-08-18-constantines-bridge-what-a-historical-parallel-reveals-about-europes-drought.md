@@ -26,7 +26,7 @@ source_url: 'https://thedebrief.org/a-mile-long-ancient-roman-engineering-marvel
     <p>Archaeologists from the Pleven Regional Historical Museum, aided by drone technology operated by researcher Pavel Popov, successfully mapped the massive underwater structural bases. Built under the reign of Roman Emperor Constantine I and inaugurated on July 5, A.D. 328, the mile-long bridge once connected modern-day Romania (near Sucidava) with Bulgaria (near Pleven and the ancient city of Oescus). At the time of its completion, it stood as the single longest Roman-built bridge anywhere in the ancient world, an empire-spanning infrastructure project designed to project power and secure trade routes across a formidable natural barrier.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -131,7 +131,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -139,7 +139,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

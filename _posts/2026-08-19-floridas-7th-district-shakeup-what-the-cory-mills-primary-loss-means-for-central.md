@@ -24,13 +24,13 @@ source_url: "https://www.nbcnews.com/politics/2026-election/gop-rep-cory-mills-l
     <p>NBC News projects that former television journalist Ryan Elijah has secured the Republican nomination, defeating Mills with 46% of the vote compared to Mills' 34%. Despite receiving a high-profile endorsement from President Donald Trump, Mills faced an uphill battle characterized by ongoing federal and ethics investigations.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     <p>The 7th District, which encompasses parts of Central Florida, is a region that has seen significant political transition over the past few years. With Elijah now set to move forward, local voters are shifting their attention to the upcoming general election, where Democratic nominee Bale Dalton awaits.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>
@@ -40,7 +40,7 @@ Crevice Cleaning Brush Set ($12.99)
     <p>Local elections are often defined by the "ground game"—the direct connection between a representative and their constituents. In this race, the contrast between the candidates centered on character and the ability to focus on local issues rather than national headlines.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     
@@ -48,7 +48,7 @@ Crevice Cleaning Brush Set ($12.99)
       <p><em>"We need leaders in Congress who serve with integrity, energy, and an unwavering commitment to the people who sent them there."</em> — Statement from Reps. Anna Paulina Luna and Mike Haridopolos regarding the choice in the 7th District.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     </div>
@@ -56,7 +56,7 @@ Crevice Cleaning Brush Set ($12.99)
     <p>For the average voter in the district, the primary loss of an incumbent is a reminder that local party infrastructure and endorsements from regional leaders can carry significant weight. The involvement of prominent Florida Republicans endorsing against a sitting colleague highlights a rare, unified attempt to steer the district in a different direction.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>
@@ -66,13 +66,13 @@ Crevice Cleaning Brush Set ($12.99)
     <p>Watching the political landscape shift in our own backyard often brings to mind the importance of character in those we entrust with responsibility. The Bible reminds us, "Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much" (Luke 16:10, NIV). This isn't just a lesson for elected officials; it is a standard for anyone in a position of influence within our community.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     <p>We are also encouraged to "seek justice, love mercy, and walk humbly with your God" (Micah 6:8, NIV). In the heat of political campaigns, it is easy to become focused on the noise of the headlines. However, this moment invites us to consider the value of steady, quiet integrity—the kind that builds trust in our neighborhoods and local institutions, regardless of who holds office.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>

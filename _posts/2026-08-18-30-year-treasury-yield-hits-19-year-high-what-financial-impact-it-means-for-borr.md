@@ -37,7 +37,7 @@ source_url: ''
 <p>According to CNBC reporting, Treasury yields climbed across the board on Monday as investors digested a potent mix of geopolitical tensions and domestic fiscal concerns. The benchmark 30-year Treasury yield advanced more than 4 basis points to hit 5.311%. Meanwhile, the 10-year Treasury note yield—which dictates the baseline for mortgages, auto loans, and credit card debt—rose more than 2 basis points to 4.724%.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>Short-term yields also ticked upward. The 2-year Treasury note yield, which typically moves in lockstep with Federal Reserve short-term rate decisions, rose more than 1 basis point to 4.182%. These upward movements occurred despite three separate recent economic releases pointing toward cooler inflation, demonstrating that bond investors are currently responding to forces far beyond the monthly Consumer Price Index reports.</p>
@@ -54,7 +54,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Several distinct financial mechanics are colliding right now:</p>
 <ul>
 <li><strong>The Federal Deficit and Issuance Supply:</strong> The U.S. budget deficit recently reached its highest monthly level in over five years, fueled by rising Medicare costs and mounting interest payments on the federal debt. To cover these liabilities, the Treasury must issue more debt. When supply surges faster than organic demand, prices fall and yields must rise to attract buyers.</li>
-<li><<strong>Energy Markets and Geopolitical Risk:</strong> West Texas Intermediate futures gained 2.6% to settle at $84.50 per barrel, while Brent crude advanced to $90.87. This spike followed an expiring 60-day diplomatic deadline between the U.S. and Iran without an extension, raising immediate fears of sustained energy-driven inflation.</li>
+<li><<strong>Energy Markets and Geopolitical Risk:</strong> West Texas Intermediate futures gained 2.6% to settle at  per barrel, while Brent crude advanced to . This spike followed an expiring 60-day diplomatic deadline between the U.S. and Iran without an extension, raising immediate fears of sustained energy-driven inflation.</li>
 <li><strong>Competing Capital Demands:</strong> Analysts at Barclays point out that massive capital investments and high issuance levels related to artificial intelligence infrastructure are actively competing with government Treasurys for institutional cash, driving up term premiums (the extra yield investors demand to hold long-term government debt).</li>
 </ul>
 
@@ -140,7 +140,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -148,7 +148,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

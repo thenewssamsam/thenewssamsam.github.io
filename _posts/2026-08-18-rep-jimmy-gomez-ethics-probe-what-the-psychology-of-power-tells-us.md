@@ -26,7 +26,7 @@ source_url: 'https://www.latimes.com/politics/story/2026-08-17/house-ethics-comm
     <p>The investigation follows reporting by the <em>New York Post</em> earlier this year, which alleged that Gomez was seen kissing a younger staffer from another office in 2023. CNN reports that the committee has since identified additional allegations. In a statement released Monday, Gomez acknowledged "personal mistakes outside my marriage," though he maintains that his actions were consensual and did not violate House rules or the law.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
     <p>The committee, led by Rep. Michael Guest and Rep. Mark DeSaulnier, has cautioned that the announcement of an investigation is not an indicator of guilt. However, the potential consequences are significant, ranging from formal reprimands to a referral to the Department of Justice.</p>
@@ -84,7 +84,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -92,7 +92,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

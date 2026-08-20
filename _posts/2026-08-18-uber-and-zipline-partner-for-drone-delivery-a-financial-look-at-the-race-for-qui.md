@@ -26,7 +26,7 @@ source_url: 'https://finance.yahoo.com/technology/articles/uber-adds-zipline-dro
     <p>For everyday consumers, the promise is simple: hot food or household goods delivered to your doorstep in five to ten minutes. But for investors and market analysts, this move is about something much larger. It is the latest chapter in Uber's deliberate strategy to externalize hardware risk while dominating the software and aggregation layer of urban and suburban transportation.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
   </section>
@@ -45,7 +45,7 @@ Seagate Portable External Hard Drive ($59.99)
 
   <section id="what-happened">
     <h2>What Happened: The Uber-Zipline Partnership</h2>
-    <p>Uber is expanding its delivery capabilities far beyond cars, scooters, and traditional couriers. By partnering with San Francisco-based Zipline—fresh off an $800 million Series H funding round that values the company at $7.6 billion—Uber plans to integrate autonomous drones directly into the Uber Eats application.</p>
+    <p>Uber is expanding its delivery capabilities far beyond cars, scooters, and traditional couriers. By partnering with San Francisco-based Zipline—fresh off an  million Series H funding round that values the company at  billion—Uber plans to integrate autonomous drones directly into the Uber Eats application.</p>
     <p>While financial terms of Uber's investment were not publicly disclosed, the operational framework is clear. Zipline drones will handle orders in existing markets before expanding into dozens of new U.S. cities. This is not Uber's first brush with aerial logistics; the company previously tested waters with its defunct Elevate division and recently partnered with Israeli startup Flytrex. However, the scale and valuation of Zipline signal that Uber views aerial delivery as a core pillar of its next growth phase, rather than a mere experiment.</p>
   </section>
 
@@ -64,7 +64,7 @@ Seagate Portable External Hard Drive ($59.99)
   <section id="strategy-analysis">
     <h2>Uber's Platform Playbook: Owning the Network, Not the Fleet</h2>
     <p>Uber's partnership with Zipline mirrors the exact playbook the company has adopted for robotaxis and autonomous vehicles (AVs). Rather than sinking tens of billions of dollars into manufacturing airplanes, drones, or self-driving cars, Uber is positioning itself as the ultimate aggregator.</p>
-    <p>The company has committed more than $10 billion to dozens of autonomous vehicle and robotics providers over the years. By selling off its own capital-intensive hardware divisions—such as Uber Elevate and its autonomous vehicle group—Uber avoided the crushing capital expenditures required to build and maintain physical machinery.</p>
+    <p>The company has committed more than  billion to dozens of autonomous vehicle and robotics providers over the years. By selling off its own capital-intensive hardware divisions—such as Uber Elevate and its autonomous vehicle group—Uber avoided the crushing capital expenditures required to build and maintain physical machinery.</p>
     <p>Instead, Uber lets startups like Zipline, Waymo, and Flytrex bear the regulatory, engineering, and manufacturing risks. Once those technologies are market-ready, they plug straight into Uber's massive consumer demand engine. For investors, this is an asset-light model that preserves liquidity while capturing maximum transaction fees.</p>
   </section>
 
@@ -169,7 +169,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -177,7 +177,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

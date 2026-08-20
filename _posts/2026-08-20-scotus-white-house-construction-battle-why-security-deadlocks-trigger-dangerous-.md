@@ -24,7 +24,7 @@ source_url: "https://www.foxnews.com/opinion/morning-glory-scotus-should-urgentl
   <p>Supporters of the emergency stay, including legal commentators and administration officials, argue that halting these modernizations—which incorporate updated command-and-control and emergency facilities—defies common sense given modern drone, missile, and assassination threats. With the Trust's response due shortly, the Supreme Court faces a compressed timeline to determine whether executive security authority or lower court judicial micromanagement will dictate the physical defense of the nation's executive mansion.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -32,7 +32,7 @@ Seagate Portable External Hard Drive ($59.99)
   <p>To understand why lower courts and preservationist groups can demand a leisurely procedural review in the face of modern drone and missile threats, we have to look past legal arguments and examine human behavior. Psychologists frequently observe a phenomenon known as <strong>normalcy bias</strong>—a mental state people enter when they underestimate the possibility of a disaster or its potential effects. When a building like the White House has stood largely unchanged for decades, institutional memory treats its current configuration as a permanent, baseline reality.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive ($59.99)
   <p>Coupled with normalcy bias is <em>institutional inertia</em> and bureaucratic groupthink. Courts and administrative bodies are structurally wired to prioritize process, precedent, and incremental deliberation. In a courtroom, slowing down to debate architectural preservation feels prudent and measured. But when applied to dynamic national security threats—where adversaries operate with hypersonic capabilities and drone swarms—procedural delay ceases to be cautious. Functionally, it becomes a dangerous form of denial.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -51,7 +51,7 @@ Tactical Waterproof Backpack ($35.99)
   <p>There is also a palpable element of cognitive dissonance at play among critics of executive authority. Admitting that the President's residence and command center require subterranean and structural fortification against state-sponsored terror implies accepting an uncomfortable truth: that our domestic sanctuary is actively targeted in an asymmetric global threat matrix. It is psychologically much easier to retreat into the comforting familiarity of zoning laws, historical preservation statutes, and routine court hearings than to confront the grim realities of modern assassination plots and foreign proxy wars.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -59,7 +59,7 @@ Seagate Portable External Hard Drive ($59.99)
   <p>Contemplating the fragility of earthly safety and the heavy burdens of leadership naturally invites a deeper look at where true security is found. History and scripture remind us that human fortifications, while necessary for earthly order, are never absolute guarantees of peace. Psalm 127:1 reminds us, <q>Unless the Lord builds the house, the builders labor in vain. Unless the Lord watches over the city, the guards stand watch in vain.</q> At the same time, responsible stewardship requires prudent preparation against genuine harm. Proverbs 22:3 observes, <q>The prudent see danger and take refuge, but the simple keep going and pay the penalty.</q> Balancing vigilance with ultimate trust is a constant tension for any society navigating a dangerous world.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -72,7 +72,7 @@ Seagate Portable External Hard Drive ($59.99)
   <p>For ordinary citizens watching this high-stakes legal drama unfold, the key takeaway is to recognize how cognitive biases influence our own assessment of risk and safety. Here are practical ways to process news involving institutional delays and national security:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   <ul>
@@ -89,7 +89,7 @@ Seagate Portable External Hard Drive ($59.99)
   <p>The debate over White House construction is ultimately a test of society's willingness to reconcile legal process with brutal reality. When courts micromanage the physical redoubts of the commander-in-chief, they gamble with margins of safety that leave no room for error. Restoring common sense to national security decisions means casting off the comfortable illusions of bureaucracy before a crisis shatters them.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   <p><em>True security begins when we stop negotiating with reality and start preparing for what is actually coming.</em></p>

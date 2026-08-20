@@ -24,13 +24,13 @@ source_url: "https://www.foxnews.com/us/penn-state-cocaine-bust-nets-14-arrests-
     <p>According to investigators, this was not a casual operation; it was a structured business. Ringleaders allegedly sourced "large quantities" of cocaine from New York and Philadelphia to create a steady supply chain. By utilizing the fraternity system for distribution, the organizers established a captive market of students. This "highly-profitable" model relied on a constant labor force—in this case, pledges—who were allegedly required to cut and package the drugs as part of their "indoctrination."</p>
     
     <div style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B08P1Q3X2J" target="_blank">Financial Literacy for Young Adults - $14.99</a>
+      <strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B08P1Q3X2J" target="_blank">Financial Literacy for Young Adults - </a>
     </div>
 
     <p>When students treat illicit substance distribution as a "side hustle," the financial risks are catastrophic. From a purely economic standpoint, the "cost of doing business" here includes not only the potential for prison time but the permanent loss of future earning potential, legal defense fees that can easily reach six figures, and the total forfeiture of university investment.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -40,7 +40,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>The financial impact of such an operation radiates far beyond the individuals arrested:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>
@@ -50,7 +50,7 @@ Seagate Portable External Hard Drive ($59.99)
     </ul>
 
     <div style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <strong>Helpful Resource:</strong> <a href="https://www.amazon.com/dp/164170366X" target="_blank">The Student's Guide to Financial Independence - $18.50</a>
+      <strong>Helpful Resource:</strong> <a href="https://www.amazon.com/dp/164170366X" target="_blank">The Student's Guide to Financial Independence - </a>
     </div>
   </section>
 
@@ -59,14 +59,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The pursuit of "easy money" through illicit means is an old temptation. Proverbs 13:11 reminds us: <em>"Wealth gained hastily will dwindle, but whoever gathers little by little will increase it."</em> This situation serves as a stark reminder that true financial security is built on integrity and honest labor, not shortcuts that endanger oneself and others.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>Furthermore, we are invited to consider the principle of stewardship. <em>"For what does it profit a man to gain the whole world and forfeit his soul?"</em> (Mark 8:36). When students trade their future and their character for the temporary gains of a drug ring, they are failing to steward the gifts and opportunities they have been given. It is a sobering lesson on the high cost of choosing short-term gain over long-term character.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -82,7 +82,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>If you are a student, parent, or university stakeholder, the response to this news should be proactive:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <ul>
@@ -92,7 +92,7 @@ Tactical Waterproof Backpack ($35.99)
     </ul>
     
     <div style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <strong>Essential Tool:</strong> <a href="https://www.amazon.com/dp/B08G718426" target="_blank">Personal Finance Planner for Students - $12.95</a>
+      <strong>Essential Tool:</strong> <a href="https://www.amazon.com/dp/B08G718426" target="_blank">Personal Finance Planner for Students - </a>
     </div>
   </section>
 

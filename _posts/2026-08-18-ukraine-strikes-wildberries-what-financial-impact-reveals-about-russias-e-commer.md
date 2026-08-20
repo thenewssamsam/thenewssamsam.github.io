@@ -38,7 +38,7 @@ source_url: 'https://www.dw.com/en/ukraine-attacks-wildberries-russias-biggest-o
     <p>Spanning the size of dozens of soccer fields, these massive fulfillment centers are critical to keeping consumer goods moving across a vast nation. The human toll has also mounted, with at least nine employees confirmed dead, scores injured, and several major storehouses forced to halt operations entirely.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -55,8 +55,8 @@ Tactical Waterproof Backpack ($35.99)
     </div>
 
     <p>Today, Wildberries controls roughly half of Russia's e-commerce market, while its chief competitor, Ozon, holds about 30%. Together, these digital platforms handle merchandise equivalent to an astonishing 8.5% of Russia's entire gross domestic product (GDP).</p>
-    <p>The destruction, however, carries a staggering price tag. The Moscow-based consultancy Data Insight estimates that Wildberries has lost up to 480 billion rubles ($5.7 billion) in goods alone, with a third of its warehouse space damaged. Combined losses for the company and its network of sellers are estimated as high as 800 billion rubles ($9.5 billion).</p>
-    <p>This physical destruction compounds existing financial strain. Financial reporting for its main operating entity, RWB LLC, shows short-term borrowing surging nearly eightfold between 2024 and 2025. Total liabilities, including long-term debt, are estimated as high as $14 billion.</p>
+    <p>The destruction, however, carries a staggering price tag. The Moscow-based consultancy Data Insight estimates that Wildberries has lost up to 480 billion rubles ( billion) in goods alone, with a third of its warehouse space damaged. Combined losses for the company and its network of sellers are estimated as high as 800 billion rubles ( billion).</p>
+    <p>This physical destruction compounds existing financial strain. Financial reporting for its main operating entity, RWB LLC, shows short-term borrowing surging nearly eightfold between 2024 and 2025. Total liabilities, including long-term debt, are estimated as high as  billion.</p>
   </section>
 
   <section id="banking-risk">
@@ -81,7 +81,7 @@ Tactical Waterproof Backpack ($35.99)
     </details>
     <details class="ncg-faq-item">
       <summary>How much financial damage have the warehouse attacks caused?</summary>
-      <p>Consultancy estimates suggest Wildberries has lost up to $5.7 billion in goods and a third of its warehouse space, with total combined damages to the company and its sellers reaching up to $9.5 billion.</p>
+      <p>Consultancy estimates suggest Wildberries has lost up to  billion in goods and a third of its warehouse space, with total combined damages to the company and its sellers reaching up to  billion.</p>
     </details>
     <details class="ncg-faq-item">
       <summary>Which banks are exposed to Wildberries' debt?</summary>
@@ -122,7 +122,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -130,7 +130,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

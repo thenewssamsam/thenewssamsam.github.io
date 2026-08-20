@@ -25,7 +25,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/gop-rep-cory-mills-l
         <p>In our homes, we often teach our children that "who you are when no one is looking" is the truest measure of character. The recent political developments in Florida’s 7th District serve as a stark, real-world case study of how this principle plays out on a public stage. When a public servant is dogged by investigations into their personal conduct and financial integrity, it forces a community—and by extension, families—to grapple with the definition of leadership.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
         
@@ -33,7 +33,7 @@ Tactical Waterproof Backpack ($35.99)
             <p><strong>"Integrity is the bedrock of leadership. When the foundation of character cracks, the structure of public trust inevitably begins to shift."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
         </div>
@@ -41,7 +41,7 @@ Tactical Waterproof Backpack ($35.99)
         <p>For parents, these events provide an opening to discuss the difference between popularity and character. Even with the backing of a major political figure like Donald Trump, voters ultimately chose a different path. This suggests that while influence can get a candidate on the ballot, character is often what keeps them there.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </section>
@@ -51,7 +51,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p>How do we translate these complex political headlines into age-appropriate lessons? It starts with focusing on the concepts of <strong>accountability</strong> and <strong>consequences</strong>.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
         
@@ -59,7 +59,7 @@ Tactical Waterproof Backpack ($35.99)
         <p>Keep it simple: "When someone makes a mistake or is accused of doing something wrong, they have to answer for it. That is how we keep our community safe and fair." Focus on the idea that rules apply to everyone, regardless of their job.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -67,7 +67,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p>Use this as a chance to talk about the "long game." Discuss how their choices today—online behavior, financial honesty, and how they treat others—build their reputation. Remind them that in the digital age, actions have a way of surfacing, and integrity is the only sustainable strategy for long-term success.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </section>
@@ -77,14 +77,14 @@ Seagate Portable External Hard Drive ($59.99)
         <p>As we observe these events, I am reminded of the wisdom found in <em>Proverbs 22:1</em>: "A good name is to be chosen rather than great riches, and favor is better than silver or gold." This serves as a timely reminder that our reputation—built through consistent, honest living—is far more valuable than any temporary power or status.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         
         <p>Furthermore, <em>Luke 12:2</em> invites us to consider the nature of transparency: "There is nothing covered that will not be revealed, nor hidden that will not be known." This isn't meant to be a source of fear, but an invitation to live openly and honestly. Whether in the halls of Congress or in our own living rooms, the standard remains the same: we are called to walk in the light and act with a clear conscience.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </section>

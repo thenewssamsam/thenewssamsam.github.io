@@ -22,7 +22,7 @@ source_url: 'https://www.nfl.com/news/rams-sean-mcvay-has-no-timeline-for-aaron-
 <p>Speaking after the Rams' preseason opener against the Kansas City Chiefs, Sean McVay made it clear that no official deadline has been imposed on Aaron Donald regarding a potential unretirement. Donald, who stepped away from the game after the 2023 season at age 33 and is now 35, has fueled speculation following a high-profile trade that brought Myles Garrett to Los Angeles. According to transaction wires, Donald has quietly explored a return, but McVay emphasized that the three-time Defensive Player of the Year will dictate his own timeline. Rather than forcing a rushed decision, the Rams organization is operating with the current roster while keeping the door wide open for one of the greatest defensive players in NFL history.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -82,7 +82,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Toshiba 5400RPM Hard Drive</a></div>
-    <div class="product-price">$49.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -90,7 +90,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">GAZELLE External Hard Drive</a></div>
-    <div class="product-price">$54.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -98,7 +98,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -106,7 +106,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">KEOFID Classic Backpack</a></div>
-    <div class="product-price">$32.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -114,7 +114,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">QT-QY Military Tactical Backpack</a></div>
-    <div class="product-price">$34.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -122,7 +122,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -130,7 +130,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">abshoo College Bookbag</a></div>
-    <div class="product-price">$29.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

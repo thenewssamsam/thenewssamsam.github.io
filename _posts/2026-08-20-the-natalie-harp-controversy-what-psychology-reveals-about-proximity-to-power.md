@@ -27,7 +27,7 @@ source_url: 'https://turnto10.com/news/inside-your-world/jon-ossoff-natalie-harp
     <p>The tension surfaced after Senator Ossoff criticized the President’s travel habits and his reliance on Harp, describing the presidential aircraft as a "defenseless flying palace" and suggesting that aides like Harp may prioritize telling the President "what he wants to hear" rather than providing critical counsel. The comments followed a high-stakes July incident where Harp accompanied the President on a secondary aircraft during a security-related diversion in Turkey, while other senior officials remained on the primary plane.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-FitVille Comfortable Running Shoes ($69.99)
+FitVille Comfortable Running Shoes 
 </a></div>
 
   </section>
@@ -37,7 +37,7 @@ FitVille Comfortable Running Shoes ($69.99)
     <p>From a behavioral standpoint, the intense scrutiny directed at an executive assistant often reflects a phenomenon known as "proxemic influence." In high-pressure environments, the individual who controls the flow of information and physical access to a leader becomes a lightning rod for criticism.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-AMANSSE Lightweight Running Shoes ($65.99)
+AMANSSE Lightweight Running Shoes 
 </a></div>
 
     
@@ -45,7 +45,7 @@ AMANSSE Lightweight Running Shoes ($65.99)
       <p><strong>Shareable Insight:</strong> "In the theater of power, the person closest to the microphone often carries the weight of the leader's entire decision-making ecosystem."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
     </div>
@@ -54,7 +54,7 @@ CeraVe Hydrating Facial Cleanser ($14.99)
     <p>When a leader relies on a small circle of aides, it can create a "silo effect." Psychologically, this is not necessarily about malice; it is often about comfort. Leaders under extreme stress—such as those managing a nation at war—naturally gravitate toward individuals who reinforce their worldview. This reduces cognitive dissonance, making the day-to-day pressure more manageable, but it can also insulate the leader from dissenting perspectives that are essential for long-term strategic success.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
 
@@ -62,15 +62,15 @@ CeraVe Hydrating Facial Cleanser ($14.99)
     <p>Observers have noted the intense loyalty Harp displays, which some analysts describe as a form of "devotional professional alignment." In the context of political psychology, such roles are often filled by individuals who see their personal identity as deeply intertwined with the leader's mission. This creates a powerful bond that is difficult for outsiders to penetrate, leading to the "unnerving" quality that critics often cite when witnessing such close associations.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
 
     <div style="border-left: 5px solid #d4af37; background-color: #fffdf0; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Reading:</strong> <a href="#">"The Psychology of Influence" - $14.99</a></p>
+      <p><strong>Recommended Reading:</strong> <a href="#">"The Psychology of Influence" - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
     </div>
@@ -81,13 +81,13 @@ CeraVe Hydrating Facial Cleanser ($14.99)
     <p>The tension between wanting to hear comfort and needing to hear truth is a timeless human struggle. We see this reflected in the wisdom of Proverbs 27:6: <em>"Wounds from a friend can be trusted, but an enemy multiplies kisses."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-FitVille Comfortable Running Shoes ($69.99)
+FitVille Comfortable Running Shoes 
 </a></div>
 
     <p>This verse invites us to consider the value of those around us. Are we surrounded by people who simply echo our own desires, or do we have "friends" who love us enough to offer the difficult, healing truth? Whether in the halls of power or our own homes, the health of our decisions often depends on our willingness to listen to voices that challenge us rather than just soothe us. It is a humble reminder that truth, even when it stings, is ultimately a gift.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-FitVille Comfortable Running Shoes ($69.99)
+FitVille Comfortable Running Shoes 
 </a></div>
 
   </section>
@@ -102,10 +102,10 @@ FitVille Comfortable Running Shoes ($69.99)
     </ul>
     
     <div style="border-left: 5px solid #d4af37; background-color: #fffdf0; padding: 15px; margin: 20px 0;">
-      <p><strong>Tool for Reflection:</strong> <a href="#">"Critical Thinking Journal" - $12.50</a></p>
+      <p><strong>Tool for Reflection:</strong> <a href="#">"Critical Thinking Journal" - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
     </div>
@@ -116,7 +116,7 @@ CeraVe Hydrating Facial Cleanser ($14.99)
     <p>The Natalie Harp controversy is less about one individual and more about the fundamental human desire for validation. As voters and citizens, our task is to look beyond the personal dynamics of the Oval Office and focus on whether the systems surrounding our leaders are built to provide wisdom, or merely comfort.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-FitVille Comfortable Running Shoes ($69.99)
+FitVille Comfortable Running Shoes 
 </a></div>
 
     

@@ -29,50 +29,50 @@ source_url: 'https://www.cbsnews.com/news/florida-governors-race-primary-results
     <p>On the other side of the aisle, former Rep. David Jolly clinched the Democratic nomination. Jolly’s candidacy represents a unique shift, as he is a former Republican who has transitioned to the Democratic party, a dynamic that adds a layer of complexity to the upcoming debate over Florida's direction.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div style="border-left: 5px solid #f1c40f; background-color: #f9f9f9; padding: 10px; margin: 15px 0;">
-        <strong>Recommended Reading:</strong> <a href="#">The Art of Civic Engagement - $15.99</a>
+        <strong>Recommended Reading:</strong> <a href="#">The Art of Civic Engagement - </a>
     </div>
 
     <h2 id="a-biblical-lens">A Lens of Faith and Stewardship</h2>
     <p>In the noise of primary campaigns, it is easy to lose sight of the fundamental principles of leadership. From a biblical perspective, political office is less about the accumulation of influence and more about the heavy responsibility of stewardship. 1 Peter 4:10 reminds us: <em>"Each of you should use whatever gift you have received to serve others, as faithful stewards of God’s grace in its various forms."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <p>This verse challenges us to evaluate candidates not just by their political branding, but by their commitment to serving the vulnerable and upholding justice. When we view the Florida governor's race through this lens, the question shifts from "Which candidate wins?" to "Which candidate demonstrates a heart for genuine service?"</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div style="border-left: 5px solid #f1c40f; background-color: #f9f9f9; padding: 10px; margin: 15px 0;">
-        <strong>Helpful Resource:</strong> <a href="#">Understanding Public Policy: A Guide - $12.50</a>
+        <strong>Helpful Resource:</strong> <a href="#">Understanding Public Policy: A Guide - </a>
     </div>
 
     <h2 id="the-call-to-truth">The Pursuit of Truth and Integrity</h2>
     <p>The primary cycle saw its share of controversy, particularly regarding the rhetoric employed by some challengers. For the believer, the language we use matters. Proverbs 12:22 tells us: <em>"The Lord detests lying lips, but he delights in people who are trustworthy."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <p>This serves as a sobering reminder that integrity is not an optional accessory in public life—it is the bedrock. As Florida moves toward November, voters must look past the slogans to find candidates who prioritize honesty and the common welfare of all residents, regardless of their political affiliation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <div style="border-left: 5px solid #f1c40f; background-color: #f9f9f9; padding: 10px; margin: 15px 0;">
-        <strong>Community Tool:</strong> <a href="#">Voter's Guide to Local Issues - $9.99</a>
+        <strong>Community Tool:</strong> <a href="#">Voter's Guide to Local Issues - </a>
     </div>
 
     <h2 id="how-to-respond">How Should Christians Respond?</h2>

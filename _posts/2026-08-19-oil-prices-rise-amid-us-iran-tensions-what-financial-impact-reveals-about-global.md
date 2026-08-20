@@ -21,20 +21,20 @@ source_url: "https://www.foxnews.com/live-news/trump-iran-war-mou-oman-bombing-t
   <p class="ncg-lead">Global energy markets are feeling the immediate sting of escalating geopolitical friction as oil prices tick upward for a fourth consecutive session. Driven by the expiration of a key memorandum of understanding, uncertainty surrounding the Strait of Hormuz, and broader conflict involving the United States and Iran, benchmark crude prices have touched multi-week highs—igniting fresh questions about inflation, supply chains, and household budgets worldwide.</p>
 
   <h2 id="what-happened">What Happened?</h2>
-  <p>Brent crude futures recently rose 26 cents, or 0.29%, to $91.28 a barrel, while U.S. West Texas Intermediate (WTI) crude climbed 37 cents to $85.31 a barrel. These numbers represent the highest closing marks since late July, spurred by fading hopes of a diplomatic breakthrough between Washington and Tehran. Tensions have intensified following the expiration of an MOU governing regional maritime protocols, conflicting statements regarding the operational status of the Strait of Hormuz, and sudden trade freezes enacted by the UAE after incoming missile threats.</p>
+  <p>Brent crude futures recently rose 26 cents, or 0.29%, to  a barrel, while U.S. West Texas Intermediate (WTI) crude climbed 37 cents to  a barrel. These numbers represent the highest closing marks since late July, spurred by fading hopes of a diplomatic breakthrough between Washington and Tehran. Tensions have intensified following the expiration of an MOU governing regional maritime protocols, conflicting statements regarding the operational status of the Strait of Hormuz, and sudden trade freezes enacted by the UAE after incoming missile threats.</p>
   <p>Simultaneously, major producers are scrambling to adapt. Iraq announced a three-month temporary mechanism to route crude exports through alternative international channels, seeking to bypass vulnerable Gulf shipping lanes. On the defense front, Washington has reaffirmed its readiness to protect regional shipping lanes while bolstering munitions manufacturing and defense industrial capacity to sustain ongoing operations.</p>
 
   <h2 id="financial-impact">The Financial Impact: How Geopolitics Hits Your Wallet</h2>
   <p>When geopolitical tensions spike in the Middle East, the financial shockwaves rarely stay confined to high-level diplomatic circles. They translate almost immediately into tangible economic pressures for everyday consumers and global enterprises alike.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
-  <p>At its core, energy is the lifeblood of the global economy. Crude oil dictates the cost of manufacturing, agricultural production, freight transportation, and home heating. When Brent and WTI futures climb past the $90 threshold, the increase cascades down the supply chain:</p>
+  <p>At its core, energy is the lifeblood of the global economy. Crude oil dictates the cost of manufacturing, agricultural production, freight transportation, and home heating. When Brent and WTI futures climb past the  threshold, the increase cascades down the supply chain:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   <ul>
@@ -50,7 +50,7 @@ Tactical Waterproof Backpack ($35.99)
   <p>Furthermore, producers like Iraq rushing to diversify export routes highlight the immense capital expenditure required when primary shipping channels are threatened. These structural workarounds, while necessary for national revenue preservation, add friction and expense to global crude delivery systems.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -58,7 +58,7 @@ Tactical Waterproof Backpack ($35.99)
   <p>Periods of heightened geopolitical risk often prompt anxiety among retail investors and household budget planners. While specific investment recommendations depend entirely on individual financial goals and professional advice, foundational principles of economic resilience remain constant:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   <ul>
@@ -71,13 +71,13 @@ Seagate Portable External Hard Drive ($59.99)
   <p>Times of economic uncertainty and global unrest naturally stir anxiety about provision, stability, and the future. Scripture frequently addresses the human tendency to worry over material security and the shifting tides of worldly power.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   <p>The Gospel of Matthew reminds us of the limits of our control over material anxieties:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   <blockquote>
@@ -86,7 +86,7 @@ Seagate Portable External Hard Drive ($59.99)
   <p>This passage invites us to cultivate a posture of thoughtful stewardship rather than consuming fear. Prudent financial planning is wise, but anchoring our peace in eternal truths helps guard against the panic that global markets often try to manufacture.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 

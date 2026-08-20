@@ -37,12 +37,12 @@ source_url: 'https://www.thedailybeast.com/maga-patriot-turns-on-trump-after-ice
     <p>That worldview was abruptly challenged when Immigration and Customs Enforcement (ICE) agents detained his wife, Galina Bobreneva, after the couple landed at Burbank Airport in California. Bobreneva, who is originally from Russia, arrived in the United States in 2021 on a tourist visa, later extended after the outbreak of war in Ukraine, and applied for asylum in 2022. After meeting Jindra in March 2025 and marrying that December, Jindra petitioned to sponsor her for a marriage-based green card in April.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
 
-    <p>Despite having received official confirmation that her application was accepted and having already completed fingerprinting, Bobreneva was taken to the Adelanto ICE Processing Facility. She was eventually released on a $35,000 bond wearing an ankle monitor, but the experience left Jindra grappling with a chilling realization: “We are living in fear in my own country.”</p>
+    <p>Despite having received official confirmation that her application was accepted and having already completed fingerprinting, Bobreneva was taken to the Adelanto ICE Processing Facility. She was eventually released on a ,000 bond wearing an ankle monitor, but the experience left Jindra grappling with a chilling realization: “We are living in fear in my own country.”</p>
   </section>
 
   <section id="psychology-perspective" class="ncg-section">
@@ -80,7 +80,7 @@ Tactical Waterproof Backpack ($35.99)
     </details>
     <details class="ncg-faq-item">
       <summary>What is the current status of her case?</summary>
-      <p>Bobreneva was released on a $35,000 bond wearing an ankle monitor and must continue to report to ICE while her legal proceedings move through the immigration court system.</p>
+      <p>Bobreneva was released on a ,000 bond wearing an ankle monitor and must continue to report to ICE while her legal proceedings move through the immigration court system.</p>
     </details>
   </section>
 
@@ -124,7 +124,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -132,7 +132,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

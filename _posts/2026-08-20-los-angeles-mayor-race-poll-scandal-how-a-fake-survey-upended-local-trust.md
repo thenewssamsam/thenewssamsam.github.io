@@ -38,19 +38,19 @@ source_url: "https://www.foxnews.com/politics/mysterious-polling-firm-behind-fak
 <p>The numbers quickly escaped into the wild. Local TV newscasts, social media feeds, and online reporting outlets picked up the data without independent verification. In Los Angeles, the fake poll claimed Bass held a 12-point lead over City Council member Nithya Raman in the primary. In reality, Bass edged Raman by a much tighter five-point margin. Similar manufactured or wildly inaccurate polls surfaced around the same time in Wisconsin and Michigan, creating widespread confusion among voters trying to make sense of crowded primary races.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Then came the confession. Median Strategies posted a notice on its website declaring that the company was created as a short-term social experiment to examine how purported polling information enters and spreads through the political ecosystem. Having proved their point, they shut down operations, leaving local communities to deal with the fallout of manipulated public trust.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="ncg-amazon-rec" style="background: #fffdf4; border-left: 4px solid #f6ad55; padding: 1rem; margin: 1.5rem 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-<strong style="color: #c05621;">Recommended Resource:</strong> <a href="https://www.amazon.com/dp/038554734X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">The Quick Fix: How We Can Repair Our Broken Information Ecosystem</a> ($24.99) - Essential reading on media literacy and identifying manufactured narratives in modern news cycles.
+<strong style="color: #c05621;">Recommended Resource:</strong> <a href="https://www.amazon.com/dp/038554734X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">The Quick Fix: How We Can Repair Our Broken Information Ecosystem</a>  - Essential reading on media literacy and identifying manufactured narratives in modern news cycles.
 </div>
 </section>
 
@@ -59,14 +59,14 @@ Seagate Portable External Hard Drive ($59.99)
 <p>While internet pranksters or academic researchers might view a "social experiment" as a harmless exercise in data flow, the ground-level consequences for cities like Los Angeles are deeply frustrating. Local democracy relies on a shared baseline of factual reality. When fake numbers enter the bloodstream of a municipal election, they distort the democratic process in tangible ways.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>For Angelenos, municipal elections are already complex. Voters juggle local ballot measures, city council races, and high-stakes mayoral contests where neighborhood concerns like housing, transit, and public safety take center stage. Introducing fabricated data into this mix saps energy away from substantive debates. Instead of discussing Nithya Raman's policy positions or Karen Bass's mayoral record, campaigns and local media found themselves reacting to ghost numbers invented by an anonymous outfit.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -77,12 +77,12 @@ Tactical Waterproof Backpack ($35.99)
 <p>Furthermore, local journalism outlets—already stretched thin by industry contractions—are forced to spend valuable reporting hours chasing down unverified claims. The Median Strategies incident underscores a vulnerability in regional reporting: the rush to publish breaking poll numbers can sometimes bypass the rigorous verification needed to protect local civic health.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <div class="ncg-amazon-rec" style="background: #fffdf4; border-left: 4px solid #f6ad55; padding: 1rem; margin: 1.5rem 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-<strong style="color: #c05621;">Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0593233832?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">The Comfort of Darkness: Rebuilding Community Trust in Local Journalism</a> ($18.50) - Practical strategies for supporting independent local reporting and verifying municipal data.
+<strong style="color: #c05621;">Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0593233832?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">The Comfort of Darkness: Rebuilding Community Trust in Local Journalism</a>  - Practical strategies for supporting independent local reporting and verifying municipal data.
 </div>
 </section>
 
@@ -91,19 +91,19 @@ Tactical Waterproof Backpack ($35.99)
 <p>Situations like this make me think about how easily deception spreads when people are eager to believe a narrative that confirms their preexisting views. Proverbs 12:22 reminds us that "lying lips are an abomination to the Lord, but those who act faithfully are his delight." While Median Strategies framed their actions as an academic experiment, the moral reality remains: introducing falsehoods into public discourse carries real consequences for real people.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>I am reminded that truth is the foundational currency of any healthy community. Ephesians 4:25 urges us, "Therefore, having put away falsehood, let each one of you speak the truth with his neighbor, for we are members one of another." When we compromise on honesty—even under the guise of testing a system—we fray the social bonds that hold neighborhoods together.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="ncg-amazon-rec" style="background: #fffdf4; border-left: 4px solid #f6ad55; padding: 1rem; margin: 1.5rem 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-<strong style="color: #c05621;">Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1496452834?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">Truth Plus Love: The Jesus Way to Influence Culture</a> ($15.99) - A thoughtful guide on maintaining integrity and discernment in a world filled with digital noise.
+<strong style="color: #c05621;">Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1496452834?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">Truth Plus Love: The Jesus Way to Influence Culture</a>  - A thoughtful guide on maintaining integrity and discernment in a world filled with digital noise.
 </div>
 </section>
 
@@ -112,7 +112,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Protecting our local political environment from anonymous hoaxes requires a collective commitment to basic verification habits. Here are practical steps residents and community leaders can take:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -124,7 +124,7 @@ Tactical Waterproof Backpack ($35.99)
 </ul>
 
 <div class="ncg-amazon-rec" style="background: #fffdf4; border-left: 4px solid #f6ad55; padding: 1rem; margin: 1.5rem 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-<strong style="color: #c05621;">Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0393356078?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">Calling Bullshit: The Art of Skepticism in a Data-Driven World</a> ($17.00) - Learn how to spot misleading statistics, fake polls, and flawed numbers in everyday news.
+<strong style="color: #c05621;">Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0393356078?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">Calling Bullshit: The Art of Skepticism in a Data-Driven World</a>  - Learn how to spot misleading statistics, fake polls, and flawed numbers in everyday news.
 </div>
 </section>
 

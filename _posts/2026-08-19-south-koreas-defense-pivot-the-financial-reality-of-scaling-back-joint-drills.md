@@ -29,7 +29,7 @@ source_url: "https://www.nbcnews.com/world/asia/south-korean-president-urges-str
     <p>President Lee’s call for a nuclear-powered submarine program and advanced officer training signals an impending increase in defense procurement spending. In financial terms, this means a potential reallocation of government funds from other public sectors into the defense industrial base. While this could stimulate local high-tech manufacturing, it requires a careful balancing act to avoid straining the national budget.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -43,13 +43,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The pursuit of safety and the management of national resources often bring to mind the biblical principle of stewardship. In Luke 14:28, Jesus asks, "Suppose one of you wants to build a tower. Won’t you first sit down and estimate the cost to see if you have enough money to complete it?"</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>This wisdom is remarkably applicable to the current situation in Seoul. As the nation prepares for "worst-case scenarios," it is reminded that true security is not just about the strength of one’s armaments, but the wisdom of one's planning. This makes me think about how we, in our own lives, must balance the need for preparation with the trust that our ultimate security rests in God’s sovereignty, rather than in our own efforts alone.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -59,12 +59,12 @@ Tactical Waterproof Backpack ($35.99)
     <p>The shift toward "independent defense" often triggers a ripple effect in the domestic defense industry. Companies specializing in aerospace, naval engineering, and integrated systems may see increased government contracts. However, investors and citizens alike should note that these transitions are rarely instantaneous. They involve long-term capital expenditure cycles that can influence interest rates and government debt levels over the coming decade.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <div class="ncg-amazon-recommendation" style="border: 2px solid #ffd700; background-color: #f9f9f9; padding: 15px; margin: 15px 0;">
-      <strong>Essential Tool:</strong> <em>Portable Solar Power Bank</em> - Keep your devices charged while tracking global news. <a href="#">View on Amazon ($45.99)</a>
+      <strong>Essential Tool:</strong> <em>Portable Solar Power Bank</em> - Keep your devices charged while tracking global news. <a href="#">View on Amazon </a>
     </div>
   </section>
 

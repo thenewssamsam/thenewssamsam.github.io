@@ -41,13 +41,13 @@ source_url: "https://www.scotusblog.com/2026/08/texas-families-ask-supreme-court
     <p>To understand the gravity of the current petition, we have to look back at how judicial interpretations have shifted over the last forty-six years. In 1980, the Supreme Court struck down a similar Kentucky statute in <em>Stone v. Graham</em>. In that unsigned ruling, the justices reasoned that posting the Ten Commandments in classrooms was designed to induce schoolchildren to read, meditate upon, and venerate religious text—an objective they deemed impermissible for the state under the Establishment Clause.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>For decades, courts relied heavily on the "Lemon test" established in 1971 to evaluate such laws. But the judicial framework changed dramatically in 2022 with <em>Kennedy v. Bremerton School District</em>, where the high court protected a high school football coach's right to pray on the fifty-yard line. Writing for the majority, Justice Neil Gorsuch indicated that the old Lemon test had been "long ago abandoned" in favor of an approach rooted in historical practices and understandings from the nation's founding. Seizing on this shift, the 5th Circuit majority argued that because the Lemon test was "jettisoned," the precedent in <em>Stone v. Graham</em> no longer held binding weight. The petitioning families, however, are urging the justices to clarify that lower courts cannot simply bypass landmark precedents without explicit instruction from the Supreme Court itself.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -57,13 +57,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>As believers observe this legal battle playing out in government buildings and courtrooms, it is worth pausing to reflect on what Scripture teaches about where God's law is truly meant to reside. Government mandates and classroom placards can dictate what is visible on a wall, but they cannot command the affections of the human heart.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>In Deuteronomy 6:6–9, Moses instructs the people of Israel regarding God's commands: <em>“These commandments that I give you today are to be on your hearts. Impress them on your children. Talk about them when you sit at home and when you walk along the road, when you lie down and when you get up.”</em> Notice that the original design for passing down divine truth was relational and domestic—centered in families, lived out in daily conversations, and written upon hearts rather than enforced by civic authorities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -74,13 +74,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This reality invites immense theological humility. When Christians look to the Ten Commandments—sacred moral foundations that reflect God's character and justice—we must ask ourselves whether state-mandated classroom displays truly advance authentic spiritual reverence, or whether they risk reducing holy Scripture to a routine administrative requirement or a political battleground.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Furthermore, Jesus Himself consistently emphasized the internal, transformative nature of God's kingdom over external displays of piety. In Matthew 22:37–39, He summarized the entire law with piercing simplicity: <em>“‘Love the Lord your God with all your heart and with all your soul and with all your mind.’ This is the first and greatest commandment. And the second is like it: ‘Love your neighbor as yourself.’”</em> When public policies spark deep division among neighbors of diverse backgrounds—including families who worship the same God or seek to live uprightly without state-prescribed religious text—followers of Christ are reminded that true witness is marked just as much by grace, truth, and love for our neighbors as it is by contending for public symbols.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -90,7 +90,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Navigating a cultural moment where legal battles intersect with sacred texts requires discernment rather than reflexive partisanship. Believers can take several thoughtful steps:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>
@@ -107,7 +107,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p>Passed in 2025, S.B. 10 is a Texas law requiring public elementary and secondary schools to display a durable, conspicuous copy of the Ten Commandments—using text drawn from the King James Bible—in every classroom.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </details>
@@ -116,7 +116,7 @@ Tactical Waterproof Backpack ($35.99)
       <p>A diverse group of Texas families from Christian, Jewish, Hindu, and nonreligious backgrounds argue that the mandatory display violates the Establishment Clause of the Constitution and infringes upon their rights to direct their children's religious education.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </details>
@@ -125,7 +125,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p>In April, the full 5th Circuit upheld the law by a 9-8 vote, reasoning that previous legal standards like the Lemon test have been discarded by the Supreme Court and that the law does not resemble a founding-era religious establishment.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </details>

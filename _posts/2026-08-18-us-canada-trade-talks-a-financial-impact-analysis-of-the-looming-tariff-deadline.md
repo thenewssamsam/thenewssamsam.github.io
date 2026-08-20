@@ -17,7 +17,7 @@ source_url: 'https://www.bbc.com/news/articles/crl7600rpnko'
   </header>
 
   <section id="introduction">
-    <p>As Canadian negotiators work through an "intense" final 48-hour window in Washington, the prospect of a 50% tariff on $20 billion worth of Canadian imports looms large. For the average reader, this isn't just a political headline—it is a potential shift in the cost of goods, supply chain stability, and regional economic health. Here is a breakdown of what is at stake as the clock ticks toward the Wednesday deadline.</p>
+    <p>As Canadian negotiators work through an "intense" final 48-hour window in Washington, the prospect of a 50% tariff on  billion worth of Canadian imports looms large. For the average reader, this isn't just a political headline—it is a potential shift in the cost of goods, supply chain stability, and regional economic health. Here is a breakdown of what is at stake as the clock ticks toward the Wednesday deadline.</p>
   </section>
 
   <section id="the-financial-stakes">
@@ -25,7 +25,7 @@ source_url: 'https://www.bbc.com/news/articles/crl7600rpnko'
     <p>When governments impose tariffs, the immediate financial impact is often felt by the businesses importing the goods, but these costs almost inevitably trickle down. With 50% tariffs on the table, sectors such as steel, aluminum, automotive, and forestry are bracing for significant volatility.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>For Canadian industries, these tariffs act as a massive tax on exports to the US, effectively pricing Canadian goods out of the American market unless businesses can absorb the costs—which, for many, is financially impossible. Conversely, American consumers and manufacturers who rely on these Canadian inputs face rising production costs or higher price tags at the register.</p>
@@ -76,7 +76,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -84,7 +84,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -24,7 +24,7 @@ source_url: "https://www.cnn.com/2026/08/18/politics/live-news/florida-primary-e
     <p>In the heat of an election night, misinformation spreads rapidly. Let’s clear up the confusion regarding the most significant developments from the primary cycle.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -33,7 +33,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>Fact:</strong> While several high-profile Trump-backed candidates in Florida and Wyoming lost their races, such as Rep. Cory Mills and Megan Degenfelder, this does not equate to a total collapse of influence. Endorsement efficacy varies significantly by state and local context. While the "Trump effect" faced headwinds in these specific districts, painting these individual losses as a nationwide trend ignores the complexities of local voter priorities, such as energy policy in Wyoming or specific congressional ethics controversies in Florida.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </details>
@@ -43,7 +43,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>Fact:</strong> The primary results show a party in significant flux. In Florida, democratic socialist Angie Nixon secured a Senate primary victory, while elsewhere, more traditional candidates like Rep. Jared Moskowitz defeated socialist challengers. The results indicate a "patchwork" Democratic coalition rather than a singular shift toward one ideology, with local district dynamics dictating which wing prevails.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </details>
@@ -58,13 +58,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In a season of heated political rhetoric, it is easy to become overwhelmed by the noise of victory and defeat. This climate reminds me of the importance of seeking truth amidst the clamor. Scripture often speaks to the value of discernment. As we observe these shifts in leadership, I am reminded of <strong>Proverbs 14:15</strong>: <em>"The simple believes everything, but the prudent gives thought to his steps."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>This verse invites us to consider our own role as citizens. We are called to be prudent, not just in how we vote, but in how we consume information. In an era where "myth" can travel faster than "fact," our stewardship includes the responsibility to look past the surface-level soundbites and understand the deeper realities of our communities. We are invited to seek wisdom that transcends partisan lines and to approach our civic duties with a spirit of humility rather than reactivity.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

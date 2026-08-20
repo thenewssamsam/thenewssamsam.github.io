@@ -59,8 +59,8 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-r
     <div style="background: #f7fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px; margin: 20px 0;">
       <h3 style="font-size: 16px; font-weight: 600; color: #2d3748; margin: 0 0 8px 0;">Recommended Reading for Personal Growth</h3>
       <p style="margin: 0; font-size: 14px; color: #4a5568;">
-        &bull; <a href="https://www.amazon.com/dp/1535902796?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #3182ce; text-decoration: none;">Dangerous Calling: Confronting the Unique Challenges of Pastoral Ministry</a> - $14.99<br>
-        &bull; <a href="https://www.amazon.com/dp/0310356540?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #3182ce; text-decoration: none;">The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive</a> - $16.99
+        &bull; <a href="https://www.amazon.com/dp/1535902796?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #3182ce; text-decoration: none;">Dangerous Calling: Confronting the Unique Challenges of Pastoral Ministry</a> - <br>
+        &bull; <a href="https://www.amazon.com/dp/0310356540?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #3182ce; text-decoration: none;">The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive</a> - 
       </p>
     </div>
 
@@ -85,8 +85,8 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-r
     <div style="background: #f7fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 16px; margin: 20px 0;">
       <h3 style="font-size: 16px; font-weight: 600; color: #2d3748; margin: 0 0 8px 0;">Tools for Spiritual Reflection</h3>
       <p style="margin: 0; font-size: 14px; color: #4a5568;">
-        &bull; <a href="https://www.amazon.com/dp/1433553651?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #3182ce; text-decoration: none;">ESV Study Bible, Large Print</a> - $39.99<br>
-        &bull; <a href="https://www.amazon.com/dp/0310452932?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #3182ce; text-decoration: none;">NIV Life Application Study Bible</a> - $32.49
+        &bull; <a href="https://www.amazon.com/dp/1433553651?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #3182ce; text-decoration: none;">ESV Study Bible, Large Print</a> - <br>
+        &bull; <a href="https://www.amazon.com/dp/0310452932?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #3182ce; text-decoration: none;">NIV Life Application Study Bible</a> - 
       </p>
     </div>
   </section>

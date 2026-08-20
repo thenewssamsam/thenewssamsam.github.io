@@ -40,19 +40,19 @@ source_url: "https://www.nbcnews.com/world/asia/south-korean-president-urges-str
 <p>History offers a familiar echo whenever a major global power reassesses its overseas commitments. Throughout the modern era, junior partners in long-standing defensive pacts have routinely faced a sudden imperative: self-reliance.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <p>Consider the British withdrawal from east of Suez in the late 1960s, or the gradual Nixon Doctrine of the 1970s, which expected Asian allies to take primary responsibility for their own ground defense. In each instance, nations that had grown accustomed to a reliable, overarching security umbrella suddenly found themselves confronting a shifting geopolitical landscape. The immediate panic often gave way to a hard-headed reassessment of domestic military capabilities, modernization programs, and regional diplomacy.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <p>When President Lee speaks of self-reliance as mutually reinforcing with an alliance, he is echoing a timeless strategic truth. History demonstrates that an ally that brings genuine capability to the table is far more resilient than one that depends entirely on external guarantees. However, history also warns of the turbulence of transition periods. Whenever military postures shift rapidly—whether through scaled-back drills or changes in operational control—miscalculations by rival regional actors can spike. The challenge for Seoul is navigating this modernization phase without accidentally triggering the very escalations it seeks to deter.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -66,19 +66,19 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Moments of geopolitical uncertainty naturally turn our thoughts toward deeper human questions about where security truly lies. In a world of shifting political winds, putting absolute trust in shifting international agreements often leaves societies feeling anxious and exposed.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <p>This reminds me of the ancient wisdom found in Scripture regarding the limits of human power and political machinery. In Psalm 20:7, the writer reflects: "Some trust in chariots and some in horses, but we trust in the name of the Lord our God." That ancient observation is not an argument against preparedness or practical defense—after all, leaders have a duty to protect their citizens and pursue wise stewardship. Instead, it invites a measure of humility. It reminds us that whether nations build nuclear submarines, forge grand alliances, or scale back military drills, human security is ultimately fragile.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <p>When leaders like President Lee plan for worst-case scenarios, they are practicing a form of civic prudence. Yet true peace requires more than military hardware or strategic realignments; it requires a commitment to justice, honest diplomacy, and restraint. When political transitions create anxiety across nations, wisdom suggests preparing diligently while guarding against the pride that assumes human strength alone can guarantee a peaceful tomorrow.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>

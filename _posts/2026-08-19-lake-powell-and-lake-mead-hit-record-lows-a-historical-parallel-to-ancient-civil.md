@@ -23,13 +23,13 @@ source_url: "https://www.azfamily.com/2026/08/18/lake-powell-lake-mead-hit-recor
     <p>The situation is stark. Lake Powell has dropped over 20 feet since the start of 2026, teetering just 30 feet above the "dead pool" threshold where hydroelectric turbines cease to function. Lake Mead, downstream, is currently at its lowest point since its creation. Experts emphasize that while immediate taps won't run dry tomorrow, the long-term viability of the region's power grid and agricultural output is under unprecedented strain.</p>
     
     <div style="border: 1px solid #ffd700; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 8px;">
-      <strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B004J8H9M0" target="_blank" rel="noopener noreferrer">The Great Thirst: The Secret World of Water - $18.99</a>
+      <strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B004J8H9M0" target="_blank" rel="noopener noreferrer">The Great Thirst: The Secret World of Water - </a>
     </div>
 
     <p>This isn't just a weather event; it is a systemic challenge of managing a resource that is being withdrawn faster than it is being replenished. The reliance on hydroelectric power adds a layer of economic urgency, as the loss of this cheap energy could ripple through the western power grid.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -39,14 +39,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>History is littered with the remnants of civilizations that failed to adapt to changing water realities. The most striking parallel to our current Colorado River crisis is the collapse of the Hohokam culture in the Salt River Valley centuries ago. Much like the modern Southwest, the Hohokam built an intricate network of irrigation canals that sustained a thriving population for over a thousand years. However, prolonged drought and soil salinization eventually rendered their system unsustainable.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>Another parallel can be found in the Mesopotamian civilizations of the Tigris and Euphrates. They faced similar challenges: over-diversion of water and the gradual depletion of their river systems. History teaches us that the transition from abundance to scarcity is rarely sudden; it is a slow, creeping process that often outpaces the political will to change.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -62,14 +62,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This crisis forces me to think about the biblical concept of stewardship. In Genesis, humanity is entrusted with the care of the earth, a responsibility that requires both wisdom and foresight. When we look at the drying basins of Lake Mead and Powell, it serves as a sobering reminder of our finite control over nature.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>As Proverbs 21:20 notes, "The wise store up choice food and olive oil, but fools gulp theirs down." We have been "gulping down" our water resources for decades, assuming the supply was infinite. This moment invites us to consider our relationship with the land and the necessity of humility. We are not just consumers; we are caretakers of a future we may not inhabit. How we act today defines the legacy we leave for the next generation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

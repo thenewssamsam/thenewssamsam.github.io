@@ -37,7 +37,7 @@ source_url: 'https://www.publicsource.org/property-tax-reassessment-ordered-in-a
   <p>The judicial directive arrives after years of mounting pressure from local school districts—most notably Pittsburgh Public Schools—and a recent recommendation from the county Government Review Commission calling for routine property valuations every four years. Under the new court order, Allegheny County must enlist a third-party contractor within six months to carry out the countywide reassessment. That contractor must substantially begin the process within three months of selection, utilizing data collection methods ranging from aerial imagery and software modeling to in-person property views.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
   <p>Pennsylvania currently stands as the only state in the country that does not mandate routine, statewide property reassessments. While state Sen. Wayne Fontana has pushed for legislative fixes, local action has largely been driven by litigation. County Executive Sara Innamorato noted that while the county is working within an imperfect system, it will comply with the directive to conduct a reassessment within the next five years, aiming to build a transparent system that puts residents first.</p>
@@ -144,7 +144,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -152,7 +152,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

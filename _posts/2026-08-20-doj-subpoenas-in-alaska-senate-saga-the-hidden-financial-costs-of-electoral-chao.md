@@ -40,7 +40,7 @@ source_url: "https://www.nbcnews.com/politics/justice-department/doj-issues-gran
 </section>
 
 <div class="ncg-product-card" style="background: #fdfdfd; border: 1px solid #e0e0e0; border-left: 4px solid #f59e0b; padding: 1rem; border-radius: 6px; margin: 1.5rem 0;">
-<p style="margin: 0; font-size: 0.95rem; color: #333;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B085V8G48N?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0d6efd; text-decoration: underline;">The Big Short: Inside the Doomsday Machine</a> - A fascinating look at how complex systems and financial mechanics drive hidden crises. ($14.99)</p>
+<p style="margin: 0; font-size: 0.95rem; color: #333;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B085V8G48N?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0d6efd; text-decoration: underline;">The Big Short: Inside the Doomsday Machine</a> - A fascinating look at how complex systems and financial mechanics drive hidden crises. </p>
 </div>
 
 <section id="financial-perspective">
@@ -48,21 +48,21 @@ source_url: "https://www.nbcnews.com/politics/justice-department/doj-issues-gran
 <p>From a general financial literacy and economic perspective, any involvement with a federal grand jury subpoena introduces immediate, compounding costs. Legal defense in federal investigations is notoriously capital-intensive. Hourly rates for specialized white-collar criminal defense attorneys often run into hundreds or even thousands of dollars. For political campaigns operating on tight budgets funded by grassroots donations and political action committees, this sudden cash outflow can cripple operational capacity.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Furthermore, these investigations create economic uncertainty for donors and stakeholders. When contributors see a campaign embroiled in federal subpoenas, future fundraising often stalls. Donors prefer to put their hard-earned capital toward viable, forward-moving policy platforms rather than legal defense funds. This dynamic starves the campaign of the liquidity needed to run television advertisements, hire field staff, and communicate policy positions to the electorate.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>At a macroeconomic level, prolonged political and legal battles consume public resources as well. Federal grand jury proceedings require investigative hours from DOJ personnel, court reporters, and administrative staff—all funded by taxpayer dollars. While accountability is vital, the financial friction of resolving electoral disputes represents a tangible resource allocation away from other pressing federal priorities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -72,7 +72,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 
 <div class="ncg-product-card" style="background: #fdfdfd; border: 1px solid #e0e0e0; border-left: 4px solid #f59e0b; padding: 1rem; border-radius: 6px; margin: 1.5rem 0;">
-<p style="margin: 0; font-size: 0.95rem; color: #333;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B07V7SP48H?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0d6efd; text-decoration: underline;">Principles for Navigating Big Debt Crises</a> - Learn how financial and systemic pressures destabilize complex institutions. ($22.50)</p>
+<p style="margin: 0; font-size: 0.95rem; color: #333;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B07V7SP48H?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0d6efd; text-decoration: underline;">Principles for Navigating Big Debt Crises</a> - Learn how financial and systemic pressures destabilize complex institutions. </p>
 </div>
 
 <section id="spiritual-perspective">
@@ -80,20 +80,20 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Situations involving legal investigations and financial transparency naturally prompt deeper reflection on honesty and stewardship. Proverbs 13:11 reminds us, "Wealth gained hastily will dwindle, but whoever gathers little by little will increase it." In the context of public office and campaign financing, shortcuts or administrative carelessness almost always result in severe downstream consequences.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>When money and power intersect in complex political races, integrity remains the ultimate safeguard. As Ecclesiastes 5:10 notes, "He who loves money will not be satisfied with money, nor he who loves wealth with his income; this also is vanity." The pursuit of political office must be grounded in honest service rather than careless maneuvers that jeopardize financial and ethical boundaries. This situation invites us to consider how vital transparent, faithful stewardship is in every area of public and private life.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
 
 <div class="ncg-product-card" style="background: #fdfdfd; border: 1px solid #e0e0e0; border-left: 4px solid #f59e0b; padding: 1rem; border-radius: 6px; margin: 1.5rem 0;">
-<p style="margin: 0; font-size: 0.95rem; color: #333;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0143118927?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0d6efd; text-decoration: underline;">Thinking, Fast and Slow</a> - Understand behavioral economics and how people make financial and ethical decisions under pressure. ($16.80)</p>
+<p style="margin: 0; font-size: 0.95rem; color: #333;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0143118927?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0d6efd; text-decoration: underline;">Thinking, Fast and Slow</a> - Understand behavioral economics and how people make financial and ethical decisions under pressure. </p>
 </div>
 
 <section id="practical-response">
@@ -101,7 +101,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>While the Alaska Senate investigation unfolds at the federal level, everyday citizens and donors can take practical steps to navigate political news with discernment:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <ul>
@@ -112,7 +112,7 @@ Seagate Portable External Hard Drive ($59.99)
 </section>
 
 <div class="ncg-product-card" style="background: #fdfdfd; border: 1px solid #e0e0e0; border-left: 4px solid #f59e0b; padding: 1rem; border-radius: 6px; margin: 1.5rem 0;">
-<p style="margin: 0; font-size: 0.95rem; color: #333;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0062316097?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0d6efd; text-decoration: underline;">Sapiens: A Brief History of Humankind</a> - Explore the cooperative systems, laws, and institutions that shape human society. ($18.99)</p>
+<p style="margin: 0; font-size: 0.95rem; color: #333;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0062316097?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0d6efd; text-decoration: underline;">Sapiens: A Brief History of Humankind</a> - Explore the cooperative systems, laws, and institutions that shape human society. </p>
 </div>
 
 <section id="closing-thought" class="ncg-closing-box" style="background: #f8f9fa; border: 1px solid #e9ecef; padding: 1.5rem; border-radius: 6px; margin-top: 2rem;">

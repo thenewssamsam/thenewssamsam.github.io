@@ -57,10 +57,10 @@ source_url: "https://www.nbcnews.com/politics/justice-department/doj-issues-gran
   <p>The core of the story centers on the legal and procedural friction surrounding the presence of two candidates named Dan Sullivan in an Alaska Republican Senate contest. Electoral rules, name recognition, and campaign mechanics often create tight races, but sharing a name with an incumbent or a prominent challenger introduces unique challenges that can baffle voters and complicate administrative oversight.</p>
 
   <div class="mvf-amazon-box">
-    <p>Recommended Resource: <a href="https://www.amazon.com/dp/B08N5K2V7X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Understanding Modern American Politics: Campaigns, Media, and Integrity ($19.99)</a> - A helpful guide for navigating complex election cycles and political reporting.</p>
+    <p>Recommended Resource: <a href="https://www.amazon.com/dp/B08N5K2V7X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Understanding Modern American Politics: Campaigns, Media, and Integrity </a> - A helpful guide for navigating complex election cycles and political reporting.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>
@@ -68,7 +68,7 @@ Tactical Waterproof Backpack ($35.99)
   <p>Recently, the Department of Justice escalated its inquiry by issuing grand jury subpoenas. While grand jury proceedings are notoriously opaque, the move signals that federal prosecutors have moved beyond preliminary inquiries and are actively gathering sworn testimony and documents. For ordinary observers watching from outside Alaska, the sheer novelty of "dueling candidates" sounds almost cinematic. Yet for the local political ecosystem, the federal intervention points to serious legal questions that require careful, sober examination rather than partisan speculation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -81,10 +81,10 @@ Seagate Portable External Hard Drive ($59.99)
   </div>
 
   <div class="mvf-amazon-box">
-    <p>Recommended Resource: <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Constitution of the United States and Related Documents ($6.99)</a> - Keep a handy reference of foundational legal principles close by.</p>
+    <p>Recommended Resource: <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Constitution of the United States and Related Documents </a> - Keep a handy reference of foundational legal principles close by.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>
@@ -95,10 +95,10 @@ Seagate Portable External Hard Drive ($59.99)
   </div>
 
   <div class="mvf-amazon-box">
-    <p>Recommended Resource: <a href="https://www.amazon.com/dp/B07V7SP818?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Fact-Checking and Media Literacy Workbook ($14.50)</a> - Essential tools for separating verified facts from viral online rumors.</p>
+    <p>Recommended Resource: <a href="https://www.amazon.com/dp/B07V7SP818?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Fact-Checking and Media Literacy Workbook </a> - Essential tools for separating verified facts from viral online rumors.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>
@@ -113,10 +113,10 @@ Seagate Portable External Hard Drive ($59.99)
   </div>
 
   <div class="mvf-amazon-box">
-    <p>Recommended Resource: <a href="https://www.amazon.com/dp/0393356256?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Thinking, Fast and Slow by Daniel Kahneman ($16.99)</a> - Understand how cognitive biases shape our snap judgments on complex news stories.</p>
+    <p>Recommended Resource: <a href="https://www.amazon.com/dp/0393356256?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Thinking, Fast and Slow by Daniel Kahneman </a> - Understand how cognitive biases shape our snap judgments on complex news stories.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>
@@ -125,15 +125,15 @@ Seagate Portable External Hard Drive ($59.99)
   <p>Stories like this one often stir up cynicism about public life, power, and the institutions we rely on for order. When we watch public figures and legal systems clash, it reminds me of how easily human ambition can complicate our communities. One ancient proverb offers a grounding perspective for times of confusion: <q>The integrity of the upright guides them, but the unfaithfulness of the crooked destroys them.</q> (Proverbs 11:3, NIV). Similarly, the Apostle Paul encourages believers to <q>let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer each person</q> (Colossians 4:6, ESV). These reminders invite us to approach turbulent news not with anger or glee, but with a steady commitment to truth, honesty, and personal integrity in our own spheres of influence.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
   <div class="mvf-amazon-box">
-    <p>Recommended Resource: <a href="https://www.amazon.com/dp/1433560558?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">ESV Study Bible ($34.99)</a> - Deepen your understanding of wisdom literature and timeless biblical principles.</p>
+    <p>Recommended Resource: <a href="https://www.amazon.com/dp/1433560558?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">ESV Study Bible </a> - Deepen your understanding of wisdom literature and timeless biblical principles.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>
@@ -147,46 +147,46 @@ Tactical Waterproof Backpack ($35.99)
   </ul>
 
   <div class="mvf-amazon-box">
-    <p>Recommended Resource: <a href="https://www.amazon.com/dp/0143111582?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Federalist Papers by Alexander Hamilton, James Madison, and John Jay ($11.00)</a> - Explore the original design and safeguards of the American legal and political framework.</p>
+    <p>Recommended Resource: <a href="https://www.amazon.com/dp/0143111582?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Federalist Papers by Alexander Hamilton, James Madison, and John Jay </a> - Explore the original design and safeguards of the American legal and political framework.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>
 
   <div class="mvf-amazon-box">
-    <p>Recommended Resource: <a href="https://www.amazon.com/dp/1501168962?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Righteous Mind: Why Good People Are Divided by Politics and Religion ($17.00)</a> - Learn why political disagreements run so deep and how to foster constructive dialogue.</p>
+    <p>Recommended Resource: <a href="https://www.amazon.com/dp/1501168962?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Righteous Mind: Why Good People Are Divided by Politics and Religion </a> - Learn why political disagreements run so deep and how to foster constructive dialogue.</p>
   </div>
 
   <div class="mvf-amazon-box">
-    <p>Recommended Resource: <a href="https://www.amazon.com/dp/1250765103?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">American Republic: Essays on History and Governance ($22.00)</a> - Deepen your grasp of historical context behind modern electoral challenges.</p>
+    <p>Recommended Resource: <a href="https://www.amazon.com/dp/1250765103?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">American Republic: Essays on History and Governance </a> - Deepen your grasp of historical context behind modern electoral challenges.</p>
   </div>
 
   <div class="mvf-amazon-box">
-    <p>Recommended Resource: <a href="https://www.amazon.com/dp/B084W4K271?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Civic Engagement and Community Leadership Handbook ($12.99)</a> - Practical guides for participating responsibly in local and national democracy.</p>
+    <p>Recommended Resource: <a href="https://www.amazon.com/dp/B084W4K271?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Civic Engagement and Community Leadership Handbook </a> - Practical guides for participating responsibly in local and national democracy.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>
 
   <div class="mvf-amazon-box">
-    <p>Recommended Resource: <a href="https://www.amazon.com/dp/0062316117?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Sapiens: A Brief History of Humankind by Yuval Noah Harari ($18.99)</a> - Gain broader perspective on human social structures and institutional evolution.</p>
+    <p>Recommended Resource: <a href="https://www.amazon.com/dp/0062316117?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Sapiens: A Brief History of Humankind by Yuval Noah Harari </a> - Gain broader perspective on human social structures and institutional evolution.</p>
   </div>
 
   <div class="mvf-amazon-box">
-    <p>Recommended Resource: <a href="https://www.amazon.com/dp/0525562435?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Educated: A Memoir by Tara Westover ($17.00)</a> - A powerful reflection on truth, learning, and independent critical thinking.</p>
+    <p>Recommended Resource: <a href="https://www.amazon.com/dp/0525562435?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Educated: A Memoir by Tara Westover </a> - A powerful reflection on truth, learning, and independent critical thinking.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>
 
   <div class="mvf-amazon-box">
-    <p>Recommended Resource: <a href="https://www.amazon.com/dp/B07Z8WP6Q9?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Modern Investigative Journalism: Principles and Practice ($24.99)</a> - Discover how professional reporters uncover facts behind complex legal stories.</p>
+    <p>Recommended Resource: <a href="https://www.amazon.com/dp/B07Z8WP6Q9?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Modern Investigative Journalism: Principles and Practice </a> - Discover how professional reporters uncover facts behind complex legal stories.</p>
   </div>
 
   <div class="mvf-closing">

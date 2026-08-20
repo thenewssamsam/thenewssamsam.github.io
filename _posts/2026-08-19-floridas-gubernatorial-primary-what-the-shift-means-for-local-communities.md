@@ -24,7 +24,7 @@ source_url: "https://katu.com/news/nation-world/florida-voters-choose-nominees-i
     <p>While national media often focuses on party loyalty and high-profile endorsements, for the average Floridian, this election is about the tangible realities of daily life. Between rising insurance premiums, a competitive housing market, and ongoing debates over educational funding, the next governor will hold significant sway over local municipal budgets and state-level policy that trickles down to every county.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -32,7 +32,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>"The race to replace Governor DeSantis isn't just a political chess match; it is a referendum on how Florida manages its rapid growth and the resulting cost-of-living pressures on our local communities."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -40,7 +40,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Current frontrunners Byron Donalds (R) and David Jolly (D) represent two vastly different visions for the state. Donalds has leaned into the legacy of the current administration, while Jolly has centered his campaign on affordability and infrastructure. For local residents, the choice involves deciding whether they want a continuation of current state-led culture initiatives or a pivot toward addressing the specific economic stressors that have made Florida one of the most expensive states to live in.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -50,15 +50,15 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In regions like Tampa Bay and Naples, voters are signaling that the cost of housing and insurance is the primary metric by which they will judge their next leader. When the state government prioritizes these issues, local zoning boards and city councils often find it easier to coordinate development and utility planning. When state-level politics remain focused elsewhere, local communities are often left to navigate these crises on their own.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <div style="border-left: 4px solid #f0f0f0; background-color: #fffdf0; padding: 10px; margin: 15px 0;">
-      <p><strong>Recommended for Homeowners:</strong> <a href="#">High-Efficiency Smart Thermostat - $129.99</a> to help manage cooling costs in the Florida heat.</p>
+      <p><strong>Recommended for Homeowners:</strong> <a href="#">High-Efficiency Smart Thermostat - </a> to help manage cooling costs in the Florida heat.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -66,7 +66,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>The influx of new residents over the last decade has strained infrastructure statewide. Whoever wins the nomination today will need to demonstrate that they understand the unique needs of Florida’s diverse regions, not just the party base in Tallahassee.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -76,13 +76,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>As I reflect on the intensity of this campaign, I am reminded of the biblical call to stewardship. Whether we are discussing state policy or our own neighborhoods, we are tasked with caring for the people around us. Proverbs 29:2 (ESV) tells us, "When the righteous increase, the people rejoice, but when the wicked rule, the people groan."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>This verse serves as a quiet invitation to consider the weight of our influence. Our vote is more than a political expression; it is a decision about how we intend to serve our community and protect the vulnerable. As we look at the candidates, we are reminded that true leadership should reflect a spirit of service, dignity for every citizen, and a commitment to the common good, rather than just the pursuit of partisan victory.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

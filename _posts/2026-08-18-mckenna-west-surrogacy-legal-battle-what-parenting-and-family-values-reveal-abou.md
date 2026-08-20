@@ -21,7 +21,7 @@ source_url: 'https://www.tmz.com/2026/08/16/surrogate-mckenna-west-fundraiser-dr
   </header>
 
   <section id="ncg-intro" class="ncg-section">
-    <p>Surrogate McKenna West's online fundraiser is rapidly approaching the $80,000 mark as a high-stakes, multi-state legal battle over a newborn unfolds. Triggered by a complex medical diagnosis and conflicting accounts between West and the intended biological parents, the case has captivated national attention. Beyond the courtroom drama and the GiveSendGo campaign, this unfolding story touches on core questions of family ethics, prenatal medical decisions, and the heavy emotional toll placed on everyone involved when a surrogacy arrangement collapses.</p>
+    <p>Surrogate McKenna West's online fundraiser is rapidly approaching the ,000 mark as a high-stakes, multi-state legal battle over a newborn unfolds. Triggered by a complex medical diagnosis and conflicting accounts between West and the intended biological parents, the case has captivated national attention. Beyond the courtroom drama and the GiveSendGo campaign, this unfolding story touches on core questions of family ethics, prenatal medical decisions, and the heavy emotional toll placed on everyone involved when a surrogacy arrangement collapses.</p>
   </section>
 
   <nav class="ncg-toc" aria-label="Table of Contents">
@@ -39,7 +39,7 @@ source_url: 'https://www.tmz.com/2026/08/16/surrogate-mckenna-west-fundraiser-dr
     <p>The controversy stems from a surrogacy arrangement that took an unexpected turn when doctors discovered that the developing baby had hypoplastic left heart syndrome (HLHS), a severe congenital heart defect. According to a GiveSendGo fundraiser launched by West's friend Ellen Fisher, West was allegedly advised to schedule a termination following the diagnosis. Fisher claims West felt terrified of potential legal and financial repercussions if she refused.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -93,7 +93,7 @@ Seagate Portable External Hard Drive ($59.99)
     "@context": "https://schema.org",
     "@type": "NewsArticle",
     "headline": "McKenna West Surrogacy Legal Battle: What Parenting and Family Values Reveal About This Complex Case",
-    "description": "McKenna West's surrogacy fundraiser nears $80K amid a bitter custody and medical dispute. Explore the complex parenting and family issues behind the headlines.",
+    "description": "McKenna West's surrogacy fundraiser nears K amid a bitter custody and medical dispute. Explore the complex parenting and family issues behind the headlines.",
     "datePublished": "2026-08-16",
     "author": {
       "@type": "Organization",
@@ -135,7 +135,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -143,7 +143,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

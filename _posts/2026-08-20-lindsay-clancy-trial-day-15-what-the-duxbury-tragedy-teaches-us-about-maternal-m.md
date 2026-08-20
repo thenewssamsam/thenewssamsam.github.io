@@ -39,13 +39,13 @@ source_url: "https://www.nbcboston.com/news/local/lindsay-clancy-trial-day-15-li
 <p>Day 15 featured testimony from a forensic pathologist who presented a physical reconstruction of the Duxbury home, detailing how Clancy was injured during her fall. The jury also heard from a medical doctor who assisted Clancy in contacting her husband from the hospital, as well as testimony from Clancy's former mother-in-law. Notably, proceedings drew intense public scrutiny following a contentious prosecutor's question regarding a "mortal sin" directed at a witness, which was swiftly struck from the record by the judge. As defense experts unpack complex psychiatric layers, the trial continues to illuminate the profound intersection of severe mental illness and family tragedy.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
 
 <div class="ncg-amazon-product" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <strong>Recommended for Family Wellness:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener">The Fifth Trimester: Postpartum Pampering &amp; Mental Health Journal</a> – A practical guide for navigating postpartum emotional changes ($18.99)
+  <strong>Recommended for Family Wellness:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener">The Fifth Trimester: Postpartum Pampering &amp; Mental Health Journal</a> – A practical guide for navigating postpartum emotional changes 
 </div>
 
 <section id="parenting-perspective">
@@ -53,7 +53,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>It is almost impossible for parents to read about the Duxbury tragedy without feeling a deep, chilling sense of sorrow. Modern parenting culture often places an impossible burden on mothers and fathers to project an image of effortless competence. We celebrate the glowing newborn photos while missing the silent, exhausting isolation happening behind closed doors.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -65,12 +65,12 @@ Tactical Waterproof Backpack ($35.99)
 <p>Postpartum depression and psychosis are vastly different from ordinary parenting fatigue. While every parent knows exhaustion, clinical conditions involving psychosis feature profound detachment from reality, severe insomnia, intrusive thoughts, and overwhelming terror that can paralyze rational thought. When friends, family members, and colleagues take the stand to testify about a mother's loving nature prior to a sudden psychiatric collapse, it reminds us how deeply invisible mental health struggles can remain until a crisis erupts.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <div class="ncg-amazon-product" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <strong>Recommended Support Resource:</strong> <a href="https://www.amazon.com/dp/B07V5W8J6C?tag=thenewssam-20" target="_blank" rel="noopener">Good Moms Have Scary Thoughts: A Healing Guide</a> – Essential reading for understanding postpartum intrusive thoughts ($14.99)
+  <strong>Recommended Support Resource:</strong> <a href="https://www.amazon.com/dp/B07V5W8J6C?tag=thenewssam-20" target="_blank" rel="noopener">Good Moms Have Scary Thoughts: A Healing Guide</a> – Essential reading for understanding postpartum intrusive thoughts 
 </div>
 
 <h3>Age-Appropriate Communication and Family Resilience</h3>
@@ -82,13 +82,13 @@ Tactical Waterproof Backpack ($35.99)
 </ul></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
 
 <div class="ncg-amazon-product" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <strong>Recommended for Calm Homes:</strong> <a href="https://www.amazon.com/dp/B0998W8X2W?tag=thenewssam-20" target="_blank" rel="noopener">Essential Oil Diffuser &amp; Aromatherapy Set</a> – Creating a soothing household sanctuary for parents and children ($29.99)
+  <strong>Recommended for Calm Homes:</strong> <a href="https://www.amazon.com/dp/B0998W8X2W?tag=thenewssam-20" target="_blank" rel="noopener">Essential Oil Diffuser &amp; Aromatherapy Set</a> – Creating a soothing household sanctuary for parents and children 
 </div>
 
 <section id="scripture-reflection">
@@ -96,30 +96,30 @@ Tactical Waterproof Backpack ($35.99)
 <p>Situations of immense brokenness often leave us searching for spiritual grounding. When human systems fail and earthly trials lay bare our deepest vulnerabilities, scripture reminds us of the tender mercy extended to the weary and heavy-laden.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <p>This situation reminds me of how easily human judgment rushes in where gentle compassion is needed. Psalm 34:18 tells us, <em>"The Lord is close to the brokenhearted and saves those who are crushed in spirit."</em> It is a humbling reminder that God sees the secret torments and invisible battles that no courtroom witness can fully articulate.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="ncg-amazon-product" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <strong>Recommended Journal:</strong> <a href="https://www.amazon.com/dp/1648764024?tag=thenewssam-20" target="_blank" rel="noopener">Prayers for Emotional Wholeness &amp; Peace</a> – Guided reflections for anxiety and difficult seasons ($12.50)
+  <strong>Recommended Journal:</strong> <a href="https://www.amazon.com/dp/1648764024?tag=thenewssam-20" target="_blank" rel="noopener">Prayers for Emotional Wholeness &amp; Peace</a> – Guided reflections for anxiety and difficult seasons 
 </div>
 
 <p>Furthermore, I am reminded of the counsel in Galatians 6:2: <em>"Carry each other’s burdens, and in this way you will fulfill the law of Christ."</em> True community support means stepping in before a crisis hits, offering practical help to new parents without waiting for them to ask.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
 
 <div class="ncg-amazon-product" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <strong>Recommended Wellness Tool:</strong> <a href="https://www.amazon.com/dp/B084328X87?tag=thenewssam-20" target="_blank" rel="noopener">Weighted Blanket for Anxiety &amp; Deep Rest</a> – Promoting restorative sleep for exhausted caregivers ($45.00)
+  <strong>Recommended Wellness Tool:</strong> <a href="https://www.amazon.com/dp/B084328X87?tag=thenewssam-20" target="_blank" rel="noopener">Weighted Blanket for Anxiety &amp; Deep Rest</a> – Promoting restorative sleep for exhausted caregivers 
 </div>
 
 <section id="how-parents-respond">
@@ -127,7 +127,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>We cannot change the tragic events of Duxbury, but we can honor the lives lost by transforming how we approach family support and mental health:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <ol>
@@ -138,11 +138,11 @@ Tactical Waterproof Backpack ($35.99)
 </section>
 
 <div class="ncg-amazon-product" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <strong>Recommended Self-Care:</strong> <a href="https://www.amazon.com/dp/B07PJT3Z9V?tag=thenewssam-20" target="_blank" rel="noopener">Mindfulness Meditation Cards for Daily Peace</a> – Simple daily prompts for mental grounding ($15.95)
+  <strong>Recommended Self-Care:</strong> <a href="https://www.amazon.com/dp/B07PJT3Z9V?tag=thenewssam-20" target="_blank" rel="noopener">Mindfulness Meditation Cards for Daily Peace</a> – Simple daily prompts for mental grounding 
 </div>
 
 <div class="ncg-amazon-product" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <strong>Recommended for Sleep:</strong> <a href="https://www.amazon.com/dp/B07H8M89GY?tag=thenewssam-20" target="_blank" rel="noopener">White Noise Sound Machine with Night Light</a> – Helping parents and infants achieve deeper rest ($24.99)
+  <strong>Recommended for Sleep:</strong> <a href="https://www.amazon.com/dp/B07H8M89GY?tag=thenewssam-20" target="_blank" rel="noopener">White Noise Sound Machine with Night Light</a> – Helping parents and infants achieve deeper rest 
 </div>
 
 <section id="closing-thoughts">
@@ -150,22 +150,22 @@ Tactical Waterproof Backpack ($35.99)
 <p>Trials like the one unfolding in Massachusetts lay bare the terrifying fragility of the human mind under extreme stress. While legal arguments debate responsibility in a courtroom, the rest of us are called to foster communities marked by radical vigilance, non-judgmental listening, and profound grace for those walking through the darkest seasons of family life. No parent should ever have to suffer in silence.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <p><em>Check on your people, extend grace where you cannot understand, and remember that asking for help is an act of profound courage.</em></p>
 </section>
 
 <div class="ncg-amazon-product" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/0310356261?tag=thenewssam-20" target="_blank" rel="noopener">The Ruthless Elimination of Hurry</a> – Finding emotional and spiritual breathing room in a fast-paced world ($16.00)
+  <strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/0310356261?tag=thenewssam-20" target="_blank" rel="noopener">The Ruthless Elimination of Hurry</a> – Finding emotional and spiritual breathing room in a fast-paced world 
 </div>
 
 <div class="ncg-amazon-product" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <strong>Recommended Support:</strong> <a href="https://www.amazon.com/dp/1507210553?tag=thenewssam-20" target="_blank" rel="noopener">The Self-Care Prescription: Powerful Solutions to Manage Stress</a> – Practical mental health guidance ($14.39)
+  <strong>Recommended Support:</strong> <a href="https://www.amazon.com/dp/1507210553?tag=thenewssam-20" target="_blank" rel="noopener">The Self-Care Prescription: Powerful Solutions to Manage Stress</a> – Practical mental health guidance 
 </div>
 
 <div class="ncg-amazon-product" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <strong>Recommended Gift:</strong> <a href="https://www.amazon.com/dp/B07V3QZ3M2?tag=thenewssam-20" target="_blank" rel="noopener">Relaxing Lavender Bath Salts &amp; Spa Set</a> – Soothing physical relaxation for tired parents ($21.99)
+  <strong>Recommended Gift:</strong> <a href="https://www.amazon.com/dp/B07V3QZ3M2?tag=thenewssam-20" target="_blank" rel="noopener">Relaxing Lavender Bath Salts &amp; Spa Set</a> – Soothing physical relaxation for tired parents 
 </div>
 
 <footer>

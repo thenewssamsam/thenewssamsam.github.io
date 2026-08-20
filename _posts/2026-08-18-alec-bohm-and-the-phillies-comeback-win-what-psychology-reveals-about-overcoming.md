@@ -26,7 +26,7 @@ source_url: 'https://www.nbcsportsphiladelphia.com/mlb/philadelphia-phillies/ale
   <p>For the first five innings, Philadelphia's offense sputtered against Twins right-hander Dean Kremer. They loaded the bases and squandered early opportunities from Kyle Schwarber, Edmundo Sosa, and Justin Crawford. But patience preached in a late-July hitters meeting finally paid dividends in the sixth. Walks, hard-fought at-bats, and a massive three-run home run down the left-field line by Alec Bohm erased the deficit. Tied at four, the Phillies kept pressing: Bohm poked a clutch single in the seventh to score Bryce Harper, and Bryan De Lu Cruz added a two-run single down the first-base line to seal a 7-5 win.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -106,7 +106,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -114,7 +114,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

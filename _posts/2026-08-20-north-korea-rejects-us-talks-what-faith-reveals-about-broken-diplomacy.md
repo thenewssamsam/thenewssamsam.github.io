@@ -55,9 +55,9 @@ source_url: 'https://www.aljazeera.com/news/2026/8/19/north-korea-leaders-sister
   <div style="margin: 20px 0; padding: 15px; background: #fffdf5; border-left: 4px solid #f59e0b; border-radius: 4px;">
     <p style="margin: 0; font-weight: 600; color: #92400e;">Essential Reading & Tools for Personal Growth</p>
     <ul style="margin: 10px 0 0 20px; padding: 0; color: #78350f;">
-      <li><a href="https://www.amazon.com/dp/B074H55SKX?tag=thenewssam-20" target="_blank" rel="noopener" style="color: #b45309; text-decoration: none;">ESV Study Bible, Large Print (Hardcover) - $49.99</a></li>
-      <li><a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener" style="color: #b45309; text-decoration: none;">The Peacemaker: A Biblical Guide to Resolving Personal Conflict - $16.99</a></li>
-      <li><a href="https://www.amazon.com/dp/0310451390?tag=thenewssam-20" target="_blank" rel="noopener" style="color: #b45309; text-decoration: none;">NIV Life Application Study Bible, Second Edition - $35.49</a></li>
+      <li><a href="https://www.amazon.com/dp/B074H55SKX?tag=thenewssam-20" target="_blank" rel="noopener" style="color: #b45309; text-decoration: none;">ESV Study Bible, Large Print (Hardcover) - </a></li>
+      <li><a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener" style="color: #b45309; text-decoration: none;">The Peacemaker: A Biblical Guide to Resolving Personal Conflict - </a></li>
+      <li><a href="https://www.amazon.com/dp/0310451390?tag=thenewssam-20" target="_blank" rel="noopener" style="color: #b45309; text-decoration: none;">NIV Life Application Study Bible, Second Edition - </a></li>
     </ul>
   </div>
 
@@ -74,9 +74,9 @@ source_url: 'https://www.aljazeera.com/news/2026/8/19/north-korea-leaders-sister
   <div style="margin: 20px 0; padding: 15px; background: #fffdf5; border-left: 4px solid #f59e0b; border-radius: 4px;">
     <p style="margin: 0; font-weight: 600; color: #92400e;">Recommended Books on Faith and Peace</p>
     <ul style="margin: 10px 0 0 20px; padding: 0; color: #78350f;">
-      <li><a href="https://www.amazon.com/dp/0830846174?tag=thenewssam-20" target="_blank" rel="noopener" style="color: #b45309; text-decoration: none;">Pursuing Peace: A Christian Guide to Handling Conflict - $14.99</a></li>
-      <li><a href="https://www.amazon.com/dp/B07PXR1WZ9?tag=thenewssam-20" target="_blank" rel="noopener" style="color: #b45309; text-decoration: none;">Anxious for Nothing: Finding Calm in a Chaotic World - $12.99</a></li>
-      <li><a href="https://www.amazon.com/dp/0310355796?tag=thenewssam-20" target="_blank" rel="noopener" style="color: #b45309; text-decoration: none;">The Ruthless Elimination of Hurry - $15.50</a></li>
+      <li><a href="https://www.amazon.com/dp/0830846174?tag=thenewssam-20" target="_blank" rel="noopener" style="color: #b45309; text-decoration: none;">Pursuing Peace: A Christian Guide to Handling Conflict - </a></li>
+      <li><a href="https://www.amazon.com/dp/B07PXR1WZ9?tag=thenewssam-20" target="_blank" rel="noopener" style="color: #b45309; text-decoration: none;">Anxious for Nothing: Finding Calm in a Chaotic World - </a></li>
+      <li><a href="https://www.amazon.com/dp/0310355796?tag=thenewssam-20" target="_blank" rel="noopener" style="color: #b45309; text-decoration: none;">The Ruthless Elimination of Hurry - </a></li>
     </ul>
   </div>
 

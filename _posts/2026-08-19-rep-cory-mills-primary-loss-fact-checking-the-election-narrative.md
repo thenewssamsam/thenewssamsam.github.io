@@ -22,7 +22,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/gop-rep-cory-mills-l
     <p>With over 80% of the vote counted, Ryan Elijah secured 46% of the Republican primary vote compared to 34% for Rep. Cory Mills. Despite receiving the endorsement of former President Donald Trump, Mills was unable to overcome the momentum of his challenger. This loss makes Mills the 11th House member to lose a primary this year, a statistic that underscores a volatile political environment.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -32,7 +32,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In the wake of such a high-profile loss, misinformation often fills the gaps. Here, we separate the verifiable facts from the noise surrounding the primary.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -41,7 +41,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>Fact:</strong> While a presidential endorsement remains a powerful tool, it is not an automatic shield against defeat. Mills is one of a rare set of candidates who lost despite Trump’s blessing, joining Tennessee Rep. Andy Ogles in being defeated this month. The local support Elijah received from prominent Florida Republicans was a decisive factor that countered the national endorsement.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -51,7 +51,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p><strong>Fact:</strong> The investigations cited include a House Ethics Committee probe into serious allegations of sexual misconduct and campaign finance violations, alongside a Justice Department inquiry into his finances. While Mills has denied all wrongdoing, these are formal, institutional processes, not merely political rhetoric from opponents.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -66,13 +66,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>This situation brings to mind the importance of character in public service. Regardless of one’s political affiliation, the standard for those in leadership is high. Scripture reminds us, "Whoever walks in integrity walks securely, but he who makes his ways crooked will be found out" (Proverbs 10:9, ESV).</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>This makes me think about the nature of transparency. When we face questions about our conduct or our finances, the truth is often the only foundation that holds up under pressure. As we watch these political developments, it is a reminder that the public eye eventually reaches every hidden corner. We are called to be people of truth, and this story serves as a sober reminder of the consequences when that standard is questioned by those we serve.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -91,7 +91,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The defeat of Rep. Cory Mills is a reminder that political capital is finite. When a representative is dogged by formal investigations, even a powerful national endorsement may not be enough to satisfy a constituency looking for a change in direction. As the 2026 election cycle continues, voters are clearly signaling that character remains a non-negotiable component of political success.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p><em>True leadership is tested not in the comfort of an endorsement, but in the crucible of public scrutiny.</em></p>

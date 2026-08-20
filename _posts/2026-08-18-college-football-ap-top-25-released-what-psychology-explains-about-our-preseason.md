@@ -35,7 +35,7 @@ source_url: 'https://www.foxnews.com/outkick-sports/college-football-ap-top-25-w
     <p>At the very top of the list, Ohio State claims the coveted No. 1 spot, followed closely by Oregon at No. 2, Georgia at No. 3, Notre Dame at No. 4, and Texas rounding out the top five. Programs like Indiana at No. 6, Miami at No. 7, and Texas A&M at No. 8 inject plenty of intrigue into the early mix. Meanwhile, perennial heavyweights and expensive rosters find themselves scattered across the middle: LSU sits at No. 11, Alabama at No. 13, USC and BYU tie at No. 14, and Michigan lands at No. 16. Further down, traditional powerhouses like Clemson find themselves sitting entirely outside the Top 25, lingering just on the outside receiving votes alongside Florida and Boise State.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>As history repeatedly shows, however, August numbers mean remarkably little. Last season alone, twelve teams that started inside the preseason AP Top 25—including high-profile programs like Penn State, Clemson, and LSU—finished completely unranked when the year concluded. Yet, that reality rarely stops anyone from firing up sports talk radio to demand answers.</p>
@@ -98,7 +98,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -106,7 +106,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

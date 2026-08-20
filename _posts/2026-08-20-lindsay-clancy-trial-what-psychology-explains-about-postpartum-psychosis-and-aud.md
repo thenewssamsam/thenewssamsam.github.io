@@ -40,7 +40,7 @@ source_url: "https://www.bostonglobe.com/2026/08/18/metro/lindsay-clancy-said-th
 
   <div class="ncg-amazon-box" style="border-left: 4px solid #d4af37; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
     <p style="margin: 0; font-weight: bold;">Recommended Resource:</p>
-    <p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B07Z8K3J39?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Good Inside: A Guide to Becoming the Parent You Want to Be</a> - Dr. Becky Kennedy ($16.99) — Understanding emotional regulation, parental distress, and child development through compassionate psychological frameworks.</p>
+    <p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B07Z8K3J39?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Good Inside: A Guide to Becoming the Parent You Want to Be</a> - Dr. Becky Kennedy  — Understanding emotional regulation, parental distress, and child development through compassionate psychological frameworks.</p>
   </div>
 
   <section id="psychology-perspective" class="ncg-section">
@@ -48,7 +48,7 @@ source_url: "https://www.bostonglobe.com/2026/08/18/metro/lindsay-clancy-said-th
     <p>To the general public, the gulf between postpartum depression—which involves profound sadness, anxiety, and fatigue—and postpartum psychosis seems difficult to fathom. Yet clinical psychology views them as entirely different clinical entities. Postpartum psychosis is a rare, terrifying psychiatric emergency occurring in roughly 1 to 2 out of every 1,000 deliveries. It is characterized by a complete break with reality, featuring delusions, severe insomnia, rapid mood swings, and hallucinations.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -56,7 +56,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p>"Psychotic symptoms do not always stay at a constant, roaring volume. Like waves at the beach, they come and they go—allowing moments of apparent lucidity interspersed with total cognitive distortion."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -65,7 +65,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>During testimony, Zeizel described Clancy experiencing auditory hallucinations—specifically, a commanding voice telling her what to do. In clinical psychology, command hallucinations are among the most dangerous manifestations of psychosis. When a patient hears an internal voice issuing direct orders, the brain's normal executive functioning network is temporarily hijacked. The individual's perception of reality is so severely compromised that the hallucination feels as externally real and mandatory as a physical law.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -73,14 +73,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The defense introduced extensive medical records showing Clancy sought help repeatedly in the months leading up to the tragedy, cycling through numerous antidepressant, anti-anxiety, and sleep medications. Psychologically, when pharmacological interventions fail to stabilize a deteriorating brain—and instead induce akathisia, worsening insomnia, or heightened agitation—the patient experiences intense cognitive dissonance and escalating terror. The system becomes overwhelmed, paving the way for full psychotic decompensation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-box" style="border-left: 4px solid #d4af37; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
     <p style="margin: 0; font-weight: bold;">Recommended Resource:</p>
-    <p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B01F6W7N06?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Deepest Well: Healing Childhood Adversity and Long-Term Health Impacts</a> - Dr. Nadine Burke Harris ($15.49) — An exploration of how toxic stress and nervous system overload affect physical and mental well-being.</p>
+    <p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B01F6W7N06?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Deepest Well: Healing Childhood Adversity and Long-Term Health Impacts</a> - Dr. Nadine Burke Harris  — An exploration of how toxic stress and nervous system overload affect physical and mental well-being.</p>
   </div>
 
   <section id="hiding-symptoms" class="ncg-section">
@@ -88,14 +88,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>A central question raised by prosecutors during the trial is why Clancy did not explicitly tell her healthcare providers that she was hearing voices prior to the tragedy. Psychiatry offers a sobering explanation for this concealment: the paralyzing terror of losing one's children to state intervention.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>Dr. Donald Condie testified that medical records indicated Clancy was deeply afraid that the Department of Children and Families (DCF) would take her kids away if she admitted the full severity of her horrifying thoughts. This creates a tragic psychological trap:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <ul>
@@ -110,7 +110,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Tragedies of this magnitude inevitably force society to confront the deep, agonizing brokenness of the human condition. When our minds fracture under the weight of biological storms, we are reminded of our absolute fragility. Scripture speaks directly to the reality of human suffering, noting in Psalm 34:18 that "The Lord is close to the brokenhearted and saves those who are crushed in spirit." Similarly, Romans 8:26 reminds us that when we are too weak or overwhelmed to articulate our pain, "the Spirit helps us in our weakness... with groans that words cannot express." These reflections do not excuse human actions, but they invite us to approach profound mental anguish with humility, compassion, and a recognition of how desperately vulnerable we all are.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -120,7 +120,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Understanding the psychological reality of postpartum illness requires moving beyond judgment toward proactive community care. Here is how readers can respond:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>
@@ -135,7 +135,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The trial of Lindsay Clancy forces a grieving community and a watchful public to look unblinkingly into the dark corners where severe mental illness intersects with human tragedy. While legal arguments will ultimately decide criminal responsibility, behavioral science reminds us that postpartum psychosis is a devastating medical breakdown that distorts reality beyond recognition. True justice and healing require us to replace stigma with vigilance, ensuring that struggling mothers feel safe enough to seek the help they desperately need before a crisis reaches its breaking point.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

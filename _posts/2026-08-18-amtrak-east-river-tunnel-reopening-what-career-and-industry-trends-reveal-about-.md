@@ -28,13 +28,13 @@ source_url: 'https://media.amtrak.com/2026/08/amtrak-completes-first-phase-of-ea
 </ul>
 </nav>
 
-<p>Amtrak has officially reopened Line 2 of the historic East River Tunnel in New York, marking a major milestone in a massive $1.6 billion modernization effort that repairs vital infrastructure damaged over a decade ago by Superstorm Sandy. For the 450 daily trains carrying Amtrak, Long Island Rail Road (LIRR), and NJ TRANSIT passengers, this reopening represents far more than just finished concrete work—it signals a broader shift in how heavy civil engineering projects, skilled trades, and regional transit systems operate in the United States.</p>
+<p>Amtrak has officially reopened Line 2 of the historic East River Tunnel in New York, marking a major milestone in a massive  billion modernization effort that repairs vital infrastructure damaged over a decade ago by Superstorm Sandy. For the 450 daily trains carrying Amtrak, Long Island Rail Road (LIRR), and NJ TRANSIT passengers, this reopening represents far more than just finished concrete work—it signals a broader shift in how heavy civil engineering projects, skilled trades, and regional transit systems operate in the United States.</p>
 
 <h2 id="what-happened">What Happened</h2>
 <p>The East River Tunnel, originally opened in 1910, serves as one of the busiest passenger rail corridors in the Western Hemisphere. Following severe saltwater corrosion during Superstorm Sandy in 2012, two of its four tubes required comprehensive reconstruction. Over the past year, engineering crews gutted and rebuilt the interior systems of the Line 2 tube.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 <p>The sheer scale of the completed phase is immense: workers removed and replaced more than 24,000 feet of rail, 8,000 tons of ballast, 8,000 wooden rail ties, and 20,000 cubic yards of bench wall concrete. New bench walls, modernized power grids, upgraded communications, and enhanced drainage systems were installed to safeguard the century-old asset for decades to come.</p>
@@ -99,7 +99,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -107,7 +107,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

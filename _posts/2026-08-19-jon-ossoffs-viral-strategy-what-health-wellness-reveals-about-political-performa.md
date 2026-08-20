@@ -26,7 +26,7 @@ source_url: "https://www.politico.com/news/2026/08/18/jon-ossoff-georgia-viral-c
         <p>While the goal is to maximize impact and avoid the "complacency" feared by his campaign team, the body and mind have limits. Chronic, high-intensity focus without adequate downtime can lead to burnout, even for those who appear most composed on camera.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         
@@ -40,14 +40,14 @@ Seagate Portable External Hard Drive ($59.99)
         <p>This intense focus on control and public image brings to mind the wisdom found in Proverbs 4:26: "Give careful thought to the paths for your feet and be steadfast in all your ways." While this speaks to moral integrity, it also invites us to consider the value of intentionality. In our own lives, we often feel the pressure to curate our "viral" moments—the highlights we share on social media or the versions of ourselves we present to the world.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
         
         <p>However, we are also reminded in Matthew 11:28: "Come to me, all you who are weary and burdened, and I will give you rest." Even the most capable leaders must recognize that true strength isn't just in the ability to fight or to control a narrative, but in the humility to admit the need for rest and perspective. Whether in a Senate race or a daily job, the health of our spirit depends on knowing that our value is not tied solely to our performance or public reception.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </section>
@@ -57,7 +57,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p>For those of us navigating our own high-pressure environments, Ossoff’s approach offers a lesson in the importance of intentionality, while also highlighting the need for healthy boundaries:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         <ul>
@@ -68,7 +68,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p><em>Note: This is general information, not medical advice. Always consult with a healthcare professional regarding stress management or mental health concerns.</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </section>
@@ -78,7 +78,7 @@ Tactical Waterproof Backpack ($35.99)
         <p>Readers can take away a lesson in "purposeful living." Instead of letting the news cycle dictate your emotional state, observe these high-stakes performances as a reminder to cultivate your own internal stability. If you feel the pressure to "perform" in your own career or social life, take a step back and assess whether your efforts are truly productive or simply a reaction to external noise.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </section>

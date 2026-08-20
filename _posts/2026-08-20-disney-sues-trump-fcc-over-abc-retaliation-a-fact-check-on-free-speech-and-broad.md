@@ -38,7 +38,7 @@ source_url: "https://www.cnn.com/2026/08/18/media/disney-abc-fcc-trump-lawsuit-t
 
 <div class="ncg-product-card" style="border-left: 4px solid #f0ad4e; background: #fdfefe; padding: 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
 <h4 style="margin: 0 0 5px 0; font-size: 16px;"><a href="https://www.amazon.com/dp/B07ZPKN6VR?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #333; text-decoration: none;">Constitution Pocket Edition: The United States Constitution and the Declaration of Independence</a></h4>
-<p style="margin: 0; font-size: 14px; color: #666;">Price: $5.99 — Keep the foundational document of American civil liberties and First Amendment rights close at hand.</p>
+<p style="margin: 0; font-size: 14px; color: #666;"> — Keep the foundational document of American civil liberties and First Amendment rights close at hand.</p>
 </div>
 
 <section id="ncg-myths-facts" class="ncg-section">
@@ -46,7 +46,7 @@ source_url: "https://www.cnn.com/2026/08/18/media/disney-abc-fcc-trump-lawsuit-t
 <p>In high-stakes political and legal battles, rumor and spin often overshadow statutory reality. Let us examine the core claims surrounding the Disney-FCC lawsuit through a rigorous fact-check lens.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -55,7 +55,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p><strong>Fact:</strong> FCC broadcast licenses are granted for eight-year terms and are historically <em>virtually never</em> revoked outside of egregious technical violations or severe broadcast obscenity. According to historical broadcasting data, the FCC has not issued an early-renewal order in decades. While Chairman Brendan Carr has asserted that the early review of ABC's eight owned-and-operated stations is tied to a probe into DEI practices, legal experts and critics point out that using license renewal leverage as a tool during political disputes is highly unusual and legally contentious.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </div>
@@ -65,7 +65,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p><strong>Fact:</strong> Disney's legal filing explicitly states that the company filed suit "reluctantly," arguing there were no alternative means to avoid capitulation to administration demands. For a consumer-facing entertainment giant known for theme parks, family movies, and family-friendly sports programming, open conflict with a presidential administration carries significant business risk. Executives like CEO Josh D'Amaro have publicly emphasized maintaining journalistic integrity rather than court-ordered compliance.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </div>
@@ -75,7 +75,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p><strong>Fact:</strong> The FCC's equal-time rule requires broadcast stations to provide equivalent access to legally qualified political candidates. However, this rule has rarely been enforced in recent decades, particularly regarding daytime talk shows and entertainment programming that feature political discussions. ABC's lawsuit notes that the inquiry has already forced the show to alter its booking practices, freezing out political candidate appearances since February and editing out clips out of caution.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </div>
@@ -83,7 +83,7 @@ Tactical Waterproof Backpack ($35.99)
 
 <div class="ncg-product-card" style="border-left: 4px solid #f0ad4e; background: #fdfefe; padding: 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
 <h4 style="margin: 0 0 5px 0; font-size: 16px;"><a href="https://www.amazon.com/dp/B08J5F7W31?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #333; text-decoration: none;">Anker PowerCore Portable Charger (10000mAh)</a></h4>
-<p style="margin: 0; font-size: 14px; color: #666;">Price: $21.99 — Stay informed and connected to breaking news updates wherever you travel.</p>
+<p style="margin: 0; font-size: 14px; color: #666;"> — Stay informed and connected to breaking news updates wherever you travel.</p>
 </div>
 
 <div class="ncg-quote-container" style="background: #f4f6f7; border-left: 5px solid #2c3e50; padding: 20px; margin: 30px 0; border-radius: 0 6px 6px 0;">
@@ -96,21 +96,21 @@ Tactical Waterproof Backpack ($35.99)
 <p>When institutional powers clash over public airwaves, headlines often reduce complex human tensions to mere political sports. Yet observing these high-stakes disputes reminds me of how precious truthful communication and steady wisdom truly are in public life. Proverbs 12:17 reminds us, "An honest witness tells the truth, but a false witness tells lies." In an era where information and regulatory power are heavily contested, maintaining commitment to verifiable facts and ethical integrity matters deeply for society.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>One lesson I keep returning to is that accountability should apply to everyone—institutions and regulators alike. Scripture invites us to seek justice and honesty without resorting to intimidation or manipulation. As citizens navigating a noisy media landscape, we are called to look past polarized rhetoric and anchor our perspectives in enduring principles of fairness and truth.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
 
 <div class="ncg-product-card" style="border-left: 4px solid #f0ad4e; background: #fdfefe; padding: 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
 <h4 style="margin: 0 0 5px 0; font-size: 16px;"><a href="https://www.amazon.com/dp/B07VGRJDFW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #333; text-decoration: none;">The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living</a></h4>
-<p style="margin: 0; font-size: 14px; color: #666;">Price: $18.50 — Timeless wisdom for maintaining clarity and composure through turbulent public events.</p>
+<p style="margin: 0; font-size: 14px; color: #666;"> — Timeless wisdom for maintaining clarity and composure through turbulent public events.</p>
 </div>
 
 <section id="ncg-reader-response" class="ncg-section">
@@ -118,7 +118,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Rather than reacting with partisan outrage or dismissing the legal filing as corporate drama, readers can approach unfolding media news with healthy discernment:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <ul class="ncg-response-list">
@@ -130,7 +130,7 @@ Seagate Portable External Hard Drive ($59.99)
 
 <div class="ncg-product-card" style="border-left: 4px solid #f0ad4e; background: #fdfefe; padding: 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
 <h4 style="margin: 0 0 5px 0; font-size: 16px;"><a href="https://www.amazon.com/dp/B079QHML21?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #333; text-decoration: none;">Moleskine Classic Notebook, Hard Cover, Large</a></h4>
-<p style="margin: 0; font-size: 14px; color: #666;">Price: $22.95 — Ideal for journaling personal reflections and tracking complex current events.</p>
+<p style="margin: 0; font-size: 14px; color: #666;"> — Ideal for journaling personal reflections and tracking complex current events.</p>
 </div>
 
 <section id="ncg-conclusion" class="ncg-section">
@@ -138,7 +138,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>The federal lawsuit between Disney and the FCC is more than a corporate dispute—it is a live test of constitutional boundaries regarding free speech and regulatory power. By separating verified facts from political posturing, we can better understand the true stakes involved when government authority intersects with public broadcasting.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 

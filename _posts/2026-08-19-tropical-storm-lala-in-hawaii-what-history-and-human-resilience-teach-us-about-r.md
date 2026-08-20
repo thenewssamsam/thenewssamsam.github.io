@@ -22,7 +22,7 @@ source_url: "https://apnews.com/article/hawaii-lala-hurricane-tropical-storm-dam
 <p>Tropical Storm Lala swept past Hawaii’s main islands over the weekend, packing sustained tropical storm-force winds and torrential downpours. While the wind caused significant structural damage and downed transmission towers, it was the catastrophic flooding that proved most devastating. Gov. Josh Green, who surveyed the damage firsthand, reported that mud, rocks, and raging floodwaters poured through rural southern communities, sweeping roughly 100 homes from their foundations.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>The storm's impact was acutely felt in remote areas like the Kau district. State Rep. Jeanné Kapela described her district as being "in shambles," with collapsed roads trapping roughly 100 households in places like Punaluu and washing out two cemeteries in Naalehu, disturbing sacred ancestral skeletal remains known as *iwi kupuna*. Emergency services faced temporary disruptions when 911 lines went down on the Big Island, and officials confirmed one fatality—a 90-year-old woman found dead after being reported missing. Fortunately, as Lala moved westward toward the open ocean and was forecast to regain hurricane strength far from land, officials noted that the overall damage, while severe for localized areas, avoided the absolute worst-case scenarios.</p>
@@ -82,7 +82,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -90,7 +90,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

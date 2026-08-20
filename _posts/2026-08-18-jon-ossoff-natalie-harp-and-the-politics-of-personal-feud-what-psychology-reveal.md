@@ -37,7 +37,7 @@ source_url: 'https://www.cnn.com/2026/08/17/politics/ossoff-natalie-harp-trump'
     <p>Ossoff called out Natalie Harp, the president's executive assistant and close informational gatekeeper, painting a picture of presidential travel that caught the attention of both supporters and critics online. The reaction was swift. President Trump fired back in an interview from the Oval Office, comparing the senator to Pee-wee Herman, while the White House press shop unleashed a barrage of sharp social media posts.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
     <p>Beyond the immediate online back-and-forth, the clash underscores the high-stakes political math behind the upcoming midterm elections in Georgia. Ossoff is defending his seat against Republican challenger Mike Collins, a Trump-endorsed House member, in a purple state where strategists from both sides anticipate a tightening race.</p>
@@ -107,7 +107,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -115,7 +115,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

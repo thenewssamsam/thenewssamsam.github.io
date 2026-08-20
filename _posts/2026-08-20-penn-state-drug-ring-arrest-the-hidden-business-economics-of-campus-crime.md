@@ -101,7 +101,7 @@ source_url: "https://www.nbcnews.com/news/us-news/penn-state-agostino-abbatiello
     <p class="ncg-p">When authorities arrested accounting major Agostino Abbatiello, alleging he operated as Penn State’s largest drug dealer, the headlines focused primarily on the sensational nature of the downfall: a fraternity brother pivoting from balancing ledgers to managing an illicit enterprise. But beneath the criminal charges lies a stark economic reality. Campus illicit markets operate with many of the same supply chain, cash flow, and risk management pressures as legal enterprises—just with catastrophic legal overhead.</p>
 
     <div class="ncg-product-box">
-      Recommended Resource: <a href="https://www.amazon.com/dp/B073V8M1TB?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Principles of Economics (Hardcover Textbook) - $125.00</a>
+      Recommended Resource: <a href="https://www.amazon.com/dp/B073V8M1TB?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Principles of Economics (Hardcover Textbook) - </a>
     </div>
 
     <h2 class="ncg-h2" id="what-happened">What Happened in the Penn State Investigation</h2>
@@ -111,7 +111,7 @@ source_url: "https://www.nbcnews.com/news/us-news/penn-state-agostino-abbatiello
     <p class="ncg-p">While local law enforcement handles the criminal prosecution—focusing on possession, distribution, and conspiracy charges—the scale of the alleged operation points to an economic infrastructure that mirrors small-business logistics. The case highlights how underground markets exploit the high-density, high-demand environment of a major university ecosystem.</p>
 
     <div class="ncg-product-box">
-      Recommended Resource: <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Financial Accounting and Reporting Guide - $45.99</a>
+      Recommended Resource: <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Financial Accounting and Reporting Guide - </a>
     </div>
 
     <h2 class="ncg-h2" id="financial-impact">The Financial Mechanics of Campus Underground Markets</h2>
@@ -121,13 +121,13 @@ source_url: "https://www.nbcnews.com/news/us-news/penn-state-agostino-abbatiello
     <p class="ncg-p">However, standard business principles quickly break down when evaluated through the lens of risk-adjusted return. In legitimate commerce, high-risk ventures are compensated with high profit margins. In illicit campus markets, the gross margins may appear high on paper, but the actual net return is heavily negative once the catastrophic liabilities—seizure of assets, legal defense costs, and lifetime earning impairment—are factored into the ledger.</p>
 
     <div class="ncg-product-box">
-      Recommended Resource: <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Bad Blood: Secrets and Lies in a Silicon Valley Startup - $16.80</a>
+      Recommended Resource: <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Bad Blood: Secrets and Lies in a Silicon Valley Startup - </a>
     </div>
 
     <p class="ncg-p">An accounting student should theoretically understand capital allocation and asset risk. Yet, like many who fall into illicit schemes, the short-term cash flow often blinds participants to the unsustainable burn rate of their legal and personal capital.</p>
 
     <div class="ncg-product-box">
-      Recommended Resource: <a href="https://www.amazon.com/dp/1119554950?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Forensic Accounting and Fraud Examination - $98.50</a>
+      Recommended Resource: <a href="https://www.amazon.com/dp/1119554950?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Forensic Accounting and Fraud Examination - </a>
     </div>
 
     <div class="ncg-quote-box">
@@ -135,7 +135,7 @@ source_url: "https://www.nbcnews.com/news/us-news/penn-state-agostino-abbatiello
     </div>
 
     <div class="ncg-product-box">
-      Recommended Resource: <a href="https://www.amazon.com/dp/0385533225?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Psychology of Money by Morgan Housel - $14.19</a>
+      Recommended Resource: <a href="https://www.amazon.com/dp/0385533225?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Psychology of Money by Morgan Housel - </a>
     </div>
 
     <h2 class="ncg-h2" id="scripture-reflection">A Moral and Financial Reckoning</h2>
@@ -145,13 +145,13 @@ source_url: "https://www.nbcnews.com/news/us-news/penn-state-agostino-abbatiello
     <p class="ncg-p">Scripture offers a timeless observation on the pursuit of wealth through dishonest means: <em>"Whoever is greedy for unjust gain troubles his household, but he who hates bribes will live"</em> (Proverbs 15:27, ESV). This verse highlights how actions driven by quick gain inevitably ripple outward, creating distress for everyone connected to the individual.</p>
 
     <div class="ncg-product-box">
-      Recommended Resource: <a href="https://www.amazon.com/dp/1535902795?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Everyday People, Extraordinary Wealth - $18.50</a>
+      Recommended Resource: <a href="https://www.amazon.com/dp/1535902795?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Everyday People, Extraordinary Wealth - </a>
     </div>
 
     <p class="ncg-p">Similarly, Proverbs 13:11 notes: <em>"Wealth gained hastily will dwindle, but he who gathers little by little will increase it."</em> Sustainable financial security is built on patience, legal compliance, and steady effort—not high-risk criminal ventures that promise instant returns.</p>
 
     <div class="ncg-product-box">
-      Recommended Resource: <a href="https://www.amazon.com/dp/1496453676?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Total Money Makeover by Dave Ramsey - $15.89</a>
+      Recommended Resource: <a href="https://www.amazon.com/dp/1496453676?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Total Money Makeover by Dave Ramsey - </a>
     </div>
 
     <h2 class="ncg-h2" id="how-readers-respond">How Should Readers Respond?</h2>
@@ -165,7 +165,7 @@ source_url: "https://www.nbcnews.com/news/us-news/penn-state-agostino-abbatiello
     </ul>
 
     <div class="ncg-product-box">
-      Recommended Resource: <a href="https://www.amazon.com/dp/013447739X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Personal Finance (Pearson Series in Finance) - $140.00</a>
+      Recommended Resource: <a href="https://www.amazon.com/dp/013447739X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Personal Finance (Pearson Series in Finance) - </a>
     </div>
 
     <h2 class="ncg-h2" id="faq">Frequently Asked Questions</h2>
@@ -176,7 +176,7 @@ source_url: "https://www.nbcnews.com/news/us-news/penn-state-agostino-abbatiello
     </details>
 
     <div class="ncg-product-box">
-      Recommended Resource: <a href="https://www.amazon.com/dp/194688537X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The White Collar Crime Handbook - $24.99</a>
+      Recommended Resource: <a href="https://www.amazon.com/dp/194688537X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The White Collar Crime Handbook - </a>
     </div>
 
     <details class="ncg-faq-details">
@@ -185,7 +185,7 @@ source_url: "https://www.nbcnews.com/news/us-news/penn-state-agostino-abbatiello
     </details>
 
     <div class="ncg-product-box">
-      Recommended Resource: <a href="https://www.amazon.com/dp/0393356256?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Economics in One Lesson by Henry Hazlitt - $11.59</a>
+      Recommended Resource: <a href="https://www.amazon.com/dp/0393356256?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Economics in One Lesson by Henry Hazlitt - </a>
     </div>
 
     <details class="ncg-faq-details">
@@ -194,7 +194,7 @@ source_url: "https://www.nbcnews.com/news/us-news/penn-state-agostino-abbatiello
     </details>
 
     <div class="ncg-product-box">
-      Recommended Resource: <a href="https://www.amazon.com/dp/0143118277?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Thinking, Fast and Slow by Daniel Kahneman - $17.00</a>
+      Recommended Resource: <a href="https://www.amazon.com/dp/0143118277?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Thinking, Fast and Slow by Daniel Kahneman - </a>
     </div>
 
     <section class="ncg-closing-box">

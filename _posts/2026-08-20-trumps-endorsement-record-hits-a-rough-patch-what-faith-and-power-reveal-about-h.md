@@ -45,7 +45,7 @@ source_url: 'https://www.nbcnews.com/politics/2026-election/trumps-endorsement-r
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -66,7 +66,7 @@ Seagate Portable External Hard Drive ($59.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>
@@ -74,7 +74,7 @@ Seagate Portable External Hard Drive ($59.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -92,14 +92,14 @@ Tactical Waterproof Backpack ($35.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <div style="background: #fef2f2; border-left: 4px solid #ef4444; padding: 16px; margin: 20px 0; border-radius: 0 8px 8px 0;">
     <p style="margin: 0; font-size: 15px; color: #991b1b;">
-      <strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b91c1c; text-decoration: underline;">The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living</a> - $19.99. A timeless guide to maintaining perspective when external circumstances and power dynamics shift unexpectedly.
+      <strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b91c1c; text-decoration: underline;">The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living</a> - . A timeless guide to maintaining perspective when external circumstances and power dynamics shift unexpectedly.
     </p>
   </div>
 
@@ -110,7 +110,7 @@ Seagate Portable External Hard Drive ($59.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>
@@ -118,13 +118,13 @@ Seagate Portable External Hard Drive ($59.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <div style="background: #fef2f2; border-left: 4px solid #ef4444; padding: 16px; margin: 20px 0; border-radius: 0 8px 8px 0;">
       <p style="margin: 0; font-size: 15px; color: #991b1b;">
-        <strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b91c1c; text-decoration: underline;">Anxious for Nothing: Finding Calm in a Chaotic World</a> - $14.29. Practical encouragement for stepping back from the constant churn of modern news and political anxiety.
+        <strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b91c1c; text-decoration: underline;">Anxious for Nothing: Finding Calm in a Chaotic World</a> - . Practical encouragement for stepping back from the constant churn of modern news and political anxiety.
       </p>
     </div>
 
@@ -133,7 +133,7 @@ Seagate Portable External Hard Drive ($59.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -151,14 +151,14 @@ Tactical Waterproof Backpack ($35.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
 
   <div style="background: #fef2f2; border-left: 4px solid #ef4444; padding: 16px; margin: 20px 0; border-radius: 0 8px 8px 0;">
     <p style="margin: 0; font-size: 15px; color: #991b1b;">
-      <strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/0310356555?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b91c1c; text-decoration: underline;">The Ruthless Elimination of Hurry</a> - $15.99. Learn to slow down and protect your mental and spiritual well-being from the relentless speed of 24-hour news cycles.
+      <strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/0310356555?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b91c1c; text-decoration: underline;">The Ruthless Elimination of Hurry</a> - . Learn to slow down and protect your mental and spiritual well-being from the relentless speed of 24-hour news cycles.
     </p>
   </div>
 
@@ -176,7 +176,7 @@ Tactical Waterproof Backpack ($35.99)
 
   <div style="background: #fef2f2; border-left: 4px solid #ef4444; padding: 16px; margin: 20px 0; border-radius: 0 8px 8px 0;">
     <p style="margin: 0; font-size: 15px; color: #991b1b;">
-      <strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/0830846735?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b91c1c; text-decoration: underline;">The Common Rule: Habits of Purpose for an Age of Distraction</a> - $16.00. Simple daily rhythms to keep your focus centered on what truly matters amidst digital noise.
+      <strong>Product Recommendation:</strong> <a href="https://www.amazon.com/dp/0830846735?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b91c1c; text-decoration: underline;">The Common Rule: Habits of Purpose for an Age of Distraction</a> - . Simple daily rhythms to keep your focus centered on what truly matters amidst digital noise.
     </p>
   </div>
 

@@ -24,7 +24,7 @@ source_url: "https://www.bostonglobe.com/2026/08/17/metro/lindsay-clancy-trial-p
     <p>Prosecutors have rested their case after calling 71 witnesses, aiming to prove that Clancy was in control and acting with intent. They point to her behavior on the day of the killings—playing in the snow and running errands—as evidence of rational thought. Conversely, the defense argues that Clancy was trapped in the grip of postpartum psychosis, mismanaged by a fragmented medical system that failed to see the warning signs of her downward spiral.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -33,7 +33,7 @@ Tactical Waterproof Backpack ($35.99)
     <p><strong>Recommended Reading:</strong> <em>Understanding Forensic Psychology</em> - Essential for those interested in how mental health intersects with the courtroom. <a href="#">Check Price</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>From a psychological standpoint, the Lindsay Clancy trial illustrates the tension between clinical reality and legal categories. The defense is essentially arguing that Clancy’s cognitive state was so severely compromised that she could not comprehend the nature of her actions. This touches on the psychological concept of <strong>cognitive dissonance</strong>, where the public struggles to reconcile the image of a "dedicated mother" with the horrific reality of the crime.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -51,7 +51,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>A recurring theme in the defense's strategy is the "fragmentation" of Clancy's medical care. Psychologically, this points to <strong>systemic bias and normalcy bias</strong>—where professionals may overlook escalating signs of crisis because the patient does not fit a "stereotypical" profile of a threat. When multiple providers lack a holistic view of a patient, the individual slips through the cracks, often with devastating consequences.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -65,13 +65,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>This case serves as a somber reminder of the brokenness of our world and the frailty of the human mind. Scripture often points us toward the necessity of compassion when dealing with those who are suffering. We are reminded in <em>Psalm 34:18</em>, "The Lord is close to the brokenhearted and saves those who are crushed in spirit."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>When we look at the immense pain surrounding this family, it invites us to consider the weight of our own responsibilities to one another. <em>Galatians 6:2</em> encourages us: "Carry each other’s burdens, and in this way you will fulfill the law of Christ." This doesn't mean we excuse harm, but it does invite us to look at the suffering of others with a posture of humility, recognizing that we are all susceptible to times of darkness and that our systems of care—and our communities—must be built on a foundation of true, vigilant love.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -81,7 +81,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>It is easy to look for a single person to blame, but the psychological reality is often more complex. Readers can respond by:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <ul>

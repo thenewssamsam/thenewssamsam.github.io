@@ -20,10 +20,10 @@ source_url: 'https://chicago.suntimes.com/casinos-gambling/2026/08/17/ballys-chi
   <p>Bally’s has officially acknowledged that its massive debt creates substantial doubt about its ability to continue operations over the next year—a critical window as the company races to open its long-delayed permanent Chicago casino complex in River West. The stark financial warning has ignited a fierce political clash with local leaders over construction slowdowns, video gambling terminals, and the cold economic reality of running a multi-million-dollar entertainment venture.</p>
 
   <h2 id="what-happened">What Happened at Bally’s Chicago?</h2>
-  <p>In a quarterly filing with the Securities and Exchange Commission (SEC), Bally’s issued a formal "going concern" warning. Companies are legally required to make this disclosure when there is serious doubt about their ability to avoid defaulting on debt obligations over the upcoming twelve months. Bally's cited persistent operational losses, negative cash flows, and a staggering debt burden exceeding $5 billion as core drivers behind the warning.</p>
+  <p>In a quarterly filing with the Securities and Exchange Commission (SEC), Bally’s issued a formal "going concern" warning. Companies are legally required to make this disclosure when there is serious doubt about their ability to avoid defaulting on debt obligations over the upcoming twelve months. Bally's cited persistent operational losses, negative cash flows, and a staggering debt burden exceeding  billion as core drivers behind the warning.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
   <p>The financial disclosure coincides with a bitter public dispute between Bally’s executives and Chicago City Council members. Recently, Bally's announced it was halting much of the ancillary construction—including a planned hotel and event center—at its permanent site at 777 W. Chicago Ave. The company blamed the City Council's approval of video gambling terminals (VGTs), arguing that neighborhood slot machines will cannibalize casino revenue. Meanwhile, skeptical aldermen, led by 42nd Ward Ald. Brendan Reilly, contend that the VGT dispute is merely a convenient smokescreen for a corporation that is simply over-leveraged and unable to afford the project.</p>
@@ -35,7 +35,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p style="margin: 0; font-size: 1.1em; font-style: italic; color: #2c3e50;">“When a heavily leveraged enterprise faces hundreds of millions in ongoing construction costs while its temporary venue struggles to break even, every political or regulatory friction point instantly transforms into a critical cash-flow crisis.”</p>
   </div>
 
-  <p>According to quarterly reports, Bally’s ran a loss of $56.4 million over just the first half of 2026, pushing its accumulated deficit to $233.3 million. At the same time, the company remains on the hook for approximately $400 million in construction costs over the next two years to complete the permanent River West complex. Yet, its temporary location at the historic Medinah Temple has struggled to turn a net profit since opening three years ago.</p>
+  <p>According to quarterly reports, Bally’s ran a loss of  million over just the first half of 2026, pushing its accumulated deficit to  million. At the same time, the company remains on the hook for approximately  million in construction costs over the next two years to complete the permanent River West complex. Yet, its temporary location at the historic Medinah Temple has struggled to turn a net profit since opening three years ago.</p>
   <p>From a general financial literacy perspective, a going concern warning does not automatically mean immediate bankruptcy or liquidation. Instead, it is a formal red flag indicating that the business model, in its current state, relies entirely on securing external funding—such as asset sales, new equity issuances, or debt restructuring—to meet upcoming obligations.</p>
 
   <h2 id="who-pays-and-who-profits">Who Pays, Who Profits, and What Changes for the City?</h2>
@@ -75,7 +75,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -83,7 +83,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

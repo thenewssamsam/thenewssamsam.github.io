@@ -26,7 +26,7 @@ source_url: "https://www.azfamily.com/2026/08/18/lake-powell-lake-mead-hit-recor
     <p>Human beings are evolutionarily wired to respond to immediate, acute threats—a predator in the grass, for instance. We are notoriously bad at responding to "slow-motion" disasters. This phenomenon is often rooted in <strong>normalcy bias</strong>, where our brains subconsciously assume that because things have been "okay" in the past, they will continue to be so, despite clear evidence to the contrary.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -38,7 +38,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Many residents in the Southwest have lived through years of drought headlines, leading to a form of "drought fatigue." When a threat persists for years without a catastrophic system failure, our brains categorize it as background noise rather than an emergency. This makes it difficult for policymakers and individuals alike to make the necessary, sometimes painful, adjustments to water usage until the crisis becomes unavoidable.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -46,7 +46,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>The management of the Colorado River involves multiple states and competing interests. This creates a risk of <strong>groupthink</strong>, where stakeholders may prioritize consensus or the status quo over radical, necessary changes. When water is viewed as a collective resource, individuals may feel their personal conservation efforts are meaningless, leading to a "tragedy of the commons" mentality.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -56,13 +56,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>Seeing these massive reservoirs shrink serves as a sobering reminder of our role as stewards of the earth. In Genesis 2:15, we are reminded that we are placed here to "work it and take care of it." This is not merely a call to environmentalism, but a call to recognize that our resources are gifts, not infinite commodities to be exhausted.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>This situation invites us to consider the verse in 1 Corinthians 4:2: "Now it is required that those who have been given a trust must prove faithful." When we face scarcity, we are tested on our faithfulness—not just to God, but to our neighbors who rely on the same water. Are we using what we have with wisdom, or are we clinging to the comfort of past abundance at the expense of those who come after us?</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

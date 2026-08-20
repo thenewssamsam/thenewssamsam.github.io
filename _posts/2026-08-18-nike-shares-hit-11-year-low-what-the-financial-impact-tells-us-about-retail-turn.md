@@ -136,7 +136,7 @@ source_url: 'https://ca.finance.yahoo.com/news/nike-shares-hit-11-low-174500075.
     </div>
 </header>
 
-<p>When an iconic global brand loses more than $200 billion in market value, it stops being just a bad quarter and becomes a masterclass in how quickly consumer sentiment and retail mechanics can shift. Nike Inc. shares recently tumbled another 4.3%, dragging the stock to its lowest level since September 2014 and capping an astonishing 78% plunge from its 2021 record highs. For investors, retail watchers, and business strategists alike, this historic correction offers a stark look at the financial realities of executing a massive structural reset while consumer loyalty wavers.</p>
+<p>When an iconic global brand loses more than  billion in market value, it stops being just a bad quarter and becomes a masterclass in how quickly consumer sentiment and retail mechanics can shift. Nike Inc. shares recently tumbled another 4.3%, dragging the stock to its lowest level since September 2014 and capping an astonishing 78% plunge from its 2021 record highs. For investors, retail watchers, and business strategists alike, this historic correction offers a stark look at the financial realities of executing a massive structural reset while consumer loyalty wavers.</p>
 
 <section class="nfi-toc">
     <h3>Table of Contents</h3>
@@ -153,7 +153,7 @@ source_url: 'https://ca.finance.yahoo.com/news/nike-shares-hit-11-low-174500075.
 <p>Nike’s latest stumble was triggered by a combination of soft direct-to-consumer (DTC) sales and a fresh analyst downgrade that rattled Wall Street. As the company works through a fundamental restructuring of its retail business, analysts are projecting muted revenue growth for the upcoming quarter.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>The core challenge is not simply a temporary dip in foot traffic; it is a structural realignment. For years, Nike leaned heavily into its direct-to-consumer model, scaling back relationships with traditional wholesale partners. While this initially boosted margins, it ultimately created friction when consumer demand cooled and innovative product pipelines slowed down. Now, reversing or rebalancing that strategy takes time, capital, and operational patience—three things public markets rarely offer in abundance once momentum turns negative.</p>
@@ -166,7 +166,7 @@ Seagate Portable External Hard Drive ($59.99)
 <ul>
     <li><strong>Nike Brand Shoes:</strong> Secondary resale prices fell 2.9% year-over-year in July, marking the third consecutive month of decline and worsening from a 1.7% decrease in June.</li>
     <li><strong>Jordan Brand Shoes:</strong> Prices dropped 2.8% year-over-year in July—a sharp 480-basis-point deterioration compared to the 2.0% growth recorded just a month prior.</li>
-    <li><strong>Market Value Destruction:</strong> The stock's prolonged downward trajectory has erased over $200 billion from its peak valuation in 2021.</li>
+    <li><strong>Market Value Destruction:</strong> The stock's prolonged downward trajectory has erased over  billion from its peak valuation in 2021.</li>
 </ul>
 </div>
 
@@ -212,7 +212,7 @@ Seagate Portable External Hard Drive ($59.99)
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "Nike Shares Hit 11-Year Low: What the Financial Impact Tells Us About Retail Turnarounds",
-  "description": "Nike shares dropped to an 11-year low, erasing $200 billion in market value. Explore the financial mechanics, retail reset, and what it means for brand turnarounds.",
+  "description": "Nike shares dropped to an 11-year low, erasing  billion in market value. Explore the financial mechanics, retail reset, and what it means for brand turnarounds.",
   "datePublished": "2025-08-11",
   "author": {
     "@type": "Organization",
@@ -252,7 +252,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -260,7 +260,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

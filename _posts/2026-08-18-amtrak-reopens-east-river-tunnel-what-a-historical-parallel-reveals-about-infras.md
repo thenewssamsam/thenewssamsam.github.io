@@ -35,10 +35,10 @@ source_url: 'https://abc7ny.com/post/amtrak-reopens-east-river-tunnel-line-damag
 
 <h2 id="what-happened">What Happened</h2>
 <p>Amtrak marked the completion of a yearlong, intensive overhaul with a celebration at Penn Station, reopening East River Tunnel Line 2 to daily traffic. The 116-year-old tunnel, which carries more than 450 Amtrak, Long Island Rail Road (LIRR), and NJ Transit trains daily, suffered catastrophic damage during Superstorm Sandy in 2012 when saltwater flooded the tubes with 14 million gallons of corrosive brine.</p>
-<p>The rehabilitation project, backed by $1.3 billion secured by Senator Chuck Schumer, involved stripping the tunnel down to its bare concrete liner. Crews replaced tracks, drainage systems, power supplies, communications lines, and life safety infrastructure in just over a year. The full closure of Line 2, which began in May 2025, cut LIRR capacity by 20% and created localized service disruptions, but engineers defended the total-closure approach over a piecemeal night-and-weekend schedule that would have dragged the project out for years.</p>
+<p>The rehabilitation project, backed by  billion secured by Senator Chuck Schumer, involved stripping the tunnel down to its bare concrete liner. Crews replaced tracks, drainage systems, power supplies, communications lines, and life safety infrastructure in just over a year. The full closure of Line 2, which began in May 2025, cut LIRR capacity by 20% and created localized service disruptions, but engineers defended the total-closure approach over a piecemeal night-and-weekend schedule that would have dragged the project out for years.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 <p>With Line 2 now operational, Amtrak is preparing to shift its focus to Line 1 this fall, with completion projected for late 2027. Lines 3 and 4 do not currently require rehabilitation.</p>
@@ -98,7 +98,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -106,7 +106,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

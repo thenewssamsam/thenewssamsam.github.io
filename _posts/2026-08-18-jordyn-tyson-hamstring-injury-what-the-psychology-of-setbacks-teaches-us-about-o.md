@@ -109,7 +109,7 @@ source_url: ''
     <p>According to NFL Insider Ian Rapoport, New Orleans Saints wide receiver Jordyn Tyson is slated to miss approximately two months of action due to a hamstring injury. Tyson initially left practice last Thursday and spent the weekend consulting with multiple medical specialists to determine the best path forward. For the 22-year-old receiver, the diagnosis is a severe early-career obstacle, particularly given his prior history with hamstring strains during his collegiate career.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>The timing alters the offensive landscape in New Orleans as well. With Tyson sidelined, the Saints must rely on alternative options. While the team recently drafted rookie receivers Bryce Lance and Barion Brown, veteran presence Devaughn Vele appears positioned to step up and capture additional targets during Tyson's recovery window.</p>
@@ -170,7 +170,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -178,7 +178,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

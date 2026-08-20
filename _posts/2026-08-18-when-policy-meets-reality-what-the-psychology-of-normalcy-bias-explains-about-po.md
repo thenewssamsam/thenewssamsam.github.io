@@ -23,10 +23,10 @@ source_url: 'https://www.dailykos.com/stories/2026/8/16/800085128/community/i-ne
 
 <h2 id="what-happened">What Happened at Burbank Airport</h2>
 <p>The incident unfolded quietly during what was supposed to be a celebratory trip. Brent Jindra and Galina Bobreneva flew from San Francisco to Los Angeles for a client meeting and a birthday getaway in Sonoma County's wine country. Instead of reaching their hotel, Galina was pulled aside for secondary screening immediately after deplaning.</p>
-<p>Despite having a pending green card application following her arrival on a tourist visa extended during the Ukraine conflict, Galina was handcuffed, placed in an unmarked vehicle, and eventually transferred to an Adelanto detention facility in the Mojave Desert. She spent sixteen days enduring what she described as dehumanizing conditions—sleep deprivation, constant illumination, and severe infrastructural neglect—before her release on a $35,000 bond.</p>
+<p>Despite having a pending green card application following her arrival on a tourist visa extended during the Ukraine conflict, Galina was handcuffed, placed in an unmarked vehicle, and eventually transferred to an Adelanto detention facility in the Mojave Desert. She spent sixteen days enduring what she described as dehumanizing conditions—sleep deprivation, constant illumination, and severe infrastructural neglect—before her release on a ,000 bond.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -101,7 +101,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -109,7 +109,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

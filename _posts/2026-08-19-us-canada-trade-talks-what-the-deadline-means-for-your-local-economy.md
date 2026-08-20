@@ -21,16 +21,16 @@ source_url: "https://www.bbc.com/news/articles/crl7600rpnko"
 
   <section id="what-happened">
     <h2>The Current State of Negotiations</h2>
-    <p>Canadian negotiators have spent the past week in Washington working to avoid new 50% tariffs on approximately $20 billion worth of Canadian imports. The Trump administration has signaled that these measures will take effect on Wednesday, August 19, unless a breakthrough is reached. Prime Minister Carney has maintained a cautious stance, noting that the negotiations are "intense" and "delicate."</p>
+    <p>Canadian negotiators have spent the past week in Washington working to avoid new 50% tariffs on approximately  billion worth of Canadian imports. The Trump administration has signaled that these measures will take effect on Wednesday, August 19, unless a breakthrough is reached. Prime Minister Carney has maintained a cautious stance, noting that the negotiations are "intense" and "delicate."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     <p>The U.S. side is pushing for specific concessions, including adjustments to Canada's dairy supply management system and the removal of provincial bans on U.S. alcohol sales. Conversely, Canada is seeking relief on existing tariffs affecting steel, aluminum, auto, and forestry sectors.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>
@@ -40,7 +40,7 @@ Crevice Cleaning Brush Set ($12.99)
     <p>The potential for a breakdown in these talks carries direct consequences for local communities. When trade policy changes, the ripple effect is felt most acutely in sectors that form the backbone of local economies.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     
@@ -48,15 +48,15 @@ Crevice Cleaning Brush Set ($12.99)
     <p>For regions like Southern Ontario, where the automotive and steel industries are major employers, the threat of tariffs is not abstract. Increased costs on imported steel and aluminum could squeeze local manufacturers, potentially leading to reduced production capacity or, in a worst-case scenario, workforce adjustments.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     
     <div style="border-left: 4px solid #d4af37; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Featured Resource:</strong> <a href="#">Industrial Strength Work Boots - Durable Gear for Manufacturing Professionals</a> - $129.99</p>
+      <p><strong>Featured Resource:</strong> <a href="#">Industrial Strength Work Boots - Durable Gear for Manufacturing Professionals</a> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     </div>
@@ -65,15 +65,15 @@ Crevice Cleaning Brush Set ($12.99)
     <p>The dairy and poultry sectors are particularly sensitive. In provinces like Quebec, the supply management system is a pillar of rural economic stability. If the federal government yields to U.S. demands to alter these quotas, local farmers may face significant price competition, which could ultimately impact the sustainability of family-run farms and the price of goods at your local grocery store.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     
     <div style="border-left: 4px solid #d4af37; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Featured Resource:</strong> <a href="#">Home Canning Starter Kit - Preserve Your Local Harvest</a> - $45.00</p>
+      <p><strong>Featured Resource:</strong> <a href="#">Home Canning Starter Kit - Preserve Your Local Harvest</a> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     </div>
@@ -88,13 +88,13 @@ Crevice Cleaning Brush Set ($12.99)
     <p>In times of economic uncertainty, it is easy to become consumed by anxiety about our resources and our future. Scripture often reminds us of the importance of wisdom and the stewardship of our communities. Proverbs 11:14 (ESV) tells us, "Where there is no guidance, a people falls, but in an abundance of counselors there is safety."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     <p>This situation invites us to consider how we treat our neighbors, even when interests clash. While trade negotiations are complex and political, the underlying goal should be the protection and well-being of the people we are responsible for. It reminds me that true security does not come from protectionist walls or economic maneuvering, but from a foundation of integrity and a commitment to the common good. As we face these challenges, we are called to act with prudence, ensuring that the burden of these decisions does not fall unfairly on the most vulnerable in our local communities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>

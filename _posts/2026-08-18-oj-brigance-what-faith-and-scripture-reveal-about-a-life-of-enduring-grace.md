@@ -22,7 +22,7 @@ source_url: 'https://www.nfl.com/news/o-j-brigance-super-bowl-winner-with-ravens
 <p>On Monday, the Baltimore Ravens announced the passing of O.J. Brigance at age 56. Diagnosed with amyotrophic lateral sclerosis (ALS), commonly known as Lou Gehrig's disease, in 2007, Brigance defied medical odds by living and serving with purpose for nearly two decades after his diagnosis.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 <p>As a player, Brigance was a tenacious linebacker and special teams standout. He won a Canadian Football League championship and an NFL Super Bowl title—both with teams based in Baltimore—making him the only player to achieve that unique double in the same city. Following his retirement, he transitioned immediately into front-office work, serving as the Ravens' senior adviser for player engagement starting in 2004.</p>
@@ -133,7 +133,7 @@ Source: <a href="https://www.nfl.com/news/o-j-brigance-super-bowl-winner-with-ra
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -141,7 +141,7 @@ Source: <a href="https://www.nfl.com/news/o-j-brigance-super-bowl-winner-with-ra
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

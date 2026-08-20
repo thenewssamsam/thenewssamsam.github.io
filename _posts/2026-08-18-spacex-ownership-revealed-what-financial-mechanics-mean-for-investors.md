@@ -29,15 +29,15 @@ source_url: 'https://finance.yahoo.com/markets/article/spacexs-biggest-investors
 <p>The disclosures offer the first comprehensive look at SpaceX ownership since the company's public debut on June 12. Large institutional investment managers are required to report their US equity holdings every quarter, and the latest data package outlines massive multi-billion-dollar positions among a select group of players.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
 <p>Only 23 investors account for more than 80 percent of the reported shares. At the other end of the spectrum, the distribution looks remarkably lopsided: nearly 1,340 investors reported positions of fewer than 100,000 shares, yet together they own less than 1 percent of the total reported shares.</p>
 
-<p>Leading the pack is Alphabet (GOOGL, GOOG) with more than 551 million shares, valued at roughly $77.2 billion based on recent trading. Fidelity follows with more than 302 million shares ($42.4 billion), though that figure reflects stock held across multiple managed funds and accounts rather than a single corporate bet. Gigafund, Saudi Arabia's Public Investment Fund, and Nvidia (NVDA) each disclosed holdings exceeding 100 million shares.</p>
+<p>Leading the pack is Alphabet (GOOGL, GOOG) with more than 551 million shares, valued at roughly  billion based on recent trading. Fidelity follows with more than 302 million shares ( billion), though that figure reflects stock held across multiple managed funds and accounts rather than a single corporate bet. Gigafund, Saudi Arabia's Public Investment Fund, and Nvidia (NVDA) each disclosed holdings exceeding 100 million shares.</p>
 
-<p>Even traditional academic endowments made the cut. Harvard Management Co. disclosed nearly 13 million shares valued at $1.8 billion, making SpaceX the largest individual stock position in Harvard's publicly disclosed US equity portfolio.</p>
+<p>Even traditional academic endowments made the cut. Harvard Management Co. disclosed nearly 13 million shares valued at  billion, making SpaceX the largest individual stock position in Harvard's publicly disclosed US equity portfolio.</p>
 
 <div class="ncg-quote-box">
 <p>&ldquo;When 23 entities control over 80 percent of a public giant, market liquidity behaves differently than it would in a widely distributed retail stock.&rdquo;</p>
@@ -94,7 +94,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -102,7 +102,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

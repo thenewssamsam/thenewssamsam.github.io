@@ -17,21 +17,21 @@ source_url: "https://abc7ny.com/story/14-charged-alleged-cocaine-trafficking-rin
   <p>The recent announcement by Pennsylvania Attorney General Dave Sunday that 14 individuals—mostly current or former Penn State students—have been charged in a cocaine-trafficking operation has sent shockwaves through the university community. For parents, the news is a sobering reminder that the "college experience" can sometimes harbor dangers far beyond academic pressure. As we process these reports of organized criminal activity linked to campus fraternities, it serves as a critical prompt to re-evaluate how we communicate with our own college-aged children about safety, peer influence, and the realities of modern campus life.</p>
 
   <div class="ncg-product-box" style="border: 2px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Recommended Resource:</strong> <a href="#">"The Naked Roommate: And 107 Other Issues You Might Run Into in College"</a> - A practical guide for navigating campus life. ($14.99)</p>
+    <p><strong>Recommended Resource:</strong> <a href="#">"The Naked Roommate: And 107 Other Issues You Might Run Into in College"</a> - A practical guide for navigating campus life. </p>
   </div>
 
   <h2>Understanding the Reality of the Situation</h2>
   <p>According to investigators, the trafficking ring involved senior fraternity members who allegedly utilized Delta Upsilon and Sigma Chi houses to cut and package cocaine. Perhaps most alarming to observers is the allegation that this activity was sometimes used as an "indoctrination" process for fraternity pledges. The involvement of a parent in allegedly hiding drugs and cash further illustrates how deep these issues can run.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
   <p>This isn't just about "partying." It is about organized criminal activity that puts students at extreme legal and physical risk. When we talk to our children, it is important to emphasize that "Greek life" is not a monolith, but as this case shows, environments that operate with a culture of secrecy or hazing can quickly become dangerous.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive ($59.99)
   <p>Many parents worry that bringing up these topics will cause their college student to shut down. However, framing the conversation around <em>their</em> autonomy and safety—rather than mere suspicion—can change the dynamic.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   
@@ -54,10 +54,10 @@ Seagate Portable External Hard Drive ($59.99)
   </ul>
 
   <div class="ncg-product-box" style="border: 2px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Safety Tool:</strong> <a href="#">Personal Safety Alarm Keychain</a> - A discreet way to feel secure while walking on campus. ($12.50)</p>
+    <p><strong>Safety Tool:</strong> <a href="#">Personal Safety Alarm Keychain</a> - A discreet way to feel secure while walking on campus. </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>
@@ -72,22 +72,22 @@ Seagate Portable External Hard Drive ($59.99)
   <p>In the midst of such disheartening news, it’s natural to feel a sense of worry. Reflecting on these events, I am reminded of the biblical principle of stewardship over our own lives and influence. In 1 Corinthians 15:33, we are cautioned: "Do not be misled: 'Bad company corrupts good character.'" This doesn't mean we should isolate ourselves, but it does invite us to consider the environments we choose to inhabit. Proverbs 4:23 also reminds us to "Above all else, guard your heart, for everything you do flows from it."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
   <p>These verses aren't just for church—they are practical guides for navigating the complex social pressures of university life. When we encourage our children to "guard their hearts," we are encouraging them to be intentional about their friendships and the environments they frequent. It is an invitation to seek wisdom over popularity and integrity over inclusion.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
   <div class="ncg-product-box" style="border: 2px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Mindfulness Resource:</strong> <a href="#">"The Daily Stoic: 366 Meditations on Wisdom"</a> - Great for grounding during stressful times. ($18.00)</p>
+    <p><strong>Mindfulness Resource:</strong> <a href="#">"The Daily Stoic: 366 Meditations on Wisdom"</a> - Great for grounding during stressful times. </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>
@@ -96,7 +96,7 @@ Tactical Waterproof Backpack ($35.99)
   <p>Beyond talking, keep these actions in mind:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   <ul>

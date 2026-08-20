@@ -26,7 +26,7 @@ source_url: "https://www.bbc.com/news/articles/cnvn0j31qj8o"
 
   <div class="ncg-amazon-box" style="border-left: 4px solid #f0ad4e; background: #fcf8e3; padding: 15px; margin: 20px 0; border-radius: 4px;">
     <p style="margin: 0 0 10px 0; font-weight: bold; color: #8a6d3b;">Recommended Resource for Global Politics & History:</p>
-    <p style="margin: 0;"><a href="https://www.amazon.com/dp/B07Z7R5P8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #337ab7; text-decoration: none;"><strong>Diplomacy: Henry Kissinger</strong></a> — A masterclass in understanding how superpowers manage alliances, power dynamics, and international friction across centuries. (Price: $18.99)</p>
+    <p style="margin: 0;"><a href="https://www.amazon.com/dp/B07Z7R5P8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #337ab7; text-decoration: none;"><strong>Diplomacy: Henry Kissinger</strong></a> — A masterclass in understanding how superpowers manage alliances, power dynamics, and international friction across centuries. ()</p>
   </div>
 
   <section class="ncg-section" id="what-happened">
@@ -34,13 +34,13 @@ source_url: "https://www.bbc.com/news/articles/cnvn0j31qj8o"
     <p>According to the South Korean defense ministry, the scope and timeline of the 2026 Ulchi Freedom Shield exercise were adjusted following a direct proposal from Washington. The drills, which involve thousands of South Korean and American personnel, will conclude on August 21 rather than the originally scheduled August 27. Additionally, combined field training components are being partially scaled back.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>President Trump openly linked the decision to South Korea's refusal to assist with military operations in Iran. Speaking in the Oval Office, Trump remarked, "We have 39,000 soldiers over there guarding you from Kim Jong Un... and you're not going to help us on a very easy military operation in Iran? That's strange." Meanwhile, reports indicate potential plans for Trump to meet North Korean leader Kim Jong Un later in the year, adding another layer of diplomatic complexity to an already tense security landscape.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -50,7 +50,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>History rarely repeats itself precisely, but it frequently rhymes. The friction between Washington and Seoul over shared defense obligations versus independent regional foreign policies echoes classic dilemmas of asymmetrical alliances throughout the 20th and 21st centuries.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -58,7 +58,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>When historic allies diverge on global priorities, the cracks can appear with surprising speed. During the 1956 Suez Crisis, the United States refused to back its closest European allies—Britain and France—in their military intervention, demonstrating that a superpower's global strategic calculus can override bilateral loyalty in an instant. Just as Seoul is learning that defense guarantees can become entangled with unrelated global disputes, British leadership learned that formal alliance did not guarantee automatic American backing for operations outside core mutual threats.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -66,7 +66,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Throughout the Cold War, security umbrellas provided by major powers often came with unwritten expectations of ideological and operational alignment. However, when smaller partner states demurred on peripheral conflicts—fearing local escalation or domestic political backlash—superpowers occasionally signaled displeasure by trimming joint military cooperation. The recent linkage between Middle Eastern operations and East Asian defense exercises revives an old playbook: treating defensive pacts as reciprocal ledgers rather than unconditional commitments.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -78,14 +78,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Trump’s expressed desire to meet Kim Jong Un outside traditional multilateral frameworks also mirrors historical Nixon-era diplomatic shifts, where bilateral summits bypassed traditional bureaucratic and allied consultation channels. While direct talks can reduce immediate tensions, they often leave regional front-line allies feeling sidelined and anxious about their long-term strategic footing.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-box" style="border-left: 4px solid #f0ad4e; background: #fcf8e3; padding: 15px; margin: 20px 0; border-radius: 4px;">
     <p style="margin: 0 0 10px 0; font-weight: bold; color: #8a6d3b;">Recommended Reading on International Relations:</p>
-    <p style="margin: 0;"><a href="https://www.amazon.com/dp/0393356280?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #337ab7; text-decoration: none;"><strong>The Tragedy of Great Power Politics: John J. Mearsheimer</strong></a> — Essential reading for understanding how structural power dynamics dictate the survival and security of nations. (Price: $21.50)</p>
+    <p style="margin: 0;"><a href="https://www.amazon.com/dp/0393356280?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #337ab7; text-decoration: none;"><strong>The Tragedy of Great Power Politics: John J. Mearsheimer</strong></a> — Essential reading for understanding how structural power dynamics dictate the survival and security of nations. ()</p>
   </div>
 
   <section class="ncg-section" id="biblical-moral-reflection">
@@ -93,19 +93,19 @@ Tactical Waterproof Backpack ($35.99)
     <p>Moments of geopolitical uncertainty naturally turn human hearts toward questions of trust, security, and where nations ultimately place their confidence. Throughout history, political alliances have shifted like sand, reminding observers of timeless wisdom regarding human leadership.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Scripture invites us to consider the limits of relying purely on earthly strongholds: <em>"Put not your trust in princes, in a son of man, in whom there is no salvation."</em> (Psalm 146:3, ESV). This sentiment isn't an argument against practical defense or cooperation, but rather a sober reminder that true stability and peace transcend the changing moods of political leaders.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>When alliances wobble, communities and nations are reminded of the value of steadfastness, wisdom, and internal resilience. Proverbs 21:31 adds practical perspective: <em>"The horse is made ready for the day of battle, but the victory belongs to the Lord."</em> In our own lives and in turbulent global times, keeping our perspective grounded in enduring moral truths provides an anchor when diplomatic waters turn rough.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -115,7 +115,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>For ordinary citizens watching these high-level diplomatic shifts unfold, knee-jerk panic or complacency are equally unhelpful. Instead, consider three constructive ways to process these developments:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>

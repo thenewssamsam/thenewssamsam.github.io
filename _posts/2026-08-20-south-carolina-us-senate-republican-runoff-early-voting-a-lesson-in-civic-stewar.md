@@ -42,13 +42,13 @@ source_url: 'https://www.wyff4.com/article/early-voting-senate-republican-runoff
       <p>"Elections are not optional. When it arises, we must rise to the occasion." — John Baucom, Spartanburg County Director of Elections</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
 
     <div class="ncg-amazon-product" style="border-left: 4px solid #f39c12; background: #f9f9f9; padding: 12px; margin: 15px 0; border-radius: 4px;">
-      <p style="margin: 0; font-weight: bold;">Recommended Resource: <a href="https://www.amazon.com/dp/B073V27384?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">ESV Study Bible (Hardcover)</a> - $29.99</p>
+      <p style="margin: 0; font-weight: bold;">Recommended Resource: <a href="https://www.amazon.com/dp/B073V27384?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">ESV Study Bible (Hardcover)</a> - </p>
       <p style="margin: 5px 0 0 0; font-size: 0.9em; color: #555;">Deepen your understanding of scriptural wisdom and timeless principles for faithful living in your community.</p>
     </div>
   </section>
@@ -58,14 +58,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>When we look at local election administrators working tirelessly through tight deadlines and citizens showing up in unexpected numbers, it prompts a deeper question about how we view our responsibilities within our communities. While modern politics often feels divisive or exhausting, moments like this local runoff offer a reminder of what it means to participate constructively in the society where God has placed us.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>Scripture consistently encourages believers to seek the well-being of the communities around them and to take active, responsible roles in stewardship. When local leaders like John Baucom state that elections are not optional, it echoes a deeper moral mandate to care for our neighbors through engaged citizenship.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -73,7 +73,7 @@ Tactical Waterproof Backpack ($35.99)
       <p>"Also, seek the peace and prosperity of the city to which I have carried you into exile. Pray to the Lord for it, because if it prospers, you too will prosper." — Jeremiah 29:7 (NIV)</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </blockquote>
@@ -81,12 +81,12 @@ Tactical Waterproof Backpack ($35.99)
     <p>This verse reminds us that civic participation is not merely a secular obligation; it is an extension of loving our neighbors. Whether voting in a high-profile presidential election or a fast-turnaround local runoff, our choices help shape the laws, policies, and moral tone of the communities where our families live, work, and worship.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div class="ncg-amazon-product" style="border-left: 4px solid #f39c12; background: #f9f9f9; padding: 12px; margin: 15px 0; border-radius: 4px;">
-      <p style="margin: 0; font-weight: bold;">Recommended Resource: <a href="https://www.amazon.com/dp/1581346360?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Holiness of God by R.C. Sproul</a> - $14.99</p>
+      <p style="margin: 0; font-weight: bold;">Recommended Resource: <a href="https://www.amazon.com/dp/1581346360?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Holiness of God by R.C. Sproul</a> - </p>
       <p style="margin: 5px 0 0 0; font-size: 0.9em; color: #555;"></p>
     </div>
   </section>
@@ -96,7 +96,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>It is easy to view local primaries and runoff elections as tedious administrative hurdles—especially when they arrive during the heat of summer with little warning. Yet, watching election workers jump hurdles to open doors and voters stepping up in record numbers makes me think about diligence and faithfulness in everyday responsibilities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -104,7 +104,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p>"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters." — Colossians 3:23 (NIV)</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </blockquote>
@@ -112,12 +112,12 @@ Seagate Portable External Hard Drive ($59.99)
     <p>I am reminded that integrity matters just as much in the small, unglamorous administrative tasks behind an election as it does on the national stage. When poll workers pull together under tight pressure, and when citizens take the time to research candidates and cast a ballot, they are practicing a form of quiet faithfulness that builds a healthier, more resilient community for everyone.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div class="ncg-amazon-product" style="border-left: 4px solid #f39c12; background: #f9f9f9; padding: 12px; margin: 15px 0; border-radius: 4px;">
-      <p style="margin: 0; font-weight: bold;">Recommended Resource: <a href="https://www.amazon.com/dp/0310451368?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">NIV Journal the Word Bible</a> - $34.99</p>
+      <p style="margin: 0; font-weight: bold;">Recommended Resource: <a href="https://www.amazon.com/dp/0310451368?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">NIV Journal the Word Bible</a> - </p>
       <p style="margin: 5px 0 0 0; font-size: 0.9em; color: #555;"></p>
     </div>
   </section>
@@ -127,7 +127,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Participating in local elections with a spirit of grace and wisdom involves several practical steps:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <ul>
@@ -137,7 +137,7 @@ Tactical Waterproof Backpack ($35.99)
     </ul>
 
     <div class="ncg-amazon-product" style="border-left: 4px solid #f39c12; background: #f9f9f9; padding: 12px; margin: 15px 0; border-radius: 4px;">
-      <p style="margin: 0; font-weight: bold;">Recommended Resource: <a href="https://www.amazon.com/dp/1433561339?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The ESV Reader's Bible</a> - $39.99</p>
+      <p style="margin: 0; font-weight: bold;">Recommended Resource: <a href="https://www.amazon.com/dp/1433561339?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The ESV Reader's Bible</a> - </p>
       <p style="margin: 5px 0 0 0; font-size: 0.9em; color: #555;"></p>
     </div>
   </section>

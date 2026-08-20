@@ -32,7 +32,7 @@ source_url: 'https://www.foxnews.com/politics/house-democrat-accused-sexual-assa
   </nav>
 
   <div class="ncg-amazon-recommendation" style="border-left: 4px solid #d4af37; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0785238476?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World</a> - $14.99. A helpful guide on cultivating personal integrity and slowing down amidst high-pressure environments.
+    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0785238476?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World</a> - . A helpful guide on cultivating personal integrity and slowing down amidst high-pressure environments.
   </div>
 
   <section id="what-happened">
@@ -44,13 +44,13 @@ source_url: 'https://www.foxnews.com/politics/house-democrat-accused-sexual-assa
     <p>This revelation is part of a broader, troubling wave of recent misconduct allegations sweeping through Capitol Hill. Lawmakers from both parties—including figures like former Representative Eric Swalwell, Representative Tony Gonzales, and Representative Chuck Edwards—have faced severe scrutiny or seen their political careers derailed over similar scandals involving staffers. As investigators delve deeper, the story forces an uncomfortable reckoning about the systemic vulnerabilities of young staffers working in high-power environments.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-recommendation" style="border-left: 4px solid #d4af37; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1581346581?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Practice of Godliness</a> by Jerry Bridges - $12.50. A classic exploration of personal character and moral consistency in public and private life.
+    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1581346581?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Practice of Godliness</a> by Jerry Bridges - . A classic exploration of personal character and moral consistency in public and private life.
   </div>
 
   <section id="power-and-misconduct">
@@ -58,14 +58,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>At the heart of the Gomez controversy is a recurring human tragedy: the abuse of institutional authority. When individuals ascend to positions of high political power, they are entrusted with the stewardship of public resources and human lives. Yet, human nature too often warps that authority into a sense of entitlement.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>The statement issued by the accuser's legal team captured this dark dynamic precisely, noting that some members of Congress seem to operate under the assumption that "preying on young women working on Capitol Hill is one of the perks of their job." This mindset represents a profound moral failure. Authority was never designed to be a weapon of exploitation; it was meant to be a vehicle for service, protection, and justice.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -73,7 +73,7 @@ Tactical Waterproof Backpack ($35.99)
       <p>"Power does not corrupt men; fools, however, if they get into a position of power, corrupt power." — George Bernard Shaw. Yet history and scripture alike remind us that without deep moral grounding, authority almost invariably invites pride and self-destruction.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -81,13 +81,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When powerful leaders minimize their actions as mere "mistakes," they attempt to sanitize behavior that inflicts deep psychological and relational harm. True accountability begins where self-justification ends.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-recommendation" style="border-left: 4px solid #d4af37; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0310451351?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">NIV Study Bible, Hardcover</a> - $29.99. Essential for deep personal study and reflecting on biblical principles of leadership and justice.
+    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0310451351?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">NIV Study Bible, Hardcover</a> - . Essential for deep personal study and reflecting on biblical principles of leadership and justice.
   </div>
 
   <section id="biblical-reflection">
@@ -95,27 +95,27 @@ Tactical Waterproof Backpack ($35.99)
     <p>Whenever headlines expose the moral failings of those in leadership, it prompts a deeper, timeless question about human nature and the abuse of influence. Long before modern congressional ethics committees existed, Scripture addressed the fundamental dangers of hidden sin and the corrupting nature of unbridled power.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>Proverbs 29:2 reminds us: <em>"When the righteous thrive, the people rejoice; when the wicked rule, the people groan."</em> This ancient proverb speaks directly to the disillusionment ordinary citizens feel when leaders entrusted with public safety and policy fail in their personal morality.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <p>Furthermore, the Apostle Paul warns in Galatians 6:7, <em>"Do not be deceived: God cannot be mocked. A man reaps what he sows."</em> Public spin, carefully crafted statements, and political minimization can temporarily mask a scandal, but truth has a way of coming to light. The biblical view of repentance does not look for loopholes or argue over technical definitions of consent; it takes full responsibility, owns the harm done, and seeks genuine restoration.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-recommendation" style="border-left: 4px solid #d4af37; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0830846093?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Making of a Leader: Recognizing the Lessons and Stages of Leadership Development</a> by J. Robert Clinton - $16.80. Focuses on the character development necessary for sustainable, ethical leadership.
+    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0830846093?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Making of a Leader: Recognizing the Lessons and Stages of Leadership Development</a> by J. Robert Clinton - . Focuses on the character development necessary for sustainable, ethical leadership.
   </div>
 
   <section id="christian-response">
@@ -123,7 +123,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>For believers observing these sobering headlines, the proper response should never be self-righteous condemnation, but rather a combination of sober discernment, prayer for justice, and personal reflection:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -135,7 +135,7 @@ Tactical Waterproof Backpack ($35.99)
   </section>
 
   <div class="ncg-amazon-recommendation" style="border-left: 4px solid #d4af37; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1496414167?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Dangerous Calling: Confronting the Unique Challenges of Pastoral Ministry</a> by Paul David Tripp - $13.99. Offers profound insights into the danger of leading from a facade rather than authentic spiritual health.
+    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1496414167?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Dangerous Calling: Confronting the Unique Challenges of Pastoral Ministry</a> by Paul David Tripp - . Offers profound insights into the danger of leading from a facade rather than authentic spiritual health.
   </div>
 
   <section id="conclusion">

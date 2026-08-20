@@ -38,7 +38,7 @@ source_url: 'https://www.investopedia.com/market-update-memory-stocks-monday-tra
 <p>While major indexes like the Dow Jones Industrial Average and the S&P 500 hovered near flat lines or edged lower, technology hardware clearly captured investors' attention. The Roundhill Memory ETF (DRAM) climbed nearly 8%, while the iShares Semiconductor ETF (SOXX) rose about 2.5%, buoyed by notable gains in Marvell Technology and Intel.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 <p>Behind the ticker numbers lies a fundamental question for household portfolios and market watchers alike: Is this rally a temporary flash in the pan driven by speculative momentum, or are we witnessing a structural shift in how the semiconductor market operates?</p>
@@ -104,7 +104,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -112,7 +112,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

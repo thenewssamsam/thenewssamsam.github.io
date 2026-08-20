@@ -121,7 +121,7 @@ source_url: "https://www.indystar.com/story/news/local/hamilton-county/2026/08/1
 
 <div class="hc-wrap">
   <header>
-    <h1>Carmel Indiana Bridge Washout: What a $10 Million Repair Bill Reveals About Infrastructure and Stewardship</h1>
+    <h1>Carmel Indiana Bridge Washout: What a  Million Repair Bill Reveals About Infrastructure and Stewardship</h1>
     <div class="hc-meta-info">
       <time datetime="2026-08-17">Published: August 17, 2026</time>
       <span>•</span>
@@ -129,7 +129,7 @@ source_url: "https://www.indystar.com/story/news/local/hamilton-county/2026/08/1
     </div>
   </header>
 
-  <p>When historic floodwaters surge past century-old records, they carry away more than just dirt and asphalt—they test the hidden foundations of our communities. In Carmel, Indiana, the collapse of the Hazel Dell Parkway bridge following an unprecedented crest of the White River has left local leaders facing a staggering $10 million recovery effort, reminding us all of how quickly modern convenience can be upended by the raw force of nature.</p>
+  <p>When historic floodwaters surge past century-old records, they carry away more than just dirt and asphalt—they test the hidden foundations of our communities. In Carmel, Indiana, the collapse of the Hazel Dell Parkway bridge following an unprecedented crest of the White River has left local leaders facing a staggering  million recovery effort, reminding us all of how quickly modern convenience can be upended by the raw force of nature.</p>
 
   <h2 id="what-happened">What Happened in Hamilton County?</h2>
   <p>The destructive sequence unfolded after the White River in Hamilton County crested at approximately 24.60 feet around 3:30 a.m. on August 15, shattering a high-water mark that had stood for more than 100 years. The immense volume of rising floodwaters and heavy backflow battered the region, forcing first responders into urgent water rescues across multiple neighborhoods.</p>
@@ -137,14 +137,14 @@ source_url: "https://www.indystar.com/story/news/local/hamilton-county/2026/08/1
   <p>Among the most severe structural casualties was the bridge on Hazel Dell Parkway, located just south of 106th Street. According to a news release from the City of Carmel, the rushing water washed away the underlying materials supporting the bridge abutment, producing dangerous sinkholes and causing the roadway to give way entirely. Because the bridge falls under county jurisdiction, Hamilton County officials immediately stepped in to manage the assessment and rebuild process.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   
-  <p>Hamilton County Commissioner Christine Altman shared that preliminary estimates place the total replacement cost in the neighborhood of $10 million. That figure may climb even higher once engineers account for extensive river and stream bank stabilization work needed to repair newly carved channels created by the torrential surge. Meanwhile, local motorists face long-term detours via Gray Road, with City Councilor Adam Aasen warning residents in a social media update that the multi-month restoration project will be both difficult and expensive.</p>
+  <p>Hamilton County Commissioner Christine Altman shared that preliminary estimates place the total replacement cost in the neighborhood of  million. That figure may climb even higher once engineers account for extensive river and stream bank stabilization work needed to repair newly carved channels created by the torrential surge. Meanwhile, local motorists face long-term detours via Gray Road, with City Councilor Adam Aasen warning residents in a social media update that the multi-month restoration project will be both difficult and expensive.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -152,7 +152,7 @@ Tactical Waterproof Backpack ($35.99)
   <p>Most of us drive over bridges and cross rivers every single day without giving a second thought to the concrete piers and steel beams beneath our tires. We trust that engineers decades ago anticipated the worst-case scenario. But when a 100-year flood record is broken, it reveals the limits of human planning against a shifting, unpredictable earth.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -163,7 +163,7 @@ Seagate Portable External Hard Drive ($59.99)
   <p>This reality brings to mind the fundamental biblical wisdom of building on solid ground rather than sand. While Jesus used that parable to illustrate the state of the human heart, the physical principle applies remarkably well to our modern world. When storms descend and rivers break their banks, the quality of our foundations—both spiritual and material—is laid bare for all to see.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -171,7 +171,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>&ldquo;Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock. And the rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock.&rdquo;</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p class="hc-verse-ref">&mdash; Matthew 7:24-25 (ESV)</p>
@@ -180,7 +180,7 @@ Tactical Waterproof Backpack ($35.99)
   <p>This verse invites us to consider how we steward our communities. Building resilient roads, bridges, and drainage systems is not just an administrative duty; it is an act of love and care for our neighbors, ensuring safety for the generations that follow us.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -188,7 +188,7 @@ Tactical Waterproof Backpack ($35.99)
   <p>When natural disasters strike close to home, our response should move beyond mere frustration over inconvenient detours or rising tax burdens. Disasters provide distinct opportunities to practice neighborly love and thoughtful stewardship:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   
@@ -206,16 +206,16 @@ Tactical Waterproof Backpack ($35.99)
       <p>The washed-out bridge is located on Hazel Dell Parkway, just south of 106th Street in Carmel, Indiana.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </details>
     <details>
       <summary>How much will the bridge replacement cost?</summary>
-      <p>Hamilton County officials estimate the total bridge replacement and necessary riverbank repairs will be around $10 million.</p>
+      <p>Hamilton County officials estimate the total bridge replacement and necessary riverbank repairs will be around  million.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </details>
@@ -224,7 +224,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p>The failure was caused by historic flooding and backflow from the White River, which crested at 24.60 feet—breaking a record set over 100 years ago—and washed away soil behind the bridge abutment.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </details>
@@ -232,7 +232,7 @@ Seagate Portable External Hard Drive ($59.99)
 
   <div class="hc-closing">
     <h2>A Prayer for Wisdom and Hope</h2>
-    <p>Father, we look at the sudden disruption in Hamilton County and are reminded of how fragile our daily routines truly are. We lift up the first responders, municipal leaders, and engineers working to restore safety and rebuild what was lost along the White River. Grant them wisdom, endurance, and provision as they face this massive $10 million task. Comfort those whose properties were damaged by the floodwaters, and instill in all of us a deeper spirit of stewardship and care for our neighbors. In Jesus' name, Amen.</p>
+    <p>Father, we look at the sudden disruption in Hamilton County and are reminded of how fragile our daily routines truly are. We lift up the first responders, municipal leaders, and engineers working to restore safety and rebuild what was lost along the White River. Grant them wisdom, endurance, and provision as they face this massive  million task. Comfort those whose properties were damaged by the floodwaters, and instill in all of us a deeper spirit of stewardship and care for our neighbors. In Jesus' name, Amen.</p>
   </div>
 
   <div class="hc-source">
@@ -243,8 +243,8 @@ Seagate Portable External Hard Drive ($59.99)
   {
     "@context": "https://schema.org",
     "@type": "NewsArticle",
-    "headline": "Carmel Indiana Bridge Washout: What a $10 Million Repair Bill Reveals About Infrastructure and Stewardship",
-    "description": "Historic flooding in Carmel, Indiana has washed out the Hazel Dell Parkway bridge, with repairs estimated at $10 million. Explore the local and biblical lessons of infrastructure and stewardship.",
+    "headline": "Carmel Indiana Bridge Washout: What a  Million Repair Bill Reveals About Infrastructure and Stewardship",
+    "description": "Historic flooding in Carmel, Indiana has washed out the Hazel Dell Parkway bridge, with repairs estimated at  million. Explore the local and biblical lessons of infrastructure and stewardship.",
     "datePublished": "2026-08-17",
     "author": {
       "@type": "Person",
@@ -275,7 +275,7 @@ Seagate Portable External Hard Drive ($59.99)
         "name": "How much will the bridge replacement cost?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Hamilton County officials estimate the total bridge replacement and necessary riverbank repairs will be around $10 million."
+          "text": "Hamilton County officials estimate the total bridge replacement and necessary riverbank repairs will be around  million."
         }
       },
       {

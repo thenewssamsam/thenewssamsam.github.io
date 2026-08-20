@@ -36,7 +36,7 @@ source_url: 'https://www.startribune.com/minnesota-twins-philadelphia-phillies-g
     <p>Then reality caught up in a hurry. The set began with Kyle Schwarber launching a home run into the cornfield as the very first batter, setting a tone of relentless pressure from Philadelphia. By the time the dust settled on Sunday back home, the Twins had dropped the finale 7-5, capping off a brutal sweep that included earlier 7-1 and 9-1 losses. The sweep dropped manager Derek Shelton's ballclub to five games under .500 at 60-65, pushing them 1&frac12; games back of the American League's final wild-card spot.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -217,7 +217,7 @@ li {
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -225,7 +225,7 @@ li {
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

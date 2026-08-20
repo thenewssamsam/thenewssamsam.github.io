@@ -39,7 +39,7 @@ source_url: 'https://www.engadget.com/2238260/uber-aims-for-1-million-daily-dron
     <p>As part of the agreement, Uber has made a strategic financial investment in Zipline, though specific figures were not publicly disclosed. Zipline is no newcomer to automated logistics; the company has already completed over 2.7 million deliveries across healthcare and retail sectors, previously partnering with heavyweights like Walmart and Chipotle.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Toshiba 5400RPM Hard Drive ($49.99)
+Toshiba 5400RPM Hard Drive 
 </a></p>
 
     <p>This development escalates the corporate arms race in automated delivery. Uber is already collaborating with Flytrex for drone orders and partnering with autonomous vehicle firms like Lucid and Momenta for robotaxis. Meanwhile, its chief rival, DoorDash, partnered with Wing back in 2022 and has steadily expanded its own aerial footprint, recently pushing into the metro Atlanta area. The skies above suburban and urban neighborhoods are rapidly transforming into corporate logistics corridors.</p>
@@ -110,7 +110,7 @@ Toshiba 5400RPM Hard Drive ($49.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -118,7 +118,7 @@ Toshiba 5400RPM Hard Drive ($49.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">KEOFID Classic Backpack</a></div>
-    <div class="product-price">$32.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -126,7 +126,7 @@ Toshiba 5400RPM Hard Drive ($49.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Backpack USB Charging Port</a></div>
-    <div class="product-price">$39.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -134,7 +134,7 @@ Toshiba 5400RPM Hard Drive ($49.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">abshoo College Bookbag</a></div>
-    <div class="product-price">$29.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -142,7 +142,7 @@ Toshiba 5400RPM Hard Drive ($49.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -150,7 +150,7 @@ Toshiba 5400RPM Hard Drive ($49.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Toshiba 5400RPM Hard Drive</a></div>
-    <div class="product-price">$49.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -158,7 +158,7 @@ Toshiba 5400RPM Hard Drive ($49.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">JIYINGDUO External Hard Drive</a></div>
-    <div class="product-price">$44.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -166,7 +166,7 @@ Toshiba 5400RPM Hard Drive ($49.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">GAZELLE External Hard Drive</a></div>
-    <div class="product-price">$54.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

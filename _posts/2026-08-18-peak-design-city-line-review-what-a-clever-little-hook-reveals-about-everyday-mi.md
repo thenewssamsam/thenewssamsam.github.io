@@ -30,10 +30,10 @@ source_url: 'https://www.theverge.com/tech/980137/peak-design-city-line-review'
 </div>
 
 <h2 id="what-happened">What Happened: The City Line Breakdown</h2>
-<p>Peak Design, best known for robust camera gear and modular travel bags, has shifted its focus to the casual urbanite with the City Line. Priced at $119.95 for the 12-liter City Crescent and $179.95 for the 15-liter City Backpack, these bags are built from lightweight, rain-shedding fabric that bridges the gap between casual coffee shops and professional meetings.</p>
+<p>Peak Design, best known for robust camera gear and modular travel bags, has shifted its focus to the casual urbanite with the City Line. Priced at  for the 12-liter City Crescent and  for the 15-liter City Backpack, these bags are built from lightweight, rain-shedding fabric that bridges the gap between casual coffee shops and professional meetings.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -56,7 +56,7 @@ Tactical Waterproof Backpack ($35.99)
 </ul>
 
 <h2 id="response">How Should Readers Respond? Evaluating Your Carry</h2>
-<p>If you are in the market for an everyday carry upgrade, the Peak Design City Line offers compelling options, provided you can justify the price tag. However, the broader takeaway doesn't require a $180 purchase.</p>
+<p>If you are in the market for an everyday carry upgrade, the Peak Design City Line offers compelling options, provided you can justify the price tag. However, the broader takeaway doesn't require a  purchase.</p>
 <p>Before buying new gear, take stock of what you currently use. Does your daily bag serve your actual movement, or is it carrying unnecessary bulk? If you find yourself constantly battling unorganized pockets, uncomfortable straps, or a lack of basic utility, it may be time to streamline. And if you simply want to test the "bag-hook lifestyle" without committing to a premium ecosystem, portable tabletop hooks are widely available at a fraction of the cost—proving that the underlying habit is far more valuable than any single brand name.</p>
 
 <h2 id="faq">Frequently Asked Questions</h2>
@@ -122,7 +122,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -130,7 +130,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

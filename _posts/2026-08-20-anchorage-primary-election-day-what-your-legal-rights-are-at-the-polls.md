@@ -42,7 +42,7 @@ source_url: "https://www.adn.com/politics/2026/08/18/in-photos-candidates-compet
   </section>
 
   <div style="background: #fffbeb; border-left: 4px solid #d97706; padding: 14px 18px; margin: 20px 0; border-radius: 4px;">
-    <p style="margin: 0; font-size: 0.95rem; color: #b45309;"><strong>Recommended Product:</strong> <a href="https://www.amazon.com/dp/B073JYC4XM?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1d4ed8; text-decoration: underline;">Amazon Basics Legal Pad Writing Tablet ($15.99)</a> - Keep track of your local polling place notes and election day observations.</p>
+    <p style="margin: 0; font-size: 0.95rem; color: #b45309;"><strong>Recommended Product:</strong> <a href="https://www.amazon.com/dp/B073JYC4XM?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1d4ed8; text-decoration: underline;">Amazon Basics Legal Pad Writing Tablet </a> - Keep track of your local polling place notes and election day observations.</p>
   </div>
 
   <section id="legal-perspective" style="margin-bottom: 32px;">
@@ -61,7 +61,7 @@ source_url: "https://www.adn.com/politics/2026/08/18/in-photos-candidates-compet
   </section>
 
   <div style="background: #fffbeb; border-left: 4px solid #d97706; padding: 14px 18px; margin: 20px 0; border-radius: 4px;">
-    <p style="margin: 0; font-size: 0.95rem; color: #b45309;"><strong>Recommended Product:</strong> <a href="https://www.amazon.com/dp/B0851KZN4H?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1d4ed8; text-decoration: underline;">Anker Portable Power Bank ($21.99)</a> - Ensure your mobile device stays charged while waiting in long primary election lines.</p>
+    <p style="margin: 0; font-size: 0.95rem; color: #b45309;"><strong>Recommended Product:</strong> <a href="https://www.amazon.com/dp/B0851KZN4H?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1d4ed8; text-decoration: underline;">Anker Portable Power Bank </a> - Ensure your mobile device stays charged while waiting in long primary election lines.</p>
   </div>
 
   <section id="biblical-reflection" style="margin-bottom: 32px;">
@@ -71,7 +71,7 @@ source_url: "https://www.adn.com/politics/2026/08/18/in-photos-candidates-compet
   </section>
 
   <div style="background: #fffbeb; border-left: 4px solid #d97706; padding: 14px 18px; margin: 20px 0; border-radius: 4px;">
-    <p style="margin: 0; font-size: 0.95rem; color: #b45309;"><strong>Recommended Product:</strong> <a href="https://www.amazon.com/dp/B07X87F688?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1d4ed8; text-decoration: underline;">Stanley Classic Travel Mug ($35.00)</a> - Keep your coffee hot during early morning election monitoring.</p>
+    <p style="margin: 0; font-size: 0.95rem; color: #b45309;"><strong>Recommended Product:</strong> <a href="https://www.amazon.com/dp/B07X87F688?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1d4ed8; text-decoration: underline;">Stanley Classic Travel Mug </a> - Keep your coffee hot during early morning election monitoring.</p>
   </div>
 
   <section id="how-to-respond" style="margin-bottom: 32px;">

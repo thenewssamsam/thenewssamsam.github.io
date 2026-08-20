@@ -37,9 +37,9 @@ source_url: "https://www.cnn.com/2026/08/18/media/disney-abc-fcc-trump-lawsuit-t
 </div>
 <p style="margin: 0 0 10px 0; font-size: 0.95em; color: #3e2723;">Support your mental clarity and physical calm during stressful news cycles with natural relaxation aids and focus tools.</p>
 <ul style="margin: 0; padding-left: 20px; color: #5d4037; font-size: 0.95em;">
-<li><a href="https://www.amazon.com/dp/B07XYZ1234?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Natural Calm Magnesium Citrate Powder (Calm Mind Supplement) - $21.99</a></li>
-<li><a href="https://www.amazon.com/dp/B08XYZ5678?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Noise-Canceling Over-Ear Headphones for Media Detox - $149.00</a></li>
-<li><a href="https://www.amazon.com/dp/B09XYZ9012?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Weighted Blanket for Stress Relief and Better Sleep - $45.99</a></li>
+<li><a href="https://www.amazon.com/dp/B07XYZ1234?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Natural Calm Magnesium Citrate Powder (Calm Mind Supplement) - </a></li>
+<li><a href="https://www.amazon.com/dp/B08XYZ5678?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Noise-Canceling Over-Ear Headphones for Media Detox - </a></li>
+<li><a href="https://www.amazon.com/dp/B09XYZ9012?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Weighted Blanket for Stress Relief and Better Sleep - </a></li>
 </ul>
 </div>
 
@@ -48,7 +48,7 @@ source_url: "https://www.cnn.com/2026/08/18/media/disney-abc-fcc-trump-lawsuit-t
 <p>The lawsuit details real operational impacts: since the FCC's inquiries began, production teams on <em>The View</em> have grown significantly more circumspect, avoiding political candidate bookings and filtering out video clips out of fear of regulatory retaliation. Disney CEO Josh D'Amaro defended the network's journalistic integrity, stating, "We're not going to be told how to run that side of our business." Meanwhile, an FCC spokesperson defended the agency's probe into alleged illegal DEI discrimination, calling Disney's lawsuit a reaction to ongoing oversight.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -59,9 +59,9 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <p style="margin: 0 0 10px 0; font-size: 0.95em; color: #3e2723;">Equip yourself with tools for mindfulness and emotional grounding when navigating high-anxiety political news.</p>
 <ul style="margin: 0; padding-left: 20px; color: #5d4037; font-size: 0.95em;">
-<li><a href="https://www.amazon.com/dp/B07ABC1234?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Essential Oil Diffuser and Aromatherapy Kit - $29.99</a></li>
-<li><a href="https://www.amazon.com/dp/B07ABC5678?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Guided Meditation Journal for Daily Reflection - $15.99</a></li>
-<li><a href="https://www.amazon.com/dp/B07ABC9012?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Ergonomic Meditation Cushion Set - $39.99</a></li>
+<li><a href="https://www.amazon.com/dp/B07ABC1234?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Essential Oil Diffuser and Aromatherapy Kit - </a></li>
+<li><a href="https://www.amazon.com/dp/B07ABC5678?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Guided Meditation Journal for Daily Reflection - </a></li>
+<li><a href="https://www.amazon.com/dp/B07ABC9012?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Ergonomic Meditation Cushion Set - </a></li>
 </ul>
 </div>
 
@@ -69,13 +69,13 @@ Tactical Waterproof Backpack ($35.99)
 <p>When massive institutions clash in a public arena, the psychological shockwaves radiate outward. From a health and wellness perspective, the Disney-FCC confrontation illustrates how prolonged uncertainty and institutional intimidation trigger a state of chronic hyper-vigilance. Disney's legal filing notes that the regulatory pressure is calculated to operate <em>in terrorem</em>—meaning to instill fear—not just within ABC, but across the entire media landscape.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <p>In human biology, chronic exposure to environments where expression feels policed or penalized mirrors the physiological mechanics of chronic workplace stress. Cortisol and adrenaline levels remain elevated not just for executives in high-rise offices, but for viewers and citizens who absorb daily reports of civic friction. When free expression feels constricted by intimidation, people experience a subtle yet pervasive sense of psychological compression—a shrinking of personal freedom that manifests as mental fatigue, anxiety, and emotional burnout.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -90,16 +90,16 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <p style="margin: 0 0 10px 0; font-size: 0.95em; color: #3e2723;">Create a peaceful home sanctuary to disconnect from high-stress news cycles.</p>
 <ul style="margin: 0; padding-left: 20px; color: #5d4037; font-size: 0.95em;">
-<li><a href="https://www.amazon.com/dp/B07DEF1234?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Himalayan Salt Lamp for Ambient Relaxation - $24.99</a></li>
-<li><a href="https://www.amazon.com/dp/B07DEF5678?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Herbal Sleep Tea Variety Pack (Chamomile &amp; Valerian Root) - $18.50</a></li>
-<li><a href="https://www.amazon.com/dp/B07DEF9012?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Acupressure Mat and Pillow Set for Back Pain &amp; Tension - $32.99</a></li>
+<li><a href="https://www.amazon.com/dp/B07DEF1234?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Himalayan Salt Lamp for Ambient Relaxation - </a></li>
+<li><a href="https://www.amazon.com/dp/B07DEF5678?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Herbal Sleep Tea Variety Pack (Chamomile &amp; Valerian Root) - </a></li>
+<li><a href="https://www.amazon.com/dp/B07DEF9012?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Acupressure Mat and Pillow Set for Back Pain &amp; Tension - </a></li>
 </ul>
 </div>
 
 <p>This dynamic also invites a personal reflection on moral courage and peace of mind. Proverbs 16:8 reminds us, <em>"Better is a little with righteousness than great revenues with injustice."</em> While applied here to corporate integrity versus regulatory pressure, the underlying human truth remains vital: sacrificing inner conviction and open dialogue for temporary safety ultimately exacts a heavy toll on psychological health. True well-being requires living in alignment with truth and fairness, refusing to let anxiety dictate our willingness to speak or listen honestly.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -118,9 +118,9 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <p style="margin: 0 0 10px 0; font-size: 0.95em; color: #3e2723;">Step away from the screen and reconnect with physical well-being through outdoor walking and fitness gear.</p>
 <ul style="margin: 0; padding-left: 20px; color: #5d4037; font-size: 0.95em;">
-<li><a href="https://www.amazon.com/dp/B07GHI1234?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Insulated Stainless Steel Water Bottle for Outdoor Walks - $27.99</a></li>
-<li><a href="https://www.amazon.com/dp/B07GHI5678?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Fitness Activity Tracker Smartwatch - $59.99</a></li>
-<li><a href="https://www.amazon.com/dp/B07GHI9012?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Comfortable Walking Shoes for Stress Relief Strolls - $79.99</a></li>
+<li><a href="https://www.amazon.com/dp/B07GHI1234?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Insulated Stainless Steel Water Bottle for Outdoor Walks - </a></li>
+<li><a href="https://www.amazon.com/dp/B07GHI5678?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Fitness Activity Tracker Smartwatch - </a></li>
+<li><a href="https://www.amazon.com/dp/B07GHI9012?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d84315; text-decoration: none; font-weight: 500;">Comfortable Walking Shoes for Stress Relief Strolls - </a></li>
 </ul>
 </div>
 

@@ -38,7 +38,7 @@ source_url: 'https://www.waka.com/2026/08/17/elmore-county-ema-opening-cooling-s
 <p>On Monday, the Elmore County Emergency Management Agency activated emergency protocols, opening temporary cooling stations across several towns and cities in anticipation of dangerous heat conditions. As temperatures climb to levels that pose immediate health risks, local officials are stepping in to provide safe, air-conditioned havens for residents who may lack reliable cooling at home.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0GVH72LRS?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-KewLitz Insulated Stainless Steel Bottle ($24.99)
+KewLitz Insulated Stainless Steel Bottle 
 </a></p>
 
 
@@ -122,7 +122,7 @@ Source: <a href="https://www.waka.com/2026/08/17/elmore-county-ema-opening-cooli
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">CeraVe Skin Renewing Night Cream</a></div>
-    <div class="product-price">$18.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -130,7 +130,7 @@ Source: <a href="https://www.waka.com/2026/08/17/elmore-county-ema-opening-cooli
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0GVH72LRS?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">KewLitz Insulated Stainless Steel Bottle</a></div>
-    <div class="product-price">$24.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0GVH72LRS?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -138,7 +138,7 @@ Source: <a href="https://www.waka.com/2026/08/17/elmore-county-ema-opening-cooli
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0GX8NPZ1T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">GOPPUS Insulated Leak-Proof Bottle</a></div>
-    <div class="product-price">$19.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0GX8NPZ1T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -146,7 +146,7 @@ Source: <a href="https://www.waka.com/2026/08/17/elmore-county-ema-opening-cooli
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0GKT8JXPZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Wawahydro Insulated Water Bottle</a></div>
-    <div class="product-price">$29.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0GKT8JXPZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -154,7 +154,7 @@ Source: <a href="https://www.waka.com/2026/08/17/elmore-county-ema-opening-cooli
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B09QQCX392?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">EZPIK Reachers and Grabbers</a></div>
-    <div class="product-price">$14.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B09QQCX392?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

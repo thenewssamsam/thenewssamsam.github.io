@@ -21,7 +21,7 @@ source_url: 'https://news.bloomberglaw.com/bankruptcy-law/google-aims-to-boost-a
 </header>
 
 <div class="ncg-intro">
-<p>When a major low-cost carrier collapses under billions in debt, bankrupt assets usually mean liquidating airplanes, airport gates, and spare parts. But in a striking indicator of where the modern tech economy is placing its bets, Google has just won a bankruptcy auction for something entirely intangible: the inner workings of Spirit Airlines, captured across 100 million emails, hundreds of millions of chat logs, and decades of operational history, purchased for $10 million specifically to train its artificial intelligence models.</p>
+<p>When a major low-cost carrier collapses under billions in debt, bankrupt assets usually mean liquidating airplanes, airport gates, and spare parts. But in a striking indicator of where the modern tech economy is placing its bets, Google has just won a bankruptcy auction for something entirely intangible: the inner workings of Spirit Airlines, captured across 100 million emails, hundreds of millions of chat logs, and decades of operational history, purchased for  million specifically to train its artificial intelligence models.</p>
 </div>
 
 <nav class="ncg-toc" aria-label="Table of Contents">
@@ -37,13 +37,13 @@ source_url: 'https://news.bloomberglaw.com/bankruptcy-law/google-aims-to-boost-a
 
 <section id="what-happened">
 <h2>What Happened in the Spirit-Google Deal</h2>
-<p>According to court notices filed in the US Bankruptcy Court for the Southern District of New York, Google LLC emerged victorious at auction for a massive enterprise dataset from Spirit Aviation Holdings Inc., which shut down operations on May 2 following a Chapter 11 bankruptcy filing with roughly $8.1 billion in debt.</p>
+<p>According to court notices filed in the US Bankruptcy Court for the Southern District of New York, Google LLC emerged victorious at auction for a massive enterprise dataset from Spirit Aviation Holdings Inc., which shut down operations on May 2 following a Chapter 11 bankruptcy filing with roughly  billion in debt.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
-<p>The $10 million purchase secures a staggering breadth of corporate history: 100 million emails, 500 million Microsoft Teams collaboration chats, revenue metrics, aircraft operations data, employee productivity logs, fraud detection records, and pricing data covering 7.2 billion competitor flights going back years. Crucially, the transaction also includes roughly 30 million lines of software code, development metadata, and software algorithms, alongside 175,000 employee records dating back to 1986.</p>
+<p>The  million purchase secures a staggering breadth of corporate history: 100 million emails, 500 million Microsoft Teams collaboration chats, revenue metrics, aircraft operations data, employee productivity logs, fraud detection records, and pricing data covering 7.2 billion competitor flights going back years. Crucially, the transaction also includes roughly 30 million lines of software code, development metadata, and software algorithms, alongside 175,000 employee records dating back to 1986.</p>
 <p>To address privacy concerns, court documents and Google statements emphasize that personal passenger data—including 97.5 million customer profiles and loyalty program records—was entirely excluded from the sale. Furthermore, the business data designated for Google is slated to undergo rigorous third-party scrubbing to remove any remaining personally identifiable information before the tech giant takes possession.</p>
 </section>
 
@@ -95,7 +95,7 @@ Seagate Portable External Hard Drive ($59.99)
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "Google Buying Spirit Airlines Data: What a Career and Industry Lens Reveals About AI's Thirst for Real-World Work",
-  "description": "Google acquired bankrupt Spirit Airlines' operational data and code for $10 million to train AI. Here is what this unusual deal means for workers and tech.",
+  "description": "Google acquired bankrupt Spirit Airlines' operational data and code for  million to train AI. Here is what this unusual deal means for workers and tech.",
   "datePublished": "2026-08-16",
   "author": {
     "@type": "Organization",
@@ -110,7 +110,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -118,7 +118,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

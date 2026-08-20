@@ -37,7 +37,7 @@ Investigators noted that 23-year-old Thomas Robinson was identified as a suspect
 </p>
 <div class="ncg-amazon-recommendation" style="background: #f9fafb; border-left: 4px solid #f59e0b; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
 <p style="margin: 0; font-size: 0.95rem; color: #374151;">
-<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0063062363?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The Conscious Parent: Transforming Ourselves, Empowering Our Children</a> — Paperback ($16.99) — A thoughtful guide on building healthy emotional boundaries and fostering true accountability in family relationships.
+<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0063062363?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The Conscious Parent: Transforming Ourselves, Empowering Our Children</a> — Paperback  — A thoughtful guide on building healthy emotional boundaries and fostering true accountability in family relationships.
 </p>
 </div>
 <p>
@@ -45,7 +45,7 @@ While both men face serious legal scrutiny and have largely declined media comme
 </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -55,7 +55,7 @@ From a developmental and family dynamics perspective, this case illustrates an e
 </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <p>
@@ -63,12 +63,12 @@ However, as children transition into young adulthood, the nature of parental sup
 </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <div class="ncg-amazon-recommendation" style="background: #f9fafb; border-left: 4px solid #f59e0b; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
 <p style="margin: 0; font-size: 0.95rem; color: #374151;">
-<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/150117134X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The Yes Brain: How to Cultivate Courage, Curiosity, and Resilience in Your Child</a> — Paperback ($15.19) — Practical strategies for raising resilient kids who can face adversity without relying on external rescue.
+<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/150117134X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The Yes Brain: How to Cultivate Courage, Curiosity, and Resilience in Your Child</a> — Paperback  — Practical strategies for raising resilient kids who can face adversity without relying on external rescue.
 </p>
 </div>
 <p>
@@ -76,7 +76,7 @@ Psychologists often point out that when parents shield children from the full we
 </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -92,7 +92,7 @@ Incidents like the Penn State drug ring investigation provide difficult but nece
 </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <ul>
@@ -102,7 +102,7 @@ Seagate Portable External Hard Drive ($59.99)
 </ul>
 <div class="ncg-amazon-recommendation" style="background: #f9fafb; border-left: 4px solid #f59e0b; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
 <p style="margin: 0; font-size: 0.95rem; color: #374151;">
-<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0062945842?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Untangled: Guiding Teenage Girls Through the Seven Transitions into Adulthood</a> — Paperback ($16.49) — An invaluable roadmap for understanding adolescent development and encouraging healthy autonomy.
+<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0062945842?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Untangled: Guiding Teenage Girls Through the Seven Transitions into Adulthood</a> — Paperback  — An invaluable roadmap for understanding adolescent development and encouraging healthy autonomy.
 </p>
 </div>
 
@@ -112,12 +112,12 @@ This situation naturally brings to mind timeless warnings about the burdens of m
 </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <div class="ncg-amazon-recommendation" style="background: #f9fafb; border-left: 4px solid #f59e0b; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
 <p style="margin: 0; font-size: 0.95rem; color: #374151;">
-<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0785214062?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The 5 Love Languages of Teenagers</a> — Paperback ($15.99) — Learn how to express unconditional love while maintaining firm, healthy boundaries during the turbulent teen years.
+<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0785214062?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The 5 Love Languages of Teenagers</a> — Paperback  — Learn how to express unconditional love while maintaining firm, healthy boundaries during the turbulent teen years.
 </p>
 </div>
 <p>
@@ -125,12 +125,12 @@ Furthermore, Galatians 6:5 reminds us that "each will have to bear his own load.
 </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <div class="ncg-amazon-recommendation" style="background: #f9fafb; border-left: 4px solid #f59e0b; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
 <p style="margin: 0; font-size: 0.95rem; color: #374151;">
-<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/080241270X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The 5 Love Languages: The Secret to Love that Lasts</a> — Hardcover ($16.99) — Build stronger relational bonds with every member of your family through clear, effective communication.
+<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/080241270X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The 5 Love Languages: The Secret to Love that Lasts</a> — Hardcover  — Build stronger relational bonds with every member of your family through clear, effective communication.
 </p>
 </div>
 
@@ -146,7 +146,7 @@ Instead of reacting out of panic or blind defensiveness when family crises arise
 </ul>
 <div class="ncg-amazon-recommendation" style="background: #f9fafb; border-left: 4px solid #f59e0b; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
 <p style="margin: 0; font-size: 0.95rem; color: #374151;">
-<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1476772090?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Boundaries: When to Say Yes, How to Say No to Take Control of Your Life</a> — Paperback ($15.99) — The definitive guide to setting healthy emotional and relational limits with family and friends.
+<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1476772090?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Boundaries: When to Say Yes, How to Say No to Take Control of Your Life</a> — Paperback  — The definitive guide to setting healthy emotional and relational limits with family and friends.
 </p>
 </div>
 
@@ -156,7 +156,7 @@ The Penn State fraternity drug ring case serves as a sobering cautionary tale ab
 </p>
 <div class="ncg-amazon-recommendation" style="background: #f9fafb; border-left: 4px solid #f59e0b; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
 <p style="margin: 0; font-size: 0.95rem; color: #374151;">
-<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1647395291?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The Self-Driven Child: The Science and Sense of Giving Your Kids More Control Over Their Lives</a> — Paperback ($16.99) — Learn how to foster healthy independence and reduce anxiety by empowering kids to manage their own challenges.
+<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1647395291?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The Self-Driven Child: The Science and Sense of Giving Your Kids More Control Over Their Lives</a> — Paperback  — Learn how to foster healthy independence and reduce anxiety by empowering kids to manage their own challenges.
 </p>
 </div>
 
@@ -167,7 +167,7 @@ When family loyalty is tested by the harsh realities of the law, our response re
 </p>
 <div class="ncg-amazon-recommendation" style="background: #f9fafb; border-left: 4px solid #f59e0b; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
 <p style="margin: 0; font-size: 0.95rem; color: #374151;">
-<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/195395513X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Raising Mentally Strong Kids: How to Combine the Power of Neuroscience with Personal Connection</a> — Paperback ($17.49) — Discover actionable ways to cultivate emotional resilience, good decision-making, and moral courage in your children.
+<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/195395513X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Raising Mentally Strong Kids: How to Combine the Power of Neuroscience with Personal Connection</a> — Paperback  — Discover actionable ways to cultivate emotional resilience, good decision-making, and moral courage in your children.
 </p>
 </div>
 <p style="margin-top: 1rem; font-style: italic; color: #1f2937;">

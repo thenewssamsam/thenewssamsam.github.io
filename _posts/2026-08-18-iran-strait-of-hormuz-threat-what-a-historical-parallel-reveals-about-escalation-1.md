@@ -37,13 +37,13 @@ source_url: ''
 <p>The diplomatic breakdown arrived on Monday as a June memorandum of understanding (MoU) expired without a permanent peace deal. The interim agreement, which had paused military operations across multiple fronts, unravelled over a fundamental disagreement: who holds administrative control over the Strait of Hormuz, the vital waterway separating Iran from Oman.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
 <p>According to Reuters reporting by Parisa Hafezi and Katharine Jackson, a senior Iranian official stated that Tehran is preparing for a "timely and precise" military operation to break what it terms a U.S. naval blockade if diplomatic channels fail completely. Simultaneously, President Donald Trump confirmed to reporters that Washington would not extend the temporary truce. Behind the scenes, back-channel diplomacy involving intermediaries and the powerful Islamic Revolutionary Guard Corps (IRGC) continues to churn, but the public posture on both sides has hardened significantly.</p>
 
-<p>The stakes extend far beyond military strategy. The conflict has already inflicted heavy human tolls, disrupted trade, and driven benchmark Brent crude oil prices sharply upward—reaching peaks of $126 a barrel before settling near $90. For ordinary drivers in the United States and consumers worldwide, gasoline prices hovering above $4 a gallon serve as a daily reminder that geopolitical friction in the Persian Gulf touches every household budget.</p>
+<p>The stakes extend far beyond military strategy. The conflict has already inflicted heavy human tolls, disrupted trade, and driven benchmark Brent crude oil prices sharply upward—reaching peaks of  a barrel before settling near  For ordinary drivers in the United States and consumers worldwide, gasoline prices hovering above  a gallon serve as a daily reminder that geopolitical friction in the Persian Gulf touches every household budget.</p>
 
 <div class="ncg-quote-box">
 <p>&ldquo;When strategic chokepoints become bargaining chips, historical precedent shows that miscalculation is often just one misunderstood signal away.&rdquo;</p>
@@ -59,7 +59,7 @@ Seagate Portable External Hard Drive ($59.99)
 <h2 id="the-economic-fallout">Energy Markets and Everyday Costs</h2>
 <p>While diplomats debate memoranda and back-channel messages, the economic mechanism of the conflict is remarkably straightforward. A fifth of global oil and liquefied natural gas historically flowed through the Strait of Hormuz. When maritime traffic faces armed disruption, shipping insurance spikes, tankers take longer alternate routes, and global energy supply curves contract.</p>
 
-<p>As noted in the reporting, Brent crude has remained volatile, and U.S. gasoline prices remain elevated above $4 per gallon. For households, this functions as an invisible tax on commuting, heating, and goods transportation. The Trump administration has warned citizens to prepare for sustained high fuel prices, signaling that the economic friction of the war will not vanish overnight simply because military operations fluctuate.</p>
+<p>As noted in the reporting, Brent crude has remained volatile, and U.S. gasoline prices remain elevated above  per gallon. For households, this functions as an invisible tax on commuting, heating, and goods transportation. The Trump administration has warned citizens to prepare for sustained high fuel prices, signaling that the economic friction of the war will not vanish overnight simply because military operations fluctuate.</p>
 
 <h2 id="how-readers-respond">How Should Readers Respond?</h2>
 <p>When international headlines are dominated by threats of naval escalation and surging commodity prices, it is easy for individuals to feel helpless. Panic, however, is a poor strategy. Here are a few grounded, practical ways to navigate the ripple effects of the current geopolitical standoff:</p>
@@ -111,7 +111,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -119,7 +119,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

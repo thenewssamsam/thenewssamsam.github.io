@@ -26,7 +26,7 @@ source_url: 'https://finance.yahoo.com/markets/stocks/articles/investors-reactin
     <p>For shareholders and market watchers, this move forces a hard look at the company's long-term investment narrative. Can aggressive consolidation successfully protect operating margins against persistent livestock scarcity, or does it signal deeper, more structural headwinds for the meatpacking industry?</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -44,13 +44,13 @@ Seagate Portable External Hard Drive ($59.99)
     <h2>The Financial Impact: Margins, Cash Flow, and Valuation</h2>
     <p>To evaluate Tyson Foods today, investors must separate the volatile, commodity-driven Beef segment from its steadier consumer brands and prepared foods portfolios. The core financial tension centers on whether structural cost-cutting can stanch the bleeding in beef faster than herd contraction drives input prices even higher.</p>
     
-    <p>Tyson's updated guidance projects sales growth of 2.5% to 3.5%, offering a baseline before factoring in the immediate friction of plant wind-downs and asset sales. Meanwhile, management's decision to maintain its quarterly dividend of US$0.51 per Class A share sends a clear signal of confidence in aggregate cash generation, backed by strong performances in chicken and prepared foods.</p>
+    <p>Tyson's updated guidance projects sales growth of 2.5% to 3.5%, offering a baseline before factoring in the immediate friction of plant wind-downs and asset sales. Meanwhile, management's decision to maintain its quarterly dividend of US per Class A share sends a clear signal of confidence in aggregate cash generation, backed by strong performances in chicken and prepared foods.</p>
     
     <div class="ncg-quote-box">
       <p>"When input scarcity squeezes operating margins, the question isn't just whether a company can cut costs, but whether its core pricing power can survive the adjustment."</p>
     </div>
 
-    <p>Long-term projections mapped out to 2029 paint an ambitious picture: targeting $58.1 billion in revenue and $2.5 billion in earnings. Achieving those milestones requires modest annual revenue growth of about 1.4% paired with a massive operational earnings recovery from today's $453.0 million baseline. Analysts tracking a fair value around $68.50—representing notable upside from current trading levels—are essentially betting that this restructuring removes the heavy anchor that the Beef segment has been dragging for years.</p>
+    <p>Long-term projections mapped out to 2029 paint an ambitious picture: targeting  billion in revenue and  billion in earnings. Achieving those milestones requires modest annual revenue growth of about 1.4% paired with a massive operational earnings recovery from today's  million baseline. Analysts tracking a fair value around —representing notable upside from current trading levels—are essentially betting that this restructuring removes the heavy anchor that the Beef segment has been dragging for years.</p>
   </section>
 
   <section class="ncg-section" id="broader-market">
@@ -104,7 +104,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -112,7 +112,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -35,12 +35,12 @@ source_url: 'https://www.cbsnews.com/live-updates/us-iran-war-deal-expired-strai
     <p>Monday marked the formal expiration of a 60-day memorandum of understanding signed by the United States and Iran, which was originally intended to pave the way for a broader regional peace deal. Instead of a breakthrough, the milestone arrived amid a flurry of diplomatic friction and rising military posturing.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
 
-    <p>President Donald Trump stated in the Oval Office that Iran is unwilling to make the kind of deal necessary to prevent it from acquiring nuclear weapons, adding that he views the idea of declaring the Strait of Hormuz a US territory as "a great idea" enforced by ongoing military blockades. Meanwhile, Jared Kushner met with regional leaders in Israel regarding broader Middle East diplomacy, and Brent crude oil prices ticked upward past $90 a barrel as markets digested the persistent uncertainty surrounding Persian Gulf shipping routes.</p>
+    <p>President Donald Trump stated in the Oval Office that Iran is unwilling to make the kind of deal necessary to prevent it from acquiring nuclear weapons, adding that he views the idea of declaring the Strait of Hormuz a US territory as "a great idea" enforced by ongoing military blockades. Meanwhile, Jared Kushner met with regional leaders in Israel regarding broader Middle East diplomacy, and Brent crude oil prices ticked upward past  a barrel as markets digested the persistent uncertainty surrounding Persian Gulf shipping routes.</p>
     <p>Compounding the diplomatic friction, Iranian officials condemned a recent drone attack in Iraq's northern Kurdish region, while US Central Command continued managing complex, extended naval deployments in the region.</p>
   </section>
 
@@ -57,7 +57,7 @@ Tactical Waterproof Backpack ($35.99)
 
   <section id="economic-ripple">
     <h2>The Economic Ripple: Oil, Markets, and Everyday Costs</h2>
-    <p>The geopolitical stalemate is not merely a diplomatic abstract; it has immediate financial consequences. As news of the expired 60-day window broke, Wall Street equities edged lower while international Brent crude climbed 2.7% to $90.87 a barrel.</p>
+    <p>The geopolitical stalemate is not merely a diplomatic abstract; it has immediate financial consequences. As news of the expired 60-day window broke, Wall Street equities edged lower while international Brent crude climbed 2.7% to  a barrel.</p>
     <p>For ordinary consumers, oil price volatility driven by Persian Gulf uncertainty translates directly into higher fuel costs at the pump, increased transportation expenses for goods, and renewed pressure on inflation. When energy markets realize that normal tanker traffic through the Strait of Hormuz cannot be guaranteed, risk premiums immediately embed themselves into the global economy.</p>
   </section>
 
@@ -114,7 +114,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -122,7 +122,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

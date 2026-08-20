@@ -36,7 +36,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/live-blog/elections-
 <p>The recent primary contests across several states brought dramatic shifts to the political landscape. In Florida, the gubernatorial race is officially set: Republican Representative Byron Donalds, backed by President Donald Trump, will face David Jolly, a former Republican congressman turned independent critic. Meanwhile, unexpected drama unfolded on the Democratic side, where democratic socialist Angie Nixon scored a major upset victory over former National Security Council aide Alex Vindman in the Florida Senate primary.</p>
 
 <div class="ncg-product-box" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B07V5W3Z86?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">ESV Study Bible (Cloth Over Board, Timeless Trues)</a> - A comprehensive guide for studying biblical wisdom and historical context. Price: $29.99
+  <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B07V5W3Z86?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">ESV Study Bible (Cloth Over Board, Timeless Trues)</a> - A comprehensive guide for studying biblical wisdom and historical context. 
 </div>
 
 <p>Incumbency and high-profile endorsements proved no match for voter discontent in several key races. In Florida’s 7th District, former television journalist Ryan Elijah defeated Representative Cory Mills, who had faced a flurry of ethical investigations and scrutiny. Up north in Wyoming, state Senator Eric Barlow captured the Republican gubernatorial nomination, defeating state Superintendent Megan Degenfelder, who also carried a coveted Trump endorsement. These races highlight a recurring political reality: voters are constantly weighing past performance against the promise of change.</p>
@@ -47,18 +47,18 @@ source_url: "https://www.nbcnews.com/politics/2026-election/live-blog/elections-
 <p>Watching politicians jockey for influence, secure endorsements, and navigate public scandals often feels like watching an endless theater of human striving. The sudden rise of outsiders and the unexpected falls of established figures remind us how quickly earthly standing can shift. Political campaigns require immense amounts of pride, self-promotion, and the assertion that one's own voice is uniquely qualified to lead.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="ncg-product-box" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B08G3V3H1S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World</a> - Encourages grounding ourselves outside of chaotic political cycles. Price: $14.99
+  <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B08G3V3H1S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World</a> - Encourages grounding ourselves outside of chaotic political cycles. 
 </div>
 
 <p>Yet, history and scripture consistently show that human power is a fleeting vapor. When candidates stake their entire identity on winning an election, defeat feels devastating, and victory often breeds a false sense of invincibility. This cycle of ambition invites a deeper look into what truly anchors our lives beyond the ballot box.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -72,25 +72,25 @@ Tactical Waterproof Backpack ($35.99)
 <p>This political turbulence makes me think about how easily humanity places its ultimate trust in rulers and systems that ultimately pass away. Scripture offers a steadying anchor amid the noise of campaign trails and primary upsets.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Proverbs 19:21 reminds us: <em>"Many are the plans in a person’s heart, but it is the Lord’s purpose that prevails."</em> (NIV). No matter how much money is spent, how many endorsements are secured, or how carefully a political strategy is mapped out, human control has strict limits.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <div class="ncg-product-box" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1535902796?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Christian Ethics: Contemporary Issues and Options</a> - A thoughtful look at navigating cultural and political questions through a faith lens. Price: $34.99
+  <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1535902796?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Christian Ethics: Contemporary Issues and Options</a> - A thoughtful look at navigating cultural and political questions through a faith lens. 
 </div>
 
 <p>Furthermore, Psalm 146:3-4 cautions us: <em>"Do not put your trust in princes, in human beings, who cannot save. When their spirit departs, they return to the ground; on that very day their plans come to nothing."</em> (NIV). This is not an argument for civic apathy, but rather a call for spiritual sobriety. Leaders rise and fall, primaries are won and lost, but our ultimate security rests far beyond any legislative chamber.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -100,7 +100,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>As believers observe the 2026 primary results, our response should be marked by discernment rather than despair or triumphalism. Here are three concrete ways to approach political news faithfully:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <ul>
@@ -110,7 +110,7 @@ Tactical Waterproof Backpack ($35.99)
 </ul>
 
 <div class="ncg-product-box" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0310451390?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">NIV Application Commentary Bundle: Old and New Testament</a> - Deepen your understanding of ancient wisdom for modern civic life. Price: $59.99
+  <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0310451390?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">NIV Application Commentary Bundle: Old and New Testament</a> - Deepen your understanding of ancient wisdom for modern civic life. 
 </div>
 </section>
 

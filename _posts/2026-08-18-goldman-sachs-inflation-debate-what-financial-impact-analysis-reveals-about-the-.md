@@ -20,7 +20,7 @@ source_url: 'https://investinglive.com/central-banks/goldman-sachs-labour-market
 <p>When Wall Street turns its gaze toward the Federal Reserve, the traditional playbook says to watch the jobs report like a hawk. But according to Goldman Sachs, that old rulebook is currently gathering dust. While recent payroll data flashed warning signs, senior voices on Wall Street argue that the labor market is simply "not that interesting" right now. Instead, inflation prints, persistent structural deficits, and a massive wave of corporate borrowing for artificial intelligence are calling the shots for central bank policy and moving the bond market.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>The real action is happening on the supply side of the bond market. Two massive structural forces are driving up the term premium—the extra compensation investors demand for holding long-term debt:</p>
 <ul>
   <li><strong>Persistent Fiscal Deficits:</strong> Ongoing government borrowing requires continuous, heavy Treasury issuance. Even though recent 10-year and 30-year Treasury auctions—with the 10-year yielding its highest level since 2007—were well-absorbed by eager buyers, the sheer volume of debt keeps upward pressure on long-term yields.</li>
-  <li><strong>Corporate Borrowing for AI Infrastructure:</strong> Beyond government debt, heavy corporate issuance tied to the artificial intelligence buildout is adding to the supply glut. Goldman Sachs estimates this tech-driven corporate debt wave could reach $250 billion this year and as much as $400 billion next year.</li>
+  <li><strong>Corporate Borrowing for AI Infrastructure:</strong> Beyond government debt, heavy corporate issuance tied to the artificial intelligence buildout is adding to the supply glut. Goldman Sachs estimates this tech-driven corporate debt wave could reach  billion this year and as much as  billion next year.</li>
 </ul>
 
 <p>This heavy supply dynamic means long-term yields are likely to remain elevated regardless of near-term data surprises or minor adjustments to short-term Federal Reserve policy rates.</p>
@@ -123,7 +123,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -131,7 +131,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

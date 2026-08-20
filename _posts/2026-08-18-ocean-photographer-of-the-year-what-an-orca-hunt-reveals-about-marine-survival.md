@@ -35,7 +35,7 @@ source_url: 'https://gizmodo.com/award-winning-ocean-photographs-reveal-the-afte
 <p>The annual Ocean Photographer of the Year competition is much more than a celebration of aesthetic beauty. It functions as a global archive of changing marine habitats, dividing its entries into categories like adventure, conservation, and human connection. This year's collection features images that provoke wonder, such as a male cardinalfish sheltering its young inside its mouth, balanced against stark reminders of human impact, like a silky shark ensnared by an illegal longline hook in the Gulf of California.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 <p>Yet, the images capturing apex predators in action consistently draw the most profound public reaction. They force us to look past the serene blue expanse of the ocean surface and confront the complex, high-stakes ecosystem operating beneath it.</p>
@@ -89,7 +89,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -97,7 +97,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

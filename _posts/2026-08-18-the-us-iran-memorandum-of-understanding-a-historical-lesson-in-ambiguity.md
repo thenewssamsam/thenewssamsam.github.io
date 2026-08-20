@@ -21,14 +21,14 @@ source_url: 'https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-unde
     <p>The expiration of the June 17 Memorandum of Understanding (MoU) between the United States and Iran marks a sobering end to a brief, fragile attempt at de-escalation. Designed to freeze hostilities and stabilize the volatile Strait of Hormuz, the agreement collapsed under the weight of its own imprecise language. For students of history, this failure offers a familiar and painful reminder: in high-stakes diplomacy, the devil is not just in the details—it is in the definitions.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
   </section>
 
   <section id="what-happened">
     <h2>The Collapse of the June 17 Agreement</h2>
-    <p>The MoU, brokered by Pakistan, was intended to be a 60-day bridge toward a comprehensive peace deal. It included ambitious provisions: a total ceasefire, the removal of naval blockades, and a $300 billion reconstruction package for Iran. However, within weeks, the agreement disintegrated. Disagreements over maritime routes in the Strait of Hormuz led to targeted strikes, while the exclusion of third-party actors like Israel from the ceasefire terms rendered the "permanent termination of military operations" virtually unenforceable.</p>
+    <p>The MoU, brokered by Pakistan, was intended to be a 60-day bridge toward a comprehensive peace deal. It included ambitious provisions: a total ceasefire, the removal of naval blockades, and a  billion reconstruction package for Iran. However, within weeks, the agreement disintegrated. Disagreements over maritime routes in the Strait of Hormuz led to targeted strikes, while the exclusion of third-party actors like Israel from the ceasefire terms rendered the "permanent termination of military operations" virtually unenforceable.</p>
   </section>
 
   <section id="historical-parallel">
@@ -85,7 +85,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -93,7 +93,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -27,15 +27,15 @@ source_url: 'https://www.nbcnews.com/politics/justice-department/book-prosecutor
     <p>The case revolves around an Instagram post made by Comey nearly a year ago, featuring seashells arranged to spell "8647." Prosecutors argue this was a coded message, referencing the slang term "86" (meaning to kill or get rid of) and the number 47 (referring to the 47th President). Comey, who has pleaded not guilty, claims the post was innocent, yet prosecutors note that his wife sent him a definition of "86" just minutes before the post went live.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <div class="ncg-product-box" style="border: 2px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B000000000" target="_blank" rel="noopener">"The Power of Words: A Guide to Intentional Communication" - $14.99</a></p>
+      <p><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B000000000" target="_blank" rel="noopener">"The Power of Words: A Guide to Intentional Communication" - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -43,7 +43,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>The government's filing characterizes Comey as a man whose own fiction mirrors his alleged actions, comparing him to the antagonist in his novel who uses coded online messages to incite violence against political enemies. Comey’s defense argues that "8647" is a widely used protest phrase, but the prosecution maintains that context—including the author's own fictional work—makes this specific instance a criminal matter.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -53,14 +53,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>The book of Proverbs reminds us: <em>"Death and life are in the power of the tongue, and those who love it will eat its fruits"</em> (Proverbs 18:21, ESV). In our digital age, the "tongue" has expanded to include our keyboards, our posts, and the images we curate for the world to see.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>This case serves as a sobering reminder that we are responsible for the seeds we sow in the digital public square. Whether or not Comey’s actions meet the legal threshold for a "true threat," the situation highlights the danger of cavalier communication. As Christians, we are called to be salt and light, which requires a discipline of speech that prioritizes truth and peace over provocation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -73,7 +73,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p><em>"But I tell you, on the day of judgment people will give account for every careless word they speak"</em> (Matthew 12:36, ESV). This verse invites us to consider the gravity of our online interactions. When we engage in discourse, are we seeking to build up, or are we merely adding to the noise and potential malice of the culture?</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -92,7 +92,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The Comey seashells case is more than a legal debate over slang definitions; it is a mirror reflecting the state of our public discourse. Whether in a courtroom or on an Instagram feed, our words have consequences. May we be people who speak with wisdom, recognizing that our digital presence is part of our witness to the world.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

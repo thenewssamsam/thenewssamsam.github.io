@@ -60,7 +60,7 @@ source_url: 'https://www.bbc.com/news/live/c9gk4e30jp40t'
   <p>The trial opened in Las Vegas with Shaimaa Khalil reporting from the courtroom as Duane "Keffe D" Davis entered wearing a blue suit, scanning the gallery before sitting quietly beside his legal counsel. Prosecutors wasted no time laying out their central thesis: that Davis orchestrated Shakur's killing as an act of retaliation for an altercation involving his nephew earlier that same evening.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
   <p>The prosecution's argument rests heavily on an unexpected source—Davis himself. Prosecutors told the jury they will learn from Davis's own words in his memoir, <em>Compton Street Legend</em>. In the book, Davis details his presence in the white Cadillac at the scene of the shooting and describes supplying the weapon that was passed into the back seat to fire upon Tupac and record-label boss Suge Knight.</p>
@@ -130,7 +130,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -138,7 +138,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

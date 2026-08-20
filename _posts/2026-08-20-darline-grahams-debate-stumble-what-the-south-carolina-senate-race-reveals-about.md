@@ -23,10 +23,10 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/19/darline-graham-deba
     <p>During the final debate before next week's South Carolina Republican runoff, candidate Darline Graham—sister of the late Senator Lindsey Graham—made a confession that rippled through the opera house venue. When pressed on her stance regarding US national security in the South China Sea and the defense of Taiwan, she was blunt: “I’m not that informed on national security.”</p>
     
     <div style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Reading:</strong> <a href="#">Understanding Modern Geopolitics - $18.99</a></p>
+      <p><strong>Recommended Reading:</strong> <a href="#">Understanding Modern Geopolitics - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
     </div>
@@ -34,7 +34,7 @@ CeraVe Hydrating Facial Cleanser ($14.99)
     <p>While her opponent, Representative Ralph Norman, utilized the question to demonstrate his grasp of foreign policy, Graham leaned into her identity as an unpolished outsider. The reaction from the audience—a mixture of gasps and boos—highlights a growing tension in American politics: do voters want a seasoned policy expert, or are they prioritizing an authentic "outsider" who reflects their own lack of familiarity with complex international crises?</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-AMANSSE Lightweight Running Shoes ($65.99)
+AMANSSE Lightweight Running Shoes 
 </a></div>
 
   </section>
@@ -44,7 +44,7 @@ AMANSSE Lightweight Running Shoes ($65.99)
     <p>From a behavioral perspective, Graham’s admission is a fascinating case study in <em>radical transparency</em>. In high-stakes political environments, candidates typically employ "impression management," using jargon to mask gaps in knowledge. By admitting her ignorance, Graham triggered a psychological shift in the room.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-AMANSSE Lightweight Running Shoes ($65.99)
+AMANSSE Lightweight Running Shoes 
 </a></div>
 
     
@@ -52,7 +52,7 @@ AMANSSE Lightweight Running Shoes ($65.99)
     <p>Voters often face a trade-off between perceived <em>warmth</em> (authenticity) and <em>competence</em>. Graham’s admission increases her perceived warmth—she feels like a "real person"—but it simultaneously triggers a <em>competence risk</em> for voters who prioritize national security. This creates a state of cognitive dissonance for her supporters: they value her honesty, yet they feel uneasy about her lack of preparation for the Senate’s role in foreign affairs.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-FitVille Comfortable Running Shoes ($69.99)
+FitVille Comfortable Running Shoes 
 </a></div>
 
 
@@ -63,15 +63,15 @@ FitVille Comfortable Running Shoes ($69.99)
     <p>Furthermore, the audience's reaction reflects <em>normalcy bias</em>. We expect Senate candidates to be experts in foreign policy. When that expectation is violated, the psychological discomfort manifests as audible booing. Graham is banking on the idea that her supporters view the "establishment" as untrustworthy, making her admission a badge of honor rather than a disqualification.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
     
     <div style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Reading:</strong> <a href="#">The Psychology of Leadership - $24.50</a></p>
+      <p><strong>Recommended Reading:</strong> <a href="#">The Psychology of Leadership - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-FitVille Comfortable Running Shoes ($69.99)
+FitVille Comfortable Running Shoes 
 </a></div>
 
     </div>
@@ -82,13 +82,13 @@ FitVille Comfortable Running Shoes ($69.99)
     <p>Watching this debate, I am reminded that the ability to admit what we do not know is often the beginning of true wisdom. Proverbs 11:2 reminds us, <em>"When pride comes, then comes disgrace, but with humility comes wisdom."</em> While the political arena demands confidence, there is a profound moral weight to the role of a leader—especially one tasked with decisions that involve the safety and lives of others.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-FitVille Comfortable Running Shoes ($69.99)
+FitVille Comfortable Running Shoes 
 </a></div>
 
     <p>Scripture invites us to consider the gravity of stewardship. Whether in a local community or the halls of the Senate, leadership is not just about being "polished"; it is about being equipped to protect the vulnerable. As we watch this race unfold, it encourages me to pray for leaders who possess not only the courage to be honest about their limitations but also the diligence to seek the knowledge required to serve with excellence and integrity.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-FitVille Comfortable Running Shoes ($69.99)
+FitVille Comfortable Running Shoes 
 </a></div>
 
   </section>
@@ -102,10 +102,10 @@ FitVille Comfortable Running Shoes ($69.99)
     </ul>
     
     <div style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Reading:</strong> <a href="#">Government and Policy Guide - $12.00</a></p>
+      <p><strong>Recommended Reading:</strong> <a href="#">Government and Policy Guide - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
     </div>

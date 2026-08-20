@@ -22,12 +22,12 @@ source_url: 'https://www.fox9.com/news/ellison-brings-medicaid-fraud-charges-aga
 <p>The recent arrest and indictment of Salman Elmi in Minnesota on Medicaid fraud charges—with troubling ties to a separate sex trafficking investigation—has stunned local observers. Beyond the courtroom facts, the case provides a stark window into the cognitive mechanics of deceit, the dangers of halo perception, and why seemingly successful entrepreneurs sometimes gamble everything.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
 <h2 id="what-happened">What Happened in the Case</h2>
-<p>Salman Elmi, who in 2021 was celebrated by the Minnesota Department of Human Services as an "outstanding refugee" and entrepreneur, is now facing multiple felony charges. According to prosecutors, Elmi and his co-conspirators billed Medicaid for more than $1 million through a Golden Valley-based business called Reva Health, which provided autism and adult mental health services.</p>
+<p>Salman Elmi, who in 2021 was celebrated by the Minnesota Department of Human Services as an "outstanding refugee" and entrepreneur, is now facing multiple felony charges. According to prosecutors, Elmi and his co-conspirators billed Medicaid for more than  million through a Golden Valley-based business called Reva Health, which provided autism and adult mental health services.</p>
 
 <p>Authorities allege the enterprise involved falsifying documents, paying kickbacks to individuals for their personal information, and fabricating claims for services that were never rendered. Compounding the shock, state investigators revealed that key figures within the fraudulent network have direct connections to a major sex trafficking ring busted in Hennepin County, while Elmi reportedly used his association with a separate AI restaurant startup—backed by a <em>Shark Tank</em> investor—to help secure financial footing.</p>
 
@@ -70,7 +70,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -78,7 +78,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

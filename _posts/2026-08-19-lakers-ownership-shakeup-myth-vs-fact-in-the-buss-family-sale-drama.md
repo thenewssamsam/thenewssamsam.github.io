@@ -30,25 +30,25 @@ source_url: "https://www.nbcnews.com/news/us-news/tuesday-primaries-buss-family-
       <p><strong>Myth:</strong> The Buss family has reached a unanimous agreement to sell their remaining 17.8% stake in the Lakers.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
       <p><strong>Fact:</strong> Jeanie Buss, the entity with controlling authority, has explicitly denied this. Her legal team stated that no such agreement has been reached, directly contradicting the previous reports of a collective family decision.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
       <p><strong>Myth:</strong> Mark Walter’s sale of his portion of the team automatically triggers a full sale of the franchise.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
       <p><strong>Fact:</strong> While Mark Walter moved to sell his ownership interest to Kushner and Iger, this is a separate transaction. Ownership of the Lakers is complex, and the movement of one shareholder's stake does not unilaterally force the sale of the Buss family's remaining interest.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -59,13 +59,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>This situation reminds me of the biblical principle that <em>"a house divided against itself cannot stand"</em> (Matthew 12:25). When conflict arises—whether in a family or a business—the truth often becomes obscured by competing narratives. We are reminded in Proverbs 18:17, <em>"The one who states his case first seems right, until the other comes and examines him."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>It is a humble reminder that we should be cautious about accepting the first headline we read. In our own lives, when we face disagreements or public scrutiny, seeking clarity and holding onto the truth is essential. We are invited to consider that peace and unity require more than just financial agreements; they require transparency and a commitment to one another that transcends the bottom line.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -74,7 +74,7 @@ Tactical Waterproof Backpack ($35.99)
     <p><em>"In the world of high-stakes sports ownership, the loudest report is rarely the final word. Clarity is found in the legal record, not the rumor mill."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>

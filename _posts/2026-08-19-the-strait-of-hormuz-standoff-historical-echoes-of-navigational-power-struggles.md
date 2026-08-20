@@ -24,7 +24,7 @@ source_url: "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceas
     <p>The Strait of Hormuz, which historically accounts for roughly 20% of global oil trade, has seen its traffic dwindle to a trickle. Following the expiration of a short-lived ceasefire, the U.S. and Iran have hardened their positions. While President Trump claims the strait is demined and under U.S. control, reports of projectile attacks on cargo vessels and Iranian missile tests near the UAE suggest a volatile reality. The White House’s rhetoric regarding the potential for designating the strait as a U.S. territory has raised significant alarms regarding international maritime law.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -34,7 +34,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>History provides a sobering framework for the current crisis. Throughout the 20th century, struggles over maritime chokepoints—such as the Suez Canal Crisis of 1956—demonstrated that asserting unilateral control over international waters often triggers broader, unforeseen escalations.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -42,7 +42,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>In 1956, when Egypt nationalized the Suez Canal, the ensuing intervention by Britain, France, and Israel was driven by a desire to protect "vital" transit. The result was not just local conflict, but a massive shift in global power dynamics that ultimately accelerated the decline of British colonial influence. Similarly, the current U.S. focus on the Strait of Hormuz risks isolating traditional regional partners, such as Oman, who have historically acted as essential intermediaries.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -50,7 +50,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>During the 1980s "Tanker War," both Iran and Iraq targeted commercial vessels to cripple each other's economies. That conflict highlighted a recurring historical pattern: when a superpower attempts to enforce a naval blockade, the costs—both economic and diplomatic—rarely remain contained. The current standoff bears striking resemblances, as both sides use the strait as leverage rather than seeking a sustainable diplomatic off-ramp.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -64,13 +64,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>This escalating tension brings to mind the wisdom found in Proverbs 15:1: "A soft answer turns away wrath, but a harsh word stirs up anger." In the midst of political maneuvering and the desire for control, there is a fundamental human tendency to meet force with force. We see this today in the hardening of positions between Washington and Tehran.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>I am reminded that true security is rarely found in the strength of a blockade or the volume of a threat. Scripture invites us to consider that peace is a pursuit that requires humility rather than just power. As we watch these events unfold, it is a sobering reminder of the fragility of human systems. <em>"Blessed are the peacemakers, for they shall be called sons of God"</em> (Matthew 5:9). This verse challenges us to look beyond the immediate desire for dominance and consider the long-term cost of conflict on the vulnerable who suffer when trade routes are shuttered and fear takes hold.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

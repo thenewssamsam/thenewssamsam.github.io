@@ -26,16 +26,16 @@ source_url: 'https://www.bbc.com/news/articles/clylkv4z59vo'
         <p>The American victims identified include NBCUniversal journalist José Alberto Suárez and Miami restaurateur Roger Duarte. The remaining four passengers have not yet been named by authorities. The crash has drawn international attention, not only due to the high-profile nature of the victims but because of the recurring questions regarding aviation safety in the region following a series of similar incidents in recent years.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </section>
 
     <div style="border-left: 4px solid #gold; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-        <p><strong>Recommended for Travelers:</strong> If you are planning a trip, staying prepared is key. Check out this <strong><a href="https://www.amazon.com/dp/B07X4K8V4Q" target="_blank" rel="noopener noreferrer">Portable First Aid Kit - $24.99</a></strong> to keep in your gear.</p>
+        <p><strong>Recommended for Travelers:</strong> If you are planning a trip, staying prepared is key. Check out this <strong><a href="https://www.amazon.com/dp/B07X4K8V4Q" target="_blank" rel="noopener noreferrer">Portable First Aid Kit - </a></strong> to keep in your gear.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -45,14 +45,14 @@ Seagate Portable External Hard Drive ($59.99)
         <p>When news of such a sudden loss breaks, it forces a moment of introspection. Whether one is a public figure or a private citizen, the reality remains that our time on earth is not guaranteed. From a perspective of self-improvement and life philosophy, this event highlights three critical lessons:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
         <h3>1. The Necessity of Presence</h3>
         <p>In our modern, high-speed world, we often live for "the next thing"—the next meeting, the next vacation, the next promotion. This tragedy reminds us that the only moment we truly possess is the present. Taking the time to fully engage with our loved ones is not just a nicety; it is a vital practice.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -64,16 +64,16 @@ Tactical Waterproof Backpack ($35.99)
         <p>We often operate under the illusion of control. We plan routes, schedule flights, and manage complex intelligence operations. Yet, as this incident proves, external circumstances can override our best-laid plans in an instant. Cultivating humility means acknowledging our limitations and approaching each day with gratitude rather than entitlement.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </section>
 
     <div style="border-left: 4px solid #gold; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-        <p><strong>Stay Organized:</strong> Keep your travel documents safe with this <strong><a href="https://www.amazon.com/dp/B0821M5K7W" target="_blank" rel="noopener noreferrer">RFID Blocking Travel Wallet - $15.99</a></strong>.</p>
+        <p><strong>Stay Organized:</strong> Keep your travel documents safe with this <strong><a href="https://www.amazon.com/dp/B0821M5K7W" target="_blank" rel="noopener noreferrer">RFID Blocking Travel Wallet - </a></strong>.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -83,13 +83,13 @@ Tactical Waterproof Backpack ($35.99)
         <p>Tragedy often invites us to look beyond the immediate horizon. The Bible speaks to the fleeting nature of our earthly journey in James 4:14, which says, <em>"Why, you do not even know what will happen tomorrow. What is your life? You are a mist that appears for a little while and then vanishes."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         <p>This does not mean we should live in fear, but rather that we should live with intentionality. It reminds me that our worth is not tied to our titles or our professional achievements, but to our relationship with the Creator who holds our future. As we process news of lives cut short, we are invited to consider the legacy we are building—not just in our careers, but in how we love our neighbors and serve those around us. Psalm 90:12 offers a poignant prayer: <em>"Teach us to number our days, that we may gain a heart of wisdom."</em> This wisdom is found when we stop chasing the temporary and start investing in the eternal.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </section>

@@ -26,7 +26,7 @@ source_url: "https://katu.com/news/nation-world/florida-voters-choose-nominees-i
       <p><strong>Recommended for Informed Voters:</strong> <em>The Price of Politics</em> by Bob Woodward - <a href="https://www.amazon.com/dp/1451651112?tag=thenewssam-20" target="_blank">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -34,7 +34,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>On the Democratic side, former U.S. Rep. David Jolly has separated himself from the pack through superior fundraising. Jolly’s shift from the GOP to the Democratic Party in 2025 marks a unique financial pivot, as he attempts to appeal to a broad coalition of voters concerned about the rising cost of living in Florida.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -44,7 +44,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The financial impact on the average Floridian hinges on how the next governor addresses the state’s most pressing economic challenges. David Jolly has made housing, insurance costs, and health care the pillars of his campaign. For residents grappling with rising homeowner insurance premiums and rent hikes, these policy distinctions are not abstract; they represent potential shifts in household budgets.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -52,7 +52,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>Essential Reading:</strong> <em>The Housing Trap</em> - <a href="https://www.amazon.com/dp/B08V8R5J9P?tag=thenewssam-20" target="_blank">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -60,7 +60,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Conversely, the Republican field, led by Donalds, typically emphasizes fiscal conservatism, tax policy, and business-friendly regulation as the primary drivers for economic growth. The transition from the current administration to the next will likely determine whether the state prioritizes direct intervention in insurance markets or focuses on supply-side economic stimulation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -70,13 +70,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>As we observe the shifting political landscape, I am reminded that the management of a state’s resources—much like the management of our own personal finances—requires wisdom and a heart for the vulnerable. Proverbs 22:7 reminds us, "The rich rules over the poor, and the borrower is the slave of the lender." This verse invites us to consider the heavy weight of debt and the impact that economic policy has on those who are least able to weather financial storms.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Whether in our own homes or in the halls of government, the principle of stewardship remains: "Each of you should use whatever gift you have received to serve others, as faithful stewards of God’s grace in its various forms" (1 Peter 4:10). This election is a reminder that our civic duties are an extension of our call to care for our neighbors and to seek justice for the common good.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

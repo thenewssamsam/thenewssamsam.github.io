@@ -37,7 +37,7 @@ source_url: 'https://www.wired.com/story/what-el-nino-means-weather-water-global
     <p>What makes the current cycle uniquely jarring is its rapid acceleration. While previous super-events often emerged from already elevated baseline temperatures, this cycle began closer to neutral La Niña conditions before violently reversing course. As the massive amount of heat stored in the ocean releases into the atmosphere, it triggers a cascade of atmospheric shifts: severe droughts in Indonesia and southern Africa, parched conditions turning wetter in the American Southwest, and altered hurricane tracks across the Atlantic.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
     <p>Yet, focusing solely on local weather misses the broader systemic vulnerability. To understand what this climate volatility truly means for our interconnected world, we have to look backward at how past megacycles played out.</p>
@@ -62,7 +62,7 @@ Seagate Portable External Hard Drive ($59.99)
   <section id="economic-reality" class="ncg-section">
     <h2>The Trillion-Dollar Economic Toll</h2>
     <p>It is easy to view El Niño as a purely meteorological concern, but financial analysts know it as a massive macroeconomic shock. Weather dictates crop yields, energy demands, shipping routes, and insurance liabilities.</p>
-    <p>Economic retrospective studies on the 1997–98 super El Niño revealed a staggering cumulative loss of approximately $5.7 trillion over the subsequent five years. These losses manifested through depressed agricultural output, damaged infrastructure, lost working hours due to extreme heat, and surging prices for basic commodities like coffee, cocoa, and grains.</p>
+    <p>Economic retrospective studies on the 1997–98 super El Niño revealed a staggering cumulative loss of approximately  trillion over the subsequent five years. These losses manifested through depressed agricultural output, damaged infrastructure, lost working hours due to extreme heat, and surging prices for basic commodities like coffee, cocoa, and grains.</p>
     <p>When fisheries collapse off the coast of South America due to warm waters, global feed markets feel the pinch. When droughts stunt crops in Southeast Asia or southern Africa—where the recent super El Niño contributed to a severe century-long drought affecting millions—food inflation ripples outward to grocery store shelves worldwide. A climate shift in the tropical Pacific quickly translates into higher costs for households thousands of miles away.</p>
   </section>
 
@@ -115,7 +115,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -123,7 +123,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

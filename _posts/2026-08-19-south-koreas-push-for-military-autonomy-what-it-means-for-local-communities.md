@@ -24,7 +24,7 @@ source_url: "https://www.theguardian.com/world/2026/aug/18/south-korea-president
     <p>On Sunday, President Trump directed the Pentagon to "substantially reduce" the <em>Ulchi Freedom Shield</em> exercises, citing a "very good relationship" with North Korean leader Kim Jong-un. In response, President Lee emphasized that South Korea must expedite the transfer of wartime Opcon—the authority to command forces in the event of a conflict—which has been held by the US since 1953.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>
@@ -34,7 +34,7 @@ Crevice Cleaning Brush Set ($12.99)
     <p>For the average South Korean citizen, the presence of US troops and the regular cycle of joint drills have been a constant backdrop to life for over 70 years. The move toward military autonomy is often debated in terms of sovereignty, but for local communities, it hits closer to home.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     
@@ -42,7 +42,7 @@ Crevice Cleaning Brush Set ($12.99)
       <p><strong>"A strong alliance makes the foundation of security stronger, and strengthening our own capabilities increases our value and necessity as an ally."</strong> — President Lee Jae Myung</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     </div>
@@ -51,7 +51,7 @@ Crevice Cleaning Brush Set ($12.99)
     <p>When military exercises are scaled back, some residents feel a sense of relief from the immediate tension of drills, while others worry about the potential for a "security vacuum." The move to acquire nuclear-powered submarines and develop independent command structures is intended to ensure that South Korea can defend itself regardless of shifting international politics. For families in Seoul, this is about ensuring that their "peaceful daily lives" are not subject to the whims of foreign diplomatic cycles.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
 
@@ -59,19 +59,19 @@ Crevice Cleaning Brush Set ($12.99)
       <p><strong>Recommended for You:</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
-      <p><a href="#">Emergency Preparedness Go-Bag Kit - $45.99</a></p>
+      <p><a href="#">Emergency Preparedness Go-Bag Kit - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
-      <p><a href="#">Portable Power Bank for Home Emergencies - $29.99</a></p>
+      <p><a href="#">Portable Power Bank for Home Emergencies - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     </div>
@@ -82,13 +82,13 @@ Crevice Cleaning Brush Set ($12.99)
     <p>In times of national uncertainty, it is natural for communities to look for security in human alliances and military strength. Yet, Scripture invites us to consider where our ultimate confidence lies. Psalm 127:1 reminds us, <em>"Unless the Lord builds the house, the builders labor in vain. Unless the Lord watches over the city, the guards stand watch in vain."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     <p>This does not mean we ignore the need for wisdom or responsible defense; rather, it invites us to maintain a spirit of peace even when the geopolitical landscape feels volatile. As we navigate these shifts in our local communities, we are reminded to pray for leaders to act with discernment and for a peace that transcends political maneuvering.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>

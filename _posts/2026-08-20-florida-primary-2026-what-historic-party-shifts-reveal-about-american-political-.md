@@ -39,7 +39,7 @@ source_url: "https://www.cnn.com/2026/08/18/politics/live-news/florida-primary-e
 
   <!-- Amazon Recommendation 1 -->
   <div style="background: #fffdf5; border-left: 4px solid #f0c14b; padding: 12px 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-    <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Read:</strong> <a href="https://www.amazon.com/dp/B073X7W4K8?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Righteous Mind: Why Good People Are Divided by Politics and Religion</a> - $16.99. An essential exploration of the psychological and historical divides shaping modern political landscapes.</p>
+    <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Read:</strong> <a href="https://www.amazon.com/dp/B073X7W4K8?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Righteous Mind: Why Good People Are Divided by Politics and Religion</a> - . An essential exploration of the psychological and historical divides shaping modern political landscapes.</p>
   </div>
 
   <section id="historical-parallel" class="ncg-section">
@@ -47,7 +47,7 @@ source_url: "https://www.cnn.com/2026/08/18/politics/live-news/florida-primary-e
     <p>To understand the seismic shifts of the 2026 primaries, we must look beyond the immediate 24-hour news cycle and examine the recurring patterns of American political history. Insurgency within major political parties is rarely a modern invention; rather, it is a cyclical mechanism through which the electorate expresses fatigue with established power structures.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -55,14 +55,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>When grassroots or ideological factions challenge party leadership—such as Angie Nixon’s victory on the Democratic side or Eric Barlow’s upset in Wyoming—historians immediately recognize the echoes of 1912, when the Progressive "Bull Moose" movement shattered traditional party unity, or the chaotic Democratic primaries of 1968. In each of these eras, ordinary voters felt disconnected from party elites sitting in back rooms or national headquarters.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <p>However, history also teaches us the strict limits of these comparisons. While 1912 featured a complete ideological realignment that permanently altered American governance, mid-term and primary upsets often reflect transient local frustrations rather than sweeping national conversions. The friction between presidential endorsements and local primary outcomes—as seen in both Florida and Wyoming this week—demonstrates that brand loyalty to national figures frequently shatters against the hard rock of local constituent service and regional priorities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -76,14 +76,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Another striking parallel lies in the waning influence of high-profile executive endorsements. Historically, presidential coattails rarely extend deep into primary elections where local networks dominate. From the intra-party feuds of the New Deal era to the primary rebellions of the late 20th century, voters have consistently shown an independent streak when they perceive that national figures are attempting to override local self-determination.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
 
   <!-- Amazon Recommendation 2 -->
   <div style="background: #fffdf5; border-left: 4px solid #f0c14b; padding: 12px 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-    <p style="margin: 0; font-size: 0.95rem;"><strong>Civic Tool:</strong> <a href="https://www.amazon.com/dp/0393338010?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Federalist Papers</a> - $12.50. Deepen your understanding of constitutional checks and balances that govern American elections.</p>
+    <p style="margin: 0; font-size: 0.95rem;"><strong>Civic Tool:</strong> <a href="https://www.amazon.com/dp/0393338010?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Federalist Papers</a> - . Deepen your understanding of constitutional checks and balances that govern American elections.</p>
   </div>
 
   <section id="scripture-reflection" class="ncg-section">
@@ -91,28 +91,28 @@ Tactical Waterproof Backpack ($35.99)
     <p>When elections expose deep societal divisions and passionate debates over power and justice, it is easy to become consumed by partisan anxieties. Yet, stepping back to reflect on the broader moral landscape reminds us that human political systems are always imperfect vessels.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>This dynamic brings to mind the wisdom found in Proverbs 29:2: <em>"When the righteous thrive, the people rejoice; when the wicked rule, the people groan."</em> This verse invites us to consider that political stewardship is ultimately about the well-being of communities, urging citizens and leaders alike toward justice and integrity rather than mere partisan victory.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <p>Furthermore, Scripture cautions against placing ultimate trust in human leaders or political machinery. Psalm 146:3 reminds us: <em>"Do not put your trust in princes, in human beings, who cannot save."</em> This perspective offers a grounding anchor amidst the shifting tides of primary election results, reminding us that enduring hope transcends any single election cycle.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <!-- Amazon Recommendation 3 -->
   <div style="background: #fffdf5; border-left: 4px solid #f0c14b; padding: 12px 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-    <p style="margin: 0; font-size: 0.95rem;"><strong>Organizational Help:</strong> <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Atomic Habits by James Clear</a> - $14.80. Build constructive daily routines that keep you grounded amidst external noise.</p>
+    <p style="margin: 0; font-size: 0.95rem;"><strong>Organizational Help:</strong> <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Atomic Habits by James Clear</a> - . Build constructive daily routines that keep you grounded amidst external noise.</p>
   </div>
 
   <section id="reader-response" class="ncg-section">
@@ -120,7 +120,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Elections like the 2026 Florida and Wyoming primaries are more than spectator sports; they are barometers of civic engagement. Here are concrete ways to process these developments constructively:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <ul>
@@ -132,7 +132,7 @@ Tactical Waterproof Backpack ($35.99)
 
   <!-- Amazon Recommendation 4 -->
   <div style="background: #fffdf5; border-left: 4px solid #f0c14b; padding: 12px 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-    <p style="margin: 0; font-size: 0.95rem;"><strong>Note-Taking Essential:</strong> <a href="https://www.amazon.com/dp/B07V6WXQ64?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Moleskine Classic Notebook</a> - $22.00. Keep track of current events, candidate positions, and your own civic reflections.</p>
+    <p style="margin: 0; font-size: 0.95rem;"><strong>Note-Taking Essential:</strong> <a href="https://www.amazon.com/dp/B07V6WXQ64?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Moleskine Classic Notebook</a> - . Keep track of current events, candidate positions, and your own civic reflections.</p>
   </div>
 
   <section id="conclusion" class="ncg-section">
@@ -140,7 +140,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>As the dust settles on another primary night filled with upsets and establishment pushback, we are reminded that the American political experiment is an ongoing negotiation between tradition and reform. Every ballot cast is a vote for what could be, weighed against the lessons of what has already been tried. History shows us that while political players change, the underlying quest of citizens for representation and dignity remains constant.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p><em>True political renewal begins not with who wins an election, but with how faithfully a community cares for its members long after the ballots are counted.</em></p>
@@ -148,7 +148,7 @@ Seagate Portable External Hard Drive ($59.99)
 
   <!-- Amazon Recommendation 5 -->
   <div style="background: #fffdf5; border-left: 4px solid #f0c14b; padding: 12px 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-    <p style="margin: 0; font-size: 0.95rem;"><strong>Desk Accessory:</strong> <a href="https://www.amazon.com/dp/B085Z1K4SK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Anker USB C Hub for Laptop</a> - $34.99. Stay connected to breaking news and deep-dive analysis without missing a beat.</p>
+    <p style="margin: 0; font-size: 0.95rem;"><strong>Desk Accessory:</strong> <a href="https://www.amazon.com/dp/B085Z1K4SK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Anker USB C Hub for Laptop</a> - . Stay connected to breaking news and deep-dive analysis without missing a beat.</p>
   </div>
 
   <footer class="ncg-footer" style="margin-top: 30px; padding-top: 15px; border-top: 1px solid #e2d9cd; font-size: 0.9rem; color: #666;">

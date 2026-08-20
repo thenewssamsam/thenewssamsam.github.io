@@ -37,13 +37,13 @@ source_url: "https://www.cnn.com/2026/08/18/asia/trump-us-south-korea-military-e
 <p>The annual Ulchi Freedom Shield military exercise, designed to strengthen the defense capabilities of the United States and South Korea against mounting regional threats, was originally scheduled to run for 10 days. However, following a directive from Washington, the exercises were abruptly shortened to end on Friday, August 21.</p>
 
 <div style="background: #fff8e1; border-left: 4px solid #f39c12; padding: 12px 15px; margin: 15px 0; border-radius: 4px;">
-<strong>Amazon Recommendation:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Bose QuietComfort 45 Bluetooth Noise-Canceling Headphones</a> — $279.00 (Great for blocking out the constant noise of 24/7 news cycles and practicing mindfulness).
+<strong>Amazon Recommendation:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Bose QuietComfort 45 Bluetooth Noise-Canceling Headphones</a> —  (Great for blocking out the constant noise of 24/7 news cycles and practicing mindfulness).
 </div>
 
 <p>According to Pentagon officials, the adjustments involve scaling back associated live-training events, canceling certain maneuvers, or converting them into digital simulations. The stated goal is to preserve tactical readiness while responding to political developments. President Donald Trump publicly requested the reduction, citing his ongoing personal relationship with North Korean leader Kim Jong Un and describing the traditional drills as sending an "inappropriate and hostile" signal to Pyongyang. Meanwhile, South Korean President Lee Jae Myung expressed support for the diplomatic opening, even as the announcement reignited widespread discussions about regional security, defense spending, and international alliances.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -53,19 +53,19 @@ Tactical Waterproof Backpack ($35.99)
 <p>Most discussions surrounding international defense pacts focus strictly on hardware, strategy, and diplomacy. Yet, living in an era of rapid, unpredictable geopolitical shifts places a very real, tangible burden on our nervous systems. When major military exercises are cut short or reinstated based on sudden executive pronouncements, it creates a persistent background hum of uncertainty for people worldwide—and particularly for those living in Pacific regions.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>This phenomenon touches directly on what psychologists refer to as cumulative stress and ambient anxiety. We are not designed to comfortably digest rapid-fire updates about nuclear capabilities, broken alliances, and sudden diplomatic pivots while sitting at our kitchen tables. When the news cycle is saturated with unpredictable shifts between deterrence and detente, our bodies often respond with subtle fight-or-flight activations. Muscle tension, shallow breathing, disrupted sleep, and a pervasive sense of helplessness are common, normal responses to abnormal amounts of uncontrollable global information.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div style="background: #fff8e1; border-left: 4px solid #f39c12; padding: 12px 15px; margin: 15px 0; border-radius: 4px;">
-<strong>Amazon Recommendation:</strong> <a href="https://www.amazon.com/dp/B07V2V3C3S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Anxiety and Phobia Workbook</a> — $18.95 (An essential, evidence-based guide for managing everyday stress and global anxiety triggers).
+<strong>Amazon Recommendation:</strong> <a href="https://www.amazon.com/dp/B07V2V3C3S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Anxiety and Phobia Workbook</a> —  (An essential, evidence-based guide for managing everyday stress and global anxiety triggers).
 </div>
 
 <blockquote class="ncg-quote-box" style="border-left: 4px solid #27ae60; background: #f4f9f4; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0;">
@@ -75,7 +75,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>This makes me think about the timeless wisdom found in Proverbs 12:25, which reminds us that <em>"Anxiety in a man's heart weighs him down, but a good word makes him glad."</em> In our modern context, the relentless influx of breaking news acts as a heavy anchor on our emotional vitality. Recognizing when news consumption crosses the line from being informed to feeling overwhelmed is a vital act of psychological self-care. We cannot negotiate with international superpowers, but we can actively choose how much emotional real estate we rent out to headlines beyond our personal sphere of influence.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -85,7 +85,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>When international news leaves you feeling unsettled, feeling powerless is often the hardest part to bear. While you cannot single-handedly steer US-Asian foreign policy, you can take concrete steps to protect your peace of mind and mental equilibrium:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -97,7 +97,7 @@ Tactical Waterproof Backpack ($35.99)
 </ul>
 
 <div style="background: #fff8e1; border-left: 4px solid #f39c12; padding: 12px 15px; margin: 15px 0; border-radius: 4px;">
-<strong>Amazon Recommendation:</strong> <a href="https://www.amazon.com/dp/B099V52Z7B?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Weighted Blanket for Adults (15 lbs)</a> — $49.99 (Provides deep pressure stimulation to calm the nervous system during stressful times).
+<strong>Amazon Recommendation:</strong> <a href="https://www.amazon.com/dp/B099V52Z7B?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Weighted Blanket for Adults (15 lbs)</a> —  (Provides deep pressure stimulation to calm the nervous system during stressful times).
 </div>
 
 <p style="font-size: 0.9em; color: #7f8c8d; font-style: italic; margin-top: 15px;">Note: This is general information, not medical advice. If you are experiencing persistent anxiety or distress that interferes with your daily life, please consult a qualified healthcare or mental health professional.</p>

@@ -23,7 +23,7 @@ source_url: 'https://openai.com/index/openai-joins-ports-pike-project/'
 <p>Here is a closer look at the financial mechanics, economic tradeoffs, and monetary realities driving this monumental pivot toward American AI industrialization.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -43,7 +43,7 @@ Tactical Waterproof Backpack ($35.99)
 
 <p>OpenAI has officially signed an agreement to secure approximately 8 gigawatts of IT capacity at the PORTS-Pike Technology Campus, located at the former Portsmouth Gaseous Diffusion Plant site in Pike County, Ohio. Developed by SB Energy with NVIDIA hardware and federal site support, the project is structured to scale up through 2032.</p>
 
-<p>The numbers attached to the project are staggering. The buildout is projected to generate 35,000 construction jobs over a six-year window, followed by 2,500 permanent operating roles. Financial commitments include $40 million in community investments from OpenAI (supplementing a prior $40 million commitment from SB Energy), alongside $84 million in Codex credits for Ohio college students. On the corporate financing side, NVIDIA is committing $1.5 billion in SB Energy while providing credit support for land, power, and shell buildouts for the initial phases.</p>
+<p>The numbers attached to the project are staggering. The buildout is projected to generate 35,000 construction jobs over a six-year window, followed by 2,500 permanent operating roles. Financial commitments include  million in community investments from OpenAI (supplementing a prior  million commitment from SB Energy), alongside  million in Codex credits for Ohio college students. On the corporate financing side, NVIDIA is committing  billion in SB Energy while providing credit support for land, power, and shell buildouts for the initial phases.</p>
 
 <p>The initial 800 megawatts are slated to come online by 2028 using existing American Electric Power (AEP) infrastructure, while subsequent expansion will demand new power generation—including natural gas plants—and substantial transmission line construction.</p>
 
@@ -57,7 +57,7 @@ Tactical Waterproof Backpack ($35.99)
 
 <p>Unlike historical industrial projects where municipalities or regional utility ratepayers often bore the brunt of grid expansion costs, the financial architecture here attempts a different model. According to project disclosures, SB Energy will cover the full cost of grid upgrades and new transmission lines required to serve the facility. In theory, this isolates everyday residential and commercial utility ratepayers from absorbing the bill for a private tech corporation's soaring energy appetite.</p>
 
-<p>Furthermore, OpenAI's leasing model dictates that they will begin paying only as completed capacity becomes available for lease, funding these commitments through operational cash flow and investor capital rather than speculative debt. For NVIDIA, a $1.5 billion investment in SB Energy acts as a vertically integrated financial buffer, ensuring that the supply chain for compute infrastructure—from land acquisition to power shells—has robust credit backing from day one.</p>
+<p>Furthermore, OpenAI's leasing model dictates that they will begin paying only as completed capacity becomes available for lease, funding these commitments through operational cash flow and investor capital rather than speculative debt. For NVIDIA, a  billion investment in SB Energy acts as a vertically integrated financial buffer, ensuring that the supply chain for compute infrastructure—from land acquisition to power shells—has robust credit backing from day one.</p>
 
 <h2 id="economic-reality">Who Pays? The Grid, Ratepayers, and Infrastructure Costs</h2>
 
@@ -77,9 +77,9 @@ Tactical Waterproof Backpack ($35.99)
 
 <p>Pike County played a vital role in 20th-century American industrialization, and local officials are banking on this project to revitalize the regional labor market. The promised creation of 35,000 construction roles and 2,500 permanent operating jobs represents a significant economic injection for Southern Ohio.</p>
 
-<p>To ensure these jobs translate into local wealth rather than imported labor costs, the project features a Memorandum of Understanding with North America's Building Trades Unions, prioritizing local contractors, apprenticeships, and vocational training pipelines. Additionally, the combined $80 million in community grants aims to address local vulnerabilities in housing, healthcare, and education—areas that typically experience inflationary pressure when thousands of temporary construction workers flood a rural county.</p>
+<p>To ensure these jobs translate into local wealth rather than imported labor costs, the project features a Memorandum of Understanding with North America's Building Trades Unions, prioritizing local contractors, apprenticeships, and vocational training pipelines. Additionally, the combined  million in community grants aims to address local vulnerabilities in housing, healthcare, and education—areas that typically experience inflationary pressure when thousands of temporary construction workers flood a rural county.</p>
 
-<p>On the educational front, $84 million in Codex credits for Ohio college students represents a direct investment in workforce capital, equipping future labor markets with hands-on technical tools for the AI economy.</p>
+<p>On the educational front,  million in Codex credits for Ohio college students represents a direct investment in workforce capital, equipping future labor markets with hands-on technical tools for the AI economy.</p>
 
 <h2 id="how-readers-respond">How Should Readers and Communities Respond?</h2>
 
@@ -99,7 +99,7 @@ Tactical Waterproof Backpack ($35.99)
 <h3 id="faq">Quick FAQ</h3>
 <details class="ncg-faq">
 <summary>Who is funding the PORTS-Pike data center project?</summary>
-<p>The project is a collaborative effort involving OpenAI, SB Energy (which is building, owning, and operating the campus under a 20-year lease), and NVIDIA, which is investing $1.5 billion in SB Energy along with providing credit support.</p>
+<p>The project is a collaborative effort involving OpenAI, SB Energy (which is building, owning, and operating the campus under a 20-year lease), and NVIDIA, which is investing  billion in SB Energy along with providing credit support.</p>
 </details>
 <details class="ncg-faq">
 <summary>Will the project increase electricity rates for local Ohio residents?</summary>
@@ -131,7 +131,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -139,7 +139,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

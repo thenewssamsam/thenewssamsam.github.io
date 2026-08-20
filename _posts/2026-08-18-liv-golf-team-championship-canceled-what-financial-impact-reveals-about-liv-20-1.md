@@ -29,7 +29,7 @@ source_url: 'https://www.nytimes.com/athletic/7475248/2026/08/17/liv-golf-team-c
   <p>Instead, the venue showed no signs of construction for grandstands or hospitality tents. Fox Sports quietly removed the broadcast from its U.S. TV listings, and LIV finally stopped ticket sales just days before the announcement. At least three players—Tyrrell Hatton, Tom McKibbin, and Adrian Meronk—hedged their bets by registering for the DP World Tour's British Masters the same week.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -41,7 +41,7 @@ Tactical Waterproof Backpack ($35.99)
 
   <p>The numbers trickling out through legal filings tell the story of a sudden liquidity crunch:</p>
   <ul>
-    <li><strong>Unpaid Invoices:</strong> Broadcast technology provider Mobii filed a federal lawsuit in Miami last month seeking $1.13 million in outstanding bills, alleging LIV stopped paying its invoices this year after settling all 2025 debts.</li>
+    <li><strong>Unpaid Invoices:</strong> Broadcast technology provider Mobii filed a federal lawsuit in Miami last month seeking  million in outstanding bills, alleging LIV stopped paying its invoices this year after settling all 2025 debts.</li>
     <li><strong>Regulatory Warnings:</strong> LIV filed a Worker Adjustment and Retraining Notification (WARN) in New York on July 8, signaling preparations for potential workforce layoffs.</li>
     <li><strong>Leadership Shifts:</strong> Following PIF chairman Yasir Al-Rumayyan's departure from the board, LIV brought in turnaround specialist Gene Davis—whose firm has managed corporate restructurings for companies like Spirit Airlines and Weight Watchers.</li>
   </ul>
@@ -112,7 +112,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -120,7 +120,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

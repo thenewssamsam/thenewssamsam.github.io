@@ -37,7 +37,7 @@ source_url: 'https://www.vaticannews.va/en/pope/news/2026-08/pope-leo-deeply-sad
 <p>According to Indonesia's National Disaster Management Agency, more than 900 homes were completely destroyed, while over 450 sustained severe damage. Crucial community infrastructure—including schools, local healthcare centers, and churches—was rendered unusable, forcing thousands of families into temporary shelters as emergency responders battle persistent aftershocks.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>In response to the tragedy, Vatican Secretary of State Cardinal Pietro Parolin dispatched a formal telegram to Archbishop Paulus Budi Kleden of Ende. Signed on behalf of Pope Leo XIV, the message communicated that the Pontiff was "deeply saddened" by the devastation and offered spiritual closeness to the injured, the grieving, and the displaced.</p>
@@ -109,7 +109,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -117,7 +117,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

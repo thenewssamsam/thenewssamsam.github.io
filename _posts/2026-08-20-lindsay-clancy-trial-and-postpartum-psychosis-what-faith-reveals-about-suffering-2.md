@@ -33,12 +33,12 @@ source_url: 'https://www.bbc.com/news/articles/c5yedy98j7po'
   <p>Yet, when Patrick stepped out briefly to pick up dinner, he returned to an unimaginable nightmare. The defense argues that Lindsay was in the grip of postpartum psychosis—experiencing severe delusions, auditory hallucinations, and a complete detachment from reality that rendered her unable to appreciate the wrongfulness of her actions. Prosecutors, conversely, contend that her actions reflected a calculated decision. Medical experts testifying in the trial stress that postpartum psychosis is a rare, volatile medical emergency—characterized by a "light-switch" effect where a mother can appear stable one moment and experience profound, dangerous delirium the next.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
   <div class="ncg-product-card" style="background:#fdfbf7; border-left:4px solid #f39c12; padding:15px; margin:20px 0; border-radius:4px;">
-    <p style="margin:0 0 8px 0; font-weight:600;"><a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Postpartum Husband: Practical Help for Navigating Maternal Mental Health</a> - $16.99</p>
+    <p style="margin:0 0 8px 0; font-weight:600;"><a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Postpartum Husband: Practical Help for Navigating Maternal Mental Health</a> - </p>
     <p style="margin:0; font-size:0.92rem; color:#555;">A compassionate guide for families navigating the often-overlooked crises of postpartum mood disorders.</p>
   </div>
 
@@ -46,19 +46,19 @@ Tactical Waterproof Backpack ($35.99)
   <p>Beyond the courtroom drama, medical professionals and survivors like Meghan Cliffel—who herself battled postpartum psychosis in 2015—are raising alarms about a glaring systemic failure: postpartum psychosis remains unclassified in the Diagnostic and Statistical Manual of Mental Disorders (DSM-5). Without an official listing in this primary psychiatric handbook, medical students receive little education on the condition, research funding stalls, insurance codes remain absent, and families are left "fumbling in the dark" without a clear ladder of care.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
   <p>Experts emphasize that postpartum psychosis affects a small percentage of mothers but carries catastrophic risks if left untreated. Lithium, mood stabilizers, and specialized psychiatric care can pull women back from the brink of terror, yet our healthcare systems frequently fail to provide proactive maternal mental health support. When society treats childbirth as a purely joyful milestone while ignoring the profound hormonal and neurological upheavals that accompany it, vulnerable mothers suffer in silence until tragedies erupt.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
   <div class="ncg-product-card" style="background:#fdfbf7; border-left:4px solid #f39c12; padding:15px; margin:20px 0; border-radius:4px;">
-    <p style="margin:0 0 8px 0; font-weight:600;"><a href="https://www.amazon.com/dp/B07V6V8Z9V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Good Inside: A Guide to Becoming the Parent You Want to Be</a> - $18.49</p>
+    <p style="margin:0 0 8px 0; font-weight:600;"><a href="https://www.amazon.com/dp/B07V6V8Z9V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Good Inside: A Guide to Becoming the Parent You Want to Be</a> - </p>
     <p style="margin:0; font-size:0.92rem; color:#555;">Thoughtful parenting perspectives rooted in emotional regulation, empathy, and family resilience.</p>
   </div>
 
@@ -66,14 +66,14 @@ Tactical Waterproof Backpack ($35.99)
   <p>When confronted with such staggering sorrow, human hearts naturally cry out for understanding. A biblical worldview urges us to approach severe mental illness with profound humility and tenderness rather than swift, harsh condemnation. Scripture repeatedly acknowledges that our physical bodies and minds are deeply fragile, subject to the groaning of a fallen world.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
   <p>Consider the emotional and physical despair recorded in the Psalms, where the writers frequently express a mind overwhelmed by darkness, confusion, and overwhelming sorrow. Psalm 34:18 reminds us, <em>"The Lord is close to the brokenhearted and saves those who are crushed in spirit."</em> God does not stand back in disgust when human biology falters or when a mind shatters under unimaginable stress; rather, His presence draws near to the places of deepest human agony.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -84,19 +84,19 @@ Tactical Waterproof Backpack ($35.99)
   <p>Furthermore, theological humility requires us to exercise extreme caution before attributing every earthly tragedy to direct moral failure or demonic malice. The human brain is an intricate biological organ created by God, and like any other part of the physical body, it can suffer severe medical failure. Postpartum psychosis is a physiological emergency—a biochemical tempest—not a willful turning away from goodness.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
   <p>Scripture also invites us to reflect on the tenderness of our Savior, who understands the depths of human grief. In Isaiah 40:11, we are given a comforting portrait of God's care for the vulnerable: <em>"He tends his flock like a shepherd: He gathers the lambs in his arms and carries them close to his heart; he gently leads those that have young."</em> This verse takes on a poignant resonance when considering mothers struggling with the overwhelming demands of infant care, reminding us that God's heart breaks alongside every grieving family and every mother tormented by internal demons.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
   <div class="ncg-product-card" style="background:#fdfbf7; border-left:4px solid #f39c12; padding:15px; margin:20px 0; border-radius:4px;">
-    <p style="margin:0 0 8px 0; font-weight:600;"><a href="https://www.amazon.com/dp/1496455171?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry</a> - $14.99</p>
+    <p style="margin:0 0 8px 0; font-weight:600;"><a href="https://www.amazon.com/dp/1496455171?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry</a> - </p>
     <p style="margin:0; font-size:0.92rem; color:#555;">Encouragement for emotional well-being, mental pacing, and finding spiritual rest in a demanding world.</p>
   </div>
 
@@ -104,7 +104,7 @@ Tactical Waterproof Backpack ($35.99)
   <p>Recognizing the reality of postpartum psychosis challenges faith communities to move past outdated stigmas surrounding mental health. Here are concrete ways believers and local churches can respond:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   <ul>
@@ -115,7 +115,7 @@ Seagate Portable External Hard Drive ($59.99)
   </ul>
 
   <div class="ncg-product-card" style="background:#fdfbf7; border-left:4px solid #f39c12; padding:15px; margin:20px 0; border-radius:4px;">
-    <p style="margin:0 0 8px 0; font-weight:600;"><a href="https://www.amazon.com/dp/0310355152?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Anxious for Nothing: Finding Calm in a Chaotic World</a> - $12.99</p>
+    <p style="margin:0 0 8px 0; font-weight:600;"><a href="https://www.amazon.com/dp/0310355152?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Anxious for Nothing: Finding Calm in a Chaotic World</a> - </p>
     <p style="margin:0; font-size:0.92rem; color:#555;">Practical biblical encouragement for navigating anxiety, mental distress, and finding peace.</p>
   </div>
 

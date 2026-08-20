@@ -28,16 +28,16 @@ source_url: 'https://www.nbcwashington.com/news/local/northern-virginia/suspect-
     <p>Police Chief Kevin Davis described the act as "all very premeditated." Evidence suggests the suspect arrived at the scene with a knife, gloves, and gasoline, intending not only to take the victim's life but to burn her remains. The suspect has reportedly confessed to the crime. As the investigation continues, the focus remains on supporting Puch’s young daughter, who now faces a future without her mother.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
 
   <div style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Recommended for families:</strong> <a href="#">Safety Whistle and Personal Alarm - $12.99</a></p>
+    <p><strong>Recommended for families:</strong> <a href="#">Safety Whistle and Personal Alarm - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>
@@ -47,7 +47,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When we encounter news of such calculated violence, the human heart naturally recoils. We ask: <em>How could this happen? Why is there such malice?</em> From a biblical worldview, we are reminded that while we are created in the image of God, we live in a fallen world where the human heart can turn toward profound darkness.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -58,7 +58,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This verse does not excuse the actions of the perpetrator; rather, it acknowledges the reality of the brokenness that sin introduces into our world. The premeditated nature of this crime—the planning, the tools, the intent—speaks to a conscience that has been severely hardened. It serves as a stark reminder of our need for God’s grace and the necessity of justice to protect the innocent.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -68,10 +68,10 @@ Seagate Portable External Hard Drive ($59.99)
   </section>
 
   <div style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Support your community:</strong> <a href="#">Donation Box for Local Families - $15.50</a></p>
+    <p><strong>Support your community:</strong> <a href="#">Donation Box for Local Families - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>
@@ -81,14 +81,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>I am reminded of the words of the Psalmist when faced with the weight of tragedy. It is easy to feel overwhelmed by the senselessness of a life cut short. Yet, we are invited to bring our grief to the only One who fully understands it.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p><em>"The Lord is close to the brokenhearted and saves those who are crushed in spirit."</em> (Psalm 34:18). This promise is not just for the community mourning Carmen, but for the little girl who must grow up without her mother. It invites us to consider our own role in being "the hands and feet of Christ"—providing tangible support, whether through the GoFundMe established by her coworkers or through prayers for her extended family.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -103,10 +103,10 @@ Tactical Waterproof Backpack ($35.99)
   </section>
 
   <div style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>For reflection:</strong> <a href="#">Journal for Prayer and Gratitude - $9.99</a></p>
+    <p><strong>For reflection:</strong> <a href="#">Journal for Prayer and Gratitude - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>

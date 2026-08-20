@@ -34,7 +34,7 @@ source_url: "https://www.usatoday.com/story/news/state/georgia/2026/08/17/no-oss
 <p>The presidential chatter kicked into high gear following a July Emerson College poll that introduced Jon Ossoff into the 2028 Democratic primary conversation for the first time. Landing at 13% support, Ossoff immediately positioned himself as a frontrunner alongside established names like Pete Buttigieg and Gavin Newsom, even tying with Alexandria Ocasio-Cortez and pulling ahead of several seasoned governors and former cabinet members.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>This spike coincides with viral TikTok clips of Ossoff's sharp committee questioning and campaign speeches racking up millions of views. Meanwhile, back in Georgia, Ossoff faces a bruising reelection fight against MAGA loyalist Rep. Mike Collins, while weathering personal attacks from President Donald Trump, who recently took to calling the senator "Pinky Herman" during a rally in Marietta.</p>
@@ -102,7 +102,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -110,7 +110,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

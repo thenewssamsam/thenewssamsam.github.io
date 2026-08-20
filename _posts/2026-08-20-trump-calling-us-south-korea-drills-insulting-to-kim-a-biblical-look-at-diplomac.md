@@ -50,7 +50,7 @@ source_url: 'https://abcnews.com/Politics/trump-us-south-korea-exercises-insulti
   <!-- Amazon Recommendation 1 -->
   <div style="background-color: #fffbeb; border-left: 4px solid #f59e0b; padding: 12px 16px; margin: 20px 0; border-radius: 4px;" class="ncg-amazon-rec">
     <p style="margin: 0; font-size: 0.95rem; color: #78350f;">
-      <strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B07XYZ1234?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Leadership and Diplomacy in Times of Crisis</a> — Gain deeper insights into international relations and peaceful negotiation strategies. ($18.99)
+      <strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B07XYZ1234?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Leadership and Diplomacy in Times of Crisis</a> — Gain deeper insights into international relations and peaceful negotiation strategies. 
     </p>
   </div>
 
@@ -82,7 +82,7 @@ source_url: 'https://abcnews.com/Politics/trump-us-south-korea-exercises-insulti
   <!-- Amazon Recommendation 2 -->
   <div style="background-color: #fffbeb; border-left: 4px solid #f59e0b; padding: 12px 16px; margin: 20px 0; border-radius: 4px;" class="ncg-amazon-rec">
     <p style="margin: 0; font-size: 0.95rem; color: #78350f;">
-      <strong>Helpful Resource:</strong> <a href="https://www.amazon.com/dp/B08XYZ5678?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The Peacemaker: A Biblical Guide to Resolving Personal and Global Conflict</a> — Learn practical, faith-based principles for fostering true reconciliation. ($14.50)
+      <strong>Helpful Resource:</strong> <a href="https://www.amazon.com/dp/B08XYZ5678?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The Peacemaker: A Biblical Guide to Resolving Personal and Global Conflict</a> — Learn practical, faith-based principles for fostering true reconciliation. 
     </p>
   </div>
 
@@ -114,7 +114,7 @@ source_url: 'https://abcnews.com/Politics/trump-us-south-korea-exercises-insulti
   <!-- Amazon Recommendation 3 -->
   <div style="background-color: #fffbeb; border-left: 4px solid #f59e0b; padding: 12px 16px; margin: 20px 0; border-radius: 4px;" class="ncg-amazon-rec">
     <p style="margin: 0; font-size: 0.95rem; color: #78350f;">
-      <strong>Recommended Tool:</strong> <a href="https://www.amazon.com/dp/B09XYZ9012?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">ESV Study Bible, Large Print</a> — Deepen your understanding of scriptural wisdom regarding leadership, justice, and peace. ($39.99)
+      <strong>Recommended Tool:</strong> <a href="https://www.amazon.com/dp/B09XYZ9012?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">ESV Study Bible, Large Print</a> — Deepen your understanding of scriptural wisdom regarding leadership, justice, and peace. 
     </p>
   </div>
 
@@ -135,7 +135,7 @@ source_url: 'https://abcnews.com/Politics/trump-us-south-korea-exercises-insulti
   <!-- Amazon Recommendation 4 -->
   <div style="background-color: #fffbeb; border-left: 4px solid #f59e0b; padding: 12px 16px; margin: 20px 0; border-radius: 4px;" class="ncg-amazon-rec">
     <p style="margin: 0; font-size: 0.95rem; color: #78350f;">
-      <strong>Faith Journal:</strong> <a href="https://www.amazon.com/dp/B07ABC3456?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Daily Prayer Journal for Peace and Wisdom</a> — A structured space to record your prayers for global leaders and local communities. ($12.99)
+      <strong>Faith Journal:</strong> <a href="https://www.amazon.com/dp/B07ABC3456?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Daily Prayer Journal for Peace and Wisdom</a> — A structured space to record your prayers for global leaders and local communities. 
     </p>
   </div>
 

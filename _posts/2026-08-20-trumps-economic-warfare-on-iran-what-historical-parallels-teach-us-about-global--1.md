@@ -27,15 +27,15 @@ source_url: 'https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-w
     <p>The U.S. government is tightening the net around Iran, specifically targeting oil smuggling, currency swaps, and front companies. The move follows a significant diplomatic shift: the United Arab Emirates has suspended all trade with Tehran after reports of ballistic missile fire. Meanwhile, global markets are watching the Strait of Hormuz, where shipping traffic remains suppressed due to naval blockades and ongoing security risks.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Vitamin C Brightening Serum ($16.99)
+CeraVe Vitamin C Brightening Serum 
 </a></div>
 
     
     <div style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Reading:</strong> <a href="#">Global Conflict Maps & History - $24.99</a></p>
+      <p><strong>Recommended Reading:</strong> <a href="#">Global Conflict Maps & History - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Lenovo Legion Tower Gaming PC ($899.99)
+Lenovo Legion Tower Gaming PC 
 </a></div>
 
     </div>
@@ -46,7 +46,7 @@ Lenovo Legion Tower Gaming PC ($899.99)
     <p>History provides a sobering template for "economic warfare." Throughout the 20th century, nations often used trade isolation as a precursor to or substitute for kinetic military action. The current situation bears striking similarities to the naval blockades of the Napoleonic Wars or the comprehensive embargoes seen during the mid-20th century.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Lenovo Legion Tower Gaming PC ($899.99)
+Lenovo Legion Tower Gaming PC 
 </a></div>
 
     
@@ -54,15 +54,15 @@ Lenovo Legion Tower Gaming PC ($899.99)
     <p>Historically, "crushing" economic sanctions rarely force immediate regime capitulation. Instead, they often accelerate a country’s pivot toward shadow economies and black-market alliances. When a regime perceives it is "hanging by a thread," the incentive to lash out militarily often increases, as the perceived cost of inaction outweighs the risk of conflict.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Vitamin C Brightening Serum ($16.99)
+CeraVe Vitamin C Brightening Serum 
 </a></div>
 
 
     <div style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Stay Informed:</strong> <a href="#">Geopolitical Strategy Handbook - $19.99</a></p>
+      <p><strong>Stay Informed:</strong> <a href="#">Geopolitical Strategy Handbook - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Skin Renewing Night Cream ($18.99)
+CeraVe Skin Renewing Night Cream 
 </a></div>
 
     </div>
@@ -77,21 +77,21 @@ CeraVe Skin Renewing Night Cream ($18.99)
     <p>In times of global uncertainty, it is easy to become consumed by the mechanics of power and the fear of what may come. The current tensions remind me of the wisdom found in Proverbs 21:30: <em>"There is no wisdom, no insight, no plan that can succeed against the Lord."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Vitamin C Brightening Serum ($16.99)
+CeraVe Vitamin C Brightening Serum 
 </a></div>
 
     <p>This does not mean we should be passive, but it invites us to consider that human efforts to control the fate of nations are often fragile. We are also reminded in Psalm 46:1-2: <em>"God is our refuge and strength, an ever-present help in trouble. Therefore we will not fear, though the earth give way and the mountains fall into the heart of the sea."</em> As we watch these events unfold, we are challenged to place our ultimate trust in the One who holds the history of nations, rather than in the shifting tides of geopolitics.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Lenovo Legion Tower Gaming PC ($899.99)
+Lenovo Legion Tower Gaming PC 
 </a></div>
 
     
     <div style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Spiritual Resource:</strong> <a href="#">Reflections on Faith and History - $12.50</a></p>
+      <p><strong>Spiritual Resource:</strong> <a href="#">Reflections on Faith and History - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Skin Renewing Night Cream ($18.99)
+CeraVe Skin Renewing Night Cream 
 </a></div>
 
     </div>

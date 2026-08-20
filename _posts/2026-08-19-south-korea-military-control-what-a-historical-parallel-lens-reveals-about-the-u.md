@@ -39,7 +39,7 @@ source_url: "https://www.theguardian.com/world/2026/aug/18/south-korea-president
 <p>In mid-August 2026, political dynamics on the Korean peninsula shifted once again when US President Donald Trump instructed the Pentagon to "substantially reduce" joint military exercises with South Korea. Citing a cooperative posture from North Korea and personal rapport with Kim Jong-un, the directive curtailed the ongoing Ulchi Freedom Shield drills—annual exercises designed to certify South Korean military readiness.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>The reaction from Seoul was swift and purposeful. South Korean President Lee Jae Myung renewed his administration's push to regain independent wartime operational control, commonly known as Opcon, from the United States during his term. Simultaneously, Lee urged faster progress on acquiring nuclear-powered submarines and developing integrated command capabilities.</p>
@@ -115,7 +115,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -123,7 +123,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

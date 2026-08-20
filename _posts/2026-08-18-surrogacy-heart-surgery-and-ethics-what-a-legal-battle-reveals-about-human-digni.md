@@ -41,7 +41,7 @@ source_url: ''
     <p>The case centers on an infant named Rumi, born in Texas to surrogate McKenna West. In utero, Rumi was diagnosed with hypoplastic left heart syndrome (HLHS), a severe and rare congenital heart defect where the left side of the organ is severely underdeveloped. According to reports, approximately 925 babies are born with this condition in the U.S. each year, and it requires multiple complex surgeries in infancy to survive.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>Before the birth, however, the pregnancy became the focal point of a profound ethical and legal rupture. West alleged that the biological parents, Omar Ahmed and Nausheen Gilkar, pressured her to terminate the pregnancy after the medical diagnosis. Conversely, court filings in Alaska submitted by the parents' attorney argued that West was fully aware of and initially agreed to terms regarding termination in the event of severe fetal abnormalities.</p>
@@ -123,7 +123,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -131,7 +131,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -35,7 +35,7 @@ source_url: 'https://apnews.com/article/south-korea-philippines-rains-landslide-
 <p>Meanwhile, thousands of miles away in the Philippines, heavy monsoon rains paralyzed metropolitan Manila and a dozen outlying provinces. The resulting floods snarled traffic, forced the suspension of government work, and closed schools at all levels. This latest crisis compounds weeks of relentless weather: intermittent monsoon rains and a prior storm left at least 23 people dead across Luzon, displacing tens of thousands into emergency shelters. Among the tragedies was a devastating August 9 landslide in the mountain resort city of Baguio, where a wall of mud and rock buried homes while residents slept.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>These two distinct weather events share a common thread: the sudden, brutal collision between extreme natural forces and human habitation. But looking only at the rainfall totals misses a quieter, equally powerful force at play in every disaster: how the human mind processes risk before, during, and after the storm.</p>
@@ -148,7 +148,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -156,7 +156,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

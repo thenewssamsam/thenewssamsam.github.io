@@ -38,7 +38,7 @@ source_url: ''
     <p>Internal emails later obtained by GOLF.com revealed that this friction was entirely intentional. Staffers were instructed to keep ticketing pages active without inventory to suppress media flags while executives managed stakeholder fallout. Meanwhile, players like Tyrrell Hatton, Tom McKibbin, and Adrian Meronk quietly pivot to the DP World Tour's British Masters.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>At the same time, the season-ending event just north of Indianapolis lost its heavily promoted music acts—country star Thomas Rhett and electronic artist Disco Lines. Promoted for months as a signature festival-style weekend blending golf by day with concerts by night, those headliners were scrubbed from the league's website over the weekend, leaving fans who bought tickets for the complete experience high and dry.</p>
@@ -108,7 +108,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -116,7 +116,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -59,19 +59,19 @@ article h2 { color: #111; margin-top: 2rem; margin-bottom: 1rem; font-size: 1.5r
 </ul>
 </nav>
 
-<p>California voters are preparing to decide on a measure that could reshape the state's economic landscape: a proposed one-time 5% wealth tax on residents with a net worth exceeding $1 billion. As billionaire investor Mark Cuban publicly clashes with Democratic Representative Ro Khanna over the initiative, recent IRS migration data reveals that billions of dollars and thousands of taxpayers are already flowing out of the Golden State.</p>
+<p>California voters are preparing to decide on a measure that could reshape the state's economic landscape: a proposed one-time 5% wealth tax on residents with a net worth exceeding  billion. As billionaire investor Mark Cuban publicly clashes with Democratic Representative Ro Khanna over the initiative, recent IRS migration data reveals that billions of dollars and thousands of taxpayers are already flowing out of the Golden State.</p>
 
 <p>For ordinary residents, small business owners, and market observers, this high-stakes political battle is not just about taxing the ultra-wealthy. It highlights fundamental questions about capital mobility, local tax revenues, and whether aggressive state-level tax policies inadvertently accelerate the very economic drain they aim to fix.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
 
 
 <h2 id="what-happened">What Happened: The California Wealth Tax Battle</h2>
-<p>The proposed ballot initiative, backed by the Service Employees International Union (SEIU), has officially qualified for the upcoming November ballot. If passed, it would introduce a one-time 5% wealth tax targeting individuals with a net worth over $1 billion, applying retroactively to anyone who was a resident as of January 1, 2026.</p>
+<p>The proposed ballot initiative, backed by the Service Employees International Union (SEIU), has officially qualified for the upcoming November ballot. If passed, it would introduce a one-time 5% wealth tax targeting individuals with a net worth over  billion, applying retroactively to anyone who was a resident as of January 1, 2026.</p>
 
 <p>Supporters argue that the tax would generate billions of dollars in essential revenue to fund public healthcare and education programs across the state. However, critics warn that the measure creates an immediate incentive for wealthy individuals, investment capital, and high-growth startups to establish legal residency elsewhere.</p>
 
@@ -82,7 +82,7 @@ Seagate Portable External Hard Drive ($59.99)
 
 <p>According to the latest federal tax return data compiled from the IRS, California is already experiencing a notable net loss of taxpayers:</p>
 <ul>
-<li><strong>Los Angeles County:</strong> Led the nation with a net loss of 17,496 tax filers, who took nearly $1.9 billion in adjusted gross income with them.</li>
+<li><strong>Los Angeles County:</strong> Led the nation with a net loss of 17,496 tax filers, who took nearly  billion in adjusted gross income with them.</li>
 <li><strong>Orange County:</strong> Recorded a net loss of 11,618 tax filers.</li>
 <li><strong>San Diego County:</strong> Lost a net total of 9,401 tax filers.</li>
 <li><strong>Riverside and San Bernardino Counties:</strong> Saw net losses of 8,968 and 8,462 tax filers, respectively.</li>
@@ -115,7 +115,7 @@ Seagate Portable External Hard Drive ($59.99)
 <h2 id="faq">Frequently Asked Questions</h2>
 <details class="ncg-faq-details">
 <summary class="ncg-faq-summary">What is California's proposed billionaire tax?</summary>
-<p>The proposed ballot initiative would impose a one-time 5% wealth tax on California residents with a net worth exceeding $1 billion, applying retroactively to residents as of January 1, 2026.</p>
+<p>The proposed ballot initiative would impose a one-time 5% wealth tax on California residents with a net worth exceeding  billion, applying retroactively to residents as of January 1, 2026.</p>
 </details>
 
 <details class="ncg-faq-details">
@@ -170,7 +170,7 @@ Seagate Portable External Hard Drive ($59.99)
       "name": "What is California's proposed billionaire tax?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The proposed ballot initiative would impose a one-time 5% wealth tax on California residents with a net worth exceeding $1 billion, applying retroactively to residents as of January 1, 2026."
+        "text": "The proposed ballot initiative would impose a one-time 5% wealth tax on California residents with a net worth exceeding  billion, applying retroactively to residents as of January 1, 2026."
       }
     },
     {
@@ -203,7 +203,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -211,7 +211,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

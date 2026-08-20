@@ -24,13 +24,13 @@ source_url: "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceas
     <p>The situation in the Strait of Hormuz has shifted from a tense diplomatic standoff to a hardened military and economic reality. Following the expiration of a 60-day ceasefire, President Trump confirmed that no new talks are scheduled. Meanwhile, recent reports indicate that ballistic missiles were launched toward the UAE, and a cargo vessel was struck by a projectile within the strait, resulting in crew casualties.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>While the U.S. insists the waterway is cleared of mines and open for business, shipping data shows that traffic has slowed to a mere trickle. With roughly 20% of the world’s oil trade historically passing through this narrow channel, the ongoing disruption forces the global economy to rely on increasingly expensive, long-haul alternatives.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -40,7 +40,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>From a market perspective, the "Hormuz Premium" is now a permanent fixture in energy pricing. When a chokepoint of this magnitude is compromised, the primary financial impact is felt in the cost of risk mitigation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -48,7 +48,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>"The global economy has proven surprisingly resilient, yet the cost of this resilience is a structural increase in energy prices that filters down to every sector of the consumer market."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -57,24 +57,24 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Shipping companies are bypassing the strait where possible, opting for longer routes. Every extra mile added to a tanker's journey increases fuel consumption, labor costs, and insurance premiums. These costs are eventually passed on to the end consumer, contributing to inflationary pressure on everything from transportation to manufacturing.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <div style="border: 1px solid #ddd; padding: 10px; background: #f9f9f9; border-left: 5px solid #ffd700;">
-      <p><strong>Recommended:</strong> <a href="#">Heavy-Duty Cargo Tracking & Logistics Journal - $19.99</a></p>
+      <p><strong>Recommended:</strong> <a href="#">Heavy-Duty Cargo Tracking & Logistics Journal - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
 
     <h3>2. Market Adaptation vs. Volatility</h3>
-    <p>Analysts at Eurasia Group suggest that the global market has adapted to the closure, which has prevented oil prices from spiking beyond $100 per barrel. However, this "adaptation" is essentially a new, higher baseline. Investors should note that while the market is currently stable, any further escalation—such as a major attack on a tanker—would likely trigger immediate, sharp volatility.</p>
+    <p>Analysts at Eurasia Group suggest that the global market has adapted to the closure, which has prevented oil prices from spiking beyond  per barrel. However, this "adaptation" is essentially a new, higher baseline. Investors should note that while the market is currently stable, any further escalation—such as a major attack on a tanker—would likely trigger immediate, sharp volatility.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -84,13 +84,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>In times of global uncertainty, it is easy to become consumed by fear over economic stability. Scripture reminds us of the importance of wisdom and trust in a sovereign God, even when the world's systems feel fragile. Proverbs 21:31 (ESV) tells us: <em>"The horse is made ready for the day of battle, but the victory belongs to the Lord."</em> This doesn't invite passivity, but rather a humble recognition that while we prepare for earthly challenges, our ultimate security is not found in the stability of trade routes.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>This situation also brings to mind the call to be good stewards of the resources we have. When nations engage in conflict, it is often the vulnerable who bear the brunt of rising costs. We are invited to consider how our own resources—our time, money, and influence—can be used to promote peace and support those affected by the consequences of global strife. As Philippians 4:6-7 (NIV) says: <em>"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God."</em> This is a call to remain grounded in peace even as the world around us feels increasingly fractured.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -109,7 +109,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The standoff in the Strait of Hormuz is a stark reminder of how interconnected our modern economy remains. While political rhetoric may fluctuate, the economic reality is that global markets are currently walking a tightrope. As we watch these events unfold, the best approach is one of tempered caution—recognizing that while we cannot control international diplomacy, we can control our own financial preparedness and response to the shifting tides of the global market.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p><em>True economic stability is built on resilience, not just the absence of conflict.</em></p>

@@ -14,22 +14,22 @@ source_url: 'https://local12.com/news/nation-world/ice-cream-brand-sold-kroger-w
 <header>
 <time datetime="2026-03-30">Published: March 30, 2026</time>
 <span>5 min read</span>
-<h1>Rebel Creamery Bankruptcy: What a $24 Million Lawsuit Reveals About Business Risks</h1>
+<h1>Rebel Creamery Bankruptcy: What a  Million Lawsuit Reveals About Business Risks</h1>
 </header>
 
-<p>When a popular grocery store brand hits financial trouble, consumers usually assume the culprit is shifting consumer tastes or runaway supply chain costs. But for Rebel Creamery, the keto ice cream brand stocked in major chains like Kroger, Walmart, and Target, the final blow came from a courtroom rather than the freezer aisle. Following a staggering $23.8 million judgment over packaging design similarities with rival Van Leeuwen, Rebel has officially filed for Chapter 11 bankruptcy protection.</p>
+<p>When a popular grocery store brand hits financial trouble, consumers usually assume the culprit is shifting consumer tastes or runaway supply chain costs. But for Rebel Creamery, the keto ice cream brand stocked in major chains like Kroger, Walmart, and Target, the final blow came from a courtroom rather than the freezer aisle. Following a staggering  million judgment over packaging design similarities with rival Van Leeuwen, Rebel has officially filed for Chapter 11 bankruptcy protection.</p>
 
 <h2 id="what-happened">What Happened to Rebel Creamery?</h2>
-<p>Rebel Creamery, founded in 2017 with a mission to bring low-carb, no-sugar-added ice cream to the mainstream market, filed for Chapter 11 bankruptcy on August 14. According to court filings and reports from outlets like WKRC and Fox Business, the Utah-based company reported approximately $13.78 million in assets against a daunting $23.85 million in liabilities.</p>
+<p>Rebel Creamery, founded in 2017 with a mission to bring low-carb, no-sugar-added ice cream to the mainstream market, filed for Chapter 11 bankruptcy on August 14. According to court filings and reports from outlets like WKRC and Fox Business, the Utah-based company reported approximately  million in assets against a daunting  million in liabilities.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
 <p>The catalyst for the bankruptcy filing arrived less than a month prior, when U.S. District Judge Eric Komitee ruled that Rebel intentionally infringed and diluted the distinctive packaging of competitor Van Leeuwen. Van Leeuwen had originally filed suit in 2021, claiming that Rebel had copied the unique trade dress of its ice cream pints—characterized by monochromatic cardboard containers with matching lids, soft pastel color palettes, minimalist appearance, and distinctive black script lettering.</p>
 
-<p>Judge Komitee agreed, finding that Rebel's container design was close enough to create widespread confusion among shoppers in grocery store freezers. The court ordered Rebel to hand over $23.785 million in profits earned from the sales of those pints and forced a complete packaging redesign. Rebel has since appealed the decision, listing the massive judgment as a disputed debt within its bankruptcy schedules.</p>
+<p>Judge Komitee agreed, finding that Rebel's container design was close enough to create widespread confusion among shoppers in grocery store freezers. The court ordered Rebel to hand over  million in profits earned from the sales of those pints and forced a complete packaging redesign. Rebel has since appealed the decision, listing the massive judgment as a disputed debt within its bankruptcy schedules.</p>
 
 <h2 id="the-financial-impact">The Financial Mechanics of a Trade Dress Lawsuit</h2>
 <p>To understand how a food brand with nationwide distribution can stumble so quickly, it helps to examine the unforgiving economics of the packaged goods industry and intellectual property litigation. In financial terms, a trade dress infringement case is not merely a dispute over aesthetics; it is an attack on a company's core intangible asset—its brand equity and consumer recognition.</p>
@@ -68,7 +68,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -76,7 +76,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

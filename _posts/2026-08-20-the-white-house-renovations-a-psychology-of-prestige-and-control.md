@@ -19,7 +19,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/19/trump-white-house-r
   </header>
 
   <section id="intro">
-    <p>As the United States faces a $40 trillion national debt and an ongoing conflict in Iran, President Donald Trump recently led a tour of extensive renovations to the White House grounds. While critics point to a disconnect between these aesthetic upgrades and the nation's pressing policy challenges, the event offers a window into the psychological drivers of leadership, specifically the human need for tangible control in times of uncertainty.</p>
+    <p>As the United States faces a  trillion national debt and an ongoing conflict in Iran, President Donald Trump recently led a tour of extensive renovations to the White House grounds. While critics point to a disconnect between these aesthetic upgrades and the nation's pressing policy challenges, the event offers a window into the psychological drivers of leadership, specifically the human need for tangible control in times of uncertainty.</p>
   </section>
 
   <section id="what-happened">
@@ -32,7 +32,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/19/trump-white-house-r
     <p>From a behavioral standpoint, the focus on physical environment during periods of systemic stress is often a manifestation of <strong>the illusion of control</strong>. When high-level variables like national debt or global military conflicts feel intractable or overwhelming, individuals often pivot to "micro-environments" where they can exert absolute authority.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-FitVille Comfortable Running Shoes ($69.99)
+FitVille Comfortable Running Shoes 
 </a></div>
 
 
@@ -44,7 +44,7 @@ FitVille Comfortable Running Shoes ($69.99)
     <p>The emphasis on the "highest quality" flagpoles and granite serves a function in social psychology known as <strong>costly signalling</strong>. By investing in elite materials and publicizing their origin, the leader signals competence and dominance. For a former real estate developer, these physical improvements are not merely aesthetic; they are extensions of the self, meant to communicate power to both allies and the press corps.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-FitVille Comfortable Running Shoes ($69.99)
+FitVille Comfortable Running Shoes 
 </a></div>
 
 
@@ -52,7 +52,7 @@ FitVille Comfortable Running Shoes ($69.99)
     <p>Critics like Senator Jon Ossoff argue that this focus reveals a lack of interest in the "work of leading." However, psychologists might view this as <strong>normalcy bias</strong>—a psychological state where a leader insists on maintaining routine or personal interests (like golf or construction) to signal that the situation is under control, even when external data suggests otherwise.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
   </section>
@@ -62,14 +62,14 @@ CeraVe Hydrating Facial Cleanser ($14.99)
     <p>This focus on physical grandeur brings to mind the caution found in <strong>Luke 12:15</strong>: "Then he said to them, 'Watch out! Be on your guard against all kinds of greed; life does not consist in an abundance of possessions.'"</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
     
     <p>While maintaining a historic property is a form of stewardship, the tension arises when the attention paid to the "ornamentation" of the house eclipses the weightier matters of the nation. It reminds us that our true legacy is rarely defined by the granite we lay or the flagpoles we erect, but by the service we provide to those in need. As <strong>Matthew 23:23</strong> invites us to consider, true wisdom is found in balancing the "small" details of life without neglecting the "weightier matters of the law"—justice, mercy, and faithfulness.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-AMANSSE Lightweight Running Shoes ($65.99)
+AMANSSE Lightweight Running Shoes 
 </a></div>
 
   </section>

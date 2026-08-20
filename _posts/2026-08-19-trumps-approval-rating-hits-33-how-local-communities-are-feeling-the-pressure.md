@@ -28,21 +28,21 @@ source_url: "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-
     <p>While national headlines focus on political strategy, the real story is playing out at local gas stations and small business supply chains. For the average family, "paying a tiny little bit more" for gasoline—as the President recently suggested—is not merely a political talking point; it is a direct reduction in disposable income that impacts local spending.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     
     <div style="border: 1px solid #ddd; padding: 15px; background: #f9f9f9; border-left: 5px solid #2e7d32; margin: 20px 0;">
-      <p><strong>Recommended for your home budget:</strong> <a href="#">Fuel-Efficient Driving Guide - $9.99</a></p>
+      <p><strong>Recommended for your home budget:</strong> <a href="#">Fuel-Efficient Driving Guide - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
-      <p><strong>Help your family save:</strong> <a href="#">Budget Planning Spreadsheet Template - $4.99</a></p>
+      <p><strong>Help your family save:</strong> <a href="#">Budget Planning Spreadsheet Template - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     </div>
@@ -51,7 +51,7 @@ Crevice Cleaning Brush Set ($12.99)
     <p>Local municipalities and small businesses are seeing their operational costs surge. When transportation costs rise by a third, the cost of goods—from groceries to construction materials—inevitably follows. In many communities, this is leading to a tightening of local belts, as discretionary spending drops to compensate for the higher cost of essential travel.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
 
@@ -65,13 +65,13 @@ Crevice Cleaning Brush Set ($12.99)
     <p>This period of uncertainty invites us to reflect on the values of stewardship and the pursuit of peace. When we see the burdens placed on our neighbors, it reminds me of the biblical call to consider the needs of the community over personal or national pride. In Philippians 2:4, we are reminded: <em>"Let each of you look not only to his own interests, but also to the interests of others."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     <p>It is easy to become caught up in the noise of political polling, but real community impact requires us to act with grace and intentionality. James 1:19 adds, <em>"Everyone should be quick to listen, slow to speak and slow to become angry."</em> As we navigate these rising costs and social tensions, we are invited to consider how we can support those in our neighborhoods who are struggling most under the weight of these economic pressures.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>

@@ -27,10 +27,10 @@ source_url: 'https://www.nbcsandiego.com/news/local/man-arrested-in-connection-w
   <p>The San Diego Fire-Rescue Department and dozens of units pushed containment to 60% by Monday evening. Evacuation orders hit zone SDC-1444, sending residents toward a temporary shelter at 4161 Eastgate Mall, while several surrounding zones received temporary warnings that have since been lifted. Road closures choked major access points like Vista Sorrento Parkway and Sorrento Valley Boulevard as emergency crews secured the perimeter.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
-  <p>Yet the most pivotal moment of the entire incident occurred before the flames had even finished chewing through the canyon. According to the San Diego Police Department, officers were flagged down shortly after the fire started by an observant individual who reported seeing someone acting suspiciously near the origin point. That tip led directly to the detention and subsequent arrest of Brandon Glasgo, who was booked into custody on $75,000 bail facing an arson charge.</p>
+  <p>Yet the most pivotal moment of the entire incident occurred before the flames had even finished chewing through the canyon. According to the San Diego Police Department, officers were flagged down shortly after the fire started by an observant individual who reported seeing someone acting suspiciously near the origin point. That tip led directly to the detention and subsequent arrest of Brandon Glasgo, who was booked into custody on ,000 bail facing an arson charge.</p>
 
   <h2 id="psychology-perspective">The Psychology of Arson and Bystander Intervention</h2>
   <p>Looking at this rapid apprehension through the lens of psychology and behavior reveals two distinct human dynamics at play: the mindset behind opportunistic or erratic destruction, and the cognitive shift that moves an ordinary person from passive observer to active protector.</p>
@@ -81,7 +81,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -89,7 +89,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

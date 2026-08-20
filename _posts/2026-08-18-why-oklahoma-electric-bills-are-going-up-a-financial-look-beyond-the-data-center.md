@@ -43,18 +43,18 @@ source_url: 'https://www.newson6.com/data-centers-in-oklahoma/why-oklahoma-elect
     <p>For Tulsa-area customers, the most immediate pressure point arrived July 1, when an interim rate adjustment took effect for Public Service Company of Oklahoma (PSO) while the Oklahoma Corporation Commission evaluates a broader permanent rate hike request. Under state regulations, utilities file formal rate review cases to cover operating expenses, labor, materials, capital investments, and allowable profit margins.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
 
-    <p>While a proposed settlement negotiated by the Oklahoma Attorney General's Office sought to trim a residential increase from roughly 15% down to 1%—a difference of about $25 extra per month versus $2.45—consumer advocacy groups like AARP argued that any base increase remains a heavy burden for fixed-income retirees and working families. As Tulsa resident Ellen Lannert noted during a recent town hall hosted by State Representative Meloyde Blancett, households are already practicing conservation measures like keeping thermostats at 79 degrees, leaving many wondering what more they can possibly do.</p>
+    <p>While a proposed settlement negotiated by the Oklahoma Attorney General's Office sought to trim a residential increase from roughly 15% down to 1%—a difference of about  extra per month versus —consumer advocacy groups like AARP argued that any base increase remains a heavy burden for fixed-income retirees and working families. As Tulsa resident Ellen Lannert noted during a recent town hall hosted by State Representative Meloyde Blancett, households are already practicing conservation measures like keeping thermostats at 79 degrees, leaving many wondering what more they can possibly do.</p>
 </section>
 
 <section id="financial-perspective">
     <h2>A Financial Impact Perspective: Where the Money Goes</h2>
     <p>To understand why utility bills are climbing, it helps to examine the underlying financial mechanics of regional energy markets. When consumer costs rise, the pressure usually stems from three distinct buckets: generation demand, regional transmission expenses, and grid hardening.</p>
-    <p>First, the Southwest Power Pool (SPP)—which manages the wholesale power market and transmission grid across Oklahoma and parts of 16 other states—has faced soaring costs. Its latest $8.6 billion transmission investment plan targets extreme-weather resilience. Power companies are spending heavily on stronger poles, underground lines, upgraded distribution networks, and vegetation management. When the cost of steel, lumber, heavy electrical equipment, and general inflation increase, those capital expenditures flow directly into consumer rate bases.</p>
+    <p>First, the Southwest Power Pool (SPP)—which manages the wholesale power market and transmission grid across Oklahoma and parts of 16 other states—has faced soaring costs. Its latest  billion transmission investment plan targets extreme-weather resilience. Power companies are spending heavily on stronger poles, underground lines, upgraded distribution networks, and vegetation management. When the cost of steel, lumber, heavy electrical equipment, and general inflation increase, those capital expenditures flow directly into consumer rate bases.</p>
     
     <div class="ncg-quote-box">
         <p>“At the end of the day, I don’t compare my bill to other states around me. I only compare it to what mine was 3-4 years ago.” &mdash; Rep. Brad Boles</p>
@@ -174,7 +174,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -182,7 +182,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

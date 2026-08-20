@@ -27,7 +27,7 @@ source_url: ''
     <p>The power loss did not merely stall the vessel's ability to maneuver independently; it crippled its most basic internal support systems. The ship was left entirely without working toilets, galley services, air conditioning, and some potable-water facilities. Fortunately, support arrived from nearby naval assets—the guided-missile cruiser USS Robert Smalls supplied cooked meals, while other vessels from the Japan-based USS George Washington Carrier Strike Group assisted during the blackout before the ship was towed to Subic Bay in the Philippines for repairs.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
     <p>While the Navy confirmed that no injuries were reported among the crew, this incident marks the second major power-related failure for a U.S. Navy destroyer in the Indo-Pacific this year, following a similar blackout aboard the USS Higgins in May. Behind the mechanical headlines, however, lies a profound lesson in human endurance and psychological pressure.</p>
@@ -120,7 +120,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -128,7 +128,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

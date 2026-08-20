@@ -23,10 +23,10 @@ source_url: ''
 
   <section id="introduction" class="ncg-section">
     <p>When New Mexico secured a major legal victory against Meta earlier this month, it served as a warning shot for Silicon Valley. But as opening arguments kick off in Oakland's federal courthouse in a massive trial co-led by California Attorney General Rob Bonta, the stakes have escalated from a regional warning to an existential threat. Representing a coalition of 29 state attorneys general, prosecutors are pursuing penalties and injunctions that could force fundamental architectural changes to Facebook and Instagram.</p>
-    <p>While financial demands ranging from hundreds of billions to a staggering $1.4 trillion grab headlines, the core of the courtroom battle is not just about money. It is about design. At its heart, this landmark litigation forces us to examine the psychological mechanisms that keep billions of users scrolling—and why lawmakers argue those very mechanics cross the line from engaging to predatory when it comes to children.</p>
+    <p>While financial demands ranging from hundreds of billions to a staggering  trillion grab headlines, the core of the courtroom battle is not just about money. It is about design. At its heart, this landmark litigation forces us to examine the psychological mechanisms that keep billions of users scrolling—and why lawmakers argue those very mechanics cross the line from engaging to predatory when it comes to children.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
   </section>
@@ -128,7 +128,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -136,7 +136,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

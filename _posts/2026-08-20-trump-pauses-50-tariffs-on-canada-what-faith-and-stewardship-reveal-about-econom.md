@@ -30,7 +30,7 @@ source_url: "https://www.nbcnews.com/business/economy/trump-pauses-canada-tariff
 
     <section id="what-happened" style="margin-bottom: 40px;">
         <h2 style="font-size: 1.5rem; color: #1a202c; border-bottom: 1px solid #edf2f7; padding-bottom: 8px; margin-bottom: 20px;">What Happened: The Midnight Tariff Pause</h2>
-        <p>Late Tuesday evening, President Donald Trump announced on social media that he was pausing the 50% tariffs scheduled to hit Canadian imports at midnight. The levies, which would have impacted roughly $20 billion worth of goods ranging from building materials and liquors to everyday hockey sticks, were halted for a three-day period following intensive last-minute negotiations between Washington and Ottawa.</p>
+        <p>Late Tuesday evening, President Donald Trump announced on social media that he was pausing the 50% tariffs scheduled to hit Canadian imports at midnight. The levies, which would have impacted roughly  billion worth of goods ranging from building materials and liquors to everyday hockey sticks, were halted for a three-day period following intensive last-minute negotiations between Washington and Ottawa.</p>
         
         <p>According to the White House and the Office of the U.S. Trade Representative, the emerging framework includes comprehensive market access for American goods, digital trade alignment, economic security commitments, and potential revival of the Keystone XL pipeline project. Canadian Prime Minister Mark Carney confirmed the temporary postponement, describing the preceding talks as very delicate and intense while emphasizing his government's dedication to securing real benefits for Canadian families and workers.</p>
 
@@ -41,7 +41,7 @@ source_url: "https://www.nbcnews.com/business/economy/trump-pauses-canada-tariff
         <p>The threatened duties represented the first invocation of Section 338 of the Tariff Act of 1930, a law allowing steep penalties against trading partners deemed to discriminate against U.S. commerce. While business organizations like the U.S. Chamber of Commerce warned of supply chain disruptions and higher costs for families, the sudden pause demonstrates how quickly high-stakes geopolitical brinkmanship can pivot toward dialogue.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </section>
@@ -51,7 +51,7 @@ Tactical Waterproof Backpack ($35.99)
         <p>When headlines are dominated by billions of dollars in threatened import taxes, retaliatory measures, and executive declarations, it is easy to view global economics purely as a chess match between political leaders. Yet, Scripture invites us to look deeper at the human heart, the nature of stewardship, and the profound importance of honest scales and relational peace.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -59,7 +59,7 @@ Tactical Waterproof Backpack ($35.99)
         <p>Commerce and trade are ancient human endeavors designed to distribute God's creation across regions. The Bible frequently speaks to the ethical dimensions of trade, reminding leaders and merchants that fairness and integrity matter deeply to Creator God. When trade disputes escalate into punitive tariffs, ordinary citizens—farmers, factory workers, and families—often bear the immediate financial burden.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -73,7 +73,7 @@ Tactical Waterproof Backpack ($35.99)
         <p>The intense negotiations between Washington and Ottawa, culminating in a precarious three-day pause, illustrate the constant friction between self-interest and cooperation. Prime Minister Carney noted that substantial progress was made, but important work remains. In our own lives, maintaining peace requires humility, active listening, and a willingness to step back from reactionary anger.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -89,18 +89,18 @@ Seagate Portable External Hard Drive ($59.99)
         <p>Behind the political maneuvering and trade declarations lie millions of real people whose daily livelihoods depend on stable cross-border commerce. The U.S. Chamber of Commerce highlighted that roughly 13 million American jobs rely on the North American trade framework, while Canadian families and businesses face uncertainty over prices for construction materials, consumer goods, and agricultural products.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
         <div style="background: #fffaf0; border-left: 4px solid #dd6b20; padding: 15px; margin: 15px 0; border-radius: 4px;">
-            <p style="margin: 0; font-size: 0.95kr; color: #744210;">Recommended Resource: <a href="https://www.amazon.com/dp/B07Y5X4K2P?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b7791f; font-weight: bold; text-decoration: underline;">Managing Household Finances in Uncertain Economic Times (Kindle Edition - $9.99)</a> - Practical wisdom for budgeting through price fluctuations and economic shifts.</p>
+            <p style="margin: 0; font-size: 0.95kr; color: #744210;">Recommended Resource: <a href="https://www.amazon.com/dp/B07Y5X4K2P?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b7791f; font-weight: bold; text-decoration: underline;">Managing Household Finances in Uncertain Economic Times (Kindle Edition - )</a> - Practical wisdom for budgeting through price fluctuations and economic shifts.</p>
         </div>
 
         <p>When trade barriers rise and fall on a three-day cycle, business owners cannot easily plan long-term investments, and everyday consumers face unpredictable price spikes. This instability underscores the biblical call for sober-minded planning and community resilience.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </section>
@@ -110,7 +110,7 @@ Tactical Waterproof Backpack ($35.99)
         <p>As believers observe these unfolding economic developments, our response should be grounded in prayerful discernment rather than anxiety or partisan division. Here are three concrete ways to approach such news:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         <ul style="padding-left: 20px; color: #4a5568;">

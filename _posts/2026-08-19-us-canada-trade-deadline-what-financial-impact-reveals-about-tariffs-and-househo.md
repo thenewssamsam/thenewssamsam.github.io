@@ -22,14 +22,14 @@ source_url: "https://www.bbc.com/news/articles/crl7600rpnko"
     <p>Beneath the diplomatic posturing lies a stark economic reality: trade policies are never abstract numbers on a government spreadsheet. They translate directly into grocery bills, manufacturing costs, and household purchasing power.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 </section>
 
 <section class="ncg-news-facts" id="what-happened">
     <h2>What Happened in the US-Canada Trade Talks</h2>
-    <p>Canadian negotiators have spent a tense week camped out in Washington, trying to hammer out an agreement before new 50% tariffs on roughly $20bn (C$28bn) worth of Canadian imports take effect on Wednesday. The White House originally unveiled these measures on July 20, setting a 30-day countdown that culminates mid-week.</p>
+    <p>Canadian negotiators have spent a tense week camped out in Washington, trying to hammer out an agreement before new 50% tariffs on roughly bn (Cbn) worth of Canadian imports take effect on Wednesday. The White House originally unveiled these measures on July 20, setting a 30-day countdown that culminates mid-week.</p>
     <p>Prime Minister Mark Carney, maintaining a tight lid on negotiations, spoke by phone with US leadership on Monday afternoon. While Carney insists Canada is negotiating from a "position of strength," the upcoming financial squeeze targets about 5% of all Canadian imports—hitting vital economic sectors including steel, aluminium, automobiles, forestry, and agriculture.</p>
     <p>The US administration is pushing for significant concessions, demanding that Canada remove retaliatory tariffs on American autos, adjust its strict dairy supply management quotas, and lift provincial bans on US alcohol sales. Meanwhile, domestic pressure on Carney is immense: recent polling from Abacus Data reveals that 74% of Canadians feel the ongoing trade dispute has already impacted their household finances.</p>
 </section>
@@ -82,7 +82,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -90,7 +90,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

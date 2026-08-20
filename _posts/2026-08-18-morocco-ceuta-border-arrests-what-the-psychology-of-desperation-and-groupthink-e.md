@@ -34,7 +34,7 @@ source_url: 'https://apnews.com/article/morocco-spain-ceuta-migration-6572645979
 <p>According to reports from Moroccan state television and the Associated Press, Moroccan security forces arrested 294 migrants from sub-Saharan Africa on a Saturday as they attempted to enter Ceuta by land and sea. Alongside those attempts, authorities detained 61 Moroccan nationals accused of facilitating the crossings.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -100,7 +100,7 @@ Source: <a href="https://apnews.com/article/morocco-spain-ceuta-migration-657264
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -108,7 +108,7 @@ Source: <a href="https://apnews.com/article/morocco-spain-ceuta-migration-657264
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

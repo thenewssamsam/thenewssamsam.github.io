@@ -24,7 +24,7 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vi
     <p>Angie Nixon, a member of the Democratic Socialists of America, overcame a massive fundraising deficit to defeat former army intelligence officer Alexander Vindman. While Vindman held significant financial advantages, Nixon’s grassroots campaign resonated with voters looking for a change from the establishment. She now faces Republican incumbent Ashley Moody in the upcoming general election.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -34,7 +34,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Nixon’s campaign has been marked by her active participation in protests against Republican redistricting efforts. During a sit-in at the governor’s office, she was arrested and now faces misdemeanor charges of trespassing and resisting an officer. This raises a common question: <strong>Can a candidate continue to run for office while facing criminal charges?</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -42,7 +42,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p><strong>"The legal system and the electoral system operate on parallel tracks; being a defendant in a misdemeanor case does not legally disqualify an individual from seeking federal office."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -51,14 +51,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Under U.S. law, eligibility for federal office—including the U.S. Senate—is defined by the Constitution (age, citizenship, and residency requirements). Criminal charges, or even a conviction, do not inherently strip a candidate of their right to appear on a ballot. This is a crucial distinction for voters to understand: the court of law and the court of public opinion serve different functions.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p><em>Note: This is general information, not legal advice. Consult a licensed attorney about your specific situation regarding protest laws or criminal proceedings.</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -66,7 +66,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>While individuals have a First Amendment right to peaceable assembly, this right is not absolute. It does not grant immunity for actions that violate specific statutes, such as trespassing or resisting arrest. When activists engage in civil disobedience, they are often aware that they are intentionally violating a law to make a point, and they accept the potential legal consequences as part of that process.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -76,14 +76,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Watching the intersection of political ambition and legal conflict, I am reminded of the biblical call to pursue justice while maintaining integrity. Proverbs 21:3 reminds us: <em>"To do righteousness and justice is more acceptable to the Lord than sacrifice."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>This verse invites us to consider that true leadership is not just about the outcome of a race or the winning of a seat, but about the spirit in which one fights for the vulnerable. When we see leaders standing up for what they believe is right, we are also reminded that the laws of the land are meant to provide order, yet they should always be tempered by mercy and the pursuit of truth. Regardless of one’s political affiliation, the challenge remains to act with a clear conscience, knowing that our ultimate accountability is not just to voters, but to a higher standard of conduct.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -103,7 +103,7 @@ Tactical Waterproof Backpack ($35.99)
       <p>The Florida Senate race serves as a reminder that political movements often carry heavy personal costs. As Angie Nixon prepares for the general election against Ashley Moody, voters are left to weigh the substance of her platform against the backdrop of her legal battles. Democracy is rarely clean, but it is always defined by the choices we make at the ballot box.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
       <p><em>The strength of a democracy is measured not by the absence of conflict, but by how we resolve it at the ballot box.</em></p>

@@ -27,7 +27,7 @@ source_url: "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceas
       <p><strong>Fact:</strong> While the U.S. initiated mine-clearing missions in April, maritime reports suggest the waterway remains extremely hazardous. Recent data shows traffic has dwindled to a trickle, and a cargo vessel was struck by a projectile as recently as Tuesday, resulting in crew casualties. The claim that the strait is "operating" ignores the reality that insurers and shipping companies view the passage as a high-risk zone.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -37,7 +37,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p><strong>Fact:</strong> President Trump officially stated on Tuesday that no talks are scheduled. This contradicts earlier assertions that negotiations were underway. Both Iranian officials and independent observers suggest that meaningful diplomacy has effectively stalled, with neither side currently viewing a concession-based deal as a viable path forward.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -52,13 +52,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>In times of international turmoil, it is easy to become overwhelmed by the shifting narratives and the fog of war. This situation invites us to consider the value of truth in leadership and the weight of our words. Proverbs 12:22 reminds us, <em>"The Lord detests lying lips, but he delights in people who are trustworthy."</em> (NIV). When leaders use language that obscures reality, it breeds instability and fear among the people they serve.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Furthermore, as we watch nations harden their positions, we are reminded of the fragility of peace. James 3:17-18 offers a standard for wisdom: <em>"But the wisdom that comes from heaven is first of all pure; then peace-loving, considerate, submissive, full of mercy and good fruit, impartial and sincere. Peacemakers who sow in peace reap a harvest of righteousness."</em> (NIV). This reminds me that our own response to chaos should be rooted in a search for truth and a posture of prayer, rather than being swept away by the latest headline or inflammatory rhetoric.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -68,7 +68,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>For individuals observing these events, the most prudent response is to maintain perspective and avoid reactionary decisions based on daily news cycles:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <ul>

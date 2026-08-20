@@ -101,37 +101,37 @@ source_url: 'https://www.nbcnews.com/politics/2026-election/trumps-endorsement-r
 <p>According to recent reports by NBC News, while Trump-backed candidates still boast an impressive overall record of 67-6 this election cycle, a string of late-season primary losses has dented that untouchable aura. With critical contests looming next week, political analysts are watching closely to see how far presidential coattails can actually stretch.</p>
 
 <div class="ncg-amazon-box">
-    Recommended Resource: <a href="https://www.amazon.com/dp/B08N5KWD68?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living</a> - $18.99
+    Recommended Resource: <a href="https://www.amazon.com/dp/B08N5KWD68?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living</a> - 
 </div>
 
 <h2 id="what-happened">What Happened in the Primaries?</h2>
 <p>For much of the 2026 primary season, a presidential endorsement functioned as a golden ticket for Republican candidates seeking to clear crowded fields. Trump’s backing regularly translated into decisive double-digit victories, cementing his ongoing grip on the party's apparatus.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="ncg-amazon-box">
-    Recommended Resource: <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Leadership: In Turbulent Times by Doris Kearns Goodwin</a> - $16.50
+    Recommended Resource: <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Leadership: In Turbulent Times by Doris Kearns Goodwin</a> - 
 </div>
 
 <p>However, August brought a sudden wave of friction. Several high-profile candidates carrying the former president's endorsement fell short at the ballot box. While a 67-6 record remains statistically formidable, the rare defeats highlight the limits of borrowed clout. Voters at the local level are increasingly evaluating candidates on individual merits, local grievances, and grassroots organization rather than national branding alone.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="ncg-amazon-box">
-    Recommended Resource: <a href="https://www.amazon.com/dp/0316033605?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Outliers: The Story of Success by Malcolm Gladwell</a> - $14.99
+    Recommended Resource: <a href="https://www.amazon.com/dp/0316033605?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Outliers: The Story of Success by Malcolm Gladwell</a> - 
 </div>
 
 <h2 id="scripture-perspective">The Biblical Perspective on Earthly Power</h2>
 <p>Shifting political fortunes often invite a deeper moral and spiritual reflection. In a culture obsessed with winning, endorsements, and political dominance, Scripture offers a sobering counter-perspective on where ultimate security lies.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -143,18 +143,18 @@ Seagate Portable External Hard Drive ($59.99)
 <p>This ancient wisdom reminds us that political alliances and earthly kingmakers are inherently fragile. Throughout history, societies have placed enormous hope in charismatic leaders and powerful figures, believing that the right endorsement could usher in an era of stability and prosperity. Yet, human political power ebbs and flows like the tide.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="ncg-amazon-box">
-    Recommended Resource: <a href="https://www.amazon.com/dp/0062316117?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Sapiens: A Brief History of Humankind by Yuval Noah Harari</a> - $22.49
+    Recommended Resource: <a href="https://www.amazon.com/dp/0062316117?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Sapiens: A Brief History of Humankind by Yuval Noah Harari</a> - 
 </div>
 
 <p>Another profound scriptural caution comes from the prophet Jeremiah, which speaks directly to the danger of relying on human strength rather than divine wisdom:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -166,7 +166,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>This does not mean Christians should disengage from civic life or ignore elections. Rather, it invites a re-centering of our affections. When our primary source of hope is tethered to election returns or political strongmen, we set ourselves up for perpetual anxiety. Leaders rise and fall, endorsements hit bumps in the road, but God's kingdom remains unshaken.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -175,19 +175,19 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 
 <div class="ncg-amazon-box">
-    Recommended Resource: <a href="https://www.amazon.com/dp/0802412858?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Explicit Gospel by Matt Chandler</a> - $15.99
+    Recommended Resource: <a href="https://www.amazon.com/dp/0802412858?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Explicit Gospel by Matt Chandler</a> - 
 </div>
 
 <h2 id="how-should-christians-respond">How Should Christians Respond?</h2>
 <p>As the primary season wraps up and the general election cycle approaches, believers are called to navigate politics with discernment, humility, and grace.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="ncg-amazon-box">
-    Recommended Resource: <a href="https://www.amazon.com/dp/0310349605?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry by John Mark Comer</a> - $15.49
+    Recommended Resource: <a href="https://www.amazon.com/dp/0310349605?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry by John Mark Comer</a> - 
 </div>
 
 <ul>
@@ -197,14 +197,14 @@ Seagate Portable External Hard Drive ($59.99)
 </ul>
 
 <div class="ncg-amazon-box">
-    Recommended Resource: <a href="https://www.amazon.com/dp/1581346581?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Practice of the God Presence by Brother Lawrence</a> - $9.99
+    Recommended Resource: <a href="https://www.amazon.com/dp/1581346581?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Practice of the God Presence by Brother Lawrence</a> - 
 </div>
 
 <h2 id="closing-takeaway">Closing Takeaway</h2>
 <p>Donald Trump’s recent primary setbacks are a standard reminder of political reality: no leader is infallible, and no streak lasts forever. For the believer, this moment is a gentle prompt to loosen our grip on earthly power struggles and anchor our hope in things that are eternal.</p>
 
 <div class="ncg-amazon-box">
-    Recommended Resource: <a href="https://www.amazon.com/dp/0310451390?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">NIV, Thinline Bible, Red Letter, Comfort Print</a> - $24.99
+    Recommended Resource: <a href="https://www.amazon.com/dp/0310451390?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">NIV, Thinline Bible, Red Letter, Comfort Print</a> - 
 </div>
 
 <section class="ncg-closing-box">
@@ -213,19 +213,19 @@ Seagate Portable External Hard Drive ($59.99)
 </section>
 
 <div class="ncg-amazon-box">
-    Recommended Resource: <a href="https://www.amazon.com/dp/1433562693?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">ESV Study Bible</a> - $39.99
+    Recommended Resource: <a href="https://www.amazon.com/dp/1433562693?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">ESV Study Bible</a> - 
 </div>
 
 <div class="ncg-amazon-box">
-    Recommended Resource: <a href="https://www.amazon.com/dp/0830846174?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Tech-Wise Family by Andy Crouch</a> - $13.99
+    Recommended Resource: <a href="https://www.amazon.com/dp/0830846174?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Tech-Wise Family by Andy Crouch</a> - 
 </div>
 
 <div class="ncg-amazon-box">
-    Recommended Resource: <a href="https://www.amazon.com/dp/0310339960?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Mere Christianity by C.S. Lewis</a> - $12.99
+    Recommended Resource: <a href="https://www.amazon.com/dp/0310339960?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Mere Christianity by C.S. Lewis</a> - 
 </div>
 
 <div class="ncg-amazon-box">
-    Recommended Resource: <a href="https://www.amazon.com/dp/0718092042?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Meaning of Marriage by Timothy Keller</a> - $18.99
+    Recommended Resource: <a href="https://www.amazon.com/dp/0718092042?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Meaning of Marriage by Timothy Keller</a> - 
 </div>
 
 <footer style="margin-top: 30px; font-size: 0.9rem; border-top: 1px solid #ccc; padding-top: 15px;">

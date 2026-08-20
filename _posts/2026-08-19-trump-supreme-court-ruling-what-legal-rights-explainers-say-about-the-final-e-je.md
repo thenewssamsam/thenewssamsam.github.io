@@ -38,10 +38,10 @@ source_url: "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.
   <section>
     <h2 id="what-happened">What Happened?</h2>
     <p>On Monday, the United States Supreme Court issued an order list declining to hear President Donald Trump's petition for a rehearing in his high-profile legal battle with writer E. Jean Carroll. The high court offered no written explanation for its refusal, which was anticipated by legal observers following an earlier denial in late June.</p>
-    <p>With this latest refusal, Carroll's attorney, Roberta Kaplan, confirmed that the litigation has reached its absolute end. The unanimous civil jury verdict finding Trump liable for sexual abuse and subsequent defamation in the 1990s and 2019 respectively is now final and insulated from any further appeals. Carroll has already collected more than $5.6 million covering the initial damages award plus post-judgment interest, according to online court dockets.</p>
+    <p>With this latest refusal, Carroll's attorney, Roberta Kaplan, confirmed that the litigation has reached its absolute end. The unanimous civil jury verdict finding Trump liable for sexual abuse and subsequent defamation in the 1990s and 2019 respectively is now final and insulated from any further appeals. Carroll has already collected more than  million covering the initial damages award plus post-judgment interest, according to online court dockets.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -51,16 +51,16 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When high-profile civil litigation intersects with executive power, the public often hears terms like "immunity," "rehearings," and "Hail Mary petitions." But from a mechanical legal standpoint, Monday's Supreme Court order illustrates a fundamental principle of civil procedure: litigation must eventually end.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
-    <p>Trump's legal team had pinned their petition for reconsideration on an argument involving presidential immunity. Specifically, they asserted that the court needed to weigh whether statements made while in office were improperly introduced, arguing that this question would naturally bear on a separate, pending appeal regarding an $83.3 million defamation verdict.</p>
+    <p>Trump's legal team had pinned their petition for reconsideration on an argument involving presidential immunity. Specifically, they asserted that the court needed to weigh whether statements made while in office were improperly introduced, arguing that this question would naturally bear on a separate, pending appeal regarding an  million defamation verdict.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
-    <p class="ncg-takeaway-box"><strong>The Legal Reality:</strong> Once the Supreme Court denies a petition for rehearing without taking up the case, the lower court's mandate is absolute. There is no higher tribunal in the American judicial system. The procedural road—motions, appeals, rehearings, and petitions for certiorari—has officially run dry for this specific $5 million judgment.</p>
+    <p class="ncg-takeaway-box"><strong>The Legal Reality:</strong> Once the Supreme Court denies a petition for rehearing without taking up the case, the lower court's mandate is absolute. There is no higher tribunal in the American judicial system. The procedural road—motions, appeals, rehearings, and petitions for certiorari—has officially run dry for this specific  million judgment.</p>
     
     <div class="ncg-quote-box">
       "As a result, the jury's unanimous verdict that Donald Trump sexually assaulted and then defamed E. Jean Carroll is now final and cannot be challenged in any court." — Roberta Kaplan, Attorney for E. Jean Carroll
@@ -76,19 +76,19 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Legal battles of this magnitude inevitably draw public attention to deeper questions of accountability, truth-seeking, and the human desire for vindication. When controversies ripple across the public square for years, it is easy to become weary of conflict and cynical about whether truth ultimately prevails in human systems.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Scripture frequently speaks to the importance of honest weights, truthful testimony, and the pursuit of justice that transcends earthly status. Proverbs 21:15 reminds us, <q>When justice is done, it brings joy to the righteous but terror to evildoers.</q> At the same time, the human heart is complex, and earthly verdicts rarely heal every relational or societal wound.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>This moment invites us to consider our own relationship with truth and accountability. Whether examining high-stakes courtroom drama or our day-to-day interactions, integrity matters. As the Apostle Paul writes in Ephesians 4:25, <q>Therefore each of you must put off falsehood and speak truthfully to your neighbor, for we are all members of one body.</q> True moral standing does not rest merely on legal technicalities or appellate outcomes, but on a steadfast commitment to honesty, humility, and the quiet pursuit of what is right before both God and our communities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

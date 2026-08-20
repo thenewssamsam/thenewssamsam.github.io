@@ -37,7 +37,7 @@ source_url: 'https://wpln.org/post/trump-admin-wants-to-restart-prosecution-of-a
 <p>According to reports from WPLN, U.S. District Judge Waverly Crenshaw previously threw out the case in Tennessee, writing that objective evidence showed the prosecution would never have happened if Abrego Garcia had not successfully challenged his removal to El Salvador. Now, the DOJ argues that Judge Crenshaw's ruling failed to follow proper Supreme Court precedent, setting up a high-stakes appellate showdown while a separate Maryland judge has temporarily blocked U.S. Immigration and Customs Enforcement (ICE) from deporting Abrego Garcia until at least October.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 </section>
@@ -157,7 +157,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -165,7 +165,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -24,7 +24,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/19/darline-graham-deba
     <p>Her opponent, Representative Ralph Norman, contrasted this by offering a detailed breakdown of Taiwan’s economic importance. The audience response was immediate, featuring a mix of gasps and boos, highlighting a sharp divide in voter expectations regarding what a Senate candidate should bring to the table: polished expertise or unvarnished authenticity.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-AMANSSE Lightweight Running Shoes ($65.99)
+AMANSSE Lightweight Running Shoes 
 </a></div>
 
   </section>
@@ -34,7 +34,7 @@ AMANSSE Lightweight Running Shoes ($65.99)
     <p>From a behavioral perspective, Graham’s admission triggers a fascinating psychological tension known as the <strong>authenticity paradox</strong>. Voters often claim they want "real" people in office who aren't polished, scripted career politicians. However, when that "realness" intersects with high-stakes domains like national security, the brain’s <em>normalcy bias</em> and need for perceived competence clash.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
     
@@ -45,12 +45,12 @@ CeraVe Hydrating Facial Cleanser ($14.99)
     <p>When candidates admit a lack of knowledge, they are attempting to build <em>relational trust</em>—the idea that "I am just like you." Yet, in complex systems, humans rely on <em>authority bias</em>, preferring leaders who sound like they have a firm grasp on global threats. Graham’s gamble is that voters in South Carolina are more interested in a candidate who shares their values and economic struggles than one who can recite foreign policy doctrine.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-FitVille Comfortable Running Shoes ($69.99)
+FitVille Comfortable Running Shoes 
 </a></div>
 
     
     <div class="ncg-product" style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 10px; margin: 10px 0;">
-      <strong>Recommended Reading:</strong> <a href="#">"The Psychology of Power: How We Choose Our Leaders" - $18.99</a>
+      <strong>Recommended Reading:</strong> <a href="#">"The Psychology of Power: How We Choose Our Leaders" - </a>
     </div>
   </section>
 
@@ -59,13 +59,13 @@ FitVille Comfortable Running Shoes ($69.99)
     <p>This situation invites us to consider the biblical value of humility and the weight of responsibility. Proverbs 15:2 reminds us, <em>"The tongue of the wise commends knowledge, but the mouths of the fool pour out folly."</em> Similarly, James 1:19 encourages, <em>"Everyone should be quick to listen, slow to speak and slow to become angry."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
     <p>While honesty is a virtue, the position of a leader—particularly one responsible for the safety of a nation—carries a stewardship of wisdom. Being "not informed" on matters of life and death is not merely a lack of polish; it is a point of concern for those seeking security. As we navigate the complex landscape of modern politics, we are reminded that true leadership requires not just an honest heart, but a diligent commitment to understanding the burdens one is tasked to carry.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-AMANSSE Lightweight Running Shoes ($65.99)
+AMANSSE Lightweight Running Shoes 
 </a></div>
 
   </section>
@@ -79,7 +79,7 @@ AMANSSE Lightweight Running Shoes ($65.99)
     </ul>
     
     <div class="ncg-product" style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 10px; margin: 10px 0;">
-      <strong>Civic Resource:</strong> <a href="#">"Government and Policy Guide for Beginners" - $12.50</a>
+      <strong>Civic Resource:</strong> <a href="#">"Government and Policy Guide for Beginners" - </a>
     </div>
   </section>
 

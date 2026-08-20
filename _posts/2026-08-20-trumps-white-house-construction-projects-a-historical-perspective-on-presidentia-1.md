@@ -24,10 +24,10 @@ source_url: 'https://apnews.com/article/trump-white-house-construction-ballroom-
 
   <section id="what-happened">
     <h2>The Construction Tour</h2>
-    <p>During the event, President Trump detailed the technical specifications of the new granite helipad, emphasizing its durability and the superiority of stone over asphalt. He noted that the project is built to withstand extreme pressure and suggested it will serve the White House for generations. Beyond the helipad, Trump highlighted the construction of a new $400 million ballroom, which he claims will bolster security and house anti-drone technology, despite ongoing legal challenges regarding its funding and authorization.</p>
+    <p>During the event, President Trump detailed the technical specifications of the new granite helipad, emphasizing its durability and the superiority of stone over asphalt. He noted that the project is built to withstand extreme pressure and suggested it will serve the White House for generations. Beyond the helipad, Trump highlighted the construction of a new  million ballroom, which he claims will bolster security and house anti-drone technology, despite ongoing legal challenges regarding its funding and authorization.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Vitamin C Brightening Serum ($16.99)
+CeraVe Vitamin C Brightening Serum 
 </a></div>
 
   </section>
@@ -37,7 +37,7 @@ CeraVe Vitamin C Brightening Serum ($16.99)
     <p>Trump’s focus on these projects—even amidst geopolitical tensions and domestic political challenges—is not an anomaly in the American story. Historically, presidents have frequently sought to leave their mark on the capital through architecture and renovation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Skin Renewing Night Cream ($18.99)
+CeraVe Skin Renewing Night Cream 
 </a></div>
 
     
@@ -45,7 +45,7 @@ CeraVe Skin Renewing Night Cream ($18.99)
     <p>William Howard Taft, for instance, was the first to establish the Oval Office in 1909 as part of an expansion of the West Wing. Like modern projects, it was a move to redefine how the executive branch functioned and appeared to the world. Taft’s addition was born out of a desire for a more formal, permanent space for the presidency to conduct business.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Vitamin C Brightening Serum ($16.99)
+CeraVe Vitamin C Brightening Serum 
 </a></div>
 
 
@@ -53,7 +53,7 @@ CeraVe Vitamin C Brightening Serum ($16.99)
     <p>Perhaps the most famous renovation occurred under Harry S. Truman, who oversaw a complete gutting and reconstruction of the White House’s interior in the late 1940s. The structure had become dangerously dilapidated, and Truman’s commitment to "saving" the house was a monumental physical project that defined his administration as one of restoration and preservation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Skin Renewing Night Cream ($18.99)
+CeraVe Skin Renewing Night Cream 
 </a></div>
 
 
@@ -64,7 +64,7 @@ CeraVe Skin Renewing Night Cream ($18.99)
     <p>These historical parallels remind us that the White House is not merely a static museum; it is a living space that reflects the priorities and temperaments of its inhabitants. However, the contrast often lies in the reception: while some projects become iconic staples, others face intense scrutiny regarding their necessity, cost, and aesthetic impact.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Lenovo Legion Tower Gaming PC ($899.99)
+Lenovo Legion Tower Gaming PC 
 </a></div>
 
   </section>
@@ -74,13 +74,13 @@ Lenovo Legion Tower Gaming PC ($899.99)
     <p>Watching the president focus on the strength of granite and the permanence of construction brings to mind the words of Jesus in Matthew 7:24-25: <em>"Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock. And the rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Vitamin C Brightening Serum ($16.99)
+CeraVe Vitamin C Brightening Serum 
 </a></div>
 
     <p>While the construction at the White House deals with physical stone and mortar, it serves as a reminder of where we place our true security. History teaches us that physical structures—no matter how impressive—are subject to the passage of time and the changing of tides. True, lasting stability is rarely found in the durability of our projects, but in the character and integrity we build within ourselves and our communities. As we observe the changes in Washington, we are invited to consider what foundations we are prioritizing in our own lives.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Lenovo Legion Tower Gaming PC ($899.99)
+Lenovo Legion Tower Gaming PC 
 </a></div>
 
   </section>

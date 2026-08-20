@@ -38,7 +38,7 @@ source_url: 'https://money.com/gen-x-retirement-age-68-savings/'
   <p>A recent survey of more than 1,000 employed Gen Xers conducted by Zety paints a sobering picture of generational anxiety. Just 20% of respondents expect to retire between ages 65 and 67. Meanwhile, 19% expect to push their exit date to 68 or later, and another 19% have resigned themselves to the possibility that they may never stop working. More than half—52%—worry they have fundamentally failed to save enough money, and 61% report feeling less financially secure today than they originally anticipated at this stage of life.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -75,7 +75,7 @@ Tactical Waterproof Backpack ($35.99)
   <ol>
     <li><strong>Audit Your True Gap:</strong> Stop guessing. Calculate your projected retirement expenses, factor in estimated Social Security income, and compare that figure against your current liquid and invested assets.</li>
     <li><strong>Maximize Workplace Matches:</strong> Never leave free money on the table. Always contribute enough to secure your employer's full 401(k) match, then incrementally step up your contribution rate with every modest raise or bonus.</li>
-    <li><strong>Utilize Catch-Up Contributions:</strong> Workers aged 50 and older have access to powerful IRS provisions. For 2026, standard workplace retirement plan limits allow up to $24,500 in contributions, plus an additional $8,000 in catch-up contributions for those 50+. Workers aged 60 through 63 may qualify for an even higher catch-up allowance of $11,250.</li>
+    <li><strong>Utilize Catch-Up Contributions:</strong> Workers aged 50 and older have access to powerful IRS provisions. For 2026, standard workplace retirement plan limits allow up to ,500 in contributions, plus an additional ,000 in catch-up contributions for those 50+. Workers aged 60 through 63 may qualify for an even higher catch-up allowance of ,250.</li>
     <li><strong>Avoid High-Risk Gambles:</strong> As Brian Court warns, someone in their 50s should never try to recover a decade of missed savings by chasing speculative, aggressive investments. True wealth protection relies on consistent, sensible allocations.</li>
   </ol>
 
@@ -127,7 +127,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -135,7 +135,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

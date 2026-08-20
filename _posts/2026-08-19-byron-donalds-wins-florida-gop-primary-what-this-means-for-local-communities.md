@@ -24,7 +24,7 @@ source_url: "https://www.foxnews.com/politics/trumps-handpicked-desantis-success
     <p>Rep. Byron Donalds defeated a competitive field, including Lt. Gov. Jay Collins, to clinch the GOP nomination. Boosted by an early endorsement from President Donald Trump, Donalds maintained momentum throughout the primary season. He now prepares to face former Republican-turned-Democrat David Jolly in the general election.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>
@@ -34,7 +34,7 @@ Crevice Cleaning Brush Set ($12.99)
     <p>For Floridians, this race is about more than national headlines—it is about the tangible issues affecting day-to-day life. Donalds has centered his platform on three pillars that hit home for local residents: infrastructure growth, affordability, and the long-term restoration of the Everglades.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     
@@ -42,7 +42,7 @@ Crevice Cleaning Brush Set ($12.99)
       <p><strong>"The future of Florida depends on our ability to maintain a business-friendly environment while ensuring that families can afford to live in the communities they call home."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     </div>
@@ -51,7 +51,7 @@ Crevice Cleaning Brush Set ($12.99)
     <p>Donalds has explicitly campaigned on growing Florida’s infrastructure. As the state continues to see rapid population growth, the demand for expanded transit and utility services is at an all-time high. Residents in growing counties will be looking for specific plans on how a Donalds administration intends to balance this development with environmental stewardship, particularly regarding the restoration of the Everglades.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
 
@@ -59,7 +59,7 @@ Crevice Cleaning Brush Set ($12.99)
     <p>With "affordability" as a primary campaign slogan, local taxpayers are waiting to see how deregulation and tax policy shifts will impact the cost of living. For the average Florida household, the promise of lower taxes is a significant factor, especially in an economy where housing and insurance costs remain top-of-mind concerns.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>
@@ -69,13 +69,13 @@ Crevice Cleaning Brush Set ($12.99)
     <p>As we observe the shifting political landscape, it is a reminder that leadership is ultimately a call to serve the community's well-being. Proverbs 29:2 reminds us, <em>"When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     <p>This verse invites us to consider that the true measure of any leader—regardless of party—is found in their commitment to justice, mercy, and the practical needs of their neighbors. It encourages us to look past the campaign rhetoric and evaluate how policies will impact the vulnerable and the everyday worker. Whether in a local council or the governor's mansion, the responsibility of those in power is to foster an environment where families can flourish in peace and stability.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>

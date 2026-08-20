@@ -37,7 +37,7 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-r
     <p>In Florida's high-stakes 2026 primary election, incumbent Republican Representative Cory Mills lost his bid for a third term in the House. According to a race call by The Associated Press, challenger Ryan Elijah—a former local television news anchor—secured a victory by a margin of about 12 percentage votes. The defeat comes at a turbulent time for Mills, who has faced intense public scrutiny following a House Ethics Committee investigation into allegations of sexual misconduct and campaign finance violations. Mills has consistently denied any wrongdoing.</p>
 
     <div class="ncg-product-card" style="background: #f9fafb; border-left: 4px solid #f59e0b; padding: 14px 16px; margin: 20px 0; border-radius: 4px;">
-      <p style="margin: 0; font-size: 0.95rem; color: #1f2937;"><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B073X8XYMC?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2563eb; text-decoration: underline;">Understanding Constitutional Law and Legislative Ethics</a> — $24.99. A helpful guide for readers wanting a clearer picture of how congressional oversight and legislative rules operate in the United States.</p>
+      <p style="margin: 0; font-size: 0.95rem; color: #1f2937;"><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B073X8XYMC?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2563eb; text-decoration: underline;">Understanding Constitutional Law and Legislative Ethics</a> — . A helpful guide for readers wanting a clearer picture of how congressional oversight and legislative rules operate in the United States.</p>
     </div>
 
     <p>The political fallout extends beyond the primary tally. While Mills campaigned under the banner of a Donald Trump endorsement from earlier in the year, high-profile figures distanced themselves as the primary approached. Florida Governor Ron DeSantis publicly stated he did not endorse or support Mills, while other Republicans in the state backed Elijah. Voters like Tiffany Davis expressed concerns over the "baggage" surrounding the incumbent, fearing general election vulnerabilities against Democratic nominee Bale Dalton, a 24-year Navy veteran and former NASA chief of staff.</p>
@@ -48,7 +48,7 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-r
     <p>When high-profile political figures face investigations by bodies like the House Ethics Committee, it often sparks widespread confusion regarding their legal rights, protections, and the nature of internal congressional oversight versus criminal proceedings.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -56,7 +56,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>A fundamental principle of American jurisprudence is the presumption of innocence. However, the House Ethics Committee is a legislative body, not a court of law. Its inquiries are administrative and institutional rather than criminal. When the committee opens an investigation into allegations—such as campaign finance infractions or personal misconduct—it does not possess the authority to hand down criminal prison sentences. Instead, its purview is to determine whether a member has violated the rules of the House, with potential penalties ranging from reprimands and fines to expulsion.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -65,14 +65,14 @@ Tactical Waterproof Backpack ($35.99)
     </div>
 
     <div class="ncg-product-card" style="background: #f9fafb; border-left: 4px solid #f59e0b; padding: 14px 16px; margin: 20px 0; border-radius: 4px;">
-      <p style="margin: 0; font-size: 0.95rem; color: #1f2937;"><strong>Helpful Resource:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2563eb; text-decoration: underline;">The Citizen's Guide to the U.S. Legal System</a> — $18.50. Learn the foundational differences between legislative oversight, administrative hearings, and criminal court proceedings.</p>
+      <p style="margin: 0; font-size: 0.95rem; color: #1f2937;"><strong>Helpful Resource:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2563eb; text-decoration: underline;">The Citizen's Guide to the U.S. Legal System</a> — . Learn the foundational differences between legislative oversight, administrative hearings, and criminal court proceedings.</p>
     </div>
 
     <h3 class="ncg-h3">The Right to Due Process and Public Defense</h3>
     <p>Representative Mills has maintained his innocence and denied all allegations against him. Under standard legislative ethics rules, a member under investigation retains the right to counsel, the opportunity to respond to findings, and due process before any disciplinary action is finalized by the full House. Yet, electoral accountability functions entirely apart from formal legal adjudications. Voters exercise their own prerogative to weigh allegations, baggage, and electability when stepping into the voting booth—a reality demonstrated clearly by the outcome in Florida's 7th district.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -84,18 +84,18 @@ Tactical Waterproof Backpack ($35.99)
     <p>Political developments like primary defeats and ethics scandals often cause us to reflect deeper on the moral foundations of leadership. Proverbs reminds us that integrity is the bedrock of any lasting influence: <q>“The integrity of the upright guides them, but the crookedness of the treacherous destroys them”</q> (Proverbs 11:3, ESV). This verse invites us to consider that public office is not merely a position of power, but a sacred trust of stewardship over communities and people.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <div class="ncg-product-card" style="background: #f9fafb; border-left: 4px solid #f59e0b; padding: 14px 16px; margin: 20px 0; border-radius: 4px;">
-      <p style="margin: 0; font-size: 0.95rem; color: #1f2937;"><strong>Daily Reflection:</strong> <a href="https://www.amazon.com/dp/1506471681?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2563eb; text-decoration: underline;">The Leadership Challenge: How to Make Extraordinary Things Happen in Organizations</a> — $22.00. Focuses on character, trust, and ethical leadership principles.</p>
+      <p style="margin: 0; font-size: 0.95rem; color: #1f2937;"><strong>Daily Reflection:</strong> <a href="https://www.amazon.com/dp/1506471681?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2563eb; text-decoration: underline;">The Leadership Challenge: How to Make Extraordinary Things Happen in Organizations</a> — . Focuses on character, trust, and ethical leadership principles.</p>
     </div>
 
     <p>When leaders face serious allegations, the community bears a heavy burden. It reminds me that transparency, honesty, and accountability are virtues that must be guarded fiercely at every level of society. As we observe these transitions, we are challenged to pray for discernment for voters and wisdom for those who govern, keeping our ultimate hope anchored in principles higher than partisan politics.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

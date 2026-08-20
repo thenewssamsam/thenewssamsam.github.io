@@ -29,7 +29,7 @@ source_url: "https://www.nbcnews.com/politics/2026-primary-special-elections/flo
     <p>When a Senate seat is contested, the impact often feels distant, yet the decisions made in Washington directly affect Florida's federal funding for disaster mitigation, hurricane recovery, and coastal protection. For residents in vulnerable coastal areas, the primary results signal which legislative priorities will be championed in the capital.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -38,10 +38,10 @@ Seagate Portable External Hard Drive ($59.99)
     </blockquote>
 
     <div style="border: 1px solid #ddd; padding: 15px; background: #f9f9f9; border-left: 5px solid #8e44ad;">
-      <p><strong>Recommended Reading:</strong> Keep track of your local district updates with this <a href="https://www.amazon.com/dp/B000000000" target="_blank" rel="noopener noreferrer">Florida State Political Almanac - $24.99</a>.</p>
+      <p><strong>Recommended Reading:</strong> Keep track of your local district updates with this <a href="https://www.amazon.com/dp/B000000000" target="_blank" rel="noopener noreferrer">Florida State Political Almanac - </a>.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -49,7 +49,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Beyond federal dollars, these results highlight a growing divide in local political engagement. In many counties, the turnout reflects a highly energized electorate, suggesting that voters are increasingly aware of how state-level leadership impacts their daily cost of living and local school board funding.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -59,19 +59,19 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In times of political transition, it is easy to become caught up in the fervor of the moment. Yet, Scripture reminds us to approach our responsibilities with a heart for our neighbors. As we consider the direction of our state, we are reminded of the call to seek justice and peace in our communities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p><em>"But let justice roll down like waters, and righteousness like an ever-flowing stream."</em> — Amos 5:24</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>This verse reminds us that our primary duty, regardless of the election outcome, is to advocate for the well-being of the vulnerable and to act with integrity in our local spheres of influence. Whether our chosen candidate wins or loses, our commitment to our community remains the bedrock of a healthy society.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

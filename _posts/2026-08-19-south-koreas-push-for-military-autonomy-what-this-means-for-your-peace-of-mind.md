@@ -23,10 +23,10 @@ source_url: "https://www.theguardian.com/world/2026/aug/18/south-korea-president
     <p>The decision to reduce the "Ulchi Freedom Shield" exercises, which were designed to test South Korea’s readiness to assume wartime operational control (Opcon), has sent ripples through the international community. For decades, the authority to direct South Korean forces in the event of war has rested with the US-led Combined Forces Command. President Lee argues that strengthening South Korea’s own defense capabilities, including the development of nuclear-powered submarines, is essential for a mature, mutually reinforcing alliance.</p>
     
     <div style="border-left: 4px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended for You:</strong> <a href="#">Stress-Relief Essential Oil Diffuser - $29.99</a></p>
+      <p><strong>Recommended for You:</strong> <a href="#">Stress-Relief Essential Oil Diffuser - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -34,7 +34,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The move comes amidst a changing battlefield landscape, with reports suggesting that North Korean forces have gained new tactical experience through their involvement in the Ukraine conflict. Military officials note that training exercises have evolved to account for these modern threats, making the sudden reduction of drills a point of significant internal debate within Seoul.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -44,15 +44,15 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When headlines shift rapidly, it is normal to experience a sense of unease. From a health and wellness perspective, "geopolitical anxiety" is a real phenomenon. When the structures that we perceive as keeping us safe—like long-standing military alliances—undergo sudden changes, our nervous system can react as if our personal safety is being threatened.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <div style="border-left: 4px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended for You:</strong> <a href="#">Weighted Blanket for Anxiety Relief - $89.00</a></p>
+      <p><strong>Recommended for You:</strong> <a href="#">Weighted Blanket for Anxiety Relief - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -61,7 +61,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When the news feels overwhelming, focus on what you can control. This is general information, not medical advice. If you find yourself spiraling into "what-if" scenarios, try grounding techniques like the 5-4-3-2-1 method: identify five things you see, four you can touch, three you hear, two you can smell, and one you can taste. This pulls your brain out of future-tense anxiety and back into your physical, present reality.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -75,15 +75,15 @@ Tactical Waterproof Backpack ($35.99)
     <p>When the foundations of our world feel shaky, I am often reminded of the words in <strong>Psalm 46:1-2</strong>: "God is our refuge and strength, an ever-present help in trouble. Therefore we will not fear, though the earth give way and the mountains fall into the heart of the sea."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <div style="border-left: 4px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended for You:</strong> <a href="#">Journal for Daily Reflection and Prayer - $15.99</a></p>
+      <p><strong>Recommended for You:</strong> <a href="#">Journal for Daily Reflection and Prayer - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -91,7 +91,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>This does not mean we ignore reality or neglect our responsibilities. Instead, it invites us to consider that our ultimate peace is not contingent on the decisions of world leaders or the status of military drills. When we feel the weight of global uncertainty, we can choose to anchor our hearts in a source of peace that does not fluctuate with the news cycle. It is a reminder that while we must be wise and prepared, we do not have to carry the burden of the world's future on our own shoulders.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -105,10 +105,10 @@ Seagate Portable External Hard Drive ($59.99)
     </ul>
 
     <div style="border-left: 4px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended for You:</strong> <a href="#">Herbal Sleep Aid Supplement - $22.50</a></p>
+      <p><strong>Recommended for You:</strong> <a href="#">Herbal Sleep Aid Supplement - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -119,7 +119,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>As South Korea navigates the complex path toward increased military autonomy, we are reminded that change is a constant, even in the most sensitive areas of life. Whether in national security or our personal lives, the goal is always to find a balance between being prepared for the future and remaining at peace in the present. By focusing on our own resilience and local connections, we can navigate uncertain times with grace and clarity.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p><em>Stay grounded, stay informed, and remember that your peace is a choice you can make every day.</em></p>

@@ -36,7 +36,7 @@ source_url: 'https://www.cityandstateny.com/politics/2026/08/randy-mastro-cant-s
     <p>The targets are wide-ranging. Mastro's legal challenges have sought to halt homeless shelter relocations, overturn the Rent Guidelines Board's rent freeze on rent-stabilized apartments, push for an open primary system, and back a Forbes journalist fighting for transparency over executive orders. Most recently, Mastro secured a temporary restraining order over the rollout of the city's contentious pied-à-terre tax on luxury second homes—though a state appeals court quickly paused that victory pending further hearings.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>While former Mayor Adams has traveled the globe and kept a safe distance from municipal politics, Mastro has stepped into the breach. He insists his actions are purely non-denominational and rooted in holding government accountable to the rule of law. Yet, with an open declaration last December that he would never "work for a socialist," Mastro's crusade carries an unmistakable ideological intensity that has quickly become a defining subplot of New York City politics.</p>
@@ -81,7 +81,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -89,7 +89,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

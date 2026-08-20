@@ -40,13 +40,13 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vi
 
     <p class="ncg-intro">In a stunning upset that reverberated across national politics, progressive state representative Angie Nixon defeated well-funded former intelligence officer Alexander Vindman in Florida's Democratic US Senate primary, raising profound questions about the nature of political power, establishment spending, and grassroots perseverance.</p>
 
-    <p class="ncg-p">The primary race for the Democratic nomination to challenge Republican Ashley Moody in November was widely expected to be a straightforward coronation for Alexander Vindman. Vindman entered the final stretch of the race with a massive financial advantage, reporting roughly $16.3 million in campaign funds at the end of July. In stark contrast, Angie Nixon—a Jacksonville-born state representative and member of the Democratic Socialists of America—managed her campaign with approximately $975,000.</p>
+    <p class="ncg-p">The primary race for the Democratic nomination to challenge Republican Ashley Moody in November was widely expected to be a straightforward coronation for Alexander Vindman. Vindman entered the final stretch of the race with a massive financial advantage, reporting roughly  million in campaign funds at the end of July. In stark contrast, Angie Nixon—a Jacksonville-born state representative and member of the Democratic Socialists of America—managed her campaign with approximately ,000.</p>
 
     <p class="ncg-p">Despite the staggering disparity in financial backing, voters in Florida charted a different course. Nixon's campaign focused intensely on her longstanding grassroots battles alongside local residents, including her participation in a high-profile sit-in at Governor Ron DeSantis's office earlier this spring over redistricting. Vindman, meanwhile, concentrated much of his rhetoric on the impending general election against Moody and notably declined Nixon's public invitations to debate.</p>
 
     <div class="ncg-amazon-box">
       <div class="ncg-amazon-title">The Pocket Bible Commentary (NIV/ESV Study Companion)</div>
-      <div class="ncg-amazon-price">$18.99</div>
+      <div class="ncg-amazon-price"></div>
       <a href="https://www.amazon.com/dp/B00EXAMPLE1?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">View on Amazon</a>
     </div>
 
@@ -57,7 +57,7 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vi
 
     <div class="ncg-amazon-box">
       <div class="ncg-amazon-title">Leadership in Turbulent Times: Principles for Servant Leaders</div>
-      <div class="ncg-amazon-price">$14.50</div>
+      <div class="ncg-amazon-price"></div>
       <a href="https://www.amazon.com/dp/B00EXAMPLE2?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">View on Amazon</a>
     </div>
 
@@ -78,7 +78,7 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vi
 
     <div class="ncg-amazon-box">
       <div class="ncg-amazon-title">The Pursuit of Justice: Faith, Politics, and Community Action</div>
-      <div class="ncg-amazon-price">$16.99</div>
+      <div class="ncg-amazon-price"></div>
       <a href="https://www.amazon.com/dp/B00EXAMPLE3?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">View on Amazon</a>
     </div>
 
@@ -93,7 +93,7 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vi
 
     <div class="ncg-amazon-box">
       <div class="ncg-amazon-title">Journal for Daily Reflection and Prayer</div>
-      <div class="ncg-amazon-price">$12.99</div>
+      <div class="ncg-amazon-price"></div>
       <a href="https://www.amazon.com/dp/B00EXAMPLE4?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">View on Amazon</a>
     </div>
 
@@ -108,49 +108,49 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vi
 
     <div class="ncg-amazon-box">
       <div class="ncg-amazon-title">Civic Engagement and Faith: A Guide for Believers</div>
-      <div class="ncg-amazon-price">$15.50</div>
+      <div class="ncg-amazon-price"></div>
       <a href="https://www.amazon.com/dp/B00EXAMPLE5?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">View on Amazon</a>
     </div>
 
     <div class="ncg-amazon-box">
       <div class="ncg-amazon-title">Understanding Biblical Stewardship in Modern Society</div>
-      <div class="ncg-amazon-price">$13.75</div>
+      <div class="ncg-amazon-price"></div>
       <a href="https://www.amazon.com/dp/B00EXAMPLE6?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">View on Amazon</a>
     </div>
 
     <div class="ncg-amazon-box">
       <div class="ncg-amazon-title">Encouragement for the Weary Advocate: Finding Strength in Community</div>
-      <div class="ncg-amazon-price">$11.99</div>
+      <div class="ncg-amazon-price"></div>
       <a href="https://www.amazon.com/dp/B00EXAMPLE7?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">View on Amazon</a>
     </div>
 
     <div class="ncg-amazon-box">
       <div class="ncg-amazon-title">The Power of Local Voices: Grassroots Organizing Handbook</div>
-      <div class="ncg-amazon-price">$17.25</div>
+      <div class="ncg-amazon-price"></div>
       <a href="https://www.amazon.com/dp/B00EXAMPLE8?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">View on Amazon</a>
     </div>
 
     <div class="ncg-amazon-box">
       <div class="ncg-amazon-title">Wisdom for Decision Makers: Governance and Ethics</div>
-      <div class="ncg-amazon-price">$19.99</div>
+      <div class="ncg-amazon-price"></div>
       <a href="https://www.amazon.com/dp/B00EXAMPLE9?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">View on Amazon</a>
     </div>
 
     <div class="ncg-amazon-box">
       <div class="ncg-amazon-title">Reflections on Grace and Truth in Public Life</div>
-      <div class="ncg-amazon-price">$14.25</div>
+      <div class="ncg-amazon-price"></div>
       <a href="https://www.amazon.com/dp/B00EXAMPLE10?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">View on Amazon</a>
     </div>
 
     <div class="ncg-amazon-box">
       <div class="ncg-amazon-title">Walking in Integrity: A Devotional for Public Servants</div>
-      <div class="ncg-amazon-price">$16.50</div>
+      <div class="ncg-amazon-price"></div>
       <a href="https://www.amazon.com/dp/B00EXAMPLE11?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">View on Amazon</a>
     </div>
 
     <div class="ncg-amazon-box">
       <div class="ncg-amazon-title">The Servant Leader's Handbook: Practical Faith in Action</div>
-      <div class="ncg-amazon-price">$15.99</div>
+      <div class="ncg-amazon-price"></div>
       <a href="https://www.amazon.com/dp/B00EXAMPLE12?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">View on Amazon</a>
     </div>
 

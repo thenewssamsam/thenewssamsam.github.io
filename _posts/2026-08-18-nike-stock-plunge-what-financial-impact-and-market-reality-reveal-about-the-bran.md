@@ -21,7 +21,7 @@ source_url: 'https://finance.yahoo.com/markets/stocks/article/nikes-stock-plunge
 </header>
 
 <section id="ncg-intro">
-    <p>Wall Street analysts have spent years betting on a swift rebound for Nike, but the market keeps delivering a starkly different verdict. Nike stock recently crashed to its lowest level since September 2024, trading below $40 a share and sitting roughly 78 percent below its all-time high set back in 2021. For everyday investors and market observers, this relentless slide is no longer a temporary market blip—it is a clear reflection of stubborn execution hurdles, shifting consumer habits, and a widening gap between Wall Street optimism and underlying financial realities.</p>
+    <p>Wall Street analysts have spent years betting on a swift rebound for Nike, but the market keeps delivering a starkly different verdict. Nike stock recently crashed to its lowest level since September 2024, trading below  a share and sitting roughly 78 percent below its all-time high set back in 2021. For everyday investors and market observers, this relentless slide is no longer a temporary market blip—it is a clear reflection of stubborn execution hurdles, shifting consumer habits, and a widening gap between Wall Street optimism and underlying financial realities.</p>
 </section>
 
 <nav id="ncg-toc" class="ncg-toc-box">
@@ -38,13 +38,13 @@ source_url: 'https://finance.yahoo.com/markets/stocks/article/nikes-stock-plunge
 
 <section id="what-happened">
     <h2>What Happened: The Numbers Behind the Drop</h2>
-    <p>The latest wave of selling pressure follows a stretch of weak financial quarters that have consistently disappointed market expectations. In late June, Nike reported fiscal fourth-quarter revenue of $11.0 billion, reflecting a 1 percent decline on a reported basis and a 4 percent drop when adjusted for currency fluctuations.</p>
+    <p>The latest wave of selling pressure follows a stretch of weak financial quarters that have consistently disappointed market expectations. In late June, Nike reported fiscal fourth-quarter revenue of  billion, reflecting a 1 percent decline on a reported basis and a 4 percent drop when adjusted for currency fluctuations.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
-    <p>While the company's diluted earnings per share (EPS) of $0.72 appeared significantly stronger on a year-over-year basis at first glance, that figure was heavily distorted. A massive $0.52 per share one-time benefit stemming from an expected tariff recovery masked the underlying operational weakness.</p>
+    <p>While the company's diluted earnings per share (EPS) of  appeared significantly stronger on a year-over-year basis at first glance, that figure was heavily distorted. A massive  per share one-time benefit stemming from an expected tariff recovery masked the underlying operational weakness.</p>
     <p>Looking ahead, management projected fiscal first-quarter revenues to fall by a low-to-mid single-digit percentage. Furthermore, the company reiterated flat earnings per share growth over the subsequent three quarters, excluding the temporary tariff recovery proceeds. Evercore ISI analyst noted that there are still no hints that revenues can turn positive in the foreseeable future, leaving little justification for expanding the price-to-earnings (P/E) ratio from current levels.</p>
 </section>
 
@@ -182,7 +182,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -190,7 +190,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

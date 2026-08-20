@@ -34,7 +34,7 @@ source_url: ''
 <p>Shakur was just 25 years old when he was fatally shot following a Mike Tyson boxing match on September 7, 1996. He died six days later. For decades, the case remained one of modern music's most infamous unsolved mysteries, bogged down by distrust in law enforcement, a pervasive street code of silence, and institutional dead ends.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 <p>Now, prosecutors allege that Davis acted as the "on-ground, on-site commander" who organized the killing to avenge a physical altercation involving his nephew, Orlando Anderson, earlier that evening. While Davis did not pull the trigger, the state argues he acquired the weapon and passed it to Anderson. Davis has pleaded not guilty, and his defense team has fiercely pushed back, dismissing the prosecution's heavy reliance on Davis's 2019 memoir and interviews as "fiction" manufactured to sell books, while criticizing decades-old police work.</p>
@@ -141,7 +141,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -149,7 +149,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

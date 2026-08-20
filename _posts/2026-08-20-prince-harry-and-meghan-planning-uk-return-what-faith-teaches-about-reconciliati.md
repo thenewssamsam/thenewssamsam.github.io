@@ -27,16 +27,16 @@ source_url: 'https://www.cnn.com/2026/08/19/uk/sussex-meghan-harry-back-to-brita
     <p>According to reports, the couple plans to move back to Britain later this month. King Charles was reportedly informed of the decision on Sunday, a development that follows a private family visit to the UK in July. While the King has welcomed the opportunity to see more of his grandchildren, Buckingham Palace has maintained that there will be no change to the couple’s status as non-working members of the royal family.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0D851Z6NQ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Samsung Galaxy Tab S9 Tablet ($249.99)
+Samsung Galaxy Tab S9 Tablet 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-box" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Recommended for families:</strong> <a href="#">The Art of Forgiveness: A Guide to Healing Relationships</a> - $14.99</p>
+    <p><strong>Recommended for families:</strong> <a href="#">The Art of Forgiveness: A Guide to Healing Relationships</a> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0DJP6D6PJ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Acer Wireless Monitor ($129.99)
+Acer Wireless Monitor 
 </a></div>
 
   </div>
@@ -46,7 +46,7 @@ Acer Wireless Monitor ($129.99)
     <p>Public life, especially for those in the spotlight, often masks the private struggles common to every family. The "public falling out" between the Sussexes and the Windsor family serves as a reminder that broken relationships are a universal human experience. From a biblical worldview, the movement toward home—toward a place of origin—is often a precursor to the hard work of mending what has been torn.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0D851Z6NQ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Samsung Galaxy Tab S9 Tablet ($249.99)
+Samsung Galaxy Tab S9 Tablet 
 </a></div>
 
     
@@ -57,16 +57,16 @@ Samsung Galaxy Tab S9 Tablet ($249.99)
     <p>Scripture calls us to be agents of peace. In <em>Romans 12:18</em>, the Apostle Paul writes, <em>"If it is possible, as far as it depends on you, live at peace with everyone."</em> This command is intentionally challenging. It acknowledges that peace is not always fully within our control, yet it places the responsibility for the attempt squarely on our shoulders. The Sussexes' return to the UK represents a physical step that may mirror a spiritual desire for proximity and, hopefully, healing.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0DJP6D6PJ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Acer Wireless Monitor ($129.99)
+Acer Wireless Monitor 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-box" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>For your library:</strong> <a href="#">The Power of Reconciliation: Healing Divided Families</a> - $18.50</p>
+    <p><strong>For your library:</strong> <a href="#">The Power of Reconciliation: Healing Divided Families</a> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0D851Z6NQ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Samsung Galaxy Tab S9 Tablet ($249.99)
+Samsung Galaxy Tab S9 Tablet 
 </a></div>
 
   </div>
@@ -76,22 +76,22 @@ Samsung Galaxy Tab S9 Tablet ($249.99)
     <p>Seeing a family navigate such high-profile discord makes me think about the fragility of our own bonds. When we face betrayal or misunderstanding, the natural inclination is to build walls. Yet, the Gospel invites us to build bridges. <em>Colossians 3:13</em> reminds us: <em>"Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F3PQHWTZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Sony WH-1000XM6 Wireless Headphones ($399.99)
+Sony WH-1000XM6 Wireless Headphones 
 </a></div>
 
     <p>True forgiveness does not mean ignoring real harms or the complexities of the past. It means releasing the power that bitterness holds over our hearts. As Harry and Meghan return to the UK, they—and the royal family—face the challenge of balancing public duty with private healing. It is a reminder that we are all, regardless of station, in need of grace.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F3PQHWTZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Sony WH-1000XM6 Wireless Headphones ($399.99)
+Sony WH-1000XM6 Wireless Headphones 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-box" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Reflection Journal:</strong> <a href="#">Guided Prayer and Reflection Journal for Families</a> - $12.95</p>
+    <p><strong>Reflection Journal:</strong> <a href="#">Guided Prayer and Reflection Journal for Families</a> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0DJP6D6PJ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Acer Wireless Monitor ($129.99)
+Acer Wireless Monitor 
 </a></div>
 
   </div>

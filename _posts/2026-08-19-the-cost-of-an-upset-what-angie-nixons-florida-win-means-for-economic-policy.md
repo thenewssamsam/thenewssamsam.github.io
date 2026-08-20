@@ -21,10 +21,10 @@ source_url: "https://www.foxnews.com/politics/progressive-florida-lawmaker-angie
 
   <section id="what-happened">
     <h2>The Financial Disparity of the Campaign</h2>
-    <p>The primary results highlight a dramatic gap between national name recognition and grassroots funding. According to FEC records, Vindman reported approximately $14.6 million in campaign receipts—more than 20 times the $625,000 raised by Nixon. Despite this massive financial deficit, Nixon’s campaign, rooted in labor organizing and union advocacy, resonated with the primary electorate.</p>
+    <p>The primary results highlight a dramatic gap between national name recognition and grassroots funding. According to FEC records, Vindman reported approximately  million in campaign receipts—more than 20 times the ,000 raised by Nixon. Despite this massive financial deficit, Nixon’s campaign, rooted in labor organizing and union advocacy, resonated with the primary electorate.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -32,7 +32,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>Recommended Reading:</strong> <em>The Price of Inequality: How Today's Divided Society Endangers Our Future</em> - <a href="#">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -40,7 +40,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Nixon, a former SEIU field director, has centered her platform on aggressive economic interventions. Her victory signals a shift toward a more populist, labor-focused economic agenda for Florida Democrats, moving away from the more traditional, well-funded establishment approach represented by her primary opponent.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -50,7 +50,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>For the average Floridian, Nixon’s platform represents a significant departure from the status quo. Her proposals—specifically regarding housing and healthcare—carry substantial fiscal weight.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -58,7 +58,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Nixon has publicly backed a nationwide rent freeze for at least one year. From a financial literacy perspective, such a policy would act as a massive price-control intervention. While designed to provide immediate relief to tenants facing rising costs, economists often warn that price caps can lead to reduced maintenance investment and supply shortages in the long term, as landlords may struggle to cover rising insurance and property tax costs.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -70,7 +70,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>When questioned on the funding of ambitious programs like Medicare-for-All, Nixon emphasized that she would avoid tax hikes on the middle class. However, the macro-financial reality of such programs usually involves significant shifts in federal spending. As a potential Senator, Nixon would face the challenge of balancing these expansive social commitments against a backdrop of rising national debt.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -80,13 +80,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>As we observe the shifting priorities in our political landscape, it is helpful to consider the biblical principle of stewardship. Proverbs 22:7 reminds us, "The rich rules over the poor, and the borrower is the slave of the lender." This verse invites us to consider the heavy burden of debt—whether it is personal, corporate, or national—and how it influences the choices we make for our families and our communities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Similarly, Luke 14:28 asks, "For which of you, desiring to build a tower, does not first sit down and count the cost, whether he has enough to complete it?" This timeless wisdom encourages us to think critically about the long-term sustainability of the economic policies presented by our leaders. It is a reminder that every policy, no matter how well-intentioned, has a cost, and we are called to be wise stewards of the resources entrusted to us.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

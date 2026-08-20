@@ -38,12 +38,12 @@ source_url: 'https://www.foxbusiness.com/technology/meta-heads-trial-over-allege
 <p>The proceedings follow a multi-year investigation and a denied motion by Meta to dismiss the case. Over the next four to six weeks, an advisory jury will listen to arguments, review internal corporate documents, and hear testimony expected to include Meta CEO Mark Zuckerberg. The trial represents a focal point in a broader wave of litigation from school districts, families, and state governments seeking accountability over the mental health impacts of modern digital architecture on children and teens.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
 <h2 id="the-stakes">The Stakes and the Defense</h2>
-<p>The financial and legal stakes are exceptionally high. Meta has pointed to potential damages reaching up to $1.4 trillion in its filings, though the exact figures sought by the states remain to be finalized at trial. Meanwhile, recent legal pressure has been mounting elsewhere: a New Mexico state court recently ordered Meta to pay hundreds of millions of dollars and overhaul its teen safety protections.</p>
+<p>The financial and legal stakes are exceptionally high. Meta has pointed to potential damages reaching up to  trillion in its filings, though the exact figures sought by the states remain to be finalized at trial. Meanwhile, recent legal pressure has been mounting elsewhere: a New Mexico state court recently ordered Meta to pay hundreds of millions of dollars and overhaul its teen safety protections.</p>
 <p>Meta has vigorously denied any wrongdoing, disputing the claim that its platforms directly caused the alleged mental health harms. A central point of contention for Meta’s legal team is that "social media addiction" lacks formal recognition as an official psychiatric diagnosis. Furthermore, Meta representatives have criticized the states for chasing disproportionate financial penalties, arguing that the litigation attempts to penalize a single company for industry-wide challenges, such as age verification, while ignoring existing parental tools and teen protections.</p>
 
 <h2 id="psychology-perspective">A Psychology Perspective: The Architecture of Habit</h2>
@@ -113,7 +113,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -121,7 +121,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

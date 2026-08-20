@@ -28,10 +28,10 @@ source_url: 'https://www.nbcnews.com/world/asia/us-south-korea-joint-military-dr
   </section>
 
   <div class="ncg-amazon-box" style="border: 2px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B000000000" target="_blank" rel="noopener noreferrer">The Tragedy of Great Power Politics (Mearsheimer) - $24.99</a></p>
+    <p><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B000000000" target="_blank" rel="noopener noreferrer">The Tragedy of Great Power Politics (Mearsheimer) - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Lenovo Legion Tower Gaming PC ($899.99)
+Lenovo Legion Tower Gaming PC 
 </a></div>
 
   </div>
@@ -41,7 +41,7 @@ Lenovo Legion Tower Gaming PC ($899.99)
     <p>History offers a complex mirror for today’s events. Throughout the 20th century, moments of "thaw" in East Asian relations often followed similar patterns of sudden, top-down announcements. We can identify two primary historical parallels that help contextualize this moment:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Vitamin C Brightening Serum ($16.99)
+CeraVe Vitamin C Brightening Serum 
 </a></div>
 
     
@@ -49,7 +49,7 @@ CeraVe Vitamin C Brightening Serum ($16.99)
     <p>The history of U.S.-North Korean engagement is littered with attempts at "grand bargains" that failed to account for regional alliance dynamics. Much like the 1994 Agreed Framework, which sought to freeze nuclear development through personal diplomacy, current efforts risk creating a "credibility gap." When security commitments—such as joint drills—are perceived as bargaining chips, the secondary effect is often an increase in anxiety among regional allies who rely on the consistency of the security umbrella.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Lenovo Legion Tower Gaming PC ($899.99)
+Lenovo Legion Tower Gaming PC 
 </a></div>
 
 
@@ -61,16 +61,16 @@ Lenovo Legion Tower Gaming PC ($899.99)
     <p>In international relations, the "security dilemma" occurs when one state’s efforts to increase its security—such as conducting defensive drills—are perceived by another as inherently aggressive. We saw this during the height of the Cold War, where communication channels were vital to prevent miscalculation. The challenge today is that the "rules of the game" have changed; North Korea’s integration with Russian defense assets makes the current security environment far more volatile than it was in 2019.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Vitamin C Brightening Serum ($16.99)
+CeraVe Vitamin C Brightening Serum 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-box" style="border: 2px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Stay Informed:</strong> <a href="https://www.amazon.com/dp/B000000001" target="_blank" rel="noopener noreferrer">World History Atlas - $19.95</a></p>
+    <p><strong>Stay Informed:</strong> <a href="https://www.amazon.com/dp/B000000001" target="_blank" rel="noopener noreferrer">World History Atlas - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Vitamin C Brightening Serum ($16.99)
+CeraVe Vitamin C Brightening Serum 
 </a></div>
 
   </div>
@@ -80,13 +80,13 @@ CeraVe Vitamin C Brightening Serum ($16.99)
     <p>In moments of high-stakes political maneuvering, it is natural to feel anxious about the future. I am reminded of the wisdom in Proverbs 11:14: "Where there is no guidance, a people falls, but in an abundance of counselors there is safety." This makes me think about the inherent tension between unilateral decision-making and the collaborative wisdom required for international stability.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Skin Renewing Night Cream ($18.99)
+CeraVe Skin Renewing Night Cream 
 </a></div>
 
     <p>Scripture invites us to consider the value of humility and the importance of seeking wise counsel before taking actions that affect the safety of millions. As we observe these events, we are reminded of the value of peace, yet also of the responsibility to be good stewards of the security and protection afforded to those who are vulnerable. We can pray for those in leadership to exercise discernment, recognizing that true stability is often found in the quiet, consistent work of building trust rather than the sudden, dramatic shifts of the political spotlight.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Lenovo Legion Tower Gaming PC ($899.99)
+Lenovo Legion Tower Gaming PC 
 </a></div>
 
   </section>

@@ -28,7 +28,7 @@ source_url: "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceas
     <p><em>This is general information, not legal advice. Consult a licensed attorney about your specific situation.</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -36,7 +36,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Under the United Nations Convention on the Law of the Sea (UNCLOS), the Strait of Hormuz is recognized as an international strait used for navigation between one part of the high seas and another. Unlike internal waters or territorial seas, international straits are subject to the principle of "transit passage." This legal doctrine ensures that all ships and aircraft enjoy the freedom of navigation and overflight solely for the purpose of continuous and expeditious transit.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -44,7 +44,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Under current international law, no single nation can unilaterally declare an international strait a "territory." Territorial seas generally extend only 12 nautical miles from a coastal state’s baseline. Because the width of the Strait of Hormuz is narrow, its waters are largely comprised of the territorial seas of Iran and Oman. However, even within those territorial seas, the right of transit passage remains protected. Any attempt to convert an international strait into a sovereign territory would be a radical departure from established customary international law and would likely face universal challenge at the United Nations.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -52,7 +52,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p><strong>"International maritime law is designed to prevent the monopolization of critical trade routes, ensuring that global commerce remains a shared right rather than a tool of sovereign expansion."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -61,7 +61,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The imposition of tolls on commercial vessels in an international strait is generally considered illegal under UNCLOS unless specifically authorized by international treaty. Similarly, naval blockades are governed by the laws of armed conflict. While a nation may exercise "visit and search" rights in specific contexts of declared war, a permanent blockade of a vital international waterway often triggers significant legal and diplomatic repercussions under international humanitarian law.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -71,13 +71,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>In the midst of these complex geopolitical maneuvers, I am reminded of the biblical call to pursue peace and act with integrity. Proverbs 22:28 warns, "Do not move an ancient landmark that your fathers have set." While this refers to property, it speaks to the wisdom of respecting established boundaries—both physical and moral. When leaders make claims that defy international consensus, it invites us to consider the value of truth and the weight of our words.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Matthew 5:9 tells us, "Blessed are the peacemakers, for they shall be called sons of God." In a world where power is often used to stake claims, we are invited to consider how our own actions contribute to justice or discord. Whether in global affairs or our personal lives, truth is the foundation of any lasting solution.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

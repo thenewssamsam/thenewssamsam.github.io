@@ -20,7 +20,7 @@ source_url: "https://katu.com/news/nation-world/florida-voters-choose-nominees-i
 <p>The political landscape in the Sunshine State shifted another notch forward as Florida voters headed to the polls to decide crowded primary ballots for governor. Republican U.S. Rep. Byron Donalds and Democrat David Jolly emerged victorious from their respective fields, confirming what months of polling and fundraising metrics had strongly signaled.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>Donalds, representing the Naples area and backed early by Donald Trump, dominated a Republican field that included 11 candidates, such as Lieutenant Governor Jay Collins and former House Speaker Paul Renner. On the Democratic side, Jolly—a former Republican congressman who registered as a Democrat in 2025—navigated a six-candidate primary, selecting former U.S. Rep. Gwen Graham as his running mate.</p>
@@ -95,7 +95,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -103,7 +103,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

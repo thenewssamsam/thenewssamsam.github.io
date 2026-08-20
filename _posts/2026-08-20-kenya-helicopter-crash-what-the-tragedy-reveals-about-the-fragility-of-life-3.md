@@ -27,7 +27,7 @@ source_url: 'https://www.cnn.com/2026/08/19/africa/kenya-helicopter-crash-latam-
         <p>Among those lost were Michele Sensi-Contugi, the director general of Ecuador’s intelligence agency, and his wife, fashion designer Stephany Hollihan. Telemundo executive José Suárez was also confirmed among the deceased. The Kenyan Red Cross noted that recovery efforts were significantly hindered by the difficult, mountainous terrain and an active fire at the crash site.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </section>
@@ -41,13 +41,13 @@ Seagate Portable External Hard Drive ($59.99)
         <p>When headlines are filled with unexpected tragedies, it is natural to feel a sense of vulnerability. This event invites us to consider the "fragility of life" not as a morbid thought, but as a catalyst for gratitude. We often operate under the assumption that our schedules are fixed and our tomorrows are guaranteed. When that illusion is shattered, we are forced to re-evaluate what truly matters.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
         <p>One primary lesson here is the importance of "living present." Often, we are so focused on the destination—even on a vacation—that we forget to appreciate the people sitting next to us. Whether you are traveling across the globe or commuting to work, the people in your life are the most precious cargo you carry.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         
@@ -58,7 +58,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p>James 4:14 reminds us: "Why, you do not even know what will happen tomorrow. What is your life? You are a mist that appears for a little while and then vanishes." This verse doesn't exist to induce fear, but to offer a perspective of humility. It invites us to hold our plans loosely and our loved ones tightly, acknowledging that our time is a precious, finite resource.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </section>
@@ -68,7 +68,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p>The sudden nature of this crash brings me to reflect on how we handle the unknown. We often seek control as a way to feel safe, yet accidents like this show us that we are not the masters of our own timelines. There is a profound peace that comes from acknowledging God’s sovereignty, even when we cannot understand the "why" behind a tragedy.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         <p>Psalm 31:15 says, "My times are in your hands; deliver me from the hands of my enemies, from those who pursue me." I am reminded that even in the most remote corners of the earth, we are never truly beyond the reach of grace. This incident invites us to pray not just for the victims, but for the comfort of those who are currently walking through the valley of the shadow of death.</p>

@@ -16,12 +16,12 @@ source_url: 'https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Tr
 </header>
 
 <section>
-<p>When oil shipping through one of the world's most critical maritime chokepoints drops to a mere handful of vessels over a weekend, global markets notice immediately. Recent shipping data showing tanker traffic through the Strait of Hormuz slowing to a trickle has sent a fresh wave of anxiety through energy markets, pushing Brent crude back toward $89 per barrel and reminding everyday consumers how quickly distant geopolitical friction translates into painful pain at the local fuel pump.</p>
+<p>When oil shipping through one of the world's most critical maritime chokepoints drops to a mere handful of vessels over a weekend, global markets notice immediately. Recent shipping data showing tanker traffic through the Strait of Hormuz slowing to a trickle has sent a fresh wave of anxiety through energy markets, pushing Brent crude back toward  per barrel and reminding everyday consumers how quickly distant geopolitical friction translates into painful pain at the local fuel pump.</p>
 
 <p>For months, drivers and businesses have enjoyed relative stability in energy costs, hoping that earlier market lows would hold. But with diplomatic hopes fading, tanker attacks mounting, and physical shipping volumes plummeting, the financial reality of Middle East risk premiums is forcing a rapid recalculation across global supply chains.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -46,7 +46,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>To understand why a slowdown in the Strait of Hormuz matters to someone far away from the Middle East, we have to look at the mechanical math of global energy markets. The Strait of Hormuz handles a massive percentage of the world's petroleum liquids consumed globally. When ships stop moving, two immediate financial forces take over:</p>
 
 <ul>
-    <li><strong>Immediate Risk Premium Pricing:</strong> Commodities markets trade on forward-looking expectations. When physical security degrades, refiners and traders instantly price in higher insurance rates, delayed delivery schedules, and the sheer cost of rerouting supply. This explains why Brent crude climbed toward $89 and West Texas Intermediate (WTI) hovered around $82.18.</li>
+    <li><strong>Immediate Risk Premium Pricing:</strong> Commodities markets trade on forward-looking expectations. When physical security degrades, refiners and traders instantly price in higher insurance rates, delayed delivery schedules, and the sheer cost of rerouting supply. This explains why Brent crude climbed toward  and West Texas Intermediate (WTI) hovered around .</li>
     <li><strong>Refining and Retail Transmission:</strong> Crude oil is the raw feedstock for gasoline, diesel, and jet fuel. As crude benchmarks climb, the cost of production rises. While retail gasoline prices at local service stations typically lag behind spot market movements by a week or two, sustained high crude prices inevitably translate into higher costs at the pump.</li>
     <li><strong>The Cushion of Domestic Inventories:</strong> The only reason oil prices haven't shattered previous yearly highs is the offsetting pressure of a massive build in U.S. oil inventories. Localized and national storage buffers act as a temporary sponge, absorbing immediate supply shocks. However, inventories are finite; if tanker traffic remains restricted for weeks rather than days, those buffers drain rapidly.</li>
 </ul>
@@ -138,7 +138,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -146,7 +146,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

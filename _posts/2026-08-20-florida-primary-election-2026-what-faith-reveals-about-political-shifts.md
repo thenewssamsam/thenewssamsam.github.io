@@ -47,7 +47,7 @@ These races represent only a fraction of a nationwide evening of political reali
 <div style="background: #fffbeb; border-left: 4px solid #d69e2e; padding: 1.25rem; border-radius: 4px; margin: 1.5rem 0;">
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem;">
 <strong style="color: #b7791f; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.05em;">Recommended Resource</strong>
-<span style="color: #718096; font-size: 0.85rem;">$14.99</span>
+<span style="color: #718096; font-size: 0.85rem;"></span>
 </div>
 <p style="margin: 0 0 0.5rem 0; color: #2d3748; font-weight: 500;">
 <a href="https://www.amazon.com/dp/B08N5K1W9H?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">The Power of Habit: Why We Do What We Do in Life and Business</a>
@@ -69,7 +69,7 @@ When we examine these political contests through a traditional biblical worldvie
 <div style="background: #fffbeb; border-left: 4px solid #d69e2e; padding: 1.25rem; border-radius: 4px; margin: 1.5rem 0;">
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem;">
 <strong style="color: #b7791f; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.05em;">Recommended Resource</strong>
-<span style="color: #718096; font-size: 0.85rem;">$16.49</span>
+<span style="color: #718096; font-size: 0.85rem;"></span>
 </div>
 <p style="margin: 0 0 0.5rem 0; color: #2d3748; font-weight: 500;">
 <a href="https://www.amazon.com/dp/0310356555?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive</a>
@@ -90,7 +90,7 @@ Furthermore, Proverbs 29:2 offers a sobering observation on governance: "When th
 <div style="background: #fffbeb; border-left: 4px solid #d69e2e; padding: 1.25rem; border-radius: 4px; margin: 1.5rem 0;">
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem;">
 <strong style="color: #b7791f; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.05em;">Recommended Resource</strong>
-<span style="color: #718096; font-size: 0.85rem;">$12.99</span>
+<span style="color: #718096; font-size: 0.85rem;"></span>
 </div>
 <p style="margin: 0 0 0.5rem 0; color: #2d3748; font-weight: 500;">
 <a href="https://www.amazon.com/dp/1496453916?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">The Common Rule: Habits of Purpose for an Age of Distraction</a>
@@ -110,7 +110,7 @@ Engaging in civic life requires wisdom, prayer, and discernment. Believers shoul
 <div style="background: #fffbeb; border-left: 4px solid #d69e2e; padding: 1.25rem; border-radius: 4px; margin: 1.5rem 0;">
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.5rem;">
 <strong style="color: #b7791f; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.05em;">Recommended Resource</strong>
-<span style="color: #718096; font-size: 0.85rem;">$15.20</span>
+<span style="color: #718096; font-size: 0.85rem;"></span>
 </div>
 <p style="margin: 0 0 0.5rem 0; color: #2d3748; font-weight: 500;">
 <a href="https://www.amazon.com/dp/1506471922?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">Brave Community: 30 Days of Courageous Connection</a>

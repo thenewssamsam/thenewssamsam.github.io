@@ -38,11 +38,11 @@ source_url: 'https://www.newsday.com/long-island/transportation/east-river-tunne
     <p>Spearheaded by Amtrak and backed by federal funding secured by U.S. Sen. Chuck Schumer (D-N.Y.), the reopening marks the culmination of more than a decade of planning, political friction, and grueling engineering work. Both Line 1 and Line 2 were originally inundated with millions of gallons of corrosive saltwater during Superstorm Sandy in 2012. The lingering salt residue slowly degraded the tracks, cables, and concrete, compounding daily delays for thousands of riders across the LIRR, Amtrak, and New Jersey Transit networks.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
-    <p>The $1.6 billion rehabilitation project required a drastic measure: a total, 15-month shutdown of Line 2 to allow work crews to completely rebuild the track beds, drainage systems, bench walls, and signals. While the MTA initially urged Amtrak to limit the scope or restrict repairs to nights and weekends, Amtrak opted for a full-time closure, citing worse-than-expected structural damage. Now that Line 2 is back online, Amtrak prepares to shift its focus to Line 1 this fall, setting up another 13-month closure cycle as officials race to ensure these 1910 tunnels survive into the next century.</p>
+    <p>The  billion rehabilitation project required a drastic measure: a total, 15-month shutdown of Line 2 to allow work crews to completely rebuild the track beds, drainage systems, bench walls, and signals. While the MTA initially urged Amtrak to limit the scope or restrict repairs to nights and weekends, Amtrak opted for a full-time closure, citing worse-than-expected structural damage. Now that Line 2 is back online, Amtrak prepares to shift its focus to Line 1 this fall, setting up another 13-month closure cycle as officials race to ensure these 1910 tunnels survive into the next century.</p>
   </section>
 
   <section id="the-historical-parallel" class="ncg-section">
@@ -61,7 +61,7 @@ Seagate Portable External Hard Drive ($59.99)
       <li><strong>The Friction of Transition:</strong> Major overhauls always cause immediate friction—in this case, bitter debates between the MTA and Amtrak over whether weekend work would suffice versus a total shutdown. History suggests that half-measures usually fail when confronting structural decay; pulling the Band-Aid off completely, however painful in the short term, is typically the only path to genuine renewal.</li>
     </ul>
 
-    <p>Ultimately, these tunnels remind us that modern civilization rests on fragile, aging foundations. The $1.6 billion price tag—largely funded by the 2021 federal infrastructure package—starkly illustrates that preserving our past is just as expensive as inventing our future.</p>
+    <p>Ultimately, these tunnels remind us that modern civilization rests on fragile, aging foundations. The  billion price tag—largely funded by the 2021 federal infrastructure package—starkly illustrates that preserving our past is just as expensive as inventing our future.</p>
   </section>
 
   <section id="how-readers-should-respond" class="ncg-section">
@@ -118,7 +118,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -126,7 +126,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -27,7 +27,7 @@ source_url: 'https://www.cbsnews.com/miami/news/michael-caruso-palm-beach-county
     <p>While Caruso’s legal team has stated that he is innocent and intends to defend himself vigorously, the gravity of the situation remains a focal point for the public. As the legal process moves toward an expected transfer to Orange County, the community is left to grapple with the dissonance between a position of public trust and these deeply troubling accusations.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -36,7 +36,7 @@ Tactical Waterproof Backpack ($35.99)
     <p><em>"True accountability is not merely a legal process; it is a moral necessity, especially when the welfare of the innocent is at stake."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </div>
@@ -46,21 +46,21 @@ Tactical Waterproof Backpack ($35.99)
     <p>From a biblical perspective, the news of abuse—particularly against a child—is met with profound sorrow and a call for justice. Scripture is clear about our duty to protect those who cannot protect themselves. Jesus, in his ministry, showed a particular tenderness toward children, warning that anyone who causes them harm faces severe spiritual consequences.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p><em>"It would be better for him if a millstone were hung around his neck and he were cast into the sea than that he should cause one of these little ones to sin."</em> (Luke 17:2, ESV)</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>This verse reminds us that the abuse of power, especially when it results in the corruption or harm of a child, is an affront to the sanctity of life. We are reminded that God is the ultimate judge of all hearts and actions, and that justice is a divine mandate. When public figures fall into darkness, it serves as a stark reminder of the frailty of human nature and our constant need for God’s grace and moral guidance.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -70,7 +70,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>As I reflect on this news, I am reminded of the words in Proverbs: <em>"Speak up for those who cannot speak for themselves, for the rights of all who are destitute."</em> (Proverbs 31:8, NIV). This situation invites us to consider how we, as a society, safeguard the vulnerable. It is easy to look at the headlines and feel a sense of distance, but the call to protect the innocent is universal. It challenges us to look inward and ensure that our own spheres of influence remain places of safety, integrity, and honor. We are called to be vigilant, not out of suspicion, but out of a genuine desire to uphold the dignity of every person created in the image of God.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -80,7 +80,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In the wake of such distressing news, our response should be anchored in prayer and proactive care:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>
@@ -95,7 +95,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The case of Michael Caruso is a sobering reminder that we live in a broken world. While legal systems will determine the outcome of these charges, our spiritual duty remains constant: to stand for truth, to protect the vulnerable, and to seek a life that reflects the light of Christ, even when the world around us seems dark.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>

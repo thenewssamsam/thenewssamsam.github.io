@@ -36,7 +36,7 @@ source_url: ''
     <p>According to reports breaking from CNN and Politico, the digital breach prompted immediate concern within the British embassy in Washington, leading officials to quietly raise the alarm with the White House. Downing Street has maintained its standard policy of not commenting on active national security matters. Fortunately, Downing Street and US sources confirmed that "no messages of significance" were handed over. Burnham quickly grew suspicious of the exchange, and the incident was formally reported to the appropriate authorities.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>Crucially, White House officials clarified that the breach did not stem from a direct hack of Susie Wiles's personal devices. Instead, the incident is part of an ongoing wave of sophisticated phishing and impersonation attempts targeting high-profile figures associated with the Trump administration—a campaign that first surfaced in May 2025 when US law enforcement began investigating bad actors exploiting leaked contact lists to target business executives, senators, and governors.</p>
@@ -146,7 +146,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -154,7 +154,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

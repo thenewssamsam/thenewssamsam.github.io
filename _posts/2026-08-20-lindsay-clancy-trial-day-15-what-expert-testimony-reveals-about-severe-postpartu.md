@@ -21,7 +21,7 @@ source_url: "https://www.nbcboston.com/news/local/lindsay-clancy-trial-day-15-li
 </section>
 
 <div style="background: #f9f9f9; border-left: 4px solid #d4af37; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> For those interested in understanding maternal mental health and emotional well-being, consider exploring books on maternal wellness. <a href="https://www.amazon.com/dp/B07Z7H9V1W?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Good Moms Have Scary Thoughts: A Healing Guide to the Secret Fears of New Mothers</a> - Price: $14.99</p>
+  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> For those interested in understanding maternal mental health and emotional well-being, consider exploring books on maternal wellness. <a href="https://www.amazon.com/dp/B07Z7H9V1W?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Good Moms Have Scary Thoughts: A Healing Guide to the Secret Fears of New Mothers</a> - </p>
 </div>
 
 <nav class="ncg-toc" style="background: #fdfdfd; border: 1px solid #e0e0e0; padding: 15px; margin: 20px 0; border-radius: 6px;">
@@ -40,13 +40,13 @@ source_url: "https://www.nbcboston.com/news/local/lindsay-clancy-trial-day-15-li
   <p>The defense team, having begun presenting its witnesses earlier in the week, has focused heavily on establishing that Clancy was suffering from severe bipolar disorder and postpartum psychosis at the time, arguing she should not be held criminally responsible. Tuesday's session featured courtroom arguments over contentious lines of questioning, expert psychological analysis, and architectural reconstructions of the home.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
 
 <div style="background: #f9f9f9; border-left: 4px solid #d4af37; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> Supporting emotional resilience during difficult times can start with journaling or guided reflection. <a href="https://www.amazon.com/dp/1647398320?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The CBT Workbook for Mental Health: Evidence-Based Exercises to Manage Anxiety, Depression, and Mood</a> - Price: $16.89</p>
+  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> Supporting emotional resilience during difficult times can start with journaling or guided reflection. <a href="https://www.amazon.com/dp/1647398320?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The CBT Workbook for Mental Health: Evidence-Based Exercises to Manage Anxiety, Depression, and Mood</a> - </p>
 </div>
 
 <section id="health-perspective">
@@ -54,13 +54,13 @@ Tactical Waterproof Backpack ($35.99)
   <p>Cases like this often evoke intense emotional reactions, bringing complex discussions around mental health into the public sphere. From a health and wellness standpoint, it is vital to distinguish between normal postpartum emotional adjustments and extreme, rare psychiatric emergencies such as postpartum psychosis.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   <p>While the "baby blues" affect a large percentage of new parents and typically resolve independently, conditions like postpartum depression and postpartum psychosis represent clinical conditions requiring immediate medical intervention. Postpartum psychosis involves symptoms such as severe mood swings, confusion, delusions, and hallucinations, representing a medical emergency that impairs a person's grasp on reality.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   
@@ -71,17 +71,17 @@ Seagate Portable External Hard Drive ($59.99)
   <p>Public trials touching on these issues remind us that mental health awareness goes beyond everyday stress management. Recognizing warning signs early and fostering open conversations without stigma remain critical components of community wellness and maternal health care.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
 
 <div style="background: #f9f9f9; border-left: 4px solid #d4af37; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> For families or caregivers seeking stress management tools, guided relaxation tools can be beneficial. <a href="https://www.amazon.com/dp/B07V8J2R4T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Zen As F*ck: A Journal for Defeating the Stressful Stuff</a> - Price: $11.59</p>
+  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> For families or caregivers seeking stress management tools, guided relaxation tools can be beneficial. <a href="https://www.amazon.com/dp/B07V8J2R4T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Zen As F*ck: A Journal for Defeating the Stressful Stuff</a> - </p>
 </div>
 
 <div style="background: #f9f9f9; border-left: 4px solid #d4af37; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> A practical guide for understanding emotional health and emotional regulation. <a href="https://www.amazon.com/dp/0593139135?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Emotional First Aid: Healing Rejection, Guilt, Failure, and Other Everyday Hurts</a> - Price: $15.00</p>
+  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> A practical guide for understanding emotional health and emotional regulation. <a href="https://www.amazon.com/dp/0593139135?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Emotional First Aid: Healing Rejection, Guilt, Failure, and Other Everyday Hurts</a> - </p>
 </div>
 
 <section id="coping-strategies">
@@ -89,7 +89,7 @@ Seagate Portable External Hard Drive ($59.99)
   <p>High-profile news coverage of traumatic court cases can sometimes trigger feelings of anxiety, distress, or secondary trauma in readers. Taking care of one's own mental well-being is an essential step when consuming heavy news cycles.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   <ul>
@@ -100,48 +100,48 @@ Seagate Portable External Hard Drive ($59.99)
   <p>If you or someone you know is experiencing overwhelming emotional distress or thoughts of self-harm, please reach out for immediate support. In the United States, you can call or text the Suicide & Crisis Lifeline at 988.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
 
 <div style="background: #f9f9f9; border-left: 4px solid #d4af37; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> To support restful sleep and reduce nighttime anxiety during stressful times: <a href="https://www.amazon.com/dp/B07R4M8Z9W?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Weighted Blanket for Adults (15 lbs) - Premium Breathable Fabric</a> - Price: $39.99</p>
+  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> To support restful sleep and reduce nighttime anxiety during stressful times: <a href="https://www.amazon.com/dp/B07R4M8Z9W?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Weighted Blanket for Adults (15 lbs) - Premium Breathable Fabric</a> - </p>
 </div>
 
 <div style="background: #f9f9f9; border-left: 4px solid #d4af37; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> Aromatherapy diffuser for creating a calming home environment: <a href="https://www.amazon.com/dp/B01VV05VC9?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Asakuki Essential Oil Diffuser and Ultrasonic Humidifier</a> - Price: $21.99</p>
+  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> Aromatherapy diffuser for creating a calming home environment: <a href="https://www.amazon.com/dp/B01VV05VC9?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Asakuki Essential Oil Diffuser and Ultrasonic Humidifier</a> - </p>
 </div>
 
 <div style="background: #f9f9f9; border-left: 4px solid #d4af37; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> A gentle introduction to mindfulness and meditation practices: <a href="https://www.amazon.com/dp/1573244619?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Mindful Way Workbook: An 8-Week Program for Freeing Yourself from Depression and Emotional Distress</a> - Price: $22.50</p>
+  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> A gentle introduction to mindfulness and meditation practices: <a href="https://www.amazon.com/dp/1573244619?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Mindful Way Workbook: An 8-Week Program for Freeing Yourself from Depression and Emotional Distress</a> - </p>
 </div>
 
 <div style="background: #f9f9f9; border-left: 4px solid #d4af37; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> Portable journal for daily emotional check-ins: <a href="https://www.amazon.com/dp/1984837326?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Five Minute Journal: A Happier You in 5 Minutes a Day</a> - Price: $29.99</p>
+  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> Portable journal for daily emotional check-ins: <a href="https://www.amazon.com/dp/1984837326?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Five Minute Journal: A Happier You in 5 Minutes a Day</a> - </p>
 </div>
 
 <div style="background: #f9f9f9; border-left: 4px solid #d4af37; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> Herbal tea selection for relaxing evening unwinding: <a href="https://www.amazon.com/dp/B000EWEJT4?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Traditional Medicinals Organic Nighty Night Tea</a> - Price: $5.99</p>
+  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> Herbal tea selection for relaxing evening unwinding: <a href="https://www.amazon.com/dp/B000EWEJT4?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Traditional Medicinals Organic Nighty Night Tea</a> - </p>
 </div>
 
 <div style="background: #f9f9f9; border-left: 4px solid #d4af37; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> A practical read on resilience and coping with life's unpredictable storms: <a href="https://www.amazon.com/dp/150117134X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Option B: Facing Adversity, Building Resilience, and Finding Joy</a> - Price: $16.00</p>
+  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> A practical read on resilience and coping with life's unpredictable storms: <a href="https://www.amazon.com/dp/150117134X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Option B: Facing Adversity, Building Resilience, and Finding Joy</a> - </p>
 </div>
 
 <div style="background: #f9f9f9; border-left: 4px solid #d4af37; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> Stress-relief fidget tool for grounding exercises: <a href="https://www.amazon.com/dp/B08F9V8Q2S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tombow Mono Graph Mechanical Pencil and Focus Tool</a> - Price: $8.50</p>
+  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> Stress-relief fidget tool for grounding exercises: <a href="https://www.amazon.com/dp/B08F9V8Q2S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tombow Mono Graph Mechanical Pencil and Focus Tool</a> - </p>
 </div>
 
 <div style="background: #f9f9f9; border-left: 4px solid #d4af37; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> Daily affirmation cards for positive mental health reinforcement: <a href="https://www.amazon.com/dp/B084ZJ61S3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Daily Positive Affirmations Cards for Mindfulness and Self-Care</a> - Price: $14.95</p>
+  <p style="margin: 0; font-style: italic;"><strong>Recommended Resource:</strong> Daily affirmation cards for positive mental health reinforcement: <a href="https://www.amazon.com/dp/B084ZJ61S3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Daily Positive Affirmations Cards for Mindfulness and Self-Care</a> - </p>
 </div>
 
 <section class="ncg-bible-reflection" style="margin: 20px 0; padding: 15px; background: #fafafa; border-left: 3px solid #6c757d;">
   <p>Reflecting on human pain and the quiet struggles that often go unnoticed behind closed doors makes me think about the comfort found in quiet strength and compassion. One lesson is that we are often unaware of the heavy burdens others carry in silence. As Scripture reminds us, <q>Cast all your anxiety on him because he cares for you</q> (1 Peter 5:7, NIV). In moments of profound distress, seeking community support and extending grace to one another remains a vital part of our shared humanity.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>

@@ -136,7 +136,7 @@ source_url: "https://www.nbcnews.com/politics/justice-department/doj-issues-gran
     <div class="ncg-amazon-box">
         <div class="ncg-amazon-title">Recommended Professional Resource</div>
         <p class="ncg-p" style="margin-bottom: 5px;">Protect your professional reputation and navigate complex organizational risk with practical leadership guides.</p>
-        <a href="https://www.amazon.com/dp/B085V871QR?tag=thenewssam-20" target="_blank" rel="noopener noreferrer"><strong>The Infinite Game</strong> by Simon Sinek — $14.99</a>
+        <a href="https://www.amazon.com/dp/B085V871QR?tag=thenewssam-20" target="_blank" rel="noopener noreferrer"><strong>The Infinite Game</strong> by Simon Sinek — </a>
     </div>
 
     <h2 class="ncg-h2" id="professional-risk">The Career and Industry Implications of Brand Ambiguity</h2>
@@ -154,7 +154,7 @@ source_url: "https://www.nbcnews.com/politics/justice-department/doj-issues-gran
     <div class="ncg-amazon-box">
         <div class="ncg-amazon-title">Recommended Leadership Tool</div>
         <p class="ncg-p" style="margin-bottom: 5px;">Build robust corporate governance and ethical decision-making frameworks within your organization.</p>
-        <a href="https://www.amazon.com/dp/1591846447?tag=thenewssam-20" target="_blank" rel="noopener noreferrer"><strong>Good to Great: Why Some Companies Make the Leap... and Others Don't</strong> by Jim Collins — $18.50</a>
+        <a href="https://www.amazon.com/dp/1591846447?tag=thenewssam-20" target="_blank" rel="noopener noreferrer"><strong>Good to Great: Why Some Companies Make the Leap... and Others Don't</strong> by Jim Collins — </a>
     </div>
 
     <h2 class="ncg-h2" id="compliance-lessons">Navigating Regulatory Scrutiny and Professional Integrity</h2>

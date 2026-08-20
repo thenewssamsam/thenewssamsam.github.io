@@ -27,13 +27,13 @@ source_url: 'https://www.cnn.com/2026/08/19/politics/trump-cory-mills-election'
     <p>On Tuesday night, Republican primary voters in Florida selected former news anchor Ryan Elijah over incumbent Cory Mills. The defeat follows months of controversy surrounding Mills, including allegations of sexual misconduct, campaign finance irregularities, and an ongoing investigation by DC police regarding an alleged assault.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>In a post on Truth Social, President Trump confirmed that he had advised Mills to withdraw from the contest, stating, “I told Congressman Cory Mills of Florida, a friend of mine, to get out of the Race, but he wouldn’t listen.” Despite the warning, Mills remained in the race, citing a belief in his ability to win and support from House leadership in earlier stages of the controversy.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -43,7 +43,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>The situation surrounding Congressman Mills invites us to reflect on the biblical importance of heeding wise counsel. In the heat of political battle, the desire to hold onto power or defend one's reputation can often cloud judgment. Scripture repeatedly warns against the dangers of stubbornness and the rejection of correction.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -54,7 +54,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>This verse speaks directly to the tension between personal ambition and the external wisdom offered by those in our circle. When we are caught in a storm—be it political or personal—it is human nature to double down, believing that our perspective is the only one that matters. However, the Bible suggests that true strength is found in humility and the willingness to accept that we might be wrong.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -62,13 +62,13 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>A Reflection on Humility:</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
       <p>I am reminded of the words in <em>Proverbs 16:18</em>: "Pride goes before destruction, a haughty spirit before a fall." While we must be careful not to judge the heart of another, this news story serves as a sober reminder of the fragility of human standing. When we refuse to listen, we often isolate ourselves from the very guidance that could protect us from ruin.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -79,7 +79,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>For the believer, this event is not an invitation to cast stones, but an opportunity for self-examination. Consider these steps:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>

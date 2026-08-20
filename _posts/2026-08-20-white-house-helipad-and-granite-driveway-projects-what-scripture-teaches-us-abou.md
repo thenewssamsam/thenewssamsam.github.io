@@ -45,7 +45,7 @@ source_url: 'https://www.cnn.com/2026/08/19/politics/trump-construction-white-ho
 <p>There is nothing inherently wrong with construction, maintenance, or taking pride in a job well done. Throughout history, leaders, artisans, and ordinary citizens have sought to improve their physical surroundings. A well-paved driveway or a secure landing zone serves practical, functional purposes. But the human impulse to construct grand monuments often carries a secondary, deeper motivation: the desire to defy time and secure an enduring footprint on the earth.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -53,7 +53,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>"One thing I know how to do is build... these projects will be here long after we are gone."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <cite>— President Donald Trump</cite>
@@ -62,7 +62,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>This desire to create things "that will be here long after we are gone" touches a universal chord in the human heart. We all want our lives to matter. We want tangible evidence that our time on this earth had weight and substance. However, Scripture encourages us to examine the inner motives behind our grandest endeavors. Are we building out of humble stewardship, or are we constructing monuments to soothe our own mortality?</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -70,7 +70,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="ncg-product-box">
   <p class="ncg-product-title"><strong>Recommended Study Resource:</strong> <a href="https://www.amazon.com/dp/B001234567?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Holiness of God by R.C. Sproul</a></p>
   <p class="ncg-product-desc">A classic resource exploring the majesty of the Creator versus the temporary nature of human kingdoms.</p>
-  <p class="ncg-product-price">Price: $14.99</p>
+  <p class="ncg-product-price"></p>
 </div>
 
 <section id="biblical-perspective">
@@ -78,49 +78,49 @@ Tactical Waterproof Backpack ($35.99)
 <p>The Bible frequently uses architecture and construction as metaphors for human pride versus divine permanence. When people attempt to anchor their ultimate security in physical structures, Scripture gently reminds us of the fleeting nature of earthly kingdoms.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Consider the sobering words of Psalm 127:1:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <blockquote class="ncg-verse-block">
 <p><em>"Unless the Lord builds the house, the builders labor in vain. Unless the Lord watches over the city, the guards stand watch in vain."</em> (NIV)</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </blockquote>
 <p>This verse does not condemn hard work or architectural projects; rather, it corrects our spiritual posture. It reminds us that no matter how durable the granite, how precise the engineering, or how extensive the security bunker, human works are ultimately fragile. When leaders or nations place their ultimate trust in visible brick and mortar while ignoring matters of justice, mercy, and spiritual integrity, they are building on sinking sand.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>In the New Testament, Jesus directs our attention away from the obsession with monumental physical structures. Standing before the magnificent stones of the Jerusalem temple, His disciples admired its grandeur. Yet Jesus offered a startling perspective:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <blockquote class="ncg-verse-block">
 <p><em>"As for what you see here, the time will come when not one stone will be left on another; every one of them will be thrown down."</em> (Luke 21:6, NIV)</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </blockquote>
 <p>This is not a call to nihilism or cynicism about public infrastructure. Instead, it invites us to anchor our hope not in the asphalt, granite, or steel of earthly palaces, but in an unshakeable spiritual kingdom. Earthly monuments weather, erode, and eventually pass away. Only lives transformed by grace and acts of genuine love endure into eternity.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -128,7 +128,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="ncg-product-box">
   <p class="ncg-product-title"><strong>Recommended Devotional:</strong> <a href="https://www.amazon.com/dp/B002345678?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Morning and Evening by Charles Spurgeon</a></p>
   <p class="ncg-product-desc">Daily meditations focused on eternal truths and spiritual perspective.</p>
-  <p class="ncg-product-price">Price: $12.50</p>
+  <p class="ncg-product-price"></p>
 </div>
 
 <section id="how-christians-respond">
@@ -145,7 +145,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="ncg-product-box">
   <p class="ncg-product-title"><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B003456789?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Practice of the Presence of God by Brother Lawrence</a></p>
   <p class="ncg-product-desc">A timeless guide to finding spiritual focus amidst daily tasks.</p>
-  <p class="ncg-product-price">Price: $8.99</p>
+  <p class="ncg-product-price"></p>
 </div>
 
 <section id="conclusion">

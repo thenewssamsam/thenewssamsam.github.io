@@ -33,20 +33,20 @@ source_url: "https://apnews.com/article/tariffs-trump-canada-usmca-trade-aae597c
 
   <section id="what-happened" class="ncg-section">
     <h2>What Happened at the Border?</h2>
-    <p>The United States and Canada are locked in high-stakes, last-minute negotiations to prevent a 12:01 a.m. Wednesday deadline set by U.S. President Donald Trump. If talks collapse, the U.S. administration intends to slap 50% tariffs on approximately $20 billion worth of Canadian goods—ranging from industrial products to everyday items like hockey sticks and tongue depressors.</p>
+    <p>The United States and Canada are locked in high-stakes, last-minute negotiations to prevent a 12:01 a.m. Wednesday deadline set by U.S. President Donald Trump. If talks collapse, the U.S. administration intends to slap 50% tariffs on approximately  billion worth of Canadian goods—ranging from industrial products to everyday items like hockey sticks and tongue depressors.</p>
     <p>Canadian Prime Minister Mark Carney and Trump have held multiple phone consultations as negotiators race to find an off-ramp. The friction stems from deep disagreements over trade deficits, U.S. demands for Canadian defense investments and critical mineral access, and Canadian calls for relief on existing steel, aluminum, and lumber tariffs.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
-    <p>This escalation marks a sharp departure from decades of cooperative cross-border trade under agreements like the USMCA. With nearly $2 billion in goods crossing the undefended 5,525-mile border daily, the potential economic disruption has sent shockwaves through North American supply chains.</p>
+    <p>This escalation marks a sharp departure from decades of cooperative cross-border trade under agreements like the USMCA. With nearly  billion in goods crossing the undefended 5,525-mile border daily, the potential economic disruption has sent shockwaves through North American supply chains.</p>
   </section>
 
   <section id="financial-perspective" class="ncg-section">
     <h2>The Financial Impact: Who Really Pays the Bill?</h2>
     <p>To understand the mechanics of this dispute, we have to look past the political rhetoric and examine how tariffs actually operate in practice. A tariff is not a tax paid by the exporting country; it is a direct tax levied on domestic importers when foreign goods cross the border. In this case, U.S. companies bringing in Canadian products are the ones writing the check to the U.S. Treasury.</p>
-    <p>When an importer faces a sudden 50% tax increase, they have very few pleasant choices. They can absorb the cost—which quickly crushes profit margins for small and medium-sized businesses—or they can attempt to pass those expenses along to consumers through higher retail prices. In an economic environment where U.S. voters are already fatigued by persistent inflation and high living costs, adding friction to a $20 billion slice of trade risks stoking consumer price pressures right ahead of midterm elections.</p>
+    <p>When an importer faces a sudden 50% tax increase, they have very few pleasant choices. They can absorb the cost—which quickly crushes profit margins for small and medium-sized businesses—or they can attempt to pass those expenses along to consumers through higher retail prices. In an economic environment where U.S. voters are already fatigued by persistent inflation and high living costs, adding friction to a  billion slice of trade risks stoking consumer price pressures right ahead of midterm elections.</p>
     
     <div class="ncg-quote-box">
       <p class="ncg-shareable-quote">"A tariff is a tax collected at the border, but its true cost is paid in the currency of consumer prices, supply chain friction, and corporate uncertainty."</p>
@@ -109,7 +109,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -117,7 +117,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

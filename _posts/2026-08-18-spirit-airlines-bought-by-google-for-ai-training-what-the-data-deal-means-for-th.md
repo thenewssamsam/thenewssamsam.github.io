@@ -18,16 +18,16 @@ source_url: 'https://gizmodo.com/spirit-airlines-is-dead-but-its-data-will-haunt
     </p>
   </header>
 
-  <p>When budget carrier Spirit Airlines folded its operations, most flyers assumed the story ended with grounded planes and canceled vacation plans. Instead, the airline's digital ghost has found a strange second life. Google has emerged victorious in a bankruptcy auction, laying down $10 million for a massive trove of internal Spirit corporate data with plans to feed it directly into its artificial intelligence models. While passenger profiles and loyalty records were explicitly excluded from the sale, the transaction opens up a fascinating and unsettling window into how dead companies live on as raw material for machine learning.</p>
+  <p>When budget carrier Spirit Airlines folded its operations, most flyers assumed the story ended with grounded planes and canceled vacation plans. Instead, the airline's digital ghost has found a strange second life. Google has emerged victorious in a bankruptcy auction, laying down  million for a massive trove of internal Spirit corporate data with plans to feed it directly into its artificial intelligence models. While passenger profiles and loyalty records were explicitly excluded from the sale, the transaction opens up a fascinating and unsettling window into how dead companies live on as raw material for machine learning.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
   <h2 id="what-happened">What Happened in the Spirit Airlines Bankruptcy Auction?</h2>
   
-  <p>According to documents filed on the U.S. Bankruptcy Court for the Southern District of New York docket, Google outbid AI training data giant Mercor to secure a staggering volume of enterprise information. The $10 million winning bid bought Google access to more than 100 million corporate emails, 500 million Microsoft Teams chats, 30 million lines of code, software models, algorithms, and extensive records on revenue, aircraft operations, and employee productivity.</p>
+  <p>According to documents filed on the U.S. Bankruptcy Court for the Southern District of New York docket, Google outbid AI training data giant Mercor to secure a staggering volume of enterprise information. The  million winning bid bought Google access to more than 100 million corporate emails, 500 million Microsoft Teams chats, 30 million lines of code, software models, algorithms, and extensive records on revenue, aircraft operations, and employee productivity.</p>
   
   <p>Crucially, the purchase focused strictly on internal operations. Bloomberg reports that Spirit's 97.5 million passenger profiles and over 50 million loyalty program records were left out of the auction block. Furthermore, Google stated that a third party would rigorously scrub the remaining data of any personally identifiable information (PII) before it ever reaches Google's servers.</p>
   
@@ -61,7 +61,7 @@ Seagate Portable External Hard Drive ($59.99)
     </details>
     <details>
       <summary>How much did Google pay for the data?</summary>
-      <p>Google won the bankruptcy auction with a winning bid of $10 million, beating out AI training competitor Mercor.</p>
+      <p>Google won the bankruptcy auction with a winning bid of  million, beating out AI training competitor Mercor.</p>
     </details>
     <details>
       <summary>What kind of data was included in the sale?</summary>
@@ -92,7 +92,7 @@ Seagate Portable External Hard Drive ($59.99)
     "@context": "https://schema.org",
     "@type": "NewsArticle",
     "headline": "Spirit Airlines Bought by Google for AI Training: What the Data Deal Means for the Future of Tech",
-    "description": "Google acquired bankrupt Spirit Airlines' internal data trove for $10 million to train AI models. Explore the legal, operational, and ethical fallout.",
+    "description": "Google acquired bankrupt Spirit Airlines' internal data trove for  million to train AI models. Explore the legal, operational, and ethical fallout.",
     "datePublished": "2026-03-30",
     "author": {
       "@type": "Organization",
@@ -119,7 +119,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -127,7 +127,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

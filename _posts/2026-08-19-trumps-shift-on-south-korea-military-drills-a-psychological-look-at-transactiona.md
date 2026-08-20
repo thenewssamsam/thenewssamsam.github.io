@@ -24,7 +24,7 @@ source_url: "https://www.cnbc.com/2026/08/18/trump-south-korea-military-exercise
     <p>Following a Truth Social post where he praised his "very good" relationship with Kim Jong Un, President Trump instructed Defense Secretary Pete Hegseth to scale back the joint drills. The President also tied this decision to his frustration over South Korea’s lack of support regarding U.S. military operations in Iran. South Korean President Lee Jae Myung has responded by urging his nation to prepare for a "worst-case scenario" while emphasizing that the exercises are strictly defensive.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -34,7 +34,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>From a behavioral standpoint, the President’s approach reflects <strong>transactional framing</strong>. In this psychological model, international relations are treated as a series of exchanges rather than static commitments. By reducing military drills, the administration is not necessarily abandoning a defense posture but is instead using a "carrot" to entice a specific response from North Korea.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -46,7 +46,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Trump’s rhetoric demonstrates a classic application of <strong>contingent reinforcement</strong>. By explicitly linking the military drills to South Korea’s cooperation in Iran, the administration creates a psychological tension designed to compel action. This shifts the focus from the regional security of the Korean Peninsula to a broader, global agenda where the President seeks to maximize leverage.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -54,7 +54,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>As President Lee urges his country to brace for the "worst-case," he is actively fighting against <strong>normalcy bias</strong>—the human tendency to underestimate the possibility of disaster because we assume the future will look like the past. By acknowledging the potential for a shift in the status quo, the South Korean leadership is attempting to move their public and military away from the comfort of established, predictable security patterns.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -64,7 +64,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This situation reminds me that while leaders seek to navigate complex alliances, true stability is often fragile. We see a tension between the desire for peace and the necessity of being prepared. It brings to mind <em>1 Peter 5:8</em>: "Be sober-minded; be watchful. Your adversary the devil prowls around like a roaring lion, seeking someone to devour." While this is a political and military context, the principle of being "watchful" is a universal truth. We are often tempted to sleepwalk through times of relative quiet, assuming that because things have been safe, they will remain so. Yet, wisdom invites us to be diligent and discerning, regardless of what headlines suggest. We are called to be people of peace, but peace is not the same as naivety.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

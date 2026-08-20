@@ -28,7 +28,7 @@ source_url: "https://www.psu.edu/news/campus-life/story/penn-state-responds-seri
     <p>From a psychological standpoint, the involvement of students in organized, high-risk group activities often points to the phenomenon of <strong>groupthink</strong>. This occurs when the desire for harmony or conformity within a group results in an irrational or dysfunctional decision-making outcome. Individuals may suppress their personal moral compass to maintain their status within the group.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -40,7 +40,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Students may also fall victim to <strong>normalcy bias</strong>—the refusal to plan for or believe in the possibility of disaster, even when warning signs are present. Within Greek organizations, the high value placed on social capital can override rational risk assessment, leading members to normalize dangerous behaviors as "tradition" or "part of the experience."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -50,13 +50,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This situation reminds me of the importance of individual accountability in a world that often pressures us to follow the crowd. Proverbs 13:20 (NIV) states: <em>"Walk with the wise and become wise, for a companion of fools suffers harm."</em> This verse invites us to consider the profound impact our social circles have on our character. We are not just shaped by our own choices, but by the company we choose to keep.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Similarly, Romans 12:2 (ESV) encourages us: <em>"Do not be conformed to this world, but be transformed by the renewal of your mind."</em> When we find ourselves in environments that encourage behavior contrary to our values, we are called to stand firm, even when it is socially difficult. True strength is found in maintaining integrity, even when the pressure to conform is at its peak.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

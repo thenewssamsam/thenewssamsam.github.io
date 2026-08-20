@@ -47,7 +47,7 @@ source_url: 'https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-w
 <p class="ncg-p">This aggressive posture builds upon the broader pressure campaign known as Operation Economic Fury, which has sought to systematically dismantle Iran's revenue streams since April. The recent announcement also carries explicit secondary warnings: any foreign government, business, airport, or financial institution that aids Tehran in evading sanctions will face severe economic consequences from the United States.</p>
 <div class="ncg-amazon-box">
 <div class="ncg-amazon-title">Recommended Resource for Understanding Geopolitics</div>
-<a href="https://www.amazon.com/dp/B07XYZ1234?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">Diplomacy: Henry Kissinger (Paperback Edition) - $18.99</a>
+<a href="https://www.amazon.com/dp/B07XYZ1234?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">Diplomacy: Henry Kissinger (Paperback Edition) - </a>
 </div>
 <p class="ncg-p">The timing of this announcement follows a turbulent sequence of regional events. Just a day prior, the United Arab Emirates suspended all trade and financial dealings with Tehran following reports of ballistic missile strikes directed at its territory—allegations that Iran rejected as a false flag operation. Meanwhile, Iranian Foreign Minister Abbas Araghchi has condemned Washington's actions, arguing that escalating sanctions only serve to foreclose diplomatic resolutions.</p>
 </section>
@@ -57,12 +57,12 @@ source_url: 'https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-w
 <p class="ncg-p">While geopolitical headlines often focus on grand strategies, military hardware, and currency valuations, economic warfare carries a profound human toll. Sanctions of this magnitude inevitably ripple through supply chains, affecting ordinary citizens who hold little direct influence over state policies. When trade corridors close and financial systems freeze, the most vulnerable populations often bear the heaviest burdens.</p>
 <div class="ncg-amazon-box">
 <div class="ncg-amazon-title">Recommended Financial Literacy Guide</div>
-<a href="https://www.amazon.com/dp/B08XYZ5678?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">The Psychology of Money: Timeless lessons on wealth, greed, and happiness - $16.50</a>
+<a href="https://www.amazon.com/dp/B08XYZ5678?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">The Psychology of Money: Timeless lessons on wealth, greed, and happiness - </a>
 </div>
 <p class="ncg-p">Financial analysts and markets have watched these developments closely, though initial stock futures remained relatively stable with minor gains in S&P 500 futures. Yet, the underlying uncertainty reminds us how interconnected modern global commerce truly is. A disruption in the Strait of Hormuz or sweeping secondary sanctions can quickly alter the economic reality for households continents away from the actual conflict zone.</p>
 <div class="ncg-amazon-box">
 <div class="ncg-amazon-title">Recommended Global Affairs Analysis</div>
-<a href="https://www.amazon.com/dp/B09XYZ9012?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">The Clash of Civilizations and the Remaking of World Order - $21.99</a>
+<a href="https://www.amazon.com/dp/B09XYZ9012?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">The Clash of Civilizations and the Remaking of World Order - </a>
 </div>
 </section>
 
@@ -76,7 +76,7 @@ source_url: 'https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-w
 <p class="ncg-p">Furthermore, James 4:1-2 addresses the root causes of conflict among peoples and nations: <em>"What causes fights and quarrels among you? Don't they come from your desires that battle within you? You desire but do not have, so you kill. You covet but you cannot get what you want, so you quarrel and fight."</em> While geopolitical analysts attribute state behavior to strategic interests, Scripture points directly to the human heart—where desires for control, security, and supremacy frequently manifest as national conflict.</p>
 <div class="ncg-amazon-box">
 <div class="ncg-amazon-title">Recommended Study Bible for Deeper Reflection</div>
-<a href="https://www.amazon.com/dp/B07ABC3456?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">ESV Study Bible, Hardcover (English Standard Version) - $34.99</a>
+<a href="https://www.amazon.com/dp/B07ABC3456?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">ESV Study Bible, Hardcover (English Standard Version) - </a>
 </div>
 </section>
 
@@ -85,17 +85,17 @@ source_url: 'https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-w
 <p class="ncg-p">In moments of escalating international tension, it can be tempting to adopt partisan outrage or give in to anxiety regarding global instability. However, a biblical framework calls believers to a different posture altogether.</p>
 <div class="ncg-amazon-box">
 <div class="ncg-amazon-title">Recommended Guide on Prayer and Peacemaking</div>
-<a href="https://www.amazon.com/dp/B07DEF7890?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">The Peacemaker: A Biblical Guide to Resolving Personal Conflict - $14.99</a>
+<a href="https://www.amazon.com/dp/B07DEF7890?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">The Peacemaker: A Biblical Guide to Resolving Personal Conflict - </a>
 </div>
 <p class="ncg-p">First, we are called to earnest prayer. Scripture instructs us to pray for leaders and those in authority so that we may live peaceful and quiet lives. This includes praying for wisdom for policymakers in Washington, regional leaders in the Middle East, and protection for everyday people caught in the crossfire of economic sanctions.</p>
 <div class="ncg-amazon-box">
 <div class="ncg-amazon-title">Recommended Christian Living Book</div>
-<a href="https://www.amazon.com/dp/B08GHI1234?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive - $13.99</a>
+<a href="https://www.amazon.com/dp/B08GHI1234?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive - </a>
 </div>
 <p class="ncg-p">Second, we must practice discernment. It is entirely possible to analyze complex geopolitical news objectively without abandoning our core identity as citizens of an eternal kingdom. We should resist sensationalism and guard our hearts against hatred toward any nation's populace, remembering that every human being bears the image of God.</p>
 <div class="ncg-amazon-box">
 <div class="ncg-amazon-title">Recommended Devotional for Daily Peace</div>
-<a href="https://www.amazon.com/dp/B08JKL5678?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">New Morning Mercies: A Daily Gospel Devotional - $19.99</a>
+<a href="https://www.amazon.com/dp/B08JKL5678?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">New Morning Mercies: A Daily Gospel Devotional - </a>
 </div>
 </section>
 
@@ -111,7 +111,7 @@ source_url: 'https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-w
 </details>
 <div class="ncg-amazon-box">
 <div class="ncg-amazon-title">Recommended Leadership & Ethics Book</div>
-<a href="https://www.amazon.com/dp/B08MNO9012?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">The Advantage: Why Organizational Health Trumps Everything Else In Business - $17.50</a>
+<a href="https://www.amazon.com/dp/B08MNO9012?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">The Advantage: Why Organizational Health Trumps Everything Else In Business - </a>
 </div>
 </section>
 
@@ -120,7 +120,7 @@ source_url: 'https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-w
 <p class="ncg-p">As Washington ramps up economic pressure and international tensions persist, the headlines remind us of the fragile and volatile nature of global geopolitics. While economic strategies will continue to shift, our anchor remains secure in timeless truth rather than passing earthly power.</p>
 <div class="ncg-amazon-box">
 <div class="ncg-amazon-title">Recommended Journal for Spiritual Reflection</div>
-<a href="https://www.amazon.com/dp/B08PQR3456?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">Gratitude Journal for Christian Men and Women - $10.99</a>
+<a href="https://www.amazon.com/dp/B08PQR3456?tag=thenewssam-20" class="ncg-amazon-link" target="_blank" rel="noopener noreferrer">Gratitude Journal for Christian Men and Women - </a>
 </div>
 </section>
 

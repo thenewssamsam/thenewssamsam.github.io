@@ -27,7 +27,7 @@ source_url: 'https://www.politico.com/news/2026/08/19/freedom-caucus-struggles-p
     <p>The Freedom Caucus, known for its uncompromising conservative platform, has seen a series of high-profile losses this cycle. In Florida, Catalina Lauf failed to secure a nomination despite high-level backing. Meanwhile, in Wyoming, the local Freedom Caucus suffered a sweeping defeat, with voters rejecting candidates for secretary of state, treasurer, and superintendent in favor of more moderate alternatives.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -35,7 +35,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>Recommended Reading:</strong> <em>The Servant Leader: Transforming Your Organization, Your Team, and Your Life</em> - <a href="#">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -43,7 +43,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>These losses follow the ouster of Rep. Andy Ogles in Tennessee and defeats for Rep. Chip Roy and Rep. Ralph Norman in their respective bids for higher office. While the Freedom Caucus Fund points to a 29-2 record in congressional endorsements, analysts note that most of those victories were uncontested incumbent races, masking a trend of diminishing returns in competitive primaries.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -53,7 +53,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In the landscape of modern politics, it is easy to view elections solely through the lens of "winning" and "losing." However, these recent primary results invite us to consider the biblical mandate of leadership. True leadership is not about the accumulation of power or the imposition of a specific agenda, but rather the humble service of the community one represents.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -64,7 +64,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>When voters in Wyoming chose to "make the secretary of state's office boring again," they were perhaps expressing a desire for a return to governance that prioritizes stability and the common good over ideological warfare. From a biblical perspective, the temptation to use power to "ram through" an agenda often ignores the dignity of those who hold different views. Scripture reminds us that we are called to be peacemakers and to listen to our neighbors.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -72,7 +72,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p><strong>Recommended:</strong> <em>Humility: The Beauty of Holiness</em> - <a href="#">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -80,7 +80,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Proverbs 11:2 reminds us: <em>"When pride comes, then comes disgrace, but with the humble is wisdom."</em> This is not to suggest that any specific political outcome is a divine judgment, but it is a timeless reminder that when leaders lose the ability to listen to the people they serve, they often lose the very influence they sought to protect.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -96,7 +96,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>For those who are politically active, these results offer a chance to recalibrate. Instead of focusing on "butt-whoopings" or cultural dominance, consider these steps:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <ul>

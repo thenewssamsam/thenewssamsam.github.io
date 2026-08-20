@@ -24,7 +24,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/angie-nixon-winner-f
     <p><strong>"The democratic process is not just about the final tally; it is about the right of every citizen to participate in a system that reflects their values and priorities."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>
@@ -32,15 +32,15 @@ Seagate Portable External Hard Drive ($59.99)
   <p>For voters, understanding the legal framework of these elections is essential. Whether you are a first-time voter or a seasoned participant, knowing how candidates qualify and how your vote is protected is a fundamental aspect of civic engagement.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
   <div class="ncg-amazon-product" style="border: 1px solid #ddd; padding: 10px; background: #fdfdfd; margin: 15px 0;">
-    <p><strong>Essential Reading:</strong> <a href="https://www.amazon.com/dp/B000FCK482" target="_blank" rel="noopener noreferrer">The Federalist Papers (Signet Classics) - $8.99</a></p>
+    <p><strong>Essential Reading:</strong> <a href="https://www.amazon.com/dp/B000FCK482" target="_blank" rel="noopener noreferrer">The Federalist Papers (Signet Classics) - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>
@@ -49,29 +49,29 @@ Seagate Portable External Hard Drive ($59.99)
   <p><strong>This is general information, not legal advice. Consult a licensed attorney about your specific situation.</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
   <p>When an election shift occurs as rapidly as this primary result, it is common for voters to have questions about the legal status of the candidates and the rules governing the general election. In Florida, as in all states, the requirements for U.S. Senate candidates are set by the Constitution: candidates must be at least 30 years old, a U.S. citizen for nine years, and an inhabitant of the state they represent at the time of the election.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
   <p>Furthermore, the process of primary elections is governed by state law. Voters have the right to a transparent and fair counting process. If you encounter issues at the polls, such as intimidation or procedural barriers, you have the right to request assistance from non-partisan poll workers or contact the Florida Division of Elections.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
   <div class="ncg-amazon-product" style="border: 1px solid #ddd; padding: 10px; background: #fdfdfd; margin: 15px 0;">
-    <p><strong>Civic Tool:</strong> <a href="https://www.amazon.com/dp/1641724076" target="_blank" rel="noopener noreferrer">U.S. Constitution and Fascinating Facts About It - $12.95</a></p>
+    <p><strong>Civic Tool:</strong> <a href="https://www.amazon.com/dp/1641724076" target="_blank" rel="noopener noreferrer">U.S. Constitution and Fascinating Facts About It - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>
@@ -80,14 +80,14 @@ Seagate Portable External Hard Drive ($59.99)
   <p>As we navigate the noise of political campaigns, I am reminded of the importance of truth and integrity in our public discourse. The Bible speaks often to the value of honest leadership and the weight of our responsibilities to one another.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
   <p>Proverbs 21:3 reminds us, <em>"To do righteousness and justice is more acceptable to the LORD than sacrifice."</em> This verse invites us to consider that the structures of our society—including our electoral processes—are meant to serve the common good. Similarly, James 1:19 encourages us to be <em>"quick to hear, slow to speak, slow to anger."</em> In an era of intense political division, these words offer a path toward constructive engagement, reminding us that every person we encounter, regardless of their political affiliation, possesses inherent dignity that should be respected in the public square.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 

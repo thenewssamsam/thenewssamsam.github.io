@@ -20,7 +20,7 @@ source_url: "https://www.usatoday.com/story/news/politics/2026/08/17/president-t
 
   <section id="what-happened">
     <h2>The Current Political and Economic Climate</h2>
-    <p>The recent polling data highlights a significant decline in public confidence, tying the president's lowest approval rating from his first term. The primary driver for this shift appears to be the protracted war with Iran. With nearly 20% of global oil trade currently paralyzed, American households are seeing the direct impact at the pump, where gas prices have climbed to an average of $4.06 per gallon, compared to $3.13 just a year ago.</p>
+    <p>The recent polling data highlights a significant decline in public confidence, tying the president's lowest approval rating from his first term. The primary driver for this shift appears to be the protracted war with Iran. With nearly 20% of global oil trade currently paralyzed, American households are seeing the direct impact at the pump, where gas prices have climbed to an average of  per gallon, compared to  just a year ago.</p>
   </section>
 
   <div class="ncg-quote-box" style="border-left: 5px solid #2c3e50; padding: 15px; background: #f9f9f9; margin: 20px 0;">
@@ -32,7 +32,7 @@ source_url: "https://www.usatoday.com/story/news/politics/2026/08/17/president-t
     <p>When major geopolitical events disrupt supply chains and energy costs, the labor market inevitably feels the pressure. Here is how these macro-trends impact your professional path:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -40,7 +40,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Industries reliant on heavy logistics, manufacturing, and transportation are currently facing the steepest challenges. When fuel prices spike, profit margins contract, often leading to hiring freezes or a shift toward automation to recoup costs. Professionals in these fields should prioritize "recession-proofing" their skill sets by focusing on operational efficiency and cost-reduction strategies.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -48,7 +48,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In a volatile market, the most secure career path is one of adaptability. Whether you are in corporate management or a trade-based role, the ability to demonstrate how your work directly impacts the company’s bottom line is your greatest asset. When companies tighten budgets due to external economic pressures, roles that are perceived as "overhead" are often the first to be evaluated.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -58,7 +58,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Watching global events unfold often brings a sense of unease, reminding me of the wisdom found in Proverbs 16:9: <em>"In their hearts humans plan their course, but the Lord establishes their steps."</em> It’s easy to feel as though our career security rests entirely on the decisions of leaders or the fluctuations of the oil market. However, this period of uncertainty invites us to consider where our true stability lies. By maintaining integrity and diligence in our professional lives, we can navigate these pressures with a steady heart, trusting that our purpose is not defined by economic cycles.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Backpack USB Charging Port ($39.99)
+Backpack USB Charging Port 
 </a></div>
 
   </section>

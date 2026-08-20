@@ -25,7 +25,7 @@ source_url: 'https://nymag.com/intelligencer/article/polls-show-trumps-maga-base
     <p>According to recent averages from Silver Bulletin and RealClearPolitics, President Trump’s job-approval rating is stuck between 38% and 39%, with disapproval hovering near 58%. These figures are particularly notable because they remain lower than the numbers recorded following the January 6, 2021, Capitol riot. The data shows a deep intensity of sentiment: while roughly 20% of the electorate strongly approves of his performance, nearly 47% strongly disapproves.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>The divide is most visible in the coalition itself. While Trump maintains roughly 90% approval among self-identified MAGA-movement members, his support among independents has cratered, with 71% of that group disapproving of his performance. This disconnect between the "base" and the "swing" voter is becoming the defining feature of the 2026 midterm cycle.</p>
@@ -85,7 +85,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -93,7 +93,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

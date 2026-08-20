@@ -29,7 +29,7 @@ source_url: "https://katu.com/news/nation-world/florida-voters-choose-nominees-i
     <p>Why do voters gravitate toward specific candidates in a crowded field? From a behavioral psychology perspective, several mechanisms are at play:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -37,7 +37,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Byron Donalds’ strong showing is partly an example of the "Halo Effect," where a positive association—in this case, an endorsement from a major political figure like Donald Trump—transfers favorable perceptions onto the candidate. When voters see a familiar, trusted brand or name, their brains often use that as a cognitive shortcut, or heuristic, to decide if the candidate aligns with their values without needing to scrutinize every policy position.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -49,7 +49,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>For many Florida voters, the transition away from the DeSantis era creates a sense of uncertainty. Psychology tells us that humans generally prefer the "known" over the "unknown." Candidates like Jay Collins, who emphasize preserving the outgoing governor's record, appeal to a voter's desire for stability and a continuation of the status quo, helping to mitigate the anxiety that comes with political transition.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -57,7 +57,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Conversely, David Jolly’s shift toward a platform focused on tangible issues like housing and insurance reflects a psychological response to "issue fatigue." When voters feel that political discourse has become too polarized or abstract, they often seek a pivot toward practical, daily-life concerns as a way to regain a sense of control over their personal environment.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -67,13 +67,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>In times of political transition, it is easy to become caught up in the noise of campaigns. The Bible offers a grounding perspective on how we should approach leadership and our own hearts. Proverbs 14:15 tells us, <em>"The simple believes everything, but the prudent gives thought to his steps."</em> This reminds me that as voters, we are called to be discerning rather than merely reactive to headlines or endorsements.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Furthermore, we are reminded in James 1:19 to be <em>"quick to hear, slow to speak, slow to anger."</em> When we feel the urge to react out of frustration or tribal loyalty, this verse invites us to pause and consider the bigger picture. Our political choices are an extension of our values, and seeking wisdom—rather than just following the crowd—is a fundamental part of responsible citizenship.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

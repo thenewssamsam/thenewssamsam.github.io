@@ -23,13 +23,13 @@ source_url: "https://abc7ny.com/story/14-charged-alleged-cocaine-trafficking-rin
     <p>Authorities allege that two senior fraternity members, Agostino Abbatiello and Thomas Robinson, led a coordinated drug-trafficking ring that utilized the Delta Upsilon and Sigma Chi fraternity houses as hubs for cutting and packaging cocaine. The investigation, spanning 2023 and 2024, revealed that the operation involved not just senior members, but also pledges, for whom the packaging of drugs reportedly served as a form of "indoctrination" into the organizations.</p>
     
     <div style="border-left: 5px solid #ffcc00; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B08P1P1S3J" target="_blank">The Psychology of Influence</a> - $14.99. Understanding how social dynamics shape individual choices.
+      <strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B08P1P1S3J" target="_blank">The Psychology of Influence</a> - . Understanding how social dynamics shape individual choices.
     </div>
 
     <p>The university has placed Delta Upsilon on interim suspension, while Sigma Chi, already an unrecognized organization, remains under scrutiny. The charges range from felony corrupt organizations and conspiracy to misdemeanor possession.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -39,7 +39,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>From a psychological standpoint, the involvement of pledges in criminal activity is a classic example of how high-pressure group environments can override individual moral compasses. This phenomenon is often rooted in <strong>Groupthink</strong>—a psychological state where the desire for harmony or conformity in a group results in an irrational or dysfunctional decision-making outcome.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -47,7 +47,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>When "cutting and packaging cocaine" is framed as an "indoctrination," the act shifts from being a criminal choice to a rite of passage. In social psychology, this process is known as <strong>deindividuation</strong>. When members of a group feel their individual identity is subsumed by the group identity, they are more likely to engage in behaviors they would condemn if acting alone.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -58,7 +58,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Furthermore, the <strong>Normalization of Deviance</strong> likely played a role. Over the course of 2023 and 2024, the repeated nature of these activities likely desensitized participants. What began as a violation likely became "business as usual," making it increasingly difficult for any single member to step forward and stop the cycle without risking social exile.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -68,13 +68,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>This situation brings to mind the wisdom found in Proverbs 1:10: "My son, if sinful men entice you, do not give in to them." It is a sobering reminder that the pressure to belong—whether to a fraternity or any social circle—can lead us into paths that compromise our integrity. Another relevant passage is 1 Corinthians 15:33, which warns, "Do not be misled: 'Bad company corrupts good character.'"</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>These verses are not meant to condemn, but to invite us to consider the weight of our associations. When we prioritize acceptance by a group over our own conscience, we lose the very identity we were trying to protect. True belonging should never require us to trade our values for participation in harmful or illegal acts.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -93,7 +93,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The Penn State tragedy is a stark reminder that human beings are profoundly social creatures, capable of great things when organized well, but equally capable of profound moral failure when influenced by toxic group dynamics. We must remain vigilant about the environments we choose to inhabit. Integrity is not just an individual pursuit; it is a collective responsibility to challenge the status quo when it veers into darkness.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p><em>The strength of our character is often tested most in the groups we call our own.</em></p>

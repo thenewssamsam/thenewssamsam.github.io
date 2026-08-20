@@ -28,7 +28,7 @@ source_url: 'https://www.wyff4.com/article/early-voting-senate-republican-runoff
   </section>
 
   <div style="background: #f9f9f9; border-left: 4px solid #d4af37; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <p style="margin: 0; font-size: 0.95rem; color: #333;"><strong>Featured Recommendation:</strong> <a href="https://www.amazon.com/dp/0310452331?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">NIV Study Bible, Fully Revised Edition</a> - Gain deeper insights into biblical wisdom and civic stewardship. Price: $29.99</p>
+    <p style="margin: 0; font-size: 0.95rem; color: #333;"><strong>Featured Recommendation:</strong> <a href="https://www.amazon.com/dp/0310452331?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">NIV Study Bible, Fully Revised Edition</a> - Gain deeper insights into biblical wisdom and civic stewardship. </p>
   </div>
 
   <section id="what-happened" class="ncg-section">
@@ -36,34 +36,34 @@ source_url: 'https://www.wyff4.com/article/early-voting-senate-republican-runoff
     <p>The political machinery in South Carolina is operating at breakneck speed. Following the August 11 primary, local election offices were handed a daunting challenge: a compressed 30-day turnaround to prepare for a runoff election, a process that typically demands a 90-day runway.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>In Anderson County, Director of Elections Laura Booth and her dedicated team worked tirelessly to train new poll workers and consolidate polling locations under immense time constraints. Yet, despite the hurdles, voter enthusiasm has defied expectations. Booth noted that more than 800 voters cast their ballots on the very first day of early voting—a striking departure from the historically low turnout usually plaguing runoff elections.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>A similar trend is unfolding in Spartanburg County. John Baucom, the county’s Director of Elections, reported that peak hourly turnout during the August 11 primary—which saw roughly 161 voters in an hour—was thoroughly surpassed as Spartanburg surged to 182 voters per hour on the first day of the runoff, accumulating over 1,300 votes on Wednesday alone. "Elections are not optional. When it arises, we must rise to the occasion," Baucom remarked. "And we did."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>Eligible voters include those who participated in the June Republican primary, the August 11 special Republican primary, or those who sat out both June primaries. (Voters who cast ballots in the June Democratic primary are ineligible for this runoff). Early voting runs Wednesday, August 21, from 8:30 a.m. to 5 p.m., at designated county registration and election offices, leading up to Election Day on Tuesday, August 25, when polls will be open from 7 a.m. to 7 p.m.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <div style="background: #f9f9f9; border-left: 4px solid #d4af37; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <p style="margin: 0; font-size: 0.95rem; color: #333;"><strong>Featured Recommendation:</strong> <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living</a> - Practical wisdom for daily decision-making and civic duty. Price: $14.99</p>
+    <p style="margin: 0; font-size: 0.95rem; color: #333;"><strong>Featured Recommendation:</strong> <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living</a> - Practical wisdom for daily decision-making and civic duty. </p>
   </div>
 
   <section id="biblical-perspective" class="ncg-section">
@@ -71,14 +71,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When we witness election workers pulling together against tight deadlines and everyday citizens taking time out of their busy schedules to vote, we are observing a microcosm of community stewardship. The Bible speaks extensively about our responsibilities within the communities where God has placed us. While scripture does not prescribe modern democratic forms of government, it provides enduring principles regarding justice, participation, and the welfare of our neighbors.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>In the Book of Jeremiah, the prophet instructs the exiled Israelites to seek the peace and prosperity of the city to which they were carried, praying to the Lord on its behalf, because if it prospers, they too will prosper (<a href="https://www.biblegateway.com/passage/?search=Jeremiah+29%3A7&version=NIV" target="_blank" rel="noopener noreferrer">Jeremiah 29:7</a>). This passage reminds us that caring for our civic community is not an optional distraction from our spiritual lives, but an active expression of love for our neighbors. When South Carolinians head to the polls, they are participating in shaping the laws, policies, and leadership that directly impact the vulnerable, the hardworking, and the future generations of their state.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -89,13 +89,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Furthermore, leadership is consistently framed in scripture as a matter of profound trust and moral gravity. Proverbs reminds us that when the righteous thrive, the people rejoice, but when the wicked rule, the people groan (<a href="https://www.biblegateway.com/passage/?search=Proverbs+29%3A2&version=NIV" target="_blank" rel="noopener noreferrer">Proverbs 29:2</a>). This ancient insight highlights why elections matter so deeply. The men and women chosen to represent us in the United States Senate wield influence over policies that touch economic stability, justice, and the moral fabric of society. Viewing our vote through this lens transforms the act from a tedious civic chore into an intentional prayerful exercise in pursuing justice and wisdom.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <div style="background: #f9f9f9; border-left: 4px solid #d4af37; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <p style="margin: 0; font-size: 0.95rem; color: #333;"><strong>Featured Recommendation:</strong> <a href="https://www.amazon.com/dp/0310331668?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">The Purpose Driven Life: What on Earth Am I Here For?</a> - Discover your unique purpose and calling in every sphere of life. Price: $13.99</p>
+    <p style="margin: 0; font-size: 0.95rem; color: #333;"><strong>Featured Recommendation:</strong> <a href="https://www.amazon.com/dp/0310331668?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">The Purpose Driven Life: What on Earth Am I Here For?</a> - Discover your unique purpose and calling in every sphere of life. </p>
   </div>
 
   <section id="community-resilience" class="ncg-section">
@@ -103,20 +103,20 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The administrative hurdles faced by election officials in Anderson and Spartanburg counties also highlight a vital human truth: excellence often emerges under pressure. When local officials like Laura Booth and John Baucom jumped hurdles to train workers and open doors on a 30-day notice, they demonstrated a commendable work ethic. They refused to let logistical constraints diminish their commitment to the democratic process.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>In our daily lives, we frequently encounter unexpected disruptions, tight deadlines, and daunting obstacles. The way these county election teams responded—rising to the occasion rather than shrinking from the challenge—serves as an encouragement. It reflects the biblical principle of working heartily, as for the Lord and not for human masters, knowing that integrity in small and large tasks matters.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <div style="background: #f9f9f9; border-left: 4px solid #d4af37; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <p style="margin: 0; font-size: 0.95rem; color: #333;"><strong>Featured Recommendation:</strong> <a href="https://www.amazon.com/dp/B08J8F1332?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">Kindle Paperwhite (16 GB)</a> - Enjoy reading inspiring books, devotionals, and news on a glare-free display. Price: $149.99</p>
+    <p style="margin: 0; font-size: 0.95rem; color: #333;"><strong>Featured Recommendation:</strong> <a href="https://www.amazon.com/dp/B08J8F1332?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">Kindle Paperwhite (16 GB)</a> - Enjoy reading inspiring books, devotionals, and news on a glare-free display. </p>
   </div>
 
   <section id="how-should-christians-respond" class="ncg-section">
@@ -124,7 +124,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>As early voting continues across South Carolina and election day approaches on August 25, believers and conscientious citizens alike can take several practical steps:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <ul>
@@ -136,7 +136,7 @@ Tactical Waterproof Backpack ($35.99)
   </section>
 
   <div style="background: #f9f9f9; border-left: 4px solid #d4af37; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <p style="margin: 0; font-size: 0.95rem; color: #333;"><strong>Featured Recommendation:</strong> <a href="https://www.amazon.com/dp/0785238204?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">NKJV, Maxwell Leadership Bible</a> - Discover biblical principles for effective leadership and stewardship. Price: $34.99</p>
+    <p style="margin: 0; font-size: 0.95rem; color: #333;"><strong>Featured Recommendation:</strong> <a href="https://www.amazon.com/dp/0785238204?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">NKJV, Maxwell Leadership Bible</a> - Discover biblical principles for effective leadership and stewardship. </p>
   </div>
 
   <section id="closing-takeaway" class="ncg-section">
@@ -144,7 +144,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Elections come and go, but the character of a community is built upon the daily choices of its people. Whether you are casting an early ballot in Anderson County, navigating Spartanburg's polling stations, or simply watching the process unfold from afar, remember that our engagement with the world around us is an opportunity to reflect integrity, diligence, and care for our neighbors.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

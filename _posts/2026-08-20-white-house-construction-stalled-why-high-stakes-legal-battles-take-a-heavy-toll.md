@@ -31,14 +31,14 @@ source_url: "https://www.foxnews.com/opinion/morning-glory-scotus-should-urgentl
     <p>Writing in a recent Fox News opinion column, legal scholar and radio host Hugh Hewitt argued urgently for the Supreme Court to intervene. Hewitt emphasized that the original 1902 structure and its 1942 wartime expansions—including the subterranean Presidential Emergency Operations Center—require modern security upgrades. Citing evolving threats from drones, hypersonic missiles, and persistent security concerns, proponents of the construction argue that restricting the executive branch from securing its primary facility creates untenable vulnerabilities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-box" style="border-left: 4px solid #d4af37; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
     <p style="margin: 0 0 10px 0; font-weight: bold; color: #333;">Recommended Wellness Resource:</p>
-    <p style="margin: 0;"><a href="https://www.amazon.com/dp/1501171342?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness</a> - $18.99</p>
+    <p style="margin: 0;"><a href="https://www.amazon.com/dp/1501171342?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness</a> - </p>
   </div>
 
   <section id="health-perspective" class="ncg-section">
@@ -46,7 +46,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>From a general health and wellness standpoint, news cycles dominated by national security threats and high-stakes legal gridlock can trigger persistent physiological and emotional responses. When stories feature recurring themes of vulnerability—such as potential threats to the nation's highest office—they tap into the human brain's deeply ingrained survival mechanisms.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -54,7 +54,7 @@ Tactical Waterproof Backpack ($35.99)
       <p>"When high-level national security disputes dominate the news, our nervous systems often register the political friction as personal uncertainty, quietly draining our emotional resilience."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -62,21 +62,21 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Chronic exposure to conflict-heavy news can maintain an elevated state of hypervigilance. The human body is well-equipped to handle acute stress, but continuous exposure to adversarial legal battles and warnings about evolving technological threats can keep cortisol levels elevated, leading to mental fatigue, sleep disruption, and a generalized sense of unease.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>Furthermore, this dynamic illustrates the psychological concept of control loss. When citizens witness powerful institutions locked in procedural battles over fundamental safety measures, it mirrors the individual feeling of being unable to protect one's own environment. Recognizing this internal friction is the first step toward reclaiming emotional equilibrium.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-box" style="border-left: 4px solid #d4af37; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
     <p style="margin: 0 0 10px 0; font-weight: bold; color: #333;">Recommended Wellness Resource:</p>
-    <p style="margin: 0;"><a href="https://www.amazon.com/dp/0062457713?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">The Little Book of Hygge: Danish Secrets to Happy Living</a> - $12.50</p>
+    <p style="margin: 0;"><a href="https://www.amazon.com/dp/0062457713?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">The Little Book of Hygge: Danish Secrets to Happy Living</a> - </p>
   </div>
 
   <section id="spiritual-reflection" class="ncg-section">
@@ -84,28 +84,28 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When the world feels turbulent and public institutions are gridlocked in legal debate, it is easy to let anxiety dictate our daily peace of mind. One personal reflection that often brings grounding during times of societal stress is the reminder that human safety and political structures are inherently fragile, yet our ultimate security does not rest entirely on earthly fortifications.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>Scripture gently invites us to consider where we anchor our trust when external circumstances feel chaotic. As Psalm 46:1-2 reminds us, "God is our refuge and strength, an ever-present help in trouble. Therefore we will not fear, though the earth give way and the mountains fall into the heart of the sea." Similarly, Proverbs 3:5-6 encourages us to "Trust in the Lord with all your heart and lean not on your own understanding."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>These timeless words do not dismiss the practical necessity of security or legal order; rather, they offer a healthy emotional boundary. They remind us to do our part with wisdom and diligence while releasing the heavy burden of trying to control every unpredictable outcome in the wider world.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-box" style="border-left: 4px solid #d4af37; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
     <p style="margin: 0 0 10px 0; font-weight: bold; color: #333;">Recommended Wellness Resource:</p>
-    <p style="margin: 0;"><a href="https://www.amazon.com/dp/1473612519?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">Mindfulness: A Practical Guide to Finding Peace in a Frantic World</a> - $16.99</p>
+    <p style="margin: 0;"><a href="https://www.amazon.com/dp/1473612519?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">Mindfulness: A Practical Guide to Finding Peace in a Frantic World</a> - </p>
   </div>
 
   <section id="how-to-respond" class="ncg-section">
@@ -113,7 +113,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Protecting your personal health and emotional well-being does not mean burying your head in the sand or ignoring important national events. Instead, it requires cultivating intentional boundaries around how we consume information.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -128,7 +128,7 @@ Tactical Waterproof Backpack ($35.99)
 
   <div class="ncg-amazon-box" style="border-left: 4px solid #d4af37; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
     <p style="margin: 0 0 10px 0; font-weight: bold; color: #333;">Recommended Wellness Resource:</p>
-    <p style="margin: 0;"><a href="https://www.amazon.com/dp/0735211299?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones</a> - $14.00</p>
+    <p style="margin: 0;"><a href="https://www.amazon.com/dp/0735211299?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones</a> - </p>
   </div>
 
   <section id="closing-takeaway" class="ncg-section">

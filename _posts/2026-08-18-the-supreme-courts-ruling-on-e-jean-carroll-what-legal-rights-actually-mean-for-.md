@@ -18,11 +18,11 @@ source_url: 'https://www.cnn.com/2026/08/17/politics/supreme-court-trump-e-jean-
 
 <section id="the-news">
 <h2>The Final Decision</h2>
-<p>The Supreme Court on Monday officially closed the door on President Donald Trump’s effort to challenge a $5.6 million judgment awarded to writer E. Jean Carroll. By declining to grant a rehearing of his appeal, the justices have effectively cemented the lower court’s verdict, which found Trump liable for sexual abuse and defamation.</p>
+<p>The Supreme Court on Monday officially closed the door on President Donald Trump’s effort to challenge a  million judgment awarded to writer E. Jean Carroll. By declining to grant a rehearing of his appeal, the justices have effectively cemented the lower court’s verdict, which found Trump liable for sexual abuse and defamation.</p>
 <p>For the average observer, this marks the end of a long-running procedural battle. While Trump’s legal team has characterized the proceedings as politically motivated "lawfare," the court's refusal to hear the case means the jury's unanimous verdict is now final and beyond further judicial challenge.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 </section>
@@ -48,7 +48,7 @@ Seagate Portable External Hard Drive ($59.99)
 
 <section id="what-happens-next">
 <h2>What Happens Next?</h2>
-<p>While this specific $5.6 million case is now concluded, it is not the end of Trump’s legal activity. A separate $83 million judgment, stemming from a different lawsuit filed by Carroll, remains pending before the Supreme Court. This means the legal back-and-forth between the parties will continue in a different venue, even as this particular chapter closes.</p>
+<p>While this specific  million case is now concluded, it is not the end of Trump’s legal activity. A separate  million judgment, stemming from a different lawsuit filed by Carroll, remains pending before the Supreme Court. This means the legal back-and-forth between the parties will continue in a different venue, even as this particular chapter closes.</p>
 </section>
 
 <section id="conclusion">
@@ -74,7 +74,7 @@ Seagate Portable External Hard Drive ($59.99)
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "The Supreme Court’s Ruling on E. Jean Carroll: What Legal Rights Actually Mean for Public Figures",
-  "description": "The Supreme Court has declined to rehear Donald Trump's appeal regarding the $5.6 million E. Jean Carroll judgment. Here is a look at the legal rights involved.",
+  "description": "The Supreme Court has declined to rehear Donald Trump's appeal regarding the  million E. Jean Carroll judgment. Here is a look at the legal rights involved.",
   "datePublished": "2026-08-17",
   "author": {
     "@type": "Person",
@@ -89,7 +89,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -97,7 +97,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

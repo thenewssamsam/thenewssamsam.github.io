@@ -34,7 +34,7 @@ source_url: "https://www.foxnews.com/politics/mysterious-polling-firm-behind-fak
     <!-- Amazon Product Recommendation 1 -->
     <div style="border-left: 4px solid #f59e0b; background-color: #fffbeb; padding: 15px; margin: 25px 0; border-radius: 4px;">
       <p style="margin: 0; font-size: 0.95rem; color: #b45309;">
-        <strong>Economic Literacy Essential:</strong> To better understand how market signals, data manipulation, and economic incentives drive modern institutions, consider reading <a href="https://www.amazon.com/dp/B000FA5KKK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #92400e; font-weight: bold; text-decoration: underline;">Freakonomics: A Rogue Economist Explores the Hidden Side of Everything</a> ($14.99).
+        <strong>Economic Literacy Essential:</strong> To better understand how market signals, data manipulation, and economic incentives drive modern institutions, consider reading <a href="https://www.amazon.com/dp/B000FA5KKK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #92400e; font-weight: bold; text-decoration: underline;">Freakonomics: A Rogue Economist Explores the Hidden Side of Everything</a> .
       </p>
     </div>
   </section>
@@ -49,7 +49,7 @@ source_url: "https://www.foxnews.com/politics/mysterious-polling-firm-behind-fak
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -58,7 +58,7 @@ Seagate Portable External Hard Drive ($59.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -71,7 +71,7 @@ Seagate Portable External Hard Drive ($59.99)
     <!-- Amazon Product Recommendation 2 -->
     <div style="border-left: 4px solid #f59e0b; background-color: #fffbeb; padding: 15px; margin: 25px 0; border-radius: 4px;">
       <p style="margin: 0; font-size: 0.95rem; color: #b45309;">
-        <strong>Financial Strategy Resource:</strong> Master the principles of risk assessment and decision-making under uncertainty with <a href="https://www.amazon.com/dp/B002RI9DJM?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #92400e; font-weight: bold; text-decoration: underline;">Thinking, Fast and Slow</a> by Daniel Kahneman ($16.50).
+        <strong>Financial Strategy Resource:</strong> Master the principles of risk assessment and decision-making under uncertainty with <a href="https://www.amazon.com/dp/B002RI9DJM?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #92400e; font-weight: bold; text-decoration: underline;">Thinking, Fast and Slow</a> by Daniel Kahneman .
       </p>
     </div>
   </section>
@@ -86,7 +86,7 @@ Seagate Portable External Hard Drive ($59.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -95,7 +95,7 @@ Seagate Portable External Hard Drive ($59.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -120,7 +120,7 @@ Tactical Waterproof Backpack ($35.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -147,7 +147,7 @@ Tactical Waterproof Backpack ($35.99)
     <!-- Amazon Product Recommendation 3 -->
     <div style="border-left: 4px solid #f59e0b; background-color: #fffbeb; padding: 15px; margin: 25px 0; border-radius: 4px;">
       <p style="margin: 0; font-size: 0.95rem; color: #b45309;">
-        <strong>Critical Thinking Tool:</strong> Arm yourself against misinformation and logical fallacies with <a href="https://www.amazon.com/dp/B075V3JD8J?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #92400e; font-weight: bold; text-decoration: underline;">The Art of Thinking Clearly</a> by Rolf Dobelli ($15.89).
+        <strong>Critical Thinking Tool:</strong> Arm yourself against misinformation and logical fallacies with <a href="https://www.amazon.com/dp/B075V3JD8J?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #92400e; font-weight: bold; text-decoration: underline;">The Art of Thinking Clearly</a> by Rolf Dobelli .
       </p>
     </div>
   </section>

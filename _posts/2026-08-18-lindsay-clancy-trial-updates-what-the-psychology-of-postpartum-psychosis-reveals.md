@@ -39,7 +39,7 @@ source_url: 'https://www.bostonglobe.com/2026/08/17/metro/lindsay-clancy-trial-l
 <p>The transition from the prosecution&#8217;s case to the defense brought immediate emotional weight to the courtroom. Paula Musgrove, Clancy&#8217;s mother, testified about the months leading up to the January tragedy in Duxbury, Massachusetts. Under questioning from defense attorney Kevin Reddington, Musgrove recounted disturbing statements and actions from her daughter, including an evening when Clancy asked to sleep in her mother&#8217;s bed because she &#8220;didn&#8217;t want to be alone,&#8221; and an admission that she felt her medication was &#8220;destroying&#8221; her mind.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 <p>Crucially, Musgrove testified that Clancy had once approached both her and her husband, Patrick, to disclose that she was having thoughts of harming the children. During cross-examination, Assistant District Attorney Jennifer Sprague pressed Musgrove on text messages sent in the days prior to the killings, highlighting optimistic notes about sleeping better and taking the kids to a museum—evidence the state points to as proof of rational thought and criminal responsibility. Musgrove, however, maintained that her texts were maternal encouragement rather than objective assessments of wellness.</p>
@@ -121,7 +121,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -129,7 +129,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

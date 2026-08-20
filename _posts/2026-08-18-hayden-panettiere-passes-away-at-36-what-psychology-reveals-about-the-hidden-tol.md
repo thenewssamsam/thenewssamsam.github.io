@@ -23,7 +23,7 @@ source_url: 'https://www.bbc.com/news/articles/cq5665zgg1po'
   <p>Police and coroner officials stated that a preliminary investigation revealed "no signs of foul play or suspicious circumstances." While Panettiere had documented her long-standing struggles with substance abuse, addiction, and the pressures of her upbringing in her memoir earlier this year, a definitive cause of death has not yet been released.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
   <p>Tributes poured in immediately from across the entertainment industry. Co-stars and peers—including Viola Davis, Bethany Joy-Lenz, Connie Britton, and Selma Blair—remembered her as an extraordinary talent, an old soul, and a fierce spirit who left an indelible mark on television and film from a remarkably young age.</p>
@@ -100,7 +100,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -108,7 +108,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

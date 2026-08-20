@@ -24,22 +24,22 @@ source_url: "https://www.theguardian.com/world/2026/aug/18/south-korea-president
         <p>The decision comes after President Trump directed the Pentagon to “substantially reduce” the ongoing <em>Ulchi Freedom Shield</em> exercises. Trump cited his personal rapport with Kim Jong-un and a desire to maintain diplomatic momentum. However, South Korean officials argue that the need for independent defense capabilities is non-negotiable, especially as North Korea integrates new battlefield tactics learned from its involvement in the Ukraine war.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         <p>South Korea has held peacetime control of its military since 1994, but wartime authority has remained with the US-led Combined Forces Command. Reclaiming this authority is a major milestone for South Korea’s national identity and security readiness.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </section>
 
     <div class="ncg-product-box" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-        <p><strong>Recommended Resource:</strong> <a href="#">World Atlas for Young Explorers</a> - $24.99. A great tool to help children understand geography and the nations involved in today's news.</p>
+        <p><strong>Recommended Resource:</strong> <a href="#">World Atlas for Young Explorers</a> - . A great tool to help children understand geography and the nations involved in today's news.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -49,7 +49,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p>When news of military shifts and geopolitical tension hits the headlines, parents often face the challenge of explaining "big" concepts to children without causing unnecessary fear. The situation in South Korea offers a unique lens: the importance of taking responsibility for one's own safety while maintaining healthy, cooperative relationships with others.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         
@@ -57,7 +57,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p>Just as President Lee emphasizes that "strengthening our own capabilities increases our value as an ally," parents can teach children that true independence is not about rejecting help, but about becoming capable partners. Whether it’s a teen learning to manage their own schedule or a younger child cleaning their room, emphasize that self-reliance is a skill that makes them more reliable to others.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
         
@@ -65,7 +65,7 @@ Tactical Waterproof Backpack ($35.99)
         <p>Children often mirror their parents' anxiety. If we treat every news report as an immediate catastrophe, they will too. Instead, frame these events as "complex adult conversations" that take place over long periods. Remind them that nations, like people, are constantly learning how to balance working together with protecting their own home.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -79,22 +79,22 @@ Tactical Waterproof Backpack ($35.99)
         <p>Watching global leaders navigate complex alliances reminds me of the wisdom found in Proverbs 24:6: "For by wise guidance you can wage your war, and in abundance of counselors there is victory." This verse speaks to the balance between self-responsibility and the value of partnerships. It invites us to consider that we are not meant to navigate life—or its conflicts—entirely alone, yet we are responsible for the stewardship of our own "house."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         <p>When we feel the weight of world events, it is also comforting to remember Psalm 46:1: "God is our refuge and strength, a very present help in trouble." This provides a spiritual anchor when the geopolitical situation feels uncertain. It reminds us that our ultimate security rests in something far greater than any military treaty or political alliance, and it invites us to pray for those in leadership who must make difficult decisions that affect the peace of millions.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </section>
 
     <div class="ncg-product-box" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-        <p><strong>Family Activity:</strong> <a href="#">Family Board Game: Strategy & Cooperation</a> - $34.95. Practice planning and teamwork together at the kitchen table.</p>
+        <p><strong>Family Activity:</strong> <a href="#">Family Board Game: Strategy & Cooperation</a> - . Practice planning and teamwork together at the kitchen table.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>

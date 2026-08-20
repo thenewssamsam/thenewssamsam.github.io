@@ -38,7 +38,7 @@ source_url: 'https://finance.yahoo.com/technology/articles/uber-adds-zipline-dro
     <p>Deliveries on the Uber Eats platform are slated to begin in Zipline's existing markets by the end of this year, with plans to expand rapidly into dozens of U.S. cities. While financial terms of the deal were not disclosed, the move underscores Uber's broader pivot toward open-platform autonomy—partnering with specialized hardware providers rather than manufacturing autonomous vehicles or aircraft in-house.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 </section>
@@ -46,7 +46,7 @@ Seagate Portable External Hard Drive ($59.99)
 <section id="the-financial-impact">
     <h2>The Financial Impact of Aerial Delivery</h2>
     <p>From a financial perspective, Uber's latest move highlights a relentless search for margin expansion in the fiercely competitive food delivery sector. Traditional last-mile delivery—relying on human couriers driving cars, scooters, or bicycles—suffers from severe labor constraints, traffic delays, and high variable costs per trip.</p>
-    <p>By integrating drone delivery, companies aim to slash the marginal cost of labor per drop-off. When a single operator can oversee multiple autonomous drones, or when software handles routing entirely, the cost structure shifts dramatically. Zipline recently closed an extended Series H funding round of $800 million, bringing its valuation to $7.6 billion, signaling strong institutional backing for the unit economics of aerial logistics.</p>
+    <p>By integrating drone delivery, companies aim to slash the marginal cost of labor per drop-off. When a single operator can oversee multiple autonomous drones, or when software handles routing entirely, the cost structure shifts dramatically. Zipline recently closed an extended Series H funding round of  million, bringing its valuation to  billion, signaling strong institutional backing for the unit economics of aerial logistics.</p>
     
     <div class="ncg-quote-box">
         <p>"Truly quick commerce is proving to be an even bigger market than the original food market was."</p>
@@ -57,7 +57,7 @@ Seagate Portable External Hard Drive ($59.99)
 <section id="the-economics-of-quick-commerce">
     <h2>The Economics of "Quick Commerce"</h2>
     <p>Uber CEO Dara Khosrowshahi noted in interviews that ultra-fast fulfillment—delivering orders within five to 10 minutes—unlocks new consumer spending habits. The economics of quick commerce change when delivery times shrink from 45 minutes to under 10 minutes. Consumers order higher-frequency, smaller-basket items: convenience goods, emergency supplies, and immediate meal needs.</p>
-    <p>However, this strategy requires navigating complex capital expenditure and regulatory environments. Uber has committed more than $10 billion globally to dozens of autonomous vehicle and robotics providers. Rather than owning the depreciating assets directly, Uber acts as the liquidity and demand marketplace—taking a cut of transactions while letting partners bear the hardware manufacturing and maintenance risks.</p>
+    <p>However, this strategy requires navigating complex capital expenditure and regulatory environments. Uber has committed more than  billion globally to dozens of autonomous vehicle and robotics providers. Rather than owning the depreciating assets directly, Uber acts as the liquidity and demand marketplace—taking a cut of transactions while letting partners bear the hardware manufacturing and maintenance risks.</p>
 </section>
 
 <section id="risks-and-partnership-friction">
@@ -118,7 +118,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -126,7 +126,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

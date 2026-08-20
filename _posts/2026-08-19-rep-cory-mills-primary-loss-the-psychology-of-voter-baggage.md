@@ -25,7 +25,7 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-r
     <p>Why do voters who once supported a candidate suddenly pull the lever for an opponent? The comments from voters like Tiffany Davis—who cited Mills’ "baggage" as a disqualifying factor—point to a psychological phenomenon known as <strong>loss aversion</strong>. When voters perceive that a candidate’s personal controversies increase the risk of losing a general election to an opposing party, the "cost" of loyalty begins to outweigh the perceived benefits of the incumbent’s past performance.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -37,7 +37,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Voters often rely on <strong>normalcy bias</strong>, assuming that a representative who has served two terms will continue to function within expected norms. When investigations into sexual misconduct and campaign finance surface, that sense of normalcy is shattered. For the electorate, this creates cognitive dissonance: they may want to believe the "good guy" narrative, but the accumulating evidence makes that internal story difficult to maintain.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -47,21 +47,21 @@ Tactical Waterproof Backpack ($35.99)
     <p>This situation invites us to consider the weight of character in public life. The Bible often emphasizes that a good name is more valuable than great riches, and that those in positions of influence are held to a higher standard of conduct.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p><em>"A good name is to be chosen rather than great riches, and favor is better than silver or gold."</em> — Proverbs 22:1</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>It is a sobering reminder that our actions carry consequences that extend far beyond our personal lives. When we occupy positions of trust, our integrity—or the lack thereof—becomes a matter of public concern. Whether in politics or our own circles, the pursuit of truth and the maintenance of a clear conscience are essential components of lasting influence. It reminds me that we are called to walk in the light, knowing that what is done in private often eventually finds its way into the public square.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

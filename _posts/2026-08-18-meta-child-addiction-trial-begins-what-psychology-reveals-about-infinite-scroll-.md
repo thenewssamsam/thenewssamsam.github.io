@@ -22,12 +22,12 @@ source_url: ''
 
   <p class="ncg-lead">When Meta steps into a federal courtroom in Oakland this week to face a sweeping lawsuit brought by four state attorneys general, the legal battle will center less on what teenagers see on their screens and much more on how those screens were built to keep them looking.</p>
 
-  <p>The landmark trial — pitting California, Colorado, Kentucky, and New Jersey against the parent company of Facebook and Instagram — seeks up to $1.4 trillion in penalties. More than a financial dispute, the case represents a watershed moment in how society scrutinizes digital architecture. State officials allege that Meta deliberately deployed features like the "like" button, recommendation algorithms, and the infinite-scroll function to hook young users, prioritizing compulsive engagement over their sleep, education, and mental health.</p>
+  <p>The landmark trial — pitting California, Colorado, Kentucky, and New Jersey against the parent company of Facebook and Instagram — seeks up to  trillion in penalties. More than a financial dispute, the case represents a watershed moment in how society scrutinizes digital architecture. State officials allege that Meta deliberately deployed features like the "like" button, recommendation algorithms, and the infinite-scroll function to hook young users, prioritizing compulsive engagement over their sleep, education, and mental health.</p>
 
   <p>While legal analysts compare the stakes to historic litigation against tobacco and opioid manufacturers, the core of the debate forces a deeper psychological question: Why are these specific digital tools so effective at overriding human self-control, particularly in developing minds?</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -68,7 +68,7 @@ Tactical Waterproof Backpack ($35.99)
     </details>
     <details class="ncg-faq-item">
       <summary>How much money are the states seeking from Meta?</summary>
-      <p>Four states—California, Colorado, Kentucky, and New Jersey—are seeking up to $1.4 trillion in financial penalties and mandated product changes.</p>
+      <p>Four states—California, Colorado, Kentucky, and New Jersey—are seeking up to  trillion in financial penalties and mandated product changes.</p>
     </details>
     <details class="ncg-faq-item">
       <summary>Does Section 230 protect Meta in this lawsuit?</summary>
@@ -114,7 +114,7 @@ Tactical Waterproof Backpack ($35.99)
         "name": "How much money are the states seeking from Meta?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Four states are seeking up to $1.4 trillion in financial penalties and mandated product changes."
+          "text": "Four states are seeking up to  trillion in financial penalties and mandated product changes."
         }
       },
       {
@@ -135,7 +135,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -143,7 +143,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

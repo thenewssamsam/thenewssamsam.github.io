@@ -37,14 +37,14 @@ source_url: "https://www.cbsnews.com/pittsburgh/news/penn-state-drug-fraternity-
 <p>Among those charged is Paul Robinson, a managing attorney at a Pittsburgh law firm and the father of one of the alleged ringleaders, Thomas Robinson. While the other 13 defendants are students, the elder Robinson is facing felony charges of tampering with evidence and hindering apprehension, specifically accused of hiding a safe containing drugs and cash to shield his son from law enforcement.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>The case lays bare a chilling reality of modern campus life, but more profoundly, it highlights a profound breakdown in parental boundaries. When an adult charged with upholding the law allegedly chooses to break it to protect an adult child from accountability, it raises urgent questions for families everywhere about how we raise, guide, and protect our children as they step into independence.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -55,13 +55,13 @@ Tactical Waterproof Backpack ($35.99)
 
 <div class="ncg-product-card" style="border-left: 4px solid #d97706; background: #fffbeb; padding: 15px; margin: 20px 0; border-radius: 4px;">
 <p style="margin: 0 0 10px 0; font-weight: bold; color: #b45309;">Recommended Resource for Parents:</p>
-<p style="margin: 0;"><a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1e3a8a; text-decoration: none; font-weight: bold;">The Yes Brain: How to Cultivate Courage, Curiosity, and Resilience in Your Child</a> - $16.99 &bull; A fantastic guide on building genuine resilience and decision-making skills rather than shielding youth from natural consequences.</p>
+<p style="margin: 0;"><a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1e3a8a; text-decoration: none; font-weight: bold;">The Yes Brain: How to Cultivate Courage, Curiosity, and Resilience in Your Child</a> -  &bull; A fantastic guide on building genuine resilience and decision-making skills rather than shielding youth from natural consequences.</p>
 </div>
 
 <p>When parents step in to rescue college-aged adults from major legal, financial, or academic consequences, they often cross a psychological boundary known as enabling. Rather than teaching accountability, extreme intervention communicates an unintended message: <em>"You are not capable of handling the consequences of your own choices, so I will break the rules for you."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -72,7 +72,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>"Protecting our children shouldn't mean protecting them from reality. True parental strength lies in teaching them how to stand tall when their own choices catch up with them."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </blockquote>
@@ -80,7 +80,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>For parents communicating with teenagers and college students, this event opens the door to vital, grounded conversations about peer pressure, the very real dangers of Greek life subcultures, and the permanence of felony records. Teens often believe invulnerability is a birthright; seeing an established professional unravel his career overnight offers a sobering counter-narrative.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -90,14 +90,14 @@ Tactical Waterproof Backpack ($35.99)
 <p>Situations like this naturally invite quiet reflection on the nature of truth, human nature, and the heavy cost of trying to shield loved ones from moral responsibility. Proverbs 15:27 reminds us that <em>"Whoever is greedy for unjust gain troubles his own household, but he who hates bribes will live."</em> While wealth and professional status can create an illusion of safety, integrity remains the only truly stable foundation for a family.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Watching someone navigate the consequences of poor judgment makes me think about how essential it is to build character long before our children leave home. We cannot simply hope they make good choices in high-pressure university environments; we have to model transparency, honesty, and personal accountability every single day. One lasting lesson from this ordeal is that grace and truth must go hand in hand—we can love our children fiercely while still allowing the fires of accountability to refine their character.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -107,7 +107,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Instead of panicking or assuming your child will inevitably fall into similar pitfalls, use this news story as a practical touchpoint for family discussions:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <ul>
@@ -124,7 +124,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>Paul Robinson, a Pittsburgh managing attorney, is facing felony charges of tampering with evidence and hindering apprehension for allegedly hiding a safe containing drugs and cash.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </details>
@@ -134,7 +134,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>State investigators identified the Delta Upsilon and Sigma Chi fraternity houses as the primary locations where cocaine was cut, packaged, and distributed.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </details>
@@ -144,7 +144,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>Approach the conversation calmly by sharing the news story as a neutral example of how quickly legal and academic futures can be derailed by poor choices and bad company.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </details>

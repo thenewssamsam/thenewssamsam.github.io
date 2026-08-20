@@ -41,7 +41,7 @@ source_url: 'https://ny1.com/nyc/all-boroughs/news/2026/08/17/one-of-two-amtrak-
 <p>The newly reopened tube is a vital piece of a 116-year-old subterranean puzzle. Comprising four tubes in total, the East River Tunnel system serves as a primary artery for trains connecting New York City to Long Island and New Jersey. When Superstorm Sandy struck in 2012, salt water inundated the tunnels, leaving corrosive damage that degraded concrete, power systems, and tracks for over a decade.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 <p>According to Amtrak officials, the rehabilitation project was monumental in scale. Crews removed 24,000 feet of rail, 8,000 tons of ballast, and 8,000 wooden ties. In their place, engineers installed modern power and communication systems, fresh track, code-compliant bench walls, and durable new concrete floors.</p>
@@ -178,7 +178,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -186,7 +186,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -35,14 +35,14 @@ source_url: "https://www.sfgate.com/sf-culture/article/abc-sues-fcc-22393619.php
     <p>In late April, the Federal Communications Commission (FCC) ordered eight ABC-owned stations—including San Francisco's KGO-TV—to file their broadcasting license renewals years ahead of schedule. For KGO-TV specifically, the standard renewal deadline was not until December 1, 2030. Instead of the typical months-long preparation window, the network was handed a strict 30-day timeline.</p>
 
     <div class="ncg-amazon-recommendation" style="border-left: 4px solid #f0c14b; background: #f8f9fa; padding: 12px 16px; margin: 20px 0; border-radius: 4px;">
-      <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Read:</strong> <a href="https://www.amazon.com/dp/B085V83J5Z?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Constitutional Law and the First Amendment: A Comprehensive Guide</a> - <span style="color: #b12704; font-weight: bold;">$24.99</span></p>
+      <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Read:</strong> <a href="https://www.amazon.com/dp/B085V83J5Z?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Constitutional Law and the First Amendment: A Comprehensive Guide</a> - <span style="color: #b12704; font-weight: bold;"></span></p>
     </div>
 
     <p>According to the lawsuit filed on Tuesday by ABC and its parent company, Walt Disney, this unprecedented administrative burden is direct retaliation. The regulatory pressure followed intense public and political blowback over specific broadcast segments, including a controversial "Jimmy Kimmel Live!" segment regarding the killing of Charlie Kirk and criticism of "The View" regarding political candidate interviews. Public statements from political figures on social media called for the revocation of broadcast licenses due to unfavorable news coverage and late-night routines.</p>
     <p>Faced with what it characterizes as a coercive campaign to punish independent editorial decisions, ABC pushed back with a federal lawsuit accusing the administration of violating the First Amendment.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -52,7 +52,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Whenever high-profile legal battles involving federal agencies and media conglomerates hit the headlines, rumor and misconception spread quickly across social media. Let us look at what the claims actually entail compared to the established facts.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -62,7 +62,7 @@ Tactical Waterproof Backpack ($35.99)
     </div>
 
     <div class="ncg-amazon-recommendation" style="border-left: 4px solid #f0c14b; background: #f8f9fa; padding: 12px 16px; margin: 20px 0; border-radius: 4px;">
-      <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Tool:</strong> <a href="https://www.amazon.com/dp/B07V5PY9SJ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Document Scanner & Home Office Productivity Kit</a> - <span style="color: #b12704; font-weight: bold;">$39.99</span></p>
+      <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Tool:</strong> <a href="https://www.amazon.com/dp/B07V5PY9SJ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Document Scanner & Home Office Productivity Kit</a> - <span style="color: #b12704; font-weight: bold;"></span></p>
     </div>
 
     <div class="ncg-myth-box" style="background: #fff5f5; border-left: 4px solid #e53e3e; padding: 16px; margin: 20px 0; border-radius: 6px;">
@@ -81,7 +81,7 @@ Tactical Waterproof Backpack ($35.99)
   </section>
 
   <div class="ncg-amazon-recommendation" style="border-left: 4px solid #f0c14b; background: #f8f9fa; padding: 12px 16px; margin: 20px 0; border-radius: 4px;">
-    <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Accessory:</strong> <a href="https://www.amazon.com/dp/B07ZPC9QD4?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Anker Portable Power Bank for Reliable News Streaming & Mobile Devices</a> - <span style="color: #b12704; font-weight: bold;">$29.99</span></p>
+    <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Accessory:</strong> <a href="https://www.amazon.com/dp/B07ZPC9QD4?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Anker Portable Power Bank for Reliable News Streaming & Mobile Devices</a> - <span style="color: #b12704; font-weight: bold;"></span></p>
   </div>
 
   <section id="spiritual-perspective">
@@ -89,19 +89,19 @@ Tactical Waterproof Backpack ($35.99)
     <p>Conflicts over speech, power, and truth inevitably invite us to look deeper into human nature. When institutions clash over what can be said and heard, we are reminded of how easily power can be leveraged to silence dissenting voices. Throughout history, societies have wrestled with the tension between authority and truth. Scripture invites us to value honesty, integrity, and the pursuit of genuine justice rather than manipulation or control.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Proverbs 12:17 reminds us, <em>"An honest witness tells the truth, but a false witness tells lies."</em> This principle applies just as much to public discourse and media reporting as it does to our personal lives. Furthermore, Proverbs 31:8-9 urges us to <em>"Speak up for those who cannot speak for themselves, for the rights of all who are destitute."</em> In a complex media landscape, seeking clarity and protecting the freedom to examine facts openly remains a vital communal responsibility.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-recommendation" style="border-left: 4px solid #f0c14b; background: #f8f9fa; padding: 12px 16px; margin: 20px 0; border-radius: 4px;">
-    <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Read:</strong> <a href="https://www.amazon.com/dp/B01N9TS6GE?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Federalist Papers (Historical Political Essays)</a> - <span style="color: #b12704; font-weight: bold;">$4.99</span></p>
+    <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Read:</strong> <a href="https://www.amazon.com/dp/B01N9TS6GE?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Federalist Papers (Historical Political Essays)</a> - <span style="color: #b12704; font-weight: bold;"></span></p>
   </div>
 
   <section id="reader-response">
@@ -114,7 +114,7 @@ Seagate Portable External Hard Drive ($59.99)
   </section>
 
   <div class="ncg-amazon-recommendation" style="border-left: 4px solid #f0c14b; background: #f8f9fa; padding: 12px 16px; margin: 20px 0; border-radius: 4px;">
-    <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Tool:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Echo Dot (5th Gen) Smart Speaker for Staying Updated on Daily News Briefs</a> - <span style="color: #b12704; font-weight: bold;">$49.99</span></p>
+    <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Tool:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Echo Dot (5th Gen) Smart Speaker for Staying Updated on Daily News Briefs</a> - <span style="color: #b12704; font-weight: bold;"></span></p>
   </div>
 
   <section id="conclusion">

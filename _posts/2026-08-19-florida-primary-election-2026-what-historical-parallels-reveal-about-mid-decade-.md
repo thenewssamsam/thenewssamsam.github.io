@@ -34,10 +34,10 @@ source_url: "https://abcnews.com/Politics/florida-holds-1st-major-primaries-afte
 <p>The stakes are intensely personal for several incumbent members of Congress. Democratic Reps. Darren Soto, Jared Moskowitz, Debbie Wasserman Schultz, and Kathy Castor find their districts directly impacted. Wasserman Schultz opted to run in the newly redrawn 20th Congressional District—a majority-minority district—sparking local tensions with Black Democrats who feel squeezed by similar mid-decade redistricting moves in states like Tennessee, Louisiana, and Alabama. Meanwhile, Moskowitz faces a spirited primary challenge from progressive challenger Oliver Larkin in the 25th District.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
-<p>On the Republican side, attention is heavily focused on the gubernatorial race to succeed term-limited Gov. Ron DeSantis. Rep. Byron Donalds has emerged as the front-runner in the GOP primary, buoyed by the endorsement of President Donald Trump and a staggering $10 million campaign donation from GOP mega-donor Ken Griffin. If Donalds secures the nomination and wins in November, he would make history as Florida's first Black governor and only the seventh Black governor in U.S. history. Former Republican congressman David Jolly leads the field in the Democratic gubernatorial primary, setting up a high-profile showdown for the autumn.</p>
+<p>On the Republican side, attention is heavily focused on the gubernatorial race to succeed term-limited Gov. Ron DeSantis. Rep. Byron Donalds has emerged as the front-runner in the GOP primary, buoyed by the endorsement of President Donald Trump and a staggering  million campaign donation from GOP mega-donor Ken Griffin. If Donalds secures the nomination and wins in November, he would make history as Florida's first Black governor and only the seventh Black governor in U.S. history. Former Republican congressman David Jolly leads the field in the Democratic gubernatorial primary, setting up a high-profile showdown for the autumn.</p>
 </section>
 
 <section id="historical-parallel">
@@ -102,7 +102,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -110,7 +110,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -46,18 +46,18 @@ source_url: 'https://www.nbcbayarea.com/news/local/jose-suarez-telemundo-mark-no
     <p>Colleagues and community leaders have remembered him not merely as a corporate executive, but as a visionary mentor and tireless advocate. In a joint statement, Telemundo's Sacramento and Fresno stations noted that Suárez possessed an "extraordinary capacity to bring people together" around a shared conviction that collective effort strengthens communities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <div class="ncg-product-card" style="background: #f8f9fa; border-left: 4px solid #f0c14b; padding: 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
-        <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B0852V6V81?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">ESV Study Bible, Large Print (Hardcover): Experiencing God's Word with Depth and Clarity</a> - $34.99. Find comfort and historical context during times of grief and sudden loss.</p>
+        <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B0852V6V81?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">ESV Study Bible, Large Print (Hardcover): Experiencing God's Word with Depth and Clarity</a> - . Find comfort and historical context during times of grief and sudden loss.</p>
     </div>
 
     <p>With more than 25 years in media—earning a Lone Star Emmy, a Suncoast Emmy, three Best Daily Newscast Emmys, and several Associated Press accolades—Suárez left an indelible mark on the industry. Yet, the abrupt end of his journey reminds us how quickly the chapters of our earthly lives can close.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -67,14 +67,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>When someone who has poured immense energy into uplifting others is suddenly taken, it creates a profound vacuum. From a faith perspective, such moments pierce through our everyday illusions of absolute control. We plan careers, build legacies, and map out decades ahead, often forgetting how delicate human life truly is.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>The Bible does not shy away from the reality of unexpected sorrow. Instead, it invites us to examine our days with wisdom. Suárez's life work—fostering unity, communication, and community strength—mirrors the biblical call to use our unique gifts to serve others. When a leader of such vitality passes away without warning, it challenges us to consider what kind of mark we are leaving behind in our own spheres of influence.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -86,12 +86,12 @@ Tactical Waterproof Backpack ($35.99)
     <p>Theologians often point out that the value of a life is measured not by its length, but by its depth and faithfulness. Suárez's decades-long commitment to his community reflects a dedication to service that resonates deeply with timeless moral truths.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div class="ncg-product-card" style="background: #f8f9fa; border-left: 4px solid #f0c14b; padding: 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
-        <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B07T4W5X6M?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Purpose Driven Life: What on Earth Am I Here For? by Rick Warren</a> - $14.99. A timeless guide on finding meaning, legacy, and spiritual focus in an uncertain world.</p>
+        <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B07T4W5X6M?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Purpose Driven Life: What on Earth Am I Here For? by Rick Warren</a> - . A timeless guide on finding meaning, legacy, and spiritual focus in an uncertain world.</p>
     </div>
 </section>
 
@@ -100,14 +100,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>When news of sudden accidents breaks, it naturally stirs deep reflections on mortality. Writing about the brevity of our time on earth, James reminds us: <em>"Yet you do not know what tomorrow will bring. What is your life? For you are a mist that appears for a little time and then vanishes"</em> (James 4:14, ESV). This verse does not aim to instill fear, but rather to awaken us to the preciousness of the present moment and the importance of anchoring our hope in things eternal rather than temporary.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>Similarly, Psalm 90:12 offers a quiet prayer for perspective: <em>"So teach us to number our days that we may get a heart of wisdom."</em> Reflecting on José Suárez's sudden passing in Kenya makes these ancient words feel immediate. Every day we are given is an opportunity to cultivate love, pursue justice, and build up our families and communities with intentionality and grace.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -123,7 +123,7 @@ Seagate Portable External Hard Drive ($59.99)
     </ul>
 
     <div class="ncg-product-card" style="background: #f8f9fa; border-left: 4px solid #f0c14b; padding: 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
-        <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0310356133?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Meaning of Marriage: Facing the Complexities of Commitment with the Wisdom of God by Timothy Keller</a> - $16.99. Encouraging deep, intentional relationships and community commitment.</p>
+        <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0310356133?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Meaning of Marriage: Facing the Complexities of Commitment with the Wisdom of God by Timothy Keller</a> - . Encouraging deep, intentional relationships and community commitment.</p>
     </div>
 </section>
 

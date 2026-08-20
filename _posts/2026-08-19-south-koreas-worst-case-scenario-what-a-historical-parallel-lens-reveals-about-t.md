@@ -33,7 +33,7 @@ source_url: "https://www.cnbc.com/2026/08/18/trump-south-korea-military-exercise
 <p>The unfolding diplomatic friction began taking shape as the annual Ulchi Freedom Shield exercises kicked off with approximately 18,000 South Korean military personnel scheduled to participate through August 27. Pyongyang has long excoriated these defensive maneuvers as rehearsals for an aggressive war. However, the real catalyst for change came from Washington, D.C.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>In a Truth Social post, President Trump announced he ordered a substantial reduction in joint drills to avoid sending a "totally inappropriate and hostile" signal to Pyongyang, citing his rapport with Kim Jong Un. Simultaneously, Trump expressed frustration with Seoul's level of support regarding ongoing operations involving Iran, noting the presence of American troops guarding the peninsula. According to analysts like Victor Cha of the Center for Strategic and International Studies, the rhetorical timing and drill adjustments serve multiple purposes: enticing North Korea back to the negotiating table and pivoting the geopolitical spotlight away from Middle Eastern entanglements.</p>
@@ -98,7 +98,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -106,7 +106,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

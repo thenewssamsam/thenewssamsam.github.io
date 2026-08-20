@@ -28,7 +28,7 @@ source_url: "https://turnto10.com/news/local/testimony-in-lindsay-clancy-murder-
     <p>From an industry and career perspective, the Clancy case serves as a stark reminder of the limitations of our current support infrastructure. In many high-pressure sectors, the "always-on" culture can mask the early signs of severe psychological distress. Employers are increasingly tasked with balancing professional output with the human reality of their workforce.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -36,7 +36,7 @@ Tactical Waterproof Backpack ($35.99)
         <p><strong>"The true measure of a professional environment is not just its productivity, but its capacity to support the human beings who sustain it during their most vulnerable moments."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -45,15 +45,15 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Professional environments often reward resilience and output, creating an implicit bias against admitting to mental health struggles. When individuals fear that seeking help might impact their career trajectory, they often wait until a crisis point is reached. Industry leaders are beginning to recognize that proactive mental health resources—not just reactive crisis management—are essential for long-term sustainability.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <div style="border-left: 5px solid #ffd700; background: #fffdf0; padding: 10px; margin: 10px 0;">
-        <p><strong>Recommended Resource:</strong> <em>The Burnout Epidemic: The Rise of Chronic Stress and How We Can Fix It</em> - $16.99. <a href="#">Check Price on Amazon</a></p>
+        <p><strong>Recommended Resource:</strong> <em>The Burnout Epidemic: The Rise of Chronic Stress and How We Can Fix It</em> - . <a href="#">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -62,7 +62,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Organizations must move toward a culture of radical transparency regarding mental health. This includes training managers to recognize the signs of psychological distress and providing clear, destigmatized pathways to professional help. The goal is to ensure that when a "male voice" or any internal crisis occurs, the individual has a support network that is equipped to intervene effectively.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-KEOFID Classic Backpack ($32.99)
+KEOFID Classic Backpack 
 </a></div>
 
 </section>
@@ -72,14 +72,14 @@ KEOFID Classic Backpack ($32.99)
     <p>This situation brings to mind the words of Psalm 34:18: <em>"The Lord is near to the brokenhearted and saves the crushed in spirit."</em> This verse invites us to consider that our professional identities are only a small part of our human experience. We are all prone to seasons of darkness, and the standard of success we set for ourselves in the workplace often fails to account for the depth of human suffering.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-KEOFID Classic Backpack ($32.99)
+KEOFID Classic Backpack 
 </a></div>
 
     
     <p>We are also reminded of the importance of community support, as seen in Galatians 6:2: <em>"Bear one another's burdens, and so fulfill the law of Christ."</em> In our professional and personal lives, we are called to be vigilant for the needs of those around us. It encourages us to look at our colleagues not just as workers, but as individuals carrying burdens we may not fully comprehend.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>

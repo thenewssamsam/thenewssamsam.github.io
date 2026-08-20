@@ -39,7 +39,7 @@ source_url: "https://www.cnn.com/2026/08/18/media/disney-abc-fcc-trump-lawsuit-t
 <p>The FCC has defended its actions by pointing to ongoing examinations regarding diversity, equity, and inclusion (DEI) compliance and equal-time rules for political programming. Meanwhile, Disney’s leadership maintains that the regulatory pressure is an extraordinary assault on the First Amendment designed to chill free expression across the entire broadcasting industry. As this legal battle plays out, ordinary viewers are left watching a profound struggle over the boundaries of government oversight and media independence.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -49,21 +49,21 @@ Seagate Portable External Hard Drive ($59.99)
 
 <div class="ncg-product-box" style="background: #faf8f5; border-left: 4px solid #f39c12; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
 <p style="margin: 0 0 0.5rem 0; font-weight: bold; color: #2c3e50;">Recommended Resource for Critical Thinking:</p>
-<p style="margin: 0;"><a href="https://www.amazon.com/dp/B07ZWP6R43?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2980b9; text-decoration: none; font-weight: 500;">Calling Bullshit: The Art of Skepticism in a Data-Driven World</a> - $16.99</p>
+<p style="margin: 0;"><a href="https://www.amazon.com/dp/B07ZWP6R43?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2980b9; text-decoration: none; font-weight: 500;">Calling Bullshit: The Art of Skepticism in a Data-Driven World</a> - </p>
 </div>
 
 <h2 id="parenting-perspective">A Parenting Perspective: Teaching Media Literacy in a Polarized World</h2>
 <p>For parents, news stories about government regulators, corporate pushback, and broadcast controversies can feel distant—until we realize that these same broadcasts enter our living rooms every single day. When institutions clash over what is permitted on the airwaves, it highlights a crucial reality: the media we consume is never purely neutral. Every talk show, news segment, and late-night joke carries a perspective, an assumption, and a worldview.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Guiding children and teenagers through this environment requires intentionality rather than fear. Instead of reacting with alarm to headlines about media censorship or political pressure, parents can use these moments to teach age-appropriate media literacy:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -75,21 +75,21 @@ Seagate Portable External Hard Drive ($59.99)
 
 <div class="ncg-product-box" style="background: #faf8f5; border-left: 4px solid #f39c12; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
 <p style="margin: 0 0 0.5rem 0; font-weight: bold; color: #2c3e50;">Great Reading for Young Adults on Media Literacy:</p>
-<p style="margin: 0;"><a href="https://www.amazon.com/dp/B0853HS3C8?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2980b9; text-decoration: none; font-weight: 500;">Trustworthy: How the Internet Lost Its Confidence and How We Can Recover It</a> - $18.50</p>
+<p style="margin: 0;"><a href="https://www.amazon.com/dp/B0853HS3C8?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2980b9; text-decoration: none; font-weight: 500;">Trustworthy: How the Internet Lost Its Confidence and How We Can Recover It</a> - </p>
 </div>
 
 <h2 id="biblical-reflection">A Quiet Reflection on Truth and Integrity</h2>
 <p>headlines about lawsuits, political leverage, and cultural friction often leave us feeling unsettled. It makes me think about the enduring wisdom found in Scripture regarding truth, honesty, and the way we communicate with one another. Proverbs 12:17 reminds us, "An honest witness tells the truth, but a false witness tells lies." In a world flooded with competing spin, corporate PR statements, and political maneuvering, discerning genuine truth requires patience, discernment, and a commitment to fairness.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Similarly, Ephesians 4:15 encourages believers to speak "the truth in love." This balance is essential not only in public policy and media production but also around our own family dinner tables. When cultural institutions argue over public airwaves, we are reminded that true integrity is rare and precious. We are invited to examine our own hearts—ensuring that the information we share, believe, and pass along to our children is grounded in honesty and fairness rather than reactionary outrage.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -97,7 +97,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Rather than feeling overwhelmed by complex federal lawsuits and media disputes, families can take practical steps to cultivate a healthy relationship with media:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -109,7 +109,7 @@ Tactical Waterproof Backpack ($35.99)
 
 <div class="ncg-product-box" style="background: #faf8f5; border-left: 4px solid #f39c12; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
 <p style="margin: 0 0 0.5rem 0; font-weight: bold; color: #2c3e50;">Helpful Family Communication Guide:</p>
-<p style="margin: 0;"><a href="https://www.amazon.com/dp/B07V2V1L9J?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2980b9; text-decoration: none; font-weight: 500;">The Tech-Wise Family: Everyday Steps for Putting Technology in Its Proper Place</a> - $14.99</p>
+<p style="margin: 0;"><a href="https://www.amazon.com/dp/B07V2V1L9J?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2980b9; text-decoration: none; font-weight: 500;">The Tech-Wise Family: Everyday Steps for Putting Technology in Its Proper Place</a> - </p>
 </div>
 
 <h2 id="closing-thoughts">One Last Thought</h2>

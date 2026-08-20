@@ -40,7 +40,7 @@ source_url: "https://triblive.com/local/regional/father-charged-in-suspected-coc
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>
@@ -48,7 +48,7 @@ Tactical Waterproof Backpack ($35.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -56,7 +56,7 @@ Seagate Portable External Hard Drive ($59.99)
   <!-- BEGIN AMAZON PRODUCT INSERTION 1 -->
   <div style="background-color: #f7fafc; border-left: 4px solid #d69e2e; padding: 15px 20px; margin: 25px 0; border-radius: 4px;">
     <p style="margin: 0; font-size: 0.950rem; color: #4a5568;">
-      <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B07PGL2Z17?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 600;">White Collar Crime: Law, Procedure, Policy, and Practice</a> – $145.00. A comprehensive academic and practical look at how white-collar legal charges impact careers and institutions.
+      <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B07PGL2Z17?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 600;">White Collar Crime: Law, Procedure, Policy, and Practice</a> – . A comprehensive academic and practical look at how white-collar legal charges impact careers and institutions.
     </p>
   </div>
   <!-- END AMAZON PRODUCT INSERTION 1 -->
@@ -70,7 +70,7 @@ Seagate Portable External Hard Drive ($59.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -80,14 +80,14 @@ Tactical Waterproof Backpack ($35.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <!-- BEGIN AMAZON PRODUCT INSERTION 2 -->
     <div style="background-color: #f7fafc; border-left: 4px solid #d69e2e; padding: 15px 20px; margin: 25px 0; border-radius: 4px;">
       <p style="margin: 0; font-size: 0.950rem; color: #4a5568;">
-        <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 600;">Personal Finance QuickStart Guide</a> – $24.99. Master the principles of financial resilience, emergency fund allocation, and protecting family assets during unforeseen crises.
+        <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 600;">Personal Finance QuickStart Guide</a> – . Master the principles of financial resilience, emergency fund allocation, and protecting family assets during unforeseen crises.
       </p>
     </div>
     <!-- END AMAZON PRODUCT INSERTION 2 -->
@@ -98,7 +98,7 @@ Seagate Portable External Hard Drive ($59.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -106,7 +106,7 @@ Seagate Portable External Hard Drive ($59.99)
   <!-- BEGIN AMAZON PRODUCT INSERTION 3 -->
   <div style="background-color: #f7fafc; border-left: 4px solid #d69e2e; padding: 15px 20px; margin: 25px 0; border-radius: 4px;">
     <p style="margin: 0; font-size: 0.950rem; color: #4a5568;">
-      <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 600;">The Psychology of Money: Timeless lessons on wealth, greed, and happiness</a> – $16.99. Explore how human decision-making and short-term choices impact long-term financial security.
+      <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 600;">The Psychology of Money: Timeless lessons on wealth, greed, and happiness</a> – . Explore how human decision-making and short-term choices impact long-term financial security.
     </p>
   </div>
   <!-- END AMAZON PRODUCT INSERTION 3 -->
@@ -125,7 +125,7 @@ Seagate Portable External Hard Drive ($59.99)
   <!-- BEGIN AMAZON PRODUCT INSERTION 4 -->
   <div style="background-color: #f7fafc; border-left: 4px solid #d69e2e; padding: 15px 20px; margin: 25px 0; border-radius: 4px;">
     <p style="margin: 0; font-size: 0.950rem; color: #4a5568;">
-      <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/038554734X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 600;">The Premonition: A Pandemic Story</a> – $18.99. A gripping examination of institutional systems, risk assessment, and organizational decision-making under pressure.
+      <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/038554734X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 600;">The Premonition: A Pandemic Story</a> – . A gripping examination of institutional systems, risk assessment, and organizational decision-making under pressure.
     </p>
   </div>
   <!-- END AMAZON PRODUCT INSERTION 4 -->
@@ -139,7 +139,7 @@ Seagate Portable External Hard Drive ($59.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>
@@ -150,7 +150,7 @@ Tactical Waterproof Backpack ($35.99)
   <!-- BEGIN AMAZON PRODUCT INSERTION 5 -->
   <div style="background-color: #f7fafc; border-left: 4px solid #d69e2e; padding: 15px 20px; margin: 25px 0; border-radius: 4px;">
     <p style="margin: 0; font-size: 0.950rem; color: #4a5568;">
-      <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/080241270X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 600;">The Hole in Our Holiness</a> – $15.99. A reflective guide on living with integrity, personal responsibility, and ethical clarity in daily life.
+      <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/080241270X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 600;">The Hole in Our Holiness</a> – . A reflective guide on living with integrity, personal responsibility, and ethical clarity in daily life.
     </p>
   </div>
   <!-- END AMAZON PRODUCT INSERTION 5 -->
@@ -172,7 +172,7 @@ Tactical Waterproof Backpack ($35.99)
   <!-- BEGIN AMAZON PRODUCT INSERTION 6 -->
   <div style="background-color: #f7fafc; border-left: 4px solid #d69e2e; padding: 15px 20px; margin: 25px 0; border-radius: 4px;">
     <p style="margin: 0; font-size: 0.950rem; color: #4a5568;">
-      <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B074P365JB?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 600;">Financial Peace Revisited</a> – $16.00. Essential strategies for achieving financial stability, risk management, and long-term peace of mind.
+      <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B074P365JB?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 600;">Financial Peace Revisited</a> – . Essential strategies for achieving financial stability, risk management, and long-term peace of mind.
     </p>
   </div>
   <!-- END AMAZON PRODUCT INSERTION 6 -->

@@ -33,14 +33,14 @@ source_url: "https://www.sfgate.com/sf-culture/article/abc-sues-fcc-22393619.php
         <p>To understand the gravity of the dispute, it helps to review the sequence of events as outlined in court filings and public reports. In late April, the FCC directed several ABC-owned stations to file their license renewal applications far ahead of their official expiration dates—such as KGO-TV's, which was not scheduled to expire until December 1, 2030. Stations were given a tight 30-day window to complete paperwork that typically demands months of administrative preparation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
         
         <p>The regulatory pressure followed sharp public criticism from administration figures regarding specific network broadcasts, including a segment on a late-night show and perceived imbalances in political interview coverage. In response, stations like KGO-TV mobilized local viewers for statements of support. Rather than quietly absorbing the pressure, ABC took the rare step of suing the federal agency, seeking a temporary restraining order and accusing regulators of attempting to force ideological compliance through administrative coercion.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </section>
@@ -50,36 +50,36 @@ Tactical Waterproof Backpack ($35.99)
         <p>When legal briefs and regulatory threats dominate the news cycle, it is easy to view the conflict purely as a political contest. Yet history and Scripture invite us to look deeper at the human heart, the nature of authority, and the enduring value of honesty. Power—whether held by government officials, corporate executives, or media conglomerates—has a way of testing character.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         
         <p>Proverbs 16:12 reminds us, <em>"It is an abomination to kings to do evil, for the throne is established by righteousness."</em> This wisdom speaks directly to any institution wielding authority. When regulatory power is used not for the impartial administration of justice and public welfare, but as a tool for partisan pressure, it undermines the very foundation of public trust.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
         <div style="background-color: #fffaf0; border: 1px solid #feebc8; padding: 15px; border-radius: 6px; margin: 20px 0;">
-            <p style="margin: 0; font-size: 0.95em; color: #744210;"><strong>Recommended Resource:</strong> <em>The Seamless Life: A Tapestry of Faith and Daily Work</em> — A thoughtful guide on maintaining personal integrity and spiritual grounding while navigating high-pressure professional environments. <a href="https://www.amazon.com/dp/B07R9V2V8X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d69e2e; font-weight: bold; text-decoration: none;">Check on Amazon</a> ($15.99)</p>
+            <p style="margin: 0; font-size: 0.95em; color: #744210;"><strong>Recommended Resource:</strong> <em>The Seamless Life: A Tapestry of Faith and Daily Work</em> — A thoughtful guide on maintaining personal integrity and spiritual grounding while navigating high-pressure professional environments. <a href="https://www.amazon.com/dp/B07R9V2V8X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d69e2e; font-weight: bold; text-decoration: none;">Check on Amazon</a> </p>
         </div>
 
         <p>At the same time, the media institutions caught in this struggle bear their own burden of stewardship. Communication is a profound trust. When broadcasters prioritize sensationalism or division, they erode the social fabric. Scripture frequently cautions against deceit and manipulation, calling instead for speech that builds up rather than tears down.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
         <div style="background-color: #f7fafc; border: 1px solid #e2e8f0; padding: 15px; border-radius: 6px; margin: 20px 0;">
-            <p style="margin: 0; font-size: 0.95em; color: #4a5568;"><strong>Practical Reading:</strong> <em>Culture Making: Recovering Our Creative Calling</em> by Andy Crouch — Explores how Christians can engage cultural institutions with wisdom, discernment, and redemptive creativity. <a href="https://www.amazon.com/dp/0830837337?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #3182ce; font-weight: bold; text-decoration: none;">View Details</a> ($18.50)</p>
+            <p style="margin: 0; font-size: 0.95em; color: #4a5568;"><strong>Practical Reading:</strong> <em>Culture Making: Recovering Our Creative Calling</em> by Andy Crouch — Explores how Christians can engage cultural institutions with wisdom, discernment, and redemptive creativity. <a href="https://www.amazon.com/dp/0830837337?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #3182ce; font-weight: bold; text-decoration: none;">View Details</a> </p>
         </div>
 
         <p>This makes me think about how quickly ordinary citizens are caught in the crossfire of institutional friction. When giant entities battle for control over narratives, the individual viewer is left searching for honest, reliable truth. Colossians 4:6 offers timeless guidance for all participants in public discourse: <em>"Let your speech always be gracious, seasoned with salt, knowing how you ought to answer each person."</em> Whether in federal courtrooms, corporate boardrooms, or living rooms, the standard remains truth seasoned with grace.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </section>
@@ -89,7 +89,7 @@ Tactical Waterproof Backpack ($35.99)
         <p>For believers observing this high-stakes standoff between a major network and federal regulators, the proper response is neither cynical detachment nor partisan outrage. Instead, Scripture points us toward active discernment, prayerful engagement, and a commitment to personal honesty.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
         
@@ -100,7 +100,7 @@ Tactical Waterproof Backpack ($35.99)
         </ul>
 
         <div style="background-color: #fffaf0; border: 1px solid #feebc8; padding: 15px; border-radius: 6px; margin: 20px 0;">
-            <p style="margin: 0; font-size: 0.95em; color: #744210;"><strong>Study Tool:</strong> <em>ESV Study Bible</em> — Essential for diving deep into biblical texts on wisdom, leadership, and justice. <a href="https://www.amazon.com/dp/1433502410?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d69e2e; font-weight: bold; text-decoration: none;">View on Amazon</a> ($39.99)</p>
+            <p style="margin: 0; font-size: 0.95em; color: #744210;"><strong>Study Tool:</strong> <em>ESV Study Bible</em> — Essential for diving deep into biblical texts on wisdom, leadership, and justice. <a href="https://www.amazon.com/dp/1433502410?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #d69e2e; font-weight: bold; text-decoration: none;">View on Amazon</a> </p>
         </div>
     </section>
 

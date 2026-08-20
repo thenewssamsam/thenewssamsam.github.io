@@ -42,7 +42,7 @@ source_url: 'https://www.wcvb.com/article/lindsay-clancy-trial-live-updates-aug-
     <p>The murder trial of 36-year-old Lindsay Clancy entered a critical phase as her defense team began presenting evidence. Clancy is accused of the 2023 strangulation deaths of her three young children—Cora, Dawson, and Callan—before she jumped from a second-floor window, leaving her partially paralyzed. While the defense acknowledges she caused the deaths, they have entered a not-guilty plea, arguing she was not criminally responsible due to the throes of severe postpartum psychosis.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>Among the most wrenching moments of the trial thus far was the testimony of Clancy's mother, Paula Musgrove. Fighting through tears, Musgrove described her daughter as a deeply devoted mother who began unraveling in late 2022. Musgrove recounted an urgent text message received in October of that year: <em>"Mom, will you please come up and stay with me for a bit. I'm really sick. Something is wrong. I had horrible insomnia all night and I just don't know how I'm going to get through the day."</em></p>
@@ -123,7 +123,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -131,7 +131,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

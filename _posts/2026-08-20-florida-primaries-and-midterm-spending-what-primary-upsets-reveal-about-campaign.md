@@ -37,10 +37,10 @@ source_url: "https://apnews.com/article/florida-wyoming-alaska-primaries-democra
   <section id="what-happened">
     <h2>What Happened in the Primaries</h2>
     <p>Tuesday's primary contests set the stage for crucial fall battles that will determine control of a narrowly divided U.S. Congress. In Florida, U.S. Rep. Byron Donalds secured the Republican nomination for governor, joining a historic slate of Black gubernatorial candidates nationwide. Meanwhile, former Rep. David Jolly captured the Democratic nod, setting up a high-profile general election campaign to replace outgoing Gov. Ron DeSantis.</p>
-    <p>Yet the most striking financial storyline of the night emerged down-ballot and in legislative races. Incumbents and heavily funded establishment figures faced intense pushback from grassroots-backed challengers. Most notably, progressive state lawmaker Angie Nixon defeated Alex Vindman in a race where Vindman held an overwhelming financial advantage, bringing in nearly $1 million compared to Nixon's sub-million-dollar haul. Across multiple states, voters weighed crowded fields, redrawn congressional maps, and candidates carrying significant baggage, proving that financial backing alone does not guarantee electoral victory.</p>
+    <p>Yet the most striking financial storyline of the night emerged down-ballot and in legislative races. Incumbents and heavily funded establishment figures faced intense pushback from grassroots-backed challengers. Most notably, progressive state lawmaker Angie Nixon defeated Alex Vindman in a race where Vindman held an overwhelming financial advantage, bringing in nearly  million compared to Nixon's sub-million-dollar haul. Across multiple states, voters weighed crowded fields, redrawn congressional maps, and candidates carrying significant baggage, proving that financial backing alone does not guarantee electoral victory.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -50,18 +50,18 @@ Tactical Waterproof Backpack ($35.99)
     <p>From a financial perspective, political campaigns operate much like high-stakes marketing campaigns. Millions of dollars flow into media buys, digital advertising, direct mail, and professional consulting. Standard economic theory assumes a direct correlation between capital investment and market share—or in this case, vote share. However, political markets are notoriously volatile and subject to diminishing marginal utility.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <div class="ncg-product-card" style="border-left: 4px solid #f59e0b; background: #fffbeb; padding: 15px; margin: 20px 0; border-radius: 6px;">
-      <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B074V56WQV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: none; font-weight: bold;">The Ascent of Money: A Financial History of the World</a> - $18.99. Understand how financial systems, debt, and economic cycles shape public policy and political landscapes.
+      <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B074V56WQV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: none; font-weight: bold;">The Ascent of Money: A Financial History of the World</a> - . Understand how financial systems, debt, and economic cycles shape public policy and political landscapes.
     </div>
 
     <p>When a candidate like Alex Vindman out-raises an opponent by 16-to-1, those dollars buy maximum visibility. But visibility cannot always override deep-seated voter skepticism or a disconnect with the local electorate's immediate concerns. Financial inputs are efficient at building baseline name recognition, but past a certain threshold, additional spending yields rapidly declining returns if the candidate's core message fails to resonate organically.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -72,12 +72,12 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Furthermore, structural shifts like Republican-led redistricting in Florida scrambled traditional district lines, forcing incumbents and challengers alike to reallocate capital into unfamiliar territories. When political maps change overnight, existing donor networks and entrenched local infrastructure must be rebuilt on the fly, introducing new operational costs for campaigns trying to defend their turf.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <div class="ncg-product-card" style="border-left: 4px solid #f59e0b; background: #fffbeb; padding: 15px; margin: 20px 0; border-radius: 6px;">
-      <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B08N5KWB9H?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: none; font-weight: bold;">Principles for Dealing with the Changing World Order</a> - $22.50. Explore how economic and political shifts interact during periods of major historical transition.
+      <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B08N5KWB9H?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: none; font-weight: bold;">Principles for Dealing with the Changing World Order</a> - . Explore how economic and political shifts interact during periods of major historical transition.
     </div>
   </section>
 
@@ -86,13 +86,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When we examine the massive flows of money moving through political campaigns—where millions are spent in weeks—it naturally prompts a broader reflection on how human beings manage resources, power, and influence. Scripture often reminds us that wealth and financial backing are temporary tools rather than ultimate guarantees of success or righteousness.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Proverbs 22:1 reminds us, "A good name is rather to be chosen than great riches, and loving favour rather than silver and gold." In the context of modern elections, this timeless wisdom points to the reality that authentic trust in a community cannot be simply purchased with a 16-to-1 fundraising advantage. Similarly, Luke 16:11 reminds us about the true nature of stewardship: "If therefore ye have not been faithful in the unrighteous mammon, who will commit to your trust the true riches?" Whether managing a multimillion-dollar campaign war chest or a household budget, the underlying principle of honest stewardship and genuine connection remains paramount.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -102,7 +102,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>For everyday citizens watching the midterm spending race unfold, these financial dynamics offer a few practical lessons:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>
@@ -110,7 +110,7 @@ Seagate Portable External Hard Drive ($59.99)
       <li><strong>Understand Diminishing Returns:</strong> Remember that in personal finance and civic engagement alike, throwing more money at a problem does not automatically solve it. Strategic, thoughtful allocation always outperforms brute-force spending.</li>
       <li><div>
         <div class="ncg-product-card" style="border-left: 4px solid #f59e0b; background: #fffbeb; padding: 15px; margin: 20px 0; border-radius: 6px;">
-          <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/150117134X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: none; font-weight: bold;">The Psychology of Money: Timeless lessons on wealth, greed, and happiness</a> - $16.19. Learn how human behavior and emotions drive financial decisions in everyday life and public markets alike.
+          <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/150117134X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: none; font-weight: bold;">The Psychology of Money: Timeless lessons on wealth, greed, and happiness</a> - . Learn how human behavior and emotions drive financial decisions in everyday life and public markets alike.
         </div>
       </div><strong>Track Local Investments:</strong> Pay attention to how local and state ballot measures or primary races allocate resources, as these local financial decisions often impact your community's tax structure and economic future far more directly than federal spending wars.</li>
     </ul>
@@ -121,7 +121,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The 2026 primary results in Florida and beyond demonstrate that while financial capital is essential for modern political organization, it remains subject to the unpredictable winds of voter sentiment. Money can build a platform, but it cannot manufacture genuine trust. As the country pivots toward the fall midterms, keeping a clear head about the limits of campaign finance helps voters cut through the noise and focus on what truly matters.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     

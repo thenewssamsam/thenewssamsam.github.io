@@ -23,24 +23,24 @@ source_url: "https://triblive.com/local/regional/father-charged-in-suspected-coc
     <p>According to the Pennsylvania Office of Attorney General and statements by Attorney General Dave Sunday, authorities filed charges against 14 suspects following an extensive grand jury probe into a drug network operating across Delta Upsilon and Sigma Chi fraternity properties off the Penn State campus. Investigators allege that packaging and cutting of cocaine were integrated into fraternity life, sometimes serving as an indoctrination rite for pledges.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Among those charged is Thomas Robinson, accused of being a central figure in the distribution network. Following his initial arrest in December 2024, younger Robinson cooperated with authorities and pointed investigators toward his alleged supplier, Agostino Abbatiello of Westbury, New York. However, the investigation took a startling turn regarding the younger Robinson's father: Paul Robinson, a respected equity member and managing attorney at the Pittsburgh-based firm Meyer, Darragh, Buckler, Bebenek & Eck, PLLC, was arrested and charged with felony tampering and hindering apprehension for allegedly concealing evidence, including a safe containing drugs and cash.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <div style="background-color: #fcf8e3; border-left: 4px solid #f0ad4e; padding: 15px; margin: 20px 0; border-radius: 4px;">
-      <p style="margin: 0; font-style: italic; color: #8a6d3b;"><strong>Recommended Resource:</strong> For managing acute stress and family anxiety during turbulent times, consider the <a href="https://www.amazon.com/dp/B075R6V455?tag=thenewssam-20" target="_blank" rel="noopener">The Anxiety and Phobia Workbook</a> ($18.50) for practical cognitive-behavioral coping strategies.</p>
+      <p style="margin: 0; font-style: italic; color: #8a6d3b;"><strong>Recommended Resource:</strong> For managing acute stress and family anxiety during turbulent times, consider the <a href="https://www.amazon.com/dp/B075R6V455?tag=thenewssam-20" target="_blank" rel="noopener">The Anxiety and Phobia Workbook</a>  for practical cognitive-behavioral coping strategies.</p>
     </div>
 
     <p>Neither Paul Robinson nor his law firm returned media requests for comment following the announcement of the charges. As the legal process unfolds, the human element—the shock, confusion, and profound stress experienced by families caught in such a vortex—remains a heavy reality.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -50,7 +50,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>From a general health and wellness standpoint, sudden catastrophic news involving a loved one triggers an immediate, visceral fight-or-flight response. The human body is not built to easily process profound betrayal, public humiliation, or the sudden upheaval of a career and family stability built over decades. When stress reaches this magnitude, it manifests physically: sleep disturbances, chronic tension, cardiovascular strain, and emotional exhaustion.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -61,12 +61,12 @@ Seagate Portable External Hard Drive ($59.99)
     <p>It is vital to recognize that emotional well-being during a crisis requires conscious boundary-setting. When external events spiral out of control, individuals often experience cognitive overload. Protecting one's mental health does not mean ignoring reality; rather, it means recognizing what is within one's immediate control—such as seeking professional mental health counseling, maintaining physical routines like sleep and nutrition, and avoiding the trap of perpetual rumination.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <div style="background-color: #fcf8e3; border-left: 4px solid #f0ad4e; padding: 15px; margin: 20px 0; border-radius: 4px;">
-      <p style="margin: 0; font-style: italic; color: #8a6d3b;"><strong>Wellness Support:</strong> To support daily restorative sleep during high-stress periods, many find tools like the <a href="https://www.amazon.com/dp/B085123W5Z?tag=thenewssam-20" target="_blank" rel="noopener">Hatch Restore Sound Machine</a> ($129.99) beneficial for establishing calming bedtime routines.</p>
+      <p style="margin: 0; font-style: italic; color: #8a6d3b;"><strong>Wellness Support:</strong> To support daily restorative sleep during high-stress periods, many find tools like the <a href="https://www.amazon.com/dp/B085123W5Z?tag=thenewssam-20" target="_blank" rel="noopener">Hatch Restore Sound Machine</a>  beneficial for establishing calming bedtime routines.</p>
     </div>
   </section>
 
@@ -75,13 +75,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This situation makes me reflect on how fragile human plans can be and how quickly life can pivot into unexpected valleys. One timeless truth is found in Proverbs 13:3, which reminds us: "Whoever guards his mouth preserves his life; he who opens wide his lips comes to ruin." Beyond speech, our actions and choices carry weight that ripples out to touch everyone around us.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>I'm also reminded of Ecclesiastes 7:14, which encourages us: "In the day of prosperity be joyful, and in the day of adversity consider: God has made the one as well as the other, so that man may not find out anything that will be after him." When life shatters our expectations, true wellness involves acknowledging our limitations, extending grace where possible, and seeking wisdom to take the next right step with humility.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -91,7 +91,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>If you or someone you know is navigating a severe personal or family crisis, mental health professionals recommend several grounding practices:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>
@@ -102,7 +102,7 @@ Seagate Portable External Hard Drive ($59.99)
     </ul>
     
     <div style="background-color: #fcf8e3; border-left: 4px solid #f0ad4e; padding: 15px; margin: 20px 0; border-radius: 4px;">
-      <p style="margin: 0; font-style: italic; color: #8a6d3b;"><strong>Mindfulness Aid:</strong> For guided journaling and processing difficult emotions, consider <a href="https://www.amazon.com/dp/B07V9L9X89?tag=thenewssam-20" target="_blank" rel="noopener">The Five Minute Journal</a> ($29.00) to help maintain a positive daily grounding practice.</p>
+      <p style="margin: 0; font-style: italic; color: #8a6d3b;"><strong>Mindfulness Aid:</strong> For guided journaling and processing difficult emotions, consider <a href="https://www.amazon.com/dp/B07V9L9X89?tag=thenewssam-20" target="_blank" rel="noopener">The Five Minute Journal</a>  to help maintain a positive daily grounding practice.</p>
     </div>
   </section>
 

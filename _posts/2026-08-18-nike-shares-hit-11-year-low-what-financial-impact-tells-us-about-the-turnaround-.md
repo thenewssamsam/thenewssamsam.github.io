@@ -51,7 +51,7 @@ source_url: 'https://ca.finance.yahoo.com/news/nike-shares-hit-11-low-174500075.
   </style>
 
   <div class="ncg-article-container">
-    <p class="ncg-lead">When a global consumer giant sheds more than $200 billion in market value, it stops being a routine market fluctuation and becomes a masterclass in how complex retail restructuring actually plays out on Wall Street.</p>
+    <p class="ncg-lead">When a global consumer giant sheds more than  billion in market value, it stops being a routine market fluctuation and becomes a masterclass in how complex retail restructuring actually plays out on Wall Street.</p>
 
     <div class="ncg-toc">
       <h3>Table of Contents</h3>
@@ -65,11 +65,11 @@ source_url: 'https://ca.finance.yahoo.com/news/nike-shares-hit-11-low-174500075.
     </div>
 
     <h2 id="what-happened">What Happened at Nike?</h2>
-    <p>Nike Inc. shares tumbled 4.3% on Monday, bringing the stock down to its lowest level since September 2014. This latest slide extends a punishing downward trajectory that has wiped out over $200 billion in total market capitalization—a staggering 78% drop from the stock's record highs set back in 2021.</p>
+    <p>Nike Inc. shares tumbled 4.3% on Monday, bringing the stock down to its lowest level since September 2014. This latest slide extends a punishing downward trajectory that has wiped out over  billion in total market capitalization—a staggering 78% drop from the stock's record highs set back in 2021.</p>
     <p>The immediate catalysts behind Monday's decline were soft direct-to-consumer sales figures and a fresh analyst downgrade. Wall Street analysts are projecting that revenue will remain muted next quarter as management continues grinding through a structural reset of its retail business. But beneath the headline percentages lies a deeper story about shifting brand momentum, changing consumer habits, and the difficult math of corporate turnarounds.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -80,7 +80,7 @@ Tactical Waterproof Backpack ($35.99)
       <h3>Key Financial Metrics at a Glance</h3>
       <ul>
         <li><strong>Stock Performance:</strong> Hit its lowest level since September 2014 following a 4.3% single-day drop.</li>
-        <li><strong>Market Value Destruction:</strong> Over $200 billion erased since the 2021 peak (approx. a 78% decline).</li>
+        <li><strong>Market Value Destruction:</strong> Over  billion erased since the 2021 peak (approx. a 78% decline).</li>
         <li><strong>Secondary Footwear Trends:</strong> Nike brand shoe prices fell 2.9% year-over-year in July; Jordan brand prices dropped 2.8% year-over-year.</li>
       </ul>
     </div>
@@ -136,7 +136,7 @@ Tactical Waterproof Backpack ($35.99)
     "@context": "https://schema.org",
     "@type": "NewsArticle",
     "headline": "Nike Shares Hit 11-Year Low: What Financial Impact Tells Us About the Turnaround Struggle",
-    "description": "Nike stock plunges to an 11-year low, erasing $200 billion in value. Explore the financial mechanics and market realities behind the struggle.",
+    "description": "Nike stock plunges to an 11-year low, erasing  billion in value. Explore the financial mechanics and market realities behind the struggle.",
     "datePublished": "2026-03-31",
     "mainEntityOfPage": "https://ca.finance.yahoo.com/news/nike-shares-hit-11-low-174500075.html"
   }
@@ -172,7 +172,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -180,7 +180,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

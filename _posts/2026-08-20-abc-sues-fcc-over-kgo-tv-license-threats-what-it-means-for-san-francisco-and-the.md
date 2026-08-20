@@ -27,14 +27,14 @@ source_url: "https://www.sfgate.com/sf-culture/article/abc-sues-fcc-22393619.php
   <p>The federal pressure followed a cascade of political blowback. Network programming—including segments on “Jimmy Kimmel Live!” regarding the killing of Charlie Kirk and accusations of unequal candidate airtime on “The View”—drew sharp criticism from federal officials. Public remarks by President Donald Trump and FCC Chairman Brendan Carr explicitly questioned whether the networks deserved to retain their broadcasting licenses.</p>
 
   <div class="ncg-product-card" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Amazon Fire TV Stick 4K</a> - $49.99<br>
+    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Amazon Fire TV Stick 4K</a> - <br>
     <small>Stream local San Francisco news broadcasts and live network programming directly to your living room.</small>
   </div>
 
   <p>Facing accelerated administrative hearings that anonymous sources indicated might be rushed through before the Labor Day holiday, ABC and Disney fought back in court. The lawsuit accuses the FCC of unconstitutional government censorship and retaliatory overreach, asserting that the administration's actions threaten the foundational principles of a free press.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -43,14 +43,14 @@ Seagate Portable External Hard Drive ($59.99)
   <p>While national headlines focus on the clash between a media giant and federal regulators, the most acute consequences of this dispute land squarely on local communities. KGO-TV (Channel 7) is not a distant corporate studio; it is a vital fixture of the San Francisco Bay Area media ecosystem.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
   <p>Local television stations fulfill critical roles that national cable networks and digital aggregators simply cannot replicate:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   <ul>
@@ -62,7 +62,7 @@ Seagate Portable External Hard Drive ($59.99)
   <p>When an administrative body forces a local station to scramble its resources under the threat of license termination, the immediate casualty is often local journalism. Investigative teams get bogged down in regulatory defense, and newsrooms are forced to divert attention away from community stories that truly matter to Bay Area residents.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -72,7 +72,7 @@ Tactical Waterproof Backpack ($35.99)
   </div>
 
   <div class="ncg-product-card" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B09B8W1LZ3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">San Francisco History and Culture Book Collection</a> - $34.50<br>
+    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B09B8W1LZ3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">San Francisco History and Culture Book Collection</a> - <br>
     <small>Explore the rich journalistic and cultural heritage of San Francisco through deep historical analysis.</small>
   </div>
 
@@ -81,14 +81,14 @@ Tactical Waterproof Backpack ($35.99)
   <p>The lawsuit underscores a chilling reality for broadcasters nationwide. This is not an isolated disagreement over television scheduling or compliance paperwork. By weaponizing the routine license renewal process to penalize editorial content, federal authorities establish a perilous precedent.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
   <p>As the legal filing notes, the implications reach well beyond ABC. If federal regulators can successfully pressure broadcasters into altering their editorial stance by threatening their ability to broadcast, the distinction between public oversight and state censorship dissolves. For a democratic society, a press that must look over its shoulder for government approval ceases to be free.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -97,12 +97,12 @@ Tactical Waterproof Backpack ($35.99)
   <p>Situations involving power, accountability, and the struggle for truth often invite a deeper moral pause. In our communities and in public life, the pursuit of truth and honest stewardship of influence remain paramount. Scripture reminds us of the enduring value of integrity and transparency, noting in Proverbs 11:3 that "the integrity of the upright guides them, but the unfaithful are destroyed by their duplicity." Furthermore, Proverbs 31:8–9 encourages us to "speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy." These principles urge citizens and leaders alike to value honest dialogue and protect the foundational liberties that allow communities to flourish.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
   <div class="ncg-product-card" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B07ZPC9QDZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Journalism Ethics and Professional Writing Guide</a> - $22.99<br>
+    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B07ZPC9QDZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Journalism Ethics and Professional Writing Guide</a> - <br>
     <small>Understand the ethical standards and historical responsibilities of the modern press.</small>
   </div>
 
@@ -111,7 +111,7 @@ Tactical Waterproof Backpack ($35.99)
   <p>For ordinary residents in San Francisco and across the country, a legal battle in federal court can feel distant and abstract. However, local media health depends heavily on community engagement and support:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   

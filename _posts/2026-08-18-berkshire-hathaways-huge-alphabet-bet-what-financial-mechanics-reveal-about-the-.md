@@ -36,12 +36,12 @@ source_url: 'https://247wallst.com/investing/2026/08/17/berkshire-raised-its-alp
 
 <h2 id="what-happened">What Happened: The Berkshire Filing and Alphabet's Pullback</h2>
 
-<p>Regulatory filings revealed that Berkshire Hathaway boosted its Alphabet share count by a staggering 658% during the quarter. The blockbuster move caught investors by surprise, arriving just as Alphabet shares had pulled back roughly 7.2% over a one-month span, sitting about 4% below their 52-week high of $404.23.</p>
+<p>Regulatory filings revealed that Berkshire Hathaway boosted its Alphabet share count by a staggering 658% during the quarter. The blockbuster move caught investors by surprise, arriving just as Alphabet shares had pulled back roughly 7.2% over a one-month span, sitting about 4% below their 52-week high of .</p>
 
-<p>That short-term cooling occurred despite a robust Q2 2026 earnings report on July 22. Alphabet posted $119.80 billion in revenue—a 24.2% year-over-year increase—and delivered earnings per share (EPS) of $9.11, easily beating consensus estimates. Google Cloud proved to be a primary growth engine, accelerating to 82% year-over-year growth.</p>
+<p>That short-term cooling occurred despite a robust Q2 2026 earnings report on July 22. Alphabet posted  billion in revenue—a 24.2% year-over-year increase—and delivered earnings per share (EPS) of , easily beating consensus estimates. Google Cloud proved to be a primary growth engine, accelerating to 82% year-over-year growth.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -53,18 +53,18 @@ Tactical Waterproof Backpack ($35.99)
 
 <h2 id="the-financial-mechanics">The Financial Mechanics: Capex, Cash Flow, and Cloud Backlog</h2>
 
-<p>To understand why Berkshire expanded its position, you have to look closely at the balance sheet trade-offs dominating Alphabet's financials right now. Management's 2026 capital expenditure guidance sits at an aggressive $175 billion to $185 billion. In Q2 alone, capex nearly doubled to $44.92 billion, pushing free cash flow temporarily into negative territory.</p>
+<p>To understand why Berkshire expanded its position, you have to look closely at the balance sheet trade-offs dominating Alphabet's financials right now. Management's 2026 capital expenditure guidance sits at an aggressive  billion to  billion. In Q2 alone, capex nearly doubled to  billion, pushing free cash flow temporarily into negative territory.</p>
 
-<p>At the same time, long-term debt swelled from $46.5 billion to $98.2 billion, causing interest expenses to rise roughly fivefold year-over-year. For short-term traders, these figures raise immediate questions about return on invested capital (ROIC) and the temporary suspension of share buybacks.</p>
+<p>At the same time, long-term debt swelled from  billion to  billion, causing interest expenses to rise roughly fivefold year-over-year. For short-term traders, these figures raise immediate questions about return on invested capital (ROIC) and the temporary suspension of share buybacks.</p>
 
-<p>However, the bull case—and presumably Berkshire's thesis—relies on what those dollars are actually buying. Google Cloud's backlog expanded by over $50 billion sequentially to reach $514 billion. Cloud operating margins expanded dramatically from 20.7% to 35.6%, tripling operating income. When an enterprise secures over half a trillion dollars in contracted cloud commitments, building out data centers and securing tensor processing units (TPUs) ceases to be optional spending; it is an operational necessity required to fulfill existing customer contracts.</p>
+<p>However, the bull case—and presumably Berkshire's thesis—relies on what those dollars are actually buying. Google Cloud's backlog expanded by over  billion sequentially to reach  billion. Cloud operating margins expanded dramatically from 20.7% to 35.6%, tripling operating income. When an enterprise secures over half a trillion dollars in contracted cloud commitments, building out data centers and securing tensor processing units (TPUs) ceases to be optional spending; it is an operational necessity required to fulfill existing customer contracts.</p>
 
 <div class="ncg-callout-box">
 <h3>Quick Take: The Numbers Behind the Move</h3>
 <ul>
 <li><strong>The Berkshire Bet:</strong> Share count increased by 658% in a single quarter, signaling strong institutional conviction.</li>
-<li><strong>The Cloud Engine:</strong> Google Cloud backlog reached $514 billion while operating margins climbed to 35.6%.</li>
-<li><strong>The Spending Surge:</strong> 2026 capex guidance of $175B–$185B has temporarily pressured free cash flow and raised interest expenses.</li>
+<li><strong>The Cloud Engine:</strong> Google Cloud backlog reached  billion while operating margins climbed to 35.6%.</li>
+<li><strong>The Spending Surge:</strong> 2026 capex guidance of B–B has temporarily pressured free cash flow and raised interest expenses.</li>
 </ul>
 </div>
 
@@ -72,7 +72,7 @@ Tactical Waterproof Backpack ($35.99)
 
 <p>Financial analysis requires relative context. When stacked against its mega-cap peers, Alphabet's current valuation reveals a distinct structural discount.</p>
 
-<p>Microsoft (NASDAQ:MSFT) serves as the direct cloud comparison. Azure crossed $100 billion in annual revenue and grew 43% last quarter. Yet, Microsoft trades at a trailing price-to-earnings (P/E) multiple of 28x. Alphabet, by comparison, trades at a trailing P/E of just 17x, despite delivering comparable cloud growth trajectories and its 11th consecutive EPS beat.</p>
+<p>Microsoft (NASDAQ:MSFT) serves as the direct cloud comparison. Azure crossed  billion in annual revenue and grew 43% last quarter. Yet, Microsoft trades at a trailing price-to-earnings (P/E) multiple of 28x. Alphabet, by comparison, trades at a trailing P/E of just 17x, despite delivering comparable cloud growth trajectories and its 11th consecutive EPS beat.</p>
 
 <p>Similarly, digital-ad counterpoint Meta Platforms (NASDAQ:META) trades at a P/E of 22x after missing Q2 consensus earnings targets. Alphabet's lower multiple combined with consistent earnings beats suggests that the market may be undervaluing its cash-generating core advertising business while punishing its AI infrastructure investments too harshly.</p>
 
@@ -89,7 +89,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>Evaluating an investment in Alphabet right now requires balancing two distinct financial philosophies:</p>
 
 <ul>
-<li><strong>The 12-Month Horizon:</strong> Investors who believe that Alphabet's massive $514 billion cloud backlog will systematically convert into realized revenue as management has guided may view the current pullback and 17x P/E multiple as an attractive entry point.</li>
+<li><strong>The 12-Month Horizon:</strong> Investors who believe that Alphabet's massive  billion cloud backlog will systematically convert into realized revenue as management has guided may view the current pullback and 17x P/E multiple as an attractive entry point.</li>
 <li><strong>The Patience Approach:</strong> Investors who prefer to see capital expenditure intensity normalize and free cash flow fully recover before committing capital may prefer to watch from the sidelines until the spending wave yields reported cash returns.</li>
 </ul>
 
@@ -101,7 +101,7 @@ Tactical Waterproof Backpack ($35.99)
 </details>
 <details class="ncg-faq-item">
 <summary>Why is Alphabet's free cash flow negative right now?</summary>
-<p>Free cash flow turned negative due to surging capital expenditures—guided between $175 billion and $185 billion for 2026—as Alphabet builds out data centers and AI infrastructure to support its massive cloud backlog.</p>
+<p>Free cash flow turned negative due to surging capital expenditures—guided between  billion and  billion for 2026—as Alphabet builds out data centers and AI infrastructure to support its massive cloud backlog.</p>
 </details>
 <details class="ncg-faq-item">
 <summary>How does Alphabet's valuation compare to Microsoft?</summary>
@@ -160,7 +160,7 @@ Tactical Waterproof Backpack ($35.99)
       "name": "Why is Alphabet's free cash flow negative right now?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Free cash flow turned negative due to surging capital expenditures—guided between $175 billion and $185 billion for 2026—as Alphabet builds out data centers and AI infrastructure to support its massive cloud backlog."
+        "text": "Free cash flow turned negative due to surging capital expenditures—guided between  billion and  billion for 2026—as Alphabet builds out data centers and AI infrastructure to support its massive cloud backlog."
       }
     },
     {
@@ -181,7 +181,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -189,7 +189,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

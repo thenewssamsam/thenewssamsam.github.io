@@ -36,7 +36,7 @@ source_url: 'https://www.nbcboston.com/news/local/lindsay-clancy-trial-day-16-li
 
 <div class="ncg-amazon-rec" style="background: #fffdf5; border: 1px solid #e2e8f0; border-left: 4px solid #d69e2e; padding: 15px; border-radius: 6px; margin: 20px 0;">
 <p style="margin: 0; font-weight: 600; color: #744210;">Recommended Resource:</p>
-<p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B08N5K93JW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b7791f; text-decoration: none;">Standard Journal for Mental Health Tracking &amp; Wellness Note-Taking ($15.99)</a> - Organize your thoughts and daily reflections effectively.</p>
+<p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B08N5K93JW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b7791f; text-decoration: none;">Standard Journal for Mental Health Tracking &amp; Wellness Note-Taking </a> - Organize your thoughts and daily reflections effectively.</p>
 </div>
 
 <p>The core of the legal battle remains starkly divided. Prosecutors emphasize the horrific reality of the tragedy that claimed the lives of five-year-old Cora, three-year-old Dawson, and eight-month-old Callan in their Duxbury home. Conversely, the defense argues that Lindsay was suffering from the terrifying, reality-distorting grip of severe bipolar disorder and postpartum psychosis, asserting that she lacked criminal responsibility for her actions.</p>
@@ -48,20 +48,20 @@ source_url: 'https://www.nbcboston.com/news/local/lindsay-clancy-trial-day-16-li
 <p>When legal cases intersect with profound psychological breakdowns, society often struggles to find a framework that holds both accountability and compassion in tension. From a biblical worldview, human beings are complex creations—integrated wholes of physical, emotional, and spiritual dimensions. When the physical brain suffers catastrophic failure, such as severe medical psychosis, the mind's ability to perceive reality can become entirely fractured.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="ncg-amazon-rec" style="background: #fffdf5; border: 1px solid #e2e8f0; border-left: 4px solid #d69e2e; padding: 15px; border-radius: 6px; margin: 20px 0;">
 <p style="margin: 0; font-weight: 600; color: #744210;">Recommended Resource:</p>
-<p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B07V5W8Z9X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b7791f; text-decoration: none;">Daily Calm Pocket Devotional for Stress Relief ($12.99)</a> - Find quiet moments of spiritual grounding during overwhelming times.</p>
+<p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B07V5W8Z9X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b7791f; text-decoration: none;">Daily Calm Pocket Devotional for Stress Relief </a> - Find quiet moments of spiritual grounding during overwhelming times.</p>
 </div>
 
 <h3 style="font-size: 1.3rem; color: #2d3748; margin-top: 25px;">The Reality of Inner Darkness</h3>
 <p>Scripture does not shy away from the reality of deep mental and emotional anguish. Throughout the Psalms, we encounter writers whose internal worlds felt utterly collapsing and dark. When we look at tragic circumstances involving severe illness, we are reminded of the heavy groaning of creation under the weight of the fall.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -72,7 +72,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>This verse reminds us that divine compassion extends even into the most harrowing psychological valleys. While earthly courts must weigh legal definitions of responsibility, God perceives the absolute depth of human fragility and the silent, terrifying battles fought within the human brain.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -82,14 +82,14 @@ Seagate Portable External Hard Drive ($59.99)
 
 <div class="ncg-amazon-rec" style="background: #fffdf5; border: 1px solid #e2e8f0; border-left: 4px solid #d69e2e; padding: 15px; border-radius: 6px; margin: 20px 0;">
 <p style="margin: 0; font-weight: 600; color: #744210;">Recommended Resource:</p>
-<p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B0868W8G3B?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b7791f; text-decoration: none;">Inspirational Scripture Wall Art Plaque ($18.50)</a> - Bring comforting reminders of grace and hope into your home.</p>
+<p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B0868W8G3B?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b7791f; text-decoration: none;">Inspirational Scripture Wall Art Plaque </a> - Bring comforting reminders of grace and hope into your home.</p>
 </div>
 
 <h3 style="font-size: 1.3rem; color: #2d3748; margin-top: 25px;">Bearing One Another's Burdens</h3>
 <p>Another reflection that surfaces during such trials is the biblical call to community and vigilance in caring for new mothers. Postpartum struggles are rarely discussed with the urgency they require. Scripture urges believers to bear one another's burdens, which involves removing the stigma surrounding mental health challenges in families and faith communities alike.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -100,14 +100,14 @@ Tactical Waterproof Backpack ($35.99)
 <p>This invitation challenges us to listen closely when mothers cry out for help, ensuring that medical and emotional support networks are robust, accessible, and free of judgment.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
 
 <div class="ncg-amazon-rec" style="background: #fffdf5; border: 1px solid #e2e8f0; border-left: 4px solid #d69e2e; padding: 15px; border-radius: 6px; margin: 20px 0;">
 <p style="margin: 0; font-weight: 600; color: #744210;">Recommended Resource:</p>
-<p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B07Q8Y373W?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b7791f; text-decoration: none;">Leather Bound Study Bible with Concordance ($29.99)</a> - Deepen your scriptural understanding with comprehensive study notes.</p>
+<p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B07Q8Y373W?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b7791f; text-decoration: none;">Leather Bound Study Bible with Concordance </a> - Deepen your scriptural understanding with comprehensive study notes.</p>
 </div>
 
 <section id="how-christians-respond" style="margin-bottom: 40px;">
@@ -115,7 +115,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>Trials like the one unfolding in Duxbury can leave communities feeling helpless, but they also present clear opportunities for compassionate action:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <ul style="padding-left: 20px; color: #4a5568;">
@@ -127,7 +127,7 @@ Tactical Waterproof Backpack ($35.99)
 
 <div class="ncg-amazon-rec" style="background: #fffdf5; border: 1px solid #e2e8f0; border-left: 4px solid #d69e2e; padding: 15px; border-radius: 6px; margin: 20px 0;">
 <p style="margin: 0; font-weight: 600; color: #744210;">Recommended Resource:</p>
-<p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B08H9M4Q6X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b7791f; text-decoration: none;">Mindfulness &amp; Self-Care Adult Coloring Book ($9.99)</a> - A creative outlet to help center your thoughts during stressful days.</p>
+<p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B08H9M4Q6X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b7791f; text-decoration: none;">Mindfulness &amp; Self-Care Adult Coloring Book </a> - A creative outlet to help center your thoughts during stressful days.</p>
 </div>
 
 <section id="closing-thoughts" style="background: #f7fafc; border: 1px solid #e2e8f0; padding: 25px; border-radius: 8px; margin-top: 40px;">
@@ -137,7 +137,7 @@ Tactical Waterproof Backpack ($35.99)
 
 <div class="ncg-amazon-rec" style="background: #fffdf5; border: 1px solid #e2e8f0; border-left: 4px solid #d69e2e; padding: 15px; border-radius: 6px; margin: 20px 0;">
 <p style="margin: 0; font-weight: 600; color: #744210;">Recommended Resource:</p>
-<p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B0998K7L2P?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b7791f; text-decoration: none;">Aromatherapy Essential Oil Diffuser for Relaxation ($21.99)</a> - Create a peaceful, calming environment in your personal space.</p>
+<p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B0998K7L2P?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b7791f; text-decoration: none;">Aromatherapy Essential Oil Diffuser for Relaxation </a> - Create a peaceful, calming environment in your personal space.</p>
 </div>
 
 <footer style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #e2e8f0; font-size: 0.9rem; color: #718096;">

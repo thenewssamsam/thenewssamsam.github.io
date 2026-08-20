@@ -24,7 +24,7 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-menta
     <p>The tragedy highlights a growing cultural phenomenon: millions of people are turning to AI for emotional support. While these tools offer 24/7 availability and a non-judgmental interface, they lack the capacity for genuine, empathetic intervention.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -34,7 +34,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>From a biblical perspective, the appeal of a "non-judgmental" chatbot is easy to understand, yet it points to a profound spiritual deficit in our modern culture. We were created by God for <em>koinonia</em>—deep, authentic fellowship with one another. Scripture tells us, "Carry each other’s burdens, and in this way you will fulfill the law of Christ" (Galatians 6:2, NIV). A chatbot can simulate words of comfort, but it cannot "carry" a burden. It cannot be present in the messiness of life, nor can it offer the grace that flows from a human heart transformed by the Gospel.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -45,14 +45,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>When we turn to AI for our deepest emotional needs, we risk creating a feedback loop of isolation. The AI provides a mirror for our own thoughts rather than the transformative, challenging, and loving presence of a fellow human being. As Proverbs 27:17 reminds us, "Iron sharpens iron, and one man sharpens another" (ESV). We are sharpened by the friction and the intimacy of real relationships, not by the smooth, pre-programmed responses of a machine.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>This makes me think about how often we prefer the comfort of a screen over the discomfort of vulnerability. We fear being a "burden" to our friends or family, so we hide behind digital walls. Yet, the Gospel tells us that we are members of one body. When one suffers, we all suffer. By hiding our struggle from the people God has placed in our lives, we inadvertently reject the very mechanism of care He designed for us.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -71,7 +71,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Sophie’s story is a call to awaken from our digital slumber. Technology can mimic many things, but it can never replicate the image of God in another human being. Let us strive to be more present, more vulnerable, and more willing to carry the burdens of those around us, trusting that God’s design for human connection is far superior to any innovation we might create.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

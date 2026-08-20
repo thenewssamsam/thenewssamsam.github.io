@@ -148,7 +148,7 @@ source_url: "https://www.nbcnews.com/news/us-news/penn-state-agostino-abbatiello
   <p>For many observers, cases like this prompt immediate questions about how bright young people, surrounded by opportunity and structured support systems, can drift so far off course. News reports outline an extensive alleged operation, but beyond the police reports and court filings, the situation invites a deeper look into human behavior, vulnerability, and accountability.</p>
 
   <div class="ncg-amazon-product">
-    Recommended Resource: <a href="https://www.amazon.com/dp/B08N5K2V95?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World</a> — $14.99
+    Recommended Resource: <a href="https://www.amazon.com/dp/B08N5K2V95?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World</a> — 
   </div>
 
   <h2 id="moral-compromise">The Anatomy of Compromise</h2>
@@ -156,19 +156,19 @@ source_url: "https://www.nbcnews.com/news/us-news/penn-state-agostino-abbatiello
   <p>Compromise rarely happens in a single, earth-shattering moment. More often, it begins with small rationalizations. An accounting major understands numbers, ledgers, and risk assessment; ironically, spiritual and moral accounting often fails long before legal ledgers ever catch up to a person's actions.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
   <p>When individuals prioritize short-term gain, social status, or the thrill of illicit enterprise over long-term integrity, they enter a dangerous descent. Proverbs warns us repeatedly about the deceptive nature of shortcuts. What starts as a small compromise eventually demands greater risks, pulling individuals deeper into webs of deceit that become nearly impossible to untangle.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
   <div class="ncg-amazon-product">
-    Recommended Resource: <a href="https://www.amazon.com/dp/1593377282?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Pocket Idiot's Guide to Understanding Ethics</a> — $12.50
+    Recommended Resource: <a href="https://www.amazon.com/dp/1593377282?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Pocket Idiot's Guide to Understanding Ethics</a> — 
   </div>
 
   <div class="ncg-quote-box">
@@ -178,12 +178,12 @@ Seagate Portable External Hard Drive ($59.99)
   <p>This case serves as a sober reminder that external success—good universities, respectable majors, fraternity brotherhood—cannot substitute for internal character anchored in timeless moral principles.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
   <div class="ncg-amazon-product">
-    Recommended Resource: <a href="https://www.amazon.com/dp/0310343755?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Meaning of Marriage: Facing the Complexities of Commitment with the Wisdom of God</a> — $16.80
+    Recommended Resource: <a href="https://www.amazon.com/dp/0310343755?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Meaning of Marriage: Facing the Complexities of Commitment with the Wisdom of God</a> — 
   </div>
 
   <h2 id="scripture-reflection">Wisdom, Stewardship, and Hidden Choices</h2>
@@ -191,34 +191,34 @@ Seagate Portable External Hard Drive ($59.99)
   <p>When reflecting on stories involving hidden schemes and sudden falls, Scripture offers timeless insight into the human condition. The Apostle Paul writes in Galatians 6:7 (ESV), <em>"Do not be deceived: God is not mocked, for whatever one sows, that will he also reap."</em> This verse reminds us that actions carry natural and moral consequences, regardless of how cleverly an operation is concealed from professors, peers, or law enforcement.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
   <div class="ncg-amazon-product">
-    Recommended Resource: <a href="https://www.amazon.com/dp/0143127748?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Meditations by Marcus Aurelius</a> — $10.20
+    Recommended Resource: <a href="https://www.amazon.com/dp/0143127748?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Meditations by Marcus Aurelius</a> — 
   </div>
 
   <p>Furthermore, Proverbs 4:23 (NIV) instructs us: <em>"Above all else, guard your heart, for everything you do flows from it."</em> This principle cuts to the core of campus culture and human ambition. Guarding the heart means paying close attention to our motives, our associations, and the subtle shifts in our ethical boundaries before minor temptations turn into life-altering mistakes.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
   <div class="ncg-amazon-product">
-    Recommended Resource: <a href="https://www.amazon.com/dp/1400201659?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The 5 Love Languages: The Secret to Love that Lasts</a> — $15.00
+    Recommended Resource: <a href="https://www.amazon.com/dp/1400201659?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The 5 Love Languages: The Secret to Love that Lasts</a> — 
   </div>
 
   <p>These reflections do not excuse harmful actions; rather, they invite all of us to examine our own lives, urging vigilance, humility, and a commitment to honest stewardship in every area of our studies, work, and relationships.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
   <div class="ncg-amazon-product">
-    Recommended Resource: <a href="https://www.amazon.com/dp/038554734X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones</a> — $13.79
+    Recommended Resource: <a href="https://www.amazon.com/dp/038554734X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones</a> — 
   </div>
 
   <h2 id="how-christians-respond">How Christians Should Respond</h2>
@@ -232,15 +232,15 @@ Tactical Waterproof Backpack ($35.99)
   </ul>
 
   <div class="ncg-amazon-product">
-    Recommended Resource: <a href="https://www.amazon.com/dp/0830845925?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Common Rule: Habits of Purpose for an Age of Distraction</a> — $14.25
+    Recommended Resource: <a href="https://www.amazon.com/dp/0830845925?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Common Rule: Habits of Purpose for an Age of Distraction</a> — 
   </div>
 
   <div class="ncg-amazon-product">
-    Recommended Resource: <a href="https://www.amazon.com/dp/1535971160?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Gentle and Lowly: The Heart of Christ for Sinners and Sufferers</a> — $11.99
+    Recommended Resource: <a href="https://www.amazon.com/dp/1535971160?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Gentle and Lowly: The Heart of Christ for Sinners and Sufferers</a> — 
   </div>
 
   <div class="ncg-amazon-product">
-    Recommended Resource: <a href="https://www.amazon.com/dp/0310452932?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">NIV, Archaeological Study Bible: An Illustrated Walk Through Biblical History and Culture</a> — $34.50
+    Recommended Resource: <a href="https://www.amazon.com/dp/0310452932?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">NIV, Archaeological Study Bible: An Illustrated Walk Through Biblical History and Culture</a> — 
   </div>
 
   <div class="ncg-closing-box">
@@ -249,15 +249,15 @@ Tactical Waterproof Backpack ($35.99)
   </div>
 
   <div class="ncg-amazon-product">
-    Recommended Resource: <a href="https://www.amazon.com/dp/0785232753?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The 21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You</a> — $18.99
+    Recommended Resource: <a href="https://www.amazon.com/dp/0785232753?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The 21 Irrefutable Laws of Leadership: Follow Them and People Will Follow You</a> — 
   </div>
 
   <div class="ncg-amazon-product">
-    Recommended Resource: <a href="https://www.amazon.com/dp/1594480001?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Kite Runner by Khaled Hosseini</a> — $12.80
+    Recommended Resource: <a href="https://www.amazon.com/dp/1594480001?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Kite Runner by Khaled Hosseini</a> — 
   </div>
 
   <div class="ncg-amazon-product">
-    Recommended Resource: <a href="https://www.amazon.com/dp/0061120081?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Alchemist by Paulo Coelho</a> — $9.99
+    Recommended Resource: <a href="https://www.amazon.com/dp/0061120081?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Alchemist by Paulo Coelho</a> — 
   </div>
 
   <div class="ncg-source">

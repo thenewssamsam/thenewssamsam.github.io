@@ -35,7 +35,7 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/17/storm-lala-hawaii-d
     <p>Hawaiian Electric reported that power outages peaked at roughly 111,000 customers. While utility crews rushed to restore service, officials issued stark warnings that rural and mountainous pockets could remain in the dark for weeks. Compounding the crisis, sections of a major highway in the Big Island’s southeast collapsed overnight, cutting off vital road access to the town of Pahala—home to the region’s only hospital.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></p>
 
     <p>Tragically, local authorities also confirmed one storm-related fatality: a woman reported missing in Naalehu who was later found dead. Across the island chain, including Oahu where the Honolulu fire department handled over 600 weather-related calls, the storm exposed the raw vulnerability of island infrastructure.</p>
@@ -103,7 +103,7 @@ Crevice Cleaning Brush Set ($12.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Crevice Cleaning Brush Set</a></div>
-    <div class="product-price">$12.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -111,7 +111,7 @@ Crevice Cleaning Brush Set ($12.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -119,7 +119,7 @@ Crevice Cleaning Brush Set ($12.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

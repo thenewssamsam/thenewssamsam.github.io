@@ -21,10 +21,10 @@ source_url: "https://www.nbcnews.com/politics/2026-election/angie-nixon-winner-f
 
   <section id="what-happened">
     <h2>The Results of the Primary</h2>
-    <p>Angie Nixon, a member of the Democratic Socialists of America, secured the Democratic nomination for the U.S. Senate seat currently held by Ashley Moody. The victory defied significant fundraising gaps; Vindman raised over $16 million compared to Nixon’s sub-$1 million intake. The win sets up a stark ideological contrast for the November general election, with Moody positioning herself against what she terms "socialist" policies.</p>
+    <p>Angie Nixon, a member of the Democratic Socialists of America, secured the Democratic nomination for the U.S. Senate seat currently held by Ashley Moody. The victory defied significant fundraising gaps; Vindman raised over  million compared to Nixon’s sub- million intake. The win sets up a stark ideological contrast for the November general election, with Moody positioning herself against what she terms "socialist" policies.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -34,7 +34,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>In high-stakes political contests, misinformation often spreads faster than policy details. Here is a breakdown of key claims surrounding the primary.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -43,7 +43,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>Fact:</strong> While the Democratic Senatorial Campaign Committee (DSCC) actively recruited and supported Vindman, the voters opted for the insurgent candidate. The result suggests that national establishment backing does not guarantee a victory in local Florida contests.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -51,7 +51,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p><strong>Fact:</strong> This is a subjective political accusation. Nixon has explicitly denied being antisemitic, stating her stance is rooted in human rights concerns regarding international law. While her policy positions on cutting military aid to Israel are highly controversial—particularly in a state with a large Jewish population—labeling a policy position as hate speech is a political tactic rather than a verified fact.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -66,13 +66,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>In the heat of political campaigns, labels are often thrown around to silence opposition or categorize opponents in ways that may not reflect their full character. This reminds me of the wisdom in <strong>Proverbs 18:17</strong>: "The one who states his case first seems right, until the other comes and examines him."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Whether in politics or our personal lives, we are often quick to judge based on a headline or a soundbite. It is a challenge to remain grounded in truth when the rhetoric is designed to inflame rather than inform. <strong>James 1:19</strong> offers a necessary instruction for our modern climate: "Everyone should be quick to listen, slow to speak and slow to become angry." By taking the time to look past the "socialist" or "establishment" labels, we honor the humanity of those with whom we disagree, even in the midst of a heated race.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

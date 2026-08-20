@@ -28,7 +28,7 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-menta
 <p>History teaches us that humans have always looked for "outsourced" wisdom when faced with the discomfort of real-world relationships. In the 18th century, the rise of the novel was often criticized for creating "solitary readers" who spent more time in the company of fictional characters than their own neighbors. Later, the introduction of the telephone and then the radio were met with warnings that we were losing the "human touch."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -36,7 +36,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p><strong>"The danger isn't that AI is 'evil'; it is that AI is perfectly designed to be the ultimate enabler of our desire to avoid the burden of being known by others."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </div>
@@ -44,18 +44,18 @@ Tactical Waterproof Backpack ($35.99)
 <p>The current reliance on AI chatbots mirrors the mid-20th-century fascination with the "mechanical oracle." Just as early computing pioneers imagined that machines might one day solve human sorrow through logic and data, we are currently trapped in a cycle of believing that if we just find the right prompt, we can bypass the vulnerability required for human healing. History shows that technology often provides a temporary reprieve from social friction, but it rarely—if ever—replaces the stabilizing influence of genuine, face-to-face community.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Consider these essential items for maintaining a balanced, screen-free environment:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <div style="border-left: 5px solid #FFD700; background: #f4f4f4; padding: 10px; margin: 10px 0;">
-<strong>Journaling Notebook for Reflection</strong> - $12.99 <br>
+<strong>Journaling Notebook for Reflection</strong> -  <br>
 <a href="#">View on Amazon</a>
 </div>
 </section>
@@ -65,13 +65,13 @@ Tactical Waterproof Backpack ($35.99)
 <p>This situation brings to mind the wisdom of Proverbs 27:17: "Iron sharpens iron, and one man sharpens another." It serves as a reminder that we were not created to carry our heaviest burdens in the silence of a digital void. There is a profound, God-given dignity in being seen—truly seen—by another person. When we hide our struggles behind a screen, we miss the opportunity for the messy, sharpening process of community that is so vital to our health.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <p>I am reminded that even in our most desperate moments, we are invited to bring our burdens into the light of human fellowship. As Ecclesiastes 4:9-10 notes, "Two are better than one, because they have a good reward for their toil. For if they fall, one will lift up his fellow. But woe to him who is alone when he falls and has not another to lift him up!"</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>

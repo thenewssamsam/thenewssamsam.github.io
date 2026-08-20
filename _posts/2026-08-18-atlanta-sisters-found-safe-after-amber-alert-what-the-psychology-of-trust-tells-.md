@@ -29,7 +29,7 @@ source_url: 'https://www.fox5atlanta.com/news/search-atlanta-sisters-ages-4-11-m
     <p>The ordeal began when their mother, Elica Redding, who had connected with Brown through an online mom group offering free services for expecting mothers, left her children in Brown's care on a Saturday night. When the children were not returned, excuses about a fictitious car accident began rolling in via text message. Soon, communication severed entirely.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>As anxiety spiked, the Atlanta Police Department mobilized multiple units, including the homicide and fugitive divisions, recognizing the terrifying reality that the children were in extreme danger. Technology, combined with crucial tips from observant local residents in the Sylvan Road area, pointed officers toward a trailer park. Cutting through the silence of the search, officers heard the unmistakable sound of a baby crying. Executing an exigent entry, they found both girls safe inside, alongside the suspect, who was promptly taken into custody.</p>
@@ -126,7 +126,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -134,7 +134,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

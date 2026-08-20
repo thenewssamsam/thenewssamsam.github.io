@@ -37,7 +37,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/17/alaska-senate-dan-s
 <p>While the identical names have grabbed headlines, political analysts point out that the real electoral battle is shaping up between Senator Sullivan and former Democratic Representative Mary Peltola. Peltola, who twice won election to the state's lone U.S. House seat before a narrow defeat in 2024, is running a moderate campaign focused on local economic issues, natural resource development, and fisheries.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -51,7 +51,7 @@ Tactical Waterproof Backpack ($35.99)
 
 <p>Alaska's political ecosystem defies easy categorization. While the state leans heavily Republican in presidential contests—voting for Donald Trump by more than 13 percentage points in 2024—its state-level politics are marked by independent streaks, bipartisan coalitions, and a deep skepticism of federal overreach.</p>
 
-<p>Peltola has positioned herself as a unique political figure, or a "unicorn" in the words of election law attorney Scott Kendall. She advocates for oil and gas development, including supporting the controversial Willow project during the Biden administration, while fiercely championing the fishing industry and native communities through her "fish, family, freedom" platform. With national Democrats injecting $12 million into her campaign and Republican groups committing $17 million to defend Senator Sullivan, the race has transformed into a marquee national showdown with millions of dollars in outside spending.</p>
+<p>Peltola has positioned herself as a unique political figure, or a "unicorn" in the words of election law attorney Scott Kendall. She advocates for oil and gas development, including supporting the controversial Willow project during the Biden administration, while fiercely championing the fishing industry and native communities through her "fish, family, freedom" platform. With national Democrats injecting  million into her campaign and Republican groups committing  million to defend Senator Sullivan, the race has transformed into a marquee national showdown with millions of dollars in outside spending.</p>
 
 <h2 id="historical-parallel">A Historical Parallel: When Ballot Quirks and Third Forces Shape Elections</h2>
 
@@ -169,7 +169,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -177,7 +177,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

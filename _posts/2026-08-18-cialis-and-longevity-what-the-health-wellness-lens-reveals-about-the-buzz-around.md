@@ -37,7 +37,7 @@ source_url: 'https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafi
 <p>Tadalafil—better known by its brand name Cialis—belongs to a class of medications called phosphodiesterase-5 (PDE-5) inhibitors. Originally developed to help relax smooth muscle cells and dilate blood vessels, these drugs were famously discovered when early clinical trials for chest pain revealed a distinct, highly marketable side effect.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Skin Renewing Night Cream ($18.99)
+CeraVe Skin Renewing Night Cream 
 </a></p>
 
 
@@ -162,7 +162,7 @@ CeraVe Skin Renewing Night Cream ($18.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0GVH72LRS?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">KewLitz Insulated Stainless Steel Bottle</a></div>
-    <div class="product-price">$24.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0GVH72LRS?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -170,7 +170,7 @@ CeraVe Skin Renewing Night Cream ($18.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -178,7 +178,7 @@ CeraVe Skin Renewing Night Cream ($18.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0GX8NPZ1T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">GOPPUS Insulated Leak-Proof Bottle</a></div>
-    <div class="product-price">$19.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0GX8NPZ1T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -186,7 +186,7 @@ CeraVe Skin Renewing Night Cream ($18.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">CeraVe Skin Renewing Night Cream</a></div>
-    <div class="product-price">$18.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -194,7 +194,7 @@ CeraVe Skin Renewing Night Cream ($18.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B09QQCX392?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">EZPIK Reachers and Grabbers</a></div>
-    <div class="product-price">$14.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B09QQCX392?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -202,7 +202,7 @@ CeraVe Skin Renewing Night Cream ($18.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07MBBP71L?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Bambaw Stainless Steel Water Bottle</a></div>
-    <div class="product-price">$25.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07MBBP71L?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -210,7 +210,7 @@ CeraVe Skin Renewing Night Cream ($18.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

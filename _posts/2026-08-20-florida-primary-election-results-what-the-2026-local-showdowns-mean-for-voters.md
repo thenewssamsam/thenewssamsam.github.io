@@ -32,7 +32,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/live-blog/elections-
     <p>&ldquo;Primary nights remind us that local politics is deeply personal; voters are looking past national endorsements to evaluate who truly understands their everyday community challenges.&rdquo;</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive ($59.99)
   </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   <p>
@@ -51,7 +51,7 @@ Seagate Portable External Hard Drive ($59.99)
   </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   <p>
@@ -59,7 +59,7 @@ Seagate Portable External Hard Drive ($59.99)
   </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -69,7 +69,7 @@ Seagate Portable External Hard Drive ($59.99)
   </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   <p>
@@ -77,15 +77,15 @@ Tactical Waterproof Backpack ($35.99)
   </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
   <div class="ncg-product-card" style="border-left: 4px solid #f0c14b; background: #fdf8f2; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <p><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B08N5KWB9H?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Righteous Mind: Why Good People Are Divided by Politics and Religion</a> - Gain a deeper understanding of the psychology behind political polarization and community division. ($16.99)</p>
+    <p><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B08N5KWB9H?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Righteous Mind: Why Good People Are Divided by Politics and Religion</a> - Gain a deeper understanding of the psychology behind political polarization and community division. </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>
@@ -96,7 +96,7 @@ Tactical Waterproof Backpack ($35.99)
   </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   <ul>
@@ -106,7 +106,7 @@ Seagate Portable External Hard Drive ($59.99)
   </ul>
 
   <div class="ncg-product-card" style="border-left: 4px solid #f0c14b; background: #fdf8f2; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <p><strong>Community Organizing Tool:</strong> <a href="https://www.amazon.com/dp/B07V5W8Z7R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Reusable Dry Erase Community Planning Whiteboard Calendar</a> - Perfect for organizing local grassroots meetings and campaign awareness events. ($24.99)</p>
+    <p><strong>Community Organizing Tool:</strong> <a href="https://www.amazon.com/dp/B07V5W8Z7R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Reusable Dry Erase Community Planning Whiteboard Calendar</a> - Perfect for organizing local grassroots meetings and campaign awareness events. </p>
   </div>
 
   <h2 id="one-last-thought">One Last Thought</h2>

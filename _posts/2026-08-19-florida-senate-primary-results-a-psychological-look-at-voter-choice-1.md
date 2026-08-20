@@ -24,16 +24,16 @@ source_url: "https://www.nbcnews.com/politics/2026-primary-special-elections/flo
     <p>In the Republican primary, incumbent Sen. Ashley Moody secured a commanding victory with nearly 80% of the vote. On the Democratic side, state representative Angie Nixon achieved a notable upset over Alex Vindman, capturing 56% of the vote. These results set the stage for the upcoming general election, but they also reflect specific patterns of voter engagement and preference.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-product" style="border: 1px solid #ffd700; background-color: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 8px;">
-    <p><strong>Recommended Reading:</strong> <em>The Righteous Mind: Why Good People Are Divided by Politics and Religion</em> by Jonathan Haidt. <a href="https://www.amazon.com/dp/0307455777?tag=thenewssam-20" target="_blank">View on Amazon - $16.99</a></p>
+    <p><strong>Recommended Reading:</strong> <em>The Righteous Mind: Why Good People Are Divided by Politics and Religion</em> by Jonathan Haidt. <a href="https://www.amazon.com/dp/0307455777?tag=thenewssam-20" target="_blank">View on Amazon - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>
@@ -43,7 +43,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>From a behavioral perspective, these results illustrate several key concepts that govern human decision-making in political contexts.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -51,7 +51,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Moody’s decisive win reflects <strong>status quo bias</strong>—the human tendency to prefer the current state of affairs. When voters are familiar with an incumbent, the perceived "cost" of change often outweighs the potential benefits, leading to a strong preference for continuity.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -63,16 +63,16 @@ Tactical Waterproof Backpack ($35.99)
     <p>Angie Nixon’s victory over a high-profile candidate like Alex Vindman highlights the role of <strong>in-group identity</strong>. Voters are often driven by a sense of belonging to a specific movement or ideology. When a candidate effectively taps into the core values of an identity group, they can overcome the "name recognition" advantage that typically favors more establishment figures.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-product" style="border: 1px solid #ffd700; background-color: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 8px;">
-    <p><strong>Decision Making Tool:</strong> <em>Thinking, Fast and Slow</em> by Daniel Kahneman. <a href="https://www.amazon.com/dp/0374533555?tag=thenewssam-20" target="_blank">View on Amazon - $15.40</a></p>
+    <p><strong>Decision Making Tool:</strong> <em>Thinking, Fast and Slow</em> by Daniel Kahneman. <a href="https://www.amazon.com/dp/0374533555?tag=thenewssam-20" target="_blank">View on Amazon - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>
@@ -82,13 +82,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>As I look at the fervor surrounding these elections, I am reminded of the importance of seeking truth beyond the noise of the moment. Proverbs 18:17 (ESV) tells us, "The one who states his case first seems right, until the other comes and examines him." This verse invites us to consider that our initial impressions—whether of a candidate’s resume or a campaign narrative—are often incomplete.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>In our modern political climate, it is easy to become locked into echo chambers that confirm what we already believe. Yet, true discernment requires the patience to look closer, to listen to opposing views, and to weigh information with a humble heart. James 1:19 reminds us to be "quick to hear, slow to speak, slow to anger." Applying this to how we engage with news and civic life can help us act with more clarity and less reactive emotion.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

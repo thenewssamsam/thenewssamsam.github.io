@@ -38,19 +38,19 @@ source_url: "https://triblive.com/news/world/ukraine-aims-a-drone-blitz-at-mosco
 <p>When studying protracted conflicts where one side holds a massive advantage in raw industrial capacity and population, history offers uncomfortable familiar patterns. The strategy of bringing the war to the adversary's capital through long-range aerial strikes is not a modern invention of the digital drone era.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <p>Throughout modern military history, nations facing existential threats have frequently resorted to asymmetric long-range campaigns. The underlying strategic calculus remains remarkably consistent: when front-line trenches freeze into stalemates, combatants look for ways to puncture the psychological armor of the adversary's civilian population. Kyiv's explicit goal with these sweeping drone swarms is to make everyday citizens in Moscow feel the economic and social friction of a war their government initiated, hoping to generate internal political pressure for a negotiated settlement.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <p>However, history also teaches us the limits and hazards of this dynamic. As historical precedents from mid-20th-century aerial campaigns demonstrate, attempting to break a population's will through long-range bombardment often produces the opposite effect. Instead of compelling surrender or political dissent, external attacks frequently harden public resolve, foster national unity around leadership, and provide state media with powerful narratives to rally domestic support. While Ukraine's domestically engineered drone fleet represents an extraordinary technological achievement in cost-effective asymmetric warfare, the strategic outcome of trading remote aerial blows remains dangerously unpredictable.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -58,7 +58,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>"When conventional front lines freeze into stalemate, conflicts inevitably migrate to the skies—testing not just military defense systems, but the psychological endurance of nations."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </div>
@@ -69,13 +69,13 @@ Tactical Waterproof Backpack ($35.99)
 <p>Witnessing the daily toll of missile barrages and drone swarms naturally brings to mind the heavy burden placed upon ordinary human lives during times of conflict. It is easy to view these events as distant geopolitical chess moves, but behind every casualty report are families shattered and communities displaced.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <p>Scripture offers a sobering reminder about the destructive nature of human strife. In the book of James, we are asked a penetrating question: <em>"What causes fights and quarrels among you? Don't they come from your desires that battle within you?"</em> (James 4:1). While nations must defend their borders and sovereignty, this ongoing cycle of violence highlights the brokenness of a world where peace remains so fragile. Observing these events invites us to pray not only for an end to the bloodshed, but for the protection of innocent civilians who bear the heaviest costs of decisions made in high places.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -85,7 +85,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>For observers watching these unfolding events from afar, it is easy to feel overwhelmed by the scale of destruction. Here are constructive ways to engage:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <ul>

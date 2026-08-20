@@ -25,7 +25,7 @@ source_url: ''
 <p>Brigance's professional football journey was itself remarkable. He is the rare player to win both a Canadian Football League championship and a Super Bowl title for teams in the same city, Baltimore. He made the very first tackle in Super Bowl XXXV during the Ravens' dominant 34-7 victory over the New York Giants in January 2001. Yet, as monumental as those athletic milestones were, those who knew him best understood that his true legacy began long after he hung up his cleats.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>Despite losing his physical mobility and eventually relying on a wheelchair and a speech-generating communication device, Brigance continued serving as the Ravens' senior adviser for player engagement—a role he held since 2004. Alongside his wife, Chanda, he also established the Brigance Brigade Foundation to equip, encourage, and empower individuals and families battling ALS.</p>
@@ -104,7 +104,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -112,7 +112,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

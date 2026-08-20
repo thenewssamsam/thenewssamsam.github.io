@@ -21,7 +21,7 @@ source_url: 'https://www.texastribune.org/2026/08/17/texas-big-bend-national-par
     <p>The rugged, pristine landscape of Big Bend National Park—a "crown jewel" of Texas—has found itself at the center of an intense national debate. Following mounting pressure from local residents, law enforcement, and elected officials, U.S. Customs and Border Protection (CBP) Commissioner Rodney Scott has ordered a temporary pause on construction activities within the park. For the communities surrounding this remote region, this is more than just a policy shift; it is a battle for the identity and economic future of West Texas.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></p>
 
   </section>
@@ -81,7 +81,7 @@ Crevice Cleaning Brush Set ($12.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Crevice Cleaning Brush Set</a></div>
-    <div class="product-price">$12.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -89,7 +89,7 @@ Crevice Cleaning Brush Set ($12.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -97,7 +97,7 @@ Crevice Cleaning Brush Set ($12.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

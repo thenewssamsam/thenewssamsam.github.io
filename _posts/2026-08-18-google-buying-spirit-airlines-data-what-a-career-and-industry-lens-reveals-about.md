@@ -21,7 +21,7 @@ source_url: 'https://news.bloomberglaw.com/bankruptcy-law/google-aims-to-boost-a
 </header>
 
 <div class="ncg-intro">
-<p>When a bankrupt low-cost carrier liquidates its assets, people expect airplanes, airport gates, and perhaps frequent flyer lists to go on the auction block. But when Google stepped in with a $10 million winning bid for Spirit Airlines enterprise data, software code, and operational records to feed its artificial intelligence models, it signaled a quiet, massive shift in how tech giants fuel their next generation of machine learning.</p>
+<p>When a bankrupt low-cost carrier liquidates its assets, people expect airplanes, airport gates, and perhaps frequent flyer lists to go on the auction block. But when Google stepped in with a  million winning bid for Spirit Airlines enterprise data, software code, and operational records to feed its artificial intelligence models, it signaled a quiet, massive shift in how tech giants fuel their next generation of machine learning.</p>
 </div>
 
 <div class="ncg-toc-box" id="table-of-contents">
@@ -36,14 +36,14 @@ source_url: 'https://news.bloomberglaw.com/bankruptcy-law/google-aims-to-boost-a
 
 <h2 id="the-deal-details">What Actually Happened at the Bankruptcy Auction</h2>
 
-<p>Spirit Aviation Holdings Inc. shut down its operations on May 2 following its second Chapter 11 bankruptcy filing in two years, drowning under roughly $8.1 billion in debt, surging fuel prices, and failed financing talks. The shutdown laid off approximately 17,000 workers. While much of the airline's physical and logistical value went to other carriers—such as JetBlue Airways acquiring 22 takeoff and landing slots at LaGuardia Airport for $58.5 million—its digital footprint drew a fierce bidding war.</p>
+<p>Spirit Aviation Holdings Inc. shut down its operations on May 2 following its second Chapter 11 bankruptcy filing in two years, drowning under roughly  billion in debt, surging fuel prices, and failed financing talks. The shutdown laid off approximately 17,000 workers. While much of the airline's physical and logistical value went to other carriers—such as JetBlue Airways acquiring 22 takeoff and landing slots at LaGuardia Airport for  million—its digital footprint drew a fierce bidding war.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-KEOFID Classic Backpack ($32.99)
+KEOFID Classic Backpack 
 </a></p>
 
 
-<p>According to an August 14 notice filed in the US Bankruptcy Court for the Southern District of New York, Google beat out AI talent recruiting firm Mercor.io—which had placed a $7.5 million backup bid—to secure a sprawling enterprise data repository. The cache includes roughly 100 million emails, 500 million Microsoft Teams chats, revenue records, aircraft operations history, employee productivity logs, and pricing data covering 7.2 billion competitor flights alongside 7.5 billion passenger transaction records dating back to 2008.</p>
+<p>According to an August 14 notice filed in the US Bankruptcy Court for the Southern District of New York, Google beat out AI talent recruiting firm Mercor.io—which had placed a  million backup bid—to secure a sprawling enterprise data repository. The cache includes roughly 100 million emails, 500 million Microsoft Teams chats, revenue records, aircraft operations history, employee productivity logs, and pricing data covering 7.2 billion competitor flights alongside 7.5 billion passenger transaction records dating back to 2008.</p>
 
 <p>Crucially, court records and corporate statements emphasize that personal identification data was walled off. Google's purchase explicitly excludes Spirit's 97.5 million passenger profiles and 50.2 million Free Spirit loyalty program records. The business data is slated to undergo rigorous scrubbing by a third party to eliminate any personally identifiable information before Google takes possession.</p>
 
@@ -94,7 +94,7 @@ KEOFID Classic Backpack ($32.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -102,7 +102,7 @@ KEOFID Classic Backpack ($32.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Backpack USB Charging Port</a></div>
-    <div class="product-price">$39.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -110,7 +110,7 @@ KEOFID Classic Backpack ($32.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Toshiba 5400RPM Hard Drive</a></div>
-    <div class="product-price">$49.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -118,7 +118,7 @@ KEOFID Classic Backpack ($32.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -126,7 +126,7 @@ KEOFID Classic Backpack ($32.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">KEOFID Classic Backpack</a></div>
-    <div class="product-price">$32.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

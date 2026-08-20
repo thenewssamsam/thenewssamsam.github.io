@@ -26,7 +26,7 @@ source_url: "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceas
   <p>The latest escalation stems from a rapid breakdown in U.S.-Iran diplomacy. On Monday, President Trump ruled out extending a 60-day ceasefire agreement that had effectively been abandoned by both sides. Just a day later, Trump contradicted his previous statements by asserting on Truth Social that no talks are scheduled with the Islamic Republic, declaring that the U.S. naval blockade remains in full force.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
   
@@ -45,7 +45,7 @@ Tactical Waterproof Backpack ($35.99)
       <li><strong>Logistical Rerouting Costs:</strong> Shippers forced to seek alternative overland pipelines or longer maritime routes incur substantial operational expenses, which are ultimately passed down to industrial consumers and retail energy buyers.</li>
     </ol>
     
-    <p>Interestingly, despite the near-standstill in the strait, global oil prices have avoided catastrophic spikes past $100 a barrel. According to risk consultancy Eurasia Group, successful efforts to reroute oil around the strait and a global economic adjustment to lower baseline consumption have given Washington room to "afford to wait." However, as diplomacy stalls and both sides dig in for a longer standoff, the cushion provided by alternative routes may wear thin if the conflict drags on toward year-end.</p>
+    <p>Interestingly, despite the near-standstill in the strait, global oil prices have avoided catastrophic spikes past  a barrel. According to risk consultancy Eurasia Group, successful efforts to reroute oil around the strait and a global economic adjustment to lower baseline consumption have given Washington room to "afford to wait." However, as diplomacy stalls and both sides dig in for a longer standoff, the cushion provided by alternative routes may wear thin if the conflict drags on toward year-end.</p>
   </div>
 
   <blockquote class="ncg-shareable-quote">
@@ -97,7 +97,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -105,7 +105,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

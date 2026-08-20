@@ -25,7 +25,7 @@ source_url: 'https://www.nytimes.com/athletic/7516437/2026/08/17/mlb-padres-sale
 <strong>Table of Contents</strong>
 <ul>
 <li><a href="#what-happened">What Happened: A Record-Breaking Deal</a></li>
-<li><a href="#financial-perspective">The Financial Impact: Breaking Down a $3.9 Billion Valuation</a></li>
+<li><a href="#financial-perspective">The Financial Impact: Breaking Down a  Billion Valuation</a></li>
 <li><a href="#ownership-dynamics">Behind the Scenes: Who Is Funding the Purchase?</a></li>
 <li><a href="#market-paradox">The Small-Market Revenue Paradox</a></li>
 <li><a href="#readers-respond">What This Means for Fans and Observers</a></li>
@@ -33,7 +33,7 @@ source_url: 'https://www.nytimes.com/athletic/7516437/2026/08/17/mlb-padres-sale
 </ul>
 </div>
 
-<p class="ncg-lead">Major League Baseball owners have officially and unanimously approved a $3.9 billion sale of the San Diego Padres to billionaire investors José E. Feliciano and Kwanza Jones. This historic transaction establishes a stunning new financial benchmark for sports franchise valuations, signaling how professional sports assets continue to command extraordinary premiums even in modest media markets.</p>
+<p class="ncg-lead">Major League Baseball owners have officially and unanimously approved a  billion sale of the San Diego Padres to billionaire investors José E. Feliciano and Kwanza Jones. This historic transaction establishes a stunning new financial benchmark for sports franchise valuations, signaling how professional sports assets continue to command extraordinary premiums even in modest media markets.</p>
 
 <section id="what-happened">
 <h2>What Happened: A Record-Breaking Deal</h2>
@@ -41,15 +41,15 @@ source_url: 'https://www.nytimes.com/athletic/7516437/2026/08/17/mlb-padres-sale
 <p>The sale is expected to close near the end of this week. The Padres organization has announced plans to officially introduce Feliciano and Jones at a Petco Park news conference next Monday.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>Commissioner Rob Manfred commended both the incoming leadership and the outgoing Seidler family in an official league statement, noting the franchise's strong foundation, passionate fanbase, and competitive momentum. The Padres currently occupy the National League's final wild-card spot, seeking their fifth postseason berth in seven years.</p>
 </section>
 
 <section id="financial-perspective">
-<h2>The Financial Impact: Breaking Down a $3.9 Billion Valuation</h2>
-<p>From a financial mechanics perspective, the $3.9 billion valuation is the headline story. This figure shatters the previous benchmark for an MLB team transfer of control, which was set in 2020 when Steve Cohen purchased the New York Mets for $2.4 billion.</p>
+<h2>The Financial Impact: Breaking Down a  Billion Valuation</h2>
+<p>From a financial mechanics perspective, the  billion valuation is the headline story. This figure shatters the previous benchmark for an MLB team transfer of control, which was set in 2020 when Steve Cohen purchased the New York Mets for  billion.</p>
 <blockquote class="ncg-quote-box">
 <p>"Our ambition is clear: to bring a World Series championship to San Diego and build an enduring organization capable of competing for championships year after year." — José E. Feliciano and Kwanza Jones</p>
 </blockquote>
@@ -63,15 +63,15 @@ Seagate Portable External Hard Drive ($59.99)
 
 <section id="ownership-dynamics">
 <h2>Behind the Scenes: Who Is Funding the Purchase?</h2>
-<p>The composition of the Padres' new ownership group reveals significant cross-industry financial networks. Feliciano, whose net worth is estimated by Forbes at $3.9 billion, is the co-founder of Clearlake Capital. He and Eghbali have experience managing high-profile sports assets, notably holding a co-ownership stake in Premier League club Chelsea FC since 2022.</p>
-<p>Feliciano has been officially designated as the Padres' control person—the individual whom MLB holds directly accountable for team operations—while he and Jones intend to run the club jointly as principal owners. Jones, founder and CEO of media and personal development company Supercharged, brings an emphasis on community engagement and strategic brand growth alongside her husband. Their combined philanthropic and investment initiative has committed over $500 million to various enterprises.</p>
+<p>The composition of the Padres' new ownership group reveals significant cross-industry financial networks. Feliciano, whose net worth is estimated by Forbes at  billion, is the co-founder of Clearlake Capital. He and Eghbali have experience managing high-profile sports assets, notably holding a co-ownership stake in Premier League club Chelsea FC since 2022.</p>
+<p>Feliciano has been officially designated as the Padres' control person—the individual whom MLB holds directly accountable for team operations—while he and Jones intend to run the club jointly as principal owners. Jones, founder and CEO of media and personal development company Supercharged, brings an emphasis on community engagement and strategic brand growth alongside her husband. Their combined philanthropic and investment initiative has committed over  million to various enterprises.</p>
 <p>The incoming syndicate also features notable minority stakeholders, including longtime Padres minority owner Alfredo Harp Helú, Joey and Jesse Buss (sons of former Los Angeles Lakers owner Dr. Jerry Buss), and Behdad Eghbali. Additionally, some members of the Seidler family are retaining portions of their ownership stakes, maintaining continuity with the era of the late Peter Seidler.</p>
 </section>
 
 <section id="market-paradox">
 <h2>The Small-Market Revenue Paradox</h2>
 <p>One of the most fascinating economic takeaways from this sale is the franchise's geographic context. San Diego is traditionally classified as one of MLB's smaller media markets.</p>
-<p>Yet, under the stewardship of the late Peter Seidler—who purchased the team for $800 million in 2012 alongside Ron Fowler and later drove franchise-record payroll spending—the Padres transformed their brand equity. The team now ranks near the top of the sport in revenue generation. This financial strength disproves the outdated notion that competitive spending is strictly restricted to coastal metropolises like New York or Los Angeles.</p>
+<p>Yet, under the stewardship of the late Peter Seidler—who purchased the team for  million in 2012 alongside Ron Fowler and later drove franchise-record payroll spending—the Padres transformed their brand equity. The team now ranks near the top of the sport in revenue generation. This financial strength disproves the outdated notion that competitive spending is strictly restricted to coastal metropolises like New York or Los Angeles.</p>
 </section>
 
 <section id="readers-respond">
@@ -132,7 +132,7 @@ a:hover { text-decoration: underline; }
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -140,7 +140,7 @@ a:hover { text-decoration: underline; }
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

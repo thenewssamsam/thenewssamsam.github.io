@@ -27,7 +27,7 @@ source_url: ''
 <p>In opening statements before a Clark County jury, prosecutors laid out a narrative rooted in a bitter 1990s gang rivalry between the Southside Crips-Burris Street faction, led by Davis, and Mob Piru, a Compton street gang closely tied to Death Row Records and mogul Marion &ldquo;Suge&rdquo; Knight. Hours before the fatal shooting on September 7, 1996, members of Shakur's entourage were captured on surveillance video confronting and beating Orlando Anderson—Davis&rsquo;s nephew—in the lobby of the MGM Grand hotel following a Mike Tyson boxing match.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>According to Chief Deputy District Attorney Binu Palal, the beating sparked an immediate revenge plot. Prosecutors played recordings from a 2008 police task force interview in which Davis admitted to orchestrating the retaliation, acquiring a firearm from an out-of-state drug dealer, and placing it in the vehicle used by the shooters. While Davis did not pull the trigger, prosecutors argue he was the mastermind who set the execution in motion.</p>
@@ -78,7 +78,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -86,7 +86,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

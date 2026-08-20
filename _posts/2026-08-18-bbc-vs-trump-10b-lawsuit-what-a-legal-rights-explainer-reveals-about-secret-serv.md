@@ -12,7 +12,7 @@ source_url: 'https://apnews.com/article/bbc-trump-defamation-lawsuit-subpoenas-6
 <article>
 <header>
 <span class="ncg-badge">Legal Rights Explainer</span>
-<h1>BBC vs. Trump $10B Lawsuit: What a Legal Rights Explainer Reveals About Secret Service Subpoenas</h1>
+<h1>BBC vs. Trump B Lawsuit: What a Legal Rights Explainer Reveals About Secret Service Subpoenas</h1>
 <div class="ncg-meta-row">
 <time datetime="2026-03-30">Published: March 30, 2026</time>
 <span class="ncg-dot">•</span>
@@ -26,19 +26,19 @@ source_url: 'https://apnews.com/article/bbc-trump-defamation-lawsuit-subpoenas-6
 <li><a href="#what-happened">What Happened: The BBC Subpoena Request</a></li>
 <li><a href="#the-legal-hurdle">The Legal Hurdle: Serving Subpoenas Past the Secret Service</a></li>
 <li><a href="#legal-rights-explainer">A Legal Rights Perspective: Depositions Across Borders and Security Details</a></li>
-<li><a href="#whats-next">What Happens Next in the $10 Billion Lawsuit</a></li>
+<li><a href="#whats-next">What Happens Next in the  Billion Lawsuit</a></li>
 <li><a href="#faq">Frequently Asked Questions</a></li>
 </ul>
 </div>
 
-<p class="ncg-intro">When international media giants collide with high-profile political families in federal court, standard legal procedures rarely apply. The BBC has formally asked a U.S. federal court in Florida for assistance in serving subpoenas on Ivanka Trump, Jared Kushner, and Donald Trump Jr. as part of President Donald Trump's sprawling $10 billion defamation lawsuit against the British broadcaster—running directly into a unique procedural wall built of Secret Service protection and cross-border jurisdiction.</p>
+<p class="ncg-intro">When international media giants collide with high-profile political families in federal court, standard legal procedures rarely apply. The BBC has formally asked a U.S. federal court in Florida for assistance in serving subpoenas on Ivanka Trump, Jared Kushner, and Donald Trump Jr. as part of President Donald Trump's sprawling  billion defamation lawsuit against the British broadcaster—running directly into a unique procedural wall built of Secret Service protection and cross-border jurisdiction.</p>
 
 <h2 id="what-happened">What Happened: The BBC Subpoena Request</h2>
-<p>The legal battle stems from a December lawsuit filed by Donald Trump seeking $10 billion in damages from the BBC. The complaint accuses the British broadcaster of defamation, as well as deceptive and unfair trade practices, centered on a 2024 documentary that edited a speech Trump delivered on January 6, 2021, prior to the Capitol attack. The lawsuit alleges the BBC spliced two separate parts of the speech together to intentionally misrepresent his words as an incitement to violence.</p>
+<p>The legal battle stems from a December lawsuit filed by Donald Trump seeking  billion in damages from the BBC. The complaint accuses the British broadcaster of defamation, as well as deceptive and unfair trade practices, centered on a 2024 documentary that edited a speech Trump delivered on January 6, 2021, prior to the Capitol attack. The lawsuit alleges the BBC spliced two separate parts of the speech together to intentionally misrepresent his words as an incitement to violence.</p>
 <p>While the BBC has publicly apologized for the misleading edit while maintaining it did not defame him, the pretrial discovery process has now escalated. Lawyers for the broadcaster filed documents in federal court in Florida arguing that Ivanka Trump, Jared Kushner, and Donald Trump Jr. possess personal knowledge and records relevant to the core claims. Specifically, the filing notes that Donald Trump Jr. and Ivanka Trump were present in the Oval Office while the speech was being revised, and that Donald Trump Jr. spoke directly with his father after the Capitol violence erupted.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -61,7 +61,7 @@ Seagate Portable External Hard Drive ($59.99)
 <strong>Legal Notice:</strong> This is general information, not legal advice — consult a licensed attorney for your situation.
 </div>
 
-<h2 id="whats-next">What Happens Next in the $10 Billion Lawsuit</h2>
+<h2 id="whats-next">What Happens Next in the  Billion Lawsuit</h2>
 <p>As Judge Altman weighs whether to permit alternative service by email and certified mail, the broader litigation continues to move at a rapid pace. A trial has been provisionally scheduled for February. Recently, Judge Altman granted Trump a temporary reprieve from an order requiring detailed financial disclosures of his business empire while he considers an amended complaint that narrows the scope of alleged damages.</p>
 <p>Whether the depositions of Trump’s family members will ultimately be compelled remains in the hands of the federal court. If the judge permits alternative service, the BBC can formally demand testimony regarding the Oval Office preparations on January 6—setting the stage for high-stakes depositions just months before trial.</p>
 
@@ -77,7 +77,7 @@ Seagate Portable External Hard Drive ($59.99)
 </details>
 <details class="ncg-faq-item">
 <summary>What is the legal status of the overall lawsuit?</summary>
-<p>President Trump filed a $10 billion defamation and unfair trade practices lawsuit against the BBC in December 2024. A trial has been provisionally set for February in federal court in Florida.</p>
+<p>President Trump filed a  billion defamation and unfair trade practices lawsuit against the BBC in December 2024. A trial has been provisionally set for February in federal court in Florida.</p>
 </details>
 </section>
 
@@ -103,8 +103,8 @@ Seagate Portable External Hard Drive ($59.99)
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
-  "headline": "BBC vs. Trump $10B Lawsuit: What a Legal Rights Explainer Reveals About Secret Service Subpoenas",
-  "description": "The BBC asks a U.S. court to subpoena Ivanka Trump, Jared Kushner, and Donald Trump Jr. in a $10B defamation suit. Here is a legal explainer on how it works.",
+  "headline": "BBC vs. Trump B Lawsuit: What a Legal Rights Explainer Reveals About Secret Service Subpoenas",
+  "description": "The BBC asks a U.S. court to subpoena Ivanka Trump, Jared Kushner, and Donald Trump Jr. in a B defamation suit. Here is a legal explainer on how it works.",
   "datePublished": "2026-03-30",
   "author": {
     "@type": "Person",
@@ -147,7 +147,7 @@ footer { margin-top: 30px; font-size: 0.9em; color: #666; border-top: 1px solid 
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -155,7 +155,7 @@ footer { margin-top: 30px; font-size: 0.9em; color: #666; border-top: 1px solid 
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

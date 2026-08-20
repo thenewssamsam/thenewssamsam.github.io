@@ -25,7 +25,7 @@ source_url: "https://www.wbur.org/news/2026/08/17/prosecution-rests-murder-trial
   <p>The core legal battle centers on intent and mental state. The defense argues for an insanity defense, maintaining that Clancy was suffering from severe, unmanaged postpartum psychiatric illness exacerbated by a rapid succession of prescribed medications. Prosecutors, conversely, contend that her actions were deliberate, pointing to digital footprint evidence including health data and internet searches in the weeks leading up to the tragedy.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
   <p>The trial has featured emotionally heavy testimony from dozens of witnesses, including the children's father, Patrick Clancy, whose 911 call and subsequent interviews captured a family caught in the agonizing overlap of love, confusion, and sudden unimaginable loss. With the prosecution resting, the defense has begun calling its own witnesses, including family members and forensic psychiatric experts.</p>
@@ -86,7 +86,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -94,7 +94,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

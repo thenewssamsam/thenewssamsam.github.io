@@ -140,7 +140,7 @@ source_url: ''
   <p>The Pro Farmer Crop Tour is designed to cut through market speculation by putting boots on the ground to physically count corn kernels and soybean pods. As the western leg kicked off across South Dakota and Nebraska, scouts encountered a growing season defined by sharp contrasts. A cold snap right after emergence, followed by persistent hot and dry conditions through June and July, left deep marks on the crop.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
   <p>In Nebraska (specifically Thurston, Burt, Washington, and Dodge counties), tour leader Chip Flory reported corn yield averages around 172.9 bushels per acre (bpa), ranging from 150.22 to 198.1 bpa. Soybean pod counts in 3'x3' squares averaged a robust 1,241.2. Meanwhile, tour consultant Brent Judisch sampling South Dakota's Lincoln, Turner, and Hutchinson counties found a much wider and tougher range—corn averages sitting at 124.8 bpa with severe drought zones seeing only half their stalks produce viable ears, though late August rains threw a financial lifeline to local soybeans, pushing pod counts up to an average of 1,131.85.</p>
@@ -270,7 +270,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -278,7 +278,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

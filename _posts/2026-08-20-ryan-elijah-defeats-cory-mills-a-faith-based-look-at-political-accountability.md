@@ -29,7 +29,7 @@ source_url: 'https://www.wesh.com/article/ryan-elijah-beats-cory-mills-wins-repu
             <p><strong>Did you know?</strong> Effective political leadership often hinges on the trust a representative builds with their constituents. When that trust is eroded by personal scandals, the political foundation inevitably begins to shift.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         </div>
@@ -37,7 +37,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p>Elijah, leveraging his background as a trusted local voice, focused his campaign on themes that resonated with voters seeking a change in direction. With the primary now decided, Elijah moves forward to the November general election, where he will face Democrat Bale Dalton and Libertarian Christopher Dennison.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </section>
@@ -47,14 +47,14 @@ Tactical Waterproof Backpack ($35.99)
         <p>When we observe the rise and fall of political figures, we are reminded of the high calling placed upon those who seek to govern. The Bible does not treat leadership as a mere career path; it treats it as a stewardship of influence. Proverbs 29:2 reminds us: <em>"When the righteous thrive, the people rejoice; when the wicked rule, the people groan."</em> This verse invites us to consider that the character of a leader has a direct impact on the well-being and peace of the community they serve.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         
         <p>In the context of the Florida 7th District, voters seem to have been weighing the importance of integrity against the status quo. Scripture also warns us in 1 Timothy 3:7 that a leader must be well-thought-of, even by those outside the community, to avoid falling into disgrace. This is not about perfection, but about a life marked by accountability and moral consistency.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -68,7 +68,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p>For those of us observing this election, the outcome serves as a reminder that our primary allegiance is to truth, not to any specific party or personality. Here are three ways to respond:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
         <ul>

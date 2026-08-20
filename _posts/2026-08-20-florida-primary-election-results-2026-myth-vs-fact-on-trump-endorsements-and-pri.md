@@ -31,14 +31,14 @@ source_url: "https://www.nbcnews.com/politics/2026-election/live-blog/elections-
 <p>Election night across several states brought a flurry of unexpected outcomes, dramatic runoffs, and shifting political landscapes. In Florida, Alaska, and Wyoming, voters cast ballots that will shape the November general election. Most notably, the race to succeed term-limited Republican Governor Ron DeSantis is set: Rep. Byron Donalds will face former Republican congressman David Jolly. Meanwhile, progressive Democratic socialist Angie Nixon pulled off a major upset against former National Security Council aide Alex Vindman in the Florida Democratic Senate primary.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>National headlines also focused on the mixed success rate of high-profile endorsements. While presidential backing remains a powerful force in modern American politics, primary night demonstrated that local dynamics, candidate controversies, and shifting voter moods can still deliver stunning upsets. Whenever high-stakes political contests unfold, however, rapid summaries and social media commentary often blur the line between verified reporting and exaggerated spin. Let us examine the actual record through a rigorous fact-checking lens.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -52,7 +52,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>As election results streamed in, political commentators and social media feeds immediately began spinning overarching narratives. Let us separate the prevalent myths from the facts established by NBC News and official reporting.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -60,13 +60,13 @@ Tactical Waterproof Backpack ($35.99)
 <p><strong>The Claim:</strong> Viral commentary suggested that primary night proved endorsements from Donald Trump no longer carry weight, pointing to losses by several preferred candidates.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <p><strong>The Fact:</strong> While several high-profile Trump-backed candidates lost—including state Superintendent Megan Degenfelder in Wyoming and Rep. Cory Mills in Florida’s 7th District—this narrative oversimplifies a mixed record. Trump-backed figures like Rep. Harriet Hageman easily won their primaries in Wyoming. Endorsements remain influential, but local scandals, candidate-specific baggage, and formidable primary challengers frequently outweigh national backing.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -74,13 +74,13 @@ Tactical Waterproof Backpack ($35.99)
 <p><strong>The Claim:</strong> Some analysts framed progressive Angie Nixon's victory over Alex Vindman as proof that Democrats have entirely abandoned competitive statewide strategy in Florida.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <p><strong>The Fact:</strong> While anonymous Democratic strategists noted that Florida remains an uphill battle for statewide Democrats, Vindman’s primary defeat was driven primarily by an energized progressive base supporting Nixon over a center-left figure. The primary outcome reflects internal party dynamics and grassroots mobilization rather than a coordinated statewide abdication.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -88,13 +88,13 @@ Seagate Portable External Hard Drive ($59.99)
 <p><strong>The Claim:</strong> Rumors suggested that any incumbent facing legislative probes or negative publicity was automatically swept from office on primary night.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <p><strong>The Fact:</strong> While Florida Rep. Cory Mills lost his primary amid House Ethics Committee and Justice Department investigations, primary outcomes for controversial figures varied widely by district. Incumbency and legal scrutiny interact with local voter trust in complex ways that defy blanket rules.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -104,14 +104,14 @@ Seagate Portable External Hard Drive ($59.99)
 <p>In moments of political turbulence and shifting power, it is easy to become consumed by anxiety or misplaced trust in human institutions. Scripture invites us to ground our perspective in enduring truth rather than temporary electoral shifts. Proverbs 19:21 reminds us, "Many are the plans in a person's heart, but it is the Lord's purpose that prevails."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>This reality calls for intellectual and spiritual sobriety. Leaders rise and fall, alliances shift, and political strategies succeed or fail, but the call to act with integrity, justice, and kindness remains constant. When we evaluate public events, we are reminded that true stability does not rest on who wins a primary election, but on how we steward our communities with wisdom and grace.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -121,7 +121,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>Elections matter, but how citizens process the news surrounding them matters just as much. Here are three grounded steps to maintain clarity:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <ul>

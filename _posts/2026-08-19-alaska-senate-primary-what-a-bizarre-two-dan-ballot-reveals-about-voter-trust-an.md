@@ -36,7 +36,7 @@ source_url: "https://apnews.com/article/alaska-primary-senate-sullivan-peltola-c
     <p>The Senate contest features two-term Republican incumbent Sen. Dan Sullivan and Democratic former U.S. Rep. Mary Peltola. But the race took a bizarre twist due to a third candidate: another Dan Sullivan. Dan J. Sullivan, a retired teacher from Petersburg, successfully fought to appear on the ballot despite accusations from the incumbent and GOP allies that he was a sham candidate designed to confuse voters. Listed with no party affiliation as Daniel J. Sullivan Jr., his presence sparked intense media drama, a presidential social media intervention, and a scramble among voters to make sure they bubbled in the correct name.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
   </section>
@@ -101,7 +101,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -109,7 +109,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

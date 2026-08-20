@@ -18,7 +18,7 @@ source_url: 'https://www.theguardian.com/technology/2026/aug/17/raul-torrez-new-
   </header>
 
   <p class="ncg-lead">
-    Following a landmark nearly $1 billion court victory against Meta, New Mexico Attorney General Raúl Torrez is moving from the courtroom to the legislature, drafting sweeping new state laws to regulate social media platforms and emerging AI technologies. For ordinary citizens, parents, and legal observers, this high-stakes showdown marks a pivotal turning point in how state-level consumer protection laws can police digital spaces when federal legislation remains stalled.
+    Following a landmark nearly  billion court victory against Meta, New Mexico Attorney General Raúl Torrez is moving from the courtroom to the legislature, drafting sweeping new state laws to regulate social media platforms and emerging AI technologies. For ordinary citizens, parents, and legal observers, this high-stakes showdown marks a pivotal turning point in how state-level consumer protection laws can police digital spaces when federal legislation remains stalled.
   </p>
 
   <nav class="ncg-toc" aria-label="Table of Contents">
@@ -35,14 +35,14 @@ source_url: 'https://www.theguardian.com/technology/2026/aug/17/raul-torrez-new-
   <section id="what-happened">
     <h2>What Happened in the New Mexico Meta Case</h2>
     <p>
-      The legal battle between New Mexico and Meta reached a critical juncture when a state court ordered the tech giant to pay $567 million in the second phase of a massive liability case. This followed a seven-week trial where a jury found that Meta knowingly misled users regarding platform safety and enabled severe harms, including youth mental health struggles and child sexual exploitation. Combined with earlier penalties, Meta’s total liability in the New Mexico litigation stands at approximately $942 million.
+      The legal battle between New Mexico and Meta reached a critical juncture when a state court ordered the tech giant to pay  million in the second phase of a massive liability case. This followed a seven-week trial where a jury found that Meta knowingly misled users regarding platform safety and enabled severe harms, including youth mental health struggles and child sexual exploitation. Combined with earlier penalties, Meta’s total liability in the New Mexico litigation stands at approximately  million.
     </p>
     <p>
       The court's remedy package includes mandatory operational reforms effective for five years: strict age verification tools, enhanced safety safeguards, overnight limits on push notifications, and mandatory time-use limits for users under 18. Rather than letting the matter rest after securing the judgment, AG Raúl Torrez is now working with state lawmakers to introduce robust new legislation designed to close regulatory loopholes, remove caps on consumer protection penalties, and establish a broader legal framework encompassing artificial intelligence and chatbots.
     </p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -90,7 +90,7 @@ Tactical Waterproof Backpack ($35.99)
     <h2>Frequently Asked Questions</h2>
     <details class="ncg-faq-item">
       <summary>What was the outcome of the New Mexico lawsuit against Meta?</summary>
-      <p>A New Mexico court ordered Meta to pay nearly $942 million across two trial phases for misleading users about platform safety and causing harm to youth mental health and child safety.</p>
+      <p>A New Mexico court ordered Meta to pay nearly  million across two trial phases for misleading users about platform safety and causing harm to youth mental health and child safety.</p>
     </details>
     <details class="ncg-faq-item">
       <summary>What new laws are being proposed in New Mexico?</summary>
@@ -126,7 +126,7 @@ Tactical Waterproof Backpack ($35.99)
     "@context": "https://schema.org",
     "@type": "NewsArticle",
     "headline": "New Mexico Meta Lawsuit: What a Legal Rights Explainer Reveals About Online Child Safety Laws",
-    "description": "Following a nearly $1B penalty against Meta, New Mexico AG Raúl Torrez is pushing new child safety laws. Here is a legal rights explainer.",
+    "description": "Following a nearly B penalty against Meta, New Mexico AG Raúl Torrez is pushing new child safety laws. Here is a legal rights explainer.",
     "datePublished": "2026-08-17",
     "mainEntityOfPage": "https://www.theguardian.com/technology/2026/aug/17/raul-torrez-new-mexico-meta-social-media-safety-laws"
   }
@@ -142,7 +142,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -150,7 +150,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

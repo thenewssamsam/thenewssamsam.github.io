@@ -41,7 +41,7 @@ source_url: 'https://www.theguardian.com/world/2026/aug/18/south-korea-president
 <p>In mid-August 2026, the geopolitical balance on the Korean peninsula shifted once again. Following instructions from US President Donald Trump to "substantially reduce" the ongoing <em>Ulchi Freedom Shield</em> joint military exercises, South Korean President Lee Jae Myung announced an accelerated push to reclaim wartime operational control—known as Opcon—of his country's armed forces.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>Trump defended the cut by citing his direct relationship with North Korean leader Kim Jong-un, asserting that the North has been "unthreatening and respectful." Meanwhile, the 10-day drills—involving roughly 18,000 South Korean troops alongside American personnel and international observers—were designed in part to certify Seoul’s readiness to take over command authority that has rested with an American four-star general since the Korean War armistice in 1953.</p>
@@ -165,7 +165,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -173,7 +173,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -40,7 +40,7 @@ source_url: 'https://www.engadget.com/2238260/uber-aims-for-1-million-daily-dron
     <p>Uber Eats orders could soon arrive via a mechanical hum overhead rather than a car pulling up to your curb. According to a recent press release, Uber has made a strategic financial investment into Zipline and teamed up to scale aerial delivery to historic levels. The companies are targeting a monumental one million daily drone deliveries by the close of 2029.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>The rollout begins later this year, initially leveraging Zipline's existing US operating footprints before expanding into dozens of additional cities. While Zipline is already a seasoned player with over 2.7 million lifetime deliveries—having previously partnered with brands like Walmart and Chipotle—this new integration plugs their hardware directly into Uber’s massive, established marketplace network.</p>
@@ -230,7 +230,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">abshoo College Bookbag</a></div>
-    <div class="product-price">$29.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -238,7 +238,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">QT-QY Military Tactical Backpack</a></div>
-    <div class="product-price">$34.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -246,7 +246,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Backpack USB Charging Port</a></div>
-    <div class="product-price">$39.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -254,7 +254,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -262,7 +262,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">GAZELLE External Hard Drive</a></div>
-    <div class="product-price">$54.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

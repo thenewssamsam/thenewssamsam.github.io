@@ -21,7 +21,7 @@ source_url: "https://www.bbc.com/news/articles/crl7600rpnko"
 </header>
 
 <p style="font-size: 1.15rem; font-weight: 500; color: #333333; margin-bottom: 25px;">
-  Intense eleventh-hour trade negotiations between Washington and Ottawa are down to the wire, as Canadian Prime Minister Mark Carney races to avert a fresh wave of 50 percent tariffs on $20 billion worth of Canadian imports. For ordinary citizens and multinational businesses alike, the looming deadline represents more than a political standoff—it is a high-stakes economic squeeze that directly threatens household budgets, regional manufacturing, and cross-border supply chains.
+  Intense eleventh-hour trade negotiations between Washington and Ottawa are down to the wire, as Canadian Prime Minister Mark Carney races to avert a fresh wave of 50 percent tariffs on  billion worth of Canadian imports. For ordinary citizens and multinational businesses alike, the looming deadline represents more than a political standoff—it is a high-stakes economic squeeze that directly threatens household budgets, regional manufacturing, and cross-border supply chains.
 </p>
 
 <section id="what-happened" style="margin-bottom: 35px;">
@@ -40,7 +40,7 @@ source_url: "https://www.bbc.com/news/articles/crl7600rpnko"
 <div class="ncg-quick-take" style="background-color: #f2f7f4; border: 1px solid #d0e1d4; border-radius: 8px; padding: 20px; margin-bottom: 35px;">
   <h3 style="font-size: 1.2rem; font-weight: 700; color: #2b5738; margin-top: 0; margin-bottom: 10px;">Quick Take: The Core Financial Stakes</h3>
   <ul style="margin: 0; padding-left: 20px; color: #333333;">
-    <li style="margin-bottom: 8px;"><strong>The Dollar Value:</strong> Up to $20 billion (C$28bn) in Canadian imports face steep 50 percent tariffs if an agreement fails.</li>
+    <li style="margin-bottom: 8px;"><strong>The Dollar Value:</strong> Up to  billion (Cbn) in Canadian imports face steep 50 percent tariffs if an agreement fails.</li>
     <li style="margin-bottom: 8px;"><strong>The Consumer Squeeze:</strong> Recent polling indicates 74 percent of Canadians feel the trade dispute has already impacted their household finances.</li>
     <li style="margin-bottom: 8px;"><strong>The Structural Deadlock:</strong> Key battlegrounds include dairy supply management, American auto tariffs, and provincial alcohol bans.</li>
   </ul>
@@ -120,7 +120,7 @@ source_url: "https://www.bbc.com/news/articles/crl7600rpnko"
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -128,7 +128,7 @@ source_url: "https://www.bbc.com/news/articles/crl7600rpnko"
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

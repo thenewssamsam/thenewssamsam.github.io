@@ -23,11 +23,11 @@ source_url: ''
 
   <section id="what-happened" class="ncg-section">
     <h2>What Happened?</h2>
-    <p>Veteran wide receiver Keenan Allen is returning to the NFL for a 14th professional season, agreeing to a one-year contract worth up to $8.3 million with the Indianapolis Colts, according to NFL insider Jordan Schultz. The move comes as the Colts look to stabilize their offensive weapon room following an injury to deep threat Alec Pierce and the offseason departure of Michael Pittman Jr. to the Pittsburgh Steelers.</p>
+    <p>Veteran wide receiver Keenan Allen is returning to the NFL for a 14th professional season, agreeing to a one-year contract worth up to  million with the Indianapolis Colts, according to NFL insider Jordan Schultz. The move comes as the Colts look to stabilize their offensive weapon room following an injury to deep threat Alec Pierce and the offseason departure of Michael Pittman Jr. to the Pittsburgh Steelers.</p>
     <p>Allen spent the 2025 season back home with the Los Angeles Chargers following a one-year stint with the Chicago Bears, anchoring the first 12 years of his career in powder blue after being drafted in the third round out of California in 2013. Last season, Allen appeared in every regular-season game for the first time since 2019, utilizing a strategic, situational snap count where he played 55.1 percent of the total offensive plays. Despite that limited workload, he still led the Chargers in receptions (81) and ranked second in receiving yards (777) alongside four touchdowns.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Backpack USB Charging Port ($39.99)
+Backpack USB Charging Port 
 </a></p>
 
   </section>
@@ -107,7 +107,7 @@ Backpack USB Charging Port ($39.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -115,7 +115,7 @@ Backpack USB Charging Port ($39.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">JIYINGDUO External Hard Drive</a></div>
-    <div class="product-price">$44.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -123,7 +123,7 @@ Backpack USB Charging Port ($39.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">KEOFID Classic Backpack</a></div>
-    <div class="product-price">$32.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -131,7 +131,7 @@ Backpack USB Charging Port ($39.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">GAZELLE External Hard Drive</a></div>
-    <div class="product-price">$54.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -139,7 +139,7 @@ Backpack USB Charging Port ($39.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -147,7 +147,7 @@ Backpack USB Charging Port ($39.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">QT-QY Military Tactical Backpack</a></div>
-    <div class="product-price">$34.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

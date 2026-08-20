@@ -25,7 +25,7 @@ source_url: "https://www.fox35orlando.com/news/florida-primary-election-result-2
     <p>It is easy to get caught up in the spectacle of federal campaigns, but your daily life is often more directly influenced by the individuals elected to the Florida State House and local county commissions. These officials oversee the policies that govern our zoning, public safety, and local economic development.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -37,7 +37,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>When a primary winner is decided, it effectively sets the policy trajectory for the region. In many districts, the primary is the decisive contest. Understanding these results means looking past the party labels and examining the specific platforms regarding local growth and resource allocation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -47,13 +47,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>As we observe these election results, I am reminded of the call to seek the welfare of the place where we live. Jeremiah 29:7 (ESV) tells us: <em>"But seek the welfare of the city where I have sent you into exile, and pray to the Lord on its behalf, for in its welfare you will find your welfare."</em> This verse invites us to consider our civic duties not as a burden, but as a form of stewardship over our communities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Furthermore, Proverbs 29:2 (NIV) warns, <em>"When the righteous thrive, the people rejoice; when the wicked rule, the people groan."</em> This isn't a partisan mandate, but a reminder that the character of those we choose to lead has real, tangible consequences for the stability and peace of our neighborhoods. Whether or not your preferred candidate won, we are called to remain engaged, prayerful, and committed to the common good.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -72,7 +72,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Election nights are snapshots in time, but the work of a community happens in the months and years between ballots. Regardless of the outcome in your county, the strength of our region depends on the ongoing participation of its citizens. Stay informed, stay involved, and continue to advocate for the values that make our community a place worth calling home.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p><strong>Civic engagement is the heartbeat of a thriving community.</strong></p>

@@ -33,14 +33,14 @@ source_url: "https://triblive.com/local/regional/father-charged-in-suspected-coc
 
     <div class="ncg-product-box" style="border-left: 4px solid #f0ad4e; background: #fdf8e2; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0; font-weight: bold; color: #8a6d3b;">Recommended Resource</p>
-      <p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B07V5WGB6S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #337ab7; text-decoration: none;">Protecting Your Digital Privacy & Family Safety Guide</a> — $14.99</p>
+      <p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B07V5WGB6S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #337ab7; text-decoration: none;">Protecting Your Digital Privacy & Family Safety Guide</a> — </p>
     </div>
 
     <p>According to investigators, 23-year-old Thomas Michael Robinson of Churchill was identified as a suspected leader of the cocaine operation. Authorities state that drugs were primarily packaged at off-campus fraternity houses connected to the Delta Upsilon and Sigma Chi chapters. Even more troubling, prosecutors revealed that cutting and bagging the narcotics served as an indoctrination process for some fraternity pledges.</p>
     <p>However, what truly captured public attention was the involvement of the younger Robinson's father: 59-year-old Paul R. Robinson, an equity member and managing attorney at the Pittsburgh-based law firm Meyer, Darragh, Buckler, Bebenek & Eck, PLLC. The elder Robinson faces felony charges of tampering with evidence—specifically involving a safe containing drugs and cash—along with hindering apprehension and obstructing the investigation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -50,7 +50,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Whenever a high-profile case involves elite universities, Greek life, and legal professionals, speculation spreads faster than verified reporting. Let us look at what the official police complaint and Attorney General statements actually verify, contrasted against common misconceptions.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -60,7 +60,7 @@ Tactical Waterproof Backpack ($35.99)
         <p><strong>Fact:</strong> Only one attorney from the firm—Paul Robinson—has been charged. According to investigators, he is the sole nonstudent charged in the entire cocaine trafficking ring. The firm itself has not been implicated as an institution, though Paul Robinson serves as an equity member and chair of the firm's product liability and transportation groups.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
       </div>
@@ -70,7 +70,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p><strong>Fact:</strong> Investigators state that Thomas Robinson was the suspected leader of the student operation, while his father's alleged involvement centered on post-arrest actions. Specifically, Paul Robinson is accused of taking steps to conceal evidence, including a safe containing drugs and cash, and obstructing the ongoing investigation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
       </div>
@@ -78,7 +78,7 @@ Seagate Portable External Hard Drive ($59.99)
 
     <div class="ncg-product-box" style="border-left: 4px solid #f0ad4e; background: #fdf8e2; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0; font-weight: bold; color: #8a6d3b;">Recommended Resource</p>
-      <p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #337ab7; text-decoration: none;">Understanding the American Legal System: A Citizen's Handbook</a> — $19.99</p>
+      <p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #337ab7; text-decoration: none;">Understanding the American Legal System: A Citizen's Handbook</a> — </p>
     </div>
 
     <div class="ncg-myth-fact-container">
@@ -87,7 +87,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p><strong>Fact:</strong> While Attorney General Dave Sunday noted that packaging occurred inside off-campus fraternity houses and involved pledges as part of an indoctrination pattern within Delta Upsilon and Sigma Chi, charges target specific individuals rather than dissolving the national organizations automatically through this initial complaint.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
       </div>
@@ -97,7 +97,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p><strong>Fact:</strong> Court documents show that cooperation played a major role in expanding the case. Following an earlier December 2024 arrest, Thomas Robinson cooperated with authorities and provided the name of his alleged supplier, 24-year-old Agostino Abbatiello of Westbury, New York, whom students identified as the university's largest cocaine distributor.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
       </div>
@@ -113,13 +113,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>Stories like this one make me think about how easily personal judgment can become clouded by familial bonds or the desire to protect what we have built. Proverbs 15:27 reminds us, "The greedy bring ruin to their households, but the one who hates bribes will live." When integrity is compromised, even a lifetime of professional achievement can unravel in a single moment.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>I'm also reminded of Proverbs 28:13, which tells us, "Whoever conceals their sins does not prosper, but the one who confesses and renounces them finds mercy." True accountability requires facing the truth rather than attempting to hide it.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -129,7 +129,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Instead of treating sensational news purely as entertainment or gossip, readers can take away several practical lessons from this ongoing legal case:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <ul>

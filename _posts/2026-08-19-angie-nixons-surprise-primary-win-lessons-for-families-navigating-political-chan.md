@@ -23,7 +23,7 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vi
     <p>Angie Nixon, a member of the Democratic Socialists of America, won the Democratic primary despite being significantly outspent. While her opponent, former army intelligence officer Alexander Vindman, had a massive fundraising advantage, Nixon’s campaign focused on long-term grassroots connections. This victory sets the stage for a general election showdown against Republican Ashley Moody in November.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -33,7 +33,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When the news cycle is dominated by big numbers and massive budgets, it is easy for children to assume that "whoever has the most money wins." Nixon’s victory serves as a powerful counter-narrative to that assumption, providing a bridge to talk to our children about the importance of showing up and staying the course.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -50,7 +50,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>As we navigate these discussions, we should be mindful of modeling respectful discourse. Regardless of who you support, showing your children that we can disagree with political figures while remaining active, engaged, and hopeful is the ultimate lesson in citizenship.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -60,14 +60,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>In moments of political transition, I am often reminded of the biblical call to remain faithful in the small things. Proverbs 21:31 says, "The horse is made ready for the day of battle, but the victory belongs to the Lord." This isn't about endorsing a specific party, but rather recognizing that our true security is not found in human institutions or political power.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>Furthermore, Galatians 6:9 encourages us: "Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up." This verse resonates deeply with the spirit of grassroots campaigning. Whether in a classroom, a home, or a state race, the work of "doing good" often feels invisible until the harvest finally arrives. It reminds me that my children are watching how I handle disappointment and success, and that my character in the process is just far more important than the outcome of any single election.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -77,7 +77,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Instead of just watching the news, consider these concrete steps:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>

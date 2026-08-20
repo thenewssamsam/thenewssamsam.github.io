@@ -29,12 +29,12 @@ source_url: 'https://www.nutraingredients.com/Article/2026/08/17/a2mcs-fy26-reve
 
   <section id="what-happened">
     <h2>What Happened: A Tale of Two Halves</h2>
-    <p>For the a2 Milk Company (a2MC), the fiscal year 2026 financial results looked solid on paper, masking a turbulent internal storm. The New Zealand-based dairy firm reported a 12.4% increase in annual revenue to NZD$1.97 billion (US$1.17bn) during its August 17 results presentation. However, net profit after tax slipped 5.8% down to NZD$207.5 million (US$122.8m).</p>
+    <p>For the a2 Milk Company (a2MC), the fiscal year 2026 financial results looked solid on paper, masking a turbulent internal storm. The New Zealand-based dairy firm reported a 12.4% increase in annual revenue to NZD billion (USbn) during its August 17 results presentation. However, net profit after tax slipped 5.8% down to NZD million (USm).</p>
     
     <p>Behind these headline figures lies a dramatic operational disruption. While the first half of FY26 saw revenue jump 6.5%, the second half took a sharp 33% dive. The culprit? Severe out-of-stock situations for its flagship China-label infant milk formulas—specifically the popular a2 ZhiChu range—during the fourth quarter. Freight challenges indirectly triggered by the Middle East crisis, production backlogs, extended product release times, and rigorous new customs testing measures combined to choke off supply.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -47,7 +47,7 @@ Tactical Waterproof Backpack ($35.99)
     <h2>The Financial Mechanics Behind the Numbers</h2>
     <p>To understand how a company can post double-digit revenue growth while profits shrink and core volumes decline, we have to look closely at the underlying financial mechanics. Total revenue rose thanks to a deliberate push toward premiumization—selling higher-margin products that cushioned a low single-digit drop in overall sales volume.</p>
     
-    <p>In Mainland China, where the bulk of a2MC's infant formula business resides, total operations grew by 5%. This growth was propelled largely by strong performance in English-label products sold via cross-border e-commerce (CBEC). But the China-label segment told a very different story. Revenue for China-label infant milk formulas fell 14% year-on-year down to NZD$544 million.</p>
+    <p>In Mainland China, where the bulk of a2MC's infant formula business resides, total operations grew by 5%. This growth was propelled largely by strong performance in English-label products sold via cross-border e-commerce (CBEC). But the China-label segment told a very different story. Revenue for China-label infant milk formulas fell 14% year-on-year down to NZD million.</p>
     
     <p>When a core revenue driver suddenly stops flowing, the financial shockwaves ripple quickly through profit margins. Supply chain blockages do not just pause revenue generation; they create dead zones where fixed costs continue to accumulate while inventory sits idle. Furthermore, when inventory finally returns, recapturing lost ground requires heavy promotional spending and marketing investment—pressuring net margins even further, as seen in the 5.8% drop in net profit after tax.</p>
   </section>
@@ -117,7 +117,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -125,7 +125,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

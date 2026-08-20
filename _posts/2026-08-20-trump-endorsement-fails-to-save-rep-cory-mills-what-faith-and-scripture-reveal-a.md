@@ -38,7 +38,7 @@ source_url: "https://www.foxnews.com/politics/trumps-support-doesnt-save-scandal
 
     <div class="ncg-amazon-box" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0 0 5px 0; font-size: 0.9em; color: #666;">Recommended Resource:</p>
-      <p style="margin: 0; font-weight: bold;"><a href="https://www.amazon.com/dp/0310452332?tag=thenewssam-20" target="_blank" rel="noopener sponsored">NIV, Archaeological Study Bible, Hardcover: An Illustrated Walk Through Biblical History and Culture</a> - $34.99</p>
+      <p style="margin: 0; font-weight: bold;"><a href="https://www.amazon.com/dp/0310452332?tag=thenewssam-20" target="_blank" rel="noopener sponsored">NIV, Archaeological Study Bible, Hardcover: An Illustrated Walk Through Biblical History and Culture</a> - </p>
     </div>
 
     <p>The primary defeat did not happen in a vacuum. Mills had spent months fending off allegations, including an ongoing House Ethics Committee investigation and unconfirmed reports of federal scrutiny. While Mills adamantly denied wrongdoing and dismissed the allegations as political maneuvers orchestrated by primary opponents, the cumulative weight of the controversies proved too heavy for his campaign to bear.</p>
@@ -49,26 +49,26 @@ source_url: "https://www.foxnews.com/politics/trumps-support-doesnt-save-scandal
     <p>Mills is far from the only Republican lawmaker facing steep political consequences amid personal scandals. In recent months, several high-profile congressional figures have stepped back from re-election bids or faced intense bipartisan backlash. For instance, Rep. Chuck Edwards of North Carolina dropped his re-election campaign after a devastating House Ethics Committee report accused him of workplace harassment.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>Furthermore, fellow Republicans such as Rep. Nancy Mace led vocal efforts to censure Mills and even threatened expulsion proceedings, while Florida colleagues like Rep. Mike Haridopolos and Rep. Anna Paulina Luna ultimately threw their support behind Elijah. Democratic strategists had increasingly eyed Mills' seat as a vulnerability for the GOP in the upcoming midterms, adding external pressure to an already fractured local base.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <div class="ncg-amazon-box" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0 0 5px 0; font-size: 0.9em; color: #666;">Recommended Resource:</p>
-      <p style="margin: 0; font-weight: bold;"><a href="https://www.amazon.com/dp/1581346522?tag=thenewssam-20" target="_blank" rel="noopener sponsored">The Practice of Godliness by Jerry Bridges</a> - $14.99</p>
+      <p style="margin: 0; font-weight: bold;"><a href="https://www.amazon.com/dp/1581346522?tag=thenewssam-20" target="_blank" rel="noopener sponsored">The Practice of Godliness by Jerry Bridges</a> - </p>
     </div>
 
     <p>The situation highlights a fundamental reality of modern governance: while party endorsements, campaign war chests, and powerful allies carry immense weight, they cannot completely shield a public servant from the loss of local trust.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -78,7 +78,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When high-profile leaders fall or face rejection from the very people who once championed them, observers of faith are naturally drawn to timeless spiritual principles. Power in the political arena is often viewed as the ultimate currency, but Scripture reminds us that human influence is fleeting and secondary to moral integrity.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -90,31 +90,31 @@ Tactical Waterproof Backpack ($35.99)
     <p>This political unfolding brings to mind the wisdom found in Proverbs 22:1, which tells us: <em>"A good name is to be chosen rather than great riches, and favour is better than silver and gold."</em> No amount of political backing or high-level endorsement can substitute for a pristine reputation rooted in honesty and integrity. When a leader's character is brought into question, external alliances often crumble under the weight of public scrutiny.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div class="ncg-amazon-box" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0 0 5px 0; font-size: 0.9em; color: #666;">Recommended Resource:</p>
-      <p style="margin: 0; font-weight: bold;"><a href="https://www.amazon.com/dp/0785232826?tag=thenewssam-20" target="_blank" rel="noopener sponsored">The Maxwell Leadership Bible by John C. Maxwell</a> - $39.99</p>
+      <p style="margin: 0; font-weight: bold;"><a href="https://www.amazon.com/dp/0785232826?tag=thenewssam-20" target="_blank" rel="noopener sponsored">The Maxwell Leadership Bible by John C. Maxwell</a> - </p>
     </div>
 
     <p>Similarly, the Apostle Paul instructs believers in Galatians 6:7 with a principle that transcends pulpits and applies directly to civic life: <em>"Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap."</em> Actions have consequences, and public office demands a high standard of accountability. When leaders stumble, it serves as a sobering reminder that earthly positions of authority do not exempt anyone from moral law.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <div class="ncg-amazon-box" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0 0 5px 0; font-size: 0.9em; color: #666;">Recommended Resource:</p>
-      <p style="margin: 0; font-weight: bold;"><a href="https://www.amazon.com/dp/149645558X?tag=thenewssam-20" target="_blank" rel="noopener sponsored">Everyday Grace: A Daily Devotional by The Daily Grace Co.</a> - $24.99</p>
+      <p style="margin: 0; font-weight: bold;"><a href="https://www.amazon.com/dp/149645558X?tag=thenewssam-20" target="_blank" rel="noopener sponsored">Everyday Grace: A Daily Devotional by The Daily Grace Co.</a> - </p>
     </div>
 
     <p>These biblical truths do not dictate partisan outcomes; rather, they invite believers to look deeper than political loyalties and evaluate leadership through the lens of stewardship, truth, and humility.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -124,7 +124,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>News cycles filled with congressional scandals and primary upsets can easily produce cynicism or anxiety among everyday voters. However, a faithful response involves several constructive steps:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>
@@ -136,7 +136,7 @@ Seagate Portable External Hard Drive ($59.99)
 
     <div class="ncg-amazon-box" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0 0 5px 0; font-size: 0.9em; color: #666;">Recommended Resource:</p>
-      <p style="margin: 0; font-weight: bold;"><a href="https://www.amazon.com/dp/0802412890?tag=thenewssam-20" target="_blank" rel="noopener sponsored">Discerning the Voice of God by Priscilla Shirer</a> - $16.99</p>
+      <p style="margin: 0; font-weight: bold;"><a href="https://www.amazon.com/dp/0802412890?tag=thenewssam-20" target="_blank" rel="noopener sponsored">Discerning the Voice of God by Priscilla Shirer</a> - </p>
     </div>
 
     <p>By focusing on these principles, citizens can engage in the political process thoughtfully without placing misplaced trust in infallible mortal leaders.</p>
@@ -148,7 +148,7 @@ Seagate Portable External Hard Drive ($59.99)
 
     <div class="ncg-amazon-box" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0 0 5px 0; font-size: 0.9em; color: #666;">Recommended Resource:</p>
-      <p style="margin: 0; font-weight: bold;"><a href="https://www.amazon.com/dp/1535902804?tag=thenewssam-20" target="_blank" rel="noopener sponsored">The Armor of God by Priscilla Shirer</a> - $18.99</p>
+      <p style="margin: 0; font-weight: bold;"><a href="https://www.amazon.com/dp/1535902804?tag=thenewssam-20" target="_blank" rel="noopener sponsored">The Armor of God by Priscilla Shirer</a> - </p>
     </div>
 
     <p class="ncg-source-block">

@@ -24,7 +24,7 @@ source_url: "https://www.nbcnews.com/world/asia/south-korean-president-urges-str
     <p>Following directives from U.S. President Donald Trump to "substantially reduce" joint military exercises, South Korean leadership is recalibrating. President Lee has emphasized that while the U.S. alliance remains the bedrock of security, South Korea must accelerate its own capabilities—including a nuclear-powered submarine program—to ensure stability. The goal, according to the Blue House, is not to escalate tensions but to protect the daily lives of citizens.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -34,14 +34,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>From a health and wellness perspective, national security is more than just military readiness; it is the foundation upon which citizens build their sense of safety. When geopolitical tensions fluctuate, the human nervous system often responds with heightened vigilance. <em>This is general information, not medical advice.</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>Chronic uncertainty can trigger the body’s "fight or flight" response, leading to sustained elevated cortisol levels. For the average citizen, the rhetoric of "worst-case scenarios" can inadvertently contribute to a state of low-grade, persistent anxiety. President Lee’s focus on "protecting citizens' daily lives" is a crucial reframing. By shifting the narrative from external threat to internal capability, the government is essentially advocating for a form of national self-regulation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -53,7 +53,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Just as an individual manages stress through proactive planning, a nation manages its "stress" through clear, transparent policy. When leadership communicates that they are taking responsibility for defense, it can actually serve as a psychological anchor, allowing citizens to focus on their personal health, career, and family life rather than constant geopolitical scanning.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -63,14 +63,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This situation brings to mind the balance between vigilance and trust. In a world of shifting alliances and geopolitical maneuvers, it is natural to feel a sense of unease. Yet, Scripture offers a perspective on maintaining composure amidst the storms of life. Proverbs 3:24-26 (ESV) reminds us: <em>"If you lie down, you will not be afraid; when you lie down, your sleep will be sweet. Do not be afraid of sudden terror or of the ruin of the wicked, when it comes, for the Lord will be your confidence and will keep your foot from being caught."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>This does not suggest that we should ignore reality or abandon sensible precautions. Rather, it invites us to consider that our ultimate security rests not in the maneuvering of earthly powers, but in a deeper, more enduring source of hope. When we feel overwhelmed by the news, we are invited to find a quiet center. Maintaining our own health—mentally, physically, and spiritually—is a form of stewardship, ensuring that we remain steady for our families and neighbors regardless of the headlines.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

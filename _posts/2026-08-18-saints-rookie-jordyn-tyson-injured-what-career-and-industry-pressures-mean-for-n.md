@@ -36,7 +36,7 @@ source_url: ''
 <p>While Tyson has a history of collegiate hamstring concerns at Colorado and Arizona State, head coach Kellen Moore clarified that this incident stemmed from an awkward collision during practice when a player slipped and shoved Tyson from behind. For an organization banking heavily on the dynamic connection between second-year quarterback Tyler Shough, star receiver Chris Olave, and their explosive new rookie, the timing could hardly be worse.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-abshoo College Bookbag ($29.99)
+abshoo College Bookbag 
 </a></p>
 
 </section>
@@ -95,7 +95,7 @@ abshoo College Bookbag ($29.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">KEOFID Classic Backpack</a></div>
-    <div class="product-price">$32.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -103,7 +103,7 @@ abshoo College Bookbag ($29.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Toshiba 5400RPM Hard Drive</a></div>
-    <div class="product-price">$49.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -111,7 +111,7 @@ abshoo College Bookbag ($29.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -119,7 +119,7 @@ abshoo College Bookbag ($29.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">QT-QY Military Tactical Backpack</a></div>
-    <div class="product-price">$34.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -127,7 +127,7 @@ abshoo College Bookbag ($29.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">GAZELLE External Hard Drive</a></div>
-    <div class="product-price">$54.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -135,7 +135,7 @@ abshoo College Bookbag ($29.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -143,7 +143,7 @@ abshoo College Bookbag ($29.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">abshoo College Bookbag</a></div>
-    <div class="product-price">$29.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -151,7 +151,7 @@ abshoo College Bookbag ($29.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Backpack USB Charging Port</a></div>
-    <div class="product-price">$39.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

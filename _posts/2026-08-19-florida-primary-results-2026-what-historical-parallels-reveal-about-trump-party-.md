@@ -38,7 +38,7 @@ source_url: "https://apnews.com/article/florida-primaries-donald-trump-wasserman
 <p>Meanwhile, the state's U.S. Senate primary to fill the remaining two years of Marco Rubio's term yielded a stark ideological contrast. Progressive state Rep. Angie Nixon claimed the Democratic nomination by defeating retired Army Lt. Col. Alex Vindman, setting up a fall showdown with Republican Attorney General Ashley Moody. Down-ballot races also saw dramatic shifts, including longtime Democratic U.S. Rep. Debbie Wasserman Schultz winning her primary in a newly redrawn South Florida district, and Republican U.S. Rep. Cory Mills falling to challenger Ryan Elijah following months of personal controversy.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>For ordinary voters, these results are more than just a tally of intra-party victories; they represent a fundamental stress test of how political identity, party loyalty, and demographic shifts intersect in America's largest swing-state laboratory. To understand where Florida is heading this November, it helps to step back and look at how similar political realigned moments have played out across American history.</p>
@@ -115,7 +115,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -123,7 +123,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

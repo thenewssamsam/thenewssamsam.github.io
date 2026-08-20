@@ -41,13 +41,13 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-r
   <p>The scandals surrounding the campaign immediately shifted the dynamics of a historically safe seat. The nonpartisan Cook Political Report shifted the district from "solid Republican" to "likely Republican," opening the door for a competitive general election where Elijah will face Democratic nominee Bale Dalton, a 24-year Navy veteran and former NASA chief of staff.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
 
 <div class="ncg-amazon-product" style="background: #fdfdfd; border: 1px solid #e5e5e5; border-left: 4px solid #f0ad4e; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
-  <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B073X9G8P7?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Thinking, Fast and Slow by Daniel Kahneman</a> - $14.99. Explore the core cognitive biases that drive decision-making under uncertainty.
+  <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B073X9G8P7?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Thinking, Fast and Slow by Daniel Kahneman</a> - . Explore the core cognitive biases that drive decision-making under uncertainty.
 </div>
 
 <section id="psychology-of-scandal">
@@ -55,14 +55,14 @@ Tactical Waterproof Backpack ($35.99)
   <p>When public figures face severe allegations, the human response divides sharply. On one hand, loyal supporters like Sanford resident Patrick Austin pointed to tangible deliverables: "He delivers for our district... he&apos;s brought a lot of money." This highlights a psychological defense mechanism often tied to loyalty and confirmation bias. When someone likes a candidate&apos;s policy outcomes, the mind actively works to downplay outside criticisms, framing them as partisan noise.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   
   <p>However, Tuesday&apos;s outcome proved that a tipping point exists. For voters like Tiffany Davis, the accumulation of controversy created insurmountable cognitive dissonance—the mental discomfort that results from holding two contradictory beliefs. Davis noted that while she previously viewed Mills as a good representative, his "baggage" made her fear general election defeat. The friction between wanting policy wins and fearing electoral instability pushed many conservative voters toward self-preservation and risk mitigation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -74,13 +74,13 @@ Seagate Portable External Hard Drive ($59.99)
   <p>Human psychology heavily favors loss aversion—the tendency to prefer avoiding losses over acquiring equivalent gains. Voters in the 7th District were forced to weigh the tangible gains of Mills&apos; past legislative efforts against the potential loss of a safe Republican seat to the Democrats. Once the Cook Political Report downgraded the district, the psychological calculus shifted. The fear of losing the seat entirely outweighed the comfort of loyalty.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
 
 <div class="ncg-amazon-product" style="background: #fdfdfd; border: 1px solid #e5e5e5; border-left: 4px solid #f0ad4e; padding: 1rem; margin: 1.5rem 0; border-radius: 4px;">
-  <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B0040JGTAA?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Influence: The Psychology of Persuasion by Robert Cialdini</a> - $12.50. Understand the deep-rooted psychological triggers of commitment, consistency, and social proof in public life.
+  <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B0040JGTAA?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Influence: The Psychology of Persuasion by Robert Cialdini</a> - . Understand the deep-rooted psychological triggers of commitment, consistency, and social proof in public life.
 </div>
 
 <section id="normalcy-bias">
@@ -88,14 +88,14 @@ Tactical Waterproof Backpack ($35.99)
   <p>Another powerful psychological phenomenon at play is normalcy bias—our tendency to underestimate the possibility of disaster or major change because "things have always been fine before." For two terms, Mills&apos; constituents experienced a sense of political normalcy. When allegations surfaced, normalcy bias encouraged many to assume the storm would blow over without altering the status quo.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   
   <p>Yet, primaries serve as sharp reality checks. Challengers like Ryan Elijah effectively leveraged the shifting mood by presenting a clean slate, removing the mental burden of defending an embattled incumbent. In high-stakes political environments, peace of mind becomes a valuable commodity for the electorate.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -105,14 +105,14 @@ Seagate Portable External Hard Drive ($59.99)
   <p>This political drama also invites a deeper moral reflection on the nature of leadership and public trust. Throughout history, societies have wrestled with the tension between visible capability and internal character. Proverbs 22:1 reminds us that "a good name is to be chosen rather than great riches, and favour is better than silver and gold."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   
   <p>When leadership is weighed only by economic deliverables or political output, character can easily be sidelined until crisis strikes. This race reminds us that integrity matters not just as a moral ideal, but as the foundational pillar upon which stable communities and governance ultimately rest. Trust, once fractured, requires more than policy success to repair.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -122,7 +122,7 @@ Tactical Waterproof Backpack ($35.99)
   <p>Electoral outcomes in distant districts might feel removed from daily life, but the psychological lessons apply directly to how we evaluate leaders, organizations, and information sources in our own communities:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   <ul style="line-height: 1.7; margin-bottom: 1.5rem;">

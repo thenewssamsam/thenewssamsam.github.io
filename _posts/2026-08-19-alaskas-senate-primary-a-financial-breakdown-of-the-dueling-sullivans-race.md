@@ -26,39 +26,39 @@ source_url: "https://apnews.com/article/alaska-primary-senate-sullivan-peltola-c
       <p><strong>Financial Insight:</strong> "When voters head to the polls, they aren't just choosing a name; they are choosing between two distinct economic theories: one that prioritizes resource-based revenue growth and one that seeks to curb the influence of concentrated capital in the political process."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
 
-    <p>Consider the broader context: <em>ProCase Premium Document Scanner - $149.99</em> — Keeping your financial records organized is the first step toward understanding the impact of local policy on your personal bottom line.</p>
+    <p>Consider the broader context: <em>ProCase Premium Document Scanner - </em> — Keeping your financial records organized is the first step toward understanding the impact of local policy on your personal bottom line.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <section id="campaign-finance-reform">
     <h2>The Battle Over Campaign Spending</h2>
-    <p>Beyond the individual candidates, the ballot initiative to reimpose campaign contribution limits is perhaps the most significant financial story of the day. The proposal aims to set a $2,000 limit for individual contributions to candidates and a $5,000 cap for political parties. Proponents argue this is essential to prevent wealthy donors from drowning out the voices of ordinary citizens, while opponents contend it restricts free expression and favors established incumbents with high name recognition.</p>
+    <p>Beyond the individual candidates, the ballot initiative to reimpose campaign contribution limits is perhaps the most significant financial story of the day. The proposal aims to set a ,000 limit for individual contributions to candidates and a ,000 cap for political parties. Proponents argue this is essential to prevent wealthy donors from drowning out the voices of ordinary citizens, while opponents contend it restricts free expression and favors established incumbents with high name recognition.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
-    <p><em>Budget-Friendly Home Office Desk - $89.00</em> — For those tracking these legislative changes, having a dedicated space to research policy is essential.</p>
+    <p><em>Budget-Friendly Home Office Desk - </em> — For those tracking these legislative changes, having a dedicated space to research policy is essential.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
-    <p>This debate reflects a growing national trend where the cost of winning a seat has skyrocketed. When spending in state-level races can exceed $100 million, as seen recently in Wisconsin, the question of whether money "buys" policy outcomes becomes a central concern for the economic stability of the electorate.</p>
+    <p>This debate reflects a growing national trend where the cost of winning a seat has skyrocketed. When spending in state-level races can exceed  million, as seen recently in Wisconsin, the question of whether money "buys" policy outcomes becomes a central concern for the economic stability of the electorate.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -68,21 +68,21 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This political maneuvering reminds me of the biblical principle of stewardship. In the Gospel of Luke, we are told, "Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much" (Luke 16:10, NIV). While this passage is often applied to personal finance, it serves as a powerful lens for evaluating public office. We are invited to consider whether our political systems—and the candidates who inhabit them—prioritize the common good or the accumulation of power and influence.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
-    <p><em>Reliable Surge Protector for Electronics - $24.99</em> — Just as we protect our physical assets, we have a responsibility to protect the integrity of our civic institutions.</p>
+    <p><em>Reliable Surge Protector for Electronics - </em> — Just as we protect our physical assets, we have a responsibility to protect the integrity of our civic institutions.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>Another verse to consider is Proverbs 29:2: "When the righteous thrive, the people rejoice; when the wicked rule, the people groan." This serves as a sober reminder that the policies enacted by those in power have real-world consequences for the prosperity and well-being of the entire community.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -95,10 +95,10 @@ Tactical Waterproof Backpack ($35.99)
       <li><strong>Stay Informed on Market Trends:</strong> Regardless of who wins, track how Alaska’s resource-dependent economy responds to federal policy shifts.</li>
     </ul>
     
-    <p><em>Ergonomic Office Chair - $199.00</em> — A comfortable seat is key when you're reviewing long-form policy documents.</p>
+    <p><em>Ergonomic Office Chair - </em> — A comfortable seat is key when you're reviewing long-form policy documents.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

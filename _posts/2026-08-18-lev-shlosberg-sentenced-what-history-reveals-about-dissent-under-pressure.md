@@ -35,7 +35,7 @@ source_url: ''
 <p>Simultaneously, in Moscow, Russia’s Supreme Court upheld a decision to remove the Yabloko party from the ballot for the upcoming parliamentary elections. As the only official political party overtly campaigning on a platform of a ceasefire, diplomacy, and preventing nuclear conflict, Yabloko's total exclusion leaves mainstream Russian politics devoid of any authorized legal opposition to the ongoing military campaign.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 <p>In his final statement before the court, Shlosberg reflected on Russia's trajectory over the past three decades, warning that once the true human toll of the war is fully understood, the nation will shudder. Amnesty International and international observers swiftly condemned the verdict as an arbitrary reprisal for exercising freedom of expression.</p>
@@ -103,7 +103,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -111,7 +111,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

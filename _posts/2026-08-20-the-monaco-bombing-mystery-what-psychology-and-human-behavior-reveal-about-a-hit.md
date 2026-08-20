@@ -55,7 +55,7 @@ p { margin-bottom: 20px; }
 <p>When an unexpected blast shatters the quiet luxury of a Mediterranean sanctuary, the initial shock gives way to a much deeper, more unsettling human question: How does an ordinary person with no violent history transform into the executor of a targeted assassination? The dramatic June 2026 bombing in Monaco targeting Ukrainian millionaire Vadym Yermolaiev and the bizarre subsequent death of the suspect, Anastasiia Berezovska, reads like a psychological thriller. But beneath the sensational headlines lies a troubling look into human desperation, anonymity, and the psychological mechanics of proxy violence.</p>
 
 <div class="ncg-amazon-box">
-Recommendation: <a href="https://www.amazon.com/dp/0316412353?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Psychology of Totalitarianism</a> ($18.99) - A profound exploration of mass psychology, social isolation, and how individuals become detached from ethical norms under societal pressures.
+Recommendation: <a href="https://www.amazon.com/dp/0316412353?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Psychology of Totalitarianism</a>  - A profound exploration of mass psychology, social isolation, and how individuals become detached from ethical norms under societal pressures.
 </div>
 
 <h2 id="what-happened">What Happened in Monaco</h2>
@@ -63,25 +63,25 @@ Recommendation: <a href="https://www.amazon.com/dp/0316412353?tag=thenewssam-20"
 <p>Investigators quickly tracked the suspect across international borders, identifying her as 39-year-old Anastasiia Berezovska—a Ukrainian single mother living as a refugee in Germany who had no prior criminal record. Before authorities could close in for a full interrogation, Berezovska was found dead, buried in a shallow grave near Kyiv just a week after the bombing. For victims like Yermolaiev, who claims to have no enemies or major conflicts, the mystery is as agonizing as the physical recovery.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="ncg-amazon-box">
-Recommendation: <a href="https://www.amazon.com/dp/0143127748?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">So You've Been Publicly Shamed</a> ($16.00) - An insightful look into modern human behavior, digital exposure, and the psychological impacts of societal displacement and anonymity.
+Recommendation: <a href="https://www.amazon.com/dp/0143127748?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">So You've Been Publicly Shamed</a>  - An insightful look into modern human behavior, digital exposure, and the psychological impacts of societal displacement and anonymity.
 </div>
 
 <h2 id="the-psychology-of-proxy">The Psychology of the Proxy Operative</h2>
 <p>From a psychological perspective, Berezovska’s profile presents a fascinating and tragic puzzle. Investigators lean toward the theory that she functioned as a "foot soldier" motivated by financial desperation. Having struggled as a single mother, divorced twice, and navigating the precarious life of a refugee in Germany, she represented a textbook example of extreme vulnerability.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <p>In behavioral science, individuals experiencing chronic financial insecurity, social isolation, and a deep sense of powerlessness are exceptionally susceptible to manipulation by unseen orchestrators. When a person feels invisible to society, the sudden influx of financial promise combined with a distorted sense of purpose can bypass normal ethical restraints. Berezovska’s erratic blend of meticulous planning—such as wearing a disguise and a bucket hat—and glaring errors, like wearing her regular clothes with a prominent snake tattoo on her exposed arm, suggest a novice operating under intense psychological tunnel vision.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -90,50 +90,50 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 
 <div class="ncg-amazon-box">
-Recommendation: <a href="https://www.amazon.com/dp/0062457713?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Choice: Embrace the Possible</a> ($17.00) - A powerful memoir and psychological exploration of trauma, survival, and how human resilience can be tested under extreme duress.
+Recommendation: <a href="https://www.amazon.com/dp/0062457713?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Choice: Embrace the Possible</a>  - A powerful memoir and psychological exploration of trauma, survival, and how human resilience can be tested under extreme duress.
 </div>
 
 <h2 id="normalcy-bias">Normalcy Bias and the Illusion of Safety</h2>
 <p>Another striking element of the Monaco bombing is the stark violation of normalcy bias. Monaco is one of the most heavily surveilled and secure microstates in the world, cultivating a deep psychological sense of absolute safety for its affluent residents. Yermolaiev admitted he never expected conflict because he tried to avoid sharp confrontations.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <p>Normalcy bias is the cognitive tendency for people to underestimate the possibility of disaster even when warning signs exist. When elite security environments are breached by someone hiding in plain sight—a refugee wearing a basic disguise—it shatters the psychological comfort of gated communities and high-end surveillance. It serves as a stark reminder that physical walls cannot protect against targeted human malice.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="ncg-amazon-box">
-Recommendation: <a href="https://www.amazon.com/dp/1400067537?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Drunkard's Walk: How Randomness Rules Our Lives</a> ($16.95) - A fascinating read on how unpredictability, hidden variables, and cognitive biases shape our perception of safety and risk.
+Recommendation: <a href="https://www.amazon.com/dp/1400067537?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Drunkard's Walk: How Randomness Rules Our Lives</a>  - A fascinating read on how unpredictability, hidden variables, and cognitive biases shape our perception of safety and risk.
 </div>
 
 <h2 id="spiritual-reflection">A Reflection on Truth and Hidden Motives</h2>
 <p>Incidents driven by anonymous greed and sudden violence inevitably force us to examine the darker corners of the human heart. Scripture reminds us of the destructive power of hidden motives and the pursuit of dishonest gain: <em>"The getting of treasures by a lying tongue is a vanity tossed to and fro of them that seek death"</em> (Proverbs 21:6). Furthermore, the complex web of secrets and sudden tragedy brings to mind the sobering truth in Luke 8:17: <em>"For nothing is secret that shall not be made manifest; neither anything hid, that shall not be known and come to light."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <p>These reflections invite us to consider how easily human beings can be lured into darkness when integrity is abandoned for temporary gain. While the mastermind behind the Monaco bombing may currently remain hidden behind layers of proxies and international borders, history and moral conscience suggest that hidden truths ultimately surface.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="ncg-amazon-box">
-Recommendation: <a href="https://www.amazon.com/dp/080241270X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Cost of Discipleship</a> ($19.99) - A classic exploration of moral integrity, obedience, and the timeless struggle against worldly corruption.
+Recommendation: <a href="https://www.amazon.com/dp/080241270X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Cost of Discipleship</a>  - A classic exploration of moral integrity, obedience, and the timeless struggle against worldly corruption.
 </div>
 
 <h2 id="reader-response">How Should Readers Respond?</h2>
 <p>While most of us will never find ourselves at the center of an international contract bombing, the psychological dynamics of this case offer practical takeaways for everyday life:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <ul>
@@ -143,7 +143,7 @@ Tactical Waterproof Backpack ($35.99)
 </ul>
 
 <div class="ncg-amazon-box">
-Recommendation: <a href="https://www.amazon.com/dp/0143119257?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Thinking, Fast and Slow</a> ($18.00) - Daniel Kahneman's masterwork on cognitive biases, decision-making, and how human judgment can be clouded under stress.
+Recommendation: <a href="https://www.amazon.com/dp/0143119257?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Thinking, Fast and Slow</a>  - Daniel Kahneman's masterwork on cognitive biases, decision-making, and how human judgment can be clouded under stress.
 </div>
 
 <div class="ncg-closing">

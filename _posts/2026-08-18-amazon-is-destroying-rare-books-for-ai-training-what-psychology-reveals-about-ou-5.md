@@ -126,7 +126,7 @@ source_url: 'https://finance.yahoo.com/technology/ai/articles/amazon-once-online
     <p>The story broke after journalists at 404 Media placed a hidden tracking device inside a rare book, watching as it ultimately made its way to an Amazon facility in Las Vegas designated as VGT3—a building marked with a dinosaur holding a book in its claws. When pressed for comment, Amazon acknowledged in a statement that it purchases books through commercial channels to improve the products and services that customers use.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>Behind this logistical pipeline lies an insatiable modern hunger. Tech companies have already ingested virtually everything available on the open internet to train large language models (LLMs). As the pool of clean human-written text dries up, rare books—out-of-print titles and unique volumes missing from digital databases—have become the new gold for data harvesting.</p>
@@ -191,7 +191,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -199,7 +199,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

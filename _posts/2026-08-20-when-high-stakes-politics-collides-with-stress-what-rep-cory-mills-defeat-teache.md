@@ -40,7 +40,7 @@ source_url: "https://www.foxnews.com/politics/trumps-support-doesnt-save-scandal
 <p>The race had been fiercely contested for months. Representative Nancy Mace of South Carolina had previously led a push for censure, while other high-profile Florida Republicans eventually threw their support behind Elijah. Despite Mills maintaining a comfortable lead in early polls and heavily leaning on his military background and presidential endorsement, the compounding weight of ethics investigations proved too much for voters to overlook.</p>
 
 <div class="hw-product-card" style="background: #fff; border: 1px solid #e0e0e0; border-left: 4px solid #fbc02d; padding: 1rem; margin: 1rem 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-<p style="margin: 0 0 0.5rem 0; font-weight: bold; color: #333;">Recommended Wellness Support: <a href="https://www.amazon.com/dp/B073R5X288?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1a73e8; text-decoration: none;">Natural Calm Magnesium Citrate Anti-Stress Drink</a> ($24.99)</p>
+<p style="margin: 0 0 0.5rem 0; font-weight: bold; color: #333;">Recommended Wellness Support: <a href="https://www.amazon.com/dp/B073R5X288?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1a73e8; text-decoration: none;">Natural Calm Magnesium Citrate Anti-Stress Drink</a> </p>
 <p style="margin: 0; font-size: 0.9rem; color: #666;">Support your daily nervous system health and manage everyday stress with a trusted magnesium supplement.</p>
 </div>
 
@@ -49,31 +49,31 @@ source_url: "https://www.foxnews.com/politics/trumps-support-doesnt-save-scandal
 <p>When individuals are thrust into high-stress environments characterized by public scandal, professional uncertainty, and intense scrutiny, the human body reacts in predictable biological ways. Chronic high cortisol levels, disrupted sleep patterns, and constant hypervigilance can severely impair cognitive function and emotional regulation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>From a general wellness standpoint, the human nervous system is simply not built to withstand sustained periods of public attack and existential professional threat without taking a toll. When leaders downplay stress or attempt to push through mounting personal crises without adequate emotional support or reflection, judgment can become clouded, and personal well-being deteriorates rapidly.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="hw-product-card" style="background: #fff; border: 1px solid #e0e0e0; border-left: 4px solid #fbc02d; padding: 1rem; margin: 1rem 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-<p style="margin: 0 0 0.5rem 0; font-weight: bold; color: #333;">Recommended Mindfulness Tool: <a href="https://www.amazon.com/dp/B07V5W6G8C?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1a73e8; text-decoration: none;">The Five-Minute Journal: A Daily Happiness Planner</a> ($29.99)</p>
+<p style="margin: 0 0 0.5rem 0; font-weight: bold; color: #333;">Recommended Mindfulness Tool: <a href="https://www.amazon.com/dp/B07V5W6G8C?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1a73e8; text-decoration: none;">The Five-Minute Journal: A Daily Happiness Planner</a> </p>
 <p style="margin: 0; font-size: 0.9rem; color: #666;">Cultivate gratitude and emotional clarity even during times of personal or professional turbulence.</p>
 </div>
 
 <p>Furthermore, the phenomenon of watching leaders fall from power under a cloud of controversy serves as a reminder to everyday observers about the importance of boundaries, personal accountability, and mental health maintenance. Stress is contagious, and political polarization can seep into daily conversations, raising collective anxiety levels for regular citizens who follow the news cycle closely.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="hw-product-card" style="background: #fff; border: 1px solid #e0e0e0; border-left: 4px solid #fbc02d; padding: 1rem; margin: 1rem 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-<p style="margin: 0 0 0.5rem 0; font-weight: bold; color: #333;">Recommended Sleep Aid: <a href="https://www.amazon.com/dp/B000BD0RT0?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1a73e8; text-decoration: none;">Weighted Blanket for Adults (15 lbs)</a> ($45.99)</p>
+<p style="margin: 0 0 0.5rem 0; font-weight: bold; color: #333;">Recommended Sleep Aid: <a href="https://www.amazon.com/dp/B000BD0RT0?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1a73e8; text-decoration: none;">Weighted Blanket for Adults (15 lbs)</a> </p>
 <p style="margin: 0; font-size: 0.9rem; color: #666;">Promote deep relaxation and better sleep quality when managing high-stress days.</p>
 </div>
 
@@ -82,7 +82,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>When I read about public failures and the sudden shifting of political tides, I am reminded of how fragile human prestige truly is. Scripture offers a grounding perspective on integrity and humility:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -93,12 +93,12 @@ Tactical Waterproof Backpack ($35.99)
 <p>This verse makes me think about how essential it is to ground our self-worth in character rather than worldly status or political power, which can vanish overnight.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="hw-product-card" style="background: #fff; border: 1px solid #e0e0e0; border-left: 4px solid #fbc02d; padding: 1rem; margin: 1rem 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-<p style="margin: 0 0 0.5rem 0; font-weight: bold; color: #333;">Recommended Reading: <a href="https://www.amazon.com/dp/1400201829?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1a73e8; text-decoration: none;">The Ruthless Elimination of Hurry by John Mark Comer</a> ($15.99)</p>
+<p style="margin: 0 0 0.5rem 0; font-weight: bold; color: #333;">Recommended Reading: <a href="https://www.amazon.com/dp/1400201829?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1a73e8; text-decoration: none;">The Ruthless Elimination of Hurry by John Mark Comer</a> </p>
 <p style="margin: 0; font-size: 0.9rem; color: #666;">Learn how to stay emotionally healthy and spiritually grounded in a fast-paced, high-pressure world.</p>
 </div>
 
@@ -107,7 +107,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>While you may not be running for Congress, heavy stress and ethical challenges can appear in any workplace or family setting. Here are a few practical ways to protect your well-being when navigating turbulent environments:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -118,7 +118,7 @@ Tactical Waterproof Backpack ($35.99)
 </ul>
 
 <div class="hw-product-card" style="background: #fff; border: 1px solid #e0e0e0; border-left: 4px solid #fbc02d; padding: 1rem; margin: 1rem 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-<p style="margin: 0 0 0.5rem 0; font-weight: bold; color: #333;">Recommended Aromatherapy: <a href="https://www.amazon.com/dp/B07V2WK85J?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1a73e8; text-decoration: none;">Essential Oil Diffuser and Top 8 Oils Set</a> ($32.99)</p>
+<p style="margin: 0 0 0.5rem 0; font-weight: bold; color: #333;">Recommended Aromatherapy: <a href="https://www.amazon.com/dp/B07V2WK85J?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1a73e8; text-decoration: none;">Essential Oil Diffuser and Top 8 Oils Set</a> </p>
 <p style="margin: 0; font-size: 0.9rem; color: #666;">Create a calming environment at home to help decompress after consuming stressful news cycles.</p>
 </div>
 
@@ -129,7 +129,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>Political headlines will always cycle through triumphs and unexpected falls, reminding us that power and position are fleeting. True wellness begins when we cultivate inner peace, guard our integrity, and remember that our worth is never defined by our public status. True resilience is found in quiet authenticity, not in the endless defense of an image.</p>
 
 <div class="hw-product-card" style="background: #fff; border: 1px solid #e0e0e0; border-left: 4px solid #fbc02d; padding: 1rem; margin: 1rem 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-<p style="margin: 0 0 0.5rem 0; font-weight: bold; color: #333;">Recommended Tea Set: <a href="https://www.amazon.com/dp/B07R98V33V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1a73e8; text-decoration: none;">Organic Herbal Chamomile Tea Bags for Relaxation</a> ($12.99)</p>
+<p style="margin: 0 0 0.5rem 0; font-weight: bold; color: #333;">Recommended Tea Set: <a href="https://www.amazon.com/dp/B07R98V33V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1a73e8; text-decoration: none;">Organic Herbal Chamomile Tea Bags for Relaxation</a> </p>
 <p style="margin: 0; font-size: 0.9rem; color: #666;">Unwind in the evening with a soothing cup of herbal tea to encourage peaceful rest.</p>
 </div>
 

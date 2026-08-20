@@ -95,21 +95,21 @@ source_url: "https://www.newschannel5.com/news/kilmar-abrego-garcia-faces-dual-l
 <p>According to the initial report from NewsChannel 5, Kilmar Abrego Garcia was accused of smuggling immigrants into the United States illegally following a November 2022 traffic stop in Tennessee. What might have remained a standard federal prosecution quickly evolved into a much larger procedural conflict.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>In May, a lower court judge dismissed the case entirely. The judge ruled that federal prosecutors acted vindictively and retaliated against Abrego Garcia after he was wrongfully deported to El Salvador the previous year. Instead of letting the dismissal stand, the government appealed, arguing that the judge overstepped judicial boundaries by attempting to psychoanalyze or guess prosecutors' motivations.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Meanwhile, Abrego Garcia's defense team has pushed back firmly against the appeal, insisting that White House pressure pushed the prosecution forward after their client won a significant legal victory before the Supreme Court.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -117,14 +117,14 @@ Seagate Portable External Hard Drive ($59.99)
 <p>The legal pressure is not confined to Tennessee. Abrego Garcia is simultaneously fighting a separate legal battle in Maryland federal court. In that proceeding, Immigration and Customs Enforcement (ICE) has expressed a desire to deport him to Liberia, though a federal judge has currently blocked that move.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>This dual-front legal struggle illustrates how immigration enforcement, criminal prosecution, and constitutional checks and balances frequently intersect. When individuals become the focus of overlapping federal jurisdictions and competing agency priorities, the traditional boundaries of due process are tested in real time.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -132,14 +132,14 @@ Tactical Waterproof Backpack ($35.99)
 <p>From a legal rights perspective, the core issue in the Tennessee appeal centers on the delicate balance between prosecutorial discretion and judicial oversight. Federal prosecutors possess broad authority to decide which charges to bring and when to pursue them. However, that authority is not absolute; it is bounded by the Fifth Amendment's guarantee of due process.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>When a defense team alleges vindictive prosecution, they must clear a remarkably high legal hurdle. Courts typically grant prosecutors wide latitude, assuming their decisions are based on proper law enforcement priorities unless clear evidence demonstrates actual retaliation or bad faith.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -150,7 +150,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>The lower court judge's initial decision to dismiss the case was rooted in the finding that the prosecution crossed that constitutional line following the wrongful deportation incident. The DOJ's appeal now asks an appellate panel to re-examine whether the lower court overstepped its role by second-guessing executive branch decisions.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -162,14 +162,14 @@ Tactical Waterproof Backpack ($35.99)
 <p>When complex legal battles unfold across multiple states and federal agencies, it is easy to view the individuals involved merely as data points in an abstract administrative process. Yet every courtroom proceeding touches upon fundamental questions of human dignity and accountability. The pursuit of justice requires integrity not only from those accused of breaking the law, but equally from the institutions entrusted with enforcing it.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>This reality brings to mind timeless principles found in Scripture regarding fairness and honesty. Proverbs 21:15 reminds us, "When justice is done, it brings joy to the righteous but terror to evildoers." At the same time, Proverbs 31:8–9 urges leaders to "speak up for those who have no voice, for the justice of all who are dispossessed." These passages invite us to consider that true justice is never arbitrary; it demands transparent integrity, steady impartiality, and a profound respect for truth—whether in a local traffic stop or the highest federal appeals court.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 

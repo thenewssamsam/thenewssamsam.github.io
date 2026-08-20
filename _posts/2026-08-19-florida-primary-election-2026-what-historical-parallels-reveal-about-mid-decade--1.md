@@ -23,7 +23,7 @@ source_url: "https://abcnews.com/Politics/florida-holds-1st-major-primaries-afte
     <p>Meanwhile, the Republican side features its own internal battles. Rep. Cory Mills faces a tough primary challenge in the 7th Congressional District from Ryan Elijah, backed by fellow House Republicans Anna Paulina Luna and Mike Haridopolos, even as Mills retains the backing of President Donald Trump. At the top of the ticket, U.S. Rep. Byron Donalds stands as the front-runner in the GOP gubernatorial primary, buoyed by major fundraising and a presidential endorsement as term-limited Gov. Ron DeSantis prepares to step down. If Donalds wins in November, he would make history as Florida's first Black governor.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
   </section>
@@ -98,7 +98,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -106,7 +106,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

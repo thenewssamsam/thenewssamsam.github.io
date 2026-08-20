@@ -49,7 +49,7 @@ source_url: "https://www.foxnews.com/opinion/morning-glory-scotus-should-urgentl
 <p>From a strict economic and financial perspective, halting large-scale construction mid-stream introduces profound inefficiencies. Large federal infrastructure and renovation projects operate on tightly calculated capital budgets, labor schedules, and supply chain commitments. When a court order abruptly freezes a construction site, several costly economic mechanisms immediately kick in:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -62,19 +62,19 @@ Tactical Waterproof Backpack ($35.99)
 <p>In the context of public finance, administrative delays are essentially a tax on efficiency. Whether building a civilian highway or upgrading executive command facilities, uncertainty drives up the ultimate cost borne by taxpayers.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <div class="ncg-amazon-box" style="border-left: 4px solid #f0ad4e; background: #fdf8f2; padding: 15px; margin: 20px 0; border-radius: 4px;">
-<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B073R5W769?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Thinking, Fast and Slow</a> by Daniel Kahneman — Gain a deeper understanding of how economic decision-making and cognitive biases shape large-scale project planning and risk assessment. ($16.99)
+<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B073R5W769?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Thinking, Fast and Slow</a> by Daniel Kahneman — Gain a deeper understanding of how economic decision-making and cognitive biases shape large-scale project planning and risk assessment. 
 </div>
 
 <div class="ncg-quote-box">
 <p>"In large-scale public infrastructure, legal delay is not a pause button; it is an active financial drain that multiplies overhead and exposes taxpayers to compounding administrative costs."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </div>
@@ -85,19 +85,19 @@ Tactical Waterproof Backpack ($35.99)
 <p>Proponents of the White House expansion emphasize that the debate is fundamentally about national security economics. In modern risk management, delaying necessary defensive infrastructure is often more expensive than building it. As threat matrices evolve to include sophisticated aerial surveillance, drone swarms, and hypersonic capabilities, maintaining outdated command-and-control centers introduces catastrophic tail risk.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Economists and security analysts evaluate defense expenditures not merely as sunk costs, but as risk-mitigation insurance. If an outdated facility fails to protect executive command structures during a major crisis, the resulting economic and societal fallout would dwarf the baseline construction budget. Ensuring that the Commander-in-Chief has secure, modern facilities is a foundational prerequisite for macroeconomic stability both domestically and globally.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <div class="ncg-amazon-box" style="border-left: 4px solid #f0ad4e; background: #fdf8f2; padding: 15px; margin: 20px 0; border-radius: 4px;">
-<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B004Z07Z92?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Black Swan: The Impact of the Highly Improbable</a> by Nassim Nicholas Taleb — Explore how society and institutions prepare for rare, high-impact security and economic events. ($14.99)
+<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B004Z07Z92?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Black Swan: The Impact of the Highly Improbable</a> by Nassim Nicholas Taleb — Explore how society and institutions prepare for rare, high-impact security and economic events. 
 </div>
 </section>
 
@@ -106,21 +106,21 @@ Tactical Waterproof Backpack ($35.99)
 <p>When evaluating how societies allocate resources to protect their leaders and institutions, wisdom and prudent stewardship are paramount. Throughout history, leaders have been tasked with safeguarding the communities under their care against unforeseen dangers.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Proverbs 27:12 reminds us: <em>"The prudent see danger and take refuge, but the simple keep going and pay the penalty."</em> Similarly, Luke 14:28 asks: <em>"Suppose one of you wants to build a tower. Won't you first sit down and estimate the cost to see if you have enough money to complete it?"</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>These principles invite us to consider that true stewardship involves looking ahead, recognizing genuine threats, and making responsible provisions for safety and security before crises materialize. Balancing respect for historical preservation with the urgent duty of practical protection requires both discernment and common sense.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -130,7 +130,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>While individual citizens do not directly vote on executive branch architectural designs, understanding the economics of public project delays helps frame broader conversations about governance and efficiency:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <ul>
@@ -145,7 +145,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Infrastructure is ultimately about preparation. When legal roadblocks prevent the modernization of essential security facilities, the true cost is measured not just in court filings, but in delayed protection and wasted public resources. Restoring common sense to administrative oversight ensures that our public institutions remain both responsible stewards of history and secure fortresses for the future.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <p><em>Prudence is the roadmap where foresight meets effective action.</em></p>

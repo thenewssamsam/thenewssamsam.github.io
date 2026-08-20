@@ -44,14 +44,14 @@ source_url: "https://www.cnn.com/2026/08/18/politics/live-news/florida-primary-e
     <p>Amidst these major results, other congressional contests captured national attention, including Rep. Cory Mills losing his GOP primary in Florida's 7th District following previous scrutiny, and Rep. Debbie Wasserman Schultz securing her nomination in the redrawn 20th District. With so much data moving fast, rumors and misconceptions inevitably begin to circulate online.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
 <div style="background: #fffbeb; border-left: 4px solid #d97706; padding: 16px; margin: 24px 0; border-radius: 0 8px 8px 0;">
   <p style="font-weight: bold; margin-bottom: 4px; color: #b45309;">Recommended Resource:</p>
-  <p style="margin: 0; color: #78350f;"><strong><a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Echo Dot (5th Gen) Smart Speaker</a></strong> - Stay updated with live election news broadcasts and podcasts. ($49.99)</p>
+  <p style="margin: 0; color: #78350f;"><strong><a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Echo Dot (5th Gen) Smart Speaker</a></strong> - Stay updated with live election news broadcasts and podcasts. </p>
 </div>
 
   <section id="myth-vs-fact" style="margin-bottom: 32px;">
@@ -59,7 +59,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Whenever high-stakes primaries conclude, viral social media posts often distort the underlying reality of vote totals and candidate positions. Let's break down some common assertions from this election cycle using certified reporting.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -67,32 +67,32 @@ Tactical Waterproof Backpack ($35.99)
     <p><strong>The Claim:</strong> Many online commentators treat primary election results as an absolute indicator of the upcoming November balance of power.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p><strong>The Fact:</strong> Primaries determine party nominees, not final officeholders. While primary outcomes highlight internal party shifts—such as Angie Nixon's victory or Byron Donalds' projected GOP gubernatorial nomination—the general election in November brings an entirely different electorate into play, including independent and moderate voters who do not participate in closed or partisan primary rounds.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <div style="background: #fffbeb; border-left: 4px solid #d97706; padding: 16px; margin: 24px 0; border-radius: 0 8px 8px 0;">
   <p style="font-weight: bold; margin-bottom: 4px; color: #b45309;">Recommended Resource:</p>
-  <p style="margin: 0; color: #78350f;"><strong><a href="https://www.amazon.com/dp/B09B8W4K5P?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Kindle Paperwhite (16 GB)</a></strong> - Read in-depth political biographies and campaign histories without glare. ($149.99)</p>
+  <p style="margin: 0; color: #78350f;"><strong><a href="https://www.amazon.com/dp/B09B8W4K5P?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Kindle Paperwhite (16 GB)</a></strong> - Read in-depth political biographies and campaign histories without glare. </p>
 </div>
 
     <h3 style="font-size: 1.2rem; font-weight: 600; color: #2d3748; margin-top: 20px;">Myth 2: Endorsements Guarantee Immediate Victory</h3>
     <p><strong>The Claim:</strong> High-profile national endorsements alone dictate the outcome of state-level primaries across the country.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p><strong>The Fact:</strong> While endorsements carry significant weight and media attention, primary results from Florida and Wyoming demonstrate that local campaigning, grassroots appeal, and specific regional issues still heavily influence voters. For instance, Wyoming's gubernatorial primary saw State Sen. Eric Barlow defeat a nationally endorsed candidate, proving that local legislative track records often resonate deeply with voters.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -102,28 +102,28 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Elections often stir up intense passions, anxieties, and debates about justice, leadership, and the future of our communities. When we find ourselves swept up in the endless cycle of political news and contested claims, it is worth pausing to consider the timeless wisdom found in Scripture regarding truth and integrity.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>Proverbs 12:22 reminds us that <em>"lying lips are an abomination to the Lord, but those who act faithfully are his delight."</em> In a modern media landscape filled with spin, unverified rumors, and polarized exaggerations, this verse invites us to seek out honest reporting and value truth above partisan victory.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>Furthermore, Colossians 3:12 encourages us to clothe ourselves with compassion, kindness, humility, gentleness, and patience. Whether discussing primary election results around the dinner table or evaluating candidates online, remembering these virtues helps ground our civic engagement in mutual respect rather than division.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
 <div style="background: #fffbeb; border-left: 4px solid #d97706; padding: 16px; margin: 24px 0; border-radius: 0 8px 8px 0;">
   <p style="font-weight: bold; margin-bottom: 4px; color: #b45309;">Recommended Resource:</p>
-  <p style="margin: 0; color: #78350f;"><strong><a href="https://www.amazon.com/dp/B07FZ8S74R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Echo Show 8 (3rd Gen)</a></strong> - Keep track of daily news briefings and live election updates effortlessly. ($149.99)</p>
+  <p style="margin: 0; color: #78350f;"><strong><a href="https://www.amazon.com/dp/B07FZ8S74R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Echo Show 8 (3rd Gen)</a></strong> - Keep track of daily news briefings and live election updates effortlessly. </p>
 </div>
 
   <section id="how-readers-respond" style="margin-bottom: 32px;">
@@ -131,7 +131,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Navigating election season requires intentional habits to ensure we stay informed without falling victim to misinformation. Here are three practical steps you can take:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <ul style="padding-left: 20px; color: #4a5568;">
@@ -143,7 +143,7 @@ Tactical Waterproof Backpack ($35.99)
 
 <div style="background: #fffbeb; border-left: 4px solid #d97706; padding: 16px; margin: 24px 0; border-radius: 0 8px 8px 0;">
   <p style="font-weight: bold; margin-bottom: 4px; color: #b45309;">Recommended Resource:</p>
-  <p style="margin: 0; color: #78350f;"><strong><a href="https://www.amazon.com/dp/B09JQMJH2M?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Apple AirPods Pro (2nd Generation)</a></strong> - Listen to your favorite news podcasts and election analysis with crystal-clear audio. ($249.00)</p>
+  <p style="margin: 0; color: #78350f;"><strong><a href="https://www.amazon.com/dp/B09JQMJH2M?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Apple AirPods Pro (2nd Generation)</a></strong> - Listen to your favorite news podcasts and election analysis with crystal-clear audio. </p>
 </div>
 
   <section id="conclusion" style="margin-bottom: 32px;">

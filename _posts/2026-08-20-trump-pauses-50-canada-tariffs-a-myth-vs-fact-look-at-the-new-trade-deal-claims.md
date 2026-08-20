@@ -31,7 +31,7 @@ source_url: "https://www.cnn.com/2026/08/18/economy/canada-tariffs-trump"
 
 <section id="what-happened">
 <h2>What Happened: The 11th-Hour Tariff Pause</h2>
-<p>President Donald Trump late Tuesday postponed his threatened 50% tariff on roughly $20 billion worth of Canadian imports just hours before it was set to take effect at midnight. Speaking from the White House lawn on Wednesday, Trump announced that the two sides had reached a tentative deal following conversations with Canadian Prime Minister Mark Carney. While documents have not yet been fully finalized, the three-day postponement pushes the new deadline to August 21, giving negotiators a brief window to hammer out the details.</p>
+<p>President Donald Trump late Tuesday postponed his threatened 50% tariff on roughly  billion worth of Canadian imports just hours before it was set to take effect at midnight. Speaking from the White House lawn on Wednesday, Trump announced that the two sides had reached a tentative deal following conversations with Canadian Prime Minister Mark Carney. While documents have not yet been fully finalized, the three-day postponement pushes the new deadline to August 21, giving negotiators a brief window to hammer out the details.</p>
 
 <p>The proposed duties would have impacted a wide array of Canadian goods, including dairy, alcohol, furniture, industrial equipment, and plastics. Unlike previous trade actions that offered exemptions for goods compliant with the United States-Mexico-Canada Agreement (USMCA), these tariffs were slated to bypass those protections entirely by relying on an obscure, rarely used 1930s statute known as Section 338. As markets and families react to the sudden reprieve, separating political rhetoric from verifiable economic reality is essential to understanding what comes next.</p>
 </section>
@@ -45,7 +45,7 @@ source_url: "https://www.cnn.com/2026/08/18/economy/canada-tariffs-trump"
 <p>Whenever major trade announcements break, rumors, misunderstandings, and sweeping claims quickly flood headlines. Let's look at what the official reports and legal frameworks actually tell us by separating common myths from verifiable facts.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -68,7 +68,7 @@ Seagate Portable External Hard Drive ($59.99)
 </section>
 
 <div style="background: #fffbeb; border-left: 4px solid #f59e0b; padding: 14px; margin: 20px 0; border-radius: 4px;">
-<p style="margin: 0; font-size: 0.95em;"><strong>Featured Resource:</strong> Stay informed on shifting economic landscapes and personal finance management with <a href="https://www.amazon.com/dp/0399563822?tag=thenewssam-20" target="_blank" rel="noopener">The Intelligent Investor by Benjamin Graham</a> ($24.99) — a timeless guide to navigating market volatility and economic uncertainty.</p>
+<p style="margin: 0; font-size: 0.95em;"><strong>Featured Resource:</strong> Stay informed on shifting economic landscapes and personal finance management with <a href="https://www.amazon.com/dp/0399563822?tag=thenewssam-20" target="_blank" rel="noopener">The Intelligent Investor by Benjamin Graham</a>  — a timeless guide to navigating market volatility and economic uncertainty.</p>
 </div>
 
 <section id="spiritual-perspective">
@@ -76,27 +76,27 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Uncertainties in global markets and high-stakes political negotiations often leave ordinary people feeling anxious about their livelihoods and futures. When leaders negotiate under immense pressure, rumors and shifting deadlines can easily breed fear and confusion.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Proverbs 12:19 reminds us that <q>truthful lips endure forever, but a lying tongue lasts only a moment.</q> In times of economic tension, this verse invites us to value clarity, honesty, and steady patience over reactionary panic. Similarly, Proverbs 13:11 offers practical wisdom for both individuals and nations: <q>Wealth gained hastily will dwindle, but whoever gathers little by little will increase it.</q></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Reflecting on these timeless principles helps anchor our peace. Economic policies will always fluctuate, but cultivating integrity, patience, and community support guards our hearts against the turbulence of the daily news cycle.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
 
 <div style="background: #fdf2f8; border-left: 4px solid #db2777; padding: 14px; margin: 20px 0; border-radius: 4px;">
-<p style="margin: 0; font-size: 0.95em;"><strong>Family Finance Pick:</strong> Keep household budgeting organized during unpredictable economic times with the <a href="https://www.amazon.com/dp/B07V3K8C5X?tag=thenewssam-20" target="_blank" rel="noopener">Clever Fox Budget Planner</a> ($19.99) — designed to track expenses, savings goals, and monthly financial health.</p>
+<p style="margin: 0; font-size: 0.95em;"><strong>Family Finance Pick:</strong> Keep household budgeting organized during unpredictable economic times with the <a href="https://www.amazon.com/dp/B07V3K8C5X?tag=thenewssam-20" target="_blank" rel="noopener">Clever Fox Budget Planner</a>  — designed to track expenses, savings goals, and monthly financial health.</p>
 </div>
 
 <section id="reader-response">
@@ -109,7 +109,7 @@ Tactical Waterproof Backpack ($35.99)
 </section>
 
 <div style="background: #f0fdf4; border-left: 4px solid #16a34a; padding: 14px; margin: 20px 0; border-radius: 4px;">
-<p style="margin: 0; font-size: 0.9em;"><strong>Productivity & Organization:</strong> Maintain calm and clear focus while monitoring breaking news with the <a href="https://www.amazon.com/dp/B07M9W498W?tag=thenewssam-20" target="_blank" rel="noopener">Moleskine Classic Notebook</a> ($21.95) — perfect for jotting down key facts and action items.</p>
+<p style="margin: 0; font-size: 0.9em;"><strong>Productivity & Organization:</strong> Maintain calm and clear focus while monitoring breaking news with the <a href="https://www.amazon.com/dp/B07M9W498W?tag=thenewssam-20" target="_blank" rel="noopener">Moleskine Classic Notebook</a>  — perfect for jotting down key facts and action items.</p>
 </div>
 
 <section id="closing-thoughts">

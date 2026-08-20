@@ -24,22 +24,22 @@ source_url: "https://www.foxnews.com/us/penn-state-cocaine-bust-nets-14-arrests-
     <p>Investigators allege that two primary ringleaders, Agostino Abbatiello and Thomas Robinson, orchestrated a drug-trafficking operation involving students and two off-campus fraternities: Delta Upsilon and Sigma Chi. The operation reportedly included the "cutting" and packaging of cocaine within fraternity houses. Perhaps most disturbing is the claim that these activities were used as a form of "indoctrination" for fraternity pledges.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>The university has placed Delta Upsilon on interim suspension, while noting that the Sigma Chi chapter involved is not a recognized organization. For students and parents, this news serves as a stark reminder of the hidden dangers that can permeate campus social structures.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
 
   <div class="ncg-product-box" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Support Student Wellness:</strong> <a href="https://www.amazon.com/dp/B08J4LTPTB" target="_blank" rel="noopener noreferrer">Stress Relief Journal for Students - $12.99</a></p>
+    <p><strong>Support Student Wellness:</strong> <a href="https://www.amazon.com/dp/B08J4LTPTB" target="_blank" rel="noopener noreferrer">Stress Relief Journal for Students - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>
@@ -49,7 +49,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>From a health and wellness perspective, the inclusion of drug-related activities in "indoctrination" rituals is a profound failure of student safety. When substance use is framed as a requirement for social belonging, it creates a toxic environment that bypasses rational decision-making and exacerbates risks for young adults.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -61,16 +61,16 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The pressure to conform—even when that conformity involves illegal and life-altering behavior—is a well-documented psychological phenomenon. In a college environment, the desire for acceptance can override personal health boundaries. When students are exposed to illicit substances as part of a "ritual," the perceived social cost of saying "no" becomes significantly higher.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <div class="ncg-product-box" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Promote Healthy Habits:</strong> <a href="https://www.amazon.com/dp/B07V7H7G8K" target="_blank" rel="noopener noreferrer">Insulated Stainless Steel Water Bottle - $18.95</a></p>
+    <p><strong>Promote Healthy Habits:</strong> <a href="https://www.amazon.com/dp/B07V7H7G8K" target="_blank" rel="noopener noreferrer">Insulated Stainless Steel Water Bottle - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>
@@ -80,13 +80,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This situation invites us to consider the importance of protecting the body and mind, which are often described in Scripture as temples of the spirit. 1 Corinthians 6:19-20 reminds us, "Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; you were bought at a price. Therefore honor God with your bodies."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>When we see young people coerced into activities that destroy their health and future, it serves as a painful reminder of the fragility of youth and the need for communities that value dignity over conformity. Proverbs 4:23 also encourages us: "Above all else, guard your heart, for everything you do flows from it." By choosing environments that prioritize physical and mental health, students can better protect their futures and their well-being.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -101,10 +101,10 @@ Tactical Waterproof Backpack ($35.99)
   </section>
 
   <div class="ncg-product-box" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Stay Organized:</strong> <a href="https://www.amazon.com/dp/B08P1X6H2Y" target="_blank" rel="noopener noreferrer">2024-2025 Academic Planner - $15.50</a></p>
+    <p><strong>Stay Organized:</strong> <a href="https://www.amazon.com/dp/B08P1X6H2Y" target="_blank" rel="noopener noreferrer">2024-2025 Academic Planner - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>

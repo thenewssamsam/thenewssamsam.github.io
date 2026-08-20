@@ -33,26 +33,26 @@ source_url: "https://www.cbsnews.com/pittsburgh/news/penn-state-drug-fraternity-
     <p>According to official statements released by the Pennsylvania Office of Attorney General, the operation was structured with alarming organizational efficiency. Cocaine was brought into the Delta Upsilon and Sigma Chi fraternity houses, where university pledges were allegedly tasked with cutting and packaging the narcotics. From there, the illicit substances were distributed primarily to other students across the campus.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>The dragnet tightened dramatically when authorities filed charges against fourteen individuals. While thirteen were students or young adults involved in the daily mechanics of the ring—including alleged ringleaders Thomas Robinson and Agostino Abbatiello, who surrendered to authorities—Paul Robinson's inclusion as the sole nonstudent stunned observers. Investigators claim that the elder Robinson stepped outside his role as an officer of the court to actively conceal evidence, specifically a safe packed with drugs and cash.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div style="background-color: #fffbf0; border-left: 4px solid #d97706; padding: 15px; margin: 20px 0; border-radius: 4px;" class="ncg-product-rec">
       <p style="margin: 0 0 5px 0; font-weight: bold; color: #92400e;">Recommended Resource for Local Leaders:</p>
-      <p style="margin: 0; font-size: 0.95srem;"><a href="https://www.amazon.com/dp/B08N5K7S33?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1d4ed8; text-decoration: none; font-weight: 500;">Community Leadership and Ethics in Crisis Management Guide</a> - $24.99 | Essential reading for understanding systemic institutional accountability.</p>
+      <p style="margin: 0; font-size: 0.95srem;"><a href="https://www.amazon.com/dp/B08N5K7S33?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1d4ed8; text-decoration: none; font-weight: 500;">Community Leadership and Ethics in Crisis Management Guide</a> -  | Essential reading for understanding systemic institutional accountability.</p>
     </div>
 
     <p>For Thomas Robinson, this current legal jeopardy compounds an already troubled record. Court records show he was already facing an open case out of Centre County originating in December 2024, where he was charged with multiple felony and misdemeanor counts related to possession and distribution of controlled substances. Meanwhile, university officials confirmed through spokespersons that Thomas Robinson was last enrolled at Penn State in the spring of 2025.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -63,14 +63,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>Every major crime story has a geography, and this one splits its emotional and professional weight sharply between two distinct Pennsylvania settings. In State College, parents, university administrators, and student safety advocates are once again forced to reckon with the darker side of fraternity culture. Greek organizations are intended to foster brotherhood, leadership, and academic support; instead, when subverted by large-scale drug trafficking, they transform into corporate-style criminal enterprises operating under the institutional shield of a prestigious university.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>Simultaneously, the fallout hits hard in Pittsburgh. Paul Robinson is a managing attorney at Meyer, Darragh, Buckler, Bebenek, and Eck, P.L.L.C., a respected regional law firm. The firm moved swiftly to distance itself from the criminal allegations, issuing a clear statement to local media:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -81,13 +81,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>For local colleagues and clients in Pittsburgh, the psychological distance between a routine corporate legal defense practice and an alleged felony evidence-hiding conspiracy feels vast, yet it underscores a sobering reality: high-stress professional environments and family pressures can sometimes collide in catastrophic ways when parents attempt to shield adult children from the consequences of severe criminal behavior.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div style="background-color: #fffbf0; border-left: 4px solid #d97706; padding: 15px; margin: 20px 0; border-radius: 4px;" class="ncg-product-rec">
       <p style="margin: 0 0 5px 0; font-weight: bold; color: #92400e;">Professional Support Tool:</p>
-      <p style="margin: 0; font-size: 0.95rem;"><a href="https://www.amazon.com/dp/B07PGL2Z1H?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1d4ed8; text-decoration: none; font-weight: 500;">Professional Ethics and Legal Compliance Handbook</a> - $34.50 | Comprehensive analysis of legal ethics and officer-of-the-court standards.</p>
+      <p style="margin: 0; font-size: 0.95rem;"><a href="https://www.amazon.com/dp/B07PGL2Z1H?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1d4ed8; text-decoration: none; font-weight: 500;">Professional Ethics and Legal Compliance Handbook</a> -  | Comprehensive analysis of legal ethics and officer-of-the-court standards.</p>
     </div>
   </section>
 
@@ -97,14 +97,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>Headlines detailing arrests, hidden safes, and broken family structures inevitably prompt deeper reflection on human choices and moral accountability. When families face crises born of poor decisions, the temptation to cover up wrongdoing rather than face the truth is a deeply human, albeit destructive, instinct.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <p>Scripture speaks directly to the heavy burden of trying to conceal darkness rather than walking in the light. Proverbs 28:13 reminds us, <q style="font-style: italic;">&ldquo;Whoever conceals their sins does not prosper, but the one who confesses and renounces them finds mercy.&rdquo;</q> This ancient wisdom cuts straight to the heart of what local communities witness when legal maneuvers replace honest reckoning.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -124,7 +124,7 @@ Seagate Portable External Hard Drive ($59.99)
 
     <div style="background-color: #fffbf0; border-left: 4px solid #d97706; padding: 15px; margin: 20px 0; border-radius: 4px;" class="ncg-product-rec">
       <p style="margin: 0 0 5px 0; font-weight: bold; color: #92400e;">Family Communication Tool:</p>
-      <p style="margin: 0; font-size: 0.95rem;"><a href="https://www.amazon.com/dp/B084W8X79K?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1d4ed8; text-decoration: none; font-weight: 500;">Parenting College Students: Communication & Boundaries Workbook</a> - $18.99 | Practical guidance for maintaining healthy boundaries and open trust with young adults.</p>
+      <p style="margin: 0; font-size: 0.95rem;"><a href="https://www.amazon.com/dp/B084W8X79K?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #1d4ed8; text-decoration: none; font-weight: 500;">Parenting College Students: Communication & Boundaries Workbook</a> -  | Practical guidance for maintaining healthy boundaries and open trust with young adults.</p>
     </div>
   </section>
 

@@ -117,7 +117,7 @@ source_url: "https://www.kcra.com/article/trump-iran-war-nuclear-end/73461499"
     <h2 class="hp-h2" id="what-happened">What Happened?</h2>
     <p class="hp-p">The 60-day memorandum of understanding designed to forge a permanent end to the war in Iran expired on Monday with no extension in sight. Negotiations have largely stalled as the conflict approaches its sixth month. When asked in the Oval Office by Hearst Television Washington Correspondent Jackie DeFusco whether the administration is any closer to concluding Iran's nuclear program than it was two months ago, President Donald Trump brushed aside the missed target.</p>
     <p class="hp-p">"Well, they want to make a deal, but they're not gonna make the kind of deal I feel is necessary. Look, we're in there for one reason, Iran cannot have a nuclear weapon," Trump responded.</p>
-    <p class="hp-p">Compounding the geopolitical friction, the administration recently issued sharp warnings to long-standing U.S. ally Oman after Muscat reached an understanding with Iran regarding shipping lanes through the critical Strait of Hormuz. Trump warned that the United States would intervene militarily against Oman if it interfered with U.S. objectives. Meanwhile, domestic economic pressures continue to rise, with AAA reporting national gas averages at $4.07 per gallon—marking a staggering 37% increase since hostilities commenced on February 28.</p>
+    <p class="hp-p">Compounding the geopolitical friction, the administration recently issued sharp warnings to long-standing U.S. ally Oman after Muscat reached an understanding with Iran regarding shipping lanes through the critical Strait of Hormuz. Trump warned that the United States would intervene militarily against Oman if it interfered with U.S. objectives. Meanwhile, domestic economic pressures continue to rise, with AAA reporting national gas averages at  per gallon—marking a staggering 37% increase since hostilities commenced on February 28.</p>
   </section>
 
   <section class="hp-section">
@@ -150,7 +150,7 @@ source_url: "https://www.kcra.com/article/trump-iran-war-nuclear-end/73461499"
     <h2 class="hp-h2" id="how-should-readers-respond">How Should Readers Respond?</h2>
     <p class="hp-p">With geopolitical tensions remaining high and energy prices lingering near elevated levels, panic is neither productive nor helpful. Instead, readers can take practical, grounded steps:</p>
     <ul>
-      <li><strong>Manage Household Budgets:</strong> With gasoline averaging $4.07 per gallon—up 37% since late February—families should proactively account for lingering energy inflation in their monthly planning.</li>
+      <li><strong>Manage Household Budgets:</strong> With gasoline averaging  per gallon—up 37% since late February—families should proactively account for lingering energy inflation in their monthly planning.</li>
       <li><strong>Practice Media Discernment:</strong> Look past sensationalized daily headlines and evaluate long-term diplomatic developments objectively, recognizing that fast-moving rhetoric often masks slow-moving diplomatic realities.</li>
       <li><strong>Foster Community Resilience:</strong> Focus energy on local community support and personal preparedness rather than being consumed by distant, unpredictable geopolitical shifts.</li>
     </ul>

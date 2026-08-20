@@ -42,10 +42,10 @@ source_url: 'https://triblive.com/local/regional/pittsburgh-attorney-charged-in-
 <p>The unfolding investigation led by the Pennsylvania Office of Attorney General has painted a troubling picture of campus drug distribution and organizational culture. Attorney General Dave Sunday announced charges against 14 suspects, noting that 13 of them were Penn State students during 2023 and 2024. Investigators revealed that the packaging of cocaine frequently took place off-campus in fraternity houses, specifically pointing to an alarming pattern where cutting and bagging drugs served as an indoctrination rite for pledges within the Delta Upsilon and Sigma Chi fraternities.</p>
 
 <div class="ncg-amazon-product" style="border-left: 4px solid #e67e22; background: #fffaf0; padding: 12px; margin: 15px 0; border-radius: 4px;">
-    <p><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B08N5K1W9H?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Boundaries: When to Say Yes, How to Say No to Take Control of Your Life</a> - $14.99</p>
+    <p><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B08N5K1W9H?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Boundaries: When to Say Yes, How to Say No to Take Control of Your Life</a> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </div>
@@ -53,7 +53,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>Among those implicated is 23-year-old Thomas Michael Robinson, identified by authorities as a suspected leader in the trafficking network. After a prior arrest in December 2024, the younger Robinson cooperated with investigators, leading them to point the finger at a New York resident alleged to be the university's largest cocaine distributor. However, the most startling twist in the recent announcement is the involvement of Thomas's father, Paul R. Robinson, an experienced managing attorney at a prominent Pittsburgh law firm. Prosecutors allege that the elder Robinson actively assisted in concealing and destroying evidence—specifically a safe containing drugs and cash—during an active criminal investigation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -62,17 +62,17 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Before deleting his social media account, Paul Robinson took to Facebook to express gratitude to friends who supported his family while maintaining his innocence. He wrote that he had "tried to do what was lawful" and expressed profound bewilderment as to why his son's past mistakes were being re-raised years later. His defense law firm subsequently issued a statement emphasizing that the criminal allegations concern Mr. Robinson individually, noting that he is entitled to the legal presumption of innocence through the proper judicial channels.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 
 
 <div class="ncg-amazon-product" style="border-left: 4px solid #e67e22; background: #fffaf0; padding: 12px; margin: 15px 0; border-radius: 4px;">
-    <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B07V5P5H3F?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The 5 Love Languages: The Secret to Love that Lasts</a> - $15.99</p>
+    <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B07V5P5H3F?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The 5 Love Languages: The Secret to Love that Lasts</a> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </div>
@@ -84,15 +84,15 @@ Tactical Waterproof Backpack ($35.99)
 <p>From a biblical worldview, the deep desire to protect one's offspring is entirely natural and recognized throughout Scripture. Fathers and mothers are commanded to guide, nurture, and care for their households. However, biblical wisdom repeatedly warns against the dangers of partiality and the corruption of justice for the sake of family ties. When love for family supersedes love for truth and righteousness, it ultimately harms the very individuals we seek to shield.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="ncg-amazon-product" style="border-left: 4px solid #e67e22; background: #fffaf0; padding: 12px; margin: 15px 0; border-radius: 4px;">
-    <p><strong>Helpful Tool:</strong> <a href="https://www.amazon.com/dp/B08G9ZX593?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Journal the Word Bible (ESV) for Reflection and Prayer</a> - $24.99</p>
+    <p><strong>Helpful Tool:</strong> <a href="https://www.amazon.com/dp/B08G9ZX593?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Journal the Word Bible (ESV) for Reflection and Prayer</a> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </div>
@@ -100,7 +100,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>Proverbs reminds us that integrity and honesty are the foundations of a stable community. When leaders, professionals, or parents attempt to subvert justice to manage a crisis, they invite greater turmoil. The Penn State fraternity scandal, characterized by dangerous illicit substances and coercive pledge rituals, illustrates the bitter fruit of lawlessness when left unchecked. True stewardship of family requires teaching the younger generation that actions have consequences, and that true healing begins only when we stop hiding our failures in the dark.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -109,22 +109,22 @@ Tactical Waterproof Backpack ($35.99)
 <p>Reflecting on these events brings to mind the sobering words found in Proverbs 15:27: <em>"The greedy bring ruin to their households, but the one who hates bribes will live."</em> While no two situations are identical, the underlying moral principle speaks directly to the temptation of covering up wrongdoing to preserve comfort or reputation. Scripture invites us to consider how earthly shields ultimately fail when weighed against divine standards of justice.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Furthermore, Proverbs 28:13 offers a clear path forward for any person facing the fallout of past mistakes: <em>"Whoever conceals their sins does not prosper, but the one who confesses and renounces them finds mercy."</em> In times of public scandal and personal crisis, the biblical narrative consistently points away from deception and toward transparent repentance. Grace is never found in the concealment of guilt, but in the humble acceptance of truth and the courage to make things right.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <div class="ncg-amazon-product" style="border-left: 4px solid #e67e22; background: #fffaf0; padding: 12px; margin: 15px 0; border-radius: 4px;">
-    <p><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/0310451390?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Purpose Driven Life: What on Earth Am I Here For?</a> - $13.99</p>
+    <p><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/0310451390?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Purpose Driven Life: What on Earth Am I Here For?</a> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </div>
@@ -134,7 +134,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>Observing high-profile legal struggles should prompt introspection rather than self-righteous condemnation. How can believers apply these lessons in their daily lives?</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -146,10 +146,10 @@ Tactical Waterproof Backpack ($35.99)
 </ul>
 
 <div class="ncg-amazon-product" style="border-left: 4px solid #e67e22; background: #fffaf0; padding: 12px; margin: 15px 0; border-radius: 4px;">
-    <p><strong>Recommended Devotional:</strong> <a href="https://www.amazon.com/dp/B07XYZ1234?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">New Morning Mercies: A Daily Gospel Devotional</a> - $18.99</p>
+    <p><strong>Recommended Devotional:</strong> <a href="https://www.amazon.com/dp/B07XYZ1234?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">New Morning Mercies: A Daily Gospel Devotional</a> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </div>
@@ -159,7 +159,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>The criminal charges involving a respected Pittsburgh attorney and his son serve as a sobering reminder that earthly titles and professional success cannot insulate anyone from the consequences of moral drift. When crises expose hidden actions, we are given a choice: to double down on concealment or to embrace the difficult, liberating path of truth. Let us choose wisdom, transparency, and steadfast reliance on God's unchanging justice.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 

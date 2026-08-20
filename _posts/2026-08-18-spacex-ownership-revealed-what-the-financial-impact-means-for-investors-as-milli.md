@@ -19,7 +19,7 @@ source_url: 'https://finance.yahoo.com/markets/article/spacexs-biggest-investors
 <p>When a notoriously private aerospace giant steps out of the shadows and onto the public exchange, the curtain does not lift all at once. For months following its June IPO, SpaceX kept its exact capitalization table largely obscured from public view. But quarterly regulatory filings have finally laid bare the massive institutional machinery driving Elon Musk's rocket and satellite enterprise—just as a tidal wave of newly unlocked shares hits the open market.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -30,12 +30,12 @@ Tactical Waterproof Backpack ($35.99)
 
 <p>The leaderboard of primary backers spans massive tech conglomerates, venture capital, sovereign wealth, and traditional asset management:</p>
 <ul>
-  <li><strong>Alphabet (GOOGL):</strong> Leads the pack with more than 551 million shares, valued at roughly $77.2 billion.</li>
-  <li><strong>Fidelity:</strong> Reported over 302 million shares ($42.4 billion), spread across various managed funds and retail accounts.</li>
-  <li><strong>Gigafund:</strong> Disclosed more than 171 million shares ($24.1 billion).</li>
-  <li><strong>Saudi Arabia's Public Investment Fund (PIF):</strong> Holds over 154 million shares ($21.6 billion), bringing a notable chapter of Musk history back into the spotlight.</li>
-  <li><strong>Nvidia (NVDA):</strong> Disclosed more than 122 million shares ($17.2 billion).</li>
-  <li><strong>Harvard Management Co.:</strong> Holds nearly 13 million shares ($1.8 billion), making SpaceX the largest individual stock position in the Ivy League endowment's publicly disclosed US equity portfolio.</li>
+  <li><strong>Alphabet (GOOGL):</strong> Leads the pack with more than 551 million shares, valued at roughly  billion.</li>
+  <li><strong>Fidelity:</strong> Reported over 302 million shares ( billion), spread across various managed funds and retail accounts.</li>
+  <li><strong>Gigafund:</strong> Disclosed more than 171 million shares ( billion).</li>
+  <li><strong>Saudi Arabia's Public Investment Fund (PIF):</strong> Holds over 154 million shares ( billion), bringing a notable chapter of Musk history back into the spotlight.</li>
+  <li><strong>Nvidia (NVDA):</strong> Disclosed more than 122 million shares ( billion).</li>
+  <li><strong>Harvard Management Co.:</strong> Holds nearly 13 million shares ( billion), making SpaceX the largest individual stock position in the Ivy League endowment's publicly disclosed US equity portfolio.</li>
 </ul>
 
 <p>Many of these positions are not fresh, speculative purchases made on the open market. Instead, longtime private-round backers are simply appearing in public disclosures for the first time because the company now trades publicly on an exchange.</p>
@@ -59,7 +59,7 @@ Tactical Waterproof Backpack ($35.99)
 </ul>
 
 <h2 id="broader-economic-context-history-and-market-dynamics">Broader Economic Context: History and Market Dynamics</h2>
-<p>The appearance of the Saudi Public Investment Fund on the cap table also stirs up memories of Elon Musk's tumultuous 2018 attempt to take Tesla private at $420 with "funding secured." Discussions with the Saudi fund helped shape that episode, which ultimately culminated in SEC scrutiny and legal settlements. Seeing them partnered again on a massive equity stake in SpaceX underscores how sovereign wealth and Silicon Valley increasingly operate in the same financial ecosystem.</p>
+<p>The appearance of the Saudi Public Investment Fund on the cap table also stirs up memories of Elon Musk's tumultuous 2018 attempt to take Tesla private at  with "funding secured." Discussions with the Saudi fund helped shape that episode, which ultimately culminated in SEC scrutiny and legal settlements. Seeing them partnered again on a massive equity stake in SpaceX underscores how sovereign wealth and Silicon Valley increasingly operate in the same financial ecosystem.</p>
 
 <p>From a general financial literacy perspective, retail investors watching blockbuster IPOs and subsequent lock-up expirations should note a fundamental rule: institutional ownership concentration is a double-edged sword. While it provides baseline stability and signals deep-pocketed confidence, it also means a small handful of players wield disproportionate influence over price direction if their portfolio rebalancing strategies ever shift.</p>
 
@@ -102,7 +102,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -110,7 +110,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

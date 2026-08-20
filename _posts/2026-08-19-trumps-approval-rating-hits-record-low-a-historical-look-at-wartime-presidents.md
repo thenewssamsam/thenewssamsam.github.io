@@ -20,11 +20,11 @@ source_url: "https://www.usatoday.com/story/news/politics/2026/08/17/president-t
 
 <section id="the-facts">
     <h2>What the Numbers Say</h2>
-    <p>The latest polling data, conducted between August 14-17, confirms that one in three Americans currently approves of the president’s performance. This decline is largely attributed to the war on Iran, which has disrupted 20% of global oil trade. Consequently, gas prices have surged to an average of $4.06 per gallon, a significant increase from the $3.13 observed just one year ago.</p>
+    <p>The latest polling data, conducted between August 14-17, confirms that one in three Americans currently approves of the president’s performance. This decline is largely attributed to the war on Iran, which has disrupted 20% of global oil trade. Consequently, gas prices have surged to an average of  per gallon, a significant increase from the  observed just one year ago.</p>
     <p>Beyond the raw numbers, a striking 80% of Americans—spanning both major political parties—express concern that the conflict will persist for an "extended period of time."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -33,7 +33,7 @@ Tactical Waterproof Backpack ($35.99)
     <p><strong>Shareable Insight:</strong> "History shows that public patience for a war is rarely tied to the cause itself, but rather to the visible, daily cost at the kitchen table and the gas pump."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </div>
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When we look back at American history, the current "polling slump" mirrors patterns seen during other extended military engagements. The correlation between economic strain and presidential approval is a recurring theme in the 20th and 21st centuries.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -51,7 +51,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>In 1951, President Harry Truman saw his approval ratings plummet below 30% as the Korean War dragged into a stalemate. Much like today, the public grew weary of an "extended period" of combat that lacked a clear, decisive victory. Truman’s struggle highlights the difficulty of maintaining domestic support when the public perceives a conflict as a "forever war."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -59,7 +59,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The economic impact we are currently seeing—specifically the disruption of oil trade—bears a striking resemblance to the 1973 oil embargo. While the catalyst was different, the result was a sharp decline in confidence for the sitting administration. When gas prices spike, the president is almost always viewed as the primary architect of the economic reality, regardless of the global geopolitical factors at play.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -69,7 +69,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In times of national uncertainty, it is easy to become consumed by frustration or fear regarding the future. Scripture reminds us of the importance of perspective and prayer for those in leadership, even when we disagree with their actions. <em>"First of all, then, I urge that supplications, prayers, intercessions, and thanksgivings be made for all people, for kings and all who are in high positions, that we may lead a peaceful and quiet life, godly and dignified in every way"</em> (1 Timothy 2:1-2, ESV). This passage invites us to consider that our stability is ultimately found not in the shifting numbers of a poll, but in a reliance on God's sovereignty. When we see a nation struggling, we are reminded of the value of peace and the human cost of conflict, prompting us to seek wisdom for our leaders and grace for our neighbors.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>

@@ -24,7 +24,7 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-r
     <p>Following allegations of sexual misconduct and campaign finance violations, Rep. Cory Mills lost his primary challenge to former news anchor Ryan Elijah by a 12-point margin. The loss follows a period of intense scrutiny from the House Ethics Committee and a withdrawal of high-profile party support. For the district, which spans from Orlando’s northern suburbs to the coast, this transition creates immediate uncertainty regarding legislative representation and federal funding continuity.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -34,7 +34,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>From a financial perspective, congressional stability is often equated with the ability to secure federal grants and maintain consistent infrastructure spending. When a district moves from "solid Republican" to "likely Republican" according to the Cook Political Report, it signals a shift in donor confidence and organizational focus.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -42,7 +42,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p><strong>Shareable Insight:</strong> "Political scandals do more than damage reputations; they disrupt the continuity of federal funding, turning stable districts into financial question marks for local businesses and municipalities."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -50,7 +50,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Investors and local business leaders often prefer predictable representation to ensure that long-term projects—such as the infrastructure fixes noted by voters in Sanford—receive sustained attention. With the seat now deemed competitive, resources from the Democratic Congressional Campaign Committee are being directed toward challenger Bale Dalton, which typically triggers a cycle of increased campaign spending and lobbying volatility that can create a "wait-and-see" environment for local economic planning.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -60,13 +60,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The situation in Florida’s 7th District invites us to consider the heavy weight of public trust. When leaders are entangled in allegations of misconduct, it serves as a sobering reminder of the standard set for those in positions of authority. Proverbs 22:1 tells us, <em>"A good name is more desirable than great riches; to be esteemed is better than silver or gold."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>This reality reminds me that financial and political capital are fleeting, but the integrity of one's character is the foundation upon which all lasting service is built. When that foundation is shaken, the impact is felt by the entire community. It is a call for both leaders and citizens to prioritize truth and accountability, recognizing that true stewardship involves not just managing public funds, but managing the public trust with humility and transparency.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

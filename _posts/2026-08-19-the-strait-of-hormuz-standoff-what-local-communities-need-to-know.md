@@ -26,7 +26,7 @@ source_url: "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceas
       <p><strong>Quick Take:</strong> While the U.S. maintains that the strait is "cleared and open," the reality on the water tells a different story. Shipping traffic has slowed to a trickle, and the uncertainty is keeping global energy markets on edge.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     </div>
@@ -34,7 +34,7 @@ Crevice Cleaning Brush Set ($12.99)
     <p>Despite these challenges, global oil prices have not yet reached catastrophic levels, largely because international shipping routes have partially adapted by routing supplies around the region. However, the "wait and see" approach adopted by global powers puts continued pressure on the local economies that rely on stable energy imports.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>
@@ -44,7 +44,7 @@ Crevice Cleaning Brush Set ($12.99)
     <p>When the Strait of Hormuz faces disruption, the ripple effects are felt at gas pumps and grocery stores worldwide. Local communities are vulnerable in three key ways:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     <ul>
@@ -57,7 +57,7 @@ Crevice Cleaning Brush Set ($12.99)
       <p><strong>Recommended Resource:</strong> <a href="#">Emergency Preparedness & Home Safety Kit - Check Price</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     </div>
@@ -68,13 +68,13 @@ Crevice Cleaning Brush Set ($12.99)
     <p>In times of global uncertainty, it is easy to feel overwhelmed by the shifting tides of international relations. The current situation in the Middle East reminds us of the fragility of human peace and the profound importance of wisdom in leadership. When we see nations "digging in" for a long standoff, we are reminded of the biblical call to seek peace even in the most difficult circumstances.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     <p>Scripture invites us to consider: <em>"Blessed are the peacemakers, for they will be called children of God"</em> (Matthew 5:9). This does not mean that conflicts are simple to resolve, but it serves as a reminder that our ultimate hope should not rest in military might or political maneuvering, but in a higher standard of justice and reconciliation. Another passage comes to mind: <em>"If it is possible, as far as it depends on you, live at peace with everyone"</em> (Romans 12:18). This principle challenges us to consider how our own communities can foster stability, patience, and compassion, even when the world stage feels chaotic.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>
@@ -84,7 +84,7 @@ Crevice Cleaning Brush Set ($12.99)
     <p>Rather than reacting to every news headline with alarm, focus on what you can control:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     <ul>

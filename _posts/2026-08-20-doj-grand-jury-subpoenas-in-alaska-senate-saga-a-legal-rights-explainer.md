@@ -44,7 +44,7 @@ The federal investigation into the unusual Republican Senate primary in Alaska f
 <p class="ncg-p">When grand jury subpoenas start landing in mailbox drops or corporate legal offices, it signals that prosecutors have moved past preliminary fact-finding and are actively gathering sworn testimony and physical records. For everyday observers, cutting through the legal jargon is essential to understanding what a grand jury subpoena actually means—and what rights and responsibilities apply when federal investigators come knocking.</p>
 
 <div class="ncg-amazon-box">
-Recommended Reading: <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Federal Grand Jury Practice and Procedure - $145.00</a>
+Recommended Reading: <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Federal Grand Jury Practice and Procedure - </a>
 </div>
 
 <h2 id="what-happened" class="ncg-h2">What Happened in the Alaska Senate Investigation?</h2>
@@ -54,7 +54,7 @@ Recommended Reading: <a href="https://www.amazon.com/dp/1501171348?tag=thenewssa
 <p class="ncg-p">A grand jury does not determine guilt or innocence; rather, it is an investigative body empaneled by a federal district court to determine whether there is probable cause to believe a federal crime has been committed. The issuance of subpoenas means prosecutors are requiring witnesses to testify under oath or compelling the production of documents, emails, financial records, or other tangible evidence.</p>
 
 <div class="ncg-amazon-box">
-Helpful Resource: <a href="https://www.amazon.com/dp/1439870831?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Understanding Constitutional Rights and Criminal Procedure - $89.99</a>
+Helpful Resource: <a href="https://www.amazon.com/dp/1439870831?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Understanding Constitutional Rights and Criminal Procedure - </a>
 </div>
 
 <h2 id="legal-rights-perspective" class="ncg-h2">A Legal Rights Perspective: Decoding the Subpoena Process</h2>
@@ -70,7 +70,7 @@ Helpful Resource: <a href="https://www.amazon.com/dp/1439870831?tag=thenewssam-2
 <p class="ncg-p">Furthermore, recipients of federal subpoenas have the absolute right to consult with legal counsel before testifying or handing over documents. An attorney can help determine whether a witness can assert privileges—such as the attorney-client privilege—or whether negotiating the scope of a document request with federal prosecutors is appropriate.</p>
 
 <div class="ncg-amazon-box">
-Office Essential: <a href="https://www.amazon.com/dp/B073H43343?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Pendaflex Heavy Duty Expanding File Folder - $18.99</a>
+Office Essential: <a href="https://www.amazon.com/dp/B073H43343?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Pendaflex Heavy Duty Expanding File Folder - </a>
 </div>
 
 <div class="ncg-legal-notice">
@@ -78,7 +78,7 @@ Office Essential: <a href="https://www.amazon.com/dp/B073H43343?tag=thenewssam-2
 </div>
 
 <div class="ncg-amazon-box">
-Secure Organization: <a href="https://www.amazon.com/dp/B085Z3WBC8?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">SentrySafe Fireproof Document Box with Key Lock - $34.99</a>
+Secure Organization: <a href="https://www.amazon.com/dp/B085Z3WBC8?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">SentrySafe Fireproof Document Box with Key Lock - </a>
 </div>
 
 <h2 id="scripture-perspective" class="ncg-h2">A Moment of Reflection on Truth and Justice</h2>
@@ -88,7 +88,7 @@ Secure Organization: <a href="https://www.amazon.com/dp/B085Z3WBC8?tag=thenewssa
 <p class="ncg-p">At the same time, human legal systems are prone to error, bias, and complication, which invites us to approach unfolding investigations with sober discernment rather than hasty judgment. As Proverbs 18:17 reminds us, "The first to present his case seems right, till another comes forward and questions him." In moments when legal battles and political sagas dominate headlines, holding fast to patience, fairness, and a commitment to verifiable truth remains a guiding moral compass.</p>
 
 <div class="ncg-amazon-box">
-Daily Reflection: <a href="https://www.amazon.com/dp/1581346336?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The ESV Study Bible - $49.99</a>
+Daily Reflection: <a href="https://www.amazon.com/dp/1581346336?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The ESV Study Bible - </a>
 </div>
 
 <h2 id="how-readers-should-respond" class="ncg-h2">How Should Readers Respond?</h2>
@@ -102,7 +102,7 @@ Daily Reflection: <a href="https://www.amazon.com/dp/1581346336?tag=thenewssam-2
 </ul>
 
 <div class="ncg-amazon-box">
-Analytical Thinking: <a href="https://www.amazon.com/dp/0399590501?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Thinking, Fast and Slow by Daniel Kahneman - $16.00</a>
+Analytical Thinking: <a href="https://www.amazon.com/dp/0399590501?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Thinking, Fast and Slow by Daniel Kahneman - </a>
 </div>
 
 <h2 id="faq" class="ncg-h2">Frequently Asked Questions</h2>
@@ -123,7 +123,7 @@ Analytical Thinking: <a href="https://www.amazon.com/dp/0399590501?tag=thenewssa
 </details>
 
 <div class="ncg-amazon-box">
-Legal Reference: <a href="https://www.amazon.com/dp/1641055979?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Black's Law Dictionary, 11th Edition - $65.00</a>
+Legal Reference: <a href="https://www.amazon.com/dp/1641055979?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Black's Law Dictionary, 11th Edition - </a>
 </div>
 
 <footer class="ncg-closing">
@@ -132,11 +132,11 @@ Legal Reference: <a href="https://www.amazon.com/dp/1641055979?tag=thenewssam-20
 <p class="ncg-p"><strong>Justice requires both rigorous inquiry and steadfast adherence to due process.</strong></p>
 
 <div class="ncg-amazon-box">
-Professional Growth: <a href="https://www.amazon.com/dp/0143127748?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Essential Drucker by Peter F. Drucker - $17.50</a>
+Professional Growth: <a href="https://www.amazon.com/dp/0143127748?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Essential Drucker by Peter F. Drucker - </a>
 </div>
 
 <div class="ncg-amazon-box">
-Desk Organization: <a href="https://www.amazon.com/dp/B07V49W97K?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">SimpleHouseware Mesh Desk Organizer with Drawer - $19.99</a>
+Desk Organization: <a href="https://www.amazon.com/dp/B07V49W97K?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">SimpleHouseware Mesh Desk Organizer with Drawer - </a>
 </div>
 
 <p class="ncg-p" style="margin-top: 20px;">

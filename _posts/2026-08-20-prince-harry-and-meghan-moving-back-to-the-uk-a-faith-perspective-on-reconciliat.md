@@ -26,7 +26,7 @@ source_url: 'https://www.bbc.com/news/articles/c62ey03z9d1o'
     <p>BBC News reports that Prince Harry and Meghan intend to relocate from the United States to a private residence outside of London later this month. The couple’s children, Prince Archie and Princess Lilibet, are reportedly enrolled in a British school for the upcoming September term. While King Charles has been informed of the plans, there are no expectations for the couple to resume working royal roles. The move follows a period of strained relations, highlighted by a private family visit to the King’s Gloucestershire home this past July—the first time the King had seen his grandchildren in over four years.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F3PQHWTZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Sony WH-1000XM6 Wireless Headphones ($399.99)
+Sony WH-1000XM6 Wireless Headphones 
 </a></div>
 
   </section>
@@ -36,7 +36,7 @@ Sony WH-1000XM6 Wireless Headphones ($399.99)
     <p>In our own lives, family friction is rarely as public as that of the Royal Family, yet the emotional toll remains the same. When relationships fracture, the path back to one another is rarely smooth. From a faith perspective, this situation brings to mind the profound challenge of pursuing peace.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0DJP6D6PJ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Acer Wireless Monitor ($129.99)
+Acer Wireless Monitor 
 </a></div>
 
     
@@ -44,7 +44,7 @@ Acer Wireless Monitor ($129.99)
       <p><strong>"If it is possible, as far as it depends on you, live at peace with everyone."</strong> — <em>Romans 12:18 (NIV)</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0DJP6D6PJ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Acer Wireless Monitor ($129.99)
+Acer Wireless Monitor 
 </a></div>
 
     </div>
@@ -52,15 +52,15 @@ Acer Wireless Monitor ($129.99)
     <p>This verse reminds us that while we cannot always control how others respond, we are responsible for our own efforts toward peace. Reconciliation does not mean pretending that hurt never happened; it involves the hard work of humility and the willingness to prioritize restoration over being "right."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0D851Z6NQ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Samsung Galaxy Tab S9 Tablet ($249.99)
+Samsung Galaxy Tab S9 Tablet 
 </a></div>
 
 
     <div class="ncg-product-box" style="border-left: 5px solid #d4af37; background: #fdfbf7; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Reading:</strong> <a href="#">"The Peacemaker: A Biblical Guide to Resolving Personal Conflict" by Ken Sande - $14.99</a></p>
+      <p><strong>Recommended Reading:</strong> <a href="#">"The Peacemaker: A Biblical Guide to Resolving Personal Conflict" by Ken Sande - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F3PQHWTZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Sony WH-1000XM6 Wireless Headphones ($399.99)
+Sony WH-1000XM6 Wireless Headphones 
 </a></div>
 
     </div>
@@ -68,7 +68,7 @@ Sony WH-1000XM6 Wireless Headphones ($399.99)
     <p>Another essential truth is found in the importance of grace. Colossians 3:13 encourages us: <em>"Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you."</em> This is perhaps the most difficult instruction in the Christian life. Forgiveness is not a feeling; it is a choice to release the debt of the past to make room for a future.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0D851Z6NQ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Samsung Galaxy Tab S9 Tablet ($249.99)
+Samsung Galaxy Tab S9 Tablet 
 </a></div>
 
 
@@ -82,7 +82,7 @@ Samsung Galaxy Tab S9 Tablet ($249.99)
     <p>When we see public figures navigate the messy reality of family life, we can use it as a mirror for our own relationships:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0D851Z6NQ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Samsung Galaxy Tab S9 Tablet ($249.99)
+Samsung Galaxy Tab S9 Tablet 
 </a></div>
 
     <ul>
@@ -92,10 +92,10 @@ Samsung Galaxy Tab S9 Tablet ($249.99)
     </ul>
     
     <div class="ncg-product-box" style="border-left: 5px solid #d4af37; background: #fdfbf7; padding: 15px; margin: 20px 0;">
-      <p><strong>Reflection Tool:</strong> <a href="#">"Journal for Prayer and Reflection: Cultivating a Heart of Forgiveness" - $12.50</a></p>
+      <p><strong>Reflection Tool:</strong> <a href="#">"Journal for Prayer and Reflection: Cultivating a Heart of Forgiveness" - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0DJP6D6PJ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Acer Wireless Monitor ($129.99)
+Acer Wireless Monitor 
 </a></div>
 
     </div>

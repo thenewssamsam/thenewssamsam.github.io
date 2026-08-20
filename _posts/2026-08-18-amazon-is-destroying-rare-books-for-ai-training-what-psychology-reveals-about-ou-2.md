@@ -212,7 +212,7 @@ source_url: 'https://finance.yahoo.com/technology/ai/articles/amazon-once-online
 <p><strong>Normalcy Bias:</strong> The tendency to underestimate the disaster or radical shift unfolding right in front of us because familiar institutions (like Amazon or tech corporations) are managing the process.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p><strong>The Omission of Tactility:</strong> In a heavily digitized world, physical objects lose their emotional weight. When a book is reduced to a URL or a scanned PDF vector, its tactile history vanishes, making its physical destruction feel weightless to those orchestrating it.</p>
@@ -319,7 +319,7 @@ Source: <a href="https://finance.yahoo.com/technology/ai/articles/amazon-once-on
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -327,7 +327,7 @@ Source: <a href="https://finance.yahoo.com/technology/ai/articles/amazon-once-on
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -170,7 +170,7 @@ source_url: 'https://www.thehindu.com/news/international/iran-us-west-asia-war-s
       <p>On Tuesday, August 18, 2026, the United Kingdom Maritime Trade Operations (UKMTO) issued an urgent alert. A vessel transiting outbound through the Strait of Hormuz had been struck by an unknown projectile. The impact resulted in direct damage to the engine room and reported crew casualties, with the remaining crew subsequently receiving assistance from the Omani Coast Guard.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
       <p>While authorities have confirmed that no environmental pollution or spills have been detected so far, investigations are ongoing. This incident does not happen in a vacuum. It arrives amid heightened West Asian tensions involving the United States, Iran, and various regional actors, directly echoing warnings previously voiced by commercial mariners about the severe risks of navigating these critical shipping lanes.</p>
@@ -250,7 +250,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -258,7 +258,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

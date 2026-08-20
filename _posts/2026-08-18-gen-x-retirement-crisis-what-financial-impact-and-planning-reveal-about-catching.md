@@ -27,7 +27,7 @@ source_url: 'https://money.com/gen-x-retirement-age-68-savings/'
     <p>This widespread delay comes as Generation X approaches their golden years facing a substantial gap between their current balances and their original financial goals. Over half (52%) worry they haven’t saved enough, and 61% report feeling less financially secure than they anticipated at this stage of life. Regrets are common: 43% wish they had started saving earlier, and 21% wish they had maintained consistency throughout their working years.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
     
@@ -61,7 +61,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Instead, focus on controllable financial fundamentals:</p>
     <ul>
       <li><strong>Audit Your Baseline:</strong> Compare your projected retirement expenses directly against your current savings trajectory, expected Social Security, and alternative income streams.</li>
-      <li><strong>Maximize Catch-Up Contributions:</strong> If you are 50 or older, take advantage of IRS rules. In 2026, workers can contribute up to $24,500 to a workplace 401(k), plus an additional $8,000 in catch-up contributions. Workers aged 60 through 63 may qualify for an even higher catch-up limit of $11,250 depending on their specific plan.</li>
+      <li><strong>Maximize Catch-Up Contributions:</strong> If you are 50 or older, take advantage of IRS rules. In 2026, workers can contribute up to ,500 to a workplace 401(k), plus an additional ,000 in catch-up contributions. Workers aged 60 through 63 may qualify for an even higher catch-up limit of ,250 depending on their specific plan.</li>
       <li><strong>Slash Fixed Expenses:</strong> Trimming recurring monthly costs—such as paying off an auto loan or eliminating unnecessary subscriptions—reduces the total monthly income you must replace in retirement.</li>
     </ul>
   </section>
@@ -101,7 +101,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -109,7 +109,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

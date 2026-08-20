@@ -93,7 +93,7 @@ source_url: "https://www.wpbf.com/article/florida-palm-beach-county-clerk-of-cou
     <p class="ncg-p">The sudden arrest of Palm Beach County Clerk of Court Michael Caruso on Tuesday morning sent shockwaves through local government and communities across South Florida. According to Florida Attorney General James Uthmeier, Caruso faces deeply troubling charges related to child sexual abuse, resulting in his swift suspension from office by Governor Ron DeSantis. For residents who rely on civic leaders to uphold the public trust, news of this magnitude forces a profound moment of reflection on authority, human frailty, and the high calling of those placed in positions of leadership.</p>
 
     <div class="ncg-amazon-box">
-      <strong>Helpful Resource:</strong> Looking to deepen your understanding of ethics and spiritual grounding in turbulent times? Consider reading <a href="https://www.amazon.com/dp/B08N5K2V6W?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Mere Christianity by C.S. Lewis</a> ($12.99) for timeless wisdom on moral accountability.
+      <strong>Helpful Resource:</strong> Looking to deepen your understanding of ethics and spiritual grounding in turbulent times? Consider reading <a href="https://www.amazon.com/dp/B08N5K2V6W?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Mere Christianity by C.S. Lewis</a>  for timeless wisdom on moral accountability.
     </div>
 
     <h2 id="what-happened">What Happened in Palm Beach County</h2>
@@ -101,7 +101,7 @@ source_url: "https://www.wpbf.com/article/florida-palm-beach-county-clerk-of-cou
     <p class="ncg-p">Within hours of the announcement, Governor Ron DeSantis formally suspended Caruso from office. The Governor’s office issued a brief statement confirming the suspension, while representatives for the Palm Beach County Clerk’s office moved quickly to reassure the public. The office emphasized that its 650 employees remain committed to maintaining seamless operations and serving community customers with professionalism, despite the unexpected leadership crisis.</p>
 
     <div class="ncg-amazon-box">
-      <strong>Product Suggestion:</strong> To help maintain focus and productivity in your daily work environment, check out the <a href="https://www.amazon.com/dp/B0739G7G6B?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Anker USB C Hub, 7-in-1 Adapter</a> ($34.99) for your office setup.
+      <strong>Product Suggestion:</strong> To help maintain focus and productivity in your daily work environment, check out the <a href="https://www.amazon.com/dp/B0739G7G6B?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Anker USB C Hub, 7-in-1 Adapter</a>  for your office setup.
     </div>
 
     <h2 id="a-faith-perspective">A Faith and Scripture Perspective on Authority and Accountability</h2>
@@ -113,7 +113,7 @@ source_url: "https://www.wpbf.com/article/florida-palm-beach-county-clerk-of-cou
     <p class="ncg-p">This passage highlights how hidden actions inevitably come to light and how a lack of moral foundation shatters not only personal standing but the trust of an entire community. When leaders stumble into grave sin, it reminds believers that every human being is fallible, regardless of social status or professional title.</p>
 
     <div class="ncg-amazon-box">
-      <strong>Recommended Reading:</strong> Explore personal growth and spiritual resilience with <a href="https://www.amazon.com/dp/0310348498?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry by John Mark Comer</a> ($15.49).
+      <strong>Recommended Reading:</strong> Explore personal growth and spiritual resilience with <a href="https://www.amazon.com/dp/0310348498?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry by John Mark Comer</a> .
     </div>
 
     <div class="ncg-quote-box">
@@ -129,7 +129,7 @@ source_url: "https://www.wpbf.com/article/florida-palm-beach-county-clerk-of-cou
     <p class="ncg-p">This sobering reminder underscores that justice is not merely an institutional concept but a divine mandate. When legal systems act swiftly to investigate, suspend, and hold individuals accountable, it serves as an earthly echo of the moral order that demands protection for the innocent.</p>
 
     <div class="ncg-amazon-box">
-      <strong>Office Essential:</strong> Keep your workspace organized and secure while managing daily tasks with a <a href="https://www.amazon.com/dp/B079QYYW4W?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Three-Tier Mesh Desk Organizer</a> ($18.99).
+      <strong>Office Essential:</strong> Keep your workspace organized and secure while managing daily tasks with a <a href="https://www.amazon.com/dp/B079QYYW4W?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Three-Tier Mesh Desk Organizer</a> .
     </div>
 
     <h2 id="how-should-christians-respond">How Should Christians Respond?</h2>
@@ -141,7 +141,7 @@ source_url: "https://www.wpbf.com/article/florida-palm-beach-county-clerk-of-cou
     </ul>
 
     <div class="ncg-amazon-box">
-      <strong>Journaling Tool:</strong> Reflect on your personal walk and daily prayers using a <a href="https://www.amazon.com/dp/B0851W27CW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Classic Leather Journal Notebook</a> ($11.99).
+      <strong>Journaling Tool:</strong> Reflect on your personal walk and daily prayers using a <a href="https://www.amazon.com/dp/B0851W27CW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Classic Leather Journal Notebook</a> .
     </div>
 
     <h2 id="a-prayer-for-wisdom-and-hope">A Prayer for Wisdom and Hope</h2>

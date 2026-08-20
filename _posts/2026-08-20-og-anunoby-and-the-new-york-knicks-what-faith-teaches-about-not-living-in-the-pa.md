@@ -34,7 +34,7 @@ source_url: 'https://edition.cnn.com/2026/08/18/sport/og-anunoby-new-york-knicks
     <p>While outsiders expect the champions to bask endlessly in their triumph, the team's internal group chat remains remarkably grounded, filled with memes rather than highlight reels. That levelheaded serenity will be tested immediately as a new season looms with high-stakes matchups on the horizon. But the deeper story is not just about basketball survival; it is about the spiritual discipline required to handle success without letting it anchor your soul.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -44,13 +44,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>Human beings are remarkably fragile when it comes to achievement. Give us a victory, and our natural inclination is to build a monument around it, setting up camp where God only meant for us to pitch a tent. We replay our greatest hits in our minds, letting past triumphs become an excuse for present stagnation or a source of paralyzing pressure.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>This human tendency is precisely what the Apostle Paul addressed when writing to the early church in Philippi. Reflecting on his own considerable list of achievements, Paul wrote:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -58,7 +58,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p>"Brothers and sisters, I do not consider myself yet to have taken hold of it. But one thing I do: Forgetting what is behind and straining toward what is ahead, I press on toward the goal to win the prize for which God has called me heavenward in Christ Jesus."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
       <cite>— Philippians 3:13-14 (NIV)</cite>
@@ -67,14 +67,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>Paul's perspective does not mean we should fail to appreciate milestones or express gratitude for victories won. Rather, it speaks to an underlying posture of the heart. When Anunoby notes that he loves the memories but is ultimately ready for next season, he echoes a practical wisdom: yesterday's manna cannot feed today's hunger. Clinging too tightly to a past victory—whether it is an NBA championship, a career milestone, or a personal triumph—turns a moment of grace into a heavy anchor.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>Another powerful reminder is found in the wisdom of Ecclesiastes, which warns against the vanity of living solely for the applause of the present age:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -82,7 +82,7 @@ Tactical Waterproof Backpack ($35.99)
       <p>"Do not say, 'Why were the old days better than these?' For it is not wise to ask such questions."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
       <cite>— Ecclesiastes 7:10 (NIV)</cite>
@@ -91,21 +91,21 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Nostalgia, when it morphs into an obsession with past glory, blinds us to the duties and opportunities right in front of us. New York is a place that demands perfection every single night, making it easy for athletes and ordinary people alike to become paralyzed by the weight of expectations. True resilience requires the quiet humility to put the trophy on the shelf, step off the pedestal, and lace up our shoes for the work that remains.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
 
   <div class="ncg-product-box" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
     <p style="margin: 0; font-weight: bold;">Recommended Resource:</p>
-    <p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B07XYZ1234?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World</a> — $15.99</p>
+    <p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B07XYZ1234?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World</a> — </p>
   </div>
 
   <div class="ncg-shareable-quote">
     <p>"Success is a dangerous place to camp out; the moment you start admiring your own monument, you stop running the race."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>
@@ -123,7 +123,7 @@ Tactical Waterproof Backpack ($35.99)
 
   <div class="ncg-product-box" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
     <p style="margin: 0; font-weight: bold;">Recommended Resource:</p>
-    <p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B08XYZ5678?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Every Moment Holy, Volume 1: Daily Prayers, Liturgies, and Devotions for Ordinary Days</a> — $24.00</p>
+    <p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B08XYZ5678?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Every Moment Holy, Volume 1: Daily Prayers, Liturgies, and Devotions for Ordinary Days</a> — </p>
   </div>
 
   <section class="ncg-section" id="closing">

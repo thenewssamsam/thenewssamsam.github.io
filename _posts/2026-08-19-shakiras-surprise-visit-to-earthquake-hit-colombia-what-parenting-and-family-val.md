@@ -22,7 +22,7 @@ source_url: "https://abcnews.com/Business/wireStory/shakira-makes-surprise-visit
   <section id="what-happened" class="ncg-section">
     <h2>What Happened in Western Colombia</h2>
     <p>Following a devastating 7.4 magnitude earthquake that struck western Colombia on August 10, claiming hundreds of lives and destroying thousands of homes, global music icon Shakira made a surprise visit to Quibdó, the capital of the hard-hit Chocó province. Amidst the rubble of thousands of collapsed dwellings and damaged educational sites, the Colombian singer pledged to help build at least 10 new schools in the remote, historically neglected region.</p>
-    <p>Accompanied by Howard Buffett—son of billionaire philanthropist Warren Buffett and a longtime partner in her Fundación Pies Descalzos (Barefoot Foundation)—Shakira toured damaged facilities, hugged local students, and emphasized that keeping children out of the classroom is the ultimate tragedy of any emergency. Additional support poured in from organizations like Global Citizen and Live Nation, which each pledged $500,000, joining a broader wave of Latin American artist-led relief efforts.</p>
+    <p>Accompanied by Howard Buffett—son of billionaire philanthropist Warren Buffett and a longtime partner in her Fundación Pies Descalzos (Barefoot Foundation)—Shakira toured damaged facilities, hugged local students, and emphasized that keeping children out of the classroom is the ultimate tragedy of any emergency. Additional support poured in from organizations like Global Citizen and Live Nation, which each pledged ,000, joining a broader wave of Latin American artist-led relief efforts.</p>
   </section>
 
   <section id="why-it-matters" class="ncg-section">
@@ -30,13 +30,13 @@ source_url: "https://abcnews.com/Business/wireStory/shakira-makes-surprise-visit
     <p>For parents sitting thousands of miles away, watching news reports of children losing their schools, their homes, and sometimes their lives in a sudden natural disaster is uniquely terrifying. It strikes at our deepest parental instinct: the desire to protect our kids from a fragile, unpredictable world.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Yet, the aftermath in Chocó—an impoverished, isolated region where rivers serve as the primary roads—highlights a harsh reality. Emergencies do not affect all communities equally. When infrastructure is already fragile, a disaster doesn't just disrupt a school year; it threatens to erase a generation's future. That reality invites us to reflect on our own blessings and challenges us to consider how we talk to our children about global suffering, resilience, and our duty to our neighbors.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -46,7 +46,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>When major natural disasters dominate the news cycle, children inevitably absorb the anxiety. How we, as parents and caregivers, frame these events shapes whether our kids internalize fear or develop empathy and constructive resilience.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -62,7 +62,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Shakira's persistent dedication to Chocó over 22 years—long after the initial camera crews leave—demonstrates a vital parenting truth: consistency matters more than grand, one-off gestures. Children learn resilience not when life is easy, but when they watch adults show up consistently in the wake of hardship.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -77,13 +77,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>Stories like this often prompt a deeper internal check about our responsibilities toward the vulnerable. Watching leaders and artists pour their energy into restoring a forgotten province feels reminiscent of timeless wisdom regarding our duty to look after the helpless.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>One is reminded of the simple, grounding truth found in Scripture: <em>"Do not withhold good from those to whom it is due, when it is in your power to act"</em> (Proverbs 3:27). Whether viewed through a secular humanitarian lens or a traditional spiritual framework, the core message remains identical. We are entrusted with resources, time, and influence not merely for our own comfort, but to help rebuild the broken places around us—especially so that the young may continue to dream.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -93,7 +93,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>You don't need to be a Grammy-winning superstar or a billionaire philanthropist to make a meaningful difference in the lives of children facing adversity. Here are three concrete ways families can channel this news into positive action:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <ul>

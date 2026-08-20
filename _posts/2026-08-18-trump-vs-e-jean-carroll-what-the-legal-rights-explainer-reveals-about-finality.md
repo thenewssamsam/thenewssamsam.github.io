@@ -17,15 +17,15 @@ source_url: 'https://apnews.com/article/trump-supreme-court-e-jean-carroll-defam
   </header>
 
   <section id="introduction">
-    <p>The U.S. Supreme Court has officially declined to hear an appeal from Donald Trump regarding a $5 million jury verdict in the defamation and sexual abuse case brought by writer E. Jean Carroll. For many following the high-profile litigation, this move signals a definitive end to this specific legal chapter. But what does it actually mean when the nation's highest court refuses to intervene, and why is this verdict now considered final?</p>
+    <p>The U.S. Supreme Court has officially declined to hear an appeal from Donald Trump regarding a  million jury verdict in the defamation and sexual abuse case brought by writer E. Jean Carroll. For many following the high-profile litigation, this move signals a definitive end to this specific legal chapter. But what does it actually mean when the nation's highest court refuses to intervene, and why is this verdict now considered final?</p>
   </section>
 
   <section id="the-news">
     <h2>What Happened in the Supreme Court?</h2>
-    <p>On Monday, the Supreme Court denied a request from Donald Trump’s legal team to reconsider their previous refusal to hear his appeal. This decision effectively solidifies the $5 million jury verdict found against him, which concluded he sexually abused Carroll in a New York City department store in the 1990s and subsequently defamed her.</p>
+    <p>On Monday, the Supreme Court denied a request from Donald Trump’s legal team to reconsider their previous refusal to hear his appeal. This decision effectively solidifies the  million jury verdict found against him, which concluded he sexually abused Carroll in a New York City department store in the 1990s and subsequently defamed her.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
     <p>According to reports, Trump had already paid the judgment following the court’s initial refusal to hear the case in June. With this latest denial, the legal avenues for contesting this specific judgment have been exhausted.</p>
@@ -45,7 +45,7 @@ Seagate Portable External Hard Drive ($59.99)
 
   <section id="what-comes-next">
     <h2>What Happens Next?</h2>
-    <p>While this case is finalized, it is not the end of the legal interactions between Trump and Carroll. A separate, larger verdict totaling $83 million remains the subject of ongoing appeals. In that instance, Trump’s defense team argues that he is immune from being sued for comments made in 2019, asserting presidential immunity. The Supreme Court has not yet taken action on that specific appeal, meaning that while the $5 million case is closed, the $83 million case remains an active legal question.</p>
+    <p>While this case is finalized, it is not the end of the legal interactions between Trump and Carroll. A separate, larger verdict totaling  million remains the subject of ongoing appeals. In that instance, Trump’s defense team argues that he is immune from being sued for comments made in 2019, asserting presidential immunity. The Supreme Court has not yet taken action on that specific appeal, meaning that while the  million case is closed, the  million case remains an active legal question.</p>
   </section>
 
   <section id="closing-takeaway">
@@ -63,7 +63,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -71,7 +71,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

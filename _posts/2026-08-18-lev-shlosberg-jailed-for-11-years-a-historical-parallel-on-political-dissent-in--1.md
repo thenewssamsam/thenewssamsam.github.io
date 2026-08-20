@@ -36,7 +36,7 @@ source_url: ''
     <p>On Monday, a court in the northwestern Russian city of Pskov delivered an 11-year-and-one-month prison sentence to Lev Shlosberg, deputy head of the liberal Yabloko party. Shlosberg was convicted of "discrediting" the armed forces and "spreading false information" under wartime censorship laws introduced following Russia's full-scale invasion of Ukraine in 2022. State prosecutors had originally demanded a 12-year sentence over comments published on social media.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
     <p>Throughout the trial, which Shlosberg described as "an imitation of an investigation," the veteran politician maintained his innocence and used his closing speech to reiterate calls for an immediate ceasefire and political dialogue. He was repeatedly interrupted by the presiding judge.</p>
@@ -186,7 +186,7 @@ footer a:hover { text-decoration: underline; }
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -194,7 +194,7 @@ footer a:hover { text-decoration: underline; }
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

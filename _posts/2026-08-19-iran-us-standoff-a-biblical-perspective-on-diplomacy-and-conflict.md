@@ -24,15 +24,15 @@ source_url: "https://www.foxnews.com/politics/iran-fails-strike-deal-us-deadline
     <p>The breakdown of the 60-day memorandum of understanding highlights the fragility of international diplomacy. Washington continues to demand unrestricted navigation through the Strait of Hormuz—a vital artery for global energy—while Tehran insists on retaining authority over the waterway as a strategic lever. With neither side willing to yield on core demands, the reality of the situation is one of increasing exhaustion and mutual suspicion.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <div class="ncg-product-box" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Reading:</strong> <em>The Peacemaker: A Biblical Guide to Resolving Personal Conflict</em> by Ken Sande - <strong>$14.99</strong> <a href="#">Check Price on Amazon</a></p>
+      <p><strong>Recommended Reading:</strong> <em>The Peacemaker: A Biblical Guide to Resolving Personal Conflict</em> by Ken Sande - <strong></strong> <a href="#">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -40,7 +40,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The reports of strained U.S. munitions inventories add another layer of complexity. As the conflict drags on, the material cost of maintaining a naval blockade becomes more apparent, testing the limits of national resources and military readiness.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -50,15 +50,15 @@ Tactical Waterproof Backpack ($35.99)
     <p>In moments of geopolitical friction, it is easy to become consumed by the rhetoric of victory and surrender. Yet, the biblical narrative often invites us to look past the immediate horizon of human power plays. When we read about nations clashing, we are reminded of the inherent brokenness of a world apart from divine order. James 4:1-2 asks a piercing question: <em>"What causes quarrels and what causes fights among you? Is it not this, that your passions are at war within you?"</em> This insight invites us to consider that the conflicts between nations are frequently reflections of deep-seated desires for control, security, and supremacy that exist within the human heart.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div class="ncg-product-box" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Resource:</strong> <em>Journaling Bible for Daily Reflection</em> - <strong>$22.50</strong> <a href="#">Check Price on Amazon</a></p>
+      <p><strong>Recommended Resource:</strong> <em>Journaling Bible for Daily Reflection</em> - <strong></strong> <a href="#">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -66,7 +66,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>As we observe these events, we are reminded that true peace is not merely the absence of war, nor is it the result of a forced surrender. It is a state of right relationship that flows from humility and the pursuit of justice. Psalm 34:14 encourages us: <em>"Turn away from evil and do good; seek peace and pursue it."</em> This pursuit is active, not passive. It requires a commitment to truth and a recognition of the dignity of all involved, even in the midst of profound disagreement.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

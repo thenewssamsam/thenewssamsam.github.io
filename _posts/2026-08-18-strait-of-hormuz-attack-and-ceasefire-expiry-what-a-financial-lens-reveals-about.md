@@ -38,7 +38,7 @@ source_url: 'https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceas
 <p>Almost immediately, the security situation on the water deteriorated. The U.K. Maritime Trade Operations agency confirmed that a cargo vessel transiting the crucial waterway was hit by a projectile, damaging its engine room and resulting in a crew casualty. The remaining crew members were evacuated and assisted by the Omani Coast Guard. Meanwhile, Iranian military spokespersons hardened the rhetoric, warning that vessels attempting unapproved passage face severe hull damage.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 <p>With shipping traffic through the Strait of Hormuz sitting near a historic standstill—tracking data from Kpler showed just three vessels transiting the strait on Sunday—the geographic bottleneck that once handled roughly a fifth of the world's crude oil and gas remains a high-stakes geopolitical fault line.</p>
@@ -49,8 +49,8 @@ Tactical Waterproof Backpack ($35.99)
 <div class="ncg-quote-box">
 <blockquote>Markets hate uncertainty, but they hate prolonged disruption even more—forcing global supply chains to price in a permanent friction tax on energy.</blockquote>
 </div>
-<p>From a financial perspective, the collapse of the ceasefire shifts the economic narrative from an acute crisis to a managed friction. In the immediate aftermath of the ceasefire's expiration, energy markets reacted with predictable, though measured, volatility. U.S. crude oil futures ticked up 0.25% to $84.7 a barrel following a 2.6% rise the day before, while international benchmark Brent crude hovered around $90.86 a barrel.</p>
-<p>Yet, the absence of a catastrophic price spike past $100 a barrel reveals a fascinating shift in macroeconomic resilience. Energy markets and global supply chains have spent months adapting to the closure of the Hormuz corridor. Shippers have increasingly relied on alternative routing, and successful workarounds have prevented panic-buying in international crude markets.</p>
+<p>From a financial perspective, the collapse of the ceasefire shifts the economic narrative from an acute crisis to a managed friction. In the immediate aftermath of the ceasefire's expiration, energy markets reacted with predictable, though measured, volatility. U.S. crude oil futures ticked up 0.25% to  a barrel following a 2.6% rise the day before, while international benchmark Brent crude hovered around  a barrel.</p>
+<p>Yet, the absence of a catastrophic price spike past  a barrel reveals a fascinating shift in macroeconomic resilience. Energy markets and global supply chains have spent months adapting to the closure of the Hormuz corridor. Shippers have increasingly relied on alternative routing, and successful workarounds have prevented panic-buying in international crude markets.</p>
 <p>This adaptation gives the United States significantly more breathing room than it might have had earlier in the conflict. As risk consultancy Eurasia Group noted, pressure on Washington to force an immediate, aggressive reopening of the strait has eased because the global economy has absorbed the shock of rerouted oil flows.</p>
 <p>However, financial adaptation is not the same as financial immunity. While prices have stayed below the triple-digit psychological barrier, operating costs for global logistics have permanently ratcheted upward. Longer alternative routes, elevated war-risk insurance premiums for maritime carriers, and increased fuel consumption all translate into a persistent overhead tax that eventually trickles down to industrial and consumer goods.</p>
 </section>
@@ -90,7 +90,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -98,7 +98,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

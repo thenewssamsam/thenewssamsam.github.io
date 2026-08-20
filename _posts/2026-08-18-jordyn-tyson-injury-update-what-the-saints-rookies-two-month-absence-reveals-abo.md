@@ -41,7 +41,7 @@ source_url: 'https://www.nfl.com/news/saints-rookie-wr-jordyn-tyson-hamstring-ex
   <p>According to NFL Network Insiders Mike Garafolo and Ian Rapoport, Jordyn Tyson suffered a hamstring injury during practice last week. Before arriving at Monday's prognosis, the rookie sought multiple medical opinions to ensure the diagnosis was accurate. Head coach Kellen Moore confirmed that the issue is entirely separate from the hamstring ailments that affected Tyson back in the spring.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
   <p>Hamstring strains are notoriously tricky soft-tissue injuries that demand cautious rehabilitation, which accounts for the extended two-month recovery timeline. Sidelined until roughly October, Tyson will miss the crucial foundational weeks of summer workouts and training camp.</p>
@@ -85,7 +85,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -93,7 +93,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -37,7 +37,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/17/jon-ossoff-trump-ir
     <p>The speech touched on several explosive allegations, including presidential stock trades around tariff announcements, the monetization of early-access policy statements on Truth Social, and the deeper mechanics of a "coin-operated" political system. As speculation mounts that Ossoff is using these high-profile national critiques to lay the groundwork for a 2028 presidential bid, his remarks offer a stark lens through which to examine the intersection of foreign policy, executive power, and personal wealth.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 </section>
@@ -46,7 +46,7 @@ Tactical Waterproof Backpack ($35.99)
     <h2>The Financial Mechanics of Modern Political Power</h2>
     <p>When foreign policy and financial markets intertwine, the ordinary citizen often absorbs the cost while power centers reap the rewards. Ossoff's critique of the Trump administration's economic moves highlights a fundamental anxiety in modern governance: the blurred line between public duty and private portfolio management.</p>
     
-    <p>Consider the mechanism Ossoff pointed to regarding the tariff announcements. When sweeping economic policies cause sudden market contractions, followed swiftly by presidential calls to buy stock right before a rebound rally, the average investor is left playing catch-up in a rigged game. It shifts the primary question of governance from public welfare to market timing. Similarly, introducing a subscription service charging up to $100,000 a month for early access to presidential pronouncements on war, peace, and trade turns official state communications into a luxury commodity.</p>
+    <p>Consider the mechanism Ossoff pointed to regarding the tariff announcements. When sweeping economic policies cause sudden market contractions, followed swiftly by presidential calls to buy stock right before a rebound rally, the average investor is left playing catch-up in a rigged game. It shifts the primary question of governance from public welfare to market timing. Similarly, introducing a subscription service charging up to ,000 a month for early access to presidential pronouncements on war, peace, and trade turns official state communications into a luxury commodity.</p>
     
     <div class="ncg-quote-box">
         <p>"Just understand what’s for sale here: The sitting president’s pronouncements on war and peace and economic policy delivered first to paying customers." — Senator Jon Ossoff</p>
@@ -109,7 +109,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -117,7 +117,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

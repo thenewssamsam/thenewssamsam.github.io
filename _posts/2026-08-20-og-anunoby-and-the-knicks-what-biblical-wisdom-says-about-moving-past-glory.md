@@ -34,7 +34,7 @@ source_url: 'https://edition.cnn.com/2026/08/18/sport/og-anunoby-new-york-knicks
   <p>Human beings are naturally wired to build monuments to our past successes. Whether it is a career milestone, a financial windfall, or a long-sought personal victory, we love to linger in the warm glow of what we once accomplished. Yet, scripture offers a persistent warning against letting yesterday's triumphs dictate today's identity.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -45,7 +45,7 @@ Tactical Waterproof Backpack ($35.99)
   <p>Writing to the early church in Philippi, the Apostle Paul described a deliberate practice of refusing to let past achievements become an anchor holding him back:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -53,7 +53,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p><em>"Brothers and sisters, I do not consider myself yet to have taken hold of it. But one thing I do: Forgetting what is behind and straining toward what is ahead, I press on toward the goal to win the prize for which God has called me heavenward in Christ Jesus."</em> — <strong>Philippians 3:13-14 (NIV)</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </blockquote>
@@ -61,7 +61,7 @@ Seagate Portable External Hard Drive ($59.99)
   <p>Paul was not advocating for ingratitude or dismissing past blessings. Instead, he recognized a subtle spiritual hazard: the danger of settling. When we treat a past victory as the ultimate destination rather than a stepping stone, we lose the hunger, humility, and diligence required for the journey ahead.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -69,14 +69,14 @@ Tactical Waterproof Backpack ($35.99)
   <p>What makes Anunoby's attitude so striking—and so resonant—is its quiet humility. In an era dominated by self-promotion and viral self-absorption, his refusal to inflate his own ego stands out like a beacon. The Knicks roster is famously grounded, forged through collegiate systems like Villanova and tough-nosed developmental paths that taught them to treat victory and defeat with equal sobriety.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
   <p>This levelheadedness echoes ancient wisdom found in the book of Proverbs, which cautions against letting praise or sudden status unbalance our inner equilibrium:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -84,7 +84,7 @@ Tactical Waterproof Backpack ($35.99)
     <p><em>"Do not boast about tomorrow, for you do not know what a day might bring. Let someone else praise you, and not your own mouth; an outsider, and not your own lips."</em> — <strong>Proverbs 27:1-2 (NIV)</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </blockquote>
@@ -92,27 +92,27 @@ Seagate Portable External Hard Drive ($59.99)
   <p>True character is often revealed not by how we handle defeat, but by how we survive success. Fame and adulation can easily intoxicate the soul, convincing us that we are somehow self-made. Anunoby's deadpan insistence on looking forward—returning to the gym, focusing on the next opponent, and sharing silly memes in the team group chat rather than rewatching highlight reels—reminds us of the quiet power of staying anchored.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
   <div class="ncg-product-card" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
     <h3 style="margin-top: 0; font-size: 1.1em;">Recommended Resource: Finding Quiet Focus</h3>
-    <p style="margin-bottom: 8px;">To cultivate daily mental clarity and grounding amidst life's noisy distractions, consider exploring <a href="https://www.amazon.com/dp/B0713W54V7?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living</a> (Hardcover Edition, ~$15.99).</p>
+    <p style="margin-bottom: 8px;">To cultivate daily mental clarity and grounding amidst life's noisy distractions, consider exploring <a href="https://www.amazon.com/dp/B0713W54V7?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living</a> (Hardcover Edition, ~).</p>
   </div>
 
   <h2 id="how-should-christians-respond">How Should Christians Respond?</h2>
   <p>We do not need to play in the NBA to understand the tension between past glory and future calling. Every believer faces seasons of achievement—a successful project, a healed relationship, a spiritual breakthrough—followed by the quiet Monday morning when life resumes its ordinary demands.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
   <p>Here are a few grounded ways to apply this mindset in daily life:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   <ul>

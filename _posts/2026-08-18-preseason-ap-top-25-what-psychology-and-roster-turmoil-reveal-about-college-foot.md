@@ -38,7 +38,7 @@ source_url: 'https://www.nytimes.com/athletic/7519231/2026/08/17/ap-top-25-poll-
 <p>The 2026 preseason AP Top 25 is no exception. Ohio State, Oregon, Georgia, Notre Dame, and Texas anchor the top five, followed by reigning national champion Indiana. But underneath those initial rankings lies a fascinating clash between human psychology, cognitive biases, and the frantic reality of modern roster construction in the transfer portal era. Why do voters consistently overrate past success and underrate sheer talent accumulation? To understand the chaos of the preseason poll, we have to look past the logos and examine the mental shortcuts that shape how we evaluate sports.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 </section>
@@ -122,7 +122,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -130,7 +130,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

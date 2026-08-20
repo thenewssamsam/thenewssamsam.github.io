@@ -71,13 +71,13 @@ source_url: "https://www.cnn.com/2026/08/18/politics/live-news/florida-primary-e
 <div class="ncg-product-card">
 <div class="ncg-product-title">DK Eyewitness Books: American Presidency & Government</div>
 <div class="ncg-product-desc">An engaging, well-illustrated guide to help kids understand how American democracy and government institutions work behind the headlines.</div>
-<a href="https://www.amazon.com/dp/0744026857?tag=thenewssam-20" class="ncg-product-link" target="_blank" rel="noopener noreferrer">View on Amazon ($14.99)</a>
+<a href="https://www.amazon.com/dp/0744026857?tag=thenewssam-20" class="ncg-product-link" target="_blank" rel="noopener noreferrer">View on Amazon </a>
 </div>
 
 <p>For parents, watching election results unfold can feel overwhelming. Children observe our reactions when candidates win or lose, and they absorb the tone of commentary surrounding us. Understanding how to navigate these conversations calmly helps transform stressful media moments into lasting civic lessons.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -87,14 +87,14 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Children do not live in a vacuum; they hear snippets of news on the car radio, spot headlines on smartphones, and listen to adults expressing frustration or excitement about election outcomes. When major political shifts occur, kids often experience a sense of uncertainty because they equate political conflict with instability in their own secure worlds.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>From a family-guidance perspective, the goal is never to shield children from reality completely, but rather to translate complex political events into concepts they can grasp. When we explain that elections are simply a large-scale way communities make decisions—much like choosing a class president or deciding on a playground rule—we strip away some of the paralyzing anxiety surrounding adult politics.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -105,14 +105,14 @@ Tactical Waterproof Backpack ($35.99)
 <div class="ncg-product-card">
 <div class="ncg-product-title">The Kid's Guide to Government</div>
 <div class="ncg-product-desc">A wonderful resource explaining civic responsibility, voting, and local government in terms kids can easily understand and relate to.</div>
-<a href="https://www.amazon.com/dp/1641525916?tag=thenewssam-20" class="ncg-product-link" target="_blank" rel="noopener noreferrer">View on Amazon ($11.99)</a>
+<a href="https://www.amazon.com/dp/1641525916?tag=thenewssam-20" class="ncg-product-link" target="_blank" rel="noopener noreferrer">View on Amazon </a>
 </div>
 
 <h3>Why Tone Matters More Than Talking Points</h3>
 <p>Children look to parents as emotional barometers. If we react to primary election results with deep despair or unbridled rage, children internalize the idea that elections threaten their safety. Conversely, when we discuss election outcomes with steady curiosity—acknowledging different viewpoints without personalizing animosity—we model emotional regulation and civic resilience.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -122,14 +122,14 @@ Tactical Waterproof Backpack ($35.99)
 <p>Different age groups process political news through vastly different developmental lenses. Tailoring your approach ensures children feel informed without feeling overburdened.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <div class="ncg-product-card">
 <div class="ncg-product-title">Big Life Journal for Kids</div>
 <div class="ncg-product-desc-box"><div class="ncg-product-desc">Encourage emotional resilience, positive thinking, and healthy communication skills as children navigate a complex world.</div></div>
-<a href="https://www.amazon.com/dp/1949392182?tag=thenewssam-20" class="ncg-product-link" target="_blank" rel="noopener noreferrer">View on Amazon ($24.95)</a>
+<a href="https://www.amazon.com/dp/1949392182?tag=thenewssam-20" class="ncg-product-link" target="_blank" rel="noopener noreferrer">View on Amazon </a>
 </div>
 
 <h3>For Young Children (Ages 5–9)</h3>
@@ -149,7 +149,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="ncg-product-card">
 <div class="ncg-product-title">The House on Mango Street (Paperback)</div>
 <div class="ncg-product-desc">A powerful book exploring community, identity, and finding one's voice, perfect for sparking thoughtful discussions with older teens.</div>
-<a href="https://www.amazon.com/dp/0679734775?tag=thenewssam-20" class="ncg-product-link" target="_blank" rel="noopener noreferrer">View on Amazon ($10.00)</a>
+<a href="https://www.amazon.com/dp/0679734775?tag=thenewssam-20" class="ncg-product-link" target="_blank" rel="noopener noreferrer">View on Amazon </a>
 </div>
 </section>
 
@@ -158,27 +158,27 @@ Tactical Waterproof Backpack ($35.99)
 <p>When headlines are filled with fierce political battles and intense competition, it is easy to let frustration creep into our homes. Watching the results of the Florida primary election reminds me how much our communities rely on patient understanding rather than loud division.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>One of my favorite guiding reminders in moments of societal tension comes from Scripture, which encourages us: "Let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer each person" (Colossians 4:6). Similarly, Proverbs 15:1 reminds us that "a gentle answer turns away wrath, but a harsh word stirs up anger."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="ncg-product-card">
 <div class="ncg-product-title">The Action Bible</div>
 <div class="ncg-product-desc">Engaging graphic novel style Bible stories that help children connect timeless moral lessons to everyday life and relationships.</div>
-<a href="https://www.amazon.com/dp/0781444993?tag=thenewssam-20" class="ncg-product-link" target="_blank" rel="noopener noreferrer">View on Amazon ($22.49)</a>
+<a href="https://www.amazon.com/dp/0781444993?tag=thenewssam-20" class="ncg-product-link" target="_blank" rel="noopener noreferrer">View on Amazon </a>
 </div>
 
 <p>These timeless principles are wonderfully practical around the dinner table during election season. When children see us responding to political news with grace, patience, and active listening rather than cynicism, they learn that human dignity matters far more than any single political outcome.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -188,7 +188,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Moving past passive consumption of election news involves taking intentional steps within your household and local community:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <ul>
@@ -200,7 +200,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="ncg-product-card">
 <div class="ncg-product-title">The 7 Habits of Highly Effective Families</div>
 <div class="ncg-product-desc">Stephen R. Covey's classic guide for building strong family bonds, open communication, and shared values across generations.</div>
-<a href="https://www.amazon.com/dp/0312354398?tag=thenewssam-20" class="ncg-product-link" target="_blank" rel="noopener noreferrer">View on Amazon ($16.00)</a>
+<a href="https://www.amazon.com/dp/0312354398?tag=thenewssam-20" class="ncg-product-link" target="_blank" rel="noopener noreferrer">View on Amazon </a>
 </div>
 </section>
 
@@ -212,7 +212,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>You can introduce basic civic concepts as early as preschool through simple roleplay, like voting on a family movie or dinner choice. Formal discussions about candidates and elections usually resonate best around ages 8 to 10, depending on their curiosity.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </details>
@@ -221,7 +221,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Limit continuous background news broadcasts, monitor social media exposure, and reassure them that their daily routines and family safety remain secure regardless of who wins an election.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </details>
@@ -230,7 +230,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>Instead of reacting defensively, ask gentle questions like, "What do you think that means?" or "Why do you think people feel that way?" This encourages critical thinking rather than simple parroting.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </details>
@@ -239,7 +239,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="ncg-product-card">
 <div class="ncg-product-title">First Little Readers Parent Pack: Levels A & B</div>
 <div class="ncg-product-desc">Wonderful early reading toolsets to build confidence and joy in learning for young children at home.</div>
-<a href="https://www.amazon.com/dp/0545279615?tag=thenewssam-20" class="ncg-product-link" target="_blank" rel="noopener noreferrer">View on Amazon ($16.99)</a>
+<a href="https://www.amazon.com/dp/0545279615?tag=thenewssam-20" class="ncg-product-link" target="_blank" rel="noopener noreferrer">View on Amazon </a>
 </div>
 </section>
 
@@ -252,7 +252,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="ncg-product-card">
 <div class="ncg-product-title">Crayola Inspiration Art Case (140 Pieces)</div>
 <div class="ncg-product-desc">A fantastic creative outlet for kids to express themselves through drawing and art after heavy news discussions.</div>
-<a href="https://www.amazon.com/dp/B01072Z7AO?tag=thenewssam-20" class="ncg-product-link" target="_blank" rel="noopener noreferrer">View on Amazon ($24.99)</a>
+<a href="https://www.amazon.com/dp/B01072Z7AO?tag=thenewssam-20" class="ncg-product-link" target="_blank" rel="noopener noreferrer">View on Amazon </a>
 </div>
 
 <footer class="ncg-source">

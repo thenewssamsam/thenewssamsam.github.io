@@ -25,7 +25,7 @@ source_url: "https://www.nbcnews.com/politics/2026-primary-special-elections/flo
     <p>When a U.S. Senate seat becomes vacant before a term expires, the process for filling that seat is governed by a combination of the U.S. Constitution and state-specific election laws. Under the 17th Amendment, state legislatures have the authority to empower governors to make temporary appointments until a special election can be held.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -33,7 +33,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>"The legal mechanism for filling a Senate vacancy is designed to ensure continuity of governance while ultimately returning the choice to the electorate through a special election process."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -42,7 +42,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>In Florida, the law dictates that a special election must occur to fill the remainder of the term. This is different from a general election where a full six-year term is at stake. The "special" designation refers to the fact that the winner will only hold office until the original term expires, at which point the seat will be up for a regular election cycle.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -50,7 +50,7 @@ Tactical Waterproof Backpack ($35.99)
     <p><em>This is general information, not legal advice. Election laws vary significantly by state and can be subject to court challenges. Consult a licensed attorney about your specific situation regarding election law or voter rights.</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -60,13 +60,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>As we observe the political process, it is natural to feel the weight of these decisions. Navigating complex legal systems and choosing representatives requires both wisdom and a commitment to integrity. Proverbs 29:2 reminds us, "When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>This verse invites us to consider the character of those we entrust with public service. It isn't just about the mechanics of the law, but the heart of the stewards behind it. When we engage in the democratic process, we are participating in a form of stewardship over our community. We are called to seek truth and advocate for justice, even in the midst of political noise. Remembering that our ultimate hope rests not in human institutions but in the sovereignty of God can provide a sense of peace even during heated election seasons.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

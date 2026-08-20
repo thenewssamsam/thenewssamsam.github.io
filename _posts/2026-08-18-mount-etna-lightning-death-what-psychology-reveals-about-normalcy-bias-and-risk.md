@@ -28,7 +28,7 @@ source_url: 'https://apnews.com/article/italy-mount-etna-tourist-lightning-strik
   <p>Rescuers airlifted the hiker via helicopter from the Rocca Capra area, situated at roughly 1,400 meters (nearly 4,600 feet) elevation, but medical personnel ultimately pronounced him dead at the scene. While local authorities had restricted access to certain sections of the volcano due to its prolonged geological rumblings, it remained unclear whether the hiker had ventured into a closed zone. Interestingly, local officials noted a sobering statistical reality: over recent decades, more fatalities have occurred on Etna from sudden lightning strikes than from actual volcanic eruptions, with the last eruption-related deaths dating back to 1987.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -94,7 +94,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -102,7 +102,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

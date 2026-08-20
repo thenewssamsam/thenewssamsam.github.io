@@ -28,7 +28,7 @@ source_url: 'https://www.dw.com/en/wildfires-rage-in-belgium-france-spain-greece
     <p>In Belgium, a ferocious blaze in the High Fens nature reserve along the German border has charred some 3,000 hectares—marking the largest fire in the country's modern history and prompting King Philippe to interrupt his summer vacation to survey the devastation. Meanwhile, across the continent, the toll has been severe: a Spanish soldier has lost his life in Aragon, an elderly couple was tragically trapped by fast-moving flames on the Greek island of Salamina, and towns from Croatia to Portugal have faced mass evacuations.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>In France, public frustration spilled into the open as Prime Minister Sébastien Lecornu was jeered by residents in the Gironde village of Le Porge. Months after 183 homes were destroyed in a giant blaze, local residents accused authorities of prioritizing wealthier tourist areas like Cap-Ferret over working-class villages—highlighting not just a logistical failure, but a deep breakdown in civic trust during a crisis.</p>
@@ -94,7 +94,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -102,7 +102,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

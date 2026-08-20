@@ -26,7 +26,7 @@ source_url: "https://www.bbc.com/news/articles/cnvn0j31qj8o"
     <p>"We have 39,000 soldiers over there guarding you from Kim Jong Un, your next door neighbour, and you're not going to help us on a very easy military operation in Iran," Trump remarked during an Oval Office briefing, explicitly linking alliance commitments to economic and military reciprocity.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -36,7 +36,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>To understand why a six-day reduction in military drills matters from an economic standpoint, one must look at the immense financial machinery required to maintain regional security. Major military exercises like the Ulchi Freedom Shield are multi-million dollar operations involving tens of thousands of active-duty personnel, advanced hardware, fuel logistics, and intelligence infrastructure.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -47,19 +47,19 @@ Tactical Waterproof Backpack ($35.99)
     <p>From a public finance perspective, defense agreements are sustained through intricate cost-sharing agreements, often termed Special Measures Agreements (SMAs) in the US-South Korea alliance. Washington has long argued that wealthier allies must shoulder a larger share of the stationing costs for the approximately 28,500 American military personnel stationed in South Korea, alongside regional assets. When political friction enters the equation, financial negotiations often manifest as operational adjustments.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <div style="background: #fffdf0; border-left: 4px solid #d69e2e; padding: 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
       <p style="margin: 0 0 8px 0; font-weight: bold; color: #744210;">Recommended Financial Literacy Resource</p>
-      <p style="margin: 0; font-size: 0.950rem; color: #2d3748;"><a href="https://www.amazon.com/dp/B0784CJ663?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 500;">Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail by Ray Dalio ($18.99)</a> &mdash; Essential reading for understanding how macroeconomic cycles, debt, and geopolitical shifts intersect.</p>
+      <p style="margin: 0; font-size: 0.950rem; color: #2d3748;"><a href="https://www.amazon.com/dp/B0784CJ663?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 500;">Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail by Ray Dalio </a> &mdash; Essential reading for understanding how macroeconomic cycles, debt, and geopolitical shifts intersect.</p>
     </div>
 
     <p>While shortening an exercise by six days yields immediate operational savings in fuel, munitions expenditure, and logistical support, the broader economic signaling creates ripples across financial markets. Investors closely watch defense commitments as barometers of regional stability. Any perceived fraying in long-standing security architectures can introduce volatility into South Korean equity markets and influence foreign direct investment (FDI) inflows.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -74,27 +74,27 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Financial markets thrive on predictability. When major security arrangements undergo sudden, publicly broadcast friction over economic reciprocity—such as disputes over contributions to regional defense operations—institutional investors take notice. South Korea's export-driven economy relies heavily on secure maritime trade routes and stable diplomatic relations across the Indo-Pacific.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>Furthermore, North Korea's response to the drawdown adds another layer of economic calculus. While Pyongyang's state media dismissed the reduction as insignificant—noting that the "hostile and aggressive essence of the drill changes"—the underlying military posture remains unchanged. North Korea's ongoing alignment and resource exchanges with Russia, including troop deployments and weapons supplies, keep regional risk premiums elevated.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>For household budgets and everyday investors, these macroeconomic tremors translate into currency fluctuations, adjustments in defense sector stocks, and potential shifts in national taxation as Seoul reevaluates its long-term defense expenditures.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <div style="background: #fffdf0; border-left: 4px solid #d69e2e; padding: 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
       <p style="margin: 0 0 8px 0; font-weight: bold; color: #744210;">Recommended Financial Planning Guide</p>
-      <p style="margin: 0; font-size: 0.950rem; color: #2d3748;"><a href="https://www.amazon.com/dp/B08745C992?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 500;">The Psychology of Money: Timeless lessons on wealth, greed, and happiness by Morgan Housel ($14.99)</a> &mdash; Excellent insights on how uncertainty and human behavior drive economic and financial decisions.</p>
+      <p style="margin: 0; font-size: 0.950rem; color: #2d3748;"><a href="https://www.amazon.com/dp/B08745C992?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 500;">The Psychology of Money: Timeless lessons on wealth, greed, and happiness by Morgan Housel </a> &mdash; Excellent insights on how uncertainty and human behavior drive economic and financial decisions.</p>
     </div>
   </section>
 
@@ -103,21 +103,21 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When nations negotiate power, alliances, and financial costs, it is easy to view global stability strictly through spreadsheets and military hardware. Yet Scripture consistently reminds us of the fragility of human security systems and the importance of wise stewardship.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>Psalm 20:7 offers a timeless perspective on where ultimate trust should be placed: <em>"Some trust in chariots and some in horses, but we trust in the name of the Lord our God."</em> This reflection invites us to consider how earthly alliances and financial investments, while necessary for civic order, ultimately rest upon shifting foundations. True peace cannot be manufactured solely through military deterrence or transactional diplomacy, but requires wisdom, justice, and humility among leaders.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>As citizens and observers watching these global developments unfold, we are reminded to pray for leaders to exercise sound judgment, financial stewardship, and a genuine commitment to peace rather than division.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -127,7 +127,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>While geopolitical shifts in Washington and Seoul may feel distant from daily life, everyday citizens can take practical steps to navigate financial and economic uncertainty:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ol style="margin-top: 10px; padding-left: 20px; color: #4a5568;">

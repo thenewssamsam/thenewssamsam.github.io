@@ -44,7 +44,7 @@ source_url: "https://www.politico.com/news/2026/08/18/jon-ossoff-georgia-viral-c
     </p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>
@@ -61,7 +61,7 @@ Tactical Waterproof Backpack ($35.99)
       "There are no decisions that get made that he doesn't sign off on," noted one Georgia Democratic operative granted anonymity to speak candidly. This tight oversight stems from past heartbreak. Georgia Democrats have historically suffered from complacency, losing races they were favored to win. Ossoff’s hyper-vigilance is designed to eliminate unforced errors while maximizing every possible avenue for voter connection.
     </p>
     <p>
-      His team has backed this up with formidable financial engineering, pouring nearly $20 million into digital fundraising ads targeting both in-state residents and national donor hubs like New York City. The result is a dual-track strategy: ground-level retail politics in Georgia paired with high-impact, nationalized media moments that feed digital algorithms across the country.
+      His team has backed this up with formidable financial engineering, pouring nearly  million into digital fundraising ads targeting both in-state residents and national donor hubs like New York City. The result is a dual-track strategy: ground-level retail politics in Georgia paired with high-impact, nationalized media moments that feed digital algorithms across the country.
     </p>
   </section>
 
@@ -142,7 +142,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -150,7 +150,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -24,16 +24,16 @@ source_url: "https://katu.com/news/nation-world/florida-voters-choose-nominees-i
     <p>The Republican field is currently led by U.S. Rep. Byron Donalds, who has secured the endorsement of Donald Trump and maintains a significant lead in recent polling. Meanwhile, the Democratic primary is headlined by former U.S. Rep. David Jolly, who has shifted his political affiliation and is campaigning on a platform focused on the cost of living, housing, and education. With Florida’s political landscape shifting heavily toward Republican registration over the last decade, this primary is more than a contest—it is a test of the state's future direction.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 15px; border-radius: 8px; margin: 20px 0;">
-    <p><strong>Recommended Reading:</strong> <a href="#">The Art of Biblical Leadership: Principles for Modern Governance</a> - $14.99</p>
+    <p><strong>Recommended Reading:</strong> <a href="#">The Art of Biblical Leadership: Principles for Modern Governance</a> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>
@@ -43,7 +43,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>When we participate in elections, we are exercising a form of stewardship. In the book of Proverbs, we are reminded: <em>"When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn"</em> (Proverbs 29:2, KJV). This verse does not suggest that any human candidate is the savior of our state, but it does highlight the importance of selecting leaders who reflect virtues like integrity, justice, and a commitment to the common good.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -56,16 +56,16 @@ Tactical Waterproof Backpack ($35.99)
     <p>The current race involves competing loyalties and platforms. For the Christian, the primary challenge is to look beyond the "political orbit" of any single figure and instead evaluate candidates based on their character and the fruit of their actions. As we navigate the noise of campaign rhetoric, we must ask: Are these candidates seeking to serve the people, or are they merely seeking power?</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <div style="border: 1px solid #ddd; background-color: #f9f9f9; padding: 15px; border-radius: 8px; margin: 20px 0;">
-    <p><strong>Helpful Resource:</strong> <a href="#">Journal for Daily Reflection & Prayer</a> - $9.50</p>
+    <p><strong>Helpful Resource:</strong> <a href="#">Journal for Daily Reflection & Prayer</a> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>
@@ -75,13 +75,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>I am reminded of the words in 1 Timothy 2:1-2, which instructs us: <em>"I urge, then, first of all, that petitions, prayers, intercession and thanksgiving be made for all people—for kings and all those in authority, that we may live peaceful and quiet lives in all godliness and holiness"</em> (NIV). This reminds me that our duty doesn't end at the ballot box. Whether our preferred candidate wins or loses, our ultimate hope is not in a governor, but in the sovereign hand of God.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Choosing a leader requires wisdom. It invites us to consider the vulnerable, the neighbors struggling with the cost of living, and the future generations who will inherit the policies set today. We are called to be salt and light, which means bringing the values of truth and mercy into the public square, even when the political discourse feels divisive.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

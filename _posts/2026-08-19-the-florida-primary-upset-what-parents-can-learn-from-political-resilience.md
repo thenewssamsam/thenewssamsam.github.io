@@ -21,16 +21,16 @@ source_url: "https://www.foxnews.com/politics/progressive-florida-lawmaker-angie
 
   <section id="what-happened">
     <h2>The Results at a Glance</h2>
-    <p>Angie Nixon, a Jacksonville Democrat with a background in labor organizing, secured her party's nomination to finish out the remainder of Marco Rubio's former Senate seat. She overcame a significant financial disadvantage, as reports indicate Vindman raised roughly $14.6 million—over 20 times the $625,000 reported by Nixon’s campaign.</p>
+    <p>Angie Nixon, a Jacksonville Democrat with a background in labor organizing, secured her party's nomination to finish out the remainder of Marco Rubio's former Senate seat. She overcame a significant financial disadvantage, as reports indicate Vindman raised roughly  million—over 20 times the ,000 reported by Nixon’s campaign.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Now, Nixon moves on to face Republican Sen. Ashley Moody in the November general election. This race represents a significant test for Florida Democrats, who have not won a U.S. Senate election in the state since 2012.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -40,7 +40,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>From a parenting perspective, the outcome of this primary provides a unique opening to discuss traits we often try to cultivate in our children: grit, authenticity, and the value of community roots.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -52,7 +52,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Children often see the world through a lens of "who has the most"—the most toys, the most followers, or the most money. Nixon’s victory over a candidate with a massive fundraising advantage is a tangible example that money cannot buy everything. Use this to talk to your kids about how hard work, clear values, and genuine community connections can often outweigh external advantages.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -60,7 +60,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Nixon ran on a platform that included bold stances like freezing rents and advocating for specific economic changes. Whether you agree with those policies or not, there is a lesson here in the courage of conviction. Talk to your teens about why it is important to stand by what you believe, even when it isn't the "popular" or "easy" path.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -68,7 +68,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Politics is a series of wins and losses. When discussing these events with children, focus on the process. Teach them that losing an endorsement or facing a tough opponent isn't the end of the road. Resilience is the ability to pivot, learn, and try again.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -78,19 +78,19 @@ Tactical Waterproof Backpack ($35.99)
     <p>Watching this race unfold, I am reminded that our worth and our strength are not measured by how much we have in the bank, but by our integrity and faithfulness to our calling. In a world that often prizes the loudest voice or the deepest pocket, we are called to a different standard.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>As the Apostle Paul wrote in <em>Galatians 6:9</em>, "Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up." This is a profound truth for our families. Whether it is a child working on a difficult project or a parent navigating a career transition, the "harvest" of our efforts often comes after seasons of persistence and staying true to our values.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>We are also reminded in <em>Proverbs 22:1</em> that "A good name is more desirable than great riches; to be esteemed is better than silver or gold." May we encourage our children to focus on building a "good name" through kindness, honesty, and hard work, trusting that these qualities provide a foundation that no amount of money can provide.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -109,7 +109,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>The Florida primary serves as a reminder that the "underdog" narrative is alive and well, not just in politics, but in life. By focusing on values, community, and persistence, we can teach our children that they don't need the most resources to make a meaningful difference in their own corner of the world.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

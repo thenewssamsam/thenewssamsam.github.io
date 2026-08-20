@@ -36,7 +36,7 @@ source_url: 'https://www.wkyt.com/2026/08/16/officials-give-update-lexington-mas
 <p>For residents of Fayette County and the broader Lexington area, news like this forces an uncomfortable and urgent reckoning. How do neighborhoods process sudden trauma, where do families turn when local gathering spaces feel compromised, and what does it take for a community to rally in the face of senseless gun violence?</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></p>
 
 
@@ -47,7 +47,7 @@ Crevice Cleaning Brush Set ($12.99)
 <h2>What Happened at Charles Young Park</h2>
 <p>According to the official reports from the Lexington Police Department and local news sources, officers rushed to Charles Young Park at approximately 6:48 p.m. on Saturday, August 15, 2026, following reports of gunfire. Upon arrival, first responders located five victims suffering from gunshot wounds and transported them urgently to a local hospital.</p>
 <p>The Fayette County Coroner’s Office subsequently identified the sole fatality as 16-year-old Di’Zhon Robertson, a student at Success Academy who had previously attended Bryan Station High School. Fayette County Public Schools released statements expressing profound grief and mobilizing counseling teams to support grieving students and staff.</p>
-<p>The remaining four victims included a 4-year-old child, a 14-year-old minor, a 39-year-old, and a 41-year-old adult, all sustaining non-life-threatening injuries. Swift police work led to the identification and arrest of 18-year-old Jametrius M. Griffin, who now faces charges including murder, assault, and tampering with physical evidence. Griffin was arraigned on Monday, August 17, entering a not-guilty plea while being held on a $1 million bond, with a preliminary hearing set for September 2.</p>
+<p>The remaining four victims included a 4-year-old child, a 14-year-old minor, a 39-year-old, and a 41-year-old adult, all sustaining non-life-threatening injuries. Swift police work led to the identification and arrest of 18-year-old Jametrius M. Griffin, who now faces charges including murder, assault, and tampering with physical evidence. Griffin was arraigned on Monday, August 17, entering a not-guilty plea while being held on a  million bond, with a preliminary hearing set for September 2.</p>
 <p>Beyond the immediate tragedy, the incident carried heavy symbolic weight for the city. Lexington Police Chief Lawrence Weathers confirmed that this marked the first homicide since a February 5 shooting, abruptly breaking a 192-day period of safety tracked by ONE Lexington.</p>
 </section>
 
@@ -79,7 +79,7 @@ Crevice Cleaning Brush Set ($12.99)
 </details>
 <details class="ncg-faq-item">
 <summary>Has a suspect been arrested?</summary>
-<p>Yes, 18-year-old Jametrius M. Griffin was arrested and charged with murder, assault, and tampering with physical evidence. He entered a not-guilty plea at his arraignment and is held on a $1 million bond.</p>
+<p>Yes, 18-year-old Jametrius M. Griffin was arrested and charged with murder, assault, and tampering with physical evidence. He entered a not-guilty plea at his arraignment and is held on a  million bond.</p>
 </details>
 <details class="ncg-faq-item">
 <summary>What support resources are available for the community?</summary>
@@ -133,7 +133,7 @@ Crevice Cleaning Brush Set ($12.99)
       "name": "Has a suspect been arrested?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, 18-year-old Jametrius M. Griffin was arrested and charged with murder, assault, and tampering with physical evidence. He entered a not-guilty plea at his arraignment and is held on a $1 million bond."
+        "text": "Yes, 18-year-old Jametrius M. Griffin was arrested and charged with murder, assault, and tampering with physical evidence. He entered a not-guilty plea at his arraignment and is held on a  million bond."
       }
     },
     {
@@ -158,7 +158,7 @@ Crevice Cleaning Brush Set ($12.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Crevice Cleaning Brush Set</a></div>
-    <div class="product-price">$12.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -166,7 +166,7 @@ Crevice Cleaning Brush Set ($12.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -174,7 +174,7 @@ Crevice Cleaning Brush Set ($12.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

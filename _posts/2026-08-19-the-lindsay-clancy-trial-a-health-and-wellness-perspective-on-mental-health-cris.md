@@ -24,7 +24,7 @@ source_url: "https://turnto10.com/news/local/testimony-in-lindsay-clancy-murder-
     <p>The defense in the trial is working to demonstrate that Lindsay Clancy was experiencing a profound mental health breakdown at the time of the 2023 incident, arguing that she was not criminally responsible for the deaths of her children. Recent testimony has included graphic details regarding the method of the crimes, alongside psychological evaluations suggesting that Clancy was suffering from severe auditory hallucinations and delusions at the time.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -34,7 +34,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>When we discuss health, we often prioritize physical fitness or nutritional balance, but mental wellness is the foundation upon which all other health rests. This is general information, not medical advice. In cases of severe postpartum mental health struggles or acute psychosis, the internal reality for the individual can be terrifyingly distorted. From a wellness standpoint, the "normalcy bias"—the assumption that our minds will always function reliably—can sometimes prevent us from recognizing when a crisis is escalating.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -42,7 +42,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p><strong>"True wellness involves fostering a community where seeking help for mental health is as normalized and supported as treating a physical injury."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -50,7 +50,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Understanding the warning signs of a mental health emergency—such as sudden changes in behavior, withdrawal from loved ones, or reported hallucinations—is critical. While this specific case involves complex legal and psychiatric questions, it serves as a somber reminder that mental health requires consistent monitoring and proactive intervention.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -60,13 +60,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In moments of deep distress, we are reminded of the fragility of the human spirit. Scripture often speaks to the overwhelming nature of our circumstances and the need for a peace that surpasses understanding. Psalm 34:18 tells us, "The Lord is close to the brokenhearted and saves those who are crushed in spirit." This reminds us that in our darkest hours, we are not meant to carry our burdens in isolation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Furthermore, Matthew 11:28 invites us, "Come to me, all you who are weary and burdened, and I will give you rest." This is an invitation to release the weight of our struggles. Whether through professional medical care, the support of a faith community, or the intervention of crisis services, seeking help is a courageous act of stewardship over the life we have been given.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

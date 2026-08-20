@@ -22,13 +22,13 @@ source_url: "https://www.psu.edu/news/campus-life/story/penn-state-responds-seri
     <p>In response, Penn State has placed the recognized Delta Upsilon chapter on interim suspension. The Office of Student Accountability and Conflict Response is now conducting a formal review of both the organization and the individual students involved. Andrea Dowhower, vice president for Student Affairs, expressed the university's "horror" at the allegations, emphasizing that criminal activity and hazing have no place on their campus.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>
 
   <div class="ncg-product-card" style="border: 2px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 8px;">
-    <strong>Staying Prepared on Campus:</strong> <a href="https://www.amazon.com/dp/B08G89Q59B?tag=thenewssam-20" target="_blank">Portable Personal Safety Alarm - $12.99</a>. A simple tool for peace of mind while walking off-campus at night.
+    <strong>Staying Prepared on Campus:</strong> <a href="https://www.amazon.com/dp/B08G89Q59B?tag=thenewssam-20" target="_blank">Portable Personal Safety Alarm - </a>. A simple tool for peace of mind while walking off-campus at night.
   </div>
 
   <section id="local-impact">
@@ -36,13 +36,13 @@ Crevice Cleaning Brush Set ($12.99)
     <p>For the residents of State College, news like this isn't just a headline—it’s a disruption to the fabric of a town where the university is the central anchor. When "unrecognized" organizations act as magnets for illegal activity, it creates a "blind spot" for local law enforcement and the university administration alike.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     <p>The community is now faced with a difficult question: How can a town maintain a vibrant student culture while aggressively weeding out dangerous off-campus elements? The university’s decision to move quickly on educational and anti-hazing efforts is a direct response to the community's need for stability. However, the shadow of these charges will likely lead to increased scrutiny from both the borough and campus police for the foreseeable future.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>
@@ -52,13 +52,13 @@ Crevice Cleaning Brush Set ($12.99)
     <p>Situations involving organized misconduct often remind me of the importance of individual integrity within a community. It is easy to get caught up in the "culture" of a group, but Proverbs 28:13 reminds us: <em>"Whoever conceals their sins does not prosper, but the one who confesses and renounces them finds mercy."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     <p>This situation invites us to consider the burden of leadership. Whether in a fraternity or a neighborhood, those in positions of influence carry a duty to protect those around them rather than lead them into harm. When that trust is broken, the consequences extend far beyond the individuals involved, affecting the reputation of the entire community.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>
@@ -77,7 +77,7 @@ Crevice Cleaning Brush Set ($12.99)
   </section>
 
   <div class="ncg-product-card" style="border: 2px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 8px;">
-    <strong>Organizing Your Studies:</strong> <a href="https://www.amazon.com/dp/B07R98357Y?tag=thenewssam-20" target="_blank">Professional Daily Planner - $18.50</a>. Keep your academic and social commitments organized and balanced.
+    <strong>Organizing Your Studies:</strong> <a href="https://www.amazon.com/dp/B07R98357Y?tag=thenewssam-20" target="_blank">Professional Daily Planner - </a>. Keep your academic and social commitments organized and balanced.
   </div>
 
   <section id="closing-takeaway">

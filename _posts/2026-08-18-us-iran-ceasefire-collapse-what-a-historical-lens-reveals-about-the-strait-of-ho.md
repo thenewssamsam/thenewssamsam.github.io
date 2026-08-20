@@ -36,12 +36,12 @@ When a fragile 60-day ceasefire between Washington and Tehran officially expired
 
 <section id="what-happened">
 <h2 style="font-size:1.5rem; color:#2c3e50; margin-top:2rem; border-bottom:2px solid #e9ecef; padding-bottom:0.5rem;">What Happened: The 60-Day Ceasefire Deadline Expires</h2>
-<p>The expiration of the 60-day interim agreement marked a hard collision between diplomacy and entrenched hostility. In the Oval Office, President Trump made the administration's red lines unequivocal: Iran cannot and will not be permitted to develop a nuclear weapon, pointing to past military actions as proof of American resolve. Simultaneously, international benchmark Brent crude rose 2.7% to $90.87 a barrel, and West Texas Intermediate climbed 2.6% to $84.50 as traders digested the breakdown in talks.</p>
+<p>The expiration of the 60-day interim agreement marked a hard collision between diplomacy and entrenched hostility. In the Oval Office, President Trump made the administration's red lines unequivocal: Iran cannot and will not be permitted to develop a nuclear weapon, pointing to past military actions as proof of American resolve. Simultaneously, international benchmark Brent crude rose 2.7% to  a barrel, and West Texas Intermediate climbed 2.6% to  as traders digested the breakdown in talks.</p>
 
 <p>The tension quickly expanded beyond bilateral friction. Iranian military officials warned that while the Strait of Hormuz remains technically open, safe passage is far from guaranteed, using vivid imagery of potential damage to vessel hulls. Meanwhile, diplomatic ripples touched regional partners like Turkey—where President Recep Tayyip Erdogan emphasized the urgency of renewed dialogue during a call with Trump—while friction emerged over allied contributions, with Trump publicly questioning the support of nations like South Korea and Oman.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -69,7 +69,7 @@ Seagate Portable External Hard Drive ($59.99)
 
 <section id="economic-echoes">
 <h2 style="font-size:1.5rem; color:#2c3e50; margin-top:2rem; border-bottom:2px solid #e9ecef; padding-bottom:0.5rem;">Economic Ripples and Global Leverage</h2>
-<p>When oil prices jump past $90 a barrel on news of a diplomatic breakdown, it is not merely a financial statistic; it is a reminder of how deeply interconnected global energy supply chains remain. In previous eras, an interruption in regional shipping meant localized scarcity. In our modern globalized economy, a threat to the Strait of Hormuz transmits inflationary pressure directly to fuel pumps, manufacturing plants, and grocery shelves thousands of miles away.</p>
+<p>When oil prices jump past  a barrel on news of a diplomatic breakdown, it is not merely a financial statistic; it is a reminder of how deeply interconnected global energy supply chains remain. In previous eras, an interruption in regional shipping meant localized scarcity. In our modern globalized economy, a threat to the Strait of Hormuz transmits inflationary pressure directly to fuel pumps, manufacturing plants, and grocery shelves thousands of miles away.</p>
 
 <p>This reality underpins the high-stakes leverage game currently being played. Tehran utilizes the threat of maritime disruption as an asymmetric counterweight against overwhelming conventional military superiority, while Washington employs economic sanctions, naval positioning, and diplomatic pressure to force compliance. History suggests that asymmetric leverage works effectively up until the moment it crosses the threshold into open conflict—at which point all parties typically find the costs far higher than anticipated.</p>
 </section>
@@ -119,7 +119,7 @@ Source: <a href="https://www.foxnews.com/live-news/us-iran-war-news-trump-israel
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -127,7 +127,7 @@ Source: <a href="https://www.foxnews.com/live-news/us-iran-war-news-trump-israel
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

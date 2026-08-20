@@ -24,39 +24,39 @@ source_url: 'https://abc7.com/post/jeanie-buss-contending-familys-sale-stake-lak
 <h2>Table of Contents</h2>
 <ul>
 <li><a href="#what-happened">What Happened: The Battle for Lakers Control</a></li>
-<li><a href="#the-financial-mechanics">The Financial Mechanics of a $12.5 Billion Franchise Sale</a></li>
+<li><a href="#the-financial-mechanics">The Financial Mechanics of a  Billion Franchise Sale</a></li>
 <li><a href="#trusts-governance-and-equity">Trusts, Governance, and Equity Thresholds</a></li>
 <li><a href="#broader-lessons">Broader Lessons on Sports Business and Wealth Transfer</a></li>
 <li><a href="#faqs">Frequently Asked Questions</a></li>
 </ul>
 </nav>
 
-<p>When family legacy collides with astronomical sports valuations, the result is rarely quiet. Los Angeles Lakers governor Jeanie Buss is formally contesting her siblings' vote to sell the family's remaining 17.8% stake in the historic franchise to a group led by Josh Kushner and Bob Iger at a staggering $12.5 billion valuation. Beyond the Hollywood drama, this high-stakes corporate dispute exposes how modern sports franchise transactions work, why ownership governance thresholds matter just as much as cash, and what happens when legacy owners cash out.</p>
+<p>When family legacy collides with astronomical sports valuations, the result is rarely quiet. Los Angeles Lakers governor Jeanie Buss is formally contesting her siblings' vote to sell the family's remaining 17.8% stake in the historic franchise to a group led by Josh Kushner and Bob Iger at a staggering  billion valuation. Beyond the Hollywood drama, this high-stakes corporate dispute exposes how modern sports franchise transactions work, why ownership governance thresholds matter just as much as cash, and what happens when legacy owners cash out.</p>
 
 <section>
 <h2 id="what-happened">What Happened: The Battle for Lakers Control</h2>
 <p>The latest twist in the Lakers' ownership saga erupted when ESPN reported that five Buss siblings voted to sell their remaining 17.8% share of the team. The buyers, Josh Kushner and Bob Iger, stepped in following a federal investigation into billionaire Mark Walter regarding alleged tax fraud by companies tied to him—a development that triggered a secondary wave of exits among the family trust.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 <p>However, Jeanie Buss—the lone sibling who abstained and did not vote to sell—is fighting back through her legal representation, attorney Adam Streisand. Citing a 2017 court ruling, the legal challenge argues that no sale can be effectuated without the approval of the co-trustees. Furthermore, the dispute threatens Jeanie Buss's position as controlling owner, because dropping below the minimum 15% personal ownership threshold could strip her of the governance rights she negotiated to hold through 2030.</p>
 </section>
 
 <section>
-<h2 id="the-financial-mechanics">The Financial Mechanics of a $12.5 Billion Franchise Sale</h2>
-<p>To understand why five siblings are eager to cash out while Jeanie Buss fights to preserve her post, you have to look at the math. A $12.5 billion valuation for an NBA franchise represents an almost unfathomable leap from the $20 million Dr. Jerry Buss paid Jack Kent Cooke in May 1979.</p>
+<h2 id="the-financial-mechanics">The Financial Mechanics of a  Billion Franchise Sale</h2>
+<p>To understand why five siblings are eager to cash out while Jeanie Buss fights to preserve her post, you have to look at the math. A  billion valuation for an NBA franchise represents an almost unfathomable leap from the  million Dr. Jerry Buss paid Jack Kent Cooke in May 1979.</p>
 <p>In corporate and financial terms, this transaction highlights several key economic mechanics:</p>
 <ul>
 <li><strong>Tag-Along Rights:</strong> The family's move relies on tag-along provisions secured during Walter's previous purchase in June 2025. These clauses protect minority stakeholders by allowing them to hitch their shares to a major buyer's valuation.</li>
-<li><strong>Liquidity vs. Control:</strong> For the five voting siblings, an exit at a $12.5 billion valuation offers generational liquidity. For Jeanie Buss, liquidating those shares means sacrificing the voting leverage that keeps her in the governor's chair.</li>
+<li><strong>Liquidity vs. Control:</strong> For the five voting siblings, an exit at a  billion valuation offers generational liquidity. For Jeanie Buss, liquidating those shares means sacrificing the voting leverage that keeps her in the governor's chair.</li>
 <li><strong>The Premium of Controlling Interest:</strong> In professional sports, operating control carries immense value beyond simple dividend payouts. The ability to steer media rights, arena partnerships, and basketball operations is tied directly to equity thresholds.</li>
 </ul>
 </section>
 
 <div class="ncg-quote-box" aria-label="Shareable Quote">
-<p>&ldquo;In modern sports finance, a $12.5 billion valuation turns family legacy into an extraordinary liquidity event &mdash; but it also tests whether family governance structures can survive nine-figure payouts.&rdquo;</p>
+<p>&ldquo;In modern sports finance, a  billion valuation turns family legacy into an extraordinary liquidity event &mdash; but it also tests whether family governance structures can survive nine-figure payouts.&rdquo;</p>
 </div>
 
 <section>
@@ -85,7 +85,7 @@ Tactical Waterproof Backpack ($35.99)
 </details>
 <details class="ncg-faq-item">
 <summary>Who is buying the remaining Buss family shares?</summary>
-<p>A group led by Josh Kushner and Bob Iger agreed to acquire the remaining shares at the same $12.5 billion valuation established during Mark Walter's previous purchase.</p>
+<p>A group led by Josh Kushner and Bob Iger agreed to acquire the remaining shares at the same  billion valuation established during Mark Walter's previous purchase.</p>
 </details>
 <details class="ncg-faq-item">
 <summary>What role do family trusts play in sports franchise ownership?</summary>
@@ -109,7 +109,7 @@ Tactical Waterproof Backpack ($35.99)
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "Jeanie Buss Contesting Lakers Sale: What Financial Impact Reveals About Billionaire Buyouts",
-  "description": "Jeanie Buss is fighting her siblings' vote to sell the Lakers stake to Josh Kushner and Bob Iger. Here is what the massive $12.5B deal reveals.",
+  "description": "Jeanie Buss is fighting her siblings' vote to sell the Lakers stake to Josh Kushner and Bob Iger. Here is what the massive B deal reveals.",
   "datePublished": "2026-03-31",
   "author": {
     "@type": "Person",
@@ -135,7 +135,7 @@ Tactical Waterproof Backpack ($35.99)
       "name": "Who is buying the remaining Buss family shares?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A group led by Josh Kushner and Bob Iger agreed to acquire the remaining shares at the same $12.5 billion valuation established during Mark Walter's previous purchase."
+        "text": "A group led by Josh Kushner and Bob Iger agreed to acquire the remaining shares at the same  billion valuation established during Mark Walter's previous purchase."
       }
     },
     {
@@ -156,7 +156,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -164,7 +164,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

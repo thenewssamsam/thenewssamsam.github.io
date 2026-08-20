@@ -11,7 +11,7 @@ source_url: 'https://www.syracuse.com/us-news/2026/08/farmer-gives-6-word-respon
 ---
 <article>
 <header class="ncg-header">
-<h1 class="ncg-h1">The $26 Million Farm Rejection: What Faith and Stewardship Reveal About the AI Boom</h1>
+<h1 class="ncg-h1">The  Million Farm Rejection: What Faith and Stewardship Reveal About the AI Boom</h1>
 <div class="ncg-meta-bar">
 <time datetime="2026-08-04" class="ncg-time">Published: August 4, 2026</time>
 <span class="ncg-separator">•</span>
@@ -20,13 +20,13 @@ source_url: 'https://www.syracuse.com/us-news/2026/08/farmer-gives-6-word-respon
 </header>
 
 <div class="ncg-intro-box">
-<p class="ncg-lead">When an artificial intelligence giant waved a $26.4 million check for their multi-generational Kentucky farmland, Delsia Bare and her mother Ida Huddleston had a remarkably short reply. Their six-word rejection of a planned AI data center highlights a rising cultural tension between relentless technological expansion and the timeless value of land stewardship.</p>
+<p class="ncg-lead">When an artificial intelligence giant waved a  million check for their multi-generational Kentucky farmland, Delsia Bare and her mother Ida Huddleston had a remarkably short reply. Their six-word rejection of a planned AI data center highlights a rising cultural tension between relentless technological expansion and the timeless value of land stewardship.</p>
 </div>
 
 <nav class="ncg-toc" aria-label="Table of Contents">
 <h2 class="ncg-toc-title">Table of Contents</h2>
 <ul class="ncg-toc-list">
-<li><a href="#what-happened">What Happened: The $26 Million Walkaway</a></li>
+<li><a href="#what-happened">What Happened: The  Million Walkaway</a></li>
 <li><a href="#faith-perspective">A Faith Perspective: Land, Legacy, and Stewardship</a></li>
 <li><a href="#the-broader-grid">Why the AI Infrastructure Clash Is Spreading</a></li>
 <li><a href="#how-should-christians-respond">How Should Christians Respond?</a></li>
@@ -35,12 +35,12 @@ source_url: 'https://www.syracuse.com/us-news/2026/08/farmer-gives-6-word-respon
 </nav>
 
 <section id="what-happened" class="ncg-section">
-<h2 class="ncg-h2">What Happened: The $26 Million Walkaway</h2>
-<p>In an era where tech companies routinely buy up large tracts of rural land to power the next generation of artificial intelligence, one family's choice made national headlines. Delsia Bare and her mother, Ida Huddleston, initially agreed to sell their Kentucky property for a combined total of $26.4 million. But once they discovered the land would host a sprawling data center to fuel machine learning infrastructure, they pulled out of the deal completely.</p>
+<h2 class="ncg-h2">What Happened: The  Million Walkaway</h2>
+<p>In an era where tech companies routinely buy up large tracts of rural land to power the next generation of artificial intelligence, one family's choice made national headlines. Delsia Bare and her mother, Ida Huddleston, initially agreed to sell their Kentucky property for a combined total of  million. But once they discovered the land would host a sprawling data center to fuel machine learning infrastructure, they pulled out of the deal completely.</p>
 <p>Bare's response to the prospective buyers was blunt and unforgettable: <q class="ncg-inline-quote">Kick rocks and don’t come back.</q></p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -67,7 +67,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Watch out! Be on your guard against all kinds of greed; life does not consist in an abundance of possessions.</p>
 <cite>— Luke 12:15 (NIV)</cite>
 </blockquote>
-<p>Walking away from $26 million sounds irrational to a tech market driven by exponential growth. Yet the family's choice testifies to a counter-cultural truth: integrity, family legacy, and a clear conscience cannot be balanced out by a ledger.</p>
+<p>Walking away from  million sounds irrational to a tech market driven by exponential growth. Yet the family's choice testifies to a counter-cultural truth: integrity, family legacy, and a clear conscience cannot be balanced out by a ledger.</p>
 </section>
 
 <section id="the-broader-grid" class="ncg-section">
@@ -110,8 +110,8 @@ Seagate Portable External Hard Drive ($59.99)
 {
   "@context": "https://schema.org",
   "@type": "NewsArticle",
-  "headline": "The $26 Million Farm Rejection: What Faith and Stewardship Reveal About the AI Boom",
-  "description": "A Kentucky family turned down $26.4 million from an AI data center to protect their 200-year-old family farm. Explore the deeper questions of stewardship.",
+  "headline": "The  Million Farm Rejection: What Faith and Stewardship Reveal About the AI Boom",
+  "description": "A Kentucky family turned down  million from an AI data center to protect their 200-year-old family farm. Explore the deeper questions of stewardship.",
   "datePublished": "2026-08-04",
   "author": {
     "@type": "Organization",
@@ -133,7 +133,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -141,7 +141,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

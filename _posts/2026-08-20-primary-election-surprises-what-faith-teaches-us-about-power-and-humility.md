@@ -27,13 +27,13 @@ source_url: 'https://www.latimes.com/politics/story/2026-08-19/trump-backed-cand
     <p>Tuesday’s results highlighted significant fractures within both major parties. In Florida, democratic socialist Angie Nixon secured a victory against the heavily funded Alexander Vindman, despite a massive fundraising disadvantage. Meanwhile, the influence of former President Trump faced a reality check as three of his endorsed candidates in traditionally red states—Florida and Wyoming—were defeated by their primary opponents.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>In Alaska, the Senate race is heating up as former Democratic Rep. Mary Peltola outperformed incumbent Republican Sen. Dan Sullivan, suggesting that the path to control of the Senate may be more complex than initial projections suggested. These outcomes reinforce a trend seen throughout the 2026 cycle: voters are increasingly looking past party establishment lines and traditional power structures.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -42,7 +42,7 @@ Tactical Waterproof Backpack ($35.99)
     <p><strong>Shareable Insight:</strong> "True influence is rarely found in the loudest endorsements or the largest bank accounts; it is found in the quiet, persistent connection between a leader and the people they serve."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>
@@ -52,19 +52,19 @@ Tactical Waterproof Backpack ($35.99)
     <p>Watching these electoral shifts, I am reminded of the biblical truth that human plans are often subject to a higher sovereignty. In Proverbs 16:9, we are told, <em>"In their hearts humans plan their course, but the Lord establishes their steps."</em> This doesn't mean we should be passive, but it does invite a sense of humility for those who pursue positions of authority.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>When we see candidates with millions of dollars in backing lose to grassroots efforts, it underscores a classic biblical theme: the rejection of pride and the exaltation of the humble. As 1 Peter 5:5 reminds us, <em>"God opposes the proud but shows favor to the humble."</em> Whether in politics or our daily lives, there is a recurring pattern where reliance on earthly resources—money, fame, or political machines—fails to account for the unpredictable spirit of the people.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>This election season teaches us to view political power with a healthy dose of perspective. When candidates lose, it is a reminder that no one is indispensable. When candidates win, it is a call to service rather than a mandate for arrogance. Our focus, regardless of the political outcome, remains on the character of the individuals and the well-being of the communities they claim to represent.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

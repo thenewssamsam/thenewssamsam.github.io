@@ -38,7 +38,7 @@ source_url: 'https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sa
     <p>According to a report by Seeking Alpha highlighting a fresh analysis from Goldman Sachs, just 2% of S&P 500 companies quantified the concrete financial effects of artificial intelligence in their second-quarter earnings reports. Among that small group, only 11% reported measurable productivity gains—such as faster software coding or more efficient customer support.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -64,7 +64,7 @@ Tactical Waterproof Backpack ($35.99)
     <h2>Why the Market Rewards Infrastructure Over Adoption</h2>
     <p>Wall Street's reaction to this spending gap makes rational economic sense once you examine the numbers. Investors continue to reward hardware and cloud infrastructure providers because their cash flows are immediate, verifiable, and tied to signed contracts.</p>
     <p>At the same time, the market is showing clear skepticism toward regular corporations pledging productivity gains "still to come." Without hard numbers on balance sheets, promises of future efficiency sound more like expensive overhead than profit drivers.</p>
-    <p>However, spending indicators suggest corporate commitment is not fading—it is actually accelerating. Data from the Ramp AI Index cited by Goldman Sachs shows that median monthly AI spending per worker climbed to $12 in July, up from just $5 at the start of the year. Among the top 10% of heavy-spending companies, that figure surged to $650 per employee, up from $240 earlier this year. Corporations are putting real capital behind the technology; they are simply waiting for the operational gears to mesh.</p>
+    <p>However, spending indicators suggest corporate commitment is not fading—it is actually accelerating. Data from the Ramp AI Index cited by Goldman Sachs shows that median monthly AI spending per worker climbed to  in July, up from just  at the start of the year. Among the top 10% of heavy-spending companies, that figure surged to  per employee, up from  earlier this year. Corporations are putting real capital behind the technology; they are simply waiting for the operational gears to mesh.</p>
   </section>
 
   <section id="cfo-shift">
@@ -125,7 +125,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -133,7 +133,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

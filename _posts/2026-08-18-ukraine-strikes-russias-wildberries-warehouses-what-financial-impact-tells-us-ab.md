@@ -34,7 +34,7 @@ source_url: 'https://apnews.com/article/russia-ukraine-war-putin-wildberries-kim
     <p>This is not merely a military story; it is an economic stress test. By destroying billions of dollars in commercial inventory across mammoth warehouses, the strikes are exposing deep structural vulnerabilities in Russian retail, banking debt, and small-business solvency.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -45,13 +45,13 @@ Tactical Waterproof Backpack ($35.99)
     <h2>The Shift in Targeting: E-Commerce as a War Zone</h2>
     <p>According to reports from the Associated Press, Ukrainian drone attacks have targeted roughly 20 Wildberries facilities over a month-long campaign, stretching from the outskirts of Moscow and St. Petersburg all the way to the Ural Mountains. Unlike oil refineries or arms factories, these colossal distribution hubs—some stretching up to 300,000 square meters—were largely unprotected against aerial attacks.</p>
     <p>Wildberries, often described as Russia's Amazon, accounts for roughly half of all online orders in the country. Founded by Tatyana Kim out of her Moscow apartment in 2004, the company grew into an e-commerce titan connecting hundreds of thousands of independent sellers with consumers across 11 time zones. When Western brands fled Russia following the full-scale invasion of Ukraine, online platforms filled the vacuum with imported goods from China, Turkey, and the United Arab Emirates.</p>
-    <p>By knocking out up to 20% of the company's total warehouse space and destroying an estimated $6 billion in merchandise, the strikes brought the physical reality of the war home to millions of ordinary Russian consumers who suddenly found their daily routines disrupted.</p>
+    <p>By knocking out up to 20% of the company's total warehouse space and destroying an estimated  billion in merchandise, the strikes brought the physical reality of the war home to millions of ordinary Russian consumers who suddenly found their daily routines disrupted.</p>
   </section>
 
   <section id="the-financial-lens">
     <h2>The Financial Impact: Balance Sheets Under Siege</h2>
     <p>From a financial perspective, the destruction of physical inventory is only the visible tip of the iceberg. The deeper vulnerability lies in the complex web of leverage, debt, and supply-chain interdependence that supports Russia's retail sector.</p>
-    <p>Wildberries expanded rapidly through massive loans from major Russian financial institutions, including state-backed lenders like VTB and Sberbank. By the end of 2025, the company's debts had climbed to the equivalent of roughly $15 billion. With up to seven of its ten largest logistics centers knocked out of operation, the retailer faces severe cash-flow constraints that threaten its ability to service these monumental debts.</p>
+    <p>Wildberries expanded rapidly through massive loans from major Russian financial institutions, including state-backed lenders like VTB and Sberbank. By the end of 2025, the company's debts had climbed to the equivalent of roughly  billion. With up to seven of its ten largest logistics centers knocked out of operation, the retailer faces severe cash-flow constraints that threaten its ability to service these monumental debts.</p>
     
     <div class="ncg-quote-box">
       <p>&ldquo;When an e-commerce giant built on mammoth centralized warehouses takes a direct hit, the financial shockwaves don't stop at corporate headquarters—they ripple through every leveraged bank loan and small-business supply line.&rdquo;</p>
@@ -85,7 +85,7 @@ Tactical Waterproof Backpack ($35.99)
     </details>
     <details class="ncg-faq-item">
       <summary>How much financial damage has Wildberries suffered?</summary>
-      <p>Estimates indicate that up to 20% of the company's total warehouse space has been destroyed, with financial assessments of lost merchandise running as high as $6 billion.</p>
+      <p>Estimates indicate that up to 20% of the company's total warehouse space has been destroyed, with financial assessments of lost merchandise running as high as  billion.</p>
     </details>
     <details class="ncg-faq-item">
       <summary>Are small businesses protected from these losses?</summary>
@@ -132,7 +132,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -140,7 +140,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

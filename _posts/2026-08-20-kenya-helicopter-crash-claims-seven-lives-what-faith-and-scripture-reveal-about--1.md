@@ -50,7 +50,7 @@ source_url: 'https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safa
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -64,7 +64,7 @@ Seagate Portable External Hard Drive ($59.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -80,7 +80,7 @@ Tactical Waterproof Backpack ($35.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -96,7 +96,7 @@ Tactical Waterproof Backpack ($35.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -115,7 +115,7 @@ Tactical Waterproof Backpack ($35.99)
   <!-- Amazon Recommendation 1 -->
   <div style="margin: 20px 0; padding: 15px; background-color: #fffbeb; border-left: 4px solid #f59e0b; border-radius: 0 8px 8px 0; font-size: 15px;">
     <p style="margin: 0; color: #92400e;">
-      <strong>Recommended Reading:</strong> Finding peace and enduring hope through difficult seasons: <a href="https://www.amazon.com/dp/B003L77ZXQ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">Walking with God through Pain and Suffering</a> by Timothy Keller (Paperback, $16.99).
+      <strong>Recommended Reading:</strong> Finding peace and enduring hope through difficult seasons: <a href="https://www.amazon.com/dp/B003L77ZXQ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">Walking with God through Pain and Suffering</a> by Timothy Keller (Paperback, ).
     </p>
   </div>
 
@@ -142,7 +142,7 @@ Tactical Waterproof Backpack ($35.99)
   <!-- Amazon Recommendation 2 -->
   <div style="margin: 20px 0; padding: 15px; background-color: #fffbeb; border-left: 4px solid #f59e0b; border-radius: 0 8px 8px 0; font-size: 15px;">
     <p style="margin: 0; color: #92400e;">
-      <strong>Recommended Resource:</strong> Daily encouragement for spiritual resilience and emotional healing: <a href="https://www.amazon.com/dp/140020173X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">Jesus Calling: Enjoying Peace in His Presence</a> by Sarah Young (Hardcover, $15.99).
+      <strong>Recommended Resource:</strong> Daily encouragement for spiritual resilience and emotional healing: <a href="https://www.amazon.com/dp/140020173X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">Jesus Calling: Enjoying Peace in His Presence</a> by Sarah Young (Hardcover, ).
     </p>
   </div>
 

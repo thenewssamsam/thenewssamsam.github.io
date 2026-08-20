@@ -25,7 +25,7 @@ source_url: 'https://apnews.com/article/fbi-headquarters-maryland-reagan-buildin
     <p>U.S. District Judge Theodore D. Chuang ruled on Monday that the administration’s decision to abandon the approved Greenbelt, Maryland site—and instead move the FBI into the Reagan Building—was "not in accordance with law." The court’s injunction prevents the administration from proceeding with the move, conducting renovations for the FBI, or repurposing funds previously earmarked by Congress for the Maryland project.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>The state of Maryland and Prince George’s County filed the suit, arguing that the administration had unlawfully bypassed established selection processes. Conversely, the FBI released a statement criticizing the court’s intervention, characterizing the move to the Reagan Building as a "cost-effective" measure for taxpayers.</p>
@@ -90,7 +90,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -98,7 +98,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

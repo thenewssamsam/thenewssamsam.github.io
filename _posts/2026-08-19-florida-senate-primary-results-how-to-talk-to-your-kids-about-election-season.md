@@ -25,7 +25,7 @@ source_url: "https://www.nbcnews.com/politics/2026-primary-special-elections/flo
     <p>When elections hit the headlines, they often enter our living rooms whether we invite them or not. For parents, the challenge isn't just following the news—it's helping children process a world that can feel increasingly polarized. As the Florida Senate race heats up, it is a perfect opportunity to pivot from the "noise" of political ads to the "lesson" of how a democracy functions.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -46,14 +46,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In the midst of political campaigning, it is easy for tensions to rise and for words to become sharp. This makes me think about the challenge of maintaining a spirit of grace in a competitive environment. One lesson I am reminded of is the importance of "speaking the truth in love," as mentioned in Ephesians 4:15: <em>"Instead, speaking the truth in love, we will grow to become in every respect the mature body of him who is the head, that is, Christ."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>When we discuss these election results with our families, we have a unique opportunity to model this balance. Being honest about our values doesn't mean we have to participate in the vitriol that often characterizes modern politics. Proverbs 15:1 also reminds us: <em>"A gentle answer turns away wrath, but a harsh word stirs up anger."</em> By choosing calm, thoughtful dialogue over reactive arguing, we teach our children that our character remains constant, regardless of which candidate is on the ballot.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -72,7 +72,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Election cycles are temporary, but the lessons we teach our children about character, respect, and civic duty will last a lifetime. Whether you are pleased with the Florida Senate primary results or disappointed, remember that you are the primary influence in your child's perspective on the world. Keep the conversation open, stay grounded in your values, and use this time to build a more thoughtful, engaged generation. </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p><strong>Lead your family with grace, not just opinion.</strong></p>

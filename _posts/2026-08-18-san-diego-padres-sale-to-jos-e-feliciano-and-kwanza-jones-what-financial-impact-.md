@@ -39,7 +39,7 @@ source_url: 'https://www.mlb.com/news/padres-sale-to-jose-e-feliciano-and-kwanza
     <p>The transition of control to Jones and Feliciano—who are husband and wife and co-founders of the Kwanza Jones and José E. Feliciano Initiative—comes after an agreement was struck back in May following exploratory sale processes initiated by the Seidler family late last year. Feliciano, the co-founder and managing partner of Clearlake Capital Group, has been designated as the team's control person, while Jones serves as CEO of their private family office and brings extensive board-level experience.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
     <p>The closing of the transaction is scheduled for the coming days, culminating in an official introduction press conference at Petco Park on August 24. Day-to-day baseball and business operations will remain under the steady leadership of CEO Erik Greupner and general manager A.J. Preller, providing continuity for a club currently right in the thick of the National League postseason race.</p>
@@ -66,7 +66,7 @@ Seagate Portable External Hard Drive ($59.99)
   <section class="ncg-section" id="ncg-market-context">
     <h2>A Franchise at Its Peak Valuation Era</h2>
     <p>The timing of this sale is fascinating from a pure business economics standpoint. The Padres are operating during the most successful era in club history, having reached the postseason in four of the past six years. More importantly for revenue generation, the franchise has ranked second in Major League Baseball in attendance in each of the last two seasons, breaking franchise attendance records three years in a row.</p>
-    <p>This surge in ticket sales, merchandise movement, and local broadcast value places the Padres in a very different financial bracket than when the Seidler family group originally purchased the team for $800 million back in 2012. Modern MLB valuations reflect not just local TV contracts—which face ongoing industry shifts—but robust live-gate economies and year-round stadium district utilization. For Jones and Feliciano, stepping into a well-oiled machine with established leadership under Preller and Greupner minimizes operational friction during the transition.</p>
+    <p>This surge in ticket sales, merchandise movement, and local broadcast value places the Padres in a very different financial bracket than when the Seidler family group originally purchased the team for  million back in 2012. Modern MLB valuations reflect not just local TV contracts—which face ongoing industry shifts—but robust live-gate economies and year-round stadium district utilization. For Jones and Feliciano, stepping into a well-oiled machine with established leadership under Preller and Greupner minimizes operational friction during the transition.</p>
   </section>
 
   <section class="ncg-section" id="ncg-how-readers-respond">
@@ -105,7 +105,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -113,7 +113,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

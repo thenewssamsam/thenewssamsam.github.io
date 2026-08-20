@@ -39,7 +39,7 @@ source_url: 'https://triblive.com/local/judge-orders-allegheny-county-to-begin-f
         <p>In a decision delivered on Monday, Senior Armstrong County Common Pleas Judge Kenneth Valasek ordered Allegheny County to begin a comprehensive property reassessment no later than July 1, 2027. The ruling stems from a lawsuit filed in January 2025 by Flavia Laun, a Churchill homeowner who challenged her own steep assessment hike following a school district appeal.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
         <p>For years, Allegheny County has operated on base-year values established in 2012. Because real estate markets shift unevenly over time, relying on decade-old valuations meant that neighborhoods experiencing rapid growth were taxed differently than areas where values remained stagnant. Large commercial property owners frequently exploited these discrepancies, while residential homeowners absorbed the resulting imbalances.</p>
@@ -125,7 +125,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -133,7 +133,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

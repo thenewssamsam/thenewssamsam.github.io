@@ -38,7 +38,7 @@ source_url: 'https://fortune.com/2026/08/17/depleted-us-strategic-oil-reserves-r
     <p>Stored across 60 deep underground salt caverns in Texas and Louisiana, the reserve has a total design capacity of 714 million barrels. While the Department of Energy (DOE) maintains that the facilities are being responsibly managed as critical national security assets, petroleum engineers and former energy officials are sounding alarms. Beyond the immediate political finger-pointing between administrations over past drawdowns, a more fundamental, physical constraint is coming to light: the very act of draining the caverns may be pushing their geological limits.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
   </section>
@@ -46,7 +46,7 @@ Tactical Waterproof Backpack ($35.99)
   <section id="financial-impact">
     <h2>The Financial Impact: Repair Costs, Replenishment, and Market Pressures</h2>
     <p>From a financial and economic perspective, an emergency reserve is only as good as its ability to be both drawn down and refilled without crippling long-term costs. When supplies drop this precipitously, the economic shockwaves ripple through household budgets, industrial expenses, and federal balance sheets.</p>
-    <p>First, replenishment is never free. Buying back hundreds of millions of barrels of crude to refill the caverns at market prices requires significant taxpayer capital—especially when global supplies are tight and geopolitical tensions keep crude prices elevated. Past rapid drawdowns have already necessitated over $100 million in facility repairs, as testified by Energy Secretary Chris Wright. Pumping oil out quickly and introducing billions of gallons of water to maintain pressure causes wear and tear on surface pumps, extraction pipes, and structural walls that demand expensive engineering overhauls.</p>
+    <p>First, replenishment is never free. Buying back hundreds of millions of barrels of crude to refill the caverns at market prices requires significant taxpayer capital—especially when global supplies are tight and geopolitical tensions keep crude prices elevated. Past rapid drawdowns have already necessitated over  million in facility repairs, as testified by Energy Secretary Chris Wright. Pumping oil out quickly and introducing billions of gallons of water to maintain pressure causes wear and tear on surface pumps, extraction pipes, and structural walls that demand expensive engineering overhauls.</p>
     
     <div class="ncg-quote-box">
       <p>"When the cushion gets too thin, you are no longer just managing energy prices—you are mortgaging the physical infrastructure designed to protect the American economy from catastrophic shocks."</p>
@@ -131,7 +131,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -139,7 +139,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

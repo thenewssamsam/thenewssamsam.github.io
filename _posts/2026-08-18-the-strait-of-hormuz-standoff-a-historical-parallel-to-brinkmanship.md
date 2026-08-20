@@ -26,7 +26,7 @@ source_url: 'https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-
     <p>Following the expiration of a memorandum of understanding meant to address sanctions and nuclear concerns, Washington and Tehran remain deadlocked. President Trump, speaking on Fox News, characterized the Iranian leadership as "good poker players" while suggesting he remains in no hurry to resolve the five-month-long conflict. Simultaneously, he issued a stern warning to Oman regarding interference in the Strait of Hormuz, a vital energy artery.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
     <p>Iranian officials continue to reject what they label "failed" American pressure tactics, citing a history of hostility dating back to 1953. Analysts note that both sides are currently engaging in "maximalist" posturing, asserting territorial or strategic claims that lack immediate tactical backing.</p>
@@ -87,7 +87,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -95,7 +95,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

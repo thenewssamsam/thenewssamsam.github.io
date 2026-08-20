@@ -15,7 +15,7 @@ source_url: "https://apnews.com/article/tariffs-trump-canada-usmca-trade-aae597c
     </header>
 
     <section id="introduction">
-        <p>In a high-stakes development that gripped the North American economic landscape, the United States and Canada have reached a last-minute agreement to delay a massive 50% tariff on $20 billion worth of Canadian imports. This eleventh-hour reprieve, announced by President Trump, offers a temporary pause in a trade dispute that threatened to disrupt everything from construction materials to medical supplies.</p>
+        <p>In a high-stakes development that gripped the North American economic landscape, the United States and Canada have reached a last-minute agreement to delay a massive 50% tariff on  billion worth of Canadian imports. This eleventh-hour reprieve, announced by President Trump, offers a temporary pause in a trade dispute that threatened to disrupt everything from construction materials to medical supplies.</p>
         
         <p>While the headlines focus on the economic mechanics of trade deficits and tariffs, there is a deeper layer to consider. As neighbors and historic allies, the relationship between these two nations is not merely a balance sheet of goods and services; it is a complex web of human connections and stewardship. From a biblical perspective, how do we navigate the tension between national interest and the call to pursue peace with our neighbors?</p>
     </section>
@@ -25,14 +25,14 @@ source_url: "https://apnews.com/article/tariffs-trump-canada-usmca-trade-aae597c
         <p>The situation escalated when the U.S. administration invoked the obscure Section 338 of the Tariff Act of 1930, a relic from the Great Depression era. By threatening a 50% tariff, the administration aimed to pressure Canada into removing measures deemed discriminatory against U.S. exports like dairy, alcohol, and motor vehicles. The threat was immediate, scheduled to take effect at 12:01 a.m. Wednesday.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         
         <p>The economic impact would have been significant, but the political and social strain might have been even greater. With both nations deeply integrated, a trade war could have penalized families and businesses on both sides of the border. As Canadian Prime Minister Mark Carney noted, while "substantial progress" was made, the situation remains in a fragile state of negotiation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </section>
@@ -41,7 +41,7 @@ Tactical Waterproof Backpack ($35.99)
         <p><strong>Shareable Insight:</strong> "True diplomacy isn't just about winning a negotiation; it’s about recognizing that the prosperity of our neighbor is woven into our own."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -51,21 +51,21 @@ Tactical Waterproof Backpack ($35.99)
         <p>When we look at the complexities of international trade through the lens of faith, we are reminded of the concept of stewardship. Economic resources are not merely tools for national dominance, but assets to be managed with wisdom and justice. Proverbs 11:1 reminds us: <em>"A false balance is an abomination to the Lord, but a just weight is his delight."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         
         <p>This verse speaks to the integrity of our dealings. Whether in personal business or national trade policy, God calls His people to pursue fairness. When nations engage in trade, the goal should be mutual flourishing rather than exploitation. The current tension reminds us that our actions have consequences for the "least of these"—the ordinary citizens who bear the cost of inflation and economic instability when policies shift abruptly.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         
         <p>Furthermore, Romans 12:18 provides a clear directive: <em>"If it is possible, as far as it depends on you, live at peace with everyone."</em> While nations have a legitimate role in protecting their interests, the Christian perspective invites us to prioritize reconciliation. The "off-ramp" mentioned by trade experts is not just a diplomatic strategy; it is a moral necessity when the alternative is unnecessary hardship for millions of people.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </section>

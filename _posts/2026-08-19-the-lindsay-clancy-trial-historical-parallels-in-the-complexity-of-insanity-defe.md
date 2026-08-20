@@ -24,7 +24,7 @@ source_url: "https://turnto10.com/news/local/testimony-in-lindsay-clancy-murder-
     <p>The trial centers on the events of January 2023, when Lindsay Clancy killed her three children using exercise bands. The defense is actively working to establish that Clancy was suffering from severe mental illness, rendering her not criminally responsible for her actions. Recent testimony included graphic descriptions of the strangulations and a psychologist’s account of Clancy claiming to hear voices ordering her to commit the acts.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -34,7 +34,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Throughout history, the legal system has grappled with the "insanity defense." A significant historical touchstone is the 1843 M'Naghten case in England. Daniel M'Naghten, suffering from paranoid delusions, attempted to assassinate the British Prime Minister but killed his secretary instead. The resulting "M'Naghten Rules" established that to be found not guilty by reason of insanity, a defendant must prove they did not understand the nature of their act or that they did not know it was wrong.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -42,7 +42,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>"The legal struggle to distinguish between a broken mind and a guilty heart is a tension that has defined criminal jurisprudence for centuries, forcing courts to weigh the limits of human agency against the reality of mental illness."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -50,7 +50,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Another parallel can be found in the mid-20th century shift toward the Model Penal Code, which sought to expand the definition of insanity to include a lack of "substantial capacity" to conform one's conduct to the requirements of the law. These historical shifts demonstrate that society’s definition of "responsibility" is not static; it evolves alongside our medical understanding of the human brain.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -60,13 +60,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This trial brings us face-to-face with the darkest corners of human experience, reminding us that we are fragile beings. The Bible speaks to the weight of the mind and the spirit, often highlighting the need for grace in the midst of overwhelming suffering. I am reminded of <strong>Psalm 34:18</strong>, which says, "The Lord is close to the brokenhearted and saves those who are crushed in spirit."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>This verse doesn't negate the tragedy or the need for justice, but it invites us to consider the profound brokenness that can exist within a person's life. We often seek simple answers to complex tragedies, yet Scripture teaches us to approach such suffering with humility. When we see lives shattered, we are reminded that our ultimate hope rests not in the courtroom alone, but in a God who understands the depths of human sorrow and the complexities of our inner lives. It is a sobering call to pray for mercy and clarity for all involved.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -76,7 +76,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>For those following this case, the most productive response is to support mental health initiatives in your local community. Education about postpartum mental health and access to crisis resources are vital. If you or someone you know is in crisis, remember that the National Suicide and Crisis Lifeline is available by calling or texting 988.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

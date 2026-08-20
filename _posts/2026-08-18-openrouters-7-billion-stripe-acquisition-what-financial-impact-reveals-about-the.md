@@ -16,22 +16,22 @@ source_url: 'https://eu.36kr.com/en/p/3943273131342979'
       <span class="ncg-dot">•</span>
       <span>6 min read</span>
     </div>
-    <h1>OpenRouter's $7 Billion Stripe Acquisition: What Financial Impact Reveals About the AI Token Economy</h1>
-    <p class="ncg-subtitle">When Stripe agreed to acquire AI model router OpenRouter for upwards of $7 billion—tripling its valuation in just three months—it exposed a profound structural divide in how money flows through the artificial intelligence boom.</p>
+    <h1>OpenRouter's  Billion Stripe Acquisition: What Financial Impact Reveals About the AI Token Economy</h1>
+    <p class="ncg-subtitle">When Stripe agreed to acquire AI model router OpenRouter for upwards of  billion—tripling its valuation in just three months—it exposed a profound structural divide in how money flows through the artificial intelligence boom.</p>
   </header>
 
   <section id="what-happened">
     <h2>What Happened?</h2>
-    <p>Payment giant Stripe has finalized an agreement to acquire OpenRouter for a transaction price exceeding $7 billion, according to Bloomberg reports. Just three months prior, in May, OpenRouter closed a Series B financing round that valued the startup between $1.3 billion and $1.5 billion. That represents a staggering fivefold surge in valuation over a remarkably short window.</p>
+    <p>Payment giant Stripe has finalized an agreement to acquire OpenRouter for a transaction price exceeding  billion, according to Bloomberg reports. Just three months prior, in May, OpenRouter closed a Series B financing round that valued the startup between  billion and  billion. That represents a staggering fivefold surge in valuation over a remarkably short window.</p>
     <p>Founded in 2023 by former OpenSea co-founder Alex Atallah, OpenRouter does not build massive frontier models, nor does it own warehouses full of high-end GPUs. Instead, it operates as a traffic intermediary and model scheduling service. It connects major open-source and closed-source models—from OpenAI and Anthropic to DeepSeek—into a single API, allowing developers to route requests dynamically based on cost, speed, and reliability.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
 
-    <p>With an annualized recurring revenue (ARR) sitting around $140 million against roughly $40 million in operating costs, OpenRouter boasts an annualized gross profit margin of approximately 71 percent. Stripe's $7 billion price tag values the company at roughly 50 times its ARR—a premium valuation that forces a closer look at the economic machinery powering the AI infrastructure stack.</p>
+    <p>With an annualized recurring revenue (ARR) sitting around  million against roughly  million in operating costs, OpenRouter boasts an annualized gross profit margin of approximately 71 percent. Stripe's  billion price tag values the company at roughly 50 times its ARR—a premium valuation that forces a closer look at the economic machinery powering the AI infrastructure stack.</p>
   </section>
 
   <section id="financial-impact-perspective">
@@ -88,8 +88,8 @@ Seagate Portable External Hard Drive ($59.99)
   {
     "@context": "https://schema.org",
     "@type": "NewsArticle",
-    "headline": "OpenRouter's $7 Billion Stripe Acquisition: What Financial Impact Reveals About the AI Token Economy",
-    "description": "Stripe is acquiring AI routing platform OpenRouter for over $7B. Discover the financial mechanics behind this valuation and the broader AI token economy.",
+    "headline": "OpenRouter's  Billion Stripe Acquisition: What Financial Impact Reveals About the AI Token Economy",
+    "description": "Stripe is acquiring AI routing platform OpenRouter for over B. Discover the financial mechanics behind this valuation and the broader AI token economy.",
     "datePublished": "2026-03-31",
     "author": {
       "@type": "Organization",
@@ -108,7 +108,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -116,7 +116,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -43,7 +43,7 @@ source_url: "https://apnews.com/article/florida-wyoming-alaska-primaries-democra
       <p>Beneath the poll numbers, fundraising totals, and strategic redistricting lies an age-old human impulse: the drive for authority, recognition, and control. Elections hold up a mirror to our society, reflecting our deepest hopes for governance and our rawest competitions for status.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -54,14 +54,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>When we watch the high-stakes theater of primary elections—the fierce competition, the spent millions, the carefully crafted public images, and the sudden upsets—it is easy to get swept up in the earthly drama. Yet history and Scripture invite us to look deeper than the daily news cycle. Political power is intoxicating because it promises security, validation, and control over our shared environment.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>Scripture addresses the human hunger for dominance with both realism and caution. In the Gospels, we see the disciples arguing over who among them would be the greatest, mirroring the very ambition that drives modern political primary fields. The pursuit of high office is not inherently evil—good governance is a vital means of maintaining justice and protecting the vulnerable. However, the human heart often slips from stewardship into self-exaltation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -69,7 +69,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p>"Let nothing be done through selfish ambition or conceit, but in lowliness of mind let each esteem others better than themselves." — Philippians 2:3</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -77,7 +77,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>This verse cuts directly to the core of competitive politics. When campaigns become fueled purely by pride, animosity, and the relentless quest for personal status, they cease to be about serving the public good. Instead, they devolve into contests of ego. Whether it is an establishment figure outspent by an insurgent, or former officials seeking political resurrections despite past scandals, the underlying narrative is often the same: the human desire to sit on a throne of our own making.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -87,14 +87,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Watching candidates scramble for endorsements, spar over debates, and navigate the shifting tides of public opinion makes me think about how fragile earthly authority truly is. We pour so much collective energy into choosing who holds the reins of government, often acting as though a single election can usher in utopia or spell total doom. But true wisdom reminds us to keep our ultimate trust anchored far above Capitol Hill or the governor's mansion.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>Proverbs offers a sobering reminder regarding the limits of human scheming:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -102,7 +102,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p>"Many are the plans in a person's heart, but it is the Lord's purpose that prevails." — Proverbs 19:21</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -110,7 +110,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>This truth brings a profound sense of relief to the believer. It doesn't mean we check out of civic duties or ignore primary results; rather, it frees us from the anxiety of political idolatry. Leaders will rise and fall, maps will be redrawn, and campaign fortunes will reverse overnight. Yet God's sovereign work in the world moves forward regardless of who wins a Florida primary or an Alaska Senate race. Our calling is faithfulness in our immediate spheres of influence—loving our neighbors, speaking truth with grace, and conducting our lives with integrity.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -120,7 +120,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>As these primary winners pivot toward the general election campaigns this fall, believers navigating the political season are called to a distinct posture. Here are practical ways to engage without losing your spiritual peace:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 

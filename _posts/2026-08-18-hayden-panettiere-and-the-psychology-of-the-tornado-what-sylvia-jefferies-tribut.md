@@ -39,7 +39,7 @@ source_url: 'https://people.com/hayden-panettiere-nashville-mom-sylvia-jefferies
   <p>On Sunday, August 16, 2026, emergency personnel responded to an unresponsive female at a residence in Greenville, South Carolina, where Hayden Panettiere was later pronounced dead at age 36. Local police and the Greenville County Coroner’s Office confirmed that an initial investigation showed no signs of foul play or trauma, with the exact cause and manner of death remaining pending further studies.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
   <p>In the wake of the news, tributes poured in from across the entertainment world. Panettiere’s father, Alan Lee “Skip” Panettiere, released a statement remembering her as an "incredible light and a force of nature." Costars from her celebrated run on ABC's <em>Nashville</em>—which premiered in 2012 and chronicled the ambitions and trials of Music City—shared deeply personal remembrances. Connie Britton spoke of "heartbreak" and "brilliance," while Charles Esten recalled their fast friendship. But it was Sylvia Jefferies’ reflection on playing television mother Jolene Barnes to Panettiere’s Juliette Barnes that struck a particularly poignant chord.</p>
@@ -142,7 +142,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -150,7 +150,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

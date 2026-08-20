@@ -26,7 +26,7 @@ source_url: "https://abcnews.com/Politics/florida-holds-1st-major-primaries-afte
       <p><strong>Did you know?</strong> Political redistricting is a recurring theme in American history, often sparking intense debate over representation and fairness. Understanding these mechanics is the first step toward informed civic engagement.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -34,7 +34,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Simultaneously, the GOP gubernatorial primary features Rep. Byron Donalds as a front-runner. If successful, his path could lead to historic milestones in Florida politics. Meanwhile, internal party dynamics are also on display, as seen in the primary challenge against Rep. Cory Mills, where calls for "integrity and energy" have become central to the debate.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -44,7 +44,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>From a biblical worldview, the pursuit of political office is not merely about power or party dominance; it is a call to stewardship. When we look at the controversies surrounding candidates and the maneuvering of district lines, we are reminded that leadership is a trust granted by the people and, ultimately, overseen by God.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -55,7 +55,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This verse reminds us that while we look to political leaders for stability, our ultimate trust must remain in God. Political systems are fallible, and the people within them are prone to the same temptations as any other—pride, greed, and the desire for control. When we see scandals or intense partisan friction, it serves as a mirror for our own hearts. Are we prioritizing the common good, or are we caught up in the "win at all costs" mentality?</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -63,7 +63,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p><strong>Shareable Insight:</strong> "True political stewardship isn't found in the lines drawn on a map, but in the integrity of the heart that serves the people behind those lines."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -71,7 +71,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The Apostle Paul writes in 1 Corinthians 4:2, <em>"Now it is required that those who have been given a trust must prove faithful."</em> This principle of faithfulness is the gold standard for any public servant. Whether in a newly drawn district or a high-stakes gubernatorial race, the call is to serve with a transparency that reflects the values of justice and mercy.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -81,7 +81,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Responding to these elections requires a balanced, prayerful approach:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>
@@ -97,7 +97,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>As the primary results roll in, we may feel tempted to place our hope in the outcome of a specific race. Yet, the history of nations shows that political shifts are constant, while the principles of truth and justice remain the anchor. Let us engage in the process with eyes wide open, knowing that our ultimate citizenship is found in a Kingdom that does not rely on congressional maps or campaign donations. We are called to be salt and light, influencing our world through lives of integrity, even when the political landscape is in turmoil.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

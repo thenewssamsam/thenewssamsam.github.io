@@ -33,12 +33,12 @@ source_url: "https://www.nbcnews.com/business/economy/trump-pauses-canada-tariff
 
 <section id="what-happened">
 <h2>What Happened: The Three-Day Pause</h2>
-<p>The eleventh-hour announcement averted—at least temporarily—a massive escalation in North American trade tensions. The proposed 50 percent duties would have targeted roughly $20 billion worth of U.S. imports from Canada, affecting everyday consumer items ranging from building materials and liquors to specific apparel and hockey sticks.</p>
+<p>The eleventh-hour announcement averted—at least temporarily—a massive escalation in North American trade tensions. The proposed 50 percent duties would have targeted roughly  billion worth of U.S. imports from Canada, affecting everyday consumer items ranging from building materials and liquors to specific apparel and hockey sticks.</p>
 
 <p>According to statements from both the White House and Canadian leadership, intense negotiations over the preceding week yielded substantial progress. While details remain sparse pending the finalization of documents, the Office of the U.S. Trade Representative indicated that the forthcoming deal encompasses comprehensive market access for American goods, economic security commitments, and digital trade alignment. Trump also made a surprise reference to the Keystone XL pipeline, suggesting it may be revived, though Canadian officials have yet to outline specifics on that front.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -48,7 +48,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Whenever high-profile trade disputes erupt into public view, a flurry of rumors, spin, and misunderstanding inevitably follows. Let us separate the established facts from common misconceptions surrounding this pivotal moment in U.S.-Canada relations.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -57,7 +57,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p><strong>Fact:</strong> The threatened duties represented a historic and aggressive legal maneuver. They marked the very first invocation of Section 338 of the Tariff Act of 1930—a decades-old statute designed to penalize foreign trading partners deemed to be "discriminating" against U.S. commerce. U.S. Trade Representative Jamieson Greer explicitly tied the measure to retaliation by Canada against previous American tariff tranches.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </div>
@@ -67,7 +67,7 @@ Tactical Waterproof Backpack ($35.99)
 <p><strong>Fact:</strong> The clash was the culmination of months of friction. Beyond broader disagreements over supply chains and automotive duties, tensions had flared previously over incidents like an Ontario television ad using edited clips of Ronald Reagan to criticize Trump's trade policies. While Canadian federal officials did not sponsor the ad, it served as a significant flashpoint in bilateral relations.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </div>
@@ -77,7 +77,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p><strong>Fact:</strong> Both Trump and Prime Minister Carney emphasized that the pause is subject to the "finalization of documents." While substantial progress has been made, negotiators still face critical hurdles—particularly regarding specific sector protections, such as automobile duties, where significant gaps reportedly remained between U.S. and Canadian negotiators.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </div>
@@ -87,7 +87,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 
 <div class="ncg-product-card" style="background: #fffdf0; border: 1px solid #e6dbb9; border-left: 4px solid #f0ad4e; padding: 15px; margin: 15px 0; border-radius: 4px;">
-<p style="margin: 0; font-size: 0.95em;"><strong>Recommended Resource:</strong> For a deeper understanding of macroeconomic trends and global trade mechanics, consider exploring <a href="https://www.amazon.com/dp/B002RI9VBE?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Principles: Life and Work by Ray Dalio</a> ($16.99), which offers practical frameworks for analyzing economic shifts and institutional decision-making.</p>
+<p style="margin: 0; font-size: 0.95em;"><strong>Recommended Resource:</strong> For a deeper understanding of macroeconomic trends and global trade mechanics, consider exploring <a href="https://www.amazon.com/dp/B002RI9VBE?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Principles: Life and Work by Ray Dalio</a> , which offers practical frameworks for analyzing economic shifts and institutional decision-making.</p>
 </div>
 </section>
 
@@ -96,14 +96,14 @@ Tactical Waterproof Backpack ($35.99)
 <p>Watching nations maneuver through economic pressures and high-stakes negotiations often brings to mind the timeless counsel found in Scripture regarding honesty, patience, and the pursuit of peace. When leaders hold immense power over markets and livelihoods, the weight of their decisions reaches far beyond boardroom tables into the daily lives of ordinary families.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Proverbs 11:1 reminds us, <q>False scales are an abomination to the Lord, but an honest weight is his delight.</s> In a broader sense, this principle of fairness and integrity applies just as much to international commerce and diplomatic dealings as it does to local marketplaces. Furthermore, James 3:18 encourages a constructive approach to conflict: <q>And a harvest of righteousness is sown in peace by those who make peace.</s> These reminders invite us to look past the rhetoric of trade wars and hope for solutions that honor human dignity and foster genuine cooperation rather than division.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -113,7 +113,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>While international trade policy is set in Washington and Ottawa, economic shifts ultimately ripple down to local communities and household budgets. Here are a few grounded ways to respond wisely:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <ul>
@@ -123,7 +123,7 @@ Seagate Portable External Hard Drive ($59.99)
 </ul>
 
 <div class="ncg-product-card" style="background: #fffdf0; border: 1px solid #e6dbb9; border-left: 4px solid #f0ad4e; padding: 15px; margin: 15px 0; border-radius: 4px;">
-<p style="margin: 0; font-size: 0.95em;"><strong>Recommended Resource:</strong> To help manage household budgets during periods of economic uncertainty, check out <a href="https://www.amazon.com/dp/1501164076?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Total Money Makeover by Dave Ramsey</a> ($15.49) for foundational steps toward financial peace.</p>
+<p style="margin: 0; font-size: 0.95em;"><strong>Recommended Resource:</strong> To help manage household budgets during periods of economic uncertainty, check out <a href="https://www.amazon.com/dp/1501164076?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Total Money Makeover by Dave Ramsey</a>  for foundational steps toward financial peace.</p>
 </div>
 </section>
 
@@ -132,7 +132,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Trade agreements and tariff deadlines make for compelling theater, but behind every statistic and policy debate are real workers, farmers, and families trying to plan their futures with confidence. As the three-day pause unfolds and final documents are weighed, the ultimate measure of any deal will be whether it builds lasting stability or merely kicks the next crisis down the road. True economic health rests not on sudden ultimatums, but on steady stewardship, clear communication, and a commitment to mutual well-being.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <p><em>In a world driven by fast-paced leverage, patience and truth remain our most reliable currency.</em></p>
@@ -152,7 +152,7 @@ Tactical Waterproof Backpack ($35.99)
 
 <details style="margin-bottom: 10px; border: 1px solid #ddd; padding: 10px; border-radius: 4px;">
 <summary style="font-weight: bold; cursor: pointer;">What products would have been affected by the 50% duties?</summary>
-<p style="margin-top: 8px;">The import taxes would have impacted roughly $20 billion worth of U.S. imports from Canada, including certain building materials, liquors, specific clothing items, and hockey sticks.</p>
+<p style="margin-top: 8px;">The import taxes would have impacted roughly  billion worth of U.S. imports from Canada, including certain building materials, liquors, specific clothing items, and hockey sticks.</p>
 </details>
 </section>
 
@@ -200,7 +200,7 @@ Tactical Waterproof Backpack ($35.99)
       "name": "What products would have been affected by the 50% duties?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The import taxes would have impacted roughly $20 billion worth of U.S. imports from Canada, including certain building materials, liquors, specific clothing items, and hockey sticks."
+        "text": "The import taxes would have impacted roughly  billion worth of U.S. imports from Canada, including certain building materials, liquors, specific clothing items, and hockey sticks."
       }
     }
   ]

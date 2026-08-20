@@ -16,7 +16,7 @@ source_url: "https://www.bbc.com/news/articles/crl7600rpnko"
 
 <section id="the-current-stakes">
 <h2>The High Cost of the Border Standoff</h2>
-<p>As the clock ticks toward the Wednesday deadline, Canadian negotiators are working under immense pressure in Washington. The Trump administration has proposed a 50% tariff on roughly $20 billion worth of Canadian imports. For the average consumer, this isn't just a political headline—it is a potential shockwave to the cost of living.</p>
+<p>As the clock ticks toward the Wednesday deadline, Canadian negotiators are working under immense pressure in Washington. The Trump administration has proposed a 50% tariff on roughly  billion worth of Canadian imports. For the average consumer, this isn't just a political headline—it is a potential shockwave to the cost of living.</p>
 
 <div style="border-left: 4px solid #d4af37; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
 <strong>Shareable Insight:</strong> "When trade policy shifts from cooperation to confrontation, the 'cost of the deal' is almost always paid at the checkout counter."
@@ -30,7 +30,7 @@ source_url: "https://www.bbc.com/news/articles/crl7600rpnko"
 <p>From a financial literacy perspective, it is important to understand that tariffs are essentially a tax on imports. When a 50% tariff is placed on Canadian steel, the cost to build a vehicle in North America rises. Manufacturers have two choices: absorb the cost and see profit margins shrink, or raise prices for the consumer.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -41,7 +41,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>The current dispute involves complex sectors like dairy, where supply management systems—which control production and pricing—are being challenged. If these systems are adjusted, we could see volatility in grocery store pricing for dairy products, eggs, and poultry. Understanding these shifts helps households prepare for potential price fluctuations in their monthly food budget.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -51,14 +51,14 @@ Seagate Portable External Hard Drive ($59.99)
 <p>In the midst of economic anxiety, it is easy to become reactionary. The current tension reminds me of the biblical principle of stewardship. Proverbs 22:3 says, "The prudent see danger and take refuge, but the simple keep going and pay the penalty." Being prudent in our financial lives means acknowledging that global events can influence our personal stability.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Whether it’s preparing for a potential rise in the cost of goods or choosing to support local producers, we are called to handle our resources with wisdom. As we watch these negotiations, we are invited to consider how our own consumption habits reflect our values. Are we investing in what is sustainable, or are we caught in the cycle of short-term anxiety?</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>

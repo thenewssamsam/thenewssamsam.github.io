@@ -48,13 +48,13 @@ source_url: 'https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live
 <p>The day began with the completion of cross-examination for Dr. Paul Zeizel, a forensic psychologist who testified that Clancy experienced severe auditory hallucinations and intrusive thoughts telling her to harm herself and her children. During questioning by prosecutor Shanan Buckingham, tensions flared regarding Dr. Zeizel's close rapport with Clancy, his press conferences, and the specifics of her medical history. Later in the day, Judge William Sullivan dismissed the jury early due to an "unforeseen circumstance," pausing proceedings until Thursday morning.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <p>Additionally, the judge ruled that a TikTok user who previously worked at McLean Hospital would not be allowed to testify before the jury, noting that her experiences lacked direct materiality to Clancy's specific timeline of care. As the defense prepares to rest its case, the trial lays bare a tragic collision between acute psychiatric crisis and the formal demands of the justice system.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -64,13 +64,13 @@ Tactical Waterproof Backpack ($35.99)
 <p>Cases like the Lindsay Clancy trial defy easy categorization. They sit far outside the normal bounds of human experience, leaving observers grappling with a profound sense of sorrow. From a biblical perspective, human beings are complex creations—integrated wholes of body, mind, and spirit. When the physical brain suffers severe trauma, chemical imbalance, or acute postpartum failure, the mind can become a place of terrifying distortion.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <p>Scripture does not shy away from the reality of mental anguish and the deep valleys of human despair. Figures throughout biblical history experienced profound emotional distress, overwhelming sorrow, and psychological breakdown. Yet, modern society often struggles to hold two truths at once: holding individuals accountable for actions while recognizing that human capacity can be profoundly compromised by disease.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -78,7 +78,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>"When the physical and psychological foundations of the mind fracture, our call is not to rush to harsh judgment, but to recognize the profound brokenness of a fallen world that touches every family."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </div>
@@ -86,7 +86,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>Dr. Zeizel's testimony painted a picture of a mother who felt her brain was damaged, trapped in an unrelenting loop of terrifying intrusive thoughts. While the courts must determine legal accountability, a Christian worldview reminds us that true ultimate justice rests with a God who searches the heart and fully comprehends every hidden infirmity and silent cry for help.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -96,19 +96,19 @@ Tactical Waterproof Backpack ($35.99)
 <p>When we encounter stories of overwhelming maternal despair and family tragedy, we are reminded of the fragility of our earthly existence. This makes me think of the tenderness with which our Creator approaches human weakness. Psalm 34:18 tells us, <q>The Lord is close to the brokenhearted and saves those who are crushed in spirit.</q> This verse reminds us that even in the darkest, most incomprehensible tragedies where human systems fail and families shatter, divine compassion meets us in our deepest agony.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="ncg-product-card" style="border-left: 4px solid #d4af37; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
 <p style="margin: 0 0 10px 0; font-weight: bold; color: #333;">Supportive Daily Devotional:</p>
-<p style="margin: 0;"><a href="https://www.amazon.com/dp/B07R9X1X4W?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 500;">Jesus Calling: Enjoying Peace in His Presence by Sarah Young</a> — Daily devotional readings designed to offer quiet comfort, spiritual grounding, and reassurance during times of anxiety and trial. ($12.99)</p>
+<p style="margin: 0;"><a href="https://www.amazon.com/dp/B07R9X1X4W?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: 500;">Jesus Calling: Enjoying Peace in His Presence by Sarah Young</a> — Daily devotional readings designed to offer quiet comfort, spiritual grounding, and reassurance during times of anxiety and trial. </p>
 </div>
 
 <p>Furthermore, Romans 8:26 offers a quiet reassurance for moments when words fail entirely: <q>In the same way, the Spirit helps us in our weakness. We do not know what we ought to pray for, but the Spirit himself intercedes for us through wordless groans.</q> There are situations in this life so heavy, so tangled in medical and emotional complexity, that human language cannot adequately frame them. In those moments, we are invited to lean not on our own limited understanding, but on the profound mercy of God.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -118,7 +118,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>A tragedy of this magnitude calls for deep introspection and practical, compassionate action within our communities:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <ul>

@@ -40,7 +40,7 @@ source_url: 'https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuck
 <p>In his latest manifesto, Mark Zuckerberg doubled down on an optimistic trajectory for artificial intelligence, positioning it as an empowering tool for the individual. According to the report from TechCrunch's Equity podcast — featuring hosts Kirsten Korosec, Anthony Ha, and Rebecca Bellan alongside AI editor Russell Brandom — the essay introduces tools like the personal agent model Glimmer and the more powerful Muse Spark ecosystem.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -207,7 +207,7 @@ article li { margin-bottom: 0.5rem; line-height: 1.6; color: #374151; font-size:
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -215,7 +215,7 @@ article li { margin-bottom: 0.5rem; line-height: 1.6; color: #374151; font-size:
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

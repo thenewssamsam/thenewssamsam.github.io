@@ -25,7 +25,7 @@ source_url: "https://apnews.com/article/tariffs-trump-canada-usmca-trade-aae597c
     <p>When headlines are dominated by trade wars and talk of 50% tariffs, it is natural for parents to feel a sense of anxiety. We are responsible for the financial stability of our homes, and when international relations become volatile, we often feel that pressure at the kitchen table. How we handle this uncertainty matters, not just for our own peace of mind, but for how our children learn to process the world.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -37,15 +37,15 @@ Seagate Portable External Hard Drive ($59.99)
     <p><strong>For Younger Children:</strong> Keep it simple. They don't need to know the specifics of Section 338 of the Tariff Act of 1930. Focus on the concept of "working out problems." Explain that sometimes countries have disagreements, just like friends or siblings, and that leaders are taking extra time to talk and find a solution that helps everyone.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div style="border: 1px solid #ddd; padding: 10px; background: #f9f9f9; margin: 10px 0;">
-      <p><strong>Recommended reading for curious kids:</strong> <a href="#">"The Kids' Guide to Money & Economics" - $14.99</a></p>
+      <p><strong>Recommended reading for curious kids:</strong> <a href="#">"The Kids' Guide to Money & Economics" - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -53,7 +53,7 @@ Tactical Waterproof Backpack ($35.99)
     <p><strong>For Teens:</strong> This is a perfect opportunity for a deeper discussion. Use this as a "teachable moment" about how global trade impacts daily life. Discuss how supply chains work—why a tariff on Canadian goods might make a box of cereal or a piece of sports equipment more expensive—and emphasize the importance of critical thinking when reading news reports.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -63,13 +63,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>It is easy to let the "limbo" of global negotiations steal our peace. Proverbs 3:5-6 (ESV) reminds us: <em>"Trust in the Lord with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>This verse invites us to consider that while we cannot control international trade agreements or the shifting economy, we can anchor our families in a trust that transcends the current news cycle. It is a humble reminder that our security is not ultimately tied to a trade deal, but to God’s sovereignty. When we feel anxious about the future, we can turn that energy into prayer for our leaders and for the wisdom to steward our own resources well.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -83,10 +83,10 @@ Seagate Portable External Hard Drive ($59.99)
     </ul>
     
     <div style="border: 1px solid #ddd; padding: 10px; background: #f9f9f9; margin: 10px 0;">
-      <p><strong>Keep your household organized:</strong> <a href="#">Family Financial Planner & Budget Tracker - $12.50</a></p>
+      <p><strong>Keep your household organized:</strong> <a href="#">Family Financial Planner & Budget Tracker - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>

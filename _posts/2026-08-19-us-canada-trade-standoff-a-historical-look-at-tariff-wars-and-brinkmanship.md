@@ -15,7 +15,7 @@ source_url: "https://www.bbc.com/news/articles/crl7600rpnko"
   </header>
 
   <section id="introduction">
-    <p>As the clock ticks toward a Wednesday deadline, Prime Minister Mark Carney’s team is locked in "intense" negotiations in Washington, racing to avoid a 50% tariff on $20 billion worth of Canadian imports. This high-stakes standoff is more than just a modern policy disagreement; it echoes a long, complex history of North American economic friction that has defined the US-Canada relationship for over a century.</p>
+    <p>As the clock ticks toward a Wednesday deadline, Prime Minister Mark Carney’s team is locked in "intense" negotiations in Washington, racing to avoid a 50% tariff on  billion worth of Canadian imports. This high-stakes standoff is more than just a modern policy disagreement; it echoes a long, complex history of North American economic friction that has defined the US-Canada relationship for over a century.</p>
   </section>
 
   <section id="what-happened">
@@ -28,7 +28,7 @@ source_url: "https://www.bbc.com/news/articles/crl7600rpnko"
     <p>History suggests that trade disputes between the US and Canada are rarely resolved quickly. We can look to the 1930 Smoot-Hawley Tariff Act as a sobering reminder of how protectionist measures can spiral. When the US raised tariffs to record levels in the 1930s, the international trade system collapsed, deepening the Great Depression. While the current situation is far more contained, the psychological dynamic of "retaliatory cycles"—where provinces ban American goods in response to federal-level tariffs—mirrors the tit-for-tat escalations of the early 20th century.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -39,7 +39,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Another parallel is the 1980s trade friction, which eventually forced the negotiation of the Canada-US Free Trade Agreement. During that era, similar concerns about "fairness" in sectors like timber and agriculture dominated the headlines. The lesson from the 1980s is that brinkmanship often leads to a "managed trade" outcome, where specific quotas—like the dairy quotas currently under fire—are adjusted to satisfy domestic political bases on both sides of the border.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -49,7 +49,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>In the midst of these heavy negotiations, I am reminded of the biblical principle of stewardship. Proverbs 11:1 tells us, <em>"The Lord detests dishonest scales, but accurate weights find favor with him."</em> While this verse is often applied to personal integrity, it serves as a powerful metaphor for international trade. When nations seek "fairness," it often masks a desire for advantage. This situation invites us to consider whether our focus is on mutual flourishing or merely on winning the next trade battle. Are we seeking the truth of what builds a community, or are we simply protecting our own interests at the expense of our neighbor? As we watch these events unfold, let us pray for wisdom for those in power to act with both justice and humility, remembering that economic stability is a blessing that affects the most vulnerable among us.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

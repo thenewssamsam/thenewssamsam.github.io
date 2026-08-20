@@ -34,14 +34,14 @@ source_url: "https://www.foxnews.com/politics/mysterious-polling-firm-behind-fak
     <p>In reality, the actual election outcomes looked quite different. While Bass edged out her primary opponents, the margin was much tighter than the fabricated 12-point spread advertised by the fake firm. In Wisconsin, Francesca Hong ultimately lost a razor-thin race to David Crowley. Once the deception came to light, Median Strategies wiped its hands clean, shut down its website polling project, and refused further interviews.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-product" style="border-left: 4px solid #ff9900; background: #f9f9f9; padding: 12px 15px; margin: 20px 0; border-radius: 4px;">
     <p style="margin: 0 0 5px 0; font-size: 0.85em; text-transform: uppercase; color: #666; font-weight: bold;">Recommended Resource</p>
-    <p style="margin: 0; font-weight: bold;"><a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">The Intelligence Trap: Revolutionize Your Thinking and Make Wiser Choices</a> — $16.99</p>
+    <p style="margin: 0; font-weight: bold;"><a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">The Intelligence Trap: Revolutionize Your Thinking and Make Wiser Choices</a> — </p>
   </div>
 
   <section id="myth-vs-fact">
@@ -49,7 +49,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Whenever a high-profile media scandal breaks, misinformation tends to cascade right alongside the actual facts. Let's break down what is verified and what remains unproven in the Median Strategies controversy.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -71,20 +71,20 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The core issue highlighted by this stunt isn't just one bad actor; it's the fragile state of modern news aggregation. When local TV stations, online blogs, and social media aggregators chase fast-moving engagement metrics, verification standards often slip. A poll published on an obscure website with a clean interface can easily pass as legitimate authority.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>This incident reflects a broader psychological vulnerability known as confirmation bias. When people see data that supports their pre-existing political views, they are significantly less likely to pause and ask basic questions: <em>Who funded this? What was the exact methodology? Is this polling firm registered anywhere?</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-product" style="border-left: 4px solid #ff9900; background: #f9f9f9; padding: 12px 15px; margin: 20px 0; border-radius: 4px;">
     <p style="margin: 0 0 5px 0; font-size: 0.85em; text-transform: uppercase; color: #666; font-weight: bold;">Recommended Resource</p>
-    <p style="margin: 0; font-weight: bold;"><a href="https://www.amazon.com/dp/0525541950?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">Calling Bullshit: The Art of Skepticism in a Data-Driven World</a> — $18.50</p>
+    <p style="margin: 0; font-weight: bold;"><a href="https://www.amazon.com/dp/0525541950?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">Calling Bullshit: The Art of Skepticism in a Data-Driven World</a> — </p>
   </div>
 
   <section id="spiritual-reflection">
@@ -92,7 +92,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Incidents like this remind us how easily human perception can be manipulated by clever deception. Proverbs 14:15 wisely notes, "The simple believes everything, but the prudent gives thought to his steps." In an era dominated by digital noise and manufactured narratives, cultivating intellectual patience and discernment is more crucial than ever.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -123,7 +123,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>The Median Strategies hoax should serve as a wake-up call for both media consumers and journalists alike. Truth is too precious a commodity to be treated as a lab rat's playground. When we demand rigorous transparency, the architects of deception lose their power to mislead.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p><em>In a world saturated with manufactured noise, clarity is our best defense.</em></p>

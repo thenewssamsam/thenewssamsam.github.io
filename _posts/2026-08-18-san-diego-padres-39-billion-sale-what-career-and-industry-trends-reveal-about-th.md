@@ -14,7 +14,7 @@ source_url: 'https://www.nbcsandiego.com/news/sports/san-diego-padres/mlb-owners
 <header class="ncg-header">
 <time datetime="2026-06-06">Published: June 6, 2026</time> &bull; <span>6 min read</span>
 <h1>San Diego Padres 3.9 Billion Sale: What Career and Industry Trends Reveal About the MLB's New Era</h1>
-<p class="ncg-intro">Major League Baseball owners have officially voted to approve a record-setting $3.9 billion sale of the San Diego Padres to a group led by private equity co-founder Jose E. Feliciano and his wife, Kwanza Jones. For sports industry observers, this blockbuster transition is much more than a routine ownership change—it offers a clear window into how modern franchise valuation, private equity influence, and corporate leadership are reshaping professional sports.</p>
+<p class="ncg-intro">Major League Baseball owners have officially voted to approve a record-setting  billion sale of the San Diego Padres to a group led by private equity co-founder Jose E. Feliciano and his wife, Kwanza Jones. For sports industry observers, this blockbuster transition is much more than a routine ownership change—it offers a clear window into how modern franchise valuation, private equity influence, and corporate leadership are reshaping professional sports.</p>
 </header>
 
 <div class="ncg-toc">
@@ -31,10 +31,10 @@ source_url: 'https://www.nbcsandiego.com/news/sports/san-diego-padres/mlb-owners
 <section id="what-happened">
 <h2>What Happened: A Record-Breaking Deal</h2>
 <p>After months of anticipation and a rigorous vetting process by a league committee, the other 29 MLB owners unanimously approved the massive transaction on Monday. Feliciano, co-founder of private equity firm Clearlake Capital, and Jones secured the right to buy the franchise from the Seidler family following a competitive bidding war among four finalists back in April.</p>
-<p>The deal carries a staggering price tag of $3.9 billion—an astronomical leap from the $800 million the Seidler family paid to purchase the team in 2012. Because the acquisition includes a 30 percent ownership stake in Petco Park, the final procedural hurdle requires approval from the City of San Diego, which is expected to clear swiftly so the deal can close by the end of the week.</p>
+<p>The deal carries a staggering price tag of  billion—an astronomical leap from the  million the Seidler family paid to purchase the team in 2012. Because the acquisition includes a 30 percent ownership stake in Petco Park, the final procedural hurdle requires approval from the City of San Diego, which is expected to clear swiftly so the deal can close by the end of the week.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-QT-QY Military Tactical Backpack ($34.99)
+QT-QY Military Tactical Backpack 
 </a></p>
 
 </section>
@@ -83,7 +83,7 @@ QT-QY Military Tactical Backpack ($34.99)
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "San Diego Padres 3.9 Billion Sale: What Career and Industry Trends Reveal About the MLB's New Era",
-  "description": "MLB owners approve a record $3.9 billion sale of the San Diego Padres to Jose E. Feliciano and Kwanza Jones. Explore what this massive deal signals for sports business.",
+  "description": "MLB owners approve a record  billion sale of the San Diego Padres to Jose E. Feliciano and Kwanza Jones. Explore what this massive deal signals for sports business.",
   "datePublished": "2026-06-06",
   "author": {
     "@type": "Person",
@@ -98,7 +98,7 @@ QT-QY Military Tactical Backpack ($34.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">GAZELLE External Hard Drive</a></div>
-    <div class="product-price">$54.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -106,7 +106,7 @@ QT-QY Military Tactical Backpack ($34.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">JIYINGDUO External Hard Drive</a></div>
-    <div class="product-price">$44.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -114,7 +114,7 @@ QT-QY Military Tactical Backpack ($34.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">QT-QY Military Tactical Backpack</a></div>
-    <div class="product-price">$34.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -122,7 +122,7 @@ QT-QY Military Tactical Backpack ($34.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">abshoo College Bookbag</a></div>
-    <div class="product-price">$29.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -130,7 +130,7 @@ QT-QY Military Tactical Backpack ($34.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">KEOFID Classic Backpack</a></div>
-    <div class="product-price">$32.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -138,7 +138,7 @@ QT-QY Military Tactical Backpack ($34.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Toshiba 5400RPM Hard Drive</a></div>
-    <div class="product-price">$49.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -146,7 +146,7 @@ QT-QY Military Tactical Backpack ($34.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

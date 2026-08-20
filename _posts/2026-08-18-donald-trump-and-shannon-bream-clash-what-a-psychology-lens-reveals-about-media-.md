@@ -31,11 +31,11 @@ source_url: 'https://www.realitytea.com/2026/08/17/donald-trump-fox-news-host-sh
 
   <section id="what-happened">
     <h2>What Happened</h2>
-    <p>Donald Trump recently unleashed a furious social media broadside against Fox News anchor Shannon Bream, accusing her Sunday program of severe bias against the MAGA movement and his administration. The public fallout was triggered by a tense interview on <em>Fox News Sunday</em> between Bream and Attorney General Todd Blanche regarding the administration's nearly $1.8 billion Anti-Weaponization fund and an unauthorized White House ballroom construction project halted by a federal court order.</p>
+    <p>Donald Trump recently unleashed a furious social media broadside against Fox News anchor Shannon Bream, accusing her Sunday program of severe bias against the MAGA movement and his administration. The public fallout was triggered by a tense interview on <em>Fox News Sunday</em> between Bream and Attorney General Todd Blanche regarding the administration's nearly  billion Anti-Weaponization fund and an unauthorized White House ballroom construction project halted by a federal court order.</p>
     <p>During the broadcast, Bream pressed Blanche on why the administration bypassed Congress for the ballroom funding, prompting Blanche to argue that existing legislative authority sufficed. Unamused by the line of questioning, Trump took to Truth Social to compare the program to CNN, criticize recurring guest analysts like Juan Williams, and question the show's future ratings. While ratings data shows the program maintaining a steady audience of roughly one million viewers, the public friction underscores the enduringly delicate relationship between prominent political figures and cable news networks.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -104,7 +104,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -112,7 +112,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

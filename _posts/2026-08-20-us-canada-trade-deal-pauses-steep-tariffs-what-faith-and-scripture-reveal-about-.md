@@ -35,25 +35,25 @@ source_url: "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-d
         <p>The sudden agreement came after weeks of fraught, often contentious negotiations between Washington and Ottawa. Trump had invoked Section 338 of the Tariff Act of 1930 in response to what the White House termed Canada's "discriminatory treatment" of American automobiles, dairy products, and alcoholic beverages—retaliation for provincial bans on US alcohol and stringent supply management quotas.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
-        <p>The proposed 50 percent tariffs threatened approximately $20.2bn worth of Canadian goods, sending shockwaves through exporters who rely heavily on the US market, where roughly 70 percent of Canadian exports find their buyers. However, following intense talks, Trump announced a brief three-day truce on Truth Social, simultaneously teasing the potential revival of the Keystone XL Pipeline—a project originally halted by the Biden administration in 2021.</p>
+        <p>The proposed 50 percent tariffs threatened approximately bn worth of Canadian goods, sending shockwaves through exporters who rely heavily on the US market, where roughly 70 percent of Canadian exports find their buyers. However, following intense talks, Trump announced a brief three-day truce on Truth Social, simultaneously teasing the potential revival of the Keystone XL Pipeline—a project originally halted by the Biden administration in 2021.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
         <p>Prime Minister Carney acknowledged that while substantial progress had been made, significant work remains. Canadian officials continue to balance economic pragmatism with a proud public sentiment that increasingly resists external pressure. As experts note, the delicate dance between ego, sovereignty, and economic interdependence makes every hour leading to the Friday deadline a critical test of diplomatic endurance.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </section>
 
     <div class="ncg-amazon-recommendation" style="background-color: #fffaf0; border-left: 4px solid #dd6b20; padding: 15px; margin: 25px 0; border-radius: 0 8px 8px 0;">
-        <p style="margin: 0; font-size: 0.95rem; font-weight: 600; color: #744210;">📚 Recommended Resource: <a href="https://www.amazon.com/dp/0310536838?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">The Peacemaker: A Biblical Guide to Resolving Personal Conflict</a> – $16.99. Discover timeless biblical principles for navigating difficult negotiations and restoring harmony in high-stakes relationships.</p>
+        <p style="margin: 0; font-size: 0.95rem; font-weight: 600; color: #744210;">📚 Recommended Resource: <a href="https://www.amazon.com/dp/0310536838?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">The Peacemaker: A Biblical Guide to Resolving Personal Conflict</a> – . Discover timeless biblical principles for navigating difficult negotiations and restoring harmony in high-stakes relationships.</p>
     </div>
 
     <section id="diplomacy-and-human-nature" style="margin-bottom: 35px;">
@@ -61,19 +61,19 @@ Tactical Waterproof Backpack ($35.99)
         <p>International negotiations are rarely just about balance sheets and trade deficits; they are profoundly shaped by human psychology, political pride, and national dignity. When leaders exchange sharp words—describing talks as "nasty," "delicate," and "intense"—they are wrestling with the age-old human impulse toward self-assertion and dominance.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         <p>Scripture offers remarkable clarity on how pride often fuels unnecessary conflict, while humility opens the door to resolution. Proverbs 13:10 reminds us: <em>"Pride breeds quarrels, but wisdom is found in those who take advice."</em> In the context of modern trade disputes, the temptation for leaders is to dig in their heels, prioritize political optics over practical well-being, and let economic collateral damage mount.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         <p>Yet the willingness of both Washington and Ottawa to step back at the eleventh hour demonstrates the value of restraint. True strength in leadership is rarely found in the loudest threat or the steepest tariff; rather, it is manifested in the disciplined choice to pause, listen, and seek common ground before irreversible damage is done.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         
@@ -83,7 +83,7 @@ Seagate Portable External Hard Drive ($59.99)
     </section>
 
     <div class="ncg-amazon-recommendation" style="background-color: #fffaf0; border-left: 4px solid #dd6b20; padding: 15px; margin: 25px 0; border-radius: 0 8px 8px 0;">
-        <p style="margin: 0; font-size: 0.95rem; font-weight: 600; color: #744210;">🛡️ Recommended Resource: <a href="https://www.amazon.com/dp/0802412858?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">Peacemaking Women: Biblical Hope for Resolving Conflict</a> – $14.99. Learn how to foster understanding and constructive dialogue in communities facing division.</p>
+        <p style="margin: 0; font-size: 0.95rem; font-weight: 600; color: #744210;">🛡️ Recommended Resource: <a href="https://www.amazon.com/dp/0802412858?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">Peacemaking Women: Biblical Hope for Resolving Conflict</a> – . Learn how to foster understanding and constructive dialogue in communities facing division.</p>
     </div>
 
     <section id="scripture-perspective" style="margin-bottom: 35px;">
@@ -91,19 +91,19 @@ Seagate Portable External Hard Drive ($59.99)
         <p>When news cycles are dominated by threats of economic retaliation, it is easy for anxiety to take root. We worry about rising prices, strained international alliances, and the stability of our livelihoods. This makes me think about how quickly human systems can be shaken when trust is tested.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         <p>I'm reminded that God calls His people to be agents of stability and peace in a fractured world. James 3:18 tells us: <em>"Peacemakers who sow in peace reap a harvest of righteousness."</em> This ancient truth invites us to consider our own daily interactions. Whether on a global trade stage or within our local communities, the mandate remains the same: to choose patience over provocation, and constructive dialogue over division.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </section>
 
     <div class="ncg-amazon-recommendation" style="background-color: #fffaf0; border-left: 4px solid #dd6b20; padding: 15px; margin: 25px 0; border-radius: 0 8px 8px 0;">
-        <p style="margin: 0; font-size: 0.95rem; font-weight: 600; color: #744210;">📖 Recommended Resource: <a href="https://www.amazon.com/dp/0310451352?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">The ESV Study Bible</a> – $34.99. Deepen your understanding of scriptural wisdom on justice, stewardship, and human relationships.</p>
+        <p style="margin: 0; font-size: 0.95rem; font-weight: 600; color: #744210;">📖 Recommended Resource: <a href="https://www.amazon.com/dp/0310451352?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">The ESV Study Bible</a> – . Deepen your understanding of scriptural wisdom on justice, stewardship, and human relationships.</p>
     </div>
 
     <section id="how-should-christians-respond" style="margin-bottom: 35px;">
@@ -111,7 +111,7 @@ Tactical Waterproof Backpack ($35.99)
         <p>In moments of geopolitical uncertainty, believers are called to look beyond sensational headlines and practice active discernment. Here are three concrete ways to respond to news like the US-Canada trade truce:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         <ul style="padding-left: 20px; margin-top: 10px;">
@@ -122,7 +122,7 @@ Seagate Portable External Hard Drive ($59.99)
     </section>
 
     <div class="ncg-amazon-recommendation" style="background-color: #fffaf0; border-left: 4px solid #dd6b20; padding: 15px; margin: 25px 0; border-radius: 0 8px 8px 0;">
-        <p style="margin: 0; font-size: 0.95rem; font-weight: 600; color: #744210;">☕ Recommended Resource: <a href="https://www.amazon.com/dp/B07V499X9W?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">Thermos Stainless King Travel Mug</a> – $35.00. Keep your coffee warm while you read and reflect on the day's developing news stories.</p>
+        <p style="margin: 0; font-size: 0.95rem; font-weight: 600; color: #744210;">☕ Recommended Resource: <a href="https://www.amazon.com/dp/B07V499X9W?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">Thermos Stainless King Travel Mug</a> – . Keep your coffee warm while you read and reflect on the day's developing news stories.</p>
     </div>
 
     <section id="closing-takeaway" style="margin-bottom: 35px;">
@@ -130,13 +130,13 @@ Seagate Portable External Hard Drive ($59.99)
         <p>The eleventh-hour pause in US-Canada tariffs is a welcome reprieve, but it is also a reminder of how fragile international harmony can be. As negotiations continue toward Friday's deadline, let us remember that true security does not rest in trade pacts alone, but in the steadfast pursuit of fairness, understanding, and peace.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </section>
 
     <div class="ncg-amazon-recommendation" style="background-color: #fffaf0; border-left: 4px solid #dd6b20; padding: 15px; margin: 25px 0; border-radius: 0 8px 8px 0;">
-        <p style="margin: 0; font-size: 0.95rem; font-weight: 600; color: #744210;">📝 Recommended Resource: <a href="https://www.amazon.com/dp/1941999881?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">Moleskine Classic Notebook</a> – $22.00. Jot down your personal reflections, prayers, and thoughts on current events.</p>
+        <p style="margin: 0; font-size: 0.95rem; font-weight: 600; color: #744210;">📝 Recommended Resource: <a href="https://www.amazon.com/dp/1941999881?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">Moleskine Classic Notebook</a> – . Jot down your personal reflections, prayers, and thoughts on current events.</p>
     </div>
 
     <section class="ncg-closing-section" style="background-color: #f7fafc; border: 1px solid #e2e8f0; padding: 25px; border-radius: 8px; margin-top: 40px;">
@@ -145,11 +145,11 @@ Seagate Portable External Hard Drive ($59.99)
     </section>
 
     <div class="ncg-amazon-recommendation" style="background-color: #fffaf0; border-left: 4px solid #dd6b20; padding: 15px; margin: 25px 0; border-radius: 0 8px 8px 0;">
-        <p style="margin: 0; font-size: 0.95rem; font-weight: 600; color: #744210;">💡 Recommended Resource: <a href="https://www.amazon.com/dp/B07ZPC9QD4?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">Anker Portable Charger Power Bank</a> – $21.99. Stay connected and informed wherever your day takes you.</p>
+        <p style="margin: 0; font-size: 0.95rem; font-weight: 600; color: #744210;">💡 Recommended Resource: <a href="https://www.amazon.com/dp/B07ZPC9QD4?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">Anker Portable Charger Power Bank</a> – . Stay connected and informed wherever your day takes you.</p>
     </div>
 
     <div class="ncg-amazon-recommendation" style="background-color: #fffaf0; border-left: 4px solid #dd6b20; padding: 15px; margin: 25px 0; border-radius: 0 8px 8px 0;">
-        <p style="margin: 0; font-size: 0.95rem; font-weight: 600; color: #744210;">🎧 Recommended Resource: <a href="https://www.amazon.com/dp/B0B4SHBPD3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">Sony Noise Canceling Headphones</a> – $128.00. Focus on your work and news briefings without outside distractions.</p>
+        <p style="margin: 0; font-size: 0.95rem; font-weight: 600; color: #744210;">🎧 Recommended Resource: <a href="https://www.amazon.com/dp/B0B4SHBPD3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none;">Sony Noise Canceling Headphones</a> – . Focus on your work and news briefings without outside distractions.</p>
     </div>
 
     <footer class="ncg-footer" style="margin-top: 40px; border-top: 1px solid #e2e8f0; padding-top: 20px; font-size: 0.9rem; color: #718096;">

@@ -27,7 +27,7 @@ source_url: "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-
     <p><strong>"The constitutional tension between executive war-making power and legislative oversight remains the bedrock of American legal discourse, especially when public support for a conflict wanes."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>
@@ -37,14 +37,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>When a nation faces prolonged military engagement, citizens often ask about the limits of presidential power. Under the U.S. Constitution, Article II designates the President as Commander in Chief, while Article I grants Congress the authority to declare war and fund military operations. This division is designed as a check on executive overreach.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p><em>This is general information, not legal advice. Consult a licensed attorney about your specific situation.</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -52,7 +52,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The War Powers Resolution of 1973 was enacted specifically to check the President's power to commit the United States to an armed conflict without the consent of Congress. It requires the President to notify Congress within 48 hours of committing armed forces to military action and forbids armed forces from remaining for more than 60 days (with a 30-day withdrawal period) without a Congressional authorization for use of military force (AUMF) or a declaration of war.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -60,7 +60,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>While the executive branch manages foreign policy, citizens retain the right to petition their representatives, engage in peaceful protest, and exercise their vote. Legal rights in this context primarily revolve around the transparency of government actions and the accountability of representatives who authorize or fund prolonged military efforts.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -70,7 +70,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In times of national anxiety and economic strain, it is easy to succumb to fear or cynicism. Scripture invites us to consider the value of truth and the responsibility of leadership. Proverbs 29:2 reminds us, "When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn." Furthermore, Philippians 4:6-7 encourages us: "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God." These verses remind us that while we may feel powerless regarding global events, our response is defined by our character and our commitment to seeking wisdom in uncertain times.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -90,7 +90,7 @@ Tactical Waterproof Backpack ($35.99)
       <p>The decline in presidential approval is a clear signal of the disconnect between executive goals and the lived reality of the American public. In a democracy, the law provides the framework for these disagreements, ensuring that even in the heat of conflict, the voice of the people remains a vital component of the national narrative.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
       <p><em>Accountability is not just a political concept—it is the safeguard of a free society.</em></p>

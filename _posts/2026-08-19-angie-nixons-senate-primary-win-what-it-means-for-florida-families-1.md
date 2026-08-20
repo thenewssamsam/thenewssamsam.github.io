@@ -21,7 +21,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/angie-nixon-winner-f
     <p>Nixon’s campaign centered on progressive pillars such as Medicare for all, universal child care, and increased funding for public education. As Florida families look toward the November election, this race presents a stark contrast in policy visions for the state.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -31,7 +31,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>When political landscapes shift rapidly, it is natural for parents to wonder how these changes might impact their household budget and the resources available to their children. Whether you lean left, right, or center, the conversation around "universal child care" and "fully funded education" touches the daily reality of every working parent.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>For parents of school-aged children, election season can be a confusing time. Here are a few age-appropriate ways to engage:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>
@@ -55,7 +55,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p><strong>Recommended Reading for Families:</strong> <em>"The Berenstain Bears and the Election"</em> or age-appropriate guides on local government help demystify the process for kids. <a href="https://www.amazon.com/dp/031644783X" target="_blank" rel="noopener noreferrer">Check price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -66,13 +66,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In times of political transition, I am reminded of the biblical call to seek peace and wisdom in all our dealings. James 1:19 reminds us: <em>"My dear brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>This verse feels particularly relevant when we see the polarization that often follows an election upset. As parents and neighbors, we are called to model a spirit of grace even when we disagree with our neighbor's political choices. It is a reminder that our security is not found in the halls of the Senate, but in how we treat those around us and how we serve our families with integrity.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -82,7 +82,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Regardless of your political affiliation, the best way to respond to this election news is to become an informed participant in your own community:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>
@@ -97,7 +97,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The Florida Senate race is now set, and the coming months will bring intense campaigning from both sides. For families, this is an opportunity to look past the rhetoric and focus on the tangible policies that will shape the future of their communities. Stay engaged, stay informed, and remember that local involvement remains the most powerful tool for change.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

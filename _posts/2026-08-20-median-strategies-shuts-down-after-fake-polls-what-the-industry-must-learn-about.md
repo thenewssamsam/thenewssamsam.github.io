@@ -18,7 +18,7 @@ source_url: "https://www.foxnews.com/politics/mysterious-polling-firm-behind-fak
   <p class="ncg-intro">When a little-known polling entity named Median Strategies released eye-catching surveys showing massive leads for candidates in major local races, mainstream news outlets and social media platforms amplified the numbers without missing a beat. Now, that same firm has abruptly closed its doors, confessing that its viral data was nothing more than a fabricated "social experiment" designed to test the boundaries of digital trust.</p>
 
   <div class="ncg-product-card" style="border-left: 4px solid #d97706; background: #f9fafb; padding: 15px; margin: 20px 0; border-radius: 8px;">
-    <strong>Recommended Tool for Analysts & Researchers:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Data Detective: Ten Easy Rules to Make Sense of Statistics</a> ($16.99) — Essential reading for professionals navigating data literacy and information verification.
+    <strong>Recommended Tool for Analysts & Researchers:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Data Detective: Ten Easy Rules to Make Sense of Statistics</a>  — Essential reading for professionals navigating data literacy and information verification.
   </div>
 
   <section id="what-happened">
@@ -28,7 +28,7 @@ source_url: "https://www.foxnews.com/politics/mysterious-polling-firm-behind-fak
   </section>
 
   <div class="ncg-product-card" style="border-left: 4px solid #d97706; background: #f9fafb; padding: 15px; margin: 20px 0; border-radius: 8px;">
-    <strong>Recommended Professional Resource:</strong> <a href="https://www.amazon.com/dp/1501171342?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Noticing: How to Spot Lies, Fabrication, and Deception in Data</a> ($18.49) — A must-have guide for modern communications and media professionals.
+    <strong>Recommended Professional Resource:</strong> <a href="https://www.amazon.com/dp/1501171342?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Noticing: How to Spot Lies, Fabrication, and Deception in Data</a>  — A must-have guide for modern communications and media professionals.
   </div>
 
   <section id="industry-perspective">
@@ -36,7 +36,7 @@ source_url: "https://www.foxnews.com/politics/mysterious-polling-firm-behind-fak
     <p>From a career and industry standpoint, the Median Strategies stunt highlights a deeply unsettling vulnerability within the data and analytics profession. Modern polling is built on a foundational currency: trust. When organizations rely on reputation, methodology, and historical accuracy to validate their work, a bad actor can easily exploit the system's reliance on fast-moving news cycles.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -44,7 +44,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In today's media landscape, journalists and content aggregators face relentless pressure to publish breaking numbers instantly. When a fresh poll drops, the temptation to report it before competitors do often supersedes rigorous methodological checks. Median Strategies weaponized this exact industry dynamic, proving that sensational numbers will travel halfway around the world before anyone bothers to audit the source code or verify sample sizes.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -52,7 +52,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>For data scientists, pollsters, and communications professionals, this incident serves as a cautionary tale about the dilution of industry standards. When fraudulent actors can easily masquerade as legitimate survey firms, the credibility of every diligent researcher takes a hit. Moving forward, industry leaders must establish stricter verification protocols and transparent accreditation standards to separate genuine empirical work from anonymous hoaxes.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -62,7 +62,7 @@ Tactical Waterproof Backpack ($35.99)
   </div>
 
   <div class="ncg-product-card" style="border-left: 4px solid #d97706; background: #f9fafb; padding: 15px; margin: 20px 0; border-radius: 8px;">
-    <strong>Recommended Office Organization:</strong> <a href="https://www.amazon.com/dp/B07G3HJQ86?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Ergonomic Desktop Document Holder for Reading & Fact-Checking</a> ($24.99) — Keep your research materials organized and easy to review during fast-paced editorial tasks.
+    <strong>Recommended Office Organization:</strong> <a href="https://www.amazon.com/dp/B07G3HJQ86?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Ergonomic Desktop Document Holder for Reading & Fact-Checking</a>  — Keep your research materials organized and easy to review during fast-paced editorial tasks.
   </div>
 
   <section id="spiritual-reflection">
@@ -70,13 +70,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>This bizarre episode also invites a quiet, deeper reflection on how easily misinformation takes root when we are conditioned to accept what flatters our expectations. Scripture reminds us of the enduring value of patience and rigorous testing in all things: <q>“Do not believe every spirit, but test the spirits to see whether they are from God, because many false prophets have gone out into the world.”</q> (1 John 4:1). While written in a different context, this wisdom speaks directly to our modern information age, urging us to pause, look past surface appearances, and seek truth rather than settling for comforting illusions.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
 
   <div class="ncg-product-card" style="border-left: 4px solid #d97706; background: #f9fafb; padding: 15px; margin: 20px 0; border-radius: 8px;">
-    <strong>Recommended Journaling Tool:</strong> <a href="https://www.amazon.com/dp/B08H8V3QW4?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Leuchtturm1917 Medium A5 Dotted Hardcover Notebook</a> ($22.95) — Perfect for jotting down notes, editorial strategies, and personal reflections.
+    <strong>Recommended Journaling Tool:</strong> <a href="https://www.amazon.com/dp/B08H8V3QW4?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Leuchtturm1917 Medium A5 Dotted Hardcover Notebook</a>  — Perfect for jotting down notes, editorial strategies, and personal reflections.
   </div>
 
   <section id="reader-response">
@@ -84,7 +84,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>For everyday news consumers, the collapse of Median Strategies offers a clear, practical lesson in digital media literacy:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>
@@ -95,7 +95,7 @@ Seagate Portable External Hard Drive ($59.99)
   </section>
 
   <div class="ncg-product-card" style="border-left: 4px solid #d97706; background: #f9fafb; padding: 15px; margin: 20px 0; border-radius: 8px;">
-    <strong>Recommended Focus Tool:</strong> <a href="https://www.amazon.com/dp/B0716KMF5S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Anker Soundcore Life Q30 Hybrid Active Noise Cancelling Headphones</a> ($79.99) — Block out digital distractions and focus deeply on rigorous content analysis.
+    <strong>Recommended Focus Tool:</strong> <a href="https://www.amazon.com/dp/B0716KMF5S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Anker Soundcore Life Q30 Hybrid Active Noise Cancelling Headphones</a>  — Block out digital distractions and focus deeply on rigorous content analysis.
   </div>
 
   <section id="closing-thought">
@@ -103,7 +103,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The Median Strategies experiment is over, but the lesson lingers. As information flows faster than ever through digital channels, our greatest defense is a commitment to patience, skepticism, and rigorous truth-seeking. Integrity remains the ultimate currency in any profession.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p><em>In an age of engineered narratives, discernment is not optional—it is the foundation of a free society.</em></p>

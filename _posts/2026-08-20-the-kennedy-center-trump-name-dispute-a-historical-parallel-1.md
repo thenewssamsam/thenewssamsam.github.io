@@ -27,15 +27,15 @@ source_url: 'https://www.cnn.com/2026/08/19/politics/kennedy-center-trump-name-s
     <p>Lawyers for the Kennedy Center recently informed U.S. District Judge Christopher Cooper that they intend to add the president's name back to the facade by September 8. This announcement comes as part of a larger, ongoing conflict over the center's future, including plans for a years-long renovation. Opponents, led by Rep. Joyce Beatty, argue that the board is using these renovations to mask declining ticket sales and reshape the site’s identity to honor the sitting president.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Skin Renewing Night Cream ($18.99)
+CeraVe Skin Renewing Night Cream 
 </a></div>
 
     
     <div class="ncg-product-box" style="border-left: 5px solid #d4af37; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Reading:</strong> <em>The Monuments Men: Allied Heroes, Nazi Thieves, and the Greatest Treasure Hunt in History</em> - $16.99</p>
+      <p><strong>Recommended Reading:</strong> <em>The Monuments Men: Allied Heroes, Nazi Thieves, and the Greatest Treasure Hunt in History</em> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Lenovo Legion Tower Gaming PC ($899.99)
+Lenovo Legion Tower Gaming PC 
 </a></div>
 
     </div>
@@ -43,7 +43,7 @@ Lenovo Legion Tower Gaming PC ($899.99)
     <p>Currently, long white tarps cover the entrance, which the board claims are necessary for structural repairs to the overhead soffit. Critics, however, view the tarps as a deliberate attempt to keep the site obscured while the legal battle plays out.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Vitamin C Brightening Serum ($16.99)
+CeraVe Vitamin C Brightening Serum 
 </a></div>
 
   </section>
@@ -53,14 +53,14 @@ CeraVe Vitamin C Brightening Serum ($16.99)
     <p>History is replete with examples of administrations attempting to tie their legacies to the architectural fabric of their capitals. In Ancient Rome, the practice of <em>damnatio memoriae</em>—the condemnation of memory—was often used to remove the names of disgraced leaders from public monuments. Conversely, the "restoration" of buildings by emperors was a standard way to signal stability and patronage.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Lenovo Legion Tower Gaming PC ($899.99)
+Lenovo Legion Tower Gaming PC 
 </a></div>
 
     
     <p>In the American context, we often see a tension between honoring the original vision of a space and the evolving priorities of current leadership. The Kennedy Center was established as a living memorial to the 35th president. When we alter the naming conventions of such sites, we aren't just changing a sign; we are debating who "owns" the narrative of our public history.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Vitamin C Brightening Serum ($16.99)
+CeraVe Vitamin C Brightening Serum 
 </a></div>
 
 
@@ -69,10 +69,10 @@ CeraVe Vitamin C Brightening Serum ($16.99)
     </div>
 
     <div class="ncg-product-box" style="border-left: 5px solid #d4af37; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Reading:</strong> <em>Washington DC History Map Puzzle</em> - $24.50</p>
+      <p><strong>Recommended Reading:</strong> <em>Washington DC History Map Puzzle</em> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Skin Renewing Night Cream ($18.99)
+CeraVe Skin Renewing Night Cream 
 </a></div>
 
     </div>
@@ -83,13 +83,13 @@ CeraVe Skin Renewing Night Cream ($18.99)
     <p>As I reflect on this tug-of-war, I’m reminded of the wisdom found in Proverbs 22:1: "A good name is rather to be chosen than great riches, and loving favor rather than silver and gold." This verse invites us to consider that true honor isn't something that can be affixed to a marble wall by a board of directors; it is built through the character of one's actions over time.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Lenovo Legion Tower Gaming PC ($899.99)
+Lenovo Legion Tower Gaming PC 
 </a></div>
 
     <p>Similarly, Ecclesiastes 1:4 reminds us, "One generation passeth away, and another generation cometh: but the earth abideth for ever." This perspective humbles us, reminding us that buildings, names, and titles are often fleeting, while the values we steward for the next generation are what truly endure.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Lenovo Legion Tower Gaming PC ($899.99)
+Lenovo Legion Tower Gaming PC 
 </a></div>
 
   </section>

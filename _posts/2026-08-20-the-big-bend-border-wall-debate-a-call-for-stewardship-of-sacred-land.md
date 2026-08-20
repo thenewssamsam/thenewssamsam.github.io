@@ -27,7 +27,7 @@ source_url: 'https://cbsaustin.com/news/local/big-bend-border-wall-debate-heads-
     <p>Dozens of Texans converged on Austin this week to urge the Texas Parks and Wildlife commissioners to permanently protect the Big Bend region. The hearing followed mounting concerns over potential construction projects aimed at border security. While the U.S. Customs and Border Protection (CBP) has officially paused construction activities pending a personal evaluation by Commissioner Rodney Scott, advocates remain wary.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -35,7 +35,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p><strong>Quick Take:</strong> The conflict at Big Bend represents a classic tension between the immediate demand for physical security and the long-term responsibility of environmental preservation. It is a debate that transcends party lines, involving local mayors, state officials, and concerned citizens alike.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -43,7 +43,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Governor Greg Abbott has publicly stated he has received assurances that a physical barrier will not be erected, yet the call for legislative action remains firm. For many, this is not just about policy; it is about the "rugged uniqueness" of a landscape that many consider sacred.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -53,7 +53,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>From a faith-based perspective, the land is not merely a resource to be exploited or a barrier to be built upon; it is a gift entrusted to humanity. The concept of stewardship—the responsible overseeing and protection of something considered worth caring for—is deeply rooted in the biblical narrative.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -64,7 +64,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When we look at the vast, untamed reaches of Big Bend, we are reminded of the grandeur of creation. Stewardship involves a profound recognition that we are temporary occupants of this earth, tasked with ensuring that future generations can witness the same beauty we enjoy today. The desire of local leaders like Presidio Mayor John Ferguson to "preserve the Big Bend area for all the generations that are going to follow" echoes this biblical mandate to act as caretakers.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -72,7 +72,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>Shareable Insight:</strong> "True stewardship requires us to weigh the necessity of our walls against the sanctity of the creation we were called to protect."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -80,15 +80,15 @@ Tactical Waterproof Backpack ($35.99)
     <p>However, the challenge of security cannot be ignored. We live in a fallen world where nations must protect their borders. Yet, this necessity does not grant us license to disregard the integrity of the natural world. Wisdom, as described in Proverbs, involves discerning the path that honors both our responsibilities to our neighbors and our duties to the Creator.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div style="border-left: 4px solid #ccc; background-color: #f0f0f0; padding: 10px; margin: 20px 0;">
-      <p><em>Recommendation:</em> <strong>National Parks Pass (America the Beautiful)</strong> - $80.00. Support our national treasures and explore the beauty of Big Bend responsibly.</p>
+      <p><em>Recommendation:</em> <strong>National Parks Pass (America the Beautiful)</strong> - . Support our national treasures and explore the beauty of Big Bend responsibly.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -96,7 +96,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Scripture invites us to consider our motives and our methods. As we navigate these complex political waters, we must ask if our actions reflect a heart of preservation or a heart of fear. Stewardship is an act of faith—a belief that by protecting the land, we are honoring the One who fashioned it.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -106,7 +106,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>For those concerned about the future of Big Bend, the path forward involves both engagement and discernment:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>

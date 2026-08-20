@@ -40,13 +40,13 @@ source_url: "https://www.cnn.com/2026/08/18/asia/trump-us-south-korea-military-e
 
 <!-- Amazon Product Recommendation #1 -->
 <div style="border-left: 4px solid #f0c14b; background-color: #fef8f0; padding: 12px 15px; margin: 20px 0; border-radius: 0 4px 4px 0; font-size: 0.95rem;">
-  <span style="font-weight: bold; color: #111;">Recommended Resource:</span> <a href="https://www.amazon.com/dp/B08N5WKGNZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">ESV Study Bible, Hardcover: Largely recognized for deep theological insight and historical maps</a> ($34.99) - Essential for understanding biblical perspectives on leadership, nations, and peace.
+  <span style="font-weight: bold; color: #111;">Recommended Resource:</span> <a href="https://www.amazon.com/dp/B08N5WKGNZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">ESV Study Bible, Hardcover: Largely recognized for deep theological insight and historical maps</a>  - Essential for understanding biblical perspectives on leadership, nations, and peace.
 </div>
 
 <p>When powerful nations negotiate and shift their military postures, the ripple effects are felt far beyond government chambers. For millions of citizens living within the shadow of the Demilitarized Zone, questions of safety, sovereignty, and trust take on immediate urgency. News headlines report on troop movements and presidential statements, but underneath the political maneuvering lies a timeless human longing for security.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -56,26 +56,26 @@ Seagate Portable External Hard Drive ($59.99)
 <p>For over seventy years, the alliance between the United States and South Korea has served as a cornerstone of stability in East Asia. The mutual defense treaty was forged to protect democratic South Korea from its northern neighbor, a nation that has steadily expanded its nuclear capabilities. Military drills like Ulchi Freedom Shield are designed to test preparedness against evolving threats, including cyberattacks and drone incursions.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Yet, statecraft often requires walking a razor-thin edge between strength and conciliation. Critics worry that unilateral scaling back of defense exercises weakens readiness and rewards an authoritarian regime. Supporters, on the other hand, argue that gestures of goodwill can open doors to diplomatic breakthroughs that decades of rigid confrontation failed to achieve. This tension mirrors a fundamental human dilemma: how do societies protect themselves against genuine harm while still pursuing reconciliation?</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <!-- Amazon Product Recommendation #2 -->
 <div style="border-left: 4px solid #f0c14b; background-color: #fef8f0; padding-data: 12px 15px; padding: 12px 15px; margin: 20px 0; border-radius: 0 4px 4px 0; font-size: 0.95rem;">
-  <span style="font-weight: bold; color: #111;">Recommended Resource:</span> <a href="https://www.amazon.com/dp/0310451390?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Peacemaker: A Biblical Guide to Resolving Personal Conflict</a> ($14.99) - Practical wisdom on applying biblical principles of peace and communication to complex disputes.
+  <span style="font-weight: bold; color: #111;">Recommended Resource:</span> <a href="https://www.amazon.com/dp/0310451390?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Peacemaker: A Biblical Guide to Resolving Personal Conflict</a>  - Practical wisdom on applying biblical principles of peace and communication to complex disputes.
 </div>
 
 <p>In moments like these, people naturally search for certainty. We look to leaders, treaties, and military might to guarantee our tomorrow. But history and human experience continually remind us of the fragility of earthly alliances. Leaders change, political priorities shift, and diplomatic breakthroughs can unravel just as quickly as they are assembled.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -85,14 +85,14 @@ Tactical Waterproof Backpack ($35.99)
 <p>When considering international relations and the pursuit of peace, Scripture invites us to look past superficial fixes and examine the deeper moral posture of humanity. The Bible repeatedly speaks to the weight of leadership, the necessity of peacemaking, and the danger of misplaced trust.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>In the Book of Psalms, we are cautioned against placing our ultimate security in human power structures:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -103,19 +103,19 @@ Seagate Portable External Hard Drive ($59.99)
 <p>This passage does not condemn diplomacy or national defense; rather, it provides a sobering perspective on the limits of earthly rulers. Presidents, prime ministers, and generals navigate immensely complex landscapes, making decisions that carry life-and-death consequences. Yet, lasting peace cannot be manufactured through political willpower alone. True reconciliation requires humility, justice, and a recognition of our shared human dignity.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <!-- Amazon Product Recommendation #3 -->
 <div style="border-left: 4px solid #f0c14b; background-color: #fef8f0; padding: 12px 15px; margin: 20px 0; border-radius: 0 4px 4px 0; font-size: 0.95rem;">
-  <span style="font-weight: bold; color: #111;">Recommended Resource:</span> <a href="https://www.amazon.com/dp/1581346336?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Pursuit of Peace: A Christian Perspective on Justice and Reconciliation</a> ($18.50) - Exploring how faith communities can champion genuine peace in troubled regions.
+  <span style="font-weight: bold; color: #111;">Recommended Resource:</span> <a href="https://www.amazon.com/dp/1581346336?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Pursuit of Peace: A Christian Perspective on Justice and Reconciliation</a>  - Exploring how faith communities can champion genuine peace in troubled regions.
 </div>
 
 <p>At the same time, Scripture honors the noble calling of those who actively seek to lower tensions and avoid destruction. In the Sermon on the Mount, Jesus pronounces a blessing on those who foster harmony:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -126,7 +126,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Reducing military exercises in an effort to open doors for dialogue can be viewed as an attempt at de-escalation. However, biblical wisdom also teaches that peace without truth and justice is often fragile. As observers of these events, we are reminded that political decisions in Washington or Seoul carry profound moral weight, impacting millions of families who simply desire to live, work, and worship in quietness and safety.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -137,7 +137,7 @@ Seagate Portable External Hard Drive ($59.99)
 
 <!-- Amazon Product Recommendation #4 -->
 <div style="border-left: 4px solid #f0c14b; background-color: #fef8f0; padding: 12px 15px; margin: 20px 0; border-radius: 0 4px 4px 0; font-size: 0.95rem;">
-  <span style="font-weight: bold; color: #111;">Recommended Resource:</span> <a href="https://www.amazon.com/dp/0830846174?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Christian Ethics: Contemporary Issues and Options</a> ($29.99) - A thoughtful guide on navigating complex geopolitical and moral dilemmas through a Christian worldview.
+  <span style="font-weight: bold; color: #111;">Recommended Resource:</span> <a href="https://www.amazon.com/dp/0830846174?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Christian Ethics: Contemporary Issues and Options</a>  - A thoughtful guide on navigating complex geopolitical and moral dilemmas through a Christian worldview.
 </div>
 </section>
 
@@ -153,7 +153,7 @@ Seagate Portable External Hard Drive ($59.99)
 
 <!-- Amazon Product Recommendation #5 -->
 <div style="border-left: 4px solid #f0c14b; background-color: #fef8f0; padding: 12px 15px; margin: 20px 0; border-radius: 0 4px 4px 0; font-size: 0.95rem;">
-  <span style="font-weight: bold; color: #111;">Recommended Resource:</span> <a href="https://www.amazon.com/dp/143355416X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Praying the Bible</a> ($10.99) - Learn how to turn news headlines and global concerns into meaningful, scripture-guided prayers.
+  <span style="font-weight: bold; color: #111;">Recommended Resource:</span> <a href="https://www.amazon.com/dp/143355416X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Praying the Bible</a>  - Learn how to turn news headlines and global concerns into meaningful, scripture-guided prayers.
 </div>
 </section>
 
@@ -168,7 +168,7 @@ Heavenly Father, we come before You lifting up the leaders of the United States,
 
 <!-- Amazon Product Recommendation #6 -->
 <div style="border-left: 4px solid #f0c14b; background-color: #fef8f0; padding: 12px 15px; margin: 20px 0; border-radius: 0 4px 4px 0; font-size: 0.95rem;">
-  <span style="font-weight: bold; color: #111;">Recommended Resource:</span> <a href="https://www.amazon.com/dp/0310344441?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Jesus I Never Knew</a> ($15.99) - A deeper look at the transformative power of Christ's love and message in a broken world.
+  <span style="font-weight: bold; color: #111;">Recommended Resource:</span> <a href="https://www.amazon.com/dp/0310344441?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Jesus I Never Knew</a>  - A deeper look at the transformative power of Christ's love and message in a broken world.
 </div>
 </section>
 

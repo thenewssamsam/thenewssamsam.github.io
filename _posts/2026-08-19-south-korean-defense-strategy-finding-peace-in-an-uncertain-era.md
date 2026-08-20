@@ -27,7 +27,7 @@ source_url: "https://www.nbcnews.com/world/asia/south-korean-president-urges-str
         <p><em>"A strong alliance makes the foundation of security stronger, and strengthening our own capabilities increases our value and necessity as an ally."</em> — President Lee Jae Myung</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -37,14 +37,14 @@ Tactical Waterproof Backpack ($35.99)
         <p>When we look at the tension on the Korean Peninsula through the lens of faith, we are reminded that security is a complex human endeavor. The Bible does not ignore the reality of human conflict; rather, it provides a framework for how we ought to carry ourselves in the face of uncertainty. We are called to be wise stewards of our resources and protectors of the vulnerable, yet we must always keep our ultimate hope grounded in God's sovereignty rather than solely in military might.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         
         <p>Psalm 127:1 reminds us: <em>"Unless the Lord builds the house, the builders labor in vain. Unless the Lord watches over the city, the guards stand watch in vain."</em> This does not negate the importance of defense or planning; instead, it invites us to remember that even our most rigorous strategies are subordinate to a higher order. When President Lee speaks of preparing for a "worst-case scenario," he is exercising the prudence expected of a leader, but for the believer, this is a reminder that true security is found in the character of God, who remains constant even when political alliances fluctuate.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -55,7 +55,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p>We are also reminded of the need for discernment. Proverbs 24:6 tells us, <em>"For by wise guidance you can wage your war, and in abundance of counselors there is victory."</em> This highlights that the pursuit of peace requires humility, listening, and a willingness to seek counsel. Whether in national policy or personal relationships, the path forward is rarely found in isolation, but in seeking wisdom that recognizes our human limitations.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </section>
@@ -65,7 +65,7 @@ Tactical Waterproof Backpack ($35.99)
         <p>For those watching these events unfold, the response is twofold: prayer and perspective. We can pray for the leaders involved, that they may be granted the wisdom to act with justice and restraint. Locally, we can practice being "peacemakers" in our own spheres—choosing dialogue over division and focusing on how we can contribute to the stability of our own communities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </section>

@@ -42,13 +42,13 @@ source_url: "https://www.sfgate.com/sf-culture/article/abc-sues-fcc-22393619.php
 <p>According to reports from SFGate and other outlets, ABC and its parent company, The Walt Disney Company, filed a federal lawsuit in response to what they termed "deeply un-American" actions by the Trump administration. The conflict centers on demands from the FCC requiring eight of ABC’s owned-and-operated stations—including KGO-TV in San Francisco—to file their broadcast license renewals years ahead of schedule.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <p>For KGO-TV, whose official license renewal was not set to expire until December 1, 2030, the FCC issued an order in late April giving stations just 30 days to complete applications that normally take months of meticulous preparation. The regulatory pressure followed public and political blowback over content broadcast on programs like "Jimmy Kimmel Live!" and "The View," alongside statements from officials criticizing network news coverage.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <div class="ncg-product-card" style="border-left: 4px solid #d4af37; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
@@ -59,13 +59,13 @@ Tactical Waterproof Backpack ($35.99)
 <p>In its legal filing, ABC contends that the expedited renewals are a retaliatory campaign designed to coerce media companies into favorable coverage. The lawsuit cites presidential statements regarding broadcast license terminations and asserts that if such administrative leverage succeeds, the message to every media outlet in the country will be unmistakable: tell only favorable stories, or face the machinery of the federal government.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <p>While the legal arguments will play out in federal courts over the coming months, the immediate consequence is a heightened public awareness of how fragile institutional checks and balances can appear when political pressures intersect with broadcasting rights.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -75,7 +75,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>For parents striving to raise thoughtful, media-literate children, news stories like the ABC-FCC lawsuit offer more than political talking points—they provide a practical sandbox for teaching critical thinking. In a world where children and teenagers consume news, opinion, and entertainment through glowing screens before they even learn to navigate print newspapers, understanding how information systems operate is a vital life skill.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -83,7 +83,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>"When government power and media freedom collide, the most important lesson we can pass down to our children is that truth requires protection, and liberty requires active, informed citizens."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </div>
@@ -91,7 +91,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Children naturally grasp the concept of fairness on the playground. When rules are changed mid-game to penalize one player, kids instantly recognize the injustice. Explaining administrative pressure on broadcasters can be approached through this same lens of fair play and open dialogue.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -104,7 +104,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>Furthermore, this situation highlights the difference between disagreement and censorship. It teaches children that in a diverse, democratic society, people will inevitably broadcast perspectives we dislike, find offensive, or disagree with entirely. The historical brilliance of the First Amendment is that it protects speech precisely when it is uncomfortable, ensuring that the government does not become the ultimate arbiter of approved truth.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -114,7 +114,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>Navigating complex news stories with children requires tailoring your approach to their developmental stage. Here is how parents can break down media freedom and regulatory disputes across different age groups:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <ul>
@@ -135,13 +135,13 @@ Seagate Portable External Hard Drive ($59.99)
 <p>When headlines are dominated by disputes over what is broadcast and what is suppressed, it is natural to reflect on where enduring truth is found. This makes me think about how easily human systems bend under the weight of political pressure and fear. Proverbs 12:19 reminds us, "Truthful lips endure forever, but a lying tongue lasts only a moment." Scripture continually calls God's people to prize honesty, integrity, and the unfettered pursuit of what is right over the temporary convenience of pleasing powerful institutions.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <p>I'm reminded that protecting the ability to speak freely and honestly is not merely a political preference; it is a vital stewardship of the voice and conscience we have been given. When justice is tested in the public square, our families are invited to stand firmly for clarity, charity, and an unwavering commitment to truth.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -151,7 +151,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Instead of feeling powerless or tuning out the news entirely, families can take practical, grounding steps to engage constructively:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <ul>

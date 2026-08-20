@@ -36,7 +36,7 @@ source_url: "https://www.cbsnews.com/pittsburgh/news/penn-state-drug-fraternity-
 <p>The law firm where Paul Robinson works quickly issued a statement noting that the allegations concern him individually and do not reflect upon the firm or its clients. Meanwhile, the younger Robinson already faced an open criminal case from December 2024 out of Centre County involving drug distribution charges. As the legal proceedings move forward, the case offers a sobering window into human nature, family loyalty, and the dangerous lengths to which parents will sometimes go to shield their children from accountability.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -50,26 +50,26 @@ Tactical Waterproof Backpack ($35.99)
 <p>From a biblical vantage point, the instinct to protect one's offspring is deeply ingrained and fundamentally natural. Parents are commanded to love, nurture, and guide their children. However, the line between healthy parental support and destructive enabling is one of the most delicate boundaries in human relationships. When love becomes disordered—prioritizing the temporary shielding of a child from earthly consequences over truth, justice, and spiritual transformation—it often leads down a treacherous path.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>The charges against a seasoned officer of the court highlight a profound irony: a man sworn to uphold the law allegedly compromised his integrity and career to obstruct it for his own flesh and blood. This tension reminds us of how easily natural affections can cloud moral judgment. Human history is filled with stories of parents whose indulgence or complicity ultimately harmed the very children they hoped to protect.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="amazon-recommendation" style="background-color: #fdfdfd; border-left: 4px solid #ff9900; padding: 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
-  <p style="margin: 0 0 10px 0; font-size: 0.95rem; color: #444;"><strong>Recommended Resource:</strong> Explore principles of Christian parenting and establishing healthy boundaries in family life with <a href="https://www.amazon.com/dp/B0040ZH3CE?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none; font-weight: bold;">Boundaries with Kids: How Healthy Choices Grow Healthy Children</a> ($14.99).</p>
+  <p style="margin: 0 0 10px 0; font-size: 0.95rem; color: #444;"><strong>Recommended Resource:</strong> Explore principles of Christian parenting and establishing healthy boundaries in family life with <a href="https://www.amazon.com/dp/B0040ZH3CE?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none; font-weight: bold;">Boundaries with Kids: How Healthy Choices Grow Healthy Children</a> .</p>
 </div>
 
 <h3 style="color: #333; font-size: 1.2rem; margin-top: 25px;">The Weight of Example</h3>
 <p>When leaders in communities—whether attorneys, educators, or civic figures—step outside the bounds of integrity, the ripple effects are immense. Young adults navigating the pressures of university life look to older generations for models of maturity and moral stability. When that framework collapses under the weight of criminal choices and cover-ups, it leaves students vulnerable to the dangerous belief that accountability is only for those without influence.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -79,25 +79,25 @@ Seagate Portable External Hard Drive ($59.99)
 <p>This situation makes me think about the timeless wisdom found in Scripture regarding family discipline and truth. Proverbs 13:24 reminds us, <q style="font-style: italic;">"Whoever spares the rod hates his son, but he who loves him is diligent to discipline him."</q> While modern ears often misinterpret such passages as purely punitive, the biblical concept of discipline is rooted in instruction, correction, and guiding a soul toward righteousness before consequences become entirely irreversible.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Furthermore, Proverbs 15:27 warns against the corrosive nature of dishonest gain and compromised integrity: <q style="font-style: italic;">"A greedy person brings ruin on their household, but the one who hates bribes will live."</q> Whether literal bribes or metaphorical shortcuts used to bypass the law, attempting to subvert justice rarely saves a person; instead, it expands the circle of collateral damage, drawing entire families into legal and moral turmoil.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="amazon-recommendation" style="background-color: #fdfdfd; border-left: 4px solid #ff9900; padding: 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
-  <p style="margin: 0 0 10px 0; font-size: 0.950rem; color: #444;"><strong>Recommended Resource:</strong> Deepen your understanding of biblical wisdom and everyday ethics with <a href="https://www.amazon.com/dp/B000FC1K68?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none; font-weight: bold;">The Purpose Driven Life: What on Earth Am I Here For?</a> ($16.99).</p>
+  <p style="margin: 0 0 10px 0; font-size: 0.950rem; color: #444;"><strong>Recommended Resource:</strong> Deepen your understanding of biblical wisdom and everyday ethics with <a href="https://www.amazon.com/dp/B000FC1K68?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none; font-weight: bold;">The Purpose Driven Life: What on Earth Am I Here For?</a> .</p>
 </div>
 
 <p>One lesson we can draw here is that true grace never asks us to abandon truth. Shielding someone from the earthly harvest of their poor decisions often robs them of the pivotal moment of realization that could lead to genuine repentance and personal growth. Letting go and allowing justice to take its course is agonizingly painful for any parent, but it is frequently the only path toward true redemption.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -107,7 +107,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Incidents involving campus drug rings and compromised family members call for self-reflection rather than self-righteous condemnation. Here are concrete ways to process these headlines:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <ul style="padding-left: 20px;">
@@ -117,7 +117,7 @@ Tactical Waterproof Backpack ($35.99)
 </ul>
 
 <div class="amazon-recommendation" style="background-color: #fdfdfd; border-left: 4px solid #ff9900; padding: 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
-  <p style="margin: 0 0 10px 0; font-size: 0.95rem; color: #444;"><strong>Recommended Resource:</strong> Strengthen your family communication and emotional connection with <a href="https://www.amazon.com/dp/B01B73I9BW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none; font-weight: bold;">The 5 Love Languages of Teenagers: The Secret to Loving Teens Effectively</a> ($15.49).</p>
+  <p style="margin: 0 0 10px 0; font-size: 0.95rem; color: #444;"><strong>Recommended Resource:</strong> Strengthen your family communication and emotional connection with <a href="https://www.amazon.com/dp/B01B73I9BW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none; font-weight: bold;">The 5 Love Languages of Teenagers: The Secret to Loving Teens Effectively</a> .</p>
 </div>
 </section>
 
@@ -126,7 +126,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>The unfolding situation at Penn State is a stark reminder that human credentials and professional success do not insulate families from moral failure. When we face our own trials or witness the missteps of those we love, may we choose the difficult, grace-filled path of truth and accountability.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>

@@ -167,7 +167,7 @@ source_url: 'https://www.pravda.com.ua/eng/news/2026/08/16/8048902/'
     <p>The operational footprint of these systems is broadening. The Nyan—designed specifically for long-range operations in heavily contested environments and previously tested during exercises in Estonia and from the Royal Navy experimentation ship XV Patrick Blackett—has reportedly been deployed in strikes near Belgorod. Furthermore, British-made platforms have been tied to operations targeting oil refineries near Moscow, Yaroslavl, and Volgograd. While Ukrainian forces continue to rely primarily on domestically produced long-range drones for the bulk of their missions, the successful incorporation of British hardware marks a notable tactical evolution.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -225,7 +225,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -233,7 +233,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -23,7 +23,7 @@ source_url: "https://www.cnn.com/2026/08/18/politics/live-news/florida-primary-e
     <p>Yet beyond the immediate horse-race commentary and strategizing for November, these primary outcomes offer a compelling window into something much deeper. They expose the relentless human drive for influence, the shifting loyalties of political parties, and the profound weight placed on earthly leadership. Whenever voters head to the polls and candidates vie for power, we are witnessing an age-old human drama about authority, ambition, and what we ultimately place our trust in.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -33,7 +33,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>The primary election night delivered several dramatic storylines across multiple states:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>
@@ -45,7 +45,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>These contests highlight a political landscape defined by intense internal party friction, shifting coalitions, and fierce competition for voter trust amid rising living costs and economic anxieties.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -59,7 +59,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>When we watch candidates vie for influence, spend millions on campaigns, and promise sweeping transformations, it is easy to get swept up in the earthly drama. But scripture offers a sobering and grounding counter-perspective on human striving and political power. From ancient kingdoms to modern legislative halls, the fundamental heart of humanity remains unchanged.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -67,7 +67,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Campaign trails are built on the promise that the right leader will fix the economy, secure public lands, and solve our deepest societal fractures. Yet biblical wisdom consistently warns against placing absolute trust in earthly political systems. Psalm 146:3-4 offers a timeless caution:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -75,7 +75,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p>"Do not put your trust in princes, in human beings, who cannot save. When their spirit departs, they return to the ground; on that very day their plans come to nothing." (NIV)</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </blockquote>
@@ -83,20 +83,20 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This verse does not tell us to ignore civic duty or abandon political participation. Rather, it invites us to calibrate our expectations. Elections matter for public policy, community well-being, and justice, but no legislative victory can redeem a culture or provide eternal security.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div class="ncg-product-card" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
         <p style="margin: 0 0 8px 0; font-weight: bold; color: #111;">Recommended Resource: <a href="https://www.amazon.com/dp/031035515X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Unleashing Grace in Politics: Good News for America's Divided Church</a></p>
-        <p style="margin: 0; font-size: 0.9em; color: #555;">A thoughtful guide on navigating political polarization with grace, truth, and biblical perspective. Price: $16.99</p>
+        <p style="margin: 0; font-size: 0.9em; color: #555;">A thoughtful guide on navigating political polarization with grace, truth, and biblical perspective. </p>
     </div>
 
     <h3>The Test of Humility in Leadership</h3>
     <p>In every election cycle, we witness the clash of strong personalities and competing visions for authority. Whether it is a triumphant victor celebrating a primary upset or a defeated candidate processing an unexpected loss, public life places a massive spotlight on human pride. Proverbs 16:18 reminds us of the spiritual hazard embedded in high-stakes ambition:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -104,7 +104,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p>"Pride goes before destruction, a haughty spirit before a fall." (NIV)</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </blockquote>
@@ -112,13 +112,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>True leadership, viewed through a biblical lens, is defined not by dominance or titles, but by servanthood and stewardship. When candidates like Angie Nixon or Byron Donalds step onto the general election stage, their ultimate accountability extends far beyond the ballot box to how they serve the vulnerable and uphold justice.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div class="ncg-product-card" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
         <p style="margin: 0 0 8px 0; font-weight: bold; color: #111;">Recommended Resource: <a href="https://www.amazon.com/dp/0830841644?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Jesus Way: A Conversation on the Ways That Jesus Is the Way</a></p>
-        <p style="margin: 0; font-size: 0.9em; color: #555;">Exploring how Christian ethics and leadership contrast sharply with earthly models of power. Price: $18.00</p>
+        <p style="margin: 0; font-size: 0.9em; color: #555;">Exploring how Christian ethics and leadership contrast sharply with earthly models of power. </p>
     </div>
 </section>
 
@@ -127,7 +127,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>As election season accelerates toward November, believers and thoughtful citizens alike are called to engage with discernment rather than despair or idolatrous optimism. Here are three concrete ways to respond:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     

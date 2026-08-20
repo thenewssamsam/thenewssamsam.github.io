@@ -65,12 +65,12 @@ source_url: "https://www.bbc.com/news/articles/c62emm4yp8go"
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div class="ncg-product-box">
-      Recommended Resource: <a href="https://www.amazon.com/dp/B08N5K2V7X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Deeply Wounded Soul: Understanding Mental Health and Faith</a> - $18.99. A compassionate guide for navigating mental health crises within communities of faith.
+      Recommended Resource: <a href="https://www.amazon.com/dp/B08N5K2V7X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Deeply Wounded Soul: Understanding Mental Health and Faith</a> - . A compassionate guide for navigating mental health crises within communities of faith.
     </div>
 
     <h2 id="a-cry-for-help">A Desperate Cry for Help</h2>
@@ -79,7 +79,7 @@ Tactical Waterproof Backpack ($35.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>
@@ -87,7 +87,7 @@ Seagate Portable External Hard Drive ($59.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -96,7 +96,7 @@ Seagate Portable External Hard Drive ($59.99)
     </div>
 
     <div class="ncg-product-box">
-      Recommended Resource: <a href="https://www.amazon.com/dp/1535905182?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Dark Clouds, Deep Mercy: Discovering Grace When You're Hurting</a> - $14.99. Exploring how Scripture and prayer meet us in our deepest emotional and psychological valleys.
+      Recommended Resource: <a href="https://www.amazon.com/dp/1535905182?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Dark Clouds, Deep Mercy: Discovering Grace When You're Hurting</a> - . Exploring how Scripture and prayer meet us in our deepest emotional and psychological valleys.
     </div>
 
     <h2 id="the-weight-of-darkness">The Weight of Darkness and Grace</h2>
@@ -105,7 +105,7 @@ Seagate Portable External Hard Drive ($59.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>
@@ -113,12 +113,12 @@ Tactical Waterproof Backpack ($35.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div class="ncg-product-box">
-      Recommended Resource: <a href="https://www.amazon.com/dp/0310346398?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma</a> - $16.50. Essential reading on how trauma and mental distress impact physical and mental well-being.
+      Recommended Resource: <a href="https://www.amazon.com/dp/0310346398?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma</a> - . Essential reading on how trauma and mental distress impact physical and mental well-being.
     </div>
 
     <h2 id="how-should-christians-respond">How Should Christians Respond?</h2>
@@ -127,7 +127,7 @@ Tactical Waterproof Backpack ($35.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>
@@ -135,7 +135,7 @@ Tactical Waterproof Backpack ($35.99)
     </p>
 
     <div class="ncg-product-box">
-      Recommended Resource: <a href="https://www.amazon.com/dp/1578566932?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">A Long Obedience in the Same Direction</a> - $15.00. Encouragement for persevering through life's most difficult and exhausting seasons.
+      Recommended Resource: <a href="https://www.amazon.com/dp/1578566932?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">A Long Obedience in the Same Direction</a> - . Encouragement for persevering through life's most difficult and exhausting seasons.
     </div>
 
     <div class="ncg-closing-box">

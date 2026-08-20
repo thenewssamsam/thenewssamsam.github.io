@@ -38,7 +38,7 @@ source_url: 'https://www.bbc.com/news/articles/cp3r0kz775ko'
     <p>According to prosecutors, the violence was born out of retaliation. Hours before the shooting, a casino altercation left Davis's nephew, Orlando Anderson, involved in a physical fight with Shakur. Chief Deputy District Attorney Binu Palal told the jury that Davis viewed the incident as an insult that could not "go unanswered." While prosecutors acknowledge Davis did not pull the trigger himself, they argue he acted as the on-site commander who acquired the weapon, coordinated the vehicles, and ordered the attack.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
     <p>The defense team has pushed back aggressively, calling the prosecution's narrative fiction built on a flawed, three-decade-long investigation. They point to missing police reports, changing witness testimonies, and a lack of direct physical corroboration. Yet, the state's case relies heavily on an unusual piece of evidence: statements Davis himself made in interviews and a 2019 memoir, where he openly detailed his role in the passenger seat of the white Cadillac that night.</p>
@@ -161,7 +161,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -169,7 +169,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

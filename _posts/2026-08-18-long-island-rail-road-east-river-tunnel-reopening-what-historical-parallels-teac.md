@@ -53,11 +53,11 @@ source_url: 'https://www.newsday.com/long-island/transportation/east-river-tunne
 
   <section id="what-happened">
     <h2>What Happened: The Line 2 Reopening</h2>
-    <p>According to the report, the East River Line 2 tunnel is officially reopening after a massive rehabilitation effort backed by $1.6 billion in total funding—roughly $1.3 billion of which came from federal infrastructure grants. Originally constructed in 1910 alongside Penn Station, Lines 1 and 2 suffered catastrophic flooding during Superstorm Sandy in 2012. Millions of gallons of corrosive saltwater left residue that systematically degraded the tunnels' structural integrity over the ensuing decade.</p>
+    <p>According to the report, the East River Line 2 tunnel is officially reopening after a massive rehabilitation effort backed by  billion in total funding—roughly  billion of which came from federal infrastructure grants. Originally constructed in 1910 alongside Penn Station, Lines 1 and 2 suffered catastrophic flooding during Superstorm Sandy in 2012. Millions of gallons of corrosive saltwater left residue that systematically degraded the tunnels' structural integrity over the ensuing decade.</p>
     <p>The repair project required a complete 15-month full shutdown of Line 2 while Amtrak—which owns the tunnels—rebuilt track beds, drainage systems, bench walls, cables, and concrete linings. While the Metropolitan Transportation Authority (MTA) initially pushed for weekend-only work to avoid commuter headaches, Amtrak insisted on a total shutdown. With Line 2 now complete, attention shifts to Line 1, which faces a similar 13-month closure starting this fall. Officials estimate these newly modernized crossings are engineered to last another hundred years.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
   </section>
@@ -65,7 +65,7 @@ Seagate Portable External Hard Drive ($59.99)
   <section id="historical-perspective">
     <h2>A Historical Perspective: Building for the Century</h2>
     <p>There is a profound historical rhythm to what is happening underneath the East River right now. When Lines 1 and 2 first opened in 1910, they were part of an engineering marvel—the Pennsylvania Railroad's monumental effort to connect New Jersey and Long Island directly to Manhattan via underground and underwater rail tubes. The engineers of the early 20th century were not building for a fast political election cycle or a quick quarterly return; they were pouring concrete and driving iron with an eye toward a sprawling, industrial century.</p>
-    <p>History shows us that monumental infrastructure projects almost always share two traits: they are painfully disruptive when built or repaired, and they outlive the political arguments that delayed them. Just as the original 1910 construction required immense capital, grit, and disruption to urban life, the modern $1.6 billion rehabilitation reflects the harsh reality of maintaining civic assets that have outlived their original design assumptions.</p>
+    <p>History shows us that monumental infrastructure projects almost always share two traits: they are painfully disruptive when built or repaired, and they outlive the political arguments that delayed them. Just as the original 1910 construction required immense capital, grit, and disruption to urban life, the modern  billion rehabilitation reflects the harsh reality of maintaining civic assets that have outlived their original design assumptions.</p>
   </section>
 
   <div class="ncg-quote-box">
@@ -110,7 +110,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -118,7 +118,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

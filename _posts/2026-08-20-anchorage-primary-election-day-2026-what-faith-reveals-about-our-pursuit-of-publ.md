@@ -40,7 +40,7 @@ source_url: "https://www.adn.com/politics/2026/08/18/in-photos-candidates-compet
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>
@@ -48,7 +48,7 @@ Tactical Waterproof Backpack ($35.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -68,7 +68,7 @@ Tactical Waterproof Backpack ($35.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>
@@ -76,7 +76,7 @@ Seagate Portable External Hard Drive ($59.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>
@@ -84,14 +84,14 @@ Tactical Waterproof Backpack ($35.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <!-- Product 1 -->
     <div style="margin: 20px 0; padding: 16px; background-color: #fdfbf7; border-left: 4px solid #d97706; border-radius: 4px;">
       <p style="margin: 0; font-size: 0.95rem; color: #78350f;">
-        <strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/0310356598?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World</a> ($15.99) — Discover how to step away from the relentless pursuit of frantic public validation and find true peace.
+        <strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/0310356598?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World</a>  — Discover how to step away from the relentless pursuit of frantic public validation and find true peace.
       </p>
     </div>
 
@@ -100,7 +100,7 @@ Tactical Waterproof Backpack ($35.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -118,14 +118,14 @@ Seagate Portable External Hard Drive ($59.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <!-- Product 2 -->
     <div style="margin: 20px 0; padding: 16px; background-color: #fdfbf7; border-left: 4px solid #d97706; border-radius: 4px;">
       <p style="margin: 0; font-size: 0.95rem; color: #78350f;">
-        <strong>Helpful Tool:</strong> <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The ESV Study Bible</a> ($34.99) — Deepen your understanding of scriptural wisdom regarding leadership, justice, and where to place your ultimate trust.
+        <strong>Helpful Tool:</strong> <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The ESV Study Bible</a>  — Deepen your understanding of scriptural wisdom regarding leadership, justice, and where to place your ultimate trust.
       </p>
     </div>
 
@@ -145,7 +145,7 @@ Tactical Waterproof Backpack ($35.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>
@@ -153,7 +153,7 @@ Seagate Portable External Hard Drive ($59.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -171,14 +171,14 @@ Seagate Portable External Hard Drive ($59.99)
     </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <!-- Product 3 -->
     <div style="margin: 20px 0; padding: 16px; background-color: #fdfbf7; border-left: 4px solid #d97706; border-radius: 4px;">
       <p style="margin: 0; font-size: 0.95rem; color: #78350f;">
-        <strong>Faith Journal:</strong> <a href="https://www.amazon.com/dp/1641526435?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The 52-Week Christian Prayer Journal for Women and Men</a> ($12.49) — A dedicated space to bring your community concerns, leaders, and civic burdens before God in prayer.
+        <strong>Faith Journal:</strong> <a href="https://www.amazon.com/dp/1641526435?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The 52-Week Christian Prayer Journal for Women and Men</a>  — A dedicated space to bring your community concerns, leaders, and civic burdens before God in prayer.
       </p>
     </div>
   </section>
@@ -205,7 +205,7 @@ Seagate Portable External Hard Drive ($59.99)
     <!-- Product 4 -->
     <div style="margin: 20px 0; padding: 16px; background-color: #fdfbf7; border-left: 4px solid #d97706; border-radius: 4px;">
       <p style="margin: 0; font-size: 0.95rem; color: #78350f;">
-        <strong>Community Resource:</strong> <a href="https://www.amazon.com/dp/1496441584?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The Peacemaker: A Biblical Guide to Resolving Personal Conflict</a> ($16.99) — Learn how to navigate difficult conversations and maintain unity when cultural and political tensions run high.
+        <strong>Community Resource:</strong> <a href="https://www.amazon.com/dp/1496441584?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The Peacemaker: A Biblical Guide to Resolving Personal Conflict</a>  — Learn how to navigate difficult conversations and maintain unity when cultural and political tensions run high.
       </p>
     </div>
   </section>
@@ -239,7 +239,7 @@ Seagate Portable External Hard Drive ($59.99)
     <!-- Product 5 -->
     <div style="margin: 20px 0; padding: 16px; background-color: #fdfbf7; border-left: 4px solid #d97706; border-radius: 4px;">
       <p style="margin: 0; font-size: 0.95rem; color: #78350f;">
-        <strong>Study Aid:</strong> <a href="https://www.amazon.com/dp/0310452331?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">NIV Life Application Study Bible</a> ($38.99) — Equip yourself with practical commentary on applying timeless biblical principles to modern civic and daily life.
+        <strong>Study Aid:</strong> <a href="https://www.amazon.com/dp/0310452331?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">NIV Life Application Study Bible</a>  — Equip yourself with practical commentary on applying timeless biblical principles to modern civic and daily life.
       </p>
     </div>
   </section>
@@ -255,7 +255,7 @@ Seagate Portable External Hard Drive ($59.99)
     <!-- Product 6 -->
     <div style="margin: 20px 0; padding: 16px; background-color: #fdfbf7; border-left: 4px solid #d97706; border-radius: 4px;">
       <p style="margin: 0; font-size: 0.95rem; color: #78350f;">
-        <strong>Daily Encouragement:</strong> <a href="https://www.amazon.com/dp/0785238123?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Jesus Calling: Enjoying Peace in His Presence</a> ($13.99) — Start each day grounded in God's peace, far above the noise and anxiety of the political news cycle.
+        <strong>Daily Encouragement:</strong> <a href="https://www.amazon.com/dp/0785238123?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Jesus Calling: Enjoying Peace in His Presence</a>  — Start each day grounded in God's peace, far above the noise and anxiety of the political news cycle.
       </p>
     </div>
   </section>
@@ -271,7 +271,7 @@ Seagate Portable External Hard Drive ($59.99)
     <!-- Product 7 -->
     <div style="margin: 20px 0; padding: 16px; background-color: #fdfbf7; border-left: 4px solid #d97706; border-radius: 4px;">
       <p style="margin: 0; font-size: 0.95rem; color: #78350f;">
-        <strong>Prayer Journal:</strong> <a href="https://www.amazon.com/dp/1684034442?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The Power of a Praying Nation</a> ($11.99) — Uplift your community, leaders, and nation through intentional, faith-filled daily prayers.
+        <strong>Prayer Journal:</strong> <a href="https://www.amazon.com/dp/1684034442?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The Power of a Praying Nation</a>  — Uplift your community, leaders, and nation through intentional, faith-filled daily prayers.
       </p>
     </div>
   </section>

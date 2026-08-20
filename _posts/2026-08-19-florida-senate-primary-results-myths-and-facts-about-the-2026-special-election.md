@@ -24,7 +24,7 @@ source_url: "https://www.nbcnews.com/politics/2026-primary-special-elections/flo
     <p>The special election was held to fill the remaining two years of the term originally won by Marco Rubio in 2022. According to the NBC News Decision Desk, incumbent Sen. Ashley Moody secured a decisive victory in the Republican primary, while state representative Angie Nixon emerged as the winner in the Democratic primary, defeating challenger Alex Vindman.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -34,7 +34,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>In the wake of any high-profile election, rumors often outpace official data. Let’s look at the facts.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p><strong>Fact:</strong> While results provide a snapshot of current voter preferences, this was a primary election for a specific, shortened term. Primary turnout is historically different from general election turnout, and these results primarily indicate the base-level support for candidates within their respective parties.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
       
@@ -51,7 +51,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>Fact:</strong> While candidate history is always part of a campaign narrative, election outcomes are complex. Data shows Angie Nixon won across various counties, suggesting her platform and mobilization efforts resonated with the Democratic base, rather than the election being decided by a single biographical factor.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -66,13 +66,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>In times of political upheaval, it is easy to become overwhelmed by competing narratives. The Bible offers a timeless reminder about the importance of seeking truth. Proverbs 14:15 tells us, <em>"The simple believes everything, but the prudent gives thought to his steps."</em> This invites us to be discerning consumers of information, especially when emotions run high during an election cycle.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Similarly, we are reminded in 1 Thessalonians 5:21 to <em>"test all things; hold fast what is good."</em> Whether we are analyzing election returns or listening to neighbors discuss the future of our state, we are called to look beyond the surface, verify the facts, and maintain a spirit of grace and wisdom in our interactions.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

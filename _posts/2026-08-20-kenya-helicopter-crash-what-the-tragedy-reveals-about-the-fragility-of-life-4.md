@@ -24,7 +24,7 @@ source_url: 'https://www.bbc.com/news/articles/clylkv4z59vo'
     <p>The Eurocopter EC130 B4, operated by Lady Lori Helicopters, was traveling from a wildlife conservancy in Loisaba toward the Ewaso Nyiro river when it went down on the slopes of Mount Ololokwe. As rescue teams from the Kenya Red Cross arrived, they were met with the harrowing sight of burning wreckage in a region known for its breathtaking beauty and remote wilderness.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -34,7 +34,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>News of a sudden accident involving public figures and private citizens often leaves us with a hollow feeling. We view our lives through the lens of long-term planning—career trajectories, upcoming vacations, and future goals. Yet, events like the Samburu crash serve as a stark reminder that the "future" is a promise, not a guarantee.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -46,13 +46,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>When we hear of a high-ranking intelligence official or a respected journalist meeting an abrupt end while on a scenic flight, it triggers a psychological reaction known as the "availability heuristic." We suddenly become hypersensitive to the risks in our own lives. While it is natural to feel shaken, the lesson here isn't to live in fear, but to live with intentionality.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Life is composed of small, fragile connections. The victims of this crash were embarking on a journey of discovery, likely looking forward to the beauty of Kenya’s conservancies. This sudden loss invites us to appreciate the mundane stability of our daily routines that we so often take for granted.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -62,13 +62,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This event makes me think deeply about the brevity of our time on earth. It is easy to act as though we are the architects of our own destiny, but we are reminded that our days are held in God's hands. As it is written in James 4:14, <em>"Why, you do not even know what will happen tomorrow. What is your life? You are a mist that appears for a little while and then vanishes."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>This is not meant to be morbid, but rather a call to humility. When we realize how fleeting life is, we are invited to consider what truly matters—our relationships, our integrity, and our service to others. Psalm 90:12 offers a beautiful prayer for this: <em>"Teach us to number our days, that we may gain a heart of wisdom."</em> May we use the time we are given to pursue things that carry eternal significance.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

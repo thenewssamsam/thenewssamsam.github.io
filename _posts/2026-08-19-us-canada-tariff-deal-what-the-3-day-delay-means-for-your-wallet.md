@@ -16,15 +16,15 @@ source_url: "https://apnews.com/article/tariffs-trump-canada-usmca-trade-aae597c
   </header>
 
   <section id="introduction">
-    <p>President Donald Trump has announced a three-day pause on the 50% tariffs previously scheduled for $20 billion worth of Canadian imports. While this "last-minute deal" provides a brief reprieve, it highlights the ongoing volatility in North American trade relations. For the average American, this isn't just a political headline—it is a signal of potential price fluctuations on goods ranging from household staples to essential medical supplies.</p>
+    <p>President Donald Trump has announced a three-day pause on the 50% tariffs previously scheduled for  billion worth of Canadian imports. While this "last-minute deal" provides a brief reprieve, it highlights the ongoing volatility in North American trade relations. For the average American, this isn't just a political headline—it is a signal of potential price fluctuations on goods ranging from household staples to essential medical supplies.</p>
   </section>
 
   <section id="financial-mechanics">
     <h2>The Real Cost of Import Taxes</h2>
-    <p>When the U.S. government imposes a tariff on foreign goods, it is not the exporting country that writes a check to the Treasury; rather, it is the U.S.-based importer who pays the tax. In a competitive market, these companies often pass those costs directly to the end consumer. A 50% tariff on $20 billion worth of Canadian goods would have represented a massive inflationary shock for sectors that rely on Canadian supply chains.</p>
+    <p>When the U.S. government imposes a tariff on foreign goods, it is not the exporting country that writes a check to the Treasury; rather, it is the U.S.-based importer who pays the tax. In a competitive market, these companies often pass those costs directly to the end consumer. A 50% tariff on  billion worth of Canadian goods would have represented a massive inflationary shock for sectors that rely on Canadian supply chains.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -35,7 +35,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>For families already struggling with high costs of living, any increase in the price of imported materials—whether it's lumber for housing or medical devices like tongue depressors—compounds the existing inflationary pressure. This three-day window creates a "limbo state" that makes it difficult for businesses to adjust their pricing strategies or inventory orders.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -45,13 +45,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In the midst of high-stakes economic negotiations, it is easy to lose sight of the human element. The Bible frequently speaks to the importance of honesty and fair dealings in our work and trade. Proverbs 11:1 reminds us, <em>"The Lord detests dishonest scales, but accurate weights find favor with him."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>This verse invites us to consider that our economic systems, while complex, should be rooted in fairness. When nations engage in trade, the goal is often mutual benefit, yet the temptation to use "leverage" can sometimes lead to instability for the most vulnerable. As we watch these negotiations unfold, we are reminded to pray for wisdom for leaders who make decisions affecting the livelihoods of millions. It is also a time to practice personal stewardship—managing our own resources wisely, even when the broader economic landscape feels uncertain or unpredictable.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -61,7 +61,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>The decision to delay the tariffs suggests that both sides recognize the mutual destruction inherent in a full-scale trade war. With 72% of Canada's exports heading to the United States, a 50% tariff would have been devastating for the Canadian economy, but the retaliatory measures threatened by Ottawa would have equally harmed American exporters.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <h3>The Risks of Economic Volatility</h3>
@@ -77,7 +77,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>While you cannot control international trade policy, you can control your personal financial planning:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <ul>

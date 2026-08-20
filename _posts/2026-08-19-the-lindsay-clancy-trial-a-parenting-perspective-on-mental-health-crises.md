@@ -24,16 +24,16 @@ source_url: "https://www.wbur.org/news/2026/08/17/prosecution-rests-murder-trial
         <p>The testimony has been harrowing, involving detailed accounts of Clancy’s struggle with depression, insomnia, and suicidal thoughts leading up to the tragedy. As the defense begins calling witnesses, including family members and psychiatric experts, the jury must weigh complex medical records against the evidence of the evening in question.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </section>
 
     <div class="ncg-amazon-promo" style="border: 1px solid #ddd; background: #f9f9f9; padding: 15px; border-left: 5px solid #FFD700; margin: 20px 0;">
-        <p><strong>Support Your Mental Health Journey:</strong> <a href="https://www.amazon.com/dp/B08P54J2H9" target="_blank">Journaling for Mindfulness - $12.99</a> | <a href="https://www.amazon.com/dp/B07V9X3Y9Y" target="_blank">Stress Relief Coloring Book - $8.50</a></p>
+        <p><strong>Support Your Mental Health Journey:</strong> <a href="https://www.amazon.com/dp/B08P54J2H9" target="_blank">Journaling for Mindfulness - </a> | <a href="https://www.amazon.com/dp/B07V9X3Y9Y" target="_blank">Stress Relief Coloring Book - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -43,7 +43,7 @@ Tactical Waterproof Backpack ($35.99)
         <p>When we look at this case through the lens of parenting and family dynamics, the central question for many is: <em>How do we protect our families when the person meant to be the caregiver is the one in crisis?</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         
@@ -51,7 +51,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p>Postpartum depression and psychosis are often shrouded in shame. Parents, particularly mothers, may fear that admitting to "scary thoughts"—like the ones Patrick Clancy described—will lead to judgment or the loss of their children. However, early intervention is the only path to safety.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -68,10 +68,10 @@ Tactical Waterproof Backpack ($35.99)
     </section>
 
     <div class="ncg-amazon-promo" style="border: 1px solid #ddd; background: #f9f9f9; padding: 15px; border-left: 5px solid #FFD700; margin: 20px 0;">
-        <p><strong>Resources for Parents:</strong> <a href="https://www.amazon.com/dp/B09D3Z1C7Q" target="_blank">Parenting Through Stress Guide - $15.95</a> | <a href="https://www.amazon.com/dp/B08J4J5G4W" target="_blank">Essential Oil Diffuser - $24.99</a></p>
+        <p><strong>Resources for Parents:</strong> <a href="https://www.amazon.com/dp/B09D3Z1C7Q" target="_blank">Parenting Through Stress Guide - </a> | <a href="https://www.amazon.com/dp/B08J4J5G4W" target="_blank">Essential Oil Diffuser - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -81,13 +81,13 @@ Seagate Portable External Hard Drive ($59.99)
         <p>This situation brings to mind the profound vulnerability of our human experience. Even in our darkest moments, we are invited to seek comfort and strength beyond our own limited capacity. As it says in <em>Psalm 34:18</em>, "The Lord is close to the brokenhearted and saves those who are crushed in spirit."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
         <p>This verse reminds me that even when life becomes incomprehensible and painful, there is a source of compassion that meets us in our despair. We are also reminded in <em>Galatians 6:2</em> to "Carry each other’s burdens, and in this way you will fulfill the law of Christ." This is a heavy call for families and communities to be truly present for one another, especially when the burdens—like mental illness—become too heavy for one person to carry alone.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </section>
@@ -97,7 +97,7 @@ Tactical Waterproof Backpack ($35.99)
         <p>If you or a loved one is struggling, prioritize professional intervention over "trying to handle it."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
         <ul>
@@ -108,10 +108,10 @@ Tactical Waterproof Backpack ($35.99)
     </section>
 
     <div class="ncg-amazon-promo" style="border: 1px solid #ddd; background: #f9f9f9; padding: 15px; border-left: 5px solid #FFD700; margin: 20px 0;">
-        <p><strong>Family Support Tools:</strong> <a href="https://www.amazon.com/dp/B07H8T7K4Z" target="_blank">Family Communication Board - $19.99</a> | <a href="https://www.amazon.com/dp/B082T2V195" target="_blank">Weighted Blanket - $45.00</a></p>
+        <p><strong>Family Support Tools:</strong> <a href="https://www.amazon.com/dp/B07H8T7K4Z" target="_blank">Family Communication Board - </a> | <a href="https://www.amazon.com/dp/B082T2V195" target="_blank">Weighted Blanket - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>

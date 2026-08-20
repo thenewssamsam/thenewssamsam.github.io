@@ -38,7 +38,7 @@ source_url: ''
     <p>The vast majority of these exemptions were for non-medical reasons. At the same time, the percentage of children receiving the measles, mumps, and rubella (MMR) vaccine dropped to 92.4%—falling short of the 95% benchmark that public health experts consider essential for maintaining herd immunity. Varicella (chickenpox) and DTaP vaccination rates also saw slight declines or plateaued.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>Public health officials point out stark geographic disparities. States like Idaho recorded exemption rates as high as 17.5%, followed by Utah, Oregon, Arizona, and Nevada. Conversely, states with stringent policy frameworks like California, New York, and West Virginia reported exemption rates as low as 0.1%.</p>
@@ -142,7 +142,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -150,7 +150,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -17,7 +17,7 @@ source_url: 'https://www.independent.co.uk/life-style/ice-cream-brand-rebel-crea
   </header>
 
   <section class="ncg-intro">
-    <p>Popular low-carb ice cream maker Rebel Creamery has filed for Chapter 11 bankruptcy protection, buckling under millions of dollars in debt just weeks after losing a devastating $23.8 million trademark lawsuit to rival brand Van Leeuwen. For everyday consumers who spotted Rebel pints in major grocery chains like Walmart, Target, Kroger, and Safeway, the sudden financial collapse offers a sharp lesson in the high economic stakes of brand identity, intellectual property, and corporate cash flow.</p>
+    <p>Popular low-carb ice cream maker Rebel Creamery has filed for Chapter 11 bankruptcy protection, buckling under millions of dollars in debt just weeks after losing a devastating  million trademark lawsuit to rival brand Van Leeuwen. For everyday consumers who spotted Rebel pints in major grocery chains like Walmart, Target, Kroger, and Safeway, the sudden financial collapse offers a sharp lesson in the high economic stakes of brand identity, intellectual property, and corporate cash flow.</p>
   </section>
 
   <style>
@@ -51,18 +51,18 @@ source_url: 'https://www.independent.co.uk/life-style/ice-cream-brand-rebel-crea
     <p>Utah-based Rebel Creamery carved out a lucrative niche in the competitive frozen dessert aisle by catering to keto and low-carb diets. By securing distribution in retail giants like Walmart, Target, Kroger, and Safeway, the brand scaled rapidly. However, rapid revenue growth does not automatically shield a company from severe balance-sheet vulnerabilities.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
 
-    <p>According to federal court documents filed Friday, Rebel listed between $10 million and $50 million in both assets and liabilities when it filed for Chapter 11 bankruptcy protection. The filing came less than a month after a federal judge ordered the company to pay nearly $23.8 million to rival ice cream maker Van Leeuwen. The court ruled that Rebel had intentionally infringed and diluted Van Leeuwen's trade dress by utilizing confusingly similar pastel, minimalistic packaging designs.</p>
+    <p>According to federal court documents filed Friday, Rebel listed between  million and  million in both assets and liabilities when it filed for Chapter 11 bankruptcy protection. The filing came less than a month after a federal judge ordered the company to pay nearly  million to rival ice cream maker Van Leeuwen. The court ruled that Rebel had intentionally infringed and diluted Van Leeuwen's trade dress by utilizing confusingly similar pastel, minimalistic packaging designs.</p>
   </section>
 
   <section id="financial-impact">
     <h2>A Financial Impact Perspective: The True Cost of Trade Dress Litigation</h2>
     <p>From a financial and economic standpoint, the Rebel Creamery case illustrates how catastrophic legal liabilities can instantly overwhelm a corporate balance sheet. Intellectual property and trade dress disputes are rarely just about aesthetics; they go straight to the core of market share and brand equity.</p>
-    <p>When a court awards millions in profit disgorgement—such as the $23.785 million extracted from Rebel's sales—it forces an immediate liquidity crisis. Operating capital earmarked for supply chains, distribution fees, marketing, and debt servicing gets wiped out by a single judicial order. Even though Rebel submitted an appeal just two days before filing for bankruptcy, the legal costs and the immediate cash drain made restructuring under Chapter 11 the only viable path to manage its mounting debt load.</p>
+    <p>When a court awards millions in profit disgorgement—such as the  million extracted from Rebel's sales—it forces an immediate liquidity crisis. Operating capital earmarked for supply chains, distribution fees, marketing, and debt servicing gets wiped out by a single judicial order. Even though Rebel submitted an appeal just two days before filing for bankruptcy, the legal costs and the immediate cash drain made restructuring under Chapter 11 the only viable path to manage its mounting debt load.</p>
   </section>
 
   <div class="ncg-quote-box">
@@ -79,7 +79,7 @@ Tactical Waterproof Backpack ($35.99)
     <h2>Frequently Asked Questions</h2>
     <details>
       <summary>Why did Rebel Creamery file for bankruptcy?</summary>
-      <p>Rebel Creamery filed for Chapter 11 bankruptcy after accumulating millions in debt, precipitated by a $23.8 million trademark and trade dress infringement judgment won by rival brand Van Leeuwen.</p>
+      <p>Rebel Creamery filed for Chapter 11 bankruptcy after accumulating millions in debt, precipitated by a  million trademark and trade dress infringement judgment won by rival brand Van Leeuwen.</p>
     </details>
     <details>
       <summary>What stores carried Rebel Creamery products?</summary>
@@ -129,7 +129,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -137,7 +137,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

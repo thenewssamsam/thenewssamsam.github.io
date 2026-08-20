@@ -38,7 +38,7 @@ source_url: 'https://www.kcra.com/article/california-energy-commission-tire-effi
     <p>In a unanimous vote, the California Energy Commission (CEC) adopted unprecedented new rules that will phase out the sale of replacement tires failing to meet strict rolling resistance standards. Rolling resistance measures how much energy a tire expends as it rolls along the asphalt. Lower resistance means a vehicle burns less gasoline or consumes fewer kilowatt-hours of electricity to travel the same distance.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>While new vehicles already roll off assembly lines equipped with highly efficient tires, motorists historically replace those original tires with higher rolling resistance alternatives that often prioritize grip, quietness, or lower upfront costs over fuel economy. The CEC's new framework aims to close that gap by forcing the replacement market to match factory-level efficiency.</p>
@@ -48,8 +48,8 @@ Tactical Waterproof Backpack ($35.99)
     <h2>The Financial Impact: Savings vs. Sticker Shock</h2>
     <p>At the heart of the debate is a classic economic tug-of-war between upfront costs and long-term savings. The regulatory rollout is split into two distinct phases:</p>
     <ul>
-      <li><strong>Phase 1 (Starting 2029):</strong> Establishes a maximum rolling resistance level of 9.1 newtons per kilonewton (N/kN). CEC staff estimate this will save motorists roughly $79 in fuel costs over four months.</li>
-      <li><strong>Phase 2 (Starting 2033):</strong> Lowers the standard further to 7.2 N/kN. Regulators project this will yield about $153 in gas and electricity savings within seven months.</li>
+      <li><strong>Phase 1 (Starting 2029):</strong> Establishes a maximum rolling resistance level of 9.1 newtons per kilonewton (N/kN). CEC staff estimate this will save motorists roughly  in fuel costs over four months.</li>
+      <li><strong>Phase 2 (Starting 2033):</strong> Lowers the standard further to 7.2 N/kN. Regulators project this will yield about  in gas and electricity savings within seven months.</li>
     </ul>
     <p>"This ultimately is about protecting consumers," said David Hochschild, chairman of the California Energy Commission. "I see this as sheltering the public from higher costs in the long run."</p>
     <p>State officials frame the policy as a practical tool to trim household utility and fuel expenses across the board. However, basic economic principles suggest that whenever production standards tighten and certain product categories vanish from shelves, consumer pricing dynamics shift accordingly.</p>
@@ -62,7 +62,7 @@ Tactical Waterproof Backpack ($35.99)
   <section id="industry-pushback" class="ncg-section">
     <h2>Industry Pushback and Market Realities</h2>
     <p>Major tire manufacturers view the CEC’s projections with deep skepticism. Representing Goodyear, Bret Gladfelty told the commission that the rules will actively increase cost-of-living pressures for state residents and noted that regulators had yet to resolve significant technical and legal hurdles.</p>
-    <p>While the CEC has estimated that retail price increases will average about $6.50 per tire during Phase 2, industry representatives warn that the reality could be far starker. Gladfelty cautioned that specialized manufacturing requirements and reduced product supply could push replacement costs up by hundreds of dollars per set for certain vehicles.</p>
+    <p>While the CEC has estimated that retail price increases will average about  per tire during Phase 2, industry representatives warn that the reality could be far starker. Gladfelty cautioned that specialized manufacturing requirements and reduced product supply could push replacement costs up by hundreds of dollars per set for certain vehicles.</p>
     <p>Furthermore, industry estimates suggest the new thresholds will effectively eliminate an estimated 70% of the tire models currently sold in California by 2033. Competitors like Bridgestone and Michelin have voiced parallel concerns regarding enforcement consistency, warning that complex laboratory testing and regulatory compliance could create an uneven playing field that disadvantages larger suppliers or distorts retail availability.</p>
     <p>Commission staff have indicated they plan to utilize dedicated testing labs and retailer check-ins to verify manufacturer claims, though how smoothly enforcement will scale across thousands of auto shops remains an open question.</p>
   </section>
@@ -115,7 +115,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -123,7 +123,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

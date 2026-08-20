@@ -21,10 +21,10 @@ source_url: "https://www.nbcnews.com/politics/2026-election/angie-nixon-winner-f
 
   <section id="what-happened">
     <h2>What Happened?</h2>
-    <p>On Tuesday, August 18, 2026, NBC News projected that Angie Nixon, a member of the Democratic Socialists of America (DSA), defeated Alex Vindman in the Florida Democratic Senate primary. Despite being significantly outspent—Vindman raised over $16 million compared to Nixon’s sub-$1 million war chest—Nixon’s grassroots campaign successfully mobilized voters. She will now face incumbent Republican Senator Ashley Moody in the November general election.</p>
+    <p>On Tuesday, August 18, 2026, NBC News projected that Angie Nixon, a member of the Democratic Socialists of America (DSA), defeated Alex Vindman in the Florida Democratic Senate primary. Despite being significantly outspent—Vindman raised over  million compared to Nixon’s sub- million war chest—Nixon’s grassroots campaign successfully mobilized voters. She will now face incumbent Republican Senator Ashley Moody in the November general election.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -34,7 +34,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In the wake of this primary, several claims have circulated regarding the candidates and the implications of the result. Here is a breakdown of the facts.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p><strong>Fact:</strong> While personal narratives—Vindman's role in the 2019 impeachment hearings and Nixon's background as a union organizer—played a role, the race was fundamentally a clash of political strategies. Nixon focused on an "insurgent" model, emphasizing grassroots organizing over the institutional support provided to Vindman by the Democratic Senatorial Campaign Committee (DSCC).</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -53,7 +53,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>Fact:</strong> While Republican opponents like Senator Ashley Moody have characterized Nixon’s platform as "socialist" and extreme, the primary result proves her message resonated within the Democratic base. Whether that translates to a general election victory in a state that has trended Republican remains the central question of the cycle.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -68,13 +68,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>In the heat of political campaigns, it is easy to reduce people to labels—"socialist," "establishment," or "outsider." This tendency often obscures the humanity of those involved and the complexity of the issues. I’m reminded of the wisdom in <em>Proverbs 18:17</em>: "The first to present his case seems right, till another comes forward and questions him."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>This verse invites us to consider the value of healthy skepticism and the importance of looking beneath the surface of campaign rhetoric. When we encounter heated political claims, we are called to seek truth rather than simply accepting the loudest narrative. Furthermore, <em>Philippians 2:3</em> reminds us: "Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves." As Florida moves toward November, perhaps the most constructive path is one that seeks to understand the genuine needs of neighbors, regardless of the political labels attached to them.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

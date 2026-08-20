@@ -30,21 +30,21 @@ source_url: "https://www.usatoday.com/story/news/politics/2026/08/17/supreme-cou
     <p>The controversy centers on Texas Senate Trust Bill 10, enacted last year. The legislation mandates that a poster-sized display of the Ten Commandments be placed in a conspicuous location in every public elementary and secondary school classroom across the state. In April, the 5th U.S. Circuit Court of Appeals voted 9-7 to uphold the law, concluding that recent Supreme Court jurisprudence on religious liberty had shifted the legal landscape.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>Unsatisfied with that ruling, more than two dozen families represented by organizations like the American Civil Liberties Union, Americans United for Separation of Church and State, and the Freedom From Religion Foundation filed an appeal with the Supreme Court on August 17. The families argue that the law infringes upon their First Amendment right to direct the religious upbringing of their children. As Rebekah and Ted Lowe, two of the participating parents raising their children in Christian and Jewish traditions, put it: <em>“Texas politicians shouldn’t have a seat at the table in deciding how our children receive their religious education. That decision belongs to our family.”</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>On the defense side, Texas Attorney General Ken Paxton has staunchly defended the statute, previously calling the 5th Circuit’s earlier backing a major victory for moral values and emphasizing the profound historical impact of the Ten Commandments on American society.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -54,14 +54,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When secular institutions mandate religious displays, believers of various traditions often find themselves caught in a complex tension. On one hand, the Ten Commandments represent foundational moral truths given by God to humanity—summarizing our duty to love God and our neighbor. On the other hand, Scripture consistently warns against reducing holy things to mere instruments of political theater or state enforcement.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>When we look at the ministry of Jesus, He rarely sought the backing of civic governments to enforce moral compliance. Instead, He appealed to the human heart, inviting voluntary surrender and genuine faith. True spiritual transformation has never been successfully legislated by administrative decree.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -74,7 +74,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Furthermore, Christian theology places the primary responsibility for spiritual nurture squarely within the home and the local community of faith, not inside state-run bureaucracies. Deuteronomy 6:6–7 charges parents directly with teaching God’s commands to their children during daily life:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -88,7 +88,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p>"True faith is written on human hearts, not mandated on classroom walls by government decree."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -96,7 +96,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>There is also the matter of Christian witness and respect for neighborly love. Jesus instructed His followers to treat others as they wish to be treated. In a diverse public school system populated by families of differing beliefs—or no belief at all—forcing specific religious texts via government compulsion can alienate neighbors rather than draw them toward truth. Genuine reverence for God's law is honored best when it inspires integrity, kindness, and justice, rather than courtroom polarization.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -106,7 +106,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>As this case heads toward the Supreme Court, believers can approach the headlines with spiritual discernment rather than partisan anxiety. Here are a few grounded ways to respond:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     

@@ -33,15 +33,15 @@ source_url: 'https://finance.yahoo.com/personal-finance/investing/article/spacex
 
   <section id="what-happened">
 <h2>The Reality of Post-IPO Turbulence</h2>
-    <p>The ride for SpaceX (SPCX) investors has been nothing short of breathtaking. Opening at $150 and quickly climbing past $160 before touching highs near $192.50, the stock captured the imagination of the entire market. In just three trading days, it surpassed retail giant Amazon in total market value.</p>
+    <p>The ride for SpaceX (SPCX) investors has been nothing short of breathtaking. Opening at  and quickly climbing past  before touching highs near , the stock captured the imagination of the entire market. In just three trading days, it surpassed retail giant Amazon in total market value.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
 
-    <p>Yet, the subsequent pullback proved that astronomical valuations often attract immediate downward pressure. The stock quickly descended back toward Earth, dipping below its initial debut price before clawing its way back above the $135 mark. This whiplash is not unique to SpaceX; rather, it is a textbook manifestation of how high-growth market darlings behave immediately following their public debuts.</p>
+    <p>Yet, the subsequent pullback proved that astronomical valuations often attract immediate downward pressure. The stock quickly descended back toward Earth, dipping below its initial debut price before clawing its way back above the  mark. This whiplash is not unique to SpaceX; rather, it is a textbook manifestation of how high-growth market darlings behave immediately following their public debuts.</p>
   </section>
 
   <section id="financial-impact">
@@ -142,7 +142,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -150,7 +150,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

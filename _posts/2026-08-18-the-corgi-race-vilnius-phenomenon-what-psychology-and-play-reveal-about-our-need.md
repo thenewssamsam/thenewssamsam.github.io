@@ -37,7 +37,7 @@ source_url: 'https://apnews.com/article/lithuania-vilnius-corgi-race-costumes-no
 <p>Yet the main running event was only part of the attraction. The program featured a 38-dog costume parade won by Amigo in a knight-style outfit, a "smartest nose" treat-search challenge shared by Latvian corgis Tora and Rusty, and a loudest bark competition claimed by Mr. Corgington. With half of the participants attending for the first time alongside seasoned veterans, the festival solidified Vilnius's self-proclaimed status as the European capital of corgis—drawing participants even from Britain, the breed's historic homeland.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -126,7 +126,7 @@ footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #e2e8f0; fon
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -134,7 +134,7 @@ footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #e2e8f0; fon
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

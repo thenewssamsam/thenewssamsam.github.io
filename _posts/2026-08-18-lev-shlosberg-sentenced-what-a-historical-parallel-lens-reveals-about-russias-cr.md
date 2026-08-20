@@ -38,7 +38,7 @@ source_url: 'https://apnews.com/article/russia-ukraine-shlosberg-crackdown-elect
 <p>The charges stemmed from a political debate where Shlosberg advocated for ending the war in Ukraine, as well as a post on his Telegram channel featuring a British tabloid front page with a critical headline about Russian leadership. It was Shlosberg's second trial in two years, following his designation as a "foreign agent" and his placement in pretrial detention in December 2025.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 <p>Concurrently, Russia's Supreme Court upheld its earlier decision to disqualify the Yabloko party from participating in the upcoming parliamentary elections for the State Duma. Yabloko, founded in the 1990s as a liberal voice, stood as the sole officially registered political party overtly campaigning on an anti-war platform, with slogans calling for diplomacy, ceasefire agreements, and the prevention of nuclear war. Following the Supreme Court's ruling, several dozen protesters outside the courthouse were detained by security forces.</p>
@@ -101,7 +101,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -109,7 +109,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

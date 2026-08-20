@@ -38,7 +38,7 @@ source_url: 'https://www.indystar.com/story/weather/indianapolis/2026/08/16/live
 <p>In communities like Rocky Ripple and Riverwood near Noblesville, the water reached well past knees and threatened historic homes that have stood for generations. While flood gates at 52nd Street have begun to reopen and the immediate emergency has shifted into cleanup mode, the National Weather Service warns that more severe weather and potential flash floods remain a threat.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -59,7 +59,7 @@ Seagate Portable External Hard Drive ($59.99)
 <section id="community-response" class="ncg-section">
 <h2>Community Resilience and the Spirit of Neighborhoods</h2>
 <p>Disasters have a way of stripping away the superficial layers of daily life and revealing what holds a community together. In Riverwood, homeowners like Lawrence Gordon are facing the back-breaking reality of tearing out flooring and drywall before mold takes hold in century-old family homes. Across the river, hundreds of volunteers in Rocky Ripple spent their weekend working in shifts around the clock to reinforce vulnerable spots on the local levee.</p>
-<p>At the same time, regional solidarity has stepped in to fill immediate gaps. Major sports franchises, including the Indianapolis Colts and Pacers Sports & Entertainment, announced a combined $250,000 donation to the American Red Cross to bolster disaster relief funds. Meanwhile, village leaders in Broad Ripple quickly rallied to urge shoppers and diners back into local businesses as soon as waters receded from the streets.</p>
+<p>At the same time, regional solidarity has stepped in to fill immediate gaps. Major sports franchises, including the Indianapolis Colts and Pacers Sports & Entertainment, announced a combined ,000 donation to the American Red Cross to bolster disaster relief funds. Meanwhile, village leaders in Broad Ripple quickly rallied to urge shoppers and diners back into local businesses as soon as waters receded from the streets.</p>
 <p>This dynamic—neighbors helping neighbors shovel mud paired with regional institutions stepping up financial support—highlights a enduring trait of Hoosier communities in times of crisis. While families await official guidance on federal assistance programs like FEMA declarations, the immediate heavy lifting remains local, manual, and deeply personal.</p>
 </section>
 
@@ -107,7 +107,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -115,7 +115,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

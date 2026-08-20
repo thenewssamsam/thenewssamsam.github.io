@@ -45,18 +45,18 @@ source_url: "https://www.cnn.com/2026/08/18/asia/trump-us-south-korea-military-e
   <p>President Trump stated that he requested the reduction based on his "very good relationship" with North Korean leader Kim Jong Un, describing the traditional large-scale drills as an "inappropriate and hostile" signal to Pyongyang. While associated live-training events have been scaled back, converted to simulations, or canceled, military officials from both nations maintain that essential tactical readiness and training objectives remain intact.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
   <div class="ncg-product-recommendation" style="background: #f9f9f9; border-left: 4px solid #f0c14b; padding: 12px 15px; margin: 15px 0; border-radius: 4px;">
-    <strong>Family Resource Suggestion:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">National Geographic Kids Almanac 2026</a> — Helping children understand geography, world cultures, and global news through engaging maps and age-appropriate facts. ($14.99)
+    <strong>Family Resource Suggestion:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">National Geographic Kids Almanac 2026</a> — Helping children understand geography, world cultures, and global news through engaging maps and age-appropriate facts. 
   </div>
 
   <p>South Korean President Lee Jae Myung expressed support for the shift, noting that Seoul understands the administration's efforts to create diplomatic conditions for peace on the Korean Peninsula. Nevertheless, the policy pivot has reignited a broader conversation about international security, defense spending, and the reliability of long-standing alliances—topics that inevitably ripple down into family discussions around the dinner table.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -66,14 +66,14 @@ Seagate Portable External Hard Drive ($59.99)
   <p>When international news involves military maneuvers and high-stakes diplomacy, children—even those who seem uninterested—can absorb the ambient stress of the adults around them. From a parenting and developmental perspective, major geopolitical changes test our ability to communicate safety without minimizing real-world complexities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   
   <p>Children do not need a complete breakdown of cold war history or nuclear deterrence strategies. Instead, they look to caregivers for emotional cues. When headlines feature words like "threat," "conflict," or "military," kids often internalize these concepts as a direct threat to their personal safety. Grounding the conversation in reassurance and open communication helps transform a scary news ticker into a teachable moment about conflict resolution, diplomacy, and community resilience.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -84,7 +84,7 @@ Seagate Portable External Hard Drive ($59.99)
   </div>
 
   <div class="ncg-product-recommendation" style="background: #f9f9f9; border-left: 4px solid #f0c14b; padding: 12px 15px; margin: 15px 0; border-radius: 4px;">
-    <strong>Mindful Parenting Tool:</strong> <a href="https://www.amazon.com/dp/B07YQ92QYX?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Big Life Journal for Kids: Growth Mindset Edition</a> — An interactive journal that empowers children to develop resilience, cope with big emotions, and build problem-solving skills. ($22.95)
+    <strong>Mindful Parenting Tool:</strong> <a href="https://www.amazon.com/dp/B07YQ92QYX?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Big Life Journal for Kids: Growth Mindset Edition</a> — An interactive journal that empowers children to develop resilience, cope with big emotions, and build problem-solving skills. 
   </div>
 
   <h3>Age-Appropriate Communication</h3>
@@ -100,20 +100,20 @@ Seagate Portable External Hard Drive ($59.99)
   <p>Navigating moments of international tension often brings to mind timeless truths about the value of peace and understanding. In moments when national policies shift and global uncertainties arise, it is easy to let anxiety take root in our families.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   
   <p>Scripture gently reminds us to pursue harmony and anchor our hearts in steady hope rather than fear. When Jesus spoke to His followers about turbulent times, He encouraged a posture of active peacemaking: <em>"Blessed are the peacemakers, for they will be called children of God"</em> (Matthew 5:9). This perspective invites us to look past political posturing and recognize the profound human desire for stability and safety shared by families across every border.</p>
 
   <div class="ncg-product-recommendation" style="background: #f9f9f9; border-left: 4px solid #f0c14b; padding: 12px 15px; margin: 15px 0; border-radius: 4px;">
-    <strong>Family Devotional Resource:</strong> <a href="https://www.amazon.com/dp/1496434440?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Jesus Storybook Bible: Every Story Whispers His Name</a> — A beloved classic for families exploring themes of unconditional love, peace, and grace together. ($17.99)
+    <strong>Family Devotional Resource:</strong> <a href="https://www.amazon.com/dp/1496434440?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Jesus Storybook Bible: Every Story Whispers His Name</a> — A beloved classic for families exploring themes of unconditional love, peace, and grace together. 
   </div>
 
   <p>Furthermore, the Apostle Paul encourages a deliberate focus on tranquility and prayer: <em>"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God"</em> (Philippians 4:6). For families watching the news unfold, turning anxiety into a moment for prayer and thoughtful conversation can be a powerful way to cultivate inner peace.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -123,7 +123,7 @@ Seagate Portable External Hard Drive ($59.99)
   <p>Instead of letting alarming headlines linger unaddressed in your home, consider these actionable steps to foster a calm, informed family environment:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   <ol>
@@ -133,7 +133,7 @@ Tactical Waterproof Backpack ($35.99)
   </ol>
 
   <div class="ncg-product-recommendation" style="background: #f9f9f9; border-left: 4px solid #f0c14b; padding: 12px 15px; margin: 15px 0; border-radius: 4px;">
-    <strong>Family Conversation Game:</strong> <a href="https://www.amazon.com/dp/B00000IV45?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">TableTopics Family: Questions to Start Great Conversations</a> — A fun tool for sparking meaningful discussions around the dinner table about values, current events, and daily life. ($25.00)
+    <strong>Family Conversation Game:</strong> <a href="https://www.amazon.com/dp/B00000IV45?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">TableTopics Family: Questions to Start Great Conversations</a> — A fun tool for sparking meaningful discussions around the dinner table about values, current events, and daily life. 
   </div>
 </section>
 
@@ -144,7 +144,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>The joint exercises were reduced by half at Washington's request, following President Trump's call to scale back the training. He cited his relationship with North Korean leader Kim Jong Un and expressed a desire to encourage diplomatic dialogue on the Korean Peninsula.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </details>
@@ -153,7 +153,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Focus on listening to their concerns first, keep explanations simple and grounded in facts, and emphasize that many leaders and diplomats work hard to maintain global peace and safety.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </details>
@@ -168,7 +168,7 @@ Tactical Waterproof Backpack ($35.99)
   <p>International headlines will always ebb and flow, shifting from intense military standoffs to unexpected diplomatic overtures. For families, these moments are not merely political updates to analyze—they are opportunities to practice empathy, patience, and open communication inside our own homes. By meeting our children's curiosity with calm reassurance, we teach them that even in a complex and changing world, peace begins with how we listen to and care for one another.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   <p><em>In an ever-changing world, our greatest strength is the steady, reassuring love we cultivate right at home.</em></p>

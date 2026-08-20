@@ -24,7 +24,7 @@ source_url: 'https://www.cnn.com/2026/08/17/us/jared-bridegan-mario-fernandez-sa
 <p>The details of the crime read like a chilling script. On a warm February evening in 2022, 33-year-old Jared Bridegan dropped off his twins at his ex-wife Shanna Gardner's home in Jacksonville Beach, Florida. As he drove home with his 2-year-old daughter strapped into the backseat, he encountered a tire deliberately placed in the middle of the road.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>When Bridegan stepped out of his vehicle to move it, he was shot multiple times in what Jacksonville Beach Police Chief Paul Smith described as a "planned and targeted ambush and murder." Miraculously, the toddler in the backseat remained physically uninjured, though her car seat was peppered with gunfire. Bridegan's wallet, watch, and car were left untouched; nothing was stolen. The motive, prosecutors argue, was entirely personal.</p>
@@ -91,7 +91,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -99,7 +99,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

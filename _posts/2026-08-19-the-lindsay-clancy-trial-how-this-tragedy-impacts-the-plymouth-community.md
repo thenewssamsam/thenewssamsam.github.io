@@ -24,7 +24,7 @@ source_url: "https://turnto10.com/news/local/testimony-in-lindsay-clancy-murder-
     <p>A notable moment occurred during the testimony of Susan Clancy, the defendant's former mother-in-law, when prosecutors questioned her regarding her faith. The court also heard from Dr. Paul Zeizel, a psychologist who treated the defendant, detailing her reported auditory hallucinations in the weeks following the tragedy.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>
@@ -33,7 +33,7 @@ Crevice Cleaning Brush Set ($12.99)
     <p><strong>"The weight of this trial is felt far beyond the courtroom walls; it forces a community to confront the intersection of mental health, faith, and the fragility of family life."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </div>
@@ -43,21 +43,21 @@ Crevice Cleaning Brush Set ($12.99)
     <p>For the Plymouth community, this trial is not merely a legal proceeding; it is a painful reminder of a tragedy that shattered the sense of security often associated with the region. Local residents have found themselves navigating a complex mix of grief, confusion, and a desire for answers.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     <p>In times of such high-profile local trauma, the impact on public discourse is profound. It forces neighbors to discuss topics often kept behind closed doors: the reality of postpartum mental health crises and the resources available to families in need. The trial has become a focal point for the South Shore, highlighting the need for increased mental health awareness and support services.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     
     <div style="border-left: 5px solid #ffcc00; background: #fffdf0; padding: 15px; margin: 20px 0;">
-      <p><em>Recommended Reading:</em> <a href="#">Understanding Mental Health First Aid: A Guide for Families - $14.99</a></p>
+      <p><em>Recommended Reading:</em> <a href="#">Understanding Mental Health First Aid: A Guide for Families - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     </div>
@@ -65,7 +65,7 @@ Crevice Cleaning Brush Set ($12.99)
     <p>It is worth noting that the legal process serves as a structured way for the community to witness the examination of facts. While the testimony is difficult to hear, it provides a necessary, albeit grueling, pathway toward a verdict that will eventually allow the community to begin closing this chapter.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>
@@ -75,13 +75,13 @@ Crevice Cleaning Brush Set ($12.99)
     <p>This situation reminds me of the words in Psalm 34:18: <em>"The Lord is close to the brokenhearted and saves those who are crushed in spirit."</em> In the face of such profound loss, it is easy to feel overwhelmed by the darkness of the circumstances. Yet, this verse invites us to consider that even when we cannot find human answers to the "why" of such suffering, there is a promise of divine presence for those who are hurting.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     <p>I am also reminded of Matthew 5:4: <em>"Blessed are those who mourn, for they will be comforted."</em> This isn't just a platitude; it is a recognition that grieving is a human necessity. As a community, we are called to be the hands and feet of that comfort, offering support to those who have been left behind by this tragedy. We must hold space for one another's pain, recognizing that healing is a long and winding road.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>

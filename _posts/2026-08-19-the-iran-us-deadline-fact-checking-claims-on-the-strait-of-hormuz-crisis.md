@@ -25,7 +25,7 @@ source_url: "https://www.foxnews.com/politics/iran-fails-strike-deal-us-deadline
 <p>In high-stakes geopolitical conflicts, the distance between official statements and on-the-ground reality is often vast. Below are the key claims currently surrounding the Iran-U.S. impasse, evaluated against available reporting.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -34,7 +34,7 @@ Tactical Waterproof Backpack ($35.99)
 <p><strong>Fact:</strong> While the waterway is severely restricted and dangerous, it is not "closed" in a total sense. Iran continues to assert control over traffic, and the U.S. continues to enforce a naval blockade. The reality is a high-risk "gray zone" where commercial vessels face significant threats, leading to a sharp reduction in traffic rather than a complete cessation of movement.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </details>
@@ -44,13 +44,13 @@ Tactical Waterproof Backpack ($35.99)
 <p><strong>Fact:</strong> While reports indicate that U.S. stocks of ATACMS and Tomahawk missiles have been significantly depleted, they are not empty. The Pentagon has acknowledged the strain on inventory and is actively working with defense contractors to accelerate production. The situation is one of <em>diminished capacity</em>, not total exhaustion of combat capability.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </details>
 
 <div style="border-left: 4px solid #FFD700; background: #fdfaf0; padding: 10px; margin: 15px 0;">
-<strong>Recommended Reading:</strong> <a href="#">Tactical Flashlight for Emergency Preparedness</a> - $24.99
+<strong>Recommended Reading:</strong> <a href="#">Tactical Flashlight for Emergency Preparedness</a> - 
 </div>
 
 <h2 id="spiritual-reflection">A Reflection on Truth and Conflict</h2>
@@ -58,12 +58,12 @@ Tactical Waterproof Backpack ($35.99)
 <p>Watching the hardening of hearts in international diplomacy often brings to mind the wisdom found in Proverbs 15:1: "A gentle answer turns away wrath, but a harsh word stirs up anger." In the midst of threats and demands for surrender, it is easy for leaders and citizens alike to fall into a cycle of pride. Scripture reminds us that true wisdom often looks like patience and the pursuit of peace, even when the pressure to escalate is immense. James 1:19-20 further invites us to be "quick to listen, slow to speak and slow to become angry, because human anger does not produce the righteousness that God desires." As we observe these events, we are reminded that political outcomes are not solely in the hands of the powerful, and that there is a higher standard of justice and humility to which we are all called.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <div style="border-left: 4px solid #FFD700; background: #fdfaf0; padding: 10px; margin: 15px 0;">
-<strong>Recommended Reading:</strong> <a href="#">Journal for Daily Reflection and Prayer</a> - $12.50
+<strong>Recommended Reading:</strong> <a href="#">Journal for Daily Reflection and Prayer</a> - 
 </div>
 
 <h2 id="what-happens-next">What Happens Next?</h2>
@@ -71,7 +71,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>With the 60-day MOU expired, the administration faces three likely paths:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <ul>
@@ -81,7 +81,7 @@ Seagate Portable External Hard Drive ($59.99)
 </ul>
 
 <div style="border-left: 4px solid #FFD700; background: #fdfaf0; padding: 10px; margin: 15px 0;">
-<strong>Recommended Reading:</strong> <a href="#">World Atlas for Geopolitical Study</a> - $35.00
+<strong>Recommended Reading:</strong> <a href="#">World Atlas for Geopolitical Study</a> - 
 </div>
 
 <h2 id="how-should-readers-respond">How Should Readers Respond?</h2>
@@ -89,7 +89,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>For the ordinary reader, this conflict is primarily felt through energy prices and market volatility. While the urge to react to sensational headlines is strong, the most practical response is to stay informed through verified, multi-source reporting. Avoid falling for rumors regarding "secret deals" or imminent total war; instead, watch for official updates from CENTCOM and the White House. Stewardship of your own resources—maintaining a buffer in your personal budget for energy price fluctuations—is a more prudent approach than reacting to the daily fluctuations of the news cycle.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -98,7 +98,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>The collapse of these negotiations is a stark reminder that international peace is not merely the absence of war, but the presence of a framework that all parties find sustainable. As this situation evolves, the difference between a minor regional dispute and a global crisis will be determined by the restraint shown by those in command. We must remain vigilant, informed, and committed to seeking the truth behind the headlines.</p>
 
 <div style="border-left: 4px solid #FFD700; background: #fdfaf0; padding: 10px; margin: 15px 0;">
-<strong>Recommended Reading:</strong> <a href="#">Emergency Preparedness First Aid Kit</a> - $45.00
+<strong>Recommended Reading:</strong> <a href="#">Emergency Preparedness First Aid Kit</a> - 
 </div>
 
 <p><strong>Source:</strong> <a href="https://www.foxnews.com/politics/iran-fails-strike-deal-us-deadline-passes-trump-calls-white-flag-surrender" target="_blank" rel="noopener noreferrer">Original News Report</a></p>

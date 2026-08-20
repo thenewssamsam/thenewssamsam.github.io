@@ -46,7 +46,7 @@ source_url: "https://www.nbcnews.com/politics/justice-department/doj-issues-gran
 
     <div style="background-color: #fffaf0; border-left: 4px solid #dd6b20; padding: 15px; margin: 20px 0; border-radius: 4px;">
         <h4 style="margin: 0 0 10px 0; color: #c05621; font-size: 1.1rem;">Recommended Reading for Critical Thinking</h4>
-        <p style="margin: 0 0 10px 0; font-size: 0.95rem;">Thinking, Fast and Slow by Daniel Kahneman — <strong>$14.99</strong></p>
+        <p style="margin: 0 0 10px 0; font-size: 0.95rem;">Thinking, Fast and Slow by Daniel Kahneman — <strong></strong></p>
         <p style="margin: 0; font-size: 0.85rem; color: #718096;"><a href="https://www.amazon.com/dp/0374533555?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #dd6b20; text-decoration: none; font-weight: bold;">View on Amazon</a></p>
     </div>
 

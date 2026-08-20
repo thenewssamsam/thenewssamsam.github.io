@@ -36,7 +36,7 @@ source_url: "https://www.foxnews.com/opinion/morning-glory-scotus-should-urgentl
 <p>The Department of Justice has petitioned Chief Justice Roberts to stay the lower court orders, arguing that delaying modernization efforts for the 84-year-old facility—which houses critical emergency command infrastructure—ignores a rapidly evolving threat matrix. With modern security challenges ranging from sophisticated surveillance to drone technology and hypersonic threats, proponents of the construction argue that presidential facilities must be continually updated to meet modern realities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -49,18 +49,18 @@ Tactical Waterproof Backpack ($35.99)
 <p>For parents, the concept of home security is second nature. We lock our doors at night, install smoke detectors, and establish household rules not out of paranoia, but out of a deep-seated responsibility to protect those inside our four walls. When external threats change, our protective measures must adapt right along with them.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <div style="background: #fdfdfd; border-left: 4px solid #1976d2; padding: 12px 15px; margin: 15px 0; border-radius: 4px;">
-<strong>Featured Recommendation:</strong> <a href="https://www.amazon.com/dp/B07R5KJ455?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">First Alert Deluxe Home Security Safe &amp; Document Box - $49.99</a>
+<strong>Featured Recommendation:</strong> <a href="https://www.amazon.com/dp/B07R5KJ455?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">First Alert Deluxe Home Security Safe &amp; Document Box - </a>
 </div>
 
 <p>When we look at the White House debate through the lens of family life, several important parallels emerge about how households handle safety, boundaries, and preparedness:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -71,7 +71,7 @@ Seagate Portable External Hard Drive ($59.99)
 </ul>
 
 <div style="background: #fdfdfd; border-left: 4px solid #1976d2; padding: 12px 15px; margin: 15px 0; border-radius: 4px;">
-<strong>Featured Recommendation:</strong> <a href="https://www.amazon.com/dp/B07V5L9F83?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Emergency Survival Kit / Go-Bag for Families (72-Hour Supply) - $89.99</a>
+<strong>Featured Recommendation:</strong> <a href="https://www.amazon.com/dp/B07V5L9F83?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Emergency Survival Kit / Go-Bag for Families (72-Hour Supply) - </a>
 </div>
 
 <h2 id="ncg-scripture-reflection">Reflecting on Wisdom, Stewardship, and Safety</h2>
@@ -79,25 +79,25 @@ Seagate Portable External Hard Drive ($59.99)
 <p>The daily headlines about security, infrastructure, and leadership naturally invite a broader moral reflection on what it means to be a good steward of what we have been given. Throughout history, communities and families have recognized that guarding the home is an essential part of caring for one another.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>One scripture that often comes to mind when considering the balance between watchfulness and everyday trust is Proverbs 27:12: <em>"The prudent sees danger and hides himself, but the simple go on and suffer for it."</em> This timeless observation reminds us that recognizing potential risks ahead of time is not a lack of faith, but an act of practical wisdom. Similarly, Ecclesiastes reminds us that there is a proper season for building and strengthening what protects us.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div style="background: #fdfdfd; border-left: 4px solid #1976d2; padding: 12px 15px; margin: 15px 0; border-radius: 4px;">
-<strong>Featured Recommendation:</strong> <a href="https://www.amazon.com/dp/B00192RU0Y?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Kidde Fire Escape Ladder for Two-Story Homes - $44.88</a>
+<strong>Featured Recommendation:</strong> <a href="https://www.amazon.com/dp/B00192RU0Y?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Kidde Fire Escape Ladder for Two-Story Homes - </a>
 </div>
 
 <p>When we look at our own homes and communities, we are reminded that cultivating a safe environment requires both vigilance and thoughtful preparation. We do not live in fear, but we do honor our responsibility to protect our families from foreseeable harm.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -106,7 +106,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>While the debate over the White House East Wing plays out in the highest court in the land, everyday families can apply these same principles of preparedness on a local level:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -117,7 +117,7 @@ Tactical Waterproof Backpack ($35.99)
 </ol>
 
 <div style="background: #fdfdfd; border-left: 4px solid #1976d2; padding: 12px 15px; margin: 15px 0; border-radius: 4px;">
-<strong>Featured Recommendation:</strong> <a href="https://www.amazon.com/dp/B00002N8IK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Energizer LED Headlamp for Emergency Lighting (2-Pack) - $22.99</a>
+<strong>Featured Recommendation:</strong> <a href="https://www.amazon.com/dp/B00002N8IK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Energizer LED Headlamp for Emergency Lighting (2-Pack) - </a>
 </div>
 
 <h2 id="ncg-closing">One Last Thought</h2>
@@ -125,7 +125,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>Whether navigating complex constitutional questions about executive infrastructure or simply ensuring our children's home environment is secure, the underlying principle remains the same: thoughtful preparation is an essential act of care. As the Supreme Court considers whether to allow vital national security construction to proceed, we are reminded that true stewardship requires looking ahead with both wisdom and common sense.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 

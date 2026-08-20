@@ -21,25 +21,25 @@ source_url: "https://www.usatoday.com/story/news/politics/2026/08/17/president-t
 
   <section id="what-happened">
     <h2>The Current Political Landscape</h2>
-    <p>The latest polling data, conducted between August 14 and 17, reflects a significant decline in public support. With only one in three Americans approving of the President’s performance, the administration faces mounting pressure. The primary driver of this dissatisfaction appears to be the ongoing war with Iran, which has disrupted global oil trade and caused domestic gas prices to climb to an average of $4.06 per gallon—a sharp increase from $3.13 just one year ago.</p>
+    <p>The latest polling data, conducted between August 14 and 17, reflects a significant decline in public support. With only one in three Americans approving of the President’s performance, the administration faces mounting pressure. The primary driver of this dissatisfaction appears to be the ongoing war with Iran, which has disrupted global oil trade and caused domestic gas prices to climb to an average of  per gallon—a sharp increase from  just one year ago.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Beyond the economic impact, there is a pervasive sense of dread. Eighty percent of Americans, spanning both sides of the political aisle, believe the conflict will continue for an "extended period of time." This sentiment is further complicated by recent tensions involving Oman, adding to the instability that characterizes our current news cycle.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-block" style="border-left: 4px solid #d4af37; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Recommended Reading:</strong> <a href="#">"The Peace That Passes Understanding: Finding Calm in a Chaotic World" - $14.99</a></p>
+    <p><strong>Recommended Reading:</strong> <a href="#">"The Peace That Passes Understanding: Finding Calm in a Chaotic World" - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>
@@ -49,7 +49,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>When we observe the volatility of human institutions, we are reminded of the fragility of earthly power. Scripture offers a perspective that transcends the daily fluctuations of poll numbers and political maneuvering. The Bible consistently points us toward the sovereignty of God, even when the world feels as though it is spiraling out of control.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -60,30 +60,30 @@ Tactical Waterproof Backpack ($35.99)
     <p>This verse, written by Solomon, serves as a poignant reminder during times of national distress. When we see leaders faltering or economies struggling, the temptation is to "lean on our own understanding"—to obsess over political outcomes or succumb to fear. However, the invitation is to acknowledge God’s presence in the midst of the storm.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <p>Consider also the words of the Apostle Paul in Philippians 4:6-7: <em>"Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>The current news cycle is designed to provoke anxiety. By focusing our hearts on the "peace that surpasses all understanding," we can engage with the news without being consumed by the fear it often generates. Our role as citizens is to remain informed, but our identity as believers is anchored in a Kingdom that does not rise and fall with the stock market or the approval ratings of any human leader.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-block" style="border-left: 4px solid #d4af37; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Journaling Tool:</strong> <a href="#">"Reflective Prayer Journal: Navigating Daily Challenges" - $12.50</a></p>
+    <p><strong>Journaling Tool:</strong> <a href="#">"Reflective Prayer Journal: Navigating Daily Challenges" - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>
@@ -102,7 +102,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Political approval ratings will always shift, and nations will face seasons of war and economic hardship. While these events are significant, they are not the final word. Our stability remains in the One who holds the future. Let us remain faithful, prayerful, and anchored in the truth that God is sovereign over every throne and every border. May we be light in a world that often feels very dark.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

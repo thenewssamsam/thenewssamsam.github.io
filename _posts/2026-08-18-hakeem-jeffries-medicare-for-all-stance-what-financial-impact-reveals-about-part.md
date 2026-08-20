@@ -152,7 +152,7 @@ source_url: 'https://www.levernews.com/hakeem-jeffries-betrayal-shows-why-democr
 <p>To understand why everyday voters feel profound frustration with party leadership, we have to look past the political rhetoric and follow the financial incentives that dictate modern legislative priorities.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -160,7 +160,7 @@ Seagate Portable External Hard Drive ($59.99)
 
 <h2 id="what-happened">What Happened</h2>
 
-<p>House Democratic Leader Hakeem Jeffries announced his opposition to Medicare for All during the exact same 24-hour window that CBS News released polling data indicating nine out of ten Democratic voters favor a universal healthcare system. The announcement also arrived just three days after a comprehensive Yale University study demonstrated that transitioning to a single-payer system would save 114,000 American lives and $1 trillion every single year.</p>
+<p>House Democratic Leader Hakeem Jeffries announced his opposition to Medicare for All during the exact same 24-hour window that CBS News released polling data indicating nine out of ten Democratic voters favor a universal healthcare system. The announcement also arrived just three days after a comprehensive Yale University study demonstrated that transitioning to a single-payer system would save 114,000 American lives and  trillion every single year.</p>
 
 <p>Despite representing a deep blue district in New York City and facing no primary challengers to hold him accountable to his constituents' policy desires, Jeffries has collected hundreds of thousands of dollars in campaign contributions from healthcare political action committees (PACs) during the current election cycle.</p>
 
@@ -168,7 +168,7 @@ Seagate Portable External Hard Drive ($59.99)
 
 <h2 id="the-financial-architecture">The Financial Architecture of Resistance</h2>
 
-<p>From a financial impact perspective, opposing a system that saves $1 trillion annually sounds economically irrational on its face. After all, if households and businesses stand to save massive amounts of capital through reduced administrative waste and elimination of private insurance premiums, why would any major political leader resist it?</p>
+<p>From a financial impact perspective, opposing a system that saves  trillion annually sounds economically irrational on its face. After all, if households and businesses stand to save massive amounts of capital through reduced administrative waste and elimination of private insurance premiums, why would any major political leader resist it?</p>
 
 <p>The answer lies in understanding the difference between macro-level economic savings for the public and micro-level campaign finance incentives for elected officials. The American healthcare sector accounts for nearly a fifth of the total U.S. economy. Within that massive ecosystem, insurance providers, pharmaceutical corporations, and large provider networks rely on the current complex, fragmented billing apparatus to generate revenue.</p>
 
@@ -236,7 +236,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -244,7 +244,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

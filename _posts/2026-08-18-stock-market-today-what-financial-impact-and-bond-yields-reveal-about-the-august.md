@@ -23,7 +23,7 @@ source_url: 'https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-5
 <p>For everyday investors and households trying to make sense of shifting portfolios, headline drops can easily trigger anxiety. But looking past the daily ticker tape reveals a very specific set of financial mechanics driving the movement—from shipping chokepoints in the Middle East to multi-decade highs in government borrowing costs. Here is a clear-cut look at what is happening beneath the surface and what it means for your broader financial picture.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 </section>
@@ -32,7 +32,7 @@ Tactical Waterproof Backpack ($35.99)
 <h2>What Happened in the Markets Today</h2>
 <p>The selling pressure that dominated Monday's session was not born in a vacuum; it extends a cooling trend that began late last week. According to market reports, the S&P 500 and Dow faced renewed pressure following a surprisingly weak Census Bureau reading for U.S. retail sales, which dropped 0.6% in July against economists' expectations for a modest 0.1% rise.</p>
 
-<p>At the same time, geopolitical friction in the Middle East pushed crude oil futures upward. U.S. benchmark WTI futures advanced 2.4% to $84.35 a barrel, while international Brent futures climbed to $90.65. This energy spike was fueled by escalating pessimism regarding diplomatic efforts to reopen the Strait of Hormuz, a vital maritime chokepoint responsible for moving a significant portion of the world's crude oil supply.</p>
+<p>At the same time, geopolitical friction in the Middle East pushed crude oil futures upward. U.S. benchmark WTI futures advanced 2.4% to  a barrel, while international Brent futures climbed to . This energy spike was fueled by escalating pessimism regarding diplomatic efforts to reopen the Strait of Hormuz, a vital maritime chokepoint responsible for moving a significant portion of the world's crude oil supply.</p>
 
 <p>Perhaps most notably for everyday borrowing costs, bond yields surged alongside oil prices. The 10-year Treasury yield hovered near 4.73%, while the 30-year yield climbed to 5.31%, reaching its highest level since 2007. Mega-cap tech stocks across the Magnificent Seven finished firmly in the red, while memory chip makers and select aerospace equities provided rare pockets of outperformance.</p>
 </section>
@@ -108,7 +108,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -116,7 +116,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

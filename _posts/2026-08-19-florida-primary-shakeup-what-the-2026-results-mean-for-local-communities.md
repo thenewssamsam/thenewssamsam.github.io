@@ -24,7 +24,7 @@ source_url: "https://www.cnn.com/2026/08/18/politics/live-news/florida-primary-e
     <p>In a major development, state Rep. Angie Nixon secured the Democratic nomination for the U.S. Senate, setting up a November clash with GOP Sen. Ashley Moody. Meanwhile, Rep. Byron Donalds emerged as the projected winner of the Republican gubernatorial primary, aiming to succeed Gov. Ron DeSantis. The evening also saw a notable shakeup in the U.S. House, with Rep. Cory Mills losing his GOP primary in the 7th District following an ethics investigation, and Rep. Debbie Wasserman Schultz successfully securing her nomination in the redrawn 20th District.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>
@@ -34,14 +34,14 @@ Crevice Cleaning Brush Set ($12.99)
     <p>When high-profile seats turn over, the impact is felt most acutely at the community level. The defeat of incumbent candidates like Rep. Cory Mills suggests that voters are increasingly prioritizing transparency and ethical conduct in their local representatives. For voters in the 7th District, this creates a new window for dialogue with the incoming nominee on campaign finance reform and congressional resource management.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     
     <p>Similarly, the race for governor carries weight for every Florida household. As Byron Donalds moves to the general election, his platform—which differs from the outgoing administration—will set the tone for state-level initiatives regarding education, property insurance, and economic development. Local communities should watch how these platforms align with their specific regional needs, whether in rural agricultural zones or rapidly urbanizing coastal cities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
 
@@ -55,14 +55,14 @@ Crevice Cleaning Brush Set ($12.99)
     <p>As we observe these political transitions, I am reminded of the importance of integrity in public service. Regardless of the political outcome, the responsibility to represent neighbors with honesty is a high calling. Scripture invites us to consider, <em>"When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn"</em> (Proverbs 29:2, KJV). This reminds us that the character of those we elect matters deeply to the health of our communities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     
     <p>Furthermore, we are encouraged to act with wisdom and discernment: <em>"The integrity of the upright guides them, but the unfaithful are destroyed by their duplicity"</em> (Proverbs 11:3, NIV). As voters, our role is to act as good stewards of our communities, holding our leaders accountable to the standards of truth and service that benefit the common good.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>

@@ -18,7 +18,7 @@ source_url: 'https://www.bostonglobe.com/2026/08/18/nation/trump-presidency-live
   </header>
 
   <section id="introduction">
-    <p>The United States and Canada are currently engaged in high-stakes, last-minute negotiations to avert a 50 percent tariff on $20 billion worth of Canadian goods. This confrontation marks a jarring shift in a relationship defined by decades of cooperation, raising questions about how current trade volatility stacks up against the long, often complex history between these two North American neighbors.</p>
+    <p>The United States and Canada are currently engaged in high-stakes, last-minute negotiations to avert a 50 percent tariff on  billion worth of Canadian goods. This confrontation marks a jarring shift in a relationship defined by decades of cooperation, raising questions about how current trade volatility stacks up against the long, often complex history between these two North American neighbors.</p>
   </section>
 
   <section id="what-happened">
@@ -26,7 +26,7 @@ source_url: 'https://www.bostonglobe.com/2026/08/18/nation/trump-presidency-live
     <p>According to recent reports, the Trump administration’s aggressive tariff strategy—aimed at domestic manufacturing revitalization—has brought US-Canada relations to a breaking point. While the two nations have historically managed disputes over softwood lumber and dairy through diplomatic channels, the current rhetoric and proposed 50 percent tariff represent an unprecedented departure from the status quo.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
   </section>
@@ -73,7 +73,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -81,7 +81,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -27,7 +27,7 @@ source_url: 'https://www.bbc.com/news/articles/c80nzdjgmk3o'
     <p>After a stint at One America News Network (OAN), Harp joined Trump’s campaign and later moved into the White House as an executive assistant. Today, she is more than a secretary; she is a primary conduit for the information the president consumes, often printing out articles and social media posts for his review, earning her the nickname "the human printer."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
   </section>
@@ -37,7 +37,7 @@ CeraVe Hydrating Facial Cleanser ($14.99)
     <p>Why does a leader, especially one with the temperament of Donald Trump, rely so heavily on a single aide? From a psychological perspective, Harp occupies a unique role that goes beyond logistics. In high-pressure environments, individuals in leadership often seek what is known as a "secure base"—a concept rooted in attachment theory. This is a person whose presence mitigates stress and reinforces a sense of psychological safety.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-FitVille Comfortable Running Shoes ($69.99)
+FitVille Comfortable Running Shoes 
 </a></div>
 
     
@@ -49,14 +49,14 @@ FitVille Comfortable Running Shoes ($69.99)
     <p>By controlling the flow of information—the news articles and social media updates the president reads—Harp acts as a filter. Psychologically, this allows a leader to maintain a "normalcy bias," reinforcing their existing worldview by curating the data points that reach them. This isn't necessarily a malicious act; it is a human tendency to gravitate toward information that validates our reality, especially when the world feels chaotic.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
     
     <p>Furthermore, her brother’s recent comments about her "infatuation" and childhood desire to serve in the White House suggest that Harp’s loyalty is deeply internal. For Trump, who prizes unconditional support, having an aide whose dedication is rooted in a life-saving gratitude creates a powerful, self-reinforcing bond of trust.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
   </section>
@@ -66,13 +66,13 @@ CeraVe Hydrating Facial Cleanser ($14.99)
     <p>Watching the dynamics of service and dedication in the public eye often leads me to reflect on the nature of our own allegiances. In Proverbs 27:17, we are reminded: <em>"As iron sharpens iron, so one person sharpens another."</em> This verse speaks to the importance of the company we keep and the mutual influence we have on one another. Similarly, Colossians 3:23 encourages, <em>"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
     <p>It is a human instinct to find meaning through serving a cause or a person we believe in. However, these verses invite us to consider the ultimate source of our security. Whether in a high-powered office or our daily lives, there is a profound difference between loyalty born of personal infatuation and loyalty rooted in a higher, unchanging principle. True service is most noble when it remains tethered to truth, rather than just the preferences of those in power.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-FitVille Comfortable Running Shoes ($69.99)
+FitVille Comfortable Running Shoes 
 </a></div>
 
   </section>

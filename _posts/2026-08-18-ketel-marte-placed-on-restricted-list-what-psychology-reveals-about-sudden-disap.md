@@ -41,7 +41,7 @@ source_url: 'https://www.mlbtraderumors.com/2026/08/diamondbacks-place-ketel-mar
 <p>The Arizona Diamondbacks were preparing for a crucial game against Boston when manager Torey Lovullo delivered surprising news to the media. Marte, expected to start as the designated hitter, simply did not show up to the stadium. Lovullo admitted in his postgame comments that it had been a crazy day, noting that while he knew something was amiss, he genuinely believed his star player would walk through the clubhouse doors before game time.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 <p>Instead, the team was forced to shuffle on the fly. Infielder Jose Fernandez was recalled from Triple-A Reno, and Lars Nootbaar took over designated hitter duties at the bottom of the lineup. The Diamondbacks officially placed Marte on the restricted list—a non-disciplinary, non-injury designation where players are unpaid and unavailable. While the mechanism is common for brief personal leaves like paternity, the sudden, unannounced nature of Marte&apos;s absence raised immediate questions.</p>
@@ -140,7 +140,7 @@ li { margin-bottom: 0.5rem; line-height: 1.6; }
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -148,7 +148,7 @@ li { margin-bottom: 0.5rem; line-height: 1.6; }
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

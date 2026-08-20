@@ -28,7 +28,7 @@ source_url: "https://www.nbcnews.com/news/us-news/tuesday-primaries-buss-family-
     <p>In corporate law, a "controlling owner" holds the legal authority to make major decisions for an entity. When a family business is structured with a controlling governor, other shareholders—even family members—often find their ability to force a sale severely limited by the company's operating agreement.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -36,7 +36,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Most family-owned franchises operate under strict governance documents. These contracts define whether a minority shareholder can force a liquidation or sale. Typically, unless the agreement explicitly grants minority shareholders "tag-along" or "drag-along" rights, a single shareholder cannot unilaterally force the sale of the company or a specific portion of the family's interest if the controlling member objects.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -54,13 +54,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>Watching families navigate the complexities of wealth and legacy reminds me of the wisdom found in Scripture regarding the stewardship of resources and the importance of unity. As we see in the Lakers' situation, the desire for autonomy often clashes with the preservation of a collective legacy.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>The Apostle Paul writes in Philippians 2:3-4, <em>"Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves. Let each of you look not only to his own interests, but also to the interests of others."</em> (ESV). This serves as a powerful reminder that whether in a boardroom or a household, the most sustainable outcomes are usually found when parties prioritize mutual respect and the greater good over individual gain.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -70,7 +70,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>If you are involved in a family business or own shares in a private entity, take these steps to ensure you understand your position:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>

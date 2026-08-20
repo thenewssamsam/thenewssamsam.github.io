@@ -120,7 +120,7 @@ source_url: 'https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-
 <p>Convoys of pick-up trucks festooned with white banners rolled through the Afghan capital on Saturday toward a major gathering outside a compound housing key ministries. Heavily armed fighters stood guard as senior officials addressed the crowd, praising what they termed the "victory of the Islamic Emirate" and promising to continue enforcing their strict vision of governance.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -168,7 +168,7 @@ Source: <a href="https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-mu
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -176,7 +176,7 @@ Source: <a href="https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-mu
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

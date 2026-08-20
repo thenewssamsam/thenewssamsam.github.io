@@ -55,7 +55,7 @@ source_url: "https://www.bbc.com/news/articles/c62emm4yp8go"
     
     <div style="background: #fff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; margin: 20px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
       <p style="margin: 0; font-size: 0.95rem; color: #4a5568;">
-        <strong>Recommended Resource:</strong> For families navigating intense stress or postpartum adjustments, having reliable support tools at home can make a difference. Consider the <a href="https://www.amazon.com/dp/B073Q44W1V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #3182ce; text-decoration: underline;">Hatch Rest Sound Machine &amp; Night Light</a> ($69.99) to help establish restful sleep routines for infants and parents alike.
+        <strong>Recommended Resource:</strong> For families navigating intense stress or postpartum adjustments, having reliable support tools at home can make a difference. Consider the <a href="https://www.amazon.com/dp/B073Q44W1V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #3182ce; text-decoration: underline;">Hatch Rest Sound Machine &amp; Night Light</a>  to help establish restful sleep routines for infants and parents alike.
       </p>
     </div>
 
@@ -65,7 +65,7 @@ source_url: "https://www.bbc.com/news/articles/c62emm4yp8go"
     
     <div style="background: #fff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; margin: 20px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
       <p style="margin: 0; font-size: 0.95rem; color: #4a5568;">
-        <strong>Supportive Reading:</strong> Understanding mental health and emotional well-being during major life transitions can also be aided by literature such as <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #3182ce; text-decoration: underline;">The 5 Love Languages: The Secret to Love that Lasts</a> ($15.99), which fosters deeper communication between partners during stressful family phases.
+        <strong>Supportive Reading:</strong> Understanding mental health and emotional well-being during major life transitions can also be aided by literature such as <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #3182ce; text-decoration: underline;">The 5 Love Languages: The Secret to Love that Lasts</a> , which fosters deeper communication between partners during stressful family phases.
       </p>
     </div>
 
@@ -91,7 +91,7 @@ source_url: "https://www.bbc.com/news/articles/c62emm4yp8go"
     
     <div style="background: #fff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; margin: 20px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
       <p style="margin: 0; font-size: 0.95rem; color: #4a5568;">
-        <strong>Mindful Comfort:</strong> Creating a calming home environment can support emotional recovery. Many find comfort in aromatherapy using an <a href="https://www.amazon.com/dp/B08V8Z6V96?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #3182ce; text-decoration: underline;">Essential Oil Diffuser with Ambient Light</a> ($24.99) to promote relaxation during high-stress periods.
+        <strong>Mindful Comfort:</strong> Creating a calming home environment can support emotional recovery. Many find comfort in aromatherapy using an <a href="https://www.amazon.com/dp/B08V8Z6V96?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #3182ce; text-decoration: underline;">Essential Oil Diffuser with Ambient Light</a>  to promote relaxation during high-stress periods.
       </p>
     </div>
   </section>
@@ -109,7 +109,7 @@ source_url: "https://www.bbc.com/news/articles/c62emm4yp8go"
 
     <div style="background: #fff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 15px; margin: 20px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
       <p style="margin: 0; font-size: 0.95rem; color: #4a5568;">
-        <strong>Journaling &amp; Reflection:</strong> Processing difficult emotional experiences can start with private writing. Consider using a <a href="https://www.amazon.com/dp/B07V49W76V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #3182ce; text-decoration: underline;">Classic Ruled Moleskine Notebook</a> ($19.95) to record thoughts, prayers, and local community support ideas.
+        <strong>Journaling &amp; Reflection:</strong> Processing difficult emotional experiences can start with private writing. Consider using a <a href="https://www.amazon.com/dp/B07V49W76V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #3182ce; text-decoration: underline;">Classic Ruled Moleskine Notebook</a>  to record thoughts, prayers, and local community support ideas.
       </p>
     </div>
   </section>

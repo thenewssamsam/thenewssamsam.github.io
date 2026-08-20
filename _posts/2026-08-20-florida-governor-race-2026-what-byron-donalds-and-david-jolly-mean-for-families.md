@@ -28,14 +28,14 @@ source_url: "https://www.nbcnews.com/politics/2026-election/republican-byron-don
     <p>This upcoming November showdown represents more than just a typical statehouse battle. Republicans have held the governor's mansion since 1994 and turned Florida into a formidable conservative stronghold following decisive victories in recent cycles. Jolly’s nomination serves as a test case for whether Democrats can rebuild their presence in what was once the nation's premier swing state. For families across the Sunshine State, this race means months of political advertisements, debates, and neighborhood discussions that are difficult to completely shield children from.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-box" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
     <p style="margin: 0 0 5px 0; font-weight: bold;">Recommended Resource:</p>
-    <p style="margin: 0;"><a href="https://www.amazon.com/dp/B073Z1L73G?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Talking to Kids About Politics: A Parent's Guide</a> - $14.99</p>
+    <p style="margin: 0;"><a href="https://www.amazon.com/dp/B073Z1L73G?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Talking to Kids About Politics: A Parent's Guide</a> - </p>
   </div>
 
   <section class="ncg-section" id="parenting-perspective">
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When elections turn personal and high-stakes—as seen in Florida's heated GOP primary battles and the broader ideological divide—children pick up on the emotional temperature of their environment long before they understand policy. Parents often wonder how to address the rapid influx of campaign ads, sharp rhetoric, and conflicting viewpoints without stoking fear or partisan cynicism.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -51,14 +51,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>How we talk about politics should scale with a child's developmental stage. For younger children, heavy campaign coverage is often just confusing background noise. Keeping explanations simple—focusing on the idea that people are choosing community leaders—helps ground the conversation in familiar concepts like choosing a class president or team captain.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>For teenagers, the approach shifts. Teens are bombarded with social media commentary, viral video clips, and heated debates from peers. Instead of dismissing aggressive online rhetoric, use it as a teaching moment. Ask open-ended questions like, "What do you think that message is trying to make you feel?" This encourages media literacy and critical thinking, teaching them to look past emotional manipulation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -69,7 +69,7 @@ Seagate Portable External Hard Drive ($59.99)
 
   <div class="ncg-amazon-box" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
     <p style="margin: 0 0 5px 0; font-weight: bold;">Recommended Resource:</p>
-    <p style="margin: 0;"><a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Media Smart Youth: Navigating News and Social Media</a> - $18.50</p>
+    <p style="margin: 0;"><a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Media Smart Youth: Navigating News and Social Media</a> - </p>
   </div>
 
   <section class="ncg-section" id="faith-reflection">
@@ -77,7 +77,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Watching political battles unfold can sometimes leave families feeling weary, especially when discussions grow divisive. It reminds me of the simple wisdom found in scripture about keeping our interactions grounded in patience and grace. Proverbs 15:1 notes that a gentle answer turns away wrath, but a harsh word stirs up anger. In a season where public discourse often leans toward sharp division, our homes can serve as a steady refuge where listening takes precedence over winning arguments.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -87,7 +87,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Rather than retreating from civic life entirely, families can use seasons like the 2026 Florida gubernatorial race to model positive engagement:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <ul>
@@ -102,7 +102,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>As Byron Donalds and David Jolly embark on their months-long campaign trail toward November, the political landscape of Florida will undoubtedly generate plenty of headlines. But the true tone of our communities isn't set by campaign ads or gubernatorial debates—it is shaped around our dinner tables through patience, open ears, and thoughtful guidance.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p><em>Healthy civic dialogue begins with how we treat the people right in front of us.</em></p>

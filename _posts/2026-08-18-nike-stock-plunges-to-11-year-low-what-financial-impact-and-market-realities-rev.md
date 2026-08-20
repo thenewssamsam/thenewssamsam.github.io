@@ -15,7 +15,7 @@ source_url: 'https://ca.finance.yahoo.com/news/nike-shares-hit-11-low-174500075.
 <time datetime="2026-03-31">Published: March 31, 2026</time>
 <span>&bull; 6 min read</span>
 <h1>Nike Stock Plunges to 11-Year Low: What Financial Impact and Market Realities Reveal About the Turnaround</h1>
-<p>Nike Inc. shares recently tumbled 4.3% in a single session, dragging the stock down to its lowest level since September 2014 and extending a brutal correction that has erased over $200 billion in market value from its 2021 peak&mdash;a staggering 78% collapse. For a company that long defined athletic apparel dominance, this prolonged slump raises urgent financial questions about corporate strategy, consumer demand, and how long a structural retail reset actually takes.</p>
+<p>Nike Inc. shares recently tumbled 4.3% in a single session, dragging the stock down to its lowest level since September 2014 and extending a brutal correction that has erased over  billion in market value from its 2021 peak&mdash;a staggering 78% collapse. For a company that long defined athletic apparel dominance, this prolonged slump raises urgent financial questions about corporate strategy, consumer demand, and how long a structural retail reset actually takes.</p>
 </header>
 
 <nav class="ncg-toc" aria-label="Table of Contents">
@@ -34,7 +34,7 @@ source_url: 'https://ca.finance.yahoo.com/news/nike-shares-hit-11-low-174500075.
 <p>When a corporate giant like Nike hits an 11-year low, Wall Street takes notice. Shares fell to levels not seen in over a decade following a fresh analyst downgrade and persistent weakness in direct-to-consumer (DTC) channels. UBS analysts released data pointing to muted revenue projections for upcoming quarters as the brand works through a complex, multi-year strategic reset.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>The core issue is not a sudden, overnight disaster. Instead, it is the compounding effect of miscalculated retail shifts, slowing innovation cycles, and a consumer base that has increasingly gravitated toward competing footwear brands. The market had been pricing in a swift, smooth turnaround, but recent operational updates suggest the road to recovery is far steeper than anticipated.</p>
@@ -90,7 +90,7 @@ Seagate Portable External Hard Drive ($59.99)
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "Nike Stock Plunges to 11-Year Low: What Financial Impact and Market Realities Reveal About the Turnaround",
-  "description": "Nike shares fell to an 11-year low, wiping out $200B in value. Explore the financial mechanics, retail reset, and what the secondary market reveals.",
+  "description": "Nike shares fell to an 11-year low, wiping out B in value. Explore the financial mechanics, retail reset, and what the secondary market reveals.",
   "datePublished": "2026-03-31",
   "author": {
     "@type": "Organization",
@@ -105,7 +105,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -113,7 +113,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

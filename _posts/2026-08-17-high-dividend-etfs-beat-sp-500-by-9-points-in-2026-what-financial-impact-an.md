@@ -22,7 +22,7 @@ source_url: 'https://247wallst.com/investing/2026/08/16/high-dividend-etfs-are-b
   <p>While the headline numbers catch the eye, the real story lies underneath the ticker symbols. Each of these three funds achieves its outperformance through entirely different financial mechanics, and those structural differences matter far more to a portfolio than simple yield percentages suggest.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -64,10 +64,10 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Holding roughly 75 U.S. equities with an exceptionally low expense ratio of 0.08% and a yield near 3%, HDV is built around heavy defensive cash generators. Exxon Mobil, Chevron, Johnson & Johnson, and AbbVie anchor the top of the portfolio. The financial trade-off here is sector concentration: roughly 20% of the fund sits in energy alone. If oil prices experience a sharp pullback, that heavy weighting will inevitably drag on the fund's performance.</p>
 
     <h3>FDL: Weighted by Dividends Paid</h3>
-    <p>Carrying a higher expense ratio of 0.40% and a trailing yield near 2%, FDL is up 19% year to date. Its weighting mechanism concentrates capital heavily in companies that consistently pay out massive cash totals—with Chevron, Verizon, and Philip Morris accounting for more than a fifth of total assets. Q2 2026 distributions rose to $0.4732 per share, up from $0.4005 in Q1, proving that the dividend-weighting rule successfully channels capital toward firms with robust cash resources.</p>
+    <p>Carrying a higher expense ratio of 0.40% and a trailing yield near 2%, FDL is up 19% year to date. Its weighting mechanism concentrates capital heavily in companies that consistently pay out massive cash totals—with Chevron, Verizon, and Philip Morris accounting for more than a fifth of total assets. Q2 2026 distributions rose to  per share, up from  in Q1, proving that the dividend-weighting rule successfully channels capital toward firms with robust cash resources.</p>
 
     <h3>DTD: The Contrarian Pick Featuring Tech Giants</h3>
-    <p>DTD takes a radically different approach. Its top holdings include Microsoft at roughly 4%, NVIDIA at 4%, and JPMorgan Chase at 3%. With an expense ratio of 0.28% and monthly distributions totaling $0.93 per share through July 2026, DTD offers a lower absolute yield around 2% in exchange for broader market participation. Investors sacrifice some immediate income to ensure they do not miss out when mega-cap technology leads the market.</p>
+    <p>DTD takes a radically different approach. Its top holdings include Microsoft at roughly 4%, NVIDIA at 4%, and JPMorgan Chase at 3%. With an expense ratio of 0.28% and monthly distributions totaling  per share through July 2026, DTD offers a lower absolute yield around 2% in exchange for broader market participation. Investors sacrifice some immediate income to ensure they do not miss out when mega-cap technology leads the market.</p>
   </section>
 
   <section id="reader-response">
@@ -115,7 +115,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -123,7 +123,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

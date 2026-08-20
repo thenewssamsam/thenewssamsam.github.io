@@ -38,7 +38,7 @@ source_url: 'https://www.ksbw.com/article/lifeguard-saved-boy-seabright-beach-me
     <p>Ten-year-old Nathaniel Rai lost his footing in ankle-deep water, swept off his feet by a powerful wave. Williams didn't hesitate: he radioed for backup, dropped his sunglasses, and plunged into the churning surf. Due to the severe conditions, he couldn't get a rescue tube around the boy. Instead, Williams wrapped his arms around Nathaniel, holding him tight as wave after wave crashed over them both, at times burying them completely.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
     <p>As Nathaniel grew limp in the water, a second lifeguard, Aaron Bohnen, reached them, helping bring both boys safely back to dry sand. The dramatic rescue was caught on camera, uploaded online, and quickly viewed by millions.</p>
@@ -143,7 +143,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -151,7 +151,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

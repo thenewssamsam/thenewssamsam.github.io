@@ -25,7 +25,7 @@ source_url: "https://www.fox35orlando.com/news/florida-primary-election-result-2
     <p>Election days can feel chaotic, but they offer a unique window into the mechanics of our society. For parents, the Florida primary election is not just a news event—it is an opportunity to demystify the democratic process for our children.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -40,10 +40,10 @@ Seagate Portable External Hard Drive ($59.99)
     </ul>
 
     <div style="border-left: 5px solid #ffcc00; background-color: #f4f4f4; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Resource:</strong> <em>"The Democracy Project" by David Macaulay</em> - A great visual guide for kids to understand how government works. ($18.99)</p>
+      <p><strong>Recommended Resource:</strong> <em>"The Democracy Project" by David Macaulay</em> - A great visual guide for kids to understand how government works. </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -54,13 +54,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>As I watch the results come in, I am reminded that our participation in the community is a form of stewardship. We are entrusted with a voice to advocate for the vulnerable and seek the welfare of our neighbors. <em>"But seek the welfare of the city where I have sent you into exile, and pray to the Lord on its behalf, for in its welfare you will find your welfare"</em> (Jeremiah 29:7, ESV). This verse encourages us to look beyond our own homes and consider the needs of our broader community.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Similarly, we are called to be people of truth and grace. <em>"Speak the truth to each other, and render true and sound judgment in your courts"</em> (Zechariah 8:16, NIV). This serves as a gentle reminder that even in heated political climates, our example of integrity and kindness is the most important lesson our children will ever learn from us.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -70,7 +70,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Rather than focusing solely on the "winners" and "losers," focus on the process. Take the time to explain to your children that every vote represents a person with their own hopes and concerns. If the results don't go the way you hoped, use it as a lesson in resilience and the importance of continued civic involvement.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

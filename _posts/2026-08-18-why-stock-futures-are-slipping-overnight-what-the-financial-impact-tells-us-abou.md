@@ -20,7 +20,7 @@ source_url: 'https://finance.yahoo.com/markets/stocks/articles/why-dow-p-500-nas
     </div>
   </header>
 
-  <p class="ncg-lead">U.S. stock futures slipped in the overnight session after Brent crude breached $90 a barrel, driven by renewed geopolitical tensions in the Middle East and a stalled peace window with Iran. For everyday investors and market watchers, this sharp reaction underscores how quickly commodity price spikes can ripple through equities, reviving lingering inflation anxiety.</p>
+  <p class="ncg-lead">U.S. stock futures slipped in the overnight session after Brent crude breached  a barrel, driven by renewed geopolitical tensions in the Middle East and a stalled peace window with Iran. For everyday investors and market watchers, this sharp reaction underscores how quickly commodity price spikes can ripple through equities, reviving lingering inflation anxiety.</p>
 
   <div class="ncg-toc-box" id="ncg-toc">
     <h3>Table of Contents</h3>
@@ -40,7 +40,7 @@ source_url: 'https://finance.yahoo.com/markets/stocks/articles/why-dow-p-500-nas
     <p>This overnight drift follows a negative regular trading session where all three major indexes closed in the red. The S&P 500 led the declines with a 0.52% drop to 7,745.06, the Dow Jones Industrial Average shed about 272 points to close down 0.51% at 53,459.78, and the Nasdaq Composite gave up 0.32% to finish at 26,644.91.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -49,9 +49,9 @@ Tactical Waterproof Backpack ($35.99)
 
   <section id="financial-perspective">
     <h2>A Financial Impact Perspective: The Oil-Equities Link</h2>
-    <p>When energy prices move aggressively, financial markets pay immediate attention. Following remarks from Washington regarding the Strait of Hormuz and potential security interventions, global oil prices surged. Brent crude futures jumped past the $90 threshold, trading around $91.33 a barrel, while WTI crude climbed to approximately $85.04 per barrel.</p>
+    <p>When energy prices move aggressively, financial markets pay immediate attention. Following remarks from Washington regarding the Strait of Hormuz and potential security interventions, global oil prices surged. Brent crude futures jumped past the  threshold, trading around  a barrel, while WTI crude climbed to approximately  per barrel.</p>
 
-    <p>From a financial mechanics standpoint, why does oil crossing $90 trigger an automatic cooling in stock futures? The transmission mechanism is straightforward:</p>
+    <p>From a financial mechanics standpoint, why does oil crossing  trigger an automatic cooling in stock futures? The transmission mechanism is straightforward:</p>
     
     <ul>
       <li><strong>Input Costs:</strong> Higher crude prices directly raise transportation, manufacturing, and production costs across nearly every sector of the economy.</li>
@@ -118,7 +118,7 @@ Tactical Waterproof Backpack ($35.99)
     "@context": "https://schema.org",
     "@type": "NewsArticle",
     "headline": "Why Stock Futures Are Slipping Overnight: What the Financial Impact Tells Us About Oil and Markets",
-    "description": "Stock futures slip overnight as Brent crude tops $90 following new geopolitical tensions. Explore the financial mechanics driving the market reaction.",
+    "description": "Stock futures slip overnight as Brent crude tops  following new geopolitical tensions. Explore the financial mechanics driving the market reaction.",
     "datePublished": "2026-03-31",
     "author": {
       "@type": "Organization",
@@ -133,7 +133,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -141,7 +141,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

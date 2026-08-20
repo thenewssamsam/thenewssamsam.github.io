@@ -154,12 +154,12 @@ source_url: "https://www.nbcnews.com/news/us-news/penn-state-agostino-abbatiello
     <p>While investigations of this scale routinely focus on the logistics of contraband, financial flows, and law enforcement tactics, they rarely unpack the underlying psychological environment that allows such schemes to incubate in plain sight. College campuses are uniquely dense social ecosystems where peer validation often supersedes institutional rules, creating fertile ground for severe behavioral blind spots.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <div class="ncg-amazon-box">
-      Recommended Resource: <a href="https://www.amazon.com/dp/0307887898?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Power of Habit: Why We Do What We Do in Life and Business (Paperback) - $14.99</a>
+      Recommended Resource: <a href="https://www.amazon.com/dp/0307887898?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Power of Habit: Why We Do What We Do in Life and Business (Paperback) - </a>
     </div>
 
     <h2 id="psychology-perspective">The Psychology &amp; Behavior Perspective</h2>
@@ -167,25 +167,25 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When looking at how a student can compartmentalize academic responsibilities like accounting while allegedly managing illicit supply chains, psychologists point to several well-documented cognitive mechanisms.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>The first is <strong>normalization of deviance</strong>. Coined in organizational sociology and widely applied in behavioral psychology, this concept describes how incremental boundary-pushing becomes accepted as standard practice over time. A small favor here, a minor rule violation there, and soon behaviors that would have initially caused profound moral panic feel routine and manageable.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div class="ncg-amazon-box">
-      Recommended Resource: <a href="https://www.amazon.com/dp/0062457713?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life (Hardcover) - $15.89</a>
+      Recommended Resource: <a href="https://www.amazon.com/dp/0062457713?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life (Hardcover) - </a>
     </div>
 
     <p>Next is <strong>compartmentalization and rationalization</strong>. Human beings possess an uncanny ability to hold conflicting identities simultaneously. To his peers and fraternity brothers, an individual might present as a dedicated student pursuing a legitimate business or accounting degree. Inwardly, the risk assessment is warped by rationalizations: "Everyone is doing something similar," or "It is just a temporary hustle to get ahead."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -194,18 +194,18 @@ Tactical Waterproof Backpack ($35.99)
     </div>
 
     <div class="ncg-amazon-box">
-      Recommended Resource: <a href="https://www.amazon.com/dp/0143111582?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Thinking, Fast and Slow (Paperback) - $17.49</a>
+      Recommended Resource: <a href="https://www.amazon.com/dp/0143111582?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Thinking, Fast and Slow (Paperback) - </a>
     </div>
 
     <p>Finally, <strong>groupthink within insulated social bubbles</strong> plays a major role. Fraternities and tightly knit college subcultures can create insular reality tunnels. When normative signals come exclusively from an immediate peer group rather than broader societal structures, ethical guardrails can quickly dissolve.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div class="ncg-amazon-box">
-      Recommended Resource: <a href="https://www.amazon.com/dp/150117134X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Educated: A Memoir (Paperback) - $16.50</a>
+      Recommended Resource: <a href="https://www.amazon.com/dp/150117134X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Educated: A Memoir (Paperback) - </a>
     </div>
 
     <h2 id="moral-reflection">A Reflection on Human Choices and Integrity</h2>
@@ -213,23 +213,23 @@ Tactical Waterproof Backpack ($35.99)
     <p>Situations like the one unfolding at Penn State invite a deeper look at the fragility of character when placed under the bright lights of autonomy and temptation. Proverbs 4:23 reminds us, "Keep your heart with all vigilance, for from it flow the springs of life." It is a timeless observation that our outward actions are almost always the delayed fruit of inner choices.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <div class="ncg-amazon-box">
-      Recommended Resource: <a href="https://www.amazon.com/dp/1496453252?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry (Hardcover) - $15.29</a>
+      Recommended Resource: <a href="https://www.amazon.com/dp/1496453252?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Ruthless Elimination of Hurry (Hardcover) - </a>
     </div>
 
     <p>When young adults step away from family structures into the autonomy of university life, the temptation to take shortcuts toward success or status can be overwhelming. Yet, as Galatians 6:7 notes, "Do not be deceived: God is not mocked, for whatever one sows, that will he also reap." The psychological weight of living a double life ultimately catches up with the individual, proving that true peace of mind is worth far more than any temporary gain.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div class="ncg-amazon-box">
-      Recommended Resource: <a href="https://www.amazon.com/dp/1546003926?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones (Hardcover) - $16.80</a>
+      Recommended Resource: <a href="https://www.amazon.com/dp/1546003926?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones (Hardcover) - </a>
     </div>
 
     <h2 id="how-to-respond">How Should Readers Respond?</h2>
@@ -237,7 +237,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>For parents, educators, and students alike, news reports involving high-profile campus arrests serve as a stark reminder to evaluate the environments we cultivate.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>
@@ -247,7 +247,7 @@ Seagate Portable External Hard Drive ($59.99)
     </ul>
 
     <div class="ncg-amazon-box">
-      Recommended Resource: <a href="https://www.amazon.com/dp/0316498305?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Untamed (Hardcover) - $17.99</a>
+      Recommended Resource: <a href="https://www.amazon.com/dp/0316498305?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Untamed (Hardcover) - </a>
     </div>
 
     <h2 id="faq">Frequently Asked Questions</h2>
@@ -257,7 +257,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p>According to NBC News reports, authorities allege that Agostino Abbatiello operated a major drug distribution network on the Penn State campus, moving from a standard student profile to allegedly heading the university's largest drug scheme.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </details>
@@ -267,7 +267,7 @@ Tactical Waterproof Backpack ($35.99)
       <p>Normalcy bias causes individuals to underestimate the likelihood and severity of negative consequences when engaging in risky or illicit behavior, especially if they see others around them normalizing similar actions.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </details>
@@ -277,13 +277,13 @@ Seagate Portable External Hard Drive ($59.99)
       <p>High population density, insulated social circles like fraternities, and high demand combined with peer pressure create an environment where illicit markets can sometimes operate with a false sense of security.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </details>
 
     <div class="ncg-amazon-box">
-      Recommended Resource: <a href="https://www.amazon.com/dp/145558669X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Option B: Facing Adversity, Building Resilience, and Finding Joy (Hardcover) - $16.99</a>
+      Recommended Resource: <a href="https://www.amazon.com/dp/145558669X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Option B: Facing Adversity, Building Resilience, and Finding Joy (Hardcover) - </a>
     </div>
 
     <div class="ncg-closing-box" id="closing">

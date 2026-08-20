@@ -124,7 +124,7 @@ Authorities allege that the elder Robinson took active steps to conceal evidence
 </p>
 
 <div class="ncg-amazon-box">
-Recommended Reading: <a href="https://www.amazon.com/dp/1593859821?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Parenting with Love and Logic: Teaching Children Discipline</a> ($16.49) — A practical guide on fostering healthy accountability and strong character within the family dynamic.
+Recommended Reading: <a href="https://www.amazon.com/dp/1593859821?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Parenting with Love and Logic: Teaching Children Discipline</a>  — A practical guide on fostering healthy accountability and strong character within the family dynamic.
 </div>
 
 <h2 class="ncg-h2" id="what-happened">The Anatomy of a Campus Scandal</h2>
@@ -161,7 +161,7 @@ In our daily lives, we may not be hiding safes filled with illicit substances, b
 </p>
 
 <div class="ncg-amazon-box">
-Helpful Resource: <a href="https://www.amazon.com/dp/0310356598?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Boundaries with Kids: When to Say Yes, How to Say No</a> ($14.99) — Essential insights for raising responsible, accountable children with healthy personal boundaries.
+Helpful Resource: <a href="https://www.amazon.com/dp/0310356598?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Boundaries with Kids: When to Say Yes, How to Say No</a>  — Essential insights for raising responsible, accountable children with healthy personal boundaries.
 </div>
 
 <h2 class="ncg-h2" id="how-should-christians-respond">How Should Christians Respond?</h2>
@@ -185,7 +185,7 @@ Heavenly Father, we bring before You the heavy burdens of broken families, falle
 </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </div>

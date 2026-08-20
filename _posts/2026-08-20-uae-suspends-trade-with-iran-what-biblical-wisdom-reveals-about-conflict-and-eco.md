@@ -39,13 +39,13 @@ source_url: 'https://apnews.com/article/iran-united-arab-emirates-trade-august-1
     <div class="ncg-amazon-card" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #555;">Recommended Resource for Understanding Global Events</p>
       <p style="margin: 0; font-weight: bold;"><a href="https://www.amazon.com/dp/0310452391?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">NIV Study Bible, Hardcover, Red Letter: Fully Revised Edition</a></p>
-      <p style="margin: 5px 0 0 0; color: #b12704; font-weight: bold;">$29.99</p>
+      <p style="margin: 5px 0 0 0; color: #b12704; font-weight: bold;"></p>
     </div>
 
     <p>Economic experts note that the UAE was far more than just a trading partner for Tehran; it served as a vital re-export hub helping cushion the blow of international sanctions. Now, with the Emirati embargo taking effect alongside upcoming U.S. financial restrictions and a severe projected economic contraction inside Iran, ordinary citizens on both sides of the Gulf are bracing for the fallout.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -55,14 +55,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>Whenever nations clash over trade routes, borders, and economic leverage, the headlines tend to focus exclusively on military hardware, diplomatic posturing, and stock market jitters. Yet Scripture invites us to look deeper—past the immediate political maneuverings and into the condition of the human heart that so often drives nations toward conflict.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <p>Trade and commerce, in their purest sense, are meant to be instruments of cooperation and mutual provision among human communities made in the image of God. When supply chains fracture and borders close in hostility, it is rarely the architects of war who suffer first; rather, it is ordinary families who bear the brunt of rising inflation, scarcity, and fear. This reality echoes the sobering warning found in the Epistle of James:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -70,7 +70,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><em>"What causes fights and quarrels among you? Don't they come from your desires that battle within you? You desire but do not have, so you kill. You covet but you cannot get what you want, so you quarrel and fight. You do not have because you do not ask God."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
       <cite>— James 4:1-2 (NIV)</cite>
@@ -79,20 +79,20 @@ Seagate Portable External Hard Drive ($59.99)
     <p>James cuts straight to the root of geopolitical friction: the unrestrained desires for power, control, and security that reside within fallen human nature. When nations strive to dominate vital corridors like the Strait of Hormuz to assert supremacy or choke an adversary's livelihood, they are often operating out of fear and pride rather than wisdom or justice.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div class="ncg-amazon-card" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #555;">Recommended Resource on Peace and Reconciliation</p>
       <p style="margin: 0; font-weight: bold;"><a href="https://www.amazon.com/dp/0830844732?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Peacemaker: A Biblical Guide to Resolving Personal Conflict</a></p>
-      <p style="margin: 5px 0 0 0; color: #b12704; font-weight: bold;">$16.99</p>
+      <p style="margin: 5px 0 0 0; color: #b12704; font-weight: bold;"></p>
     </div>
 
     <p>At the same time, Scripture repeatedly reminds us of the fleeting nature of earthly security and economic might. Proverbs cautions us against placing our ultimate trust in systems of wealth or military fortifications:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -100,7 +100,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><em>"Do not wear yourself out to get rich; do not trust your own cleverness. Cast a glance at riches, and they are gone, for they will surely sprout wings and fly off to the sky like an eagle."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
       <cite>— Proverbs 23:4-5 (NIV)</cite>
@@ -109,7 +109,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>The sudden suspension of trade between the UAE and Iran illustrates just how quickly interconnected global markets can unravel. What took decades to build can be severed in a single evening by a pair of ballistic missiles. This reminds believers that true, lasting stability cannot be found in open trade routes alone, but in the righteousness, justice, and humility that God requires of nations and leaders.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -117,7 +117,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p>"When trade routes close and missiles fly, earthly security crumbles—reminding us that true peace cannot be engineered by politics alone, but must be sought through humility and justice."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -128,14 +128,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>Beyond the theological reflections, the ground reality in the Middle East remains tense and precarious. The UAE's decision to cut economic ties is a calculated move to protect its sovereign security, yet Emirati officials acknowledge the inherent risks. For a nation that has carefully positioned itself as a global hub for tourism, business, and finance, prolonged regional instability threatens its own economic foundation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <p>On the other side, the economic pressure on Iran is compounding rapidly. With international monetary forecasts predicting steep inflation and a sharp contraction in economic output, ordinary Iranians face mounting hardships that go far beyond government boardrooms. The convergence of military blockades, diplomatic freezes, and economic sanctions creates a humanitarian bottleneck where basic goods become scarce and expensive.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -145,7 +145,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>When confronted with distant conflicts and compounding economic sanctions, it is easy to feel helpless or indifferent. Yet a biblical worldview calls believers to a deliberate, active response:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -158,7 +158,7 @@ Seagate Portable External Hard Drive ($59.99)
     <div class="ncg-amazon-card" style="border-left: 4px solid #f0c14b; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0 0 10px 0; font-size: 0.9em; color: #555;">Recommended Journal for Prayer and Reflection</p>
       <p style="margin: 0; font-weight: bold;"><a href="https://www.amazon.com/dp/1648765432?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Daily Grace Co. Prayer Journal</a></p>
-      <p style="margin: 5px 0 0 0; color: #b12704; font-weight: bold;">$22.00</p>
+      <p style="margin: 5px 0 0 0; color: #b12704; font-weight: bold;"></p>
     </div>
   </section>
 

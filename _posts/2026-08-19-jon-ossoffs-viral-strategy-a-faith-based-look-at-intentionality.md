@@ -27,7 +27,7 @@ source_url: "https://www.politico.com/news/2026/08/18/jon-ossoff-georgia-viral-c
       <p><strong>"The power of a message lies not just in its volume, but in the intentionality of the speaker. In politics as in life, clarity is a form of stewardship."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -35,7 +35,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Whether it is calling out specific aides or framing complex geopolitical issues in brief soundbites, Ossoff’s approach is undeniably effective. Supporters see a fighter who stands for something, while critics see a performer working from a script. Regardless of one's political affiliation, the underlying reality remains: the digital age rewards those who can capture attention, and Ossoff has mastered this craft.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -45,14 +45,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>Watching the careful calculation behind these viral clips brings to mind the biblical emphasis on the power of our words. Proverbs 15:28 tells us, <em>"The heart of the righteous weighs its answers, but the mouth of the wicked gushes evil."</em> This doesn't mean we must be overly calculated or deceptive; rather, it invites us to consider the weight behind what we say. Are our words chosen to build up and clarify truth, or merely to manipulate a reaction?</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>As believers, we are called to be "wise as serpents and innocent as doves" (Matthew 10:16). There is a delicate balance here. Senator Ossoff’s team is certainly being "wise" in their communication strategy, utilizing the tools of the era to reach their goals. Yet, the spiritual challenge for any leader—or any individual—is to ensure that the desire for "reach" does not eclipse the commitment to honesty. When we curate our public image so tightly, we must be careful that the person we present matches the character we cultivate in secret.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -62,7 +62,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>As we observe these political dynamics, we can practice discernment in three specific ways:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>

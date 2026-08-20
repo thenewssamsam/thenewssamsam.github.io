@@ -26,14 +26,14 @@ source_url: "https://www.foxnews.com/politics/mysterious-polling-firm-behind-fak
   <p>In reality, the actual election outcomes diverged significantly from the firm's manufactured numbers. In Los Angeles, Mayor Bass narrowly edged Nithya Raman by five points rather than the claimed twelve-point spread. In Wisconsin, David Crowley defeated Francesca Hong in a razor-thin margin, directly contradicting the twenty-point lead Median Strategies had publicized. The company stated that its intent was to study how unverified polling information spreads, yet the fallout has left voters and analysts questioning the reliability of modern data streams.</p>
 
   <div class="ncg-product-card" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B07V5W3Z86?tag=thenewssam-20" target="_blank" rel="noopener">The Psychology of Totalitarianism</a> — $16.99. A deep dive into how propaganda and unverified narratives circulate in mass society.
+    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B07V5W3Z86?tag=thenewssam-20" target="_blank" rel="noopener">The Psychology of Totalitarianism</a> — . A deep dive into how propaganda and unverified narratives circulate in mass society.
   </div>
 
   <h2 id="historical-parallel">A Historical Parallel: Manufactured Realities of the Past</h2>
   <p>The Median Strategies experiment is far from the first time political actors or provocateurs have manufactured consensus to influence public behavior. Looking back through history reveals striking parallels to how societies have repeatedly fallen for fabricated metrics and manufactured consensus.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -41,7 +41,7 @@ Tactical Waterproof Backpack ($35.99)
   <p>During the rise of print journalism in Europe and early America, pamphleteers regularly published fabricated letters, fictitious election returns, and forged council resolutions to sway public opinion. Just as Median Strategies injected unverified numbers into modern social media feeds, eighteenth-century essayists understood that print media often prioritized speed and sensationalism over rigorous fact-checking. Readers eagerly consumed dramatic reports of shifting political tides without any mechanism to verify the underlying data.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -49,26 +49,26 @@ Seagate Portable External Hard Drive ($59.99)
   <p>Throughout the nineteenth and twentieth centuries, governments and political factions frequently utilized fabricated opinion metrics—often disguised as expert reports or straw polls—to create a sense of inevitable victory or defeat. The goal was rarely just information sharing; it was psychological conditioning designed to demoralize political opponents and mobilize supporters through manufactured momentum.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
   <div class="ncg-product-card" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0393356256?tag=thenewssam-20" target="_blank" rel="noopener">Information: A History, A Theory, A Flood</a> — $18.50. An exploration of how information systems have evolved and how societies manage data reliability.
+    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0393356256?tag=thenewssam-20" target="_blank" rel="noopener">Information: A History, A Theory, A Flood</a> — . An exploration of how information systems have evolved and how societies manage data reliability.
   </div>
 
   <h2 id="scripture-reflection">Reflecting on Truth and Integrity</h2>
   <p>This modern polling stunt reminds us of the timeless human struggle with deception. When false information is deliberately introduced into public discourse, it exploits our natural inclination to follow the crowd and believe what aligns with our expectations. Scripture cautions us repeatedly about the dangers of deceit and the importance of anchoring our trust in verified truth rather than circulating rumors.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   
   <p>Proverbs 12:17 reminds us, "An honest witness tells the truth, but a false witness tells lies." Furthermore, Proverbs 14:15 advises, "The simple believe anything, but the prudent give thought to their steps." These ancient words offer a profound critique of our modern information consumption, urging us to exercise discernment rather than passively accepting every viral claim that crosses our screens.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -77,14 +77,14 @@ Tactical Waterproof Backpack ($35.99)
   </div>
 
   <div class="ncg-product-card" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0310451347?tag=thenewssam-20" target="_blank" rel="noopener">NIV, Cultural Backgrounds Study Bible</a> — $34.99. Deepen your understanding of biblical wisdom in historical contexts.
+    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0310451347?tag=thenewssam-20" target="_blank" rel="noopener">NIV, Cultural Backgrounds Study Bible</a> — . Deepen your understanding of biblical wisdom in historical contexts.
   </div>
 
   <h2 id="how-readers-respond">How Should Readers Respond?</h2>
   <p>As digital misinformation grows more sophisticated, readers must adopt proactive habits to protect their information diet:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   <ul>
@@ -94,7 +94,7 @@ Seagate Portable External Hard Drive ($59.99)
   </ul>
 
   <div class="ncg-product-card" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0593334833?tag=thenewssam-20" target="_blank" rel="noopener">Thinking, Fast and Slow</a> — $15.80. Learn how cognitive biases influence our reaction to misleading information.
+    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0593334833?tag=thenewssam-20" target="_blank" rel="noopener">Thinking, Fast and Slow</a> — . Learn how cognitive biases influence our reaction to misleading information.
   </div>
 
   <h2 id="one-last-thought">One Last Thought</h2>

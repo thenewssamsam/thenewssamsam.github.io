@@ -40,7 +40,7 @@ source_url: 'https://www.kyivpost.com/post/82524'
     <p>The primary attraction of these new weapons is simple physics: speed. Traditional propeller drones give defenders ample time to detect, track, and position mobile fire teams or interceptor assets. Faster jet-powered systems compress that crucial decision-making window, threatening to penetrate deeper into defensive layers before interceptors can engage.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
     <p>Yet, military expert Oleh Katkov, editor-in-chief of Defense Express, points out that these weapons occupy an awkward middle ground. They are faster and potentially cheaper than full-fledged cruise missiles, but they lack the sophisticated navigation, electronics, and heavy warhead capabilities of traditional missiles. They are also significantly harder and more expensive to manufacture than standard Shaheds, relying heavily on complex jet engines imported or sourced from overseas networks.</p>
@@ -114,7 +114,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -122,7 +122,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

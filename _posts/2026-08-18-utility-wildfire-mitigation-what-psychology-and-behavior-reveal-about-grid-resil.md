@@ -27,7 +27,7 @@ source_url: 'https://www.renewableenergyworld.com/news/how-can-utilities-build-c
 <p>Energy industry experts are confronting a fundamental redefinition of grid reliability. Mona Fazel of Danovo Energy Solutions recently highlighted this paradigm shift, pointing out that historical weather patterns, legacy load assumptions, and static risk models no longer provide reliable guidance for the future.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>Traditional reliability metrics like SAIDI (System Average Interruption Duration Index) and SAIFI (System Average Interruption Frequency Index) measure standard service continuity, but they fail to capture modern systemic vulnerability. As utilities grapple with elevated wildfire risks, field teams are often forced to operate within fragmented, siloed structures. To bridge these internal gaps, industry leaders are advocating for a transition toward an integrated, centralized Wildfire Management Organization. This centralized model relies on clear accountability, explicit decision rights, and rigorous performance oversight rather than temporary cross-functional committees that dissolve once an immediate crisis passes.</p>
@@ -96,7 +96,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -104,7 +104,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

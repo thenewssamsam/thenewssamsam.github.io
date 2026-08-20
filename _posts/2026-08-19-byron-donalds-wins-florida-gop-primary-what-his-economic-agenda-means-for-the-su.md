@@ -23,18 +23,18 @@ source_url: "https://www.foxnews.com/politics/trumps-handpicked-desantis-success
     <p>In a decisive primary victory, Rep. Byron Donalds emerged as the clear choice for GOP voters, outpacing Lt. Gov. Jay Collins. Donalds, a third-term congressman, has long been a fixture in Florida politics, and his victory underscores the continued influence of the Trump-aligned wing of the party within the state.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <div class="ncg-product-box" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 10px 0;">
-      <strong>Recommended Reading:</strong> <em>The Price of Politics</em> by Bob Woodward - $18.99. <a href="#">View on Amazon</a>
+      <strong>Recommended Reading:</strong> <em>The Price of Politics</em> by Bob Woodward - . <a href="#">View on Amazon</a>
     </div>
 
     <p>Donalds now faces former Republican-turned-Democrat David Jolly in the general election. While the state has trended significantly red over the past decade, both candidates have centered their campaigns on "affordability"—a critical issue for a state grappling with rising insurance costs and housing market pressures.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -44,7 +44,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>From a financial perspective, Donalds’ platform represents a continuation and potential expansion of supply-side economic policies. His emphasis on deregulation is aimed at lowering the cost of doing business, which proponents argue will stimulate job growth and ease the supply constraints currently driving up housing prices.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -52,7 +52,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Donalds has consistently campaigned on reducing the state’s regulatory footprint. For the average Florida household, this often translates to lower administrative costs for businesses, which can theoretically lead to more competitive pricing on goods and services. However, the efficacy of these measures depends heavily on implementation and the state’s ability to manage infrastructure demands.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -61,14 +61,14 @@ Tactical Waterproof Backpack ($35.99)
     </div>
 
     <div class="ncg-product-box" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 10px 0;">
-      <strong>Essential Finance Tool:</strong> <em>Personal Finance Ledger</em> - $12.50. <a href="#">View on Amazon</a>
+      <strong>Essential Finance Tool:</strong> <em>Personal Finance Ledger</em> - . <a href="#">View on Amazon</a>
     </div>
 
     <h3>Infrastructure and Long-Term Fiscal Health</h3>
     <p>A core component of his platform includes growing Florida’s infrastructure and completing the Everglades restoration. These are capital-intensive projects. Balancing the desire for lower taxes with the need for massive public works funding will be the defining fiscal challenge for a potential Donalds administration. Investors and residents alike will be watching how he navigates this balance without ballooning state debt.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -78,14 +78,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>As we observe the political landscape, it is natural to feel anxious about economic stability. Scripture encourages us to view our resources and our responsibilities with a sense of stewardship. We are reminded in <em>1 Peter 4:10</em>: "Each of you should use whatever gift you have received to serve others, as faithful stewards of God’s grace in its various forms."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>This principle applies not just to our personal bank accounts, but to how we view civic leadership. Whether in our own homes or in the halls of government, the goal of leadership should be the flourishing of the community. In <em>Proverbs 29:2</em>, we read: "When the righteous thrive, the people rejoice; when the wicked rule, the people groan." This serves as a timeless reminder that the character and policies of those in power have tangible, real-world consequences for the vulnerable and the hardworking alike.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -99,7 +99,7 @@ Seagate Portable External Hard Drive ($59.99)
     </ul>
 
     <div class="ncg-product-box" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 10px 0;">
-      <strong>Budgeting Aid:</strong> <em>Smart Money Tracker</em> - $15.00. <a href="#">View on Amazon</a>
+      <strong>Budgeting Aid:</strong> <em>Smart Money Tracker</em> - . <a href="#">View on Amazon</a>
     </div>
   </section>
 

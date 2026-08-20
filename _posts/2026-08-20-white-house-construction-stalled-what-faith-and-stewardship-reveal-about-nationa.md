@@ -31,13 +31,13 @@ source_url: "https://www.foxnews.com/opinion/morning-glory-scotus-should-urgentl
     <p>When headlines focus on legal briefs, separation of powers, and architectural blueprints, it is easy to lose sight of the deeper human and moral dimensions at play. Governing a nation involves an immense burden of responsibility—not just for enacting laws, but for safeguarding human life within the halls of leadership.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Scripture frequently addresses the themes of watchful stewardship and the sober duty of leaders to protect those entrusted to their care. When Nehemiah led the effort to rebuild the walls of Jerusalem, he faced significant opposition, bureaucratic delays, and external threats. Yet he recognized that practical fortification and vigilance were inseparable from spiritual trust in God:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <blockquote style="margin: 20px 0; padding: 15px 20px; background-color: #fffaf0; border-left: 4px solid #dd6b20; border-radius: 4px;">
@@ -47,7 +47,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This passage reminds us that maintaining secure boundaries is not born out of paranoia, but out of a fundamental commitment to protect human life. Leaders carry an ordained duty to exercise practical wisdom in shielding their communities and institutions from harm.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -57,13 +57,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Beyond the immediate D.C. Circuit ruling, this controversy highlights a recurring tension in modern civic life: the friction between institutional oversight and urgent operational necessity. In an era defined by rapid technological changes and heightened geopolitical instability, the mechanisms of government must be nimble enough to adapt.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Prudence requires recognizing real-world dangers without yielding to panic. From a faith perspective, wisdom involves looking ahead rather than reacting only after crisis strikes. As Proverbs notes:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <blockquote style="margin: 20px 0; padding: 15px 20px; background-color: #fffaf0; border-left: 4px solid #dd6b20; border-radius: 4px;">
@@ -73,7 +73,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Applying this principle to national infrastructure means acknowledging that ignoring verified vulnerabilities in command-and-control centers is neither wise nor safe. Responsible stewardship demands proactive preparation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

@@ -39,7 +39,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-la
     <p>On Monday, Alibaba rolled out Qwen3.8-27B, a model built specifically to handle complex coding, professional research, and long-horizon agentic tasks on local consumer hardware. Alongside this release, the company opened the weights of its flagship Qwen3.8 Max model, allowing developers worldwide to freely download and run the software.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Toshiba 5400RPM Hard Drive ($49.99)
+Toshiba 5400RPM Hard Drive 
 </a></p>
 
 
@@ -132,7 +132,7 @@ Toshiba 5400RPM Hard Drive ($49.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -140,7 +140,7 @@ Toshiba 5400RPM Hard Drive ($49.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">JIYINGDUO External Hard Drive</a></div>
-    <div class="product-price">$44.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -148,7 +148,7 @@ Toshiba 5400RPM Hard Drive ($49.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">abshoo College Bookbag</a></div>
-    <div class="product-price">$29.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -156,7 +156,7 @@ Toshiba 5400RPM Hard Drive ($49.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Backpack USB Charging Port</a></div>
-    <div class="product-price">$39.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -164,7 +164,7 @@ Toshiba 5400RPM Hard Drive ($49.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

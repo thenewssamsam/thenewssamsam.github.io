@@ -22,7 +22,7 @@ source_url: "https://www.azfamily.com/2026/08/18/lake-powell-lake-mead-hit-recor
   </section>
 
   <div class="ncg-amazon-box" style="border: 2px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 8px;">
-    <strong>Recommended for Preparedness:</strong> <a href="#">Emergency Water Storage Tank (50 Gallons) - $149.99</a>
+    <strong>Recommended for Preparedness:</strong> <a href="#">Emergency Water Storage Tank (50 Gallons) - </a>
   </div>
 
   <section id="faith-perspective">
@@ -30,7 +30,7 @@ source_url: "https://www.azfamily.com/2026/08/18/lake-powell-lake-mead-hit-recor
     <p>In the Christian tradition, we are called to be stewards of the earth—not merely consumers, but caretakers. When we see the water levels of our great reservoirs receding, it serves as a sobering reminder of our dependence on God’s creation and the fragility of the resources we often take for granted.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -41,18 +41,18 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This verse reminds us that we do not "own" the water; we are entrusted with it. A crisis of this magnitude invites us to consider our habits. Are we living with gratitude for the water that flows from our taps, or have we become entitled to an abundance that is not infinite? Stewardship is not just about policy; it is about the posture of our hearts toward the gifts we have been given.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <div class="ncg-amazon-box" style="border: 2px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 8px;">
-      <strong>Home Conservation:</strong> <a href="#">High-Efficiency Low-Flow Showerhead - $29.99</a>
+      <strong>Home Conservation:</strong> <a href="#">High-Efficiency Low-Flow Showerhead - </a>
     </div>
 
     <p>Furthermore, we are reminded of the importance of community and sacrifice. As Proverbs 11:25 says, "A generous person will prosper; whoever refreshes others will be refreshed." In the context of the Colorado River, this suggests that the well-being of our neighbors in different states is bound up with our own. We cannot hoard resources to the detriment of the whole.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -67,7 +67,7 @@ Seagate Portable External Hard Drive ($59.99)
   </section>
 
   <div class="ncg-amazon-box" style="border: 2px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 8px;">
-    <strong>Garden Care:</strong> <a href="#">Drip Irrigation Starter Kit - $45.00</a>
+    <strong>Garden Care:</strong> <a href="#">Drip Irrigation Starter Kit - </a>
   </div>
 
   <section id="closing-prayer">

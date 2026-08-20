@@ -37,7 +37,7 @@ source_url: ''
     <p>According to local reports from ABC7, Los Angeles residents Omar Ahmed and Nausheen Gilkar hired McKenna West to act as their surrogate. During the course of the pregnancy, the fetus was diagnosed with hypoplastic left heart syndrome, a severe and life-threatening congenital heart condition.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>A profound disagreement arose over the medical path forward. The intended parents reportedly wanted to terminate the pregnancy. Instead, West, who resides in Alaska, traveled to Texas and gave birth to the baby, whom the couple named Rumi (while anti-abortion activists have referred to the infant as "Baby Gabriel"). Following the birth, custody was transferred to Ahmed and Gilkar.</p>
@@ -113,7 +113,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -121,7 +121,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

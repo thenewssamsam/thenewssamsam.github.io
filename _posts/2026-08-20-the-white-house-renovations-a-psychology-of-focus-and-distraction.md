@@ -19,7 +19,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/19/trump-white-house-r
   </header>
 
   <section id="introduction">
-    <p>In a week marked by significant national tension—including a rising $40 trillion debt and an ongoing war—President Donald Trump shifted the spotlight to the physical state of the White House grounds. By leading a press tour to showcase new granite driveways, refurbished columns, and a custom-inscribed helipad, the president leaned into his identity as a "builder-in-chief." This move offers a fascinating case study in the psychology of leadership and the human tendency to focus on tangible control when facing systemic, uncontrollable challenges.</p>
+    <p>In a week marked by significant national tension—including a rising  trillion debt and an ongoing war—President Donald Trump shifted the spotlight to the physical state of the White House grounds. By leading a press tour to showcase new granite driveways, refurbished columns, and a custom-inscribed helipad, the president leaned into his identity as a "builder-in-chief." This move offers a fascinating case study in the psychology of leadership and the human tendency to focus on tangible control when facing systemic, uncontrollable challenges.</p>
   </section>
 
   <section id="what-happened">
@@ -27,7 +27,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/19/trump-white-house-r
     <p>During a 40-minute tour of the White House grounds, President Trump highlighted several upgrades, specifically pointing to the quality of the materials used. He emphasized the "flawless granite" of the new driveway and the high-quality sod provided by a campaign contributor, Scotts Miracle-Gro. The centerpiece of the tour was a new, ornate helipad, which the president noted could serve double-duty as a cocktail patio for future events. The event drew immediate criticism from political opponents, including Senator Jon Ossoff, who argued that the focus on aesthetic upgrades reflects a detachment from the pressing duties of the presidency.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-FitVille Comfortable Running Shoes ($69.99)
+FitVille Comfortable Running Shoes 
 </a></div>
 
   </section>
@@ -37,7 +37,7 @@ FitVille Comfortable Running Shoes ($69.99)
     <p>From a behavioral science perspective, the president's focus on "building" during a period of national crisis can be interpreted through the lens of <strong>environmental mastery</strong> and <strong>the endowment effect</strong>. When individuals face complex, macro-level stressors—such as economic instability or foreign conflict—they often experience a sense of powerlessness. To mitigate this, the human brain frequently pivots to smaller, manageable environments where one can exert absolute control.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-AMANSSE Lightweight Running Shoes ($65.99)
+AMANSSE Lightweight Running Shoes 
 </a></div>
 
 
@@ -45,7 +45,7 @@ AMANSSE Lightweight Running Shoes ($65.99)
       <p><strong>"The desire to build and mark one's territory is not just about vanity; it is a psychological mechanism for establishing a legacy that feels permanent in an era of rapid, often chaotic, change."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-AMANSSE Lightweight Running Shoes ($65.99)
+AMANSSE Lightweight Running Shoes 
 </a></div>
 
     </div>
@@ -54,7 +54,7 @@ AMANSSE Lightweight Running Shoes ($65.99)
     <p>For a leader, physical structures serve as a "proof of work." While inflation and war are abstract, difficult-to-solve problems, a granite driveway is concrete. By focusing on these elements, the leader creates a narrative of progress that is easily captured in photos and soundbites, providing a psychological "win" that contrasts with the ambiguity of geopolitical strategy.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-FitVille Comfortable Running Shoes ($69.99)
+FitVille Comfortable Running Shoes 
 </a></div>
 
 
@@ -62,15 +62,15 @@ FitVille Comfortable Running Shoes ($69.99)
     <p>Psychologically, we often cling to our established identities when under pressure. Trump’s consistent refrain—"one thing I know how to do is build"—is a manifestation of <strong>identity preservation</strong>. By reinforcing his role as a real estate expert, he seeks to maintain a sense of competence in the face of external criticism regarding his executive performance.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
 
     <div style="border: 1px solid #ddd; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-        <p><strong>Product Spotlight:</strong> Need to tackle your own home projects? Check out these <strong><a href="#">durable garden tools</a></strong> (starting at $24.99) to help you build your own backyard paradise.</p>
+        <p><strong>Product Spotlight:</strong> Need to tackle your own home projects? Check out these <strong><a href="#">durable garden tools</a></strong> (starting at ) to help you build your own backyard paradise.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-FitVille Comfortable Running Shoes ($69.99)
+FitVille Comfortable Running Shoes 
 </a></div>
 
     </div>
@@ -81,14 +81,14 @@ FitVille Comfortable Running Shoes ($69.99)
     <p>This situation invites us to reflect on the nature of what we build and why. In the Gospel of Matthew, Jesus warns against the tendency to focus on the outward appearance of things while neglecting the "weightier matters" (Matthew 23:23). While maintaining one's home or workplace is a form of stewardship, there is a tension between improving our physical surroundings and addressing the needs of those around us.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
     
     <p>Proverbs 24:3 reminds us: <em>"By wisdom a house is built, and through understanding it is established."</em> This invites us to consider whether our efforts—whether in governance or our personal lives—are rooted in true wisdom and the service of others, or merely in the pursuit of temporary vanity. It is a humble reminder to look beyond the "flagpoles" and "granite" to ensure we are building things that truly last.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-AMANSSE Lightweight Running Shoes ($65.99)
+AMANSSE Lightweight Running Shoes 
 </a></div>
 
   </section>
@@ -98,7 +98,7 @@ AMANSSE Lightweight Running Shoes ($65.99)
     <p>The lesson here isn't to ignore your surroundings, but to ensure your focus remains balanced. In your own life, ask yourself:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-AMANSSE Lightweight Running Shoes ($65.99)
+AMANSSE Lightweight Running Shoes 
 </a></div>
 
     <ul>

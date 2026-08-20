@@ -23,7 +23,7 @@ source_url: "https://www.bbc.com/news/articles/c62emm4yp8go"
   </section>
 
   <div style="background-color: #fcf8e3; border-left: 4px solid #f0ad4e; padding: 12px 16px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0143127748?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #8a6d3b; text-decoration: underline;">The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma</a> - $16.49. Understanding how severe psychological trauma and biological stress impact neurological function.
+    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0143127748?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #8a6d3b; text-decoration: underline;">The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma</a> - . Understanding how severe psychological trauma and biological stress impact neurological function.
   </div>
 
   <section class="ncg-body-section">
@@ -32,7 +32,7 @@ source_url: "https://www.bbc.com/news/articles/c62emm4yp8go"
     <p>In recent testimony, Clancy's former mother-in-law, Susan Clancy, told the court that the defendant had been "begging for help" in the weeks leading up to the tragedy. Witnesses described severe insomnia, radical weight and appetite loss, and profound anxiety. Her mother, Paula Musgrove, testified that Lindsay had confided a month prior that she was experiencing frightening thoughts of harming her children, repeatedly expressing disbelief at her own mental state: "This isn't me, I've never been like this before." Following the incident, Clancy jumped from a second-floor window, leaving her paralyzed and attending the trial in a wheelchair.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -42,31 +42,31 @@ Seagate Portable External Hard Drive ($59.99)
     <p>To understand the testimony surrounding the Lindsay Clancy trial, we must move past standard criminal narratives and examine the clinical reality of postpartum psychosis. Unlike the common "baby blues"—which affect up to 80 percent of new mothers and involve mild mood swings and tearfulness—postpartum psychosis is a rare, terrifying psychiatric emergency affecting roughly one to two in every thousand women.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>From a behavioral and neurological standpoint, postpartum psychosis involves a catastrophic breakdown in executive functioning, reality testing, and emotional regulation. Following childbirth, a steep and sudden drop in estrogen, progesterone, and thyroid hormones can trigger vulnerability in women with specific genetic or neurological sensitivities. Sleep deprivation—such as the severe insomnia reported by Clancy's family—acts as a powerful catalyst, destabilizing neural circuits and inducing delirium-like states.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <div style="background-color: #fcf8e3; border-left: 4px solid #f0ad4e; padding: 12px 16px; margin: 20px 0; border-radius: 4px;">
-      <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0393706133?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #8a6d3b; text-decoration: underline;">The Developing Mind: How Relationships and the Brain Interact to Shape Who We Are</a> - $34.50. Explore the deep connections between neurological health, stress, and relational psychology.
+      <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0393706133?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #8a6d3b; text-decoration: underline;">The Developing Mind: How Relationships and the Brain Interact to Shape Who We Are</a> - . Explore the deep connections between neurological health, stress, and relational psychology.
     </div>
 
     <h3 id="delusions-and-cognitive-distortions">Delusions, Hallucinations, and Cognitive Distortion</h3>
     <p>Testimony in the trial points to severe delusions and daily suicidal ideation. In states of psychotic depression, the brain's internal threat-detection system—primarily the amygdala—malfunctions completely. Instead of processing reality accurately, a mother experiencing postpartum psychosis may become gripped by terrifying, unshakeable beliefs. She may genuinely believe that her children are already doomed, that she is protecting them from an apocalyptic future, or that her own existence is a toxic contagion poisoning her family.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>This is where cognitive distortion reaches its absolute breaking point. The nurturing neural pathways that typically bond a mother to her infant are short-circuited by acute neurochemical imbalances. When family members testified that Lindsay Clancy was "begging for help," it highlights an agonizing window of awareness where the individual recognizes that their internal reality is slipping away, yet standard medical interventions failed to stabilize the crisis in time.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -76,7 +76,7 @@ Seagate Portable External Hard Drive ($59.99)
   </div>
 
   <div style="background-color: #fcf8e3; border-left: 4px solid #f0ad4e; padding: 12px 16px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/150117134X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #8a6d3b; text-decoration: underline;">The Deepest Well: Healing the Long-Term Effects of Childhood Adversity</a> - $14.19. Insights into systemic health, mental resilience, and physiological stress responses.
+    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/150117134X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #8a6d3b; text-decoration: underline;">The Deepest Well: Healing the Long-Term Effects of Childhood Adversity</a> - . Insights into systemic health, mental resilience, and physiological stress responses.
   </div>
 
   <section class="ncg-body-section">
@@ -84,19 +84,19 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When human suffering reaches such profound depths, society is forced to look beyond clinical charts and legal arguments into the moral and spiritual fabric of our shared humanity. The scriptural witness frequently acknowledges the deep fragility of the human mind and spirit when overwhelmed by grief, terror, and isolation. In Psalm 34:18, we are reminded that "the Lord is close to the brokenhearted and saves those who are crushed in spirit." This perspective invites us to view profound psychological distress not merely through the cold lens of judgment, but with deep-seated human empathy for what it means to be physically and mentally frail.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Similarly, Proverbs 17:22 notes that "a cheerful heart is good medicine, but a crushed spirit dries up the bones." The physical exhaustion, sleeplessness, and overwhelming despair described by Clancy's family illustrate how completely a crushed spirit can debilitate a person. While justice and accountability remain essential pillars of society, a truly wise community also recognizes the urgent necessity of extending compassion, removing the suffocating stigma surrounding maternal mental illness, and ensuring that those crying out for help are met with immediate, life-saving intervention.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <div style="background-color: #fcf8e3; border-left: 4px solid #f0ad4e; padding: 12px 16px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0316485616?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #8a6d3b; text-decoration: underline;">The Boy Who Was Raised As a Dog: And Other Stories from a Child Psychiatrist's Notebook</a> - $14.99. A compassionate exploration of trauma, brain development, and psychological recovery.
+    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0316485616?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #8a6d3b; text-decoration: underline;">The Boy Who Was Raised As a Dog: And Other Stories from a Child Psychiatrist's Notebook</a> - . A compassionate exploration of trauma, brain development, and psychological recovery.
   </div>
 
   <section class="ncg-body-section">
@@ -104,7 +104,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Tragedies like the Lindsay Clancy case leave communities shaken, but they also offer vital lessons for supporting maternal health and psychological safety:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <ul>
@@ -115,7 +115,7 @@ Tactical Waterproof Backpack ($35.99)
   </section>
 
   <div style="background-color: #fcf8e3; border-left: 4px solid #f0ad4e; padding: 12px 16px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0525534164?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #8a6d3b; text-decoration: underline;">Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones</a> - $14.00. Focus on mental frameworks and steady behavioral improvements.
+    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0525534164?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #8a6d3b; text-decoration: underline;">Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones</a> - . Focus on mental frameworks and steady behavioral improvements.
   </div>
 
   <section class="ncg-closing-section" style="background: #fafafa; padding: 20px; border-radius: 6px; margin-top: 30px;">
@@ -124,7 +124,7 @@ Tactical Waterproof Backpack ($35.99)
   </section>
 
   <div style="background-color: #fcf8e3; border-left: 4px solid #f0ad4e; padding: 12px 16px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0062457713?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #8a6d3b; text-decoration: underline;">The 5 Love Languages: The Secret to Love that Lasts</a> - $9.89. Strengthening interpersonal communication and relational support systems.
+    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0062457713?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #8a6d3b; text-decoration: underline;">The 5 Love Languages: The Secret to Love that Lasts</a> - . Strengthening interpersonal communication and relational support systems.
   </div>
 
   <footer class="ncg-article-footer" style="margin-top: 30px; border-top: 1px solid #ddd; padding-top: 15px;">

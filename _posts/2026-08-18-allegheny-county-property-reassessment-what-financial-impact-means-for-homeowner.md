@@ -34,10 +34,10 @@ source_url: 'https://www.thecentersquare.com/pennsylvania/article_d5640d30-a03f-
   <section id="what-happened">
     <h2>What Happened in Allegheny County?</h2>
     <p>Property owners in Allegheny County are facing a major shakeup in how their real estate is valued for taxation. A state court has formally ordered the county to begin a comprehensive property reassessment next year, with a five-year window to complete the first round and subsequent reviews scheduled every five years.</p>
-    <p>For a county that includes Pittsburgh and dozens of surrounding municipalities, this order breaks a 14-year freeze on countywide property valuations. Investigations reveal that properties in the area have recently been assessed at roughly half their actual market value—meaning a home or business worth $200,000 has been taxed as if it were worth only $100,000.</p>
+    <p>For a county that includes Pittsburgh and dozens of surrounding municipalities, this order breaks a 14-year freeze on countywide property valuations. Investigations reveal that properties in the area have recently been assessed at roughly half their actual market value—meaning a home or business worth ,000 has been taxed as if it were worth only ,000.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>While an artificially low valuation might sound like a bargain at first glance, the reality of municipal finance tells a different story. When assessed values lag far behind market reality, local governments and school districts are forced to raise millage rates simply to keep basic public services running.</p>
@@ -150,7 +150,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -158,7 +158,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

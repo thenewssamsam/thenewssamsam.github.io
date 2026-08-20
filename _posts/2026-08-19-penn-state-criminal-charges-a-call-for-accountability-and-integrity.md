@@ -28,7 +28,7 @@ source_url: "https://www.psu.edu/news/campus-life/story/penn-state-responds-seri
     <p>In the wake of such news, it is natural to feel a sense of disappointment. From a biblical perspective, our actions are never truly private; they impact the community around us and reflect the values we hold. Proverbs 10:9 reminds us, <em>"Whoever walks in integrity walks securely, but he who makes his ways crooked will be found out"</em> (ESV). This verse invites us to consider that true security—for a student, an organization, or a university—is found in alignment with truth, not in the shadows of hidden misconduct.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -39,7 +39,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The situation at Penn State highlights the tension between individual autonomy and communal accountability. When organizations exist, they are called to be stewards of the lives entrusted to them. When that stewardship is violated through criminal activity or hazing, it is not just a policy failure; it is a moral one. We are reminded of the call in Galatians 6:1: <em>"Brothers and sisters, if someone is caught in a sin, you who live by the Spirit should restore that person gently. But watch yourselves, or you also may be tempted."</em> This teaches us that while justice and accountability are necessary, our hearts should remain aimed at restoration and the prevention of future harm.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

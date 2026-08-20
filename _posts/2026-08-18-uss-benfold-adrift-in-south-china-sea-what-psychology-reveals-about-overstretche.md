@@ -35,7 +35,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/17/us-navy-destroyer-s
 <p>The consequences for the crew were immediate and deeply uncomfortable. Without power, the sailors lost air conditioning in the tropical heat, functional toilets, and galley services. Conditions deteriorated to the point where another vessel in the strike group, the cruiser USS Robert Smalls, had to ferry meals over to feed the stranded crew.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 <p>The ship lost power on July 24 and was finally towed to Subic Bay in the Philippines on July 28. Power was restored two days later, and naval officials were quick to praise the crew's resilience and professionalism. No injuries were reported. Yet, an advanced warship drifting helpless for nearly a week is not merely a mechanical anomaly—it is a glaring symptom of a fleet running on fumes.</p>
@@ -169,7 +169,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -177,7 +177,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

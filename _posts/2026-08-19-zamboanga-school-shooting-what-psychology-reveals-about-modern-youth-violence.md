@@ -40,13 +40,13 @@ source_url: "https://apnews.com/article/philippines-zamboanga-school-shooting-fe
 <p>Interior Secretary Jonvic Remulla noted that the suspect captured snippets of his assault on Facebook Live while climbing the stairs. Investigators are examining his digital footprint, including gaming and chat histories, to understand the path that led to the tragedy. Compounding the community's grief, officials confirmed that one of the weapons used was a government-issued firearm belonging to the suspect's father, a Bureau of Customs police commander.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <p>This event marks the second fatal school shooting in the Philippines in two months, following a June incident in Tacloban that left three students dead. Coming hard on the heels of a horrific school attack in Thailand, Southeast Asia is facing a deeply unsettling regional trend that demands more than just heightened campus security.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -56,13 +56,13 @@ Seagate Portable External Hard Drive ($59.99)
 <p>To understand an act so horrific, we have to look past the surface panic and examine the underlying behavioral patterns. Psychologists who study adolescent violence often point to a toxic cocktail of severe isolation, grievances amplified by online echo chambers, and a profound distortion of reality brought on by digital saturation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <p>When an adolescent feels completely invisible in the physical world, the digital realm can become a dangerous substitute for reality. In some troubled subcultures online, notoriety is currency. The decision to livestream an act of violence is rarely just an impulsive outburst; it is often the final, desperate bid for visibility by someone who feels utterly disconnected from humanity.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -70,7 +70,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>"When a young person feels entirely unseen by their community, the digital world can warp isolation into a horrific cry for attention—turning invisible pain into public catastrophe."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </blockquote>
@@ -78,7 +78,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>Psychologists refer to the erosion of empathy in these scenarios as a consequence of radical detachment. Online gaming apps and unmonitored chat rooms sometimes act as incubators where violent fantasies are normalized, stripped of their real-world horror. While investigators in the Philippines are rightly looking into gaming histories and online platforms like Gorebox—which authorities previously sought to block following the Tacloban shooting—the root problem remains a human heart in crisis. Technology doesn't create malice on its own, but it can accelerate and amplify despair in minds that lack the emotional resilience to cope with life's pressures.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -88,19 +88,19 @@ Tactical Waterproof Backpack ($35.99)
 <p>Moments like this force us to confront not just behavioral science, but the deeper moral and spiritual dimensions of human suffering. When a young life ends in such devastation, it reminds us of the profound brokenness that can take root when hope is extinguished. It makes me think of the quiet battles fought in the minds of our youth every single day—battles that too often go unnoticed until it is too late.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <p>Scripture offers a sobering perspective on the condition of a soul overwhelmed by darkness. Proverbs 4:23 advises, "Keep your heart with all vigilance, for from it flow the springs of life." When hearts are flooded with isolation, anger, and despair, the output can become destructive beyond measure. Yet, the Bible also speaks repeatedly to the precious value of every human life and the comfort God offers to the brokenhearted.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <p>Psalm 34:18 reminds us, "The Lord is near to the brokenhearted and saves the crushed in spirit." This truth invites us to look around our own communities with greater compassion. It challenges us to notice the invisible kid in the hallway, the withdrawn teenager, or the friend who is quietly drowning. Healing a culture in crisis requires more than police reports and security gates; it requires a restoration of genuine human connection, grace, and watchful care.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -110,7 +110,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>It is easy to feel helpless when reading headlines from halfway across the world, but every parent, educator, and community member has a sphere of influence. Here are practical ways to navigate these heavy realities:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <ul>

@@ -24,7 +24,7 @@ source_url: "https://www.nbcnews.com/politics/2026-primary-special-elections/flo
     <p>In a decisive result for the GOP, Ashley Moody claimed nearly 80% of the vote, signaling strong party consolidation behind the incumbent. On the Democratic side, Angie Nixon secured an upset victory over Alex Vindman, capturing 56% of the vote. With 99% of expected votes counted, both candidates are now preparing to take their platforms to the statewide electorate.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>
@@ -33,7 +33,7 @@ Crevice Cleaning Brush Set ($12.99)
     <p><strong>Shareable Insight:</strong> "Election results aren't just about party labels; they define the specific policy priorities that will shape the infrastructure, economy, and community health of every Florida county."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </div>
@@ -43,7 +43,7 @@ Crevice Cleaning Brush Set ($12.99)
     <p>For the average Floridian, the shift in Senate representation is more than just a headline. It dictates the federal resources that flow into our ports, agriculture, and disaster preparedness programs.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     
@@ -51,15 +51,15 @@ Crevice Cleaning Brush Set ($12.99)
     <p>Whether you live in the panhandle or the tip of the peninsula, federal Senate policy influences local business climates. Moody’s platform, rooted in the current administration’s focus, suggests a continuation of existing economic policies. Meanwhile, Nixon’s campaign has prioritized grassroots economic development, which often leans toward localized infrastructure investment.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     
     <div style="border-left: 5px solid #2ecc71; padding: 10px; background-color: #f9f9f9; margin: 15px 0;">
-      <p><strong>Recommended Resource:</strong> <a href="#">Florida Local Economy Guidebook</a> - $14.99. Understand how state policies impact your local business.</p>
+      <p><strong>Recommended Resource:</strong> <a href="#">Florida Local Economy Guidebook</a> - . Understand how state policies impact your local business.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     </div>
@@ -68,7 +68,7 @@ Crevice Cleaning Brush Set ($12.99)
     <p>Florida’s unique geography—prone to hurricanes and rising sea levels—means that federal funding for coastal protection and emergency management is a top-tier local issue. Both candidates are now under pressure to articulate how they will secure federal dollars for local resilience projects.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>
@@ -78,13 +78,13 @@ Crevice Cleaning Brush Set ($12.99)
     <p>The intensity of an election season often highlights the divisions in our society, but it also invites us to consider our duty to one another as neighbors. The Bible reminds us, <em>"Let every person be quick to hear, slow to speak, slow to anger"</em> (James 1:19, ESV). This wisdom is particularly relevant as we transition from the heat of the primary to the general election.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     <p>I find myself reflecting on the concept of stewardship—not just of our nation, but of our local communities. We are called to seek the welfare of the city where we dwell (Jeremiah 29:7). Regardless of which political candidate one supports, the responsibility remains to engage with grace, listen to those with different perspectives, and contribute to the peace and flourishing of our local towns and cities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>
@@ -103,7 +103,7 @@ Crevice Cleaning Brush Set ($12.99)
     <p>The 2026 Florida Senate race is now set, but the real work of civic engagement is just beginning. By focusing on local impacts rather than just national rhetoric, voters can ensure their specific community needs remain at the forefront of the conversation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     

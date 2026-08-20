@@ -73,11 +73,11 @@ source_url: 'https://www.foxbusiness.com/markets/l3harris-ousts-ceo-kubasik-over
   <p>L3Harris Technologies shocked the defense sector on Monday by revealing that chief executive Christopher Kubasik had stepped down following an internal probe assisted by outside legal counsel. The board of directors determined that Kubasik engaged in conduct inconsistent with the corporation's published code of values, triggering an immediate separation agreement.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
   <p>Crucially, both the board and the company's preliminary statements drew a sharp line between Kubasik's personal conduct and the enterprise's fiscal integrity. The report noted that the violation had nothing to do with financial reporting, accounting controls, customer relationships, or operational metrics. Even so, the fallout was swift: Reuters reported that under the terms of the separation agreement, Kubasik forfeited all severance payments, benefits, and unvested equity incentive awards, though he retains previously vested stock options earned during his tenure.</p>
-  <p>To steer the firm through the transition, the board appointed Sam Mehta—formerly president of the space, mission systems, and communications segments—as the new president and CEO. Lewis Hay III, lead independent director, assumed the role of chairman, emphasizing that robust succession planning allowed the $278-billion-plus defense contractor to pivot instantly.</p>
+  <p>To steer the firm through the transition, the board appointed Sam Mehta—formerly president of the space, mission systems, and communications segments—as the new president and CEO. Lewis Hay III, lead independent director, assumed the role of chairman, emphasizing that robust succession planning allowed the -billion-plus defense contractor to pivot instantly.</p>
 
   <h2 id="psychology-perspective" class="ncg-section-heading">A Psychology Perspective: Power, Blind Spots, and the Hubris Trap</h2>
   <p>When high-performing leaders fall from grace over behavioral infractions rather than professional incompetence, observers are often baffled. How can someone successfully orchestrate a multi-billion-dollar merger—as Kubasik did in uniting L3 and Harris Corp. in 2019, followed by the Aerojet Rocketdyne acquisition—yet stumble on fundamental codes of conduct?</p>
@@ -155,7 +155,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -163,7 +163,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

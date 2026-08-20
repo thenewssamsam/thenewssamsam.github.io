@@ -39,14 +39,14 @@ source_url: "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceas
 <p>The fragile 60-day ceasefire between the United States and Iran has officially expired and been abandoned by both sides. President Donald Trump announced that the U.S. has no talks scheduled with Tehran, contradicting earlier assertions and insisting via social media that the Strait of Hormuz is open and cleared of water mines. Meanwhile, military authorities in the United Arab Emirates reported that two ballistic missiles launched from Iran were detected crossing into UAE waters.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Traffic through the strait—which historically handled roughly 20% of the world's oil trade—remains severely restricted. With sporadic attacks on commercial vessels, threats from Iranian military officials, and U.S. warnings directed even at traditional regional partners like Oman, energy markets are feeling the strain. Analysts from Eurasia Group suggest that both nations are digging in for a longer standoff, pushing realistic hopes for comprehensive de-escalation further out on the horizon.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -56,14 +56,14 @@ Tactical Waterproof Backpack ($35.99)
 <p>When we look at international crises through the lens of Scripture, we are reminded that large-scale geopolitical conflicts often spring from the same root causes that plague individual human relationships: pride, unbridled ambition, and a refusal to seek humility.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Proverbs 13:10 reminds us directly of where contention begins:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -74,7 +74,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>In the theater of global politics, nations frequently posture with absolute certainty, rejecting dialogue in favor of coercion or retaliation. When leaders harden their positions and view compromise as weakness, the inevitable result is escalating friction. Scripture consistently warns against the dangers of pride:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -82,7 +82,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>"Pride goes before destruction, and a haughty spirit before a fall." (Proverbs 16:18, ESV)</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </blockquote>
@@ -90,7 +90,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>This principle does not imply that governments should abandon national defense or ignore genuine threats. Rather, it invites us to examine the spiritual posture behind human conflicts. When leaders trust entirely in military might, economic blockades, or political bluster while shutting the door to honest dialogue, they step outside the bounds of true wisdom.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -106,7 +106,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>This informational fog can easily foster anxiety and confusion among observers worldwide. Yet the Bible encourages discernment in times of widespread uncertainty. Ephesians 5:15-16 urges believers:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -117,7 +117,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>In an era where political rhetoric often outpaces reality, Christians are called to anchor their minds in truth rather than being tossed about by every conflicting report or sensational headline. We are reminded that human falsehood and manipulation are ancient tools used by rulers throughout history to project strength or mask vulnerability.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -128,7 +128,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>When faced with news of escalating international conflict, rising energy costs, and the threat of wider war, it is easy to shift between fear and cynicism. However, Scripture offers a constructive, grounded path forward for believers:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 

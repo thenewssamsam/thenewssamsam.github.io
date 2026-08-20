@@ -25,7 +25,7 @@ source_url: "https://www.foxnews.com/us/penn-state-cocaine-bust-nets-14-arrests-
     <p>For parents of college students or high schoolers preparing for the transition, this story is a sobering reminder that "peer pressure" doesn't end at the high school gates. In the college environment, the stakes—and the potential for long-term legal and personal consequences—are significantly higher.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -33,7 +33,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p><strong>"The goal isn't to scare our children, but to equip them with the discernment to recognize when a 'tradition' or 'social expectation' crosses the line into dangerous, illegal territory."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -50,13 +50,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This situation brings to mind the ancient warning: <em>"Do not be misled: 'Bad company corrupts good character.'"</em> (1 Corinthians 15:33, NIV). It is a poignant reminder that the environments we choose—and the people we surround ourselves with—profoundly shape our decisions and our future.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>I am often reminded that wisdom is not just about knowing the rules; it is about having the courage to walk away when the path ahead leads to destruction. As Proverbs 4:14-15 (NIV) advises, <em>"Do not set foot on the path of the wicked or walk in the way of evildoers. Avoid it, do not travel on it; turn from it and go on your way."</em> This speaks to the need for personal integrity, even when it means standing alone against the crowd.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -66,7 +66,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>If you are concerned about your child’s environment, consider these concrete steps:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ol>

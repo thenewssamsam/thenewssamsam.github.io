@@ -11,7 +11,7 @@ source_url: 'https://nypost.com/2026/08/16/us-news/country-hick-kentucky-farmers
 ---
 <article>
   <header>
-    <h1>Kentucky Farmers Reject $26M AI Data Center Offer: What Faith and Stewardship Reveal About Land</h1>
+    <h1>Kentucky Farmers Reject M AI Data Center Offer: What Faith and Stewardship Reveal About Land</h1>
     <div class="ncg-meta-bar">
       <time datetime="2026-08-16">Published: August 16, 2026</time>
       <span class="ncg-dot">•</span>
@@ -69,12 +69,12 @@ source_url: 'https://nypost.com/2026/08/16/us-news/country-hick-kentucky-farmers
     }
   </style>
 
-  <p>When an anonymous tech giant—widely reported to be Meta—knocked on the door of a historic Kentucky farm with a staggering $26.4 million offer, most people would have started calculating their early retirement. But Delsia Bare and her mother, Ida Huddleston, had a much different metric for value. Self-described "country hicks" tending to land that has been in their family for two centuries, the mother-daughter duo delivered a blunt, six-word refusal that has since captured national attention: <em>"Kick rocks and don't come back."</em></p>
+  <p>When an anonymous tech giant—widely reported to be Meta—knocked on the door of a historic Kentucky farm with a staggering  million offer, most people would have started calculating their early retirement. But Delsia Bare and her mother, Ida Huddleston, had a much different metric for value. Self-described "country hicks" tending to land that has been in their family for two centuries, the mother-daughter duo delivered a blunt, six-word refusal that has since captured national attention: <em>"Kick rocks and don't come back."</em></p>
 
   <p>In a rush toward artificial intelligence infrastructure that treats rural acreage as blank slate real estate for sprawling server farms, this small-town conflict in Maysville, Kentucky, cuts much deeper than local zoning laws. It touches on an ancient human question: what are we truly responsible for guarding?</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -82,7 +82,7 @@ Tactical Waterproof Backpack ($35.99)
 
   <h2 id="what-happened">What Happened in Maysville?</h2>
 
-  <p>According to reports from the <em>Wall Street Journal</em>, Delsia Bare and Ida Huddleston initially entertained discussions to sell their combined 534 acres in Maysville, Kentucky. The payout was extraordinarily generous—$48,000 per acre for Bare's 463 acres, and $60,000 an acre for Huddleston's 71 acres, totaling over $26 million, well above current market valuation.</p>
+  <p>According to reports from the <em>Wall Street Journal</em>, Delsia Bare and Ida Huddleston initially entertained discussions to sell their combined 534 acres in Maysville, Kentucky. The payout was extraordinarily generous—,000 per acre for Bare's 463 acres, and ,000 an acre for Huddleston's 71 acres, totaling over  million, well above current market valuation.</p>
 
   <p>However, the negotiations screeched to a halt once the family discovered the buyer's true intent: transforming generations of fertile farmland into an industrial data center hub designed to power energy-hungry artificial intelligence bots. Rather than signing the deed, Bare and Huddleston backed out entirely. Their refusal has triggered local division in Maysville, where some residents have welcomed the economic boom and land sales, while others have joined lawsuits to halt the rapid industrialization of their rural community.</p>
 
@@ -107,7 +107,7 @@ Tactical Waterproof Backpack ($35.99)
   <div class="ncg-quote-box">
     "A faithful person will be richly blessed, but one eager to get rich will not go unpunished." — Proverbs 28:20 (NIV)
     <br><br>
-    <em>Relevance to this event:</em> Walking away from $26 million sounds foolish by secular standards, but Proverbs highlights that integrity and stewardship carry a reward that financial payouts cannot replace.
+    <em>Relevance to this event:</em> Walking away from  million sounds foolish by secular standards, but Proverbs highlights that integrity and stewardship carry a reward that financial payouts cannot replace.
   </div>
 
   <div class="ncg-share-box">
@@ -134,7 +134,7 @@ Tactical Waterproof Backpack ($35.99)
   <section class="ncg-faq">
     <h2>Frequently Asked Questions</h2>
     <details>
-      <summary>Who offered $26 million to the Kentucky farmers?</summary>
+      <summary>Who offered  million to the Kentucky farmers?</summary>
       <p>Representatives from an anonymous business approached the family, though the Wall Street Journal reported the enterprise is connected to Meta.</p>
     </details>
     <details>
@@ -163,8 +163,8 @@ Tactical Waterproof Backpack ($35.99)
   {
     "@context": "https://schema.org",
     "@type": "NewsArticle",
-    "headline": "Kentucky Farmers Reject $26M AI Data Center Offer: What Faith and Stewardship Reveal About Land",
-    "description": "Kentucky farmers Delsia Bare and Ida Huddleston rejected a $26.4M offer from an AI company to protect their 200-year family farm. Discover the faith and stewardship perspective.",
+    "headline": "Kentucky Farmers Reject M AI Data Center Offer: What Faith and Stewardship Reveal About Land",
+    "description": "Kentucky farmers Delsia Bare and Ida Huddleston rejected a M offer from an AI company to protect their 200-year family farm. Discover the faith and stewardship perspective.",
     "datePublished": "2026-08-16",
     "author": {
       "@type": "Organization",
@@ -183,7 +183,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -191,7 +191,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

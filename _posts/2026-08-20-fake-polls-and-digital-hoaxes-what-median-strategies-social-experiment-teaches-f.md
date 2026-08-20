@@ -122,7 +122,7 @@ source_url: "https://www.foxnews.com/politics/mysterious-polling-firm-behind-fak
 
   <div class="ncg-amazon-box">
     <span>Recommended Family Media Literacy Resource: </span>
-    <a href="https://www.amazon.com/dp/B08N5K2V9S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Tech-Wise Family: Everyday Steps for Putting Technology in Its Proper Place ($14.99)</a>
+    <a href="https://www.amazon.com/dp/B08N5K2V9S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Tech-Wise Family: Everyday Steps for Putting Technology in Its Proper Place </a>
   </div>
 
   <p>In a digital landscape where information travels at the speed of a swipe, sorting fact from fabrication has become an everyday challenge. Recently, a political polling outfit called Median Strategies shut its doors after dropping a bombshell confession: the surveys it had published regarding high-profile primary races in Los Angeles and Wisconsin were entirely fake, cooked up as a so-called "social experiment" to watch how misinformation spreads.</p>
@@ -134,19 +134,19 @@ source_url: "https://www.foxnews.com/politics/mysterious-polling-firm-behind-fak
   <p>According to reports, Median Strategies released fabricated surveys showing major leads for specific political candidates, including Los Angeles mayoral candidate Karen Bass and Wisconsin gubernatorial candidate Francesca Hong. These numbers quickly escaped into the wild, getting picked up on social media, by local TV broadcasts, and through online news platforms.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
   <div class="ncg-amazon-box">
     <span>Critical Thinking Aid: </span>
-    <a href="https://www.amazon.com/dp/B09V3JH89M?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Calling Bullshit: The Art of Skepticism in a Data-Driven World ($16.99)</a>
+    <a href="https://www.amazon.com/dp/B09V3JH89M?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Calling Bullshit: The Art of Skepticism in a Data-Driven World </a>
   </div>
 
   <p>After the primary election results rolled in—revealing much tighter races and contradicting the viral numbers—the firm abruptly posted a statement on its website claiming the polls were merely a short-term social experiment designed to examine how unverified polling data infects the political ecosystem. While the creators walked away anonymous, the digital footprint of their deception left real confusion in its wake.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -155,20 +155,20 @@ Seagate Portable External Hard Drive ($59.99)
   <p>When headlines feature adults running elaborate hoaxes just to see if people will bite, it highlights a broader cultural vulnerability. Children today grow up surrounded by algorithms designed to trigger emotional reactions rather than convey objective truth. If a polished graphic with official-looking percentages crosses a teenager's TikTok or Instagram feed, their default setting is often to accept it at face value.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
   <p>Helping kids develop healthy skepticism does not mean turning them into cynical hermits. Rather, it means equipping them with practical cognitive tools. Proverbs offers timeless wisdom on the danger of accepting every word at face value: <q>The simple believes anything, but the prudent gives thought to his steps.</q> (Proverbs 14:15, ESV). In our modern context, giving thought to our steps means teaching our kids to pause before sharing, liking, or repeating sensational claims.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
   <div class="ncg-amazon-box">
     <span>Family Communication Tool: </span>
-    <a href="https://www.amazon.com/dp/0736966807?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Conversations That Matter: Talking with Your Kids Out of Media Influences ($12.99)</a>
+    <a href="https://www.amazon.com/dp/0736966807?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Conversations That Matter: Talking with Your Kids Out of Media Influences </a>
   </div>
 
   <div class="ncg-share-box">
@@ -180,7 +180,7 @@ Seagate Portable External Hard Drive ($59.99)
   <p>Tackling digital misinformation requires different strategies depending on your child's developmental stage. Here is how you can approach media literacy across different age brackets:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -188,7 +188,7 @@ Seagate Portable External Hard Drive ($59.99)
   <p>At this age, kids are just beginning to understand the difference between make-believe and reality. When stories come up on television or the family tablet:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   <ul>
@@ -200,7 +200,7 @@ Tactical Waterproof Backpack ($35.99)
   <p>Tweens are encountering independent online spaces and school research tasks. This is the ideal window to introduce the concept of primary sources.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   <ul>
@@ -210,14 +210,14 @@ Tactical Waterproof Backpack ($35.99)
 
   <div class="ncg-amazon-box">
     <span>Parenting Guide: </span>
-    <a href="https://www.amazon.com/dp/031035515X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Tech-Wise Family Discussion Guide ($9.99)</a>
+    <a href="https://www.amazon.com/dp/031035515X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Tech-Wise Family Discussion Guide </a>
   </div>
 
   <h3>For Teens (Ages 14–18): Deep-Dive Media Analysis</h3>
   <p>Teenagers are heavy consumers of social media news aggregators. They need mature analytical frameworks.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   <ul>
@@ -230,7 +230,7 @@ Seagate Portable External Hard Drive ($59.99)
   <p>Incidents like the Median Strategies hoax remind us that truth is precious and easily manipulated in a fallen world. Scripture reminds us of the value of integrity and honest communication: <q>The Lord detests lying lips, but he delights in people who are trustworthy.</q> (Proverbs 12:22, NIV). When public experiments treat public trust as a testing ground for deception, it erodes the fabric of community. As families, cultivating truthfulness in our own conversations builds an anchor against the shifting tides of digital noise.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -241,7 +241,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p>Median Strategies was a political polling firm that recently admitted to publishing fabricated election surveys as a "social experiment" before shutting its doors.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </details>
@@ -250,7 +250,7 @@ Tactical Waterproof Backpack ($35.99)
       <p>The firm released fake polls concerning the Democratic mayoral primary in Los Angeles and the Democratic gubernatorial primary in Wisconsin.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </details>

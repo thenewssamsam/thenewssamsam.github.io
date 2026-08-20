@@ -15,7 +15,7 @@ source_url: "https://www.foxnews.com/politics/progressive-florida-lawmaker-angie
     </header>
 
     <section id="news-hook">
-        <p>In a stunning Florida Democratic Senate primary upset, state Representative Angie Nixon has defeated retired Army Lt. Col. Alex Vindman. Despite a massive fundraising disadvantage—Vindman reported over $14 million in receipts compared to Nixon’s $625,000—the progressive lawmaker secured the nomination. She will now face Republican Senator Ashley Moody in the general election for the remainder of Marco Rubio’s former Senate seat.</p>
+        <p>In a stunning Florida Democratic Senate primary upset, state Representative Angie Nixon has defeated retired Army Lt. Col. Alex Vindman. Despite a massive fundraising disadvantage—Vindman reported over  million in receipts compared to Nixon’s ,000—the progressive lawmaker secured the nomination. She will now face Republican Senator Ashley Moody in the general election for the remainder of Marco Rubio’s former Senate seat.</p>
     </section>
 
     <div style="border-left: 5px solid #d4af37; background-color: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
@@ -27,16 +27,16 @@ source_url: "https://www.foxnews.com/politics/progressive-florida-lawmaker-angie
         <p>The race was widely viewed as a test of national profile versus grassroots organizing. Alex Vindman entered the race with significant name recognition from his role as a witness in the first impeachment of Donald Trump. However, Nixon, a Jacksonville-based organizer and state representative, leveraged her ties to labor movements and community service to mobilize voters. This result signals a potential shift in the Florida Democratic Party, favoring candidates with strong local organizational roots over those backed by national donor networks.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </section>
 
     <div style="border-left: 5px solid #f1c40f; background-color: #fff8e1; padding: 15px; margin: 20px 0;">
-        <p><strong>Recommended for You:</strong> <a href="#">Journal of Political History (Hardcover) - $24.99</a></p>
+        <p><strong>Recommended for You:</strong> <a href="#">Journal of Political History (Hardcover) - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -46,30 +46,30 @@ Seagate Portable External Hard Drive ($59.99)
         <p>From a Christian perspective, the outcome of this primary—or any election—invites us to reflect on the nature of influence. We often equate success with the metrics of the world: money, notoriety, and establishment backing. Yet, the biblical narrative frequently highlights the "upset"—the unexpected victory of the overlooked. When we view political contests through this lens, we are reminded that power is a stewardship. Whether one is a high-profile figure or a local organizer, the ultimate question remains: to whom is this influence directed, and does it serve the common good as God defines it?</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
         <p>This situation reminds me of the words in <strong>Proverbs 21:1</strong>: "The king's heart is a stream of water in the hand of the Lord; he turns it wherever he will." This gives us a sense of peace even in the volatile world of politics. It suggests that while candidates campaign and voters cast ballots, there is a higher order at work. It prevents us from placing our ultimate hope in any single political outcome or individual, reminding us that true security is not found in the halls of the Senate, but in the sovereignty of God.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
         <p>Furthermore, consider <strong>Philippians 2:3-4</strong>: "Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves. Let each of you look not only to his own interests, but also to the interests of others." This is the standard by which all public servants should be measured. As Nixon moves to the general election, the discourse will likely turn toward policy disagreements—abolishing ICE, rent freezes, and economic priorities. For the Christian observer, the task is to look past the rhetoric and prayerfully consider which policies best reflect the biblical mandate to protect the vulnerable, uphold justice, and love our neighbors as ourselves.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </section>
 
     <div style="border-left: 5px solid #f1c40f; background-color: #fff8e1; padding: 15px; margin: 20px 0;">
-        <p><strong>Recommended for You:</strong> <a href="#">Understanding Public Policy: A Guide - $19.95</a></p>
+        <p><strong>Recommended for You:</strong> <a href="#">Understanding Public Policy: A Guide - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -79,7 +79,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p>Responding to political shifts requires more than just casting a ballot. It requires an active, engaged, and prayerful approach:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         <ul>
@@ -94,7 +94,7 @@ Seagate Portable External Hard Drive ($59.99)
         <p>The victory of Angie Nixon over Alex Vindman is a reminder that the political landscape is always in flux. As voters prepare for the general election in November, the focus should remain on the issues that affect the lives of everyday people. Politics is a tool, but it is not our savior. By rooting our perspective in faith and our actions in love, we can contribute to a more just and compassionate society.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         

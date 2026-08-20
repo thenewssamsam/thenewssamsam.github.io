@@ -26,7 +26,7 @@ source_url: "https://www.foxnews.com/politics/iran-fails-strike-deal-us-deadline
     <p>At the center of the dispute lies the Strait of Hormuz, a critical maritime chokepoint through which roughly a fifth of the world's oil transits. Tehran insists on retaining authority over shipping traffic and demands the lifting of the U.S. naval blockade, the release of frozen assets, and the termination of oil sanctions. Meanwhile, Washington demands unrestricted commercial navigation and has made preventing Iran from acquiring a nuclear weapon its central objective. President Trump stated in the Oval Office that while Tehran wants a deal, they refuse necessary terms, remarking that Iran should "put up the white flag of surrender."</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
     <p>With U.S. Central Command having struck hundreds of targets in response to attacks on commercial vessels—including recent strikes on UAE-operated tankers—the conflict has strained military munitions inventories, including ATACMS and Patriot interceptors. As diplomatic channels stall, the administration faces mounting pressure to navigate an escalating economic and strategic standoff.</p>
@@ -84,7 +84,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -92,7 +92,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

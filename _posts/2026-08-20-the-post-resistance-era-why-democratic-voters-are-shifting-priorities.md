@@ -30,7 +30,7 @@ source_url: 'https://www.nbcnews.com/politics/politics-news/democrats-are-post-r
       <p><strong>Shareable Insight:</strong> "Voters are no longer looking for a mirror to reflect their anger; they are searching for a blueprint to build their future."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -38,7 +38,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Candidates like Angie Nixon and Brad Lander have successfully tapped into a desire for proactive governance. By focusing on issues like housing, healthcare, and economic inequality, they bypass the reactive "resistance" framework entirely. This shift suggests that the electorate is experiencing a collective move toward <em>intrinsic motivation</em>—voting for what they want to gain, rather than what they fear to lose.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -48,14 +48,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>This transition in our political life brings to mind the wisdom found in Ecclesiastes 3:3, which reminds us that there is "a time to tear down and a time to build." For many, the last few years have felt like a season of tearing down—of constant conflict and reactionary defense. Yet, there is a natural human longing for the season of building, where our energy is directed toward constructive change rather than perpetual struggle.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>It is easy to get caught up in the cycle of animosity, but Proverbs 29:18 tells us, "Where there is no vision, the people perish." When our political focus is limited strictly to opposing a person, we risk losing the vision required to address the actual needs of our neighbors. This shift in the Democratic primaries invites us to consider whether we are being led by our frustrations or by a genuine desire to improve the lives of those around us.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

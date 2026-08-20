@@ -34,7 +34,7 @@ source_url: "https://www.nbcnews.com/business/economy/trump-pauses-canada-tariff
 
   <section id="what-happened">
     <h2>What Happened: The Three-Day Tariff Pause</h2>
-    <p>Late Tuesday evening, President Trump took to social media to announce a sudden halt to sweeping 50% duties scheduled to hit approximately $20 billion worth of Canadian imports. The tariffs, which would have impacted goods ranging from hockey sticks and certain building materials to liquors and apparel, were put on hold for three days. According to the White House and Canadian Prime Minister Mark Carney, negotiators reached the framework of a tentative deal.</p>
+    <p>Late Tuesday evening, President Trump took to social media to announce a sudden halt to sweeping 50% duties scheduled to hit approximately  billion worth of Canadian imports. The tariffs, which would have impacted goods ranging from hockey sticks and certain building materials to liquors and apparel, were put on hold for three days. According to the White House and Canadian Prime Minister Mark Carney, negotiators reached the framework of a tentative deal.</p>
 
     <div class="ncg-quote-box">
       <p>“I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada and the U.S.A., subject to the finalization of documents, have a DEAL!” — President Donald Trump</p>
@@ -43,14 +43,14 @@ source_url: "https://www.nbcnews.com/business/economy/trump-pauses-canada-tariff
     <p>Prime Minister Carney confirmed that substantial progress had been made during "very delicate and intense" discussions, though important documentation work remains. The Office of the U.S. Trade Representative noted that the emerging framework includes comprehensive market access for American goods, economic security commitments, and digital trade alignment, alongside mentions from Trump that the Keystone XL pipeline "may be awoken from the grave."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div class="ncg-product-card" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0 0 8px 0; font-weight: bold; color: #333;">Recommended Reading for Global Markets:</p>
       <a href="https://www.amazon.com/dp/B08V8W355X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none; font-weight: 500;">Principles for Dealing with the Changing World Order by Ray Dalio</a>
-      <span style="display: block; color: #b12704; font-weight: bold; margin-top: 5px;">$18.99</span>
+      <span style="display: block; color: #b12704; font-weight: bold; margin-top: 5px;"></span>
     </div>
   </section>
 
@@ -59,21 +59,21 @@ Tactical Waterproof Backpack ($35.99)
     <p>To understand the high-stakes legal maneuvering behind this announcement, we must look at the statute that triggered the dispute in the first place. The threatened 50% levies marked the first-ever historical use of <strong>Section 338 of the Tariff Act of 1930</strong>. Enacted during the Great Depression, this obscure provision grants the executive branch sweeping authority to implement duties of up to 50% on any foreign trading partner that "discriminates" against United States commerce.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <p>Trade representatives justified the threatened action as direct retaliation against Canadian measures that penalized previous U.S. tariff tranches. However, Canadian officials have consistently maintained that such duties violate the framework of the United States-Canada-Mexico Agreement (USMCA)—the very trade pact negotiated and signed during Trump’s first term.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <p><em>Disclaimer: This is general information, not legal advice. Consult a licensed attorney about your specific situation regarding international trade compliance, business regulations, or contractual obligations.</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -82,7 +82,7 @@ Tactical Waterproof Backpack ($35.99)
       <p>"Emergency trade powers like Section 338 test the boundaries of executive authority, proving that international commerce agreements are only as stable as the political agreements upholding them."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -90,14 +90,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>The legal tension between statutory emergency powers and established international trade pacts creates ongoing ripples through federal courts and corporate boardrooms. Last year, courts demonstrated that executive trade actions remain subject to judicial review when the administration attempts to circumvent established legislative boundaries. For everyday observers, it serves as a stark reminder of how executive administrative law directly touches cross-border supply chains.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <div class="ncg-product-card" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0 0 8px 0; font-weight: bold; color: #333;">Essential Legal and Economic Reference:</p>
       <a href="https://www.amazon.com/dp/B07V6V2K56?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none; font-weight: 500;">The Code of Federal Regulations: International Trade Provisions</a>
-      <span style="display: block; color: #b12704; font-weight: bold; margin-top: 5px;">$45.00</span>
+      <span style="display: block; color: #b12704; font-weight: bold; margin-top: 5px;"></span>
     </div>
   </section>
 
@@ -106,21 +106,21 @@ Seagate Portable External Hard Drive ($59.99)
     <p>While trade attorneys and diplomats parse statutory language, the practical implications hit consumer wallets and supply chains directly. Business coalitions, including the U.S. Chamber of Commerce, warned repeatedly that a 50% tariff wall would instantly drive up costs for American families, disrupt critical manufacturing supply chains, and jeopardize millions of jobs dependent on North American trade stability.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <p>For now, the three-day pause provides temporary breathing room for importers, manufacturers, and retailers who were scrambling to calculate inventory costs ahead of the midnight deadline. Yet, because the agreement is still subject to the finalization of formal documents, uncertainty lingers. Supply chain managers are watching closely to see whether core disputes—such as automobile import duties and steel regulations—are permanently resolved or merely deferred.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div class="ncg-product-card" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0 0 8px 0; font-weight: bold; color: #333;">Understand Supply Chain Mechanics:</p>
       <a href="https://www.amazon.com/dp/1544519966?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none; font-weight: 500;">Supply Chain Management For Dummies by Cecere &amp; Harrington</a>
-      <span style="display: block; color: #b12704; font-weight: bold; margin-top: 5px;">$22.99</span>
+      <span style="display: block; color: #b12704; font-weight: bold; margin-top: 5px;"></span>
     </div>
   </section>
 
@@ -129,7 +129,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Moments of high-stakes public tension often reveal the human weight behind sweeping economic headlines. When trade policies shift overnight, families and workers experience real anxiety about their livelihoods and financial security. This reminds me of the biblical counsel found in Proverbs 11:14: "Where there is no guidance, a people falls, but in an abundance of counselors there is safety." Trade negotiations, while driven by national interests and legal statutes, ultimately depend on honest counsel, clear communication, and a commitment to stability rather than division.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -145,7 +145,7 @@ Seagate Portable External Hard Drive ($59.99)
     <div class="ncg-product-card" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0 0 8px 0; font-weight: bold; color: #333;">Master Personal Budgeting &amp; Resilience:</p>
       <a href="https://www.amazon.com/dp/1524763136?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none; font-weight: 500;">The Total Money Makeover by Dave Ramsey</a>
-      <span style="display: block; color: #b12704; font-weight: bold; margin-top: 5px;">$15.49</span>
+      <span style="display: block; color: #b12704; font-weight: bold; margin-top: 5px;"></span>
     </div>
   </section>
 

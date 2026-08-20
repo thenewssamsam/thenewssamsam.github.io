@@ -38,13 +38,13 @@ source_url: 'https://finance.yahoo.com/markets/stocks/article/nikes-stock-plunge
 
 <section id="what-happened">
 <h2>What Happened: The Numbers Behind the Drop</h2>
-<p>On Monday, Nike shares (NKE) tumbled more than 4% to fall below $40, marking their lowest valuation since late 2024. For years, major Wall Street analysts maintained an overwhelmingly bullish stance on the athletic-wear titan, anticipating quick turnarounds and steady growth. Instead, those projections have collided with persistent operational challenges.</p>
+<p>On Monday, Nike shares (NKE) tumbled more than 4% to fall below , marking their lowest valuation since late 2024. For years, major Wall Street analysts maintained an overwhelmingly bullish stance on the athletic-wear titan, anticipating quick turnarounds and steady growth. Instead, those projections have collided with persistent operational challenges.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
-<p>In late June, Nike reported fiscal fourth-quarter revenue of $11.0 billion. That figure represented a 1% decline on a reported basis and a steeper 4% drop on a currency-neutral basis. While diluted earnings per share (EPS) of $0.72 looked impressive at first glance to casual observers, a closer look at the financial statements reveals a different story: that metric was heavily propped up by a massive $0.52 per share one-time benefit stemming from an anticipated tariff recovery.</p>
+<p>In late June, Nike reported fiscal fourth-quarter revenue of  billion. That figure represented a 1% decline on a reported basis and a steeper 4% drop on a currency-neutral basis. While diluted earnings per share (EPS) of  looked impressive at first glance to casual observers, a closer look at the financial statements reveals a different story: that metric was heavily propped up by a massive  per share one-time benefit stemming from an anticipated tariff recovery.</p>
 <p>Without that extraordinary, non-operational windfall, the underlying financial picture remains stagnant. Management's forward-looking guidance did little to soothe jittery markets, with projected fiscal first-quarter revenues anticipated to shrink by a low-to-mid single-digit percentage.</p>
 </section>
 
@@ -122,7 +122,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -130,7 +130,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

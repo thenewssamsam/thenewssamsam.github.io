@@ -34,7 +34,7 @@ source_url: "https://www.cnn.com/2026/08/17/us/luigi-mangione-state-trial-postpo
   <p>According to reports from CNN, New York Judge Gregory Carro issued an order giving Manhattan prosecutors until October 9 to contest a defense motion to dismiss the state murder case. The next court hearing has been scheduled for December 10.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
   <p>This judicial pause comes directly on the heels of a dramatic courtroom development: Mangione pleaded guilty to two federal counts of stalking and admitted to the fatal shooting of Brian Thompson. Immediately following that federal guilty plea, defense attorneys filed motions seeking to dismantle the state-level second-degree murder and weapons charges.</p>
@@ -108,7 +108,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -116,7 +116,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

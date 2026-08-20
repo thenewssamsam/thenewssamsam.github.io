@@ -24,7 +24,7 @@ source_url: "https://www.cnn.com/2026/08/18/politics/live-news/florida-primary-e
     <p>The latest results show a significant reshuffling of political candidates. In the Democratic Senate primary, State Rep. Angie Nixon secured a victory, setting the stage for a November showdown against GOP Sen. Ashley Moody. Meanwhile, Rep. Byron Donalds has clinched the Republican nomination for governor, where he will face Democrat David Jolly. Additionally, the primary saw notable shifts in House races, including the defeat of Rep. Cory Mills.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -34,7 +34,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>When the news is filled with "bitter fights" and political turnover, children often pick up on the tension. Regardless of your personal political leanings, the goal for parents is to foster an environment where kids feel safe asking questions about how their country—and state—is governed.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -42,7 +42,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p><strong>"The goal isn't to teach our children <em>what</em> to think about an election, but to help them understand <em>how</em> to process the world around them with curiosity and respect."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -56,7 +56,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>It is also important to model emotional regulation. If you find yourself frustrated by election results, take a breath before discussing them. Children look to us to see how to handle disappointment or victory with grace.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -66,14 +66,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In the midst of political maneuvering, it is easy to become divided. I am reminded of the wisdom in Philippians 2:3-4 (ESV): <em>"Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves. Let each of you look not only to his own interests, but also to the interests of others."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>This verse challenges us to consider how we teach our children to view those with whom they disagree. As we navigate election seasons, we have a unique opportunity to model this humility. When we talk about candidates, do we speak with contempt, or do we model the kind of respectful discourse we want our children to emulate? By focusing on the "interests of others," we can help our children see that civics is ultimately about serving our neighbors, not just winning a contest.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -83,7 +83,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Instead of letting the news cycle dictate your family's mood, take these proactive steps:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <ul>

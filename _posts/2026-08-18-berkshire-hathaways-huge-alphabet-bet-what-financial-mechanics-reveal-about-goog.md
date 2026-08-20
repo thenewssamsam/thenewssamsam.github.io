@@ -32,11 +32,11 @@ source_url: 'https://247wallst.com/investing/2026/08/17/berkshire-raised-its-alp
 
   <section id="what-happened">
     <h2>What Happened: The Berkshire Filing That Stunned Markets</h2>
-    <p>For months, the market narrative around Alphabet (NASDAQ:GOOG) has been dominated by anxiety over massive artificial intelligence spending. Even though the company posted stellar Q2 2026 results on July 22—reporting $119.80 billion in revenue (up 24.2% year-over-year) and an EPS of $9.11 that soundly beat consensus estimates—investors fixated on a different set of numbers.</p>
-    <p>Capital expenditures nearly doubled to $44.92 billion, free cash flow dipped into negative territory, and long-term debt increased. Shares cooled off from summer highs, pulling back 7.2% over a single month.</p>
+    <p>For months, the market narrative around Alphabet (NASDAQ:GOOG) has been dominated by anxiety over massive artificial intelligence spending. Even though the company posted stellar Q2 2026 results on July 22—reporting  billion in revenue (up 24.2% year-over-year) and an EPS of  that soundly beat consensus estimates—investors fixated on a different set of numbers.</p>
+    <p>Capital expenditures nearly doubled to  billion, free cash flow dipped into negative territory, and long-term debt increased. Shares cooled off from summer highs, pulling back 7.2% over a single month.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
     <p>Then came Warren Buffett's Berkshire Hathaway filing, revealing a massive 658% expansion in its Alphabet position. Suddenly, the narrative flipped from panic over capital spending to a vote of confidence in Alphabet's underlying cash-generating engine.</p>
@@ -49,16 +49,16 @@ Seagate Portable External Hard Drive ($59.99)
     <div class="ncg-stat-box">
       <strong>Key Financial Metrics at a Glance:</strong>
       <ul>
-        <li><strong>Current Stock Price:</strong> $343.54</li>
-        <li><strong>24/7 Wall St. Price Target:</strong> $445.49 (29.68% upside)</li>
+        <li><strong>Current Stock Price:</strong> </li>
+        <li><strong>24/7 Wall St. Price Target:</strong>  (29.68% upside)</li>
         <li><strong>Google Cloud Growth:</strong> 82% YoY</li>
         <li><strong>Cloud Operating Margin:</strong> Expanded to 35.6% (up from 20.7%)</li>
-        <li><strong>Projected 2026 Capex Guidance:</strong> $175 billion to $185 billion</li>
+        <li><strong>Projected 2026 Capex Guidance:</strong>  billion to  billion</li>
       </ul>
     </div>
 
-    <p>The bear case focuses heavily on that projected 2026 capex guidance of $175 to $185 billion, alongside a suspended share buyback and long-term debt swelling from $46.5 billion to $98.2 billion. Interest expenses have risen roughly fivefold year-over-year, leading some analysts to question return on invested capital (ROIC).</p>
-    <p>However, the balance sheet tells a more nuanced story when paired with revenue visibility. Google Cloud's backlog has swelled to $514 billion—an increase of more than $50 billion sequentially—with nearly 90% of the Fortune 100 utilizing Gemini Enterprise. Furthermore, cloud operating margins expanded dramatically to 35.6% from 20.7%, nearly tripling operating income in that segment.</p>
+    <p>The bear case focuses heavily on that projected 2026 capex guidance of  to  billion, alongside a suspended share buyback and long-term debt swelling from  billion to  billion. Interest expenses have risen roughly fivefold year-over-year, leading some analysts to question return on invested capital (ROIC).</p>
+    <p>However, the balance sheet tells a more nuanced story when paired with revenue visibility. Google Cloud's backlog has swelled to  billion—an increase of more than  billion sequentially—with nearly 90% of the Fortune 100 utilizing Gemini Enterprise. Furthermore, cloud operating margins expanded dramatically to 35.6% from 20.7%, nearly tripling operating income in that segment.</p>
     <p>Negative free cash flow in an expansion phase is not inherently a sign of distress; when deployed against a locked-in half-trillion-dollar enterprise backlog, it functions as a calculated capital investment designed to lock in future market share.</p>
   </section>
 
@@ -71,10 +71,10 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In financial analysis, valuation multiples provide the ultimate reality check against market sentiment. When comparing Alphabet to its primary cloud and advertising peers, a distinct valuation gap emerges:</p>
     <ul>
       <li><strong>Alphabet:</strong> Trades at a trailing P/E of 17x with 24.2% revenue growth and its 11th consecutive EPS beat.</li>
-      <li><strong>Microsoft (NASDAQ:MSFT):</strong> Azure crossed $100 billion in full-year revenue and grew 43% last quarter, but the stock trades at a richer trailing P/E of 28x.</li>
+      <li><strong>Microsoft (NASDAQ:MSFT):</strong> Azure crossed  billion in full-year revenue and grew 43% last quarter, but the stock trades at a richer trailing P/E of 28x.</li>
       <li><strong>Meta Platforms (NASDAQ:META):</strong> Serves as the digital-ad counterpoint, trading at a trailing P/E of 22x following an earnings miss against consensus estimates.</li>
     </ul>
-    <p>This valuation multiple of 17x makes Alphabet's price target of $445.49—implying nearly 30% upside from recent closes—look remarkably grounded compared to its peers. Investors are essentially paying a lower multiple for comparable cloud acceleration.</p>
+    <p>This valuation multiple of 17x makes Alphabet's price target of —implying nearly 30% upside from recent closes—look remarkably grounded compared to its peers. Investors are essentially paying a lower multiple for comparable cloud acceleration.</p>
   </section>
 
   <section id="financial-impact">
@@ -94,12 +94,12 @@ Seagate Portable External Hard Drive ($59.99)
 
     <details class="ncg-faq-item">
       <summary>How does high capital expenditure affect Alphabet's stock price?</summary>
-      <p>Heavy capital spending (projected between $175 billion and $185 billion for 2026) temporarily depresses free cash flow and increases debt servicing costs. However, if that spending directly supports a $514 billion cloud backlog and scaling artificial intelligence infrastructure, it lays the groundwork for long-term revenue growth.</p>
+      <p>Heavy capital spending (projected between  billion and  billion for 2026) temporarily depresses free cash flow and increases debt servicing costs. However, if that spending directly supports a  billion cloud backlog and scaling artificial intelligence infrastructure, it lays the groundwork for long-term revenue growth.</p>
     </details>
 
     <details class="ncg-faq-item">
       <summary>What is the consensus price target for Alphabet stock?</summary>
-      <p>Analyst consensus and independent projections place Alphabet's price target at $445.49 over a 12-month horizon, representing roughly 29.68% upside from recent trading levels, driven primarily by Google Cloud expansion and strong enterprise adoption of Gemini.</p>
+      <p>Analyst consensus and independent projections place Alphabet's price target at  over a 12-month horizon, representing roughly 29.68% upside from recent trading levels, driven primarily by Google Cloud expansion and strong enterprise adoption of Gemini.</p>
     </details>
   </section>
 
@@ -134,7 +134,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -142,7 +142,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

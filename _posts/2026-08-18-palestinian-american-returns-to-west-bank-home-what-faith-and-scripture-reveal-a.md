@@ -151,7 +151,7 @@ source_url: 'https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-r
   <p>The standoff in the occupied West Bank village of Qusra has entered its second week, drawing international condemnation and local turmoil. According to recent reports, groups of Israeli settlers have surrounded several Palestinian homes, preventing residents from moving freely. While the Israeli military has deployed troops to the area and officially declared the neighborhood a closed military zone, video footage shared by family members on the ground has shown soldiers interacting amicably with settlers who roam the area on ATVs.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
   <p>For Ridi, who arrived at Israel's main international airport before making his way to Qusra, the journey was driven by a simple, urgent conviction: watching from afar was no longer an option. His brother, Qusai Abu Rida, and teenage son had already spent days barricaded inside the home to protect the property from being overrun. As violence across the West Bank surges—with dozens of fatalities reported among Palestinians and Israelis alike this year—incidents like the Qusra siege highlight an escalating crisis of displacement, property seizure, and frayed local order.</p>
@@ -224,7 +224,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -232,7 +232,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -35,7 +35,7 @@ source_url: 'https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamal
 <p>Yet, according to reports from NFL Network's Ian Rapoport, that momentum has been cut short in the cruelest way possible. Adams suffered a season-ending knee injury during the team's preseason opener against the New York Giants at MetLife Stadium. Playing just 11 snaps in the first half—highlighted by a vintage, explosive backfield tackle—Adams went down on a non-contact play.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -84,7 +84,7 @@ Seagate Portable External Hard Drive ($59.99)
 </details>
 <details style="background-color: #f9fafb; border: 1px solid #e5e7eb; border-radius: 6px; padding: 12px 16px; margin-bottom: 12px;">
 <summary style="font-weight: 600; cursor: pointer; color: #1f2937;">What was Adams's contract status with the Vikings?</summary>
-<p style="margin: 8px 0 0 0; color: #4b5563;">Adams had signed a one-year deal for the veteran minimum of $1.41 million just before training camp started and was impressing coaches.</p>
+<p style="margin: 8px 0 0 0; color: #4b5563;">Adams had signed a one-year deal for the veteran minimum of  million just before training camp started and was impressing coaches.</p>
 </details>
 </section>
 
@@ -140,7 +140,7 @@ Seagate Portable External Hard Drive ($59.99)
       "name": "What was Adams's contract status with the Vikings?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Adams had signed a one-year deal for the veteran minimum of $1.41 million just before training camp started and was impressing coaches."
+        "text": "Adams had signed a one-year deal for the veteran minimum of  million just before training camp started and was impressing coaches."
       }
     }
   ]
@@ -157,7 +157,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -165,7 +165,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

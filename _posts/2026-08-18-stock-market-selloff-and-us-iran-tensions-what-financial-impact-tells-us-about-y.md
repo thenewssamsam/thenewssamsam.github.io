@@ -19,7 +19,7 @@ source_url: 'https://finance.yahoo.com/markets/live/stock-market-today-monday-au
 <p>When geopolitical flashpoints collide with domestic debt realities, Wall Street feels the shockwaves almost immediately. US stocks fell on Monday as a spike in crude oil prices and soaring Treasury yields unnerved investors already tracking an uneasy macroeconomic landscape. For ordinary savers and investors trying to make sense of fluctuating portfolios, days like this raise immediate questions about what comes next for their money, borrowing costs, and household budgets.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -29,14 +29,14 @@ Tactical Waterproof Backpack ($35.99)
 <section id="ncg-what-happened">
 <h2>What Happened in the Markets Today?</h2>
 <p>The major US stock indices moved lower to start the week. The Dow Jones Industrial Average declined 0.5%, the S&P 500 slid 0.5% following its third consecutive weekly gain, and the tech-heavy Nasdaq Composite dropped 0.3%. The downward pressure intensified during afternoon trading as macro headwinds converged on the trading floor.</p>
-<p>The primary catalyst for the session was renewed anxiety surrounding the US-Iran conflict. Brent crude futures breached the $90 per barrel threshold following reports that a key diplomatic memorandum of understanding had expired. Tensions escalated further after public statements regarding potential geopolitical interference in the critical Strait of Hormuz, reminding global markets of just how quickly energy supplies can be disrupted by international friction.</p>
+<p>The primary catalyst for the session was renewed anxiety surrounding the US-Iran conflict. Brent crude futures breached the  per barrel threshold following reports that a key diplomatic memorandum of understanding had expired. Tensions escalated further after public statements regarding potential geopolitical interference in the critical Strait of Hormuz, reminding global markets of just how quickly energy supplies can be disrupted by international friction.</p>
 <p>Simultaneously, the bond market flashed warning signs as borrowing costs extended their climb. The 30-year Treasury yield rose 5 basis points to reach 5.31 percent, hitting its highest level since June 2007. Combined with ongoing concerns over ballooning national debt, this tightening in financial conditions created a dual squeeze on equity valuations.</p>
 </section>
 
 <section id="ncg-financial-impact">
 <h2>The Financial Impact: How Oil, Yields, and Debt Interact</h2>
 <p>To understand why a geopolitical headline in the Middle East translates directly into red numbers on a retirement account, we have to look at the financial mechanics connecting oil, interest rates, and equity pricing.</p>
-<p>First, energy is the lifeblood of the global economy. When Brent crude climbs toward $90 a barrel, transportation, manufacturing, and agricultural costs rise across the board. Higher energy input costs squeeze corporate profit margins or force companies to pass those expenses on to consumers through higher prices at the pump and on store shelves. That dynamic reignites inflation fears, which in turn causes central bankers to keep monetary policy tighter for longer.</p>
+<p>First, energy is the lifeblood of the global economy. When Brent crude climbs toward  a barrel, transportation, manufacturing, and agricultural costs rise across the board. Higher energy input costs squeeze corporate profit margins or force companies to pass those expenses on to consumers through higher prices at the pump and on store shelves. That dynamic reignites inflation fears, which in turn causes central bankers to keep monetary policy tighter for longer.</p>
 <p>Second, the surge in Treasury yields reflects a bond market demanding higher compensation to hold long-term government debt. When the 30-year yield hits multi-decade highs, it acts as a gravity pull for all other borrowing costs, including mortgages, corporate bonds, and auto loans. Higher risk-free yields also make bonds more attractive relative to stocks, prompting institutional investors to reallocate capital away from equities.</p>
 
 <div class="ncg-quote-box" style="background:#f4f6f8; border-left:4px solid #2b5797; padding:20px; margin:20px 0; border-radius:4px;">
@@ -83,7 +83,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -91,7 +91,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

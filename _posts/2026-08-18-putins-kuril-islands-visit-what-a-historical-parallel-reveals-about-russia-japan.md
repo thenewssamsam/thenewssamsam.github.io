@@ -24,13 +24,13 @@ source_url: 'https://www.themoscowtimes.com/2026/08/17/putin-revealed-his-true-i
 <p>According to reports from <em>The Moscow Times</em>, President Vladimir Putin visited the island of Iturup on August 13, 2026. The itinerary followed a familiar domestic script: a tightly managed inspection of a local business, a sternly staged meeting with regional bureaucrats, and a vetted meet-and-greet with handpicked residents.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
 <p>Yet the geopolitical weight of the trip was immense. Iturup is one of four islands in the Kuril chain—the Northern Territories—seized by Soviet forces in the waning days of World War II, following a declaration of war on August 8, 1945, that violated the Soviet-Japanese Neutrality Pact. Tokyo has refused to sign a formal post-war peace treaty with Moscow ever since, insisting that the territorial dispute must be resolved first.</p>
 
-<p>Putin's visit instantly provoked fury in Tokyo. The Russian ambassador was summoned to the Foreign Ministry for a sharp reprimand, and street protests erupted near the embassy. Kremlin watchers note two primary drivers behind the move: a domestic desire to stoke patriotic fervor ahead of Russia's September parliamentary elections amid falling approval ratings, and a deliberate penalty against Japan for its $20 billion in aid to Ukraine, ten-year security cooperation pact, and alignment with NATO's financial mechanisms.</p>
+<p>Putin's visit instantly provoked fury in Tokyo. The Russian ambassador was summoned to the Foreign Ministry for a sharp reprimand, and street protests erupted near the embassy. Kremlin watchers note two primary drivers behind the move: a domestic desire to stoke patriotic fervor ahead of Russia's September parliamentary elections amid falling approval ratings, and a deliberate penalty against Japan for its  billion in aid to Ukraine, ten-year security cooperation pact, and alignment with NATO's financial mechanisms.</p>
 
 <div class="ncg-take-box" style="background: #f8f9fa; border-left: 4px solid #343a40; padding: 16px; margin: 20px 0; border-radius: 4px;">
 <h3 style="margin-top: 0;">Quick Take</h3>
@@ -99,7 +99,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -107,7 +107,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

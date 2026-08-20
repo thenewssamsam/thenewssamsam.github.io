@@ -36,7 +36,7 @@ source_url: 'https://www.foxnews.com/world/australia-sets-launch-sweeping-gun-bu
 <p>For an ordinary observer watching from afar or within Australia, the policy response raises immediate questions about public safety, legislative speed, and the enduring ripple effects of sudden national trauma. But to truly understand how governments react in these moments, we have to look backward before we look forward.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -46,7 +46,7 @@ Tactical Waterproof Backpack ($35.99)
 
 <p>The upcoming buyback program represents the next phase of a coordinated legislative response following the December 14 attack in Sydney, where 15 people lost their lives. Prime Minister Anthony Albanese and New South Wales Premier Chris Minns announced that the scheme will officially launch on November 2.</p>
 
-<p>Under the first phase of the program, citizens returning eligible firearms will receive fixed compensation ranging from $450 to $1,000. A second phase will establish a valuation pathway for higher-value firearms, capped at $10,000 per weapon. The initiative targets newly reclassified weapons and tighter ownership limits enacted after the tragedy, which capped individual civilian ownership at four guns for most license holders. Authorities estimate that up to 274,000 registered firearms—roughly 24% of the state's total—and 50,000 license holders are affected.</p>
+<p>Under the first phase of the program, citizens returning eligible firearms will receive fixed compensation ranging from  to ,000. A second phase will establish a valuation pathway for higher-value firearms, capped at ,000 per weapon. The initiative targets newly reclassified weapons and tighter ownership limits enacted after the tragedy, which capped individual civilian ownership at four guns for most license holders. Authorities estimate that up to 274,000 registered firearms—roughly 24% of the state's total—and 50,000 license holders are affected.</p>
 
 <p>The alleged attackers—a father and son inspired by the Islamic State—used legally obtained firearms. In response, Canberra and Sydney moved quickly to tighten not only firearm regulations but also hate speech and extremism laws.</p>
 
@@ -88,7 +88,7 @@ Tactical Waterproof Backpack ($35.99)
 </details>
 <details class="ncg-faq-item">
 <summary>How much compensation will gun owners receive?</summary>
-<p>Fixed compensation ranges from $450 to $1,000 per firearm during the first phase, depending on the weapon type. A second phase provides a valuation pathway for higher-value firearms capped at $10,000.</p>
+<p>Fixed compensation ranges from  to ,000 per firearm during the first phase, depending on the weapon type. A second phase provides a valuation pathway for higher-value firearms capped at ,000.</p>
 </details>
 <details class="ncg-faq-item">
 <summary>How many firearms are affected by the new rules?</summary>
@@ -143,7 +143,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -151,7 +151,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

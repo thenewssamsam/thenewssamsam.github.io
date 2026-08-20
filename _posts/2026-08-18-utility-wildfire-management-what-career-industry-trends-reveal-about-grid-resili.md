@@ -24,7 +24,7 @@ source_url: 'https://www.indexbox.io/blog/redefining-utility-reliability-and-res
   <p>For decades, electric utilities measured reliability using conventional benchmarks like SAIDI (System Average Interruption Duration Index) and SAIFI (System Average Interruption Frequency Index). While these metrics remain useful for tracking standard outages, they fail to capture modern systemic vulnerabilities. Today, energy operators face an unprecedented convergence of challenges: intensifying wildfire seasons, rapid electrification, higher public scrutiny, and deteriorating infrastructure.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
   <p>As Fazel notes, historical weather data and traditional load forecasts no longer provide dependable direction. When a single spark can trigger a catastrophic regional disaster, operational silos become a massive liability. Fragmented committees that rely on temporary cross-functional task forces often lack the decision-making authority and speed required to mitigate fast-moving climate hazards.</p>
@@ -77,7 +77,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -85,7 +85,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

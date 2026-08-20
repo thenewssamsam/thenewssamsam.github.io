@@ -27,10 +27,10 @@ source_url: 'https://www.bbc.com/news/articles/clylkv4z59vo'
     <p>The Eurocopter EC130 B4, operated by Lady Lori Helicopters, was traveling between a wildlife conservancy in Loisaba and the Ewaso Nyiro river when it went down on Mount Ololokwe. Emergency teams, including the Kenya Red Cross, were dispatched to the wooded, remote site, but tragically, no survivors were found among the wreckage.</p>
     
     <div style="border-left: 5px solid #f1c40f; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Reading:</strong> <a href="#">Travel Safety Guide & First Aid Essentials</a> - $24.99</p>
+      <p><strong>Recommended Reading:</strong> <a href="#">Travel Safety Guide & First Aid Essentials</a> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -38,7 +38,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The victims included Michele Sensi-Contugi, 44, who had been appointed director general of Ecuador’s Strategic Intelligence Center in 2024. Among the American victims was NBCUniversal journalist José Alberto Suárez, described by his colleagues as a beloved mentor, and Miami restaurateur Roger Duarte. The remaining four American passengers have yet to be identified as the investigation into the cause of the crash begins.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -48,15 +48,15 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When tragedy strikes in a place synonymous with adventure and beauty, it creates a jarring dissonance. We often view travel as an escape—a time to disconnect from the pressures of work and politics. Yet, this event serves as a sobering reminder that we are not shielded from life’s unpredictability simply because we are on vacation or fulfilling professional duties.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <div style="border-left: 5px solid #f1c40f; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Reading:</strong> <a href="#">Journaling for Mindfulness and Perspective</a> - $12.50</p>
+      <p><strong>Recommended Reading:</strong> <a href="#">Journaling for Mindfulness and Perspective</a> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -65,7 +65,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>We often spend our days planning for the next quarter, the next meeting, or the next trip. This tragedy invites us to consider the "now." Whether we are an intelligence chief or a journalist, our influence and our work matter, but they are temporal. If there is a lesson to be gleaned, it is the importance of being fully present with those we love, as we truly do not know what tomorrow holds.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -77,7 +77,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The outpouring of grief from government officials in Ecuador and colleagues in the US highlights the impact these individuals had on their communities. It forces us to ask: If our journey ended today, what would our legacy be? It’s a heavy question, but one that encourages us to live with more intention and kindness.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -87,15 +87,15 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This situation brings to mind the words of James 4:14, which asks, "What is your life? You are a mist that appears for a little while and then vanishes." It’s not meant to be a morbid thought, but rather one that encourages humility. We hold our plans and our positions with such certainty, yet we are reminded that our time is in God's hands.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <div style="border-left: 5px solid #f1c40f; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Reading:</strong> <a href="#">Reflective Devotional for Difficult Times</a> - $15.00</p>
+      <p><strong>Recommended Reading:</strong> <a href="#">Reflective Devotional for Difficult Times</a> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -103,7 +103,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>I find myself thinking about the families left behind. Psalm 34:18 reminds us, "The Lord is near to the brokenhearted and saves the crushed in spirit." In the face of such sudden loss, there is a profound need for that nearness. It invites us to be the hands and feet of that comfort to those around us who are hurting, recognizing that we are all travelers on a journey that is much shorter than we often imagine.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

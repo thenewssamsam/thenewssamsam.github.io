@@ -26,7 +26,7 @@ source_url: "https://www.bostonglobe.com/2026/08/17/metro/lindsay-clancy-trial-p
     <p>In high-profile cases like this, public perception often outpaces the evidence presented in court. Here, we parse the claims being debated by legal experts and the trial testimony.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -34,7 +34,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p><strong>Fact:</strong> The prosecution points to Clancy playing in the snow and running errands as evidence of a rational state of mind. However, psychiatric experts note that mental health deterioration, particularly regarding psychosis, is rarely a "straight line." Defense experts argue that behavior can fluctuate significantly, and an individual may appear functional to outside observers even while experiencing profound internal distress.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -46,14 +46,14 @@ Tactical Waterproof Backpack ($35.99)
     <p><strong>Fact:</strong> Prosecutors highlight digital evidence, such as Apple Maps lookups, as proof of calculation. However, legal analysts point out that this is circumstantial. Proving "premeditation" requires establishing a specific intent to kill, which the defense argues was impossible due to the alleged state of psychosis. The jury must decide if these actions were deliberate planning or the erratic movements of a mind in collapse.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <p><em>Note: This is general information, not legal advice. Consult a licensed attorney for your specific situation.</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -63,14 +63,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When we look at a tragedy of this magnitude, it is natural to search for simple answers or someone to blame. The Bible reminds us of the profound brokenness of our world and the limitations of human understanding. As it says in <strong>Proverbs 14:10</strong>, "The heart knows its own bitterness, and no stranger shares its joy."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>This verse invites us to consider that the deepest struggles of the human spirit are often hidden from those around us. We are reminded that we are not the final judges of a person's inner turmoil or the complexities of their mental health. Instead, we are called to approach such suffering with profound humility and a recognition of the fragility of the human mind. In <strong>Matthew 7:1</strong>, we are cautioned, "Judge not, that you be not judged." This does not mean ignoring justice, but it does mean acknowledging that we rarely possess the full picture of another person's private battle.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

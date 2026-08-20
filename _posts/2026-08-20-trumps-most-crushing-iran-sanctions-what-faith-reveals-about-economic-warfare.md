@@ -64,7 +64,7 @@ Risk advisors emphasize that targeting Chinese banks—the most potent financial
 
 <div style="background:#f8fafc;border-left:4px solid #3b82f6;border-radius:0 8px 8px 0;margin:1.5rem 0;padding:1rem 1.25rem;">
 <p style="font-size:0.95rem;color:#1e293b;margin:0;">
-<strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color:#2563eb;text-decoration:none;">Understanding Modern Economic Sanctions: History, Strategy, and Impact ($24.99)</a> - A comprehensive guide on how global trade policies shape international relations and civilian life.
+<strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color:#2563eb;text-decoration:none;">Understanding Modern Economic Sanctions: History, Strategy, and Impact </a> - A comprehensive guide on how global trade policies shape international relations and civilian life.
 </p>
 </div>
 
@@ -79,7 +79,7 @@ Furthermore, when nations engage in maneuvers that threaten the livelihoods of o
 
 <div style="background:#f8fafc;border-left:4px solid #3b82f6;border-radius:0 8px 8px 0;margin:1.5rem 0;padding:1rem 1.25rem;">
 <p style="font-size:0.95rem;color:#1e293b;margin:0;">
-<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0310536413?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color:#2563eb;text-decoration:none;">NIV Study Bible, Fully Revised Edition ($29.99)</a> - Deepen your understanding of scriptural wisdom regarding justice, leadership, and global nations.
+<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0310536413?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color:#2563eb;text-decoration:none;">NIV Study Bible, Fully Revised Edition </a> - Deepen your understanding of scriptural wisdom regarding justice, leadership, and global nations.
 </p>
 </div>
 
@@ -94,7 +94,7 @@ Second, Christians must cultivate a heart of empathy for the ordinary families c
 
 <div style="background:#f8fafc;border-left:4px solid #3b82f6;border-radius:0 8px 8px 0;margin:1.5rem 0;padding:1rem 1.25rem;">
 <p style="font-size:0.95rem;color:#1e293b;margin:0;">
-<strong>Helpful Tool:</strong> <a href="https://www.amazon.com/dp/B07V2SK485?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color:#2563eb;text-decoration:none;">Journaling Bible for Reflection and Prayer ($19.99)</a> - A dedicated space to write down your prayers for global peace and leaders during turbulent times.
+<strong>Helpful Tool:</strong> <a href="https://www.amazon.com/dp/B07V2SK485?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color:#2563eb;text-decoration:none;">Journaling Bible for Reflection and Prayer </a> - A dedicated space to write down your prayers for global peace and leaders during turbulent times.
 </p>
 </div>
 

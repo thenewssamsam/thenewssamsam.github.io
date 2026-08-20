@@ -26,7 +26,7 @@ source_url: "https://www.foxnews.com/politics/iran-fails-strike-deal-us-deadline
     <p>History rarely repeats itself exactly, but it often rhymes. The current stalemate in the Strait of Hormuz bears striking resemblance to previous maritime conflicts where control of a narrow "chokepoint" became the pivot for global power.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -34,7 +34,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>During the Iran-Iraq War, the "Tanker War" saw both nations targeting oil shipping to cripple the other's economy. Much like today, the U.S. intervened to protect commercial navigation. The historical lesson here is that naval blockades in narrow waterways are notoriously difficult to maintain without "mission creep." When the U.S. moved to escort ships, it found itself drawn deeper into the conflict, eventually leading to direct naval skirmishes with Iran. The risk today is that the U.S. "indefinite blockade" strategy may inadvertently lead to a war of attrition that neither side is prepared to sustain.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -42,7 +42,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p><strong>Shareable Insight:</strong> "History shows that control of a chokepoint is rarely settled by force alone; it is usually settled by the exhaustion of the parties involved. We are currently watching that exhaustion play out in real-time."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -51,7 +51,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>President Trump’s firm stance—"They cannot have a nuclear weapon"—mirrors the uncompromising rhetoric of the 1962 Cuban Missile Crisis. In that scenario, the U.S. established a naval "quarantine" (a blockade by another name) to prevent the delivery of offensive weapons. The success of that crisis rested on the ability to provide an "off-ramp" for the adversary. The current challenge is that the "white flag" language used by the administration limits the diplomatic space for an off-ramp, potentially pushing Tehran into a corner where they feel they have nothing left to lose.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -61,13 +61,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In the midst of geopolitical maneuvering, it is easy to forget the human cost of these standoffs. The Bible reminds us of the heavy weight of leadership and the fragility of peace. As Proverbs 21:31 (NIV) says, "The horse is made ready for the day of battle, but victory rests with the Lord."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>This does not mean we remain passive, but it invites us to consider the limits of human might. When we focus solely on the "white flag of surrender" as the only path to resolution, we may overlook the opportunities for mercy that can prevent further suffering. I am reminded that even in ancient times, the pride of nations often led to prolonged conflict. We are called to seek wisdom that transcends military strategy—a wisdom that values human life and the stability of the world above the need to "win" a standoff. May we pray for leaders who possess the discernment to distinguish between necessary defense and the cycle of destruction.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

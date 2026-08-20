@@ -37,7 +37,7 @@ source_url: 'https://apnews.com/article/brazil-lula-flavio-bolsonaro-campaign-op
   <p>With 13 candidates ultimately entering the fray, the initial rallies underscore a polarized nation bracing for a narrow October contest. Yet, beneath the immediate spectacle of beachside speeches and stadium chants lies a deeper political script. History suggests that when nations divide along populist and establishment lines, the battle is rarely just about candidates—it is a referendum on national identity, economic sovereignty, and political lineage.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -157,7 +157,7 @@ footer { margin-top: 32px; font-size: 0.9rem; color: #6b7280; border-top: 1px so
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -165,7 +165,7 @@ footer { margin-top: 32px; font-size: 0.9rem; color: #6b7280; border-top: 1px so
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

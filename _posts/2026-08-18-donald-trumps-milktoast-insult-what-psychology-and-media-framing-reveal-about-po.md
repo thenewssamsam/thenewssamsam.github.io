@@ -23,12 +23,12 @@ source_url: 'https://www.independent.co.uk/news/world/americas/us-politics/trump
 <p class="ncg-lead">When Donald Trump revived his misspelled "milktoast" barb against Fox News host Shannon Bream over outdated White House ballroom footage, it served up more than standard cable news drama. Behind the viral insult lies a fascinating psychological window into how political figures process perceived betrayal, manage information control, and maintain high-arousal engagement in modern media landscapes.</p>
 
 <h2 id="what-happened">What Happened: The Truth Social Outburst</h2>
-<p>Over the weekend, President Donald Trump took to Truth Social to air grievances against Fox News, specifically targeting <em>Fox News Sunday</em> host Shannon Bream. Trump grew outraged after Bream's program aired mid-May construction footage of his $400 million White House ballroom project rather than updated progress shots.</p>
+<p>Over the weekend, President Donald Trump took to Truth Social to air grievances against Fox News, specifically targeting <em>Fox News Sunday</em> host Shannon Bream. Trump grew outraged after Bream's program aired mid-May construction footage of his  million White House ballroom project rather than updated progress shots.</p>
 
 <p>Accusing Bream of being "so biased against MAGA," Trump resurrected the "Milktoast" moniker—a recurring typo for <em>milquetoast</em>, denoting a timid or feeble person—which he had previously used against her in June after a segment regarding Immigration and Customs Enforcement arrest statistics. The president also criticized Fox anchors like Bret Baier over approval rating polls and lamented the bygone era of Chris Wallace.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -101,7 +101,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -109,7 +109,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

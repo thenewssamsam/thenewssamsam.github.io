@@ -37,7 +37,7 @@ source_url: "https://www.foxnews.com/politics/trumps-support-doesnt-save-scandal
 <p>The writing had been on the wall for months. A sustained effort to oust Mills gained traction as a House Ethics Committee investigation and unconfirmed reports of a Justice Department probe weighed down his candidacy. Bipartisan pressure, led in part by Rep. Nancy Mace of South Carolina and reinforced by local Florida House colleagues like Mike Haridopolos and Anna Paulina Luna shifting their support to Elijah, fractured the incumbent's donor base and voter confidence. Mills joins a growing list of House Republicans, including North Carolina's Chuck Edwards, whose re-election bids collapsed under the weight of ethics scandals.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -51,7 +51,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>From a financial perspective, a primary campaign is essentially a high-stakes enterprise investment. Campaigns raise money from small-dollar donors, political action committees (PACs), and high-net-worth individuals, investing those funds into advertising, ground operations, polling, and brand management. Every dollar spent is weighed against its expected return on investment (ROI): votes and visibility.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -66,22 +66,22 @@ Tactical Waterproof Backpack ($35.99)
 <p>When an ethics investigation or scandal enters the picture, the fundamental economic math changes overnight. Donors grow hesitant to throw good money after bad, fearing their contributions will be wasted on damage control rather than positive voter persuasion. Advertising budgets that should be spent defining an opponent or highlighting legislative wins must suddenly be diverted to defensive crisis PR.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Furthermore, voter trust acts as intangible equity. When that equity takes a severe hit, the cost of acquiring every single vote skyrockets. Mills still had significant financial resources and institutional backing, but the marginal utility of those dollars plummeted as voters weighed the liability of ongoing investigations against alternative candidates like Elijah.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <div style="border-left: 4px solid #eab308; background: #fffbeb; padding: 1.0rem; margin: 1.5rem 0; border-radius: 4px;">
 <p style="margin: 0 0 0.5rem 0; font-weight: bold; color: #92400e;">Recommended Reading for Financial Literacy</p>
 <ul style="margin: 0; padding-left: 1.25rem; color: #78350f;">
-<li><strong>Thinking, Fast and Slow by Daniel Kahneman (Understanding Risk & Decision Costs)</strong> - <a href="https://www.amazon.com/dp/0374533555?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Check Price on Amazon ($14.99)</a></li>
-<li><strong>The Psychology of Money by Morgan Housel (Managing Risk & Wealth Preservation)</strong> - <a href="https://www.amazon.com/dp/0857197681?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Check Price on Amazon ($16.20)</a></li>
+<li><strong>Thinking, Fast and Slow by Daniel Kahneman (Understanding Risk & Decision Costs)</strong> - <a href="https://www.amazon.com/dp/0374533555?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Check Price on Amazon </a></li>
+<li><strong>The Psychology of Money by Morgan Housel (Managing Risk & Wealth Preservation)</strong> - <a href="https://www.amazon.com/dp/0857197681?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Check Price on Amazon </a></li>
 </ul>
 </div>
 </section>
@@ -91,22 +91,22 @@ Tactical Waterproof Backpack ($35.99)
 <p>In standard market conditions, a presidential endorsement functions like prime real estate in a booming commercial district. It guarantees immediate visibility, lowers advertising costs, and drives high investor (donor) confidence. For months, Mills leveraged Donald Trump's endorsement as a primary shield against mounting criticism.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>However, basic economic theory reminds us of diminishing marginal returns and liability exposure. If a product—or in this case, a candidate's legislative brand—carries structural defects, slapping a luxury label on it only delays the inevitable market correction. Primary voters in Florida's 7th District ultimately acted as rational consumers looking at long-term utility. They realized that an embattled representative brings legislative gridlock, potential committee removal, and vulnerability in the general election—costs that far outweighed the short-term brand boost of an endorsement.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <div style="border-left: 4px solid #eab308; background: #fffbeb; padding: 1.0rem; margin: 1.5rem 0; border-radius: 4px;">
 <p style="margin: 0 0 0.5rem 0; font-weight: bold; color: #92400e;">Tools for Strategic Decision-Making</p>
 <ul style="margin: 0; padding-left: 1.25rem; color: #78350f;">
-<li><strong>Superforecasting: The Art and Science of Prediction by Philip E. Tetlock</strong> - <a href="https://www.amazon.com/dp/0804136701?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Check Price on Amazon ($15.89)</a></li>
-<li><strong>Principles: Life and Work by Ray Dalio (Evaluating Risk & Stress Tests)</strong> - <a href="https://www.amazon.com/dp/1501124021?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Check Price on Amazon ($18.50)</a></li>
+<li><strong>Superforecasting: The Art and Science of Prediction by Philip E. Tetlock</strong> - <a href="https://www.amazon.com/dp/0804136701?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Check Price on Amazon </a></li>
+<li><strong>Principles: Life and Work by Ray Dalio (Evaluating Risk & Stress Tests)</strong> - <a href="https://www.amazon.com/dp/1501124021?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Check Price on Amazon </a></li>
 </ul>
 </div>
 </section>
@@ -116,21 +116,21 @@ Tactical Waterproof Backpack ($35.99)
 <p>This political shakeup makes me think about how fragile human systems are when they lack a solid foundation of trust. We often look at elections purely through the lens of power dynamics and financial contributions, but there is a deeper moral economy at play in public and private life alike.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Proverbs 22:1 reminds us, &ldquo;A good name is to be chosen rather than great riches, and favour is better than silver and gold.&rdquo; When character is compromised for short-term gain, the eventual bankruptcy—whether in business, politics, or personal reputation—always exceeds any temporary profits.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Similarly, Luke 16:10 offers a timeless principle on stewardship: &ldquo;One who is faithful in a very little is also faithful in much, and one who is dishonest in a very little is also dishonest in much.&rdquo; Whether managing a multi-million-dollar campaign war chest or a local public office, the ledger of integrity is the only one that truly balances in the end.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -140,7 +140,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>Elections like this one offer practical lessons for citizens, taxpayers, and anyone observing how organizations manage accountability:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <ul>
@@ -152,8 +152,8 @@ Seagate Portable External Hard Drive ($59.99)
 <div style="border-left: 4px solid #eab308; background: #fffbeb; padding: 1.0rem; margin: 1.5rem 0; border-radius: 4px;">
 <p style="margin: 0 0 0.5rem 0; font-weight: bold; color: #92400e;">Recommended Reading for Personal Growth</p>
 <ul style="margin: 0; padding-left: 1.25rem; color: #78350f;">
-<li><strong>Atomic Habits by James Clear (Building Good Systems & Integrity)</strong> - <a href="https://www.amazon.com/dp/0735211299?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Check Price on Amazon ($11.98)</a></li>
-<li><strong>Extreme Ownership: How U.S. Navy SEALs Lead and Win by Jocko Willink</strong> - <a href="https://www.amazon.com/dp/1250067057?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Check Price on Amazon ($16.00)</a></li>
+<li><strong>Atomic Habits by James Clear (Building Good Systems & Integrity)</strong> - <a href="https://www.amazon.com/dp/0735211299?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Check Price on Amazon </a></li>
+<li><strong>Extreme Ownership: How U.S. Navy SEALs Lead and Win by Jocko Willink</strong> - <a href="https://www.amazon.com/dp/1250067057?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Check Price on Amazon </a></li>
 </ul>
 </div>
 </section>

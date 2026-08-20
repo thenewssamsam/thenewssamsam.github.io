@@ -24,7 +24,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/gop-rep-cory-mills-l
     <p>NBC News projects that former television journalist Ryan Elijah has secured the Republican nomination, capturing 46% of the vote compared to Mills’ 34%. Despite receiving an endorsement from former President Donald Trump, Mills faced a challenging path to re-election, hampered by limited fundraising and significant negative publicity stemming from various probes.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -34,7 +34,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>For many voters, the term "investigation" regarding a public official can be confusing. It is important to distinguish between the different types of probes currently surrounding Rep. Mills. This is general information, not legal advice — consult a licensed attorney for your situation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -42,7 +42,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The investigations into Rep. Mills involve two distinct tracks. The House Ethics Committee handles internal conduct issues, focusing on whether a member violated House rules, such as those governing campaign finance or personal conduct. Conversely, the Department of Justice (DOJ) conducts investigations into potential violations of federal criminal or civil law. A member of Congress, like any other citizen, maintains the presumption of innocence in these proceedings.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -56,13 +56,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>When we see public figures face intense scrutiny, it serves as a reminder of the weight of responsibility that comes with leadership. The Bible frequently speaks to the importance of integrity, noting that "whoever walks in integrity walks securely, but he who makes his ways crooked will be found out" (Proverbs 10:9, ESV). This verse invites us to consider that character is the foundation upon which all other work is built.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Furthermore, we are reminded that "The integrity of the upright guides them, but the crookedness of the treacherous destroys them" (Proverbs 11:3, ESV). These ancient words invite us to reflect on our own lives—not just the lives of those in the news—and to prioritize honesty in our daily choices, knowing that transparency is a value that endures long after the political headlines fade.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

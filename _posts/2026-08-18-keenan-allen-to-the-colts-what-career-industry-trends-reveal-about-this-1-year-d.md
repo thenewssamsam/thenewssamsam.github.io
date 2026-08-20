@@ -33,12 +33,12 @@ source_url: 'https://sports.yahoo.com/nfl/breaking-news/article/veteran-wr-keena
 
 <section id="the-signing">
     <h2>The Signing: What Just Happened</h2>
-    <p>In the modern NFL, a veteran player's value is often weighed entirely against their age, but experience still commands a precise price tag. Veteran wide receiver Keenan Allen is heading to the Indianapolis Colts on a one-year, $8.32 million deal agreed upon Monday night, as reported by NFL insider Jordan Schultz. For Allen, who spent nearly his entire career with the Chargers organization after being selected in the third round of the 2013 NFL Draft, this represents a new chapter at age 34. Following a season where he recorded 777 receiving yards and four touchdowns on 81 catches, Allen enters Indianapolis not just as a depth piece, but as a stabilizing veteran presence for an offense looking to climb back into postseason contention.</p>
+    <p>In the modern NFL, a veteran player's value is often weighed entirely against their age, but experience still commands a precise price tag. Veteran wide receiver Keenan Allen is heading to the Indianapolis Colts on a one-year,  million deal agreed upon Monday night, as reported by NFL insider Jordan Schultz. For Allen, who spent nearly his entire career with the Chargers organization after being selected in the third round of the 2013 NFL Draft, this represents a new chapter at age 34. Following a season where he recorded 777 receiving yards and four touchdowns on 81 catches, Allen enters Indianapolis not just as a depth piece, but as a stabilizing veteran presence for an offense looking to climb back into postseason contention.</p>
     
-    <p>The timing and structure of the contract tell an important story about how professional sports leagues value proven production over long-term financial commitments. After playing on a one-year, $3.02 million deal with the Chargers last season, Allen's new agreement reflects both a pay raise based on his steady output and a cautious one-year term that mitigates risk for the franchise. The Colts are betting that his elite route-running and reliable hands can translate immediately, especially as they welcome back quarterback Daniel Jones from an Achilles injury.</p>
+    <p>The timing and structure of the contract tell an important story about how professional sports leagues value proven production over long-term financial commitments. After playing on a one-year,  million deal with the Chargers last season, Allen's new agreement reflects both a pay raise based on his steady output and a cautious one-year term that mitigates risk for the franchise. The Colts are betting that his elite route-running and reliable hands can translate immediately, especially as they welcome back quarterback Daniel Jones from an Achilles injury.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 </section>
@@ -86,7 +86,7 @@ Tactical Waterproof Backpack ($35.99)
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "Keenan Allen to the Colts: What Career & Industry Trends Reveal About This 1-Year Deal",
-  "description": "Veteran wide receiver Keenan Allen is heading to the Indianapolis Colts on a 1-year, $8.32 million deal. Explore the career and industry implications of this signing.",
+  "description": "Veteran wide receiver Keenan Allen is heading to the Indianapolis Colts on a 1-year,  million deal. Explore the career and industry implications of this signing.",
   "datePublished": "2026-06-02",
   "author": {
     "@type": "Organization",
@@ -101,7 +101,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -109,7 +109,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">abshoo College Bookbag</a></div>
-    <div class="product-price">$29.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -117,7 +117,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">QT-QY Military Tactical Backpack</a></div>
-    <div class="product-price">$34.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -125,7 +125,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Toshiba 5400RPM Hard Drive</a></div>
-    <div class="product-price">$49.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -133,7 +133,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Backpack USB Charging Port</a></div>
-    <div class="product-price">$39.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -141,7 +141,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">KEOFID Classic Backpack</a></div>
-    <div class="product-price">$32.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -149,7 +149,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -157,7 +157,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">JIYINGDUO External Hard Drive</a></div>
-    <div class="product-price">$44.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

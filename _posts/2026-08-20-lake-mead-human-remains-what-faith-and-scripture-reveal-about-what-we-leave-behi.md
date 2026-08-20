@@ -42,12 +42,12 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/19/lake-mead-human-rem
 <p>While hydrologists and climate experts focus on declining runoff, warming temperatures, and the staggering reality that the Colorado River supplies water to 40 million people across seven states, there is another layer to this ongoing story. Beneath the technical data of water depth measurements and reservoir management lies a profound human and spiritual reality: what we attempt to bury in the dark rarely stays hidden forever.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <div class="ncg-product-card" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
-<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B08N3T1M59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">ESV Study Bible, Large Print (Cloth Over Board, Timeless Gray)</a> - $45.99. Deepen your understanding of scripture with comprehensive study notes and cross-references.
+<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B08N3T1M59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">ESV Study Bible, Large Print (Cloth Over Board, Timeless Gray)</a> - . Deepen your understanding of scripture with comprehensive study notes and cross-references.
 </div>
 </section>
 
@@ -56,14 +56,14 @@ Tactical Waterproof Backpack ($35.99)
 <p>There is something deeply unsettling about a receding body of water. Water has long served in human consciousness—and in biblical narrative—as a symbol of both cleansing and concealment. When the depths cover an object, it disappears from human sight. Families lose loved ones, investigators hit cold case dead ends, and communities move forward, assuming the past has been safely locked away beneath feet of blue water.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>But nature has a way of stripping away our illusions of permanence. The prolonged drought in the American West is acting as a giant eraser, exposing the lakebed year after year. Every foot the water drops reveals forgotten boat wrecks, lost personal items, and, hauntingly, human remains that carry unresolved grief for families who may have waited decades for answers.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -71,7 +71,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>"There is nothing concealed that will not be disclosed, or hidden that will not be made known." — Luke 12:2</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </div>
@@ -79,12 +79,12 @@ Tactical Waterproof Backpack ($35.99)
 <p>This physical reality mirrors a spiritual truth. Human beings are remarkably skilled at hiding things—secrets, regrets, historical injustices, and personal sins. We push them down into the deepest reservoirs of our lives, hoping that time and distance will act as a permanent barrier. Yet, external pressures, life changes, or simply the passing of time often lower the buffer zones in our own lives, bringing forgotten things right back to the surface.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <div class="ncg-product-card" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
-<strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/1593891461?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Pursuit of God by A.W. Tozer</a> - $12.99. A classic guide on seeking truth and transparency in one's spiritual walk.
+<strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/1593891461?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Pursuit of God by A.W. Tozer</a> - . A classic guide on seeking truth and transparency in one's spiritual walk.
 </div>
 </section>
 
@@ -93,26 +93,26 @@ Tactical Waterproof Backpack ($35.99)
 <p>Scripture frequently uses the imagery of hidden things coming to light to remind humanity of God's overarching justice and omniscience. In the Book of Numbers, Moses warns the people of Israel with a phrase that resonates across generations: <em>"Be sure that your sin will find you out"</em> (Numbers 32:23). While the Lake Mead discoveries are largely the tragic result of human violence and unfortunate accidents tied to decades past rather than direct divine judgment, the physical exposure of hidden remains speaks powerfully to the moral order of the universe.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>We often live as though the things done in secret—whether crimes committed in the shadows of Las Vegas decades ago or quiet compromises in our everyday lives—remain forever locked away. But the Bible reminds us that human history is moving toward a grand reckoning where nothing remains obscured.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Ecclesiastes 12:14 adds a sobering perspective: <em>"For God will bring every deed into judgment, including every hidden thing, whether it is good or evil."</em> This is not written merely to terrify, but to instill a healthy reverence for truth. When we see physical evidence forced out of the mud and silt of Lake Mead, it serves as a tangible reminder that reality cannot be permanently suppressed by rising or falling water.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
 <div class="ncg-product-card" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
-<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0310451310?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">NIV, Journal the Word Bible</a> - $29.99. Perfect for personal reflection, journaling thoughts, and studying biblical themes of grace and truth.
+<strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0310451310?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">NIV, Journal the Word Bible</a> - . Perfect for personal reflection, journaling thoughts, and studying biblical themes of grace and truth.
 </div>
 </section>
 
@@ -121,7 +121,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>When news headlines report yet another grim discovery in the Nevada desert, how should believers process the event? Rather than falling into morbid fascination or fear over changing climate patterns, we can approach these moments with purposeful reflection:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -132,7 +132,7 @@ Tactical Waterproof Backpack ($35.99)
 </ul>
 
 <div class="ncg-product-card" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
-<strong>Recommended Book:</strong> <a href="https://www.amazon.com/dp/1496452816?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Creation Care: Making Our Care for God's Earth a Priority</a> - $16.99. Exploring the biblical mandate for environmental stewardship.
+<strong>Recommended Book:</strong> <a href="https://www.amazon.com/dp/1496452816?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Creation Care: Making Our Care for God's Earth a Priority</a> - . Exploring the biblical mandate for environmental stewardship.
 </div>
 </section>
 

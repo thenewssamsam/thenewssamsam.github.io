@@ -25,7 +25,7 @@ source_url: "https://www.foxnews.com/politics/trumps-support-doesnt-save-scandal
     
     <div class="ncg-product-box" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0 0 5px 0; font-weight: bold; font-size: 0.9em; color: #555;">RECOMMENDED FOR YOUR BOOKSHELF</p>
-      <p style="margin: 0;"><a href="https://www.amazon.com/dp/B0753CVJ6H?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: bold;">Thinking, Fast and Slow</a> by Daniel Kahneman — $14.99. Understand the cognitive biases and mental shortcuts voters use when processing political scandals and leadership failures.</p>
+      <p style="margin: 0;"><a href="https://www.amazon.com/dp/B0753CVJ6H?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: bold;">Thinking, Fast and Slow</a> by Daniel Kahneman — . Understand the cognitive biases and mental shortcuts voters use when processing political scandals and leadership failures.</p>
     </div>
 
     <p>Rep. Cory Mills, a military veteran seeking his third term, lost his primary bid to Ryan Elijah, a former local TV news anchor and political newcomer. Despite holding a comfortable lead in polls right up until election day and securing the coveted Trump endorsement, Mills could not outrun the crushing weight of a House Ethics Committee investigation and unyielding allegations regarding his conduct.</p>
@@ -33,7 +33,7 @@ source_url: "https://www.foxnews.com/politics/trumps-support-doesnt-save-scandal
     <p>Mills is not an isolated casualty. His defeat mirrors a broader shifting tide in Washington, where a string of House Republicans—including Rep. Chuck Edwards of North Carolina, who dropped his re-election bid following an explosive ethics report—have found themselves isolated by their own caucuses. In Mills' case, fellow Republicans like Rep. Nancy Mace led a vocal push against him, proving that party protection has its limits when accumulating scandals turn a representative into a general election liability.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -43,7 +43,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>When an immensely popular political figure like Donald Trump backs a candidate, standard political gravity suggests loyalty should win out. Why, then, did thousands of primary voters look at the exact same endorsement and decide it was time for a change? To understand this shift, we have to look past political strategy and examine the cognitive mechanisms driving voter decision-making.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -51,19 +51,19 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Voters generally operate under a psychological state known as <a href="https://www.amazon.com/dp/0143115383?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">normalcy bias</a>—the unconscious assumption that things will continue roughly as they have, and that minor scandals are just political noise. For a long time, partisans lean heavily on <a href="https://www.amazon.com/dp/0061122416?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">confirmation bias</a>, dismissing negative reports about their preferred candidates as partisan attacks or media hit jobs.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <div class="ncg-product-box" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0 0 5px 0; font-weight: bold; font-size: 0.9em; color: #555;">LEADERSHIP & ACCOUNTABILITY READ</p>
-      <p style="margin: 0;"><a href="https://www.amazon.com/dp/1591846447?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: bold;">Leaders Eat Last</a> by Simon Sinek — $16.50. A profound look at why true authority requires protecting others rather than shielding oneself from accountability.</p>
+      <p style="margin: 0;"><a href="https://www.amazon.com/dp/1591846447?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: bold;">Leaders Eat Last</a> by Simon Sinek — . A profound look at why true authority requires protecting others rather than shielding oneself from accountability.</p>
     </div>
 
     <p>However, there is a distinct psychological tipping point. When multiple colleagues from the candidate's own party—such as Mace, Haridopolos, and Luna—start breaking ranks and publicly endorsing the opponent, the cognitive dissonance becomes too heavy to maintain. The defense mechanism breaks down because the threat is no longer coming from external political rivals; it is coming from inside the tribe.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -75,14 +75,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Psychologists have long documented <a href="https://www.amazon.com/dp/0393356256?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">loss aversion</a>—the principle that the pain of losing something feels far more intense than the pleasure of gaining its equivalent. In a primary election, voters weigh the potential loss of their district's safety, effectiveness, and general election viability against the emotional comfort of sticking with an incumbent.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>When continuous ethics investigations dominate the news cycle, maintaining support for that candidate stops feeling like loyalty to a movement and starts feeling like an unnecessary risk. Florida voters in the 7th District ultimately decided that keeping an embattled incumbent was a gamble they no longer wished to take.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -92,26 +92,26 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This dynamic of public figures leaning on high-profile associations while trying to outrun private accountability reminds me of timeless human truths. We often look to powerful endorsements or charismatic titles to shield us from the consequences of our own actions. Yet, history and moral wisdom consistently demonstrate that titles do not overwrite character.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <div class="ncg-product-box" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0 0 5px 0; font-weight: bold; font-size: 0.9em; color: #555;">ETHICS & CHARACTER</p>
-      <p style="margin: 0;"><a href="https://www.amazon.com/dp/1496453267?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: bold;">The Ruthless Elimination of Hurry</a> by John Mark Comer — $15.00. Exploring how inner character and slowing down preserve integrity in high-stress modern environments.</p>
+      <p style="margin: 0;"><a href="https://www.amazon.com/dp/1496453267?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: bold;">The Ruthless Elimination of Hurry</a> by John Mark Comer — . Exploring how inner character and slowing down preserve integrity in high-stress modern environments.</p>
     </div>
 
     <p>One verse that comes to mind when observing these political shifts is Proverbs 11:3: <em>"The integrity of the upright guides them, but the unfaithfulness of the treacherous destroys them."</em> It is a reminder that short-term alliances and powerful patrons can temporarily mask deep fractures, but foundational integrity—or the lack of it—ultimately dictates where a person stands when the dust settles.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>I'm also reminded of Luke 12:2-3: <em>"There is nothing concealed that will not be disclosed, or hidden that will not be made known."</em> In the modern digital and political landscape, secrets have a shrinking shelf life. Public scrutiny acts as an unforgiving lens, bringing hidden choices into the open and forcing a reckoning that even the most influential endorsements cannot prevent.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -121,7 +121,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Primary upsets like the one in Florida offer a clear lesson for politically engaged citizens:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>
@@ -132,7 +132,7 @@ Seagate Portable External Hard Drive ($59.99)
     
     <div class="ncg-product-box" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0 0 5px 0; font-weight: bold; font-size: 0.9em; color: #555;">CIVIC ENGAGEMENT TOOL</p>
-      <p style="margin: 0;"><a href="https://www.amazon.com/dp/1501171342?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: bold;">Educated</a> by Tara Westover — $16.00. A powerful memoir about critical thinking, breaking free from insulated environments, and questioning inherited loyalties.</p>
+      <p style="margin: 0;"><a href="https://www.amazon.com/dp/1501171342?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none; font-weight: bold;">Educated</a> by Tara Westover — . A powerful memoir about critical thinking, breaking free from insulated environments, and questioning inherited loyalties.</p>
     </div>
   </section>
 

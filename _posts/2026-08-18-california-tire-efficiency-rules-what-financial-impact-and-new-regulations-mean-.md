@@ -40,7 +40,7 @@ source_url: ''
     <p>Rolling resistance measures how much energy a tire expends as it rolls down the pavement. Lower rolling resistance translates directly to better fuel economy for gas-powered vehicles and extended driving range for electric vehicles (EVs). While brand-new cars typically roll off dealership lots equipped with highly efficient low-resistance tires, consumers historically replace worn tires with aftermarket options that prioritize grip, tread life, or lower upfront price tags regardless of rolling resistance.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>Under the newly adopted framework, the CEC will implement standards across two distinct phases:</p>
@@ -54,12 +54,12 @@ Tactical Waterproof Backpack ($35.99)
   <section id="financial-impact">
     <h2>The Financial Impact: Savings vs. Upfront Costs</h2>
     <p>The core debate surrounding the CEC's decision centers on a classic economic trade-off: short-term purchase pain versus long-term operational savings.</p>
-    <p>State officials are framing the regulation as a consumer protection measure. David Hochschild, chairman of the CEC, stated that the policy is designed to shelter the public from rising energy costs over time. Commission staff estimates that motorists could realize fuel and electricity savings of roughly $79 within four months under Phase 1 standards, and approximately $153 within seven months under Phase 2.</p>
+    <p>State officials are framing the regulation as a consumer protection measure. David Hochschild, chairman of the CEC, stated that the policy is designed to shelter the public from rising energy costs over time. Commission staff estimates that motorists could realize fuel and electricity savings of roughly  within four months under Phase 1 standards, and approximately  within seven months under Phase 2.</p>
     <div class="tc-quote-box">
       <p>"These regulations are a tool within our authority that can save money for every Californian."</p>
       <span class="tc-quote-author">&mdash; Nancy Skinner, CEC Commissioner</span>
     </div>
-    <p>However, representatives from major tire manufacturers sharply dispute those financial projections. Speaking on behalf of Goodyear, Bret Gladfelty told the commission that the rules fail to resolve critical technical hurdles and will inevitably increase overall expenses for drivers. While state models suggest a modest average price increase of about $6.50 per tire during Phase 2, manufacturer warnings paint a drastically different picture.</p>
+    <p>However, representatives from major tire manufacturers sharply dispute those financial projections. Speaking on behalf of Goodyear, Bret Gladfelty told the commission that the rules fail to resolve critical technical hurdles and will inevitably increase overall expenses for drivers. While state models suggest a modest average price increase of about  per tire during Phase 2, manufacturer warnings paint a drastically different picture.</p>
     <p>Industry stakeholders caution that specialized research, development, and material adjustments required to meet ultra-low rolling resistance levels while maintaining safety and traction could push retail price increases to hundreds of dollars per set. Furthermore, because fewer manufacturing lines will meet the state's stringent recipe, restricted market supply and reduced consumer choice can naturally introduce inflationary pressures.</p>
   </section>
 
@@ -123,7 +123,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -131,7 +131,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

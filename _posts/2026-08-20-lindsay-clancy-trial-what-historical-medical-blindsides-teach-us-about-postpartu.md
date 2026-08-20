@@ -39,7 +39,7 @@ source_url: "https://www.bbc.com/news/articles/c62emm4yp8go"
     <p>Prosecutors, however, have argued that the killings were the result of a calculated decision, pointing to the deliberate actions taken prior to the tragedy. The defense counters that Clancy was experiencing terrifying hallucinations and delusions, having sought psychiatric help and briefly admitted herself to a hospital just days before the event. This stark division between a medical emergency and a criminal act forces society to confront how we evaluate severe mental breakdowns—a challenge that echoes centuries of medical misunderstanding.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -50,7 +50,7 @@ Tactical Waterproof Backpack ($35.99)
 
 <div class="ncg-product-card" style="border-left: 4px solid #f0c14b; background: #f8f9fa; padding: 15px; margin: 20px 0; border-radius: 4px;">
     <p style="margin: 0; font-weight: bold;">Recommended Reading:</p>
-    <p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B08N3W56X8?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Collected Works of Historical Psychology and Medicine</a> - A comprehensive look at how society views psychiatric crises. Price: $24.99</p>
+    <p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B08N3W56X8?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Collected Works of Historical Psychology and Medicine</a> - A comprehensive look at how society views psychiatric crises. </p>
 </div>
 
 <section id="historical-parallel">
@@ -58,7 +58,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>To understand the modern public shock surrounding cases like Lindsay Clancy's, we must look backward through history. For generations, societies struggled to conceptualize psychological conditions that arose strictly from biological transitions such as childbirth. Long before the term "postpartum psychosis" gained clinical recognition, women experiencing severe postpartum psychiatric crises were frequently misunderstood, misdiagnosed, or subjected to moral judgment rather than medical intervention.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -66,7 +66,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>In the 19th century, medical literature occasionally acknowledged what physicians then called "puerperal insanity." Yet, Victorian institutional responses were often blunt and punitive. Women who suffered severe delusions or psychotic breaks after giving birth were routinely separated from their families and placed in asylum settings that prioritized containment over compassionate neurological care. Society preferred to view these sudden psychological ruptures as character defects or a failure of maternal instinct rather than a physiological malfunction of the brain under extreme hormonal shifts.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -74,14 +74,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>A second historical parallel exists in how legal systems have historically evaluated altered states of consciousness. For centuries, criminal law struggled to accommodate conditions where an individual's sense of reality was completely warped by internal physiological storms, rather than external intoxicants or clear malice. Only in recent decades has modern psychiatry begun to untangle the profound chemical and hormonal precipice of childbirth. The National Health Service (NHS) now explicitly classifies postpartum psychosis as a medical emergency distinct from the common "baby blues"—a distinction that historical courts would have completely overlooked.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </div>
 
 <div class="ncg-product-card" style="border-left: 4px solid #f0c14b; background: #f8f9fa; padding: 15px; margin: 20px 0; border-radius: 4px;">
     <p style="margin: 0; font-weight: bold;">Essential Support Tool:</p>
-    <p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B07H8T8H92?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Journaling for Mental Clarity and Emotional Healing</a> - A guided journal for processing difficult emotional transitions. Price: $14.99</p>
+    <p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B07H8T8H92?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Journaling for Mental Clarity and Emotional Healing</a> - A guided journal for processing difficult emotional transitions. </p>
 </div>
 
 <section id="scripture-reflection">
@@ -89,20 +89,20 @@ Tactical Waterproof Backpack ($35.99)
     <p>When examining stories of intense human suffering and psychological fracture, it is natural to feel a heavy weight of sorrow. This makes me think of the gentle encouragement found in Scripture when human strength completely fails. In Psalm 34:18, we read, "The Lord is close to the brokenhearted and saves those who are crushed in spirit." This reminds us that even in the darkest valleys of human confusion, where medical science and legal frameworks struggle to find neat answers, divine compassion sees the full depth of our frailty.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Similarly, Proverbs 3:5-6 invites us to lean not on our own understanding when confronting complex tragedies, maintaining humility when judging the broken paths of others. We are reminded that human judgment is often limited, while true mercy requires patience, deep listening, and a commitment to protecting the vulnerable.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
 
 <div class="ncg-product-card" style="border-left: 4px solid #f0c14b; background: #f8f9fa; padding: 15px; margin: 20px 0; border-radius: 4px;">
     <p style="margin: 0; font-weight: bold;">Mindfulness Aid:</p>
-    <p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B09V3HM42D?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Aromatherapy Essential Oil Diffuser for Relaxation</a> - Creates a calming environment for emotional processing. Price: $29.99</p>
+    <p style="margin: 5px 0 0 0;"><a href="https://www.amazon.com/dp/B09V3HM42D?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Aromatherapy Essential Oil Diffuser for Relaxation</a> - Creates a calming environment for emotional processing. </p>
 </div>
 
 <section id="how-to-respond">
@@ -110,7 +110,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Tragedies like the one unfolding in Massachusetts offer painful lessons that demand proactive community and personal responses:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>
@@ -125,7 +125,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The trial of Lindsay Clancy forces society to gaze into an abyss where severe medical illness and unimaginable heartbreak collide. By examining historical precedents, we realize that humanity has long struggled to comprehend the invisible storms that can shatter a human mind. Recognizing postpartum psychosis not as a moral failure, but as a critical medical emergency, is a necessary step toward preventing future tragedies and offering compassionate support to families in crisis.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p><em>True healing begins the moment we replace silent judgment with vigilant, compassionate care.</em></p>

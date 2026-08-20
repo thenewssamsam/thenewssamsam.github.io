@@ -31,10 +31,10 @@ source_url: "https://www.nbcnews.com/politics/2026-election/republican-byron-don
 
 <section id="what-happened">
     <h2>What Happened in the Florida Primaries?</h2>
-    <p>According to NBC News projections, Florida primary voters largely backed the favorites in both major parties. On the Republican side, Byron Donalds outran a crowded and contentious field, bolstered by an endorsement from President Donald Trump and a massive fundraising haul of nearly $100 million. The GOP primary was notoriously heated, featuring intense infighting among challengers like James Fishback, Lt. Gov. Jay Collins, and former state House Speaker Paul Renner.</p>
+    <p>According to NBC News projections, Florida primary voters largely backed the favorites in both major parties. On the Republican side, Byron Donalds outran a crowded and contentious field, bolstered by an endorsement from President Donald Trump and a massive fundraising haul of nearly  million. The GOP primary was notoriously heated, featuring intense infighting among challengers like James Fishback, Lt. Gov. Jay Collins, and former state House Speaker Paul Renner.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -45,7 +45,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>On the Democratic side, David Jolly—a former Republican member of Congress who later changed parties—secured the nomination with nominal opposition after Orange County Mayor Jerry Demings suspended his campaign earlier in the summer. Jolly enters the general election as a moderate alternative designed to test whether Democrats can crack the GOP's three-decade winning streak in Florida gubernatorial races.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -55,7 +55,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Elections in the United States operate under a complex web of federal constitutional parameters, state statutes, and administrative rules. When major figures like Byron Donalds and David Jolly advance to a general election, it provides a valuable opportunity to examine the legal structures that govern ballot access, candidate eligibility, and voter participation in Florida.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -67,7 +67,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Under Florida law, candidates running for governor must meet specific constitutional criteria: they must be at least 30 years old, a registered voter in the state, and a resident of Florida for the preceding seven years. Securing a spot on the primary ballot involves navigating qualifying fees, petition signature requirements administered by the Florida Division of Elections, or party nomination processes.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -75,7 +75,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Florida traditionally operates as a closed primary state, meaning registered voters can only vote in their own party's primary election. This legal framework significantly shapes campaign strategies, as candidates must first appeal to the most committed partisans within their own registered base before pivoting to a broader electorate for the general election. While non-party-affiliated (NPA) voters have grown significantly in Florida, they remain excluded from closed party primaries unless nonpartisan judicial or local office races appear on the ballot.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -83,7 +83,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The 2026 election cycle is uniquely defined by Florida's constitutional term limits. Under Article IV, Section 5 of the Florida Constitution, an individual elected to the office of governor for two consecutive terms cannot be re-elected for the succeeding term. This legal restraint is precisely why Governor Ron DeSantis could not seek re-election in 2022 beyond his second term, opening the door for an entirely new chapter in Florida executive leadership.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -94,7 +94,7 @@ Seagate Portable External Hard Drive ($59.99)
 </section>
 
 <div style="border-left: 4px solid #d32f2f; background: #fff5f5; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <p style="margin: 0;">Need reliable books on government and civics? Consider checking out <a href="https://www.amazon.com/dp/0393931980?tag=thenewssam-20" target="_blank" rel="noopener">American Government: Power and Purpose ($75.50)</a> for a deeper dive into institutional structures.</p>
+    <p style="margin: 0;">Need reliable books on government and civics? Consider checking out <a href="https://www.amazon.com/dp/0393931980?tag=thenewssam-20" target="_blank" rel="noopener">American Government: Power and Purpose </a> for a deeper dive into institutional structures.</p>
 </div>
 
 <section id="scripture-perspective">
@@ -102,14 +102,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Political campaigns often bring intense division, soaring rhetoric, and fierce competition for power. Watching communities navigate these polarizing seasons makes me reflect on the timeless wisdom found in Scripture regarding leadership, justice, and civic responsibility.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>The Apostle Paul encouraged believers in early communities to maintain integrity and pray for those in authority: <em>"First of all, then, I urge that supplications, prayers, intercessions, and thanksgivings be made for all people, for kings and all who are in high positions, that we may lead a peaceful and quiet life, godly and dignified in every way"</em> (1 Timothy 2:1-2, ESV). This reminds us that regardless of political affiliation or legal outcomes, the well-being of a society relies heavily on peaceful civic engagement, honesty, and a genuine care for our neighbors.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -119,7 +119,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>As the race between Byron Donalds and David Jolly unfolds toward November, citizens have several practical ways to engage constructively:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <ul>
@@ -131,7 +131,7 @@ Tactical Waterproof Backpack ($35.99)
 </section>
 
 <div style="border-left: 4px solid #1976d2; background: #e3f2fd; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <p style="margin: 0;">For studying public policy and governance principles, you might find <a href="https://www.amazon.com/dp/0134524716?tag=thenewssam-20" target="_blank" rel="noopener">Government in America: People, Politics, and Policy ($92.00)</a> helpful for personal research.</p>
+    <p style="margin: 0;">For studying public policy and governance principles, you might find <a href="https://www.amazon.com/dp/0134524716?tag=thenewssam-20" target="_blank" rel="noopener">Government in America: People, Politics, and Policy </a> helpful for personal research.</p>
 </div>
 
 <section id="conclusion">
@@ -139,7 +139,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>The 2026 Florida gubernatorial matchup between Byron Donalds and David Jolly marks a pivotal moment for the state's political future. By understanding the legal boundaries, primary structures, and electoral rules that shape this contest, voters are better equipped to navigate the months ahead. A strong democracy thrives when citizens combine active participation with informed discernment.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -149,7 +149,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Elections come and go, but the character of a community is built daily through how neighbors treat one another across political divides. True civic strength is measured not just by which party wins an election, but by how justly and fairly we govern ourselves.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p><em>Informed civic engagement remains the anchor of a free society.</em></p>

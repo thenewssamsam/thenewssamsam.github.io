@@ -23,10 +23,10 @@ source_url: "https://www.wbur.org/news/2026/08/17/prosecution-rests-murder-trial
     <p>Lindsay Clancy has admitted to the killing of her children—Cora, 5; Dawson, 3; and Callan, 8 months. The legal battle hinges on her state of mind. Her defense team argues that she was suffering from severe postpartum mental health issues, exacerbated by prescribed medication, and should be found not criminally responsible due to insanity. Conversely, the prosecution maintains that the act was a deliberate choice, pointing to digital evidence and search history as indicators of intent.</p>
     
     <div class="ncg-product-box" style="border: 1px solid #ffd700; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 8px;">
-      <p><strong>Recommended Resource:</strong> <em>The Deepest Well: Healing the Long-Term Effects of Childhood Adversity</em> by Dr. Nadine Burke Harris - $14.99. <a href="https://www.amazon.com/dp/B072124567" target="_blank">View on Amazon</a></p>
+      <p><strong>Recommended Resource:</strong> <em>The Deepest Well: Healing the Long-Term Effects of Childhood Adversity</em> by Dr. Nadine Burke Harris - . <a href="https://www.amazon.com/dp/B072124567" target="_blank">View on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -34,7 +34,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Patrick Clancy, the children's father, has provided harrowing testimony regarding the months leading up to the tragedy. He described a chaotic reality where moments of normalcy were interspersed with Lindsay’s deteriorating mental state. The trial is now shifting to psychiatric experts and family members who will attempt to shed light on the unseen battles she was fighting.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -44,14 +44,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In the face of such profound brokenness, we are reminded of the fragility of our mortal existence. Scripture does not shy away from the reality of human suffering or the darkness that can cloud the mind. Psalm 34:18 tells us, <em>"The Lord is near to the brokenhearted and saves the crushed in spirit."</em> This verse invites us to consider that even in the deepest pits of human agony, God’s presence is not absent, even if it feels hidden from our view.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>When we look at this tragedy, it is easy to demand immediate, simple answers. However, the complexity of the human brain and the reality of mental illness remind us of our limitations. We are called to hold two things in tension: the pursuit of truth and justice, and the mandate to show mercy. Proverbs 31:8-9 instructs us to <em>"Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -60,10 +60,10 @@ Seagate Portable External Hard Drive ($59.99)
     </div>
 
     <div class="ncg-product-box" style="border: 1px solid #ffd700; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 8px;">
-      <p><strong>Support for Parents:</strong> <em>The Whole-Brain Child</em> by Daniel J. Siegel - $12.50. <a href="https://www.amazon.com/dp/0553386697" target="_blank">View on Amazon</a></p>
+      <p><strong>Support for Parents:</strong> <em>The Whole-Brain Child</em> by Daniel J. Siegel - . <a href="https://www.amazon.com/dp/0553386697" target="_blank">View on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -74,7 +74,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This case challenges us to move beyond gossip and into active, prayerful engagement:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>

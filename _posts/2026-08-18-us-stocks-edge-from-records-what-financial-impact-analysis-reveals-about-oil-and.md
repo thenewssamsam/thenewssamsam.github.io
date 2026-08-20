@@ -37,10 +37,10 @@ source_url: 'https://apnews.com/article/stocks-markets-futures-rates-oil-japan-b
 
 <section id="what-happened">
   <h2>What Happened in the Markets</h2>
-  <p>U.S. equities edged lower on Monday, led by a 0.5% drop in the S&P 500 and a 272-point decline in the Dow Jones Industrial Average, while the Nasdaq composite slipped 0.3%. The catalyst for the afternoon sell-off was a sudden acceleration in oil prices, with Brent crude—the international standard—climbing 2.7% to $90.87 a barrel.</p>
+  <p>U.S. equities edged lower on Monday, led by a 0.5% drop in the S&P 500 and a 272-point decline in the Dow Jones Industrial Average, while the Nasdaq composite slipped 0.3%. The catalyst for the afternoon sell-off was a sudden acceleration in oil prices, with Brent crude—the international standard—climbing 2.7% to  a barrel.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
   <p>Behind this energy volatility is growing uncertainty surrounding geopolitical tensions and the conflict with Iran, which has kept global crude flows on edge. Over the past month, oil prices have zigzagged wildly as traders try to gauge whether shipping routes through the Persian Gulf will remain open or face disruptions. That volatility in the commodities market immediately spilled over into fixed-income markets, pushing the yield on the 10-year Treasury up to 4.72% from 4.68% late last week.</p>
@@ -97,7 +97,7 @@ Tactical Waterproof Backpack ($35.99)
   "@context": "https://schema.org",
   "@type": "NewsArticle",
   "headline": "US Stocks Edge From Records: What Financial Impact Analysis Reveals About Oil and Rates",
-  "description": "US stocks edged from record highs as Brent crude climbed toward $90. Discover how oil price spikes, Treasury yields, and inflation are driving market shifts.",
+  "description": "US stocks edged from record highs as Brent crude climbed toward  Discover how oil price spikes, Treasury yields, and inflation are driving market shifts.",
   "datePublished": "2026-08-18",
   "author": {
     "@type": "Organization",
@@ -112,7 +112,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -120,7 +120,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

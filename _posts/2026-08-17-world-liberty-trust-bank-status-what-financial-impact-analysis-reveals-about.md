@@ -37,7 +37,7 @@ source_url: 'https://abcnews.com/Business/trump-linked-crypto-venture-world-libe
     <p>The decision immediately triggered sharp warnings from congressional Democrats, notably Senate Banking Committee Ranking Member Elizabeth Warren, who labeled the development an unprecedented conflict of interest. While the White House maintains that the president's assets are managed through a trust by his children and present no conflict, financial analysts and legal scholars are closely examining the structural shift this represents for both federal banking regulation and digital currency markets.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -57,7 +57,7 @@ Tactical Waterproof Backpack ($35.99)
 
   <section id="market-implications">
     <h2>Market Dynamics and Stablecoin Integration</h2>
-    <p>The commercial scale of World Liberty Financial is already substantial. Public disclosures and market valuations indicate that the venture generated billions in early token evaluations, with major international capital injections—such as a $2 billion investment from state-backed Abu Dhabi firm MGX—fueling its expansion. The integration of MGX's capital with high-volume crypto exchanges like Binance highlights how stablecoins function as the high-speed rails of modern international capital flows.</p>
+    <p>The commercial scale of World Liberty Financial is already substantial. Public disclosures and market valuations indicate that the venture generated billions in early token evaluations, with major international capital injections—such as a  billion investment from state-backed Abu Dhabi firm MGX—fueling its expansion. The integration of MGX's capital with high-volume crypto exchanges like Binance highlights how stablecoins function as the high-speed rails of modern international capital flows.</p>
     <p>However, financial integration at this scale inevitably draws intense regulatory scrutiny. Critics point to the dual nature of private enterprise and public authority, questioning how regulatory independence functions when the regulated entity shares ownership ties with the head of the executive branch. The OCC maintains that its staff evaluated the application strictly within statutory duties and established administrative procedures, noting that full approval remains contingent upon meeting stringent capital requirements.</p>
   </section>
 
@@ -106,7 +106,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -114,7 +114,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

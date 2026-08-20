@@ -25,7 +25,7 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-r
   <p>In the heat of a primary, narratives often outpace reality. Here is the breakdown of the most common claims surrounding this race.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -33,7 +33,7 @@ Tactical Waterproof Backpack ($35.99)
   <p><strong>Fact:</strong> While President Trump did endorse Mills back in February, he notably omitted Mills from a series of social media endorsement posts leading up to the primary. However, there is no official record of a formal retraction. Instead, the campaign saw a "de-prioritization" of the endorsement, which signaled a cooling of support to observers.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -41,7 +41,7 @@ Tactical Waterproof Backpack ($35.99)
   <p><strong>Fact:</strong> The House Ethics Committee is currently investigating allegations of sexual misconduct and campaign finance violations. As of August 18, 2026, no findings have been released. Mills has consistently denied any wrongdoing, and the investigation remains an ongoing administrative process rather than a criminal conviction.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -49,15 +49,15 @@ Seagate Portable External Hard Drive ($59.99)
   <p><strong>Fact:</strong> While the Cook Political Report moved the race from "solid Republican" to "likely Republican," the district remains fundamentally conservative. Challenger Ryan Elijah will face Democrat Bale Dalton, but the seat is still viewed as leaning toward the GOP, albeit with increased uncertainty due to the recent primary turbulence.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
   <div style="border-left: 4px solid #f1c40f; background: #fdfaf0; padding: 15px; margin: 20px 0;">
-    <p><strong>Recommended Reading:</strong> <a href="#">Understanding Congressional Ethics Processes</a> - $12.99</p>
+    <p><strong>Recommended Reading:</strong> <a href="#">Understanding Congressional Ethics Processes</a> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>
@@ -66,13 +66,13 @@ Tactical Waterproof Backpack ($35.99)
   <p>In times of political upheaval, it is easy to become cynical about public leadership. The uncertainty surrounding these allegations reminds us of the biblical call to pursue truth above all else. Proverbs 12:22 tells us, "The Lord detests lying lips, but he delights in people who are trustworthy."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   <p>This situation invites us to consider the weight of our own integrity in our daily work and relationships. Whether in the halls of Congress or our local communities, the standard for those in positions of influence is high, and rightly so. As we navigate this news, I am reminded that while human systems may be flawed or slow to deliver justice, we are encouraged to "let your 'Yes' be 'Yes,' and your 'No,' 'No'" (Matthew 5:37).</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -80,7 +80,7 @@ Tactical Waterproof Backpack ($35.99)
   <p>The 7th District results demonstrate that voters are increasingly factoring "baggage" into their candidate evaluations. To respond effectively to such news:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   <ul>
@@ -90,10 +90,10 @@ Seagate Portable External Hard Drive ($59.99)
   </ul>
 
   <div style="border-left: 4px solid #f1c40f; background: #fdfaf0; padding: 15px; margin: 20px 0;">
-    <p><strong>Helpful Resource:</strong> <a href="#">The Voter's Guide to Primary Elections</a> - $9.95</p>
+    <p><strong>Helpful Resource:</strong> <a href="#">The Voter's Guide to Primary Elections</a> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>

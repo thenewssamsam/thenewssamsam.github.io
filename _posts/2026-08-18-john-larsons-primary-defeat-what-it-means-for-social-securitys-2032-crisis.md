@@ -36,7 +36,7 @@ source_url: 'https://www.cnbc.com/2026/08/16/social-security-john-larson-connect
   <p>As policymakers prepare for a high-stakes legislative fight over solvency, benefit expansions, and tax caps, the changing guard in Congress brings both uncertainty and new strategic realities for American workers and retirees.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
@@ -56,14 +56,14 @@ Seagate Portable External Hard Drive ($59.99)
 
   <p>If Congress fails to enact legislative reforms before that depletion date, incoming revenues will only be sufficient to cover roughly 78% of scheduled benefits. That implies an automatic, across-the-board cut of approximately 24% for beneficiaries nationwide.</p>
 
-  <p>The financial impact will vary by region based on average benefit sizes. For instance, according to June state-by-state estimates from the Committee for a Responsible Federal Budget (CRFB), beneficiaries in Connecticut could face average monthly cuts of $556 if the trust fund runs dry without congressional action. States with higher average payouts would experience even larger nominal dollar reductions.</p>
+  <p>The financial impact will vary by region based on average benefit sizes. For instance, according to June state-by-state estimates from the Committee for a Responsible Federal Budget (CRFB), beneficiaries in Connecticut could face average monthly cuts of  if the trust fund runs dry without congressional action. States with higher average payouts would experience even larger nominal dollar reductions.</p>
 
   <h2 id="proposals-on-the-table">Proposals on the Table: Taxes and Benefits</h2>
 
   <p>The debate over how to close this funding gap centers on two fundamentally different financial philosophies:</p>
 
   <ul>
-    <li><strong>The Expansion and Revenue Model (Larson / Social Security 2100):</strong> This approach calls for an across-the-board benefit increase, a revised cost-of-living adjustment formula, and higher minimum benefits for long-term low earners. To pay for these enhancements, the plan eliminates the Social Security payroll tax cap (set at $184,500 in 2026) and taxes investment income for individuals earning over $400,000.</li>
+    <li><strong>The Expansion and Revenue Model (Larson / Social Security 2100):</strong> This approach calls for an across-the-board benefit increase, a revised cost-of-living adjustment formula, and higher minimum benefits for long-term low earners. To pay for these enhancements, the plan eliminates the Social Security payroll tax cap (set at ,500 in 2026) and taxes investment income for individuals earning over ,000.</li>
     <li><strong>Alternative Restructuring Models:</strong> Critics like Bronin have questioned the political viability of passing comprehensive expansions through a divided Washington, emphasizing the need for broad-based external movements. Meanwhile, Republican challenger Amy Chai has proposed keeping the payroll tax cap and rate steady while exploring alternative funding mechanisms, such as prioritizing program obligations before releasing foreign aid and bringing government employees into the system.</li>
   </ul>
 
@@ -103,7 +103,7 @@ Seagate Portable External Hard Drive ($59.99)
     </details>
     <details class="ncg-faq-item">
       <summary>What was the main funding mechanism in the Social Security 2100 Act?</summary>
-      <p>The proposed legislation aimed to finance benefit enhancements by eliminating the payroll tax cap and taxing investment income for individuals earning over $400,000 annually.</p>
+      <p>The proposed legislation aimed to finance benefit enhancements by eliminating the payroll tax cap and taxing investment income for individuals earning over ,000 annually.</p>
     </details>
   </div>
 
@@ -141,7 +141,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -149,7 +149,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

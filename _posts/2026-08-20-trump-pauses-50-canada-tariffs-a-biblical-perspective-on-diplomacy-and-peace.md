@@ -19,7 +19,7 @@ source_url: "https://www.cnn.com/2026/08/18/economy/canada-tariffs-trump"
 
   <section id="what-happened" style="margin-bottom: 40px;">
     <h2 style="font-size: 1.5rem; color: #2b6cb0; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; margin-bottom: 20px;">What Happened in the US-Canada Trade Talks</h2>
-    <p>President Donald Trump late Tuesday pulled back from the brink of an economic collision, postponing a threatened 50% tariff on a wide array of Canadian goods that would have affected roughly $20 billion worth of imports. Speaking from the White House lawn on Wednesday morning, Trump announced that the two sides had successfully forged the framework for a new trade deal following intense negotiations with Canadian Prime Minister Mark Carney.</p>
+    <p>President Donald Trump late Tuesday pulled back from the brink of an economic collision, postponing a threatened 50% tariff on a wide array of Canadian goods that would have affected roughly  billion worth of imports. Speaking from the White House lawn on Wednesday morning, Trump announced that the two sides had successfully forged the framework for a new trade deal following intense negotiations with Canadian Prime Minister Mark Carney.</p>
     
     <div style="background-color: #f7fafc; border-left: 4px solid #3182ce; padding: 15px 20px; margin: 20px 0; border-radius: 4px;">
       <p style="margin: 0; font-style: italic; color: #4a5568;"><strong>Quick Take:</strong> The 50% tariffs, which would have impacted dairy, alcohol, industrial equipment, and manufactured goods without regard to previous USMCA exemptions, have been pushed back until at least August 21 as documentation is finalized.</p>
@@ -30,7 +30,7 @@ source_url: "https://www.cnn.com/2026/08/18/economy/canada-tariffs-trump"
 
   <!-- Amazon Product Recommendation 1 -->
   <div style="background-color: #fffaf0; border-left: 4px solid #dd6b20; padding: 12px 18px; margin: 20px 0; border-radius: 4px; font-size: 0.95rem;">
-    <span>Recommended Resource: <a href="https://www.amazon.com/dp/0310452355?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 600;">NIV Study Bible, Hardcover: Fully Revised Edition</a> - $29.99. Deepen your understanding of scriptural wisdom on daily life, leadership, and community relations.</span>
+    <span>Recommended Resource: <a href="https://www.amazon.com/dp/0310452355?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 600;">NIV Study Bible, Hardcover: Fully Revised Edition</a> - . Deepen your understanding of scriptural wisdom on daily life, leadership, and community relations.</span>
   </div>
 
   <section id="biblical-perspective" style="margin-bottom: 40px;">
@@ -38,14 +38,14 @@ source_url: "https://www.cnn.com/2026/08/18/economy/canada-tariffs-trump"
     <p>In our interconnected global economy, policy announcements made in Washington or Ottawa ripple outward instantly, affecting family budgets, corporate supply chains, and the livelihoods of millions. When geopolitical friction threatens stability, it is easy to view these events purely through the lens of political strategy or economic loss. Yet, stepping back to reflect on human nature and governance reveals timeless patterns that Scripture addresses directly.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <p>The tension between nations often stems from competition, pride, and the temptation to rely solely on economic leverage rather than cooperative stewardship. Trade disputes remind us of how quickly nations can move from partnership to adversarial postures. However, the sudden pivot toward negotiation and a paused deadline highlights the immense value of dialogue over division.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -56,13 +56,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>This verse invites us to consider the posture required in moments of high-stakes conflict. While the political motives behind tariffs and trade pacts are complex, the underlying human desire for security, fairness, and mutual respect mirrors the relational dynamics described throughout Scripture. Peacemaking in the public square requires humility, patience, and a willingness to step back from ultimatums to find a constructive path forward.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <!-- Amazon Product Recommendation 2 -->
     <div style="background-color: #fffaf0; border-left: 4px solid #dd6b20; padding: 12px 18px; margin: 20px 0; border-radius: 4px; font-size: 0.95rem;">
-    <span>Recommended Resource: <a href="https://www.amazon.com/dp/1535902780?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 600;">The Peacemaker: A Biblical Guide to Resolving Personal Conflict</a> - $16.99. Learn practical biblical principles for handling disputes, negotiations, and relational tension.</span>
+    <span>Recommended Resource: <a href="https://www.amazon.com/dp/1535902780?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 600;">The Peacemaker: A Biblical Guide to Resolving Personal Conflict</a> - . Learn practical biblical principles for handling disputes, negotiations, and relational tension.</span>
   </div>
 
     <div style="background-color: #ebf8ff; border: 1px solid #bee3f8; border-radius: 8px; padding: 20px; margin: 30px 0; text-align: center;">
@@ -73,7 +73,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Furthermore, the biblical narrative frequently emphasizes the importance of fair dealing and honest weights in commerce. Proverbs 11:1 reminds us that honest scales are an absolute delight to a righteous standard, pointing toward an underlying moral framework that should govern how nations trade and interact.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -86,7 +86,7 @@ Tactical Waterproof Backpack ($35.99)
 
   <!-- Amazon Product Recommendation 3 -->
   <div style="background-color: #fffaf0; border-left: 4px solid #dd6b20; padding: 12px 18px; margin: 20px 0; border-radius: 4px; font-size: 0.95rem;">
-    <span>Recommended Resource: <a href="https://www.amazon.com/dp/0785232362?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 600;">The 5 Love Languages: The Secret to Love that Lasts</a> - $14.99. Build stronger communication skills in your daily relationships and family life.</span>
+    <span>Recommended Resource: <a href="https://www.amazon.com/dp/0785232362?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 600;">The 5 Love Languages: The Secret to Love that Lasts</a> - . Build stronger communication skills in your daily relationships and family life.</span>
   </div>
 
   <section id="how-christians-respond" style="margin-bottom: 40px;">
@@ -102,7 +102,7 @@ Tactical Waterproof Backpack ($35.99)
 
   <!-- Amazon Product Recommendation 4 -->
   <div style="background-color: #fffaf0; border-left: 4px solid #dd6b20; padding: 12px 18px; margin: 20px 0; border-radius: 4px; font-size: 0.95rem;">
-    <span>Recommended Resource: <a href="https://www.amazon.com/dp/1496455097?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 600;">The One Year Daily Moments of Strength</a> - $15.99. Find daily encouragement and spiritual grounding in turbulent times.</span>
+    <span>Recommended Resource: <a href="https://www.amazon.com/dp/1496455097?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 600;">The One Year Daily Moments of Strength</a> - . Find daily encouragement and spiritual grounding in turbulent times.</span>
   </div>
 
   <section id="faq" style="margin-bottom: 40px;">
@@ -126,7 +126,7 @@ Tactical Waterproof Backpack ($35.99)
 
   <!-- Amazon Product Recommendation 5 -->
   <div style="background-color: #fffaf0; border-left: 4px solid #dd6b20; padding: 12px 18px; margin: 20px 0; border-radius: 4px; font-size: 0.95rem;">
-    <span>Recommended Resource: <a href="https://www.amazon.com/dp/0310452355?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 600;">NIV Life Application Study Bible</a> - $34.99. Discover how timeless biblical truths apply directly to modern economic and global headlines.</span>
+    <span>Recommended Resource: <a href="https://www.amazon.com/dp/0310452355?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: none; font-weight: 600;">NIV Life Application Study Bible</a> - . Discover how timeless biblical truths apply directly to modern economic and global headlines.</span>
   </div>
 
   <footer style="margin-top: 40px; border-top: 2px solid #e2e8f0; padding-top: 20px;">

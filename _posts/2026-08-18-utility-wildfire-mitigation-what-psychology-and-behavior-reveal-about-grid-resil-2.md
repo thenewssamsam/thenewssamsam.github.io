@@ -41,7 +41,7 @@ source_url: 'https://www.renewableenergyworld.com/news/how-can-utilities-build-c
 <p>According to recent industry reporting from <em>Renewable Energy World</em>, the definition of grid reliability is undergoing a fundamental transformation. Standard metrics like SAIDI (System Average Interruption Duration Index) and SAIFI, which historically measured routine outages, no longer capture the complex realities of modern utility management.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>Mona Fazel, an enterprise program leader with over two years of experience across the energy and utility sectors, points out that past weather patterns, historical load assumptions, and legacy risk models are no longer reliable guides for the future. With climate extremes, wildfire exposure, rapid electrification, and aging infrastructure converging, utilities face an operating environment defined by unpredictability.</p>
@@ -166,7 +166,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -174,7 +174,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

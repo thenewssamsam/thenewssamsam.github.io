@@ -92,7 +92,7 @@ source_url: 'https://gizmodo.com/spirit-airlines-is-dead-but-its-data-will-haunt
   </style>
 
   <div class="ncg-article-container">
-    <p>Spirit Airlines may have parked its budget flight business in the aviation history books, but its digital ghost will haunt Google&apos;s servers for generations. In a recent bankruptcy auction, Google emerged victorious with a $10 million winning bid to acquire a massive trove of operational data from the now-defunct carrier—not to fly planes, but to train artificial intelligence models.</p>
+    <p>Spirit Airlines may have parked its budget flight business in the aviation history books, but its digital ghost will haunt Google&apos;s servers for generations. In a recent bankruptcy auction, Google emerged victorious with a  million winning bid to acquire a massive trove of operational data from the now-defunct carrier—not to fly planes, but to train artificial intelligence models.</p>
 
     <div class="ncg-toc-box">
       <h3>Table of Contents</h3>
@@ -108,7 +108,7 @@ source_url: 'https://gizmodo.com/spirit-airlines-is-dead-but-its-data-will-haunt
     <p>When a corporation collapses, its physical assets are typically liquidated—airplanes get sold off, office equipment is auctioned, and real estate leases are broken. But in the modern digital economy, a company&apos;s most enduring residue is intangible. According to documents on the U.S. Bankruptcy Court docket for the Southern District of New York, Google&apos;s purchase included more than 100 million company emails, 500 million Microsoft Teams chats, 30 million lines of code, development metadata, and operational logs.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
     <p>Crucially, consumer protection boundaries held firm in this particular auction: customer profiles and frequent flyer loyalty records totaling nearly 150 million files were excluded from the sale. Google also noted that enterprise datasets would be scrubbed of personally identifiable information by a third party before receipt. Even so, the sheer volume of internal corporate chatter—half a billion chat messages and millions of emails—now belongs to a tech giant aiming to feed its hungry AI algorithms.</p>
@@ -157,7 +157,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -165,7 +165,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

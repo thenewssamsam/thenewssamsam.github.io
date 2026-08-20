@@ -40,7 +40,7 @@ source_url: ''
 <p>In late July, the 10,000-ton Arleigh Burke-class destroyer USS Benfold experienced a severe engineering casualty involving its generators while sailing alongside the George Washington carrier strike group. The resulting total power loss left sailors without air conditioning, functioning toilets, or galley services in tropical heat for four consecutive days until a tow could be arranged to Subic Bay in the Philippines.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>While the Navy praised the crew's grit and reported zero injuries—with another vessel stepping in to provide meals—the incident did not happen in a vacuum. It unfolded alongside reports of extreme deployment lengths on other vessels, such as the USS Abraham Lincoln surpassing 200 days without a port call amid ongoing Middle East tensions. Families, lawmakers, and veterans have raised urgent alarms over crew morale, mental health, and the systemic strain placed on an overextended naval force.</p>
@@ -101,7 +101,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -109,7 +109,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

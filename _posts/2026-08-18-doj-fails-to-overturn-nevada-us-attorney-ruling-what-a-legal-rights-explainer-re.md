@@ -27,7 +27,7 @@ source_url: ''
   <p>The panel—consisting of two judges appointed during the first Trump administration and one appointed by Bill Clinton—dismissed cross-appeals from criminal defendants who sought to throw out their indictments based on Chattah's invalid status. However, the core takeaway remained intact: the administration's attempt to install interim prosecutors without Senate oversight ran afoul of federal vacancy laws.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
   <p>During oral arguments in February, judges expressed skepticism over the government's expansive interpretation of vacancy statutes. Judge Stanley Blumenfeld noted that accepting the DOJ's argument would create "an easy workaround" allowing the attorney general to keep a favored individual in an acting role indefinitely without a Senate vote.</p>
@@ -91,7 +91,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -99,7 +99,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -39,13 +39,13 @@ source_url: "https://abc7ny.com/story/14-charged-alleged-cocaine-trafficking-rin
     <p>The drugs were then allegedly cut and packaged inside the Delta Upsilon and Sigma Chi fraternity houses. Prosecutors noted that the network relied on fellow brothers and pledges, turning the handling of narcotics into a twisted form of fraternity indoctrination. Four of the accused are current students, while others face felony counts including corrupt organizations and conspiracy. In a particularly bizarre twist, the father of one student was charged with hiding cash and drugs in a safe.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>In response, Penn State placed Delta Upsilon on interim suspension, while noting that Sigma Chi operates as an unrecognized organization outside university oversight. University officials condemned the actions, promising aggressive disciplinary actions and enhanced anti-hazing measures.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -55,7 +55,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>To understand how young adults get pulled into high-stakes criminal enterprises, we have to look past the surface level of simple delinquency. Behavioral psychology offers several frameworks for why group environments can lead people to do things they would never consider on their own.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -63,7 +63,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Social psychologist Solomon Asch famously demonstrated how easily individuals conform to group pressure, even when they know the group is wrong. In high-status collegiate environments like fraternities, the desire for belonging acts as a powerful psychological currency. When senior leaders establish a dangerous norm—such as handling illicit substances as part of an initiation—pledges face a brutal dilemma: conform or face social exile. Over time, cognitive dissonance sets in; students rationalize illegal acts because "everyone is doing it" and the collective identity overrides individual moral judgment.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -71,7 +71,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Crime rarely starts with a grand conspiracy. It typically begins with a small, seemingly harmless compromise that gradually scales up. Psychologists call this an escalation of commitment. A pledge might be asked to run a small errand, then hold a package, and eventually help cut drugs. Because each step feels only slightly riskier than the last, the brain normalizes the escalating danger until the participants are knee-deep in felony-level trafficking.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -79,7 +79,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p>"When belonging is treated as a scarce commodity that must be earned through compliance, group dynamics can override individual conscience entirely."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -90,19 +90,19 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Situational pressures and psychological theories explain the mechanisms at play, but they do not erase personal accountability. Every human being possesses a conscience—an internal compass designed to distinguish right from wrong, even when the surrounding culture screams in the opposite direction.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Scripture reminds us of the subtle ways compromise enters our lives, often disguised as community or advancement. As Proverbs 13:20 advises, <q>Walk with the wise and become wise, for a companion of fools suffers harm.</q> The environment we choose to inhabit shapes not only our daily habits but ultimately our moral destiny.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>When individuals trade their integrity for temporary status or acceptance, they enter a dark path. Another timeless proverb warns us: <q>The getting of treasures by a lying tongue is a fleeting vapor tossed to and fro; those who seek them seek death</q> (Proverbs 21:6). The illusion of power, wealth, or fraternity prestige built on a foundation of lawlessness always collapses under the weight of reality.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

@@ -37,7 +37,7 @@ source_url: "https://apnews.com/article/florida-primaries-donald-trump-wasserman
     <p>Meanwhile, other key contests drew intense voter attention. Progressive state Rep. Angie Nixon defeated retired Army Lt. Col. Alex Vindman for the Democratic U.S. Senate nomination to fill the remaining two years of Marco Rubio's term, setting up a November race against Republican nominee and former Attorney General Ashley Moody. In South Florida, veteran Democratic U.S. Rep. Debbie Wasserman Schultz successfully defended her seat in a newly redrawn, plurality Black district.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>As the dust settles on primary night, voters face a deeply polarized electorate in a state that has shifted dramatically over the past decade. To truly understand the weight of these matchups, it helps to step back and look at how history rhymes.</p>
@@ -111,7 +111,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -119,7 +119,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

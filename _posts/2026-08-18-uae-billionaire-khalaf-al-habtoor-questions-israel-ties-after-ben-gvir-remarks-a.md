@@ -48,7 +48,7 @@ source_url: 'https://www.middleeasteye.net/news/uae-billionaire-questions-peace-
     <p>For Al Habtoor—a high-profile figure close to the UAE ruling circles whose public commentary is tightly monitored—the outburst crossed a moral Rubicon. Having strongly defended the 2020 Abraham Accords under the premise that economic integration would foster moderation, Habtoor confronted a stark contradiction: how can a state pursue coexistence and economic partnership with an ally whose officials openly champion mass violence?</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
   </section>
@@ -66,7 +66,7 @@ Seagate Portable External Hard Drive ($59.99)
 
   <section id="economic-reality">
     <h2>The Limits of Trade Without Trust</h2>
-    <p>Despite years of devastating conflict, the United Arab Emirates has remained Israel’s largest Arab trading partner, with bilateral trade reaching $3.2bn in 2025. Al Habtoor did not call for immediate sanctions, severance of ties, or the dismantling of commercial corridors. His intervention was ideological and moral rather than institutional.</p>
+    <p>Despite years of devastating conflict, the United Arab Emirates has remained Israel’s largest Arab trading partner, with bilateral trade reaching bn in 2025. Al Habtoor did not call for immediate sanctions, severance of ties, or the dismantling of commercial corridors. His intervention was ideological and moral rather than institutional.</p>
     <p>Yet, the intervention signals that economic metrics alone cannot perpetually mask deep regional volatility. Business leaders thrive on predictability, security, and baseline stability. When political rhetoric descends into calls for routine carnage, the long-term calculus of investment and regional integration begins to shift from optimistic partnership to anxious containment.</p>
   </section>
 
@@ -118,7 +118,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -126,7 +126,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

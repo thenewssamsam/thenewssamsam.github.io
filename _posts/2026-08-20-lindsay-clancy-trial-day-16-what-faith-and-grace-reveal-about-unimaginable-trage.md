@@ -35,14 +35,14 @@ source_url: 'https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live
     <p>When news headlines broadcast stories as agonizing as the Clancy trial, it forces a society that often prefers simple moral categories to confront the terrifying complexity of human suffering. From a biblical worldview, we are reminded that creation groans under the weight of a fallen world, and that human biology, neurological health, and psychological well-being are profoundly fragile parts of our earthly experience.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>Scripture does not shy away from the reality of deep mental anguish and emotional despair. Throughout the Psalms, faithful servants of God experienced profound psychological darkness, despair, and intrusive thoughts that overwhelmed their capacity to cope. Yet, the biblical narrative consistently points toward divine mercy rather than immediate human condemnation when a person's soul and mind are entirely fractured.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -50,7 +50,7 @@ Tactical Waterproof Backpack ($35.99)
       <p>&ldquo;Even when our minds fail us and our strength is utterly depleted, God's steadfast mercy meets us in the ruins of our deepest earthly suffering.&rdquo;</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -58,14 +58,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Dr. Zeizel&rsquo;s testimony highlighted a woman who felt her brain was fundamentally broken, trapped by terrifying internal pressures and voices she could not silence. While the legal system must weigh accountability and the rule of law, a scriptural lens invites us to approach such human catastrophe with profound grief, humility, and a recognition of our shared vulnerability.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <div style="background: #fdfdfd; border-left: 4px solid #ffcc00; padding: 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
     <p style="margin: 0 0 8px 0; font-weight: bold; color: #333;">Recommended Resource for Mental Health &amp; Support</p>
-    <p style="margin: 0 0 8px 0; font-size: 14px; color: #555;">First Aid for Emotional Well-Being &ndash; Essential Self-Care Guide | <span style="color: #b12704; font-weight: bold;">$14.99</span></p>
+    <p style="margin: 0 0 8px 0; font-size: 14px; color: #555;">First Aid for Emotional Well-Being &ndash; Essential Self-Care Guide | <span style="color: #b12704; font-weight: bold;"></span></p>
     <a href="https://www.amazon.com/dp/B08N5K2V9V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none; font-size: 14px; font-weight: bold;">Check price on Amazon &rarr;</a>
   </div>
 
@@ -74,28 +74,28 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This trial stirs up uncomfortable questions about how we care for mothers, how we recognize invisible medical crises, and how we respond when someone reaches out for help and finds closed doors. It makes me think about the quiet suffering carried by many families behind closed doors, hidden from public view.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>I am reminded of the words in Psalm 34:18: <em>&ldquo;The Lord is close to the brokenhearted and saves those who are crushed in spirit.&rdquo;</em> This verse doesn't offer easy legal answers or medical solutions, but it anchors our perspective in divine empathy. When human systems falter and medical interventions fall heartbreakingly short of preventing tragedy, divine compassion meets the afflicted where no human courtroom ever truly can.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>Similarly, the Apostle Paul writes in Galatians 6:2: <em>&ldquo;Carry each other’s burdens, and in this way you will fulfill the law of Christ.&rdquo;</em> This invites us to look past sensationalized media coverage and cultivate a posture of vigilant compassion for parents navigating the invisible storms of perinatal mental health struggles.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
 
   <div style="background: #fdfdfd; border-left: 4px solid #ffcc00; padding: 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
     <p style="margin: 0 0 8px 0; font-weight: bold; color: #333;">Recommended Resource for Emotional Resilience</p>
-    <p style="margin: 0 0 8px 0; font-size: 14px; color: #555;">The Mindful Way Workbook: An 8-Week Program | <span style="color: #b12704; font-weight: bold;">$19.89</span></p>
+    <p style="margin: 0 0 8px 0; font-size: 14px; color: #555;">The Mindful Way Workbook: An 8-Week Program | <span style="color: #b12704; font-weight: bold;"></span></p>
     <a href="https://www.amazon.com/dp/1462508146?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none; font-size: 14px; font-weight: bold;">Check price on Amazon &rarr;</a>
   </div>
 
@@ -104,7 +104,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Cases like Lindsay Clancy&rsquo;s can easily provoke anger, judgment, or sensational debate. However, followers of Christ are called to a higher standard of discernment and grace:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>
@@ -117,7 +117,7 @@ Seagate Portable External Hard Drive ($59.99)
 
   <div style="background: #fdfdfd; border-left: 4px solid #ffcc00; padding: 15px; margin: 20px 0; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
     <p style="margin: 0 0 8px 0; font-weight: bold; color: #333;">Recommended Resource for Pastoral Care &amp; Mental Health</p>
-    <p style="margin: 0 0 8px 0; font-size: 14px; color: #555;">Mental Health Ministry in the Church | <span style="color: #b12704; font-weight: bold;">$16.50</span></p>
+    <p style="margin: 0 0 8px 0; font-size: 14px; color: #555;">Mental Health Ministry in the Church | <span style="color: #b12704; font-weight: bold;"></span></p>
     <a href="https://www.amazon.com/dp/083084323X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none; font-size: 14px; font-weight: bold;">Check price on Amazon &rarr;</a>
   </div>
 
@@ -126,7 +126,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>As the legal process in Massachusetts continues to unfold, the story of Lindsay Clancy remains a heavy reminder of our shared human fragility. Beneath the courtroom arguments and expert testimonies lies a sobering call to surround vulnerable families with unwavering support, fierce prayer, and unshakeable grace.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

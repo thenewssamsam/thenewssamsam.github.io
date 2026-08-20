@@ -32,12 +32,12 @@ source_url: 'https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-
   <p>Under the terms of the deal, aerospace giant Boeing sold Wisk Aero—along with digital airspace company SkyGrid and drone maker Insitu—to Archer in exchange for a 16.5% ownership stake in the company. This consolidation comes on the heels of a winding history that began with Google co-founder Larry Page backing Sebastian Thrun's Kitty Hawk startup before transitioning into a joint venture with Boeing.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-KEOFID Classic Backpack ($32.99)
+KEOFID Classic Backpack 
 </a></p>
 
 
 
-  <p>Meanwhile, fellow electric air taxi pioneer Joby Aviation made a parallel strategic move, acquiring Resonant Sciences for $500 million to establish a dedicated defense business unit, Joby Defense. Together, these moves underscore a broader reality: even as eVTOL developers pursue long-term regulatory certification for urban air taxis, they are aggressively consolidating assets and chasing near-term revenue streams to sustain their runway.</p>
+  <p>Meanwhile, fellow electric air taxi pioneer Joby Aviation made a parallel strategic move, acquiring Resonant Sciences for  million to establish a dedicated defense business unit, Joby Defense. Together, these moves underscore a broader reality: even as eVTOL developers pursue long-term regulatory certification for urban air taxis, they are aggressively consolidating assets and chasing near-term revenue streams to sustain their runway.</p>
 </section>
 
 <section id="industry-perspective">
@@ -75,7 +75,7 @@ KEOFID Classic Backpack ($32.99)
   </details>
   <details class="ncg-faq">
     <summary>What is Joby Defense?</summary>
-    <p>Joby Defense is a newly established dedicated defense business unit created after Joby Aviation acquired Resonant Sciences for $500 million to expand its footprint in radio frequency and sensor systems for government applications.</p>
+    <p>Joby Defense is a newly established dedicated defense business unit created after Joby Aviation acquired Resonant Sciences for  million to expand its footprint in radio frequency and sensor systems for government applications.</p>
   </details>
   <details class="ncg-faq">
     <summary>What does this mean for the future of electric air taxis?</summary>
@@ -131,7 +131,7 @@ KEOFID Classic Backpack ($32.99)
       "name": "What is Joby Defense?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Joby Defense is a newly established dedicated defense business unit created after Joby Aviation acquired Resonant Sciences for $500 million to expand its footprint in radio frequency and sensor systems for government applications."
+        "text": "Joby Defense is a newly established dedicated defense business unit created after Joby Aviation acquired Resonant Sciences for  million to expand its footprint in radio frequency and sensor systems for government applications."
       }
     },
     {
@@ -156,7 +156,7 @@ KEOFID Classic Backpack ($32.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -164,7 +164,7 @@ KEOFID Classic Backpack ($32.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">KEOFID Classic Backpack</a></div>
-    <div class="product-price">$32.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -172,7 +172,7 @@ KEOFID Classic Backpack ($32.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Toshiba 5400RPM Hard Drive</a></div>
-    <div class="product-price">$49.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -180,7 +180,7 @@ KEOFID Classic Backpack ($32.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">GAZELLE External Hard Drive</a></div>
-    <div class="product-price">$54.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -188,7 +188,7 @@ KEOFID Classic Backpack ($32.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Backpack USB Charging Port</a></div>
-    <div class="product-price">$39.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

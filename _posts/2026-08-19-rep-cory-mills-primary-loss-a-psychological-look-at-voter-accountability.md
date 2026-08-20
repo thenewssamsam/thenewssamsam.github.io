@@ -29,7 +29,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/gop-rep-cory-mills-l
     <p>From a behavioral standpoint, Mills’ defeat suggests a shift in the <strong>"Halo Effect"</strong>—a cognitive bias where we perceive a person’s positive traits (in this case, their party affiliation or an endorsement from a popular leader) as proof of their overall character. When credible allegations of misconduct emerge, they create significant <strong>cognitive dissonance</strong> for the voter. The voter must reconcile their support for a party with the discomfort caused by the candidate's personal actions.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -41,7 +41,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The intervention of Reps. Anna Paulina Luna and Mike Haridopolos is a fascinating case of <strong>social proof</strong>. By endorsing a challenger, these colleagues signaled to the base that it was "safe" to abandon the incumbent. This reduced the fear of being labeled a "traitor" to the party, allowing voters to act on their underlying concerns about integrity without feeling like they were abandoning their political identity.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -51,13 +51,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>This situation invites us to consider the timeless value of integrity in leadership. Proverbs 22:1 reminds us: <em>"A good name is to be chosen rather than great riches, and favor is better than silver or gold."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>When we look at political life, it is easy to become cynical, but this verse serves as a quiet reminder that true influence is built on the foundation of a person's character, not just their connections or status. We are often tempted to look for shortcuts or to overlook warning signs because of our personal allegiances. Yet, we are called to prioritize honesty and truth in every role we inhabit. It is a sobering lesson that when a foundation of trust is eroded, no amount of endorsement or political machinery can fully restore it. We should be encouraged to hold ourselves and those we support to the same high standards, recognizing that favor gained through integrity is far more durable than the fleeting power of a position.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

@@ -28,20 +28,20 @@ source_url: "https://www.azfamily.com/2026/08/18/lake-powell-lake-mead-hit-recor
     <p><em>This is general information, not legal advice. Consult a licensed attorney about your specific situation.</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Many residents fear that record-low reservoir levels mean their tap water will simply stop flowing. Legally, however, municipal water providers operate under "will-serve" obligations. In many jurisdictions within the Southwest, cities are legally required to provide water to their residents, often through long-term drought contingency plans that have been in development for decades.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <h3>Can Utilities Raise Rates?</h3>
     <p>When water scarcity hits, infrastructure costs rise. Utilities often seek regulatory approval to pass these costs to consumers. While you have a right to water service, you do not have a constitutional right to a specific, static price for that water. Rate increases are governed by state public utility commissions, which must review and approve any hikes to ensure they are "just and reasonable."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -49,7 +49,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p><strong>"While the legal right to water service is protected by municipal mandates, the price of that service is subject to the economic realities of a strained infrastructure."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -60,13 +60,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The current crisis in the West invites us to consider our role as stewards of the earth’s resources. When we face scarcity, it often highlights the fragility of our systems and our reliance on things beyond our control. As it says in <strong>Psalm 24:1</strong>, "The earth is the Lord’s, and everything in it, the world, and all who live in it."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>This perspective reminds us that we are not the ultimate owners of the water or the land, but temporary managers tasked with using them wisely. When we see the reservoirs empty, we are invited to reflect on the tension between our modern needs and the finite nature of creation. It is a call to exercise patience, conservation, and a spirit of community, recognizing that our choices today impact the generations that follow.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

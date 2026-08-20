@@ -42,7 +42,7 @@ When Texas grocery giant H-E-B pulled more than 50 items from its shelves due to
 <p>The affected merchandise reached retail customers in Texas and Louisiana between July 3 and August 5. The impacted selection includes both NatureBest-branded goods and in-store-made H-E-B favorites, such as assorted ceviches, guacamole, pico de gallo containers, diced jalapeños, and jalapeño stuffed mushrooms.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Skin Renewing Night Cream ($18.99)
+CeraVe Skin Renewing Night Cream 
 </a></p>
 
 
@@ -122,7 +122,7 @@ Source: <a href="https://www.chron.com/news/article/heb-recall-salmonella-risk-t
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07MBBP71L?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Bambaw Stainless Steel Water Bottle</a></div>
-    <div class="product-price">$25.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07MBBP71L?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -130,7 +130,7 @@ Source: <a href="https://www.chron.com/news/article/heb-recall-salmonella-risk-t
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0GX8NPZ1T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">GOPPUS Insulated Leak-Proof Bottle</a></div>
-    <div class="product-price">$19.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0GX8NPZ1T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -138,7 +138,7 @@ Source: <a href="https://www.chron.com/news/article/heb-recall-salmonella-risk-t
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B09QQCX392?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">EZPIK Reachers and Grabbers</a></div>
-    <div class="product-price">$14.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B09QQCX392?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -146,7 +146,7 @@ Source: <a href="https://www.chron.com/news/article/heb-recall-salmonella-risk-t
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">CeraVe Skin Renewing Night Cream</a></div>
-    <div class="product-price">$18.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -154,7 +154,7 @@ Source: <a href="https://www.chron.com/news/article/heb-recall-salmonella-risk-t
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0GKT8JXPZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Wawahydro Insulated Water Bottle</a></div>
-    <div class="product-price">$29.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0GKT8JXPZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -35,7 +35,7 @@ source_url: ''
 <p>Downing Street has declined to comment extensively on the national security breach, maintaining its standard policy of not discussing sensitive security matters. However, government sources have clarified that only a few messages of no significant substance were exchanged, and the incident was reported to appropriate authorities once doubts arose. Crucially, White House officials confirmed the incident was unrelated to a separate breach involving Wiles' personal phone, which was targeted by an impersonator using her contact list to message US senators, governors, and business executives.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 <p>Yet, the Burnham incident does not stand alone. Simultaneously, the UK government has scrambled to remove the personal mobile numbers of senior cabinet ministers—including Defence Secretary Wes Streeting, Justice Secretary Alex Norris, and Northern Ireland Secretary Chris Bryant—from public websites where they had remained accessible. Past years have also seen high-profile pranks and cyber intrusions targeting British officials, including former Prime Minister Lord Cameron receiving messages from an account pretending to be former Ukrainian President Petro Poroshenko, and video call spoofing targeting former ministers via Microsoft Teams.</p>
@@ -105,7 +105,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -113,7 +113,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

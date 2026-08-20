@@ -50,7 +50,7 @@ As political analysts sift through the data points, it becomes increasingly clea
 </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -70,7 +70,7 @@ Political influence is often viewed as a permanent fixture by those who hold it,
 </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <p>
@@ -78,7 +78,7 @@ Even public statements from leaders attempting to reframe losses—such as claim
 </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -92,7 +92,7 @@ When political landscapes shift overnight, it is easy for observers to feel anxi
 </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -105,7 +105,7 @@ This passage does not tell us to ignore civic duty or participation; rather, it 
 </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -120,7 +120,7 @@ Furthermore, Scripture cautions against the dangers of pride and self-reliance i
 </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -133,14 +133,14 @@ Whether a candidate wins by a landslide or suffers an unexpected defeat, every e
 </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
 
 <div class="ncg-amazon-product" style="background: #f8fafc; border-left: 4px solid #d69e2e; padding: 15px; margin: 25px 0; border-radius: 4px;">
 <p style="margin: 0; font-size: 0.95rem; color: #4a5568;">
-<strong>Resource Suggestion:</strong> Explore timeless principles of discernment with <a href="https://www.amazon.com/dp/B085V9J82G?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #3182ce; text-decoration: underline;">The Pursuit of God</a> by A.W. Tozer. ($10.99)
+<strong>Resource Suggestion:</strong> Explore timeless principles of discernment with <a href="https://www.amazon.com/dp/B085V9J82G?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #3182ce; text-decoration: underline;">The Pursuit of God</a> by A.W. Tozer. 
 </p>
 </div>
 
@@ -153,7 +153,7 @@ Electoral surprises and shifting political power can easily stir up division, fr
 </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <ul style="padding-left: 20px; color: #4a5568;">
@@ -165,7 +165,7 @@ Seagate Portable External Hard Drive ($59.99)
 
 <div class="ncg-amazon-product" style="background: #f8fafc; border-left: 4px solid #d69e2e; padding: 15px; margin: 25px 0; border-radius: 4px;">
 <p style="margin: 0; font-size: 0.95rem; color: #4a5568;">
-<strong>Practical Tool:</strong> Keep your thoughts organized during turbulent news cycles with a classic <a href="https://www.amazon.com/dp/B07N1N3V6C?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #3182ce; text-decoration: underline;">Moleskine Classic Notebook</a>. ($19.95)
+<strong>Practical Tool:</strong> Keep your thoughts organized during turbulent news cycles with a classic <a href="https://www.amazon.com/dp/B07N1N3V6C?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #3182ce; text-decoration: underline;">Moleskine Classic Notebook</a>. 
 </p>
 </div>
 

@@ -27,7 +27,7 @@ source_url: 'https://www.bbc.com/news/articles/cp87gvmedlmo'
     <p>Visitors at the Nevada-Arizona border reported finding skeletal remains, including a jawbone, while exploring the shoreline. The National Park Service and local police are currently investigating the discovery. The recession of Lake Mead is not a new phenomenon; water levels have been in a steady decline since 2000, recently hitting a record low of 1,040 feet above sea level. Scientists point to persistent drought and climate patterns as the primary drivers behind this environmental shift.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -37,7 +37,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In the quiet uncovering of these remains, there is a profound spiritual tension. We are reminded of the words in <strong>James 4:14</strong>: <em>"Why, you do not even know what will happen tomorrow. What is your life? You are a mist that appears for a little while and then vanishes."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -45,7 +45,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p><strong>"The receding waters of Lake Mead do not just reveal bones; they reveal the reality of our own temporal boundaries and the importance of stewardship."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -53,14 +53,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The desert, in its harshness, often forces us to confront truths we prefer to ignore in the comfort of modern abundance. When the water level drops, the past literally surfaces. From a faith perspective, this invites us to consider our own legacy. We spend much of our lives building, consuming, and expanding, yet the earth eventually yields what we have hidden or lost. It reminds us that our earthly footprints are temporary, and our true anchor must be in something that does not evaporate with the changing climate.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>Furthermore, <strong>Psalm 90:12</strong> offers us a prayer for this moment: <em>"Teach us to number our days, that we may gain a heart of wisdom."</em> Wisdom begins when we stop pretending that our current state of existence is permanent. As we look at these exposed shorelines, we are invited to shift our focus from the fleeting nature of the world to the eternal nature of God.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

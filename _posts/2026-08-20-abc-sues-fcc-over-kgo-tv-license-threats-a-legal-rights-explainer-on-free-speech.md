@@ -38,14 +38,14 @@ source_url: "https://www.sfgate.com/sf-culture/article/abc-sues-fcc-22393619.php
     <p>From a legal standpoint, this case sits at the volatile intersection of administrative law, statutory broadcasting authority, and constitutional protections under the First Amendment. Broadcasters operate under public airwaves licenses granted by the FCC, which gives the federal agency legitimate regulatory power over technical standards and public interest requirements. However, that regulatory power is not absolute, nor is it a blank check to police editorial viewpoints.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>The First Amendment strictly prohibits the government from abridging the freedom of the press or engaging in viewpoint discrimination. When a regulatory agency uses licensing procedures—which normally take months to prepare and follow predictable multi-year cycles—as a coercive tool to punish a network for controversial late-night jokes or political commentary, it crosses the line from administration into unconstitutional retaliation. As the Supreme Court has long established, the government cannot do indirectly via regulatory threats what it is constitutionally forbidden from doing directly through legislation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -53,7 +53,7 @@ Tactical Waterproof Backpack ($35.99)
       <p>"If the Administration gets its way, the message to every media company in the country will be unmistakable: tell only the stories the Administration deems favorable, or face the coercive machinery of the federal government."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -61,7 +61,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Furthermore, administrative law requires federal agencies to act reasonably and without arbitrary or capricious motives. Forcing stations to undergo premature license renewals under a rushed 30-day timeline, allegedly driven by animus toward specific broadcasted content, opens the FCC to serious challenges under the Administrative Procedure Act (APA). Courts scrutinize actions where regulatory power is seemingly diverted from its statutory purpose to suppress protected speech.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -72,7 +72,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>This is general information, not legal advice — consult a licensed attorney for your situation.</strong> The legal analysis provided here is for educational purposes based on publicly available news reports and general principles of constitutional and administrative law, and it does not constitute formal legal representation or advice regarding any ongoing litigation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -83,14 +83,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Controversies over power, authority, and public truth naturally invite reflection on moral accountability and the pursuit of justice. Scripture reminds us that honesty and fairness are the bedrock of righteous governance:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <blockquote>"Righteousness and justice are the foundation of your throne; steadfast love and faithfulness go before you." — Psalm 89:14 (ESV)</blockquote>
     <p>When legal systems and administrative processes are utilized to shield powerful entities from criticism or to silence opposing voices, it erodes the shared trust required for a peaceful society. Proverbs 29:2 notes, "When the righteous thrive, the people rejoice; when the wicked rule, the people groan." As we observe these high-stakes legal battles unfold, we are reminded of the enduring value of integrity, transparent accountability, and the protection of truth in public life.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

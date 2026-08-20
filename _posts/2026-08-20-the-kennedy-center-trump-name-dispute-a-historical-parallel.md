@@ -27,16 +27,16 @@ source_url: 'https://www.cnn.com/2026/08/19/politics/kennedy-center-trump-name-s
 <p>Lawyers for the Kennedy Center recently informed a federal judge that they intend to add an inscription reading “Restored and Renovated by President Donald J. Trump” to the building's marble façade by September 8. This follows a summer of legal maneuvering after U.S. District Judge Christopher Cooper ordered the removal of previous signage that paired Trump’s name with Kennedy’s. While the name was removed, white tarps and scaffolding remain, sparking accusations from critics—including Democratic Rep. Joyce Beatty—that the center is intentionally obstructing public view of the venue's official name to defy the court's order.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Vitamin C Brightening Serum ($16.99)
+CeraVe Vitamin C Brightening Serum 
 </a></div>
 
 </section>
 
 <div class="ncg-product-box" style="border: 2px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-<p><strong>Recommended Reading:</strong> <em>The Architecture of Power: How Monuments Shape History</em> - $24.99</p>
+<p><strong>Recommended Reading:</strong> <em>The Architecture of Power: How Monuments Shape History</em> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Lenovo Legion Tower Gaming PC ($899.99)
+Lenovo Legion Tower Gaming PC 
 </a></div>
 
 </div>
@@ -46,7 +46,7 @@ Lenovo Legion Tower Gaming PC ($899.99)
 <p>Throughout American history, the naming of public monuments has rarely been a neutral act. We can observe distinct parallels to this current conflict in the way past administrations have sought to cement their legacies on the landscape of Washington, D.C.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Skin Renewing Night Cream ($18.99)
+CeraVe Skin Renewing Night Cream 
 </a></div>
 
 
@@ -54,7 +54,7 @@ CeraVe Skin Renewing Night Cream ($18.99)
 <p>Much like the current dispute, the construction and naming of the Jefferson Memorial in the 1930s faced significant public debate regarding scale and political intent. Then, as now, the core question was whether a monument belongs to the nation's history or to the specific political era that commissioned it. The Kennedy Center’s attempt to link a current president’s name to a memorial structure mirrors the 19th-century practice of "political branding" on public works, where donors and leaders often sought to ensure their names were physically etched into the stone of the capital.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Vitamin C Brightening Serum ($16.99)
+CeraVe Vitamin C Brightening Serum 
 </a></div>
 
 
@@ -66,7 +66,7 @@ CeraVe Vitamin C Brightening Serum ($16.99)
 <p>History teaches us that attempts to "fix" a legacy in stone often face the friction of time. Just as the names on some public buildings were altered or removed following shifting political tides in the early 20th century, the Kennedy Center conflict highlights the fragility of signage when it is perceived as an overreach of executive authority. The lesson from history is that public institutions rely on consensus; when that consensus is bypassed, the signage becomes a lightning rod rather than a tribute.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Skin Renewing Night Cream ($18.99)
+CeraVe Skin Renewing Night Cream 
 </a></div>
 
 </section>
@@ -75,22 +75,22 @@ CeraVe Skin Renewing Night Cream ($18.99)
 <p>This situation invites us to consider the fleeting nature of human recognition. The Bible reminds us in <strong>James 4:14</strong>, "You are a mist that appears for a little time and then vanishes." While we often seek to leave a mark on the world, true legacy is found in the service of others rather than the placement of our names on marble.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Vitamin C Brightening Serum ($16.99)
+CeraVe Vitamin C Brightening Serum 
 </a></div>
 
 <p>I am also reminded of <strong>Proverbs 22:1</strong>: "A good name is to be chosen rather than great riches." It suggests that the weight of one's reputation is built through character and the integrity of our actions, which no amount of signage can manufacture or maintain if the foundation of public trust is compromised.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Vitamin C Brightening Serum ($16.99)
+CeraVe Vitamin C Brightening Serum 
 </a></div>
 
 </section>
 
 <div class="ncg-product-box" style="border: 2px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-<p><strong>Recommended Reading:</strong> <em>The Power of Humility in Leadership</em> - $18.50</p>
+<p><strong>Recommended Reading:</strong> <em>The Power of Humility in Leadership</em> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Lenovo Legion Tower Gaming PC ($899.99)
+Lenovo Legion Tower Gaming PC 
 </a></div>
 
 </div>
@@ -100,7 +100,7 @@ Lenovo Legion Tower Gaming PC ($899.99)
 <p>For those watching this unfold, the best response is civic engagement. Pay attention to how public institutions in your own community manage their naming rights. Are these processes transparent? Do they involve public input, or are they decided behind closed doors? Understanding the mechanics of local boards can help you advocate for public spaces that reflect community values rather than political agendas.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Lenovo Legion Tower Gaming PC ($899.99)
+Lenovo Legion Tower Gaming PC 
 </a></div>
 
 </section>
@@ -110,7 +110,7 @@ Lenovo Legion Tower Gaming PC ($899.99)
 <p>The Kennedy Center dispute is a reminder that in a democratic society, the buildings we share are not just property—they are symbols of our common heritage. When those symbols become points of contention, it is an invitation for the public to demand transparency and respect for the historical intent of our national landmarks.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Lenovo Legion Tower Gaming PC ($899.99)
+Lenovo Legion Tower Gaming PC 
 </a></div>
 
 </section>

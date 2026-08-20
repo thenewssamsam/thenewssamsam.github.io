@@ -24,7 +24,7 @@ source_url: "https://katu.com/news/nation-world/florida-voters-choose-nominees-i
     <p>Beyond the primary, 29 candidates in total are vying for the governorship, including independents and write-ins. This density of candidates reflects a state in flux, as Florida navigates the post-DeSantis era and attempts to reconcile its identity as a former swing state that has trended firmly toward the GOP.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -33,7 +33,7 @@ Tactical Waterproof Backpack ($35.99)
     <p><strong>Recommended Reading:</strong> <em>The Florida Voter's Guide to History</em> - Learn how past shifts shaped modern Sunshine State politics. <a href="#">Check Price</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>History suggests that when a dominant figure leaves office—such as the transition from a highly influential governor—the following election often becomes a referendum on that legacy. We can see parallels in the 1994 Florida election, when Lawton Chiles sought to maintain Democratic control against a rising tide of conservative momentum.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -51,7 +51,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Historically, when a party holds power for an extended period, the primary process serves as a crucible for defining the party's future. Just as the GOP in the late 20th century grappled with the transition from traditional conservatism to a more populist movement, today's Florida GOP is testing whether it remains tied to the DeSantis record or pivots toward a new alignment under Donalds.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -63,7 +63,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>David Jolly’s transition from the Republican Party to the Democratic ticket is not unprecedented in American history, though it remains rare in modern polarized politics. History shows that when the ideological middle thins, candidates often cross the aisle to capture disenchanted voters. This mirrors the realignment seen in the mid-19th century, where shifting party loyalties often signaled a broader change in the electorate's priorities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -72,13 +72,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>Reflecting on these shifts, I am reminded that power is fleeting and human systems are constantly in flux. The Bible reminds us in <strong>Psalm 75:6-7</strong>: <em>"For not from the east or from the west and not from the wilderness comes lifting up, but it is God who executes judgment, putting down one and lifting up another."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>This truth invites us to maintain perspective. While political races feel all-consuming, they are merely chapters in a much larger story. We are called to participate in our civic duties with integrity and prayer, remembering that our ultimate security does not rest in the hands of any elected official, but in the sovereign wisdom of God. Whether our preferred candidate wins or loses, our responsibility to love our neighbors and seek the good of our community remains unchanged.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

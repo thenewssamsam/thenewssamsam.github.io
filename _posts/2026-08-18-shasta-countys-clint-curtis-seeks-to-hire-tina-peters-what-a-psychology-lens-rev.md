@@ -42,7 +42,7 @@ source_url: ''
 <p>In a move bound to draw intense scrutiny, Shasta County Clerk and Registrar of Voters Clint Curtis stated he intends to bring in Tina Peters to replace Assistant Registrar of Voters Brent Turner, who has been on medical leave. Citing potential administrative hurdles in standard county hiring timelines, Curtis indicated he plans to contract Peters directly rather than onboard her as a traditional county employee.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>Peters, the former clerk and recorder for Mesa County, Colorado, was convicted in August 2024 on four felonies and three misdemeanors stemming from a 2021 breach of her county's voting equipment. Prosecutors demonstrated that Peters allowed an unauthorized individual to access voting systems while pursuing unverified claims of widespread fraud during the 2020 election. Initially sentenced to nine years, Peters served less than two years before Colorado Governor Jared Polis commuted her sentence following an appeals court ruling and intense pressure from political figures, including President Donald Trump.</p>
@@ -174,7 +174,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -182,7 +182,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -38,26 +38,26 @@ source_url: "https://triblive.com/local/regional/father-charged-in-suspected-coc
 <p>The charges emerged from an extensive Pennsylvania Office of Attorney General investigation into drug distribution networks operating out of off-campus fraternity houses at Penn State, specifically involving the Delta Upsilon and Sigma Chi chapters. State Attorney General Dave Sunday noted during a press briefing that packaging drugs had alarmingly become part of the initiation process for some fraternity pledges.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-KEOFID Classic Backpack ($32.99)
+KEOFID Classic Backpack 
 </a></div>
 
 
 <div class="ncg-product-card" style="border-left: 4px solid #f0ad4e; background: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 4px;">
-    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Professional Ethics and Liability in Modern Practice (Book)</a> - $45.00
+    <strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B08N5WRWNW?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Professional Ethics and Liability in Modern Practice (Book)</a> - 
     <p style="margin: 5px 0 0 0; font-size: 0.9em; color: #555;">An essential guide for understanding risk management and ethical boundaries in high-stakes professional environments.</p>
 </div>
 
 <p>Investigators stated that the younger Robinson cooperated after an initial arrest in December 2024, eventually leading authorities up the supply chain to an out-of-state distributor. However, the investigation took a startling turn regarding the elder Robinson. Prosecutors allege that the experienced Pittsburgh attorney took active steps to conceal evidence—including a safe containing drugs and cash—thereby attempting to hinder the ongoing investigation into his son's activities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Backpack USB Charging Port ($39.99)
+Backpack USB Charging Port 
 </a></div>
 
 
 <p>As an equity member and chair of the product liability and transportation groups at Meyer, Darragh, Buckler, Bebenek & Eck, PLLC, Paul Robinson had spent decades building a professional footprint. Now, his career is overshadowed by allegations that could lead to severe professional disbarment, reputational collapse, and imprisonment. Neither Robinson nor his firm immediately returned requests for comment following the announcement of the charges.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-abshoo College Bookbag ($29.99)
+abshoo College Bookbag 
 </a></div>
 
 
@@ -66,14 +66,14 @@ abshoo College Bookbag ($29.99)
 <p>Every industry has its unwritten codes, but the legal profession places an exceptionally heavy emphasis on integrity, officer-of-the-court duties, and adherence to the law. When an individual reaches the pinnacle of their firm—becoming an equity partner and practice group leader—they carry not only personal accountability but also a profound duty to safeguard the institutional trust of their organization.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-GAZELLE External Hard Drive ($54.99)
+GAZELLE External Hard Drive 
 </a></div>
 
 
 <p>From a career risk-management perspective, this case underscores several sobering realities for high-level professionals:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-JIYINGDUO External Hard Drive ($44.99)
+JIYINGDUO External Hard Drive 
 </a></div>
 
 
@@ -92,21 +92,21 @@ JIYINGDUO External Hard Drive ($44.99)
 <p>Situations involving family loyalty colliding with moral and legal duties often remind us of the complex pressures human beings face. It is natural to want to protect one's children, yet wisdom dictates that true love never requires abandoning truth or engaging in wrongdoing.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-QT-QY Military Tactical Backpack ($34.99)
+QT-QY Military Tactical Backpack 
 </a></div>
 
 
 <p>Scripture offers a timeless observation on the weight of integrity and the hidden nature of actions in Proverbs 10:9: *"Whoever walks in integrity walks securely, but whoever takes crooked ways will be found out."* Furthermore, Proverbs 15:27 reminds us that *"The greedy bring ruin to their households, but the one who hates bribes will live."* These verses invite us to consider how easily good intentions or protective instincts can be warped into destructive paths when they bypass moral boundaries.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Backpack USB Charging Port ($39.99)
+Backpack USB Charging Port 
 </a></div>
 
 
 <p>This case gently reminds every professional to examine their own motives, ensuring that their daily choices reflect a steadfast commitment to honesty, accountability, and ethical clarity—even when facing life's most difficult relational trials.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-JIYINGDUO External Hard Drive ($44.99)
+JIYINGDUO External Hard Drive 
 </a></div>
 
 

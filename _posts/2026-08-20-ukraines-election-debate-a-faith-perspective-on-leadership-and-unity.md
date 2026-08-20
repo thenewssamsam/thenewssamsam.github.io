@@ -27,15 +27,15 @@ source_url: 'https://www.cnn.com/2026/08/19/europe/ukraine-wartime-presidential-
     <p>The push for elections comes at a time when Zelensky’s administration is already grappling with sliding popularity, corruption allegations within his office, and the immense strain of a six-year war. Fedorov, once a key architect of Ukraine’s modernization, argues that democracy must not be held hostage by Russian aggression. Yet, many analysts point out that a national vote in the current climate could be logistically impossible and politically destabilizing, potentially creating a "gift" for Moscow’s disinformation machine.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <div style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Reading:</strong> <a href="#">The Art of Resilience: Lessons from History</a> - $14.99</p>
+      <p><strong>Recommended Reading:</strong> <a href="#">The Art of Resilience: Lessons from History</a> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -43,7 +43,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>The challenge is not merely technical; it is spiritual and moral. When a nation is fighting for its very life, the unity of its leadership becomes a matter of survival. The risk of internal division—where political factions might undermine each other during a crisis—could prove as damaging as external military threats.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -53,22 +53,22 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In times of great uncertainty, Scripture reminds us that leadership is a stewardship—a responsibility to seek the welfare of the people above personal or partisan gain. We are reminded of the words in <strong>Proverbs 29:18</strong>: <em>"Where there is no vision, the people perish: but he that keepeth the law, happy is he."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>This verse invites us to consider that true vision in leadership is not just about holding an election, but about discerning the path that preserves the life and dignity of the people. When the survival of a nation is at stake, the burden on a leader is immense. It requires a humility that recognizes the limits of human power and the necessity of seeking wisdom beyond one's own capabilities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <div style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Reading:</strong> <a href="#">Journal for Daily Reflection and Prayer</a> - $12.50</p>
+      <p><strong>Recommended Reading:</strong> <a href="#">Journal for Daily Reflection and Prayer</a> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -76,7 +76,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Furthermore, <strong>1 Timothy 2:1-2</strong> encourages us: <em>"I urge, then, first of all, that petitions, prayers, intercession and thanksgiving be made for all people—for kings and all those in authority, that we may live peaceful and quiet lives in all godliness and holiness."</em> This passage reminds us that the health of a nation depends not just on its political processes, but on the intercession of its people for those in positions of heavy responsibility.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -96,10 +96,10 @@ Tactical Waterproof Backpack ($35.99)
     </ul>
     
     <div style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Reading:</strong> <a href="#">Emergency Solar Power Bank for Long Power Outages</a> - $39.99</p>
+      <p><strong>Recommended Reading:</strong> <a href="#">Emergency Solar Power Bank for Long Power Outages</a> - </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>

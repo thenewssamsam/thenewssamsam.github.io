@@ -30,15 +30,15 @@ source_url: 'https://www.independent.co.uk/news/world/americas/better-ceo-vishal
 
 <h2 id="what-happened">What Happened at Better.com</h2>
 <p>According to reports from CNN and other outlets, Vishal Garg was let go from Better Homes &amp; Finance on August 3. The ousting came after hedge fund manager Daniel Lewis joined the board of directors. Within just a week of securing his seat, Lewis reportedly convinced the board to remove Garg and name Lewis interim CEO.</p>
-<p>Garg, whose leadership has seen Better’s valuation plummet from an $8 million pandemic-era peak down to $300 million—compounded by a drop in annual sales from $1.5 billion in 2021 to $70 million in 2023—expressed profound betrayal. He told CNN that Lewis praised the company’s strategy on social media just to gain his confidence and win a spot on the board.</p>
+<p>Garg, whose leadership has seen Better’s valuation plummet from an  million pandemic-era peak down to  million—compounded by a drop in annual sales from  billion in 2021 to  million in 2023—expressed profound betrayal. He told CNN that Lewis praised the company’s strategy on social media just to gain his confidence and win a spot on the board.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
 
-<p>"He hoodwinked me," Garg said. In response, Garg has retained legal counsel, sent a demand letter for his reinstatement, and even offered to work for $1 a year until the company returns to profitability. Despite these maneuvers, Better’s stock has dropped 45 percent since the leadership shakeup, reflecting deep market uncertainty.</p>
+<p>"He hoodwinked me," Garg said. In response, Garg has retained legal counsel, sent a demand letter for his reinstatement, and even offered to work for  a year until the company returns to profitability. Despite these maneuvers, Better’s stock has dropped 45 percent since the leadership shakeup, reflecting deep market uncertainty.</p>
 
 <h2 id="psychology-perspective">A Psychology &amp; Behavior Perspective: The Blind Spots of Power</h2>
 <p>When a leader who famously lacked empathy during mass layoffs expresses genuine shock at being pushed out by political maneuvering, observers experience a jarring disconnect. How can someone who showed so little regard for the livelihoods of 900 families express such deep personal injury when his own tenure is cut short?</p>
@@ -52,7 +52,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>Garg’s reaction highlights a classic cognitive dissonance: he viewed himself as the ultimate savior of the company, currently standing at "the 5-yard line after taking the ball all the way down the field." From his internal vantage point, his severe missteps and the catastrophic PR fallout of 2021 were merely unfortunate friction points along a heroic arc. When an outsider used political maneuvering to outmaneuver him, it shattered his internal narrative. To Garg, the ousting wasn't a natural consequence of declining valuations and turbulent leadership; it was an unfair heist.</p>
 
 <h2 id="business-reality">The 5-Yard Line Fallacy</h2>
-<p>Garg defended his record by pointing to turnaround metrics: sales climbing back toward $200 million this year, largely driven by AI mortgage-processing models that replaced dozens of human workers. To him, the organization was winning.</p>
+<p>Garg defended his record by pointing to turnaround metrics: sales climbing back toward  million this year, largely driven by AI mortgage-processing models that replaced dozens of human workers. To him, the organization was winning.</p>
 <p>However, leadership psychology shows that executives under threat frequently cling to isolated upward metrics while ignoring broader systemic rot. A company whose valuation collapses by over 95 percent from its peak, coupled with a 45 percent drop in stock value immediately following a new CEO's appointment, signals a profound lack of investor and stakeholder trust. In high-stakes environments, technical execution is only half the battle; psychological safety, market confidence, and cultural stewardship determine whether a leader can actually cross the finish line.</p>
 
 <h2 id="readers-respond">How to Spot Blind Spots in Your Own Career</h2>
@@ -101,7 +101,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -109,7 +109,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

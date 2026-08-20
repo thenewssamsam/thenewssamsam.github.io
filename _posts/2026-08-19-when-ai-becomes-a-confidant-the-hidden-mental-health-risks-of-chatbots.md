@@ -29,7 +29,7 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-menta
     <p>The rise of "AI therapy" is a cultural phenomenon. For many, chatbots offer a 24/7, non-judgmental space that feels safer than the perceived burden of sharing struggles with loved ones. According to the American Psychological Association, this accessibility is exactly what makes these tools so appealing.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -37,7 +37,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>"While technology can be a helpful supplement, it cannot replace the human connection and professional assessment required in a mental health crisis."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -46,14 +46,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>While AI companies have implemented safety guardrails, including recommendations for resources like 988, these systems are not substitutes for human intervention. Experts note that AI lacks the clinical training to assess risk levels accurately. When a person is experiencing severe suicidal intent, they require a human who can guide them toward appropriate, real-world care.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p><em>This is general information, not medical advice. If you or someone you know is in crisis, please reach out to a licensed professional or call 988 immediately.</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -63,14 +63,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>This situation brings to mind the profound human need for authentic, face-to-face community. We were designed for connection, not just with information, but with the hearts of others. As it says in <strong>Proverbs 17:17</strong>, "A friend loves at all times, and a brother is born for a time of adversity." This reminds us that while technology can offer convenience, it cannot replicate the empathy of a person who truly knows us and can walk through the fire by our side.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>I am also reminded of <strong>Galatians 6:2</strong>: "Carry each other’s burdens, and in this way you will fulfill the law of Christ." When we hide our struggles behind a screen, we inadvertently deny those around us the opportunity to fulfill this calling. It is an invitation to be vulnerable with the people in our lives, even when it feels like a burden, because we were never meant to carry our heaviest weights alone.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

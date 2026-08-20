@@ -30,13 +30,13 @@ source_url: 'https://finance.yahoo.com/markets/stocks/article/nikes-stock-plunge
 </ul>
 </nav>
 
-<p>Wall Street analysts have spent years maintaining a mostly bullish stance on Nike, only to be repeatedly proven wrong as the athletic-wear giant watches its market value erode. Nike stock recently collapsed to its lowest level since September 2024, dropping past the $40 mark and sitting roughly 78% below its all-time high set in 2021. For everyday observers and number crunchers outside Wall Street, this persistent downturn feels less like a temporary dip and more like the logical consequence of structural execution problems and shifting consumer loyalties.</p>
+<p>Wall Street analysts have spent years maintaining a mostly bullish stance on Nike, only to be repeatedly proven wrong as the athletic-wear giant watches its market value erode. Nike stock recently collapsed to its lowest level since September 2024, dropping past the  mark and sitting roughly 78% below its all-time high set in 2021. For everyday observers and number crunchers outside Wall Street, this persistent downturn feels less like a temporary dip and more like the logical consequence of structural execution problems and shifting consumer loyalties.</p>
 
 <h2 id="the-reality-behind-the-numbers">The Reality Behind the Numbers</h2>
-<p>To understand why Nike (NKE) continues to struggle on the market, we have to look past the superficial headlines and examine the core financial disclosures. In late June, Nike reported fiscal fourth-quarter revenue of $11.0 billion. That figure represented a 1% decline on a reported basis and a 4% drop on a currency-neutral basis. While diluted earnings per share came in at a seemingly robust $0.72, that number was heavily distorted by a massive $0.52 per share one-time benefit stemming from an expected tariff recovery.</p>
+<p>To understand why Nike (NKE) continues to struggle on the market, we have to look past the superficial headlines and examine the core financial disclosures. In late June, Nike reported fiscal fourth-quarter revenue of  billion. That figure represented a 1% decline on a reported basis and a 4% drop on a currency-neutral basis. While diluted earnings per share came in at a seemingly robust , that number was heavily distorted by a massive  per share one-time benefit stemming from an expected tariff recovery.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 <p>Looking forward, the picture remains clouded. The company projected fiscal first-quarter revenues to decline by a low-to-mid single-digit percentage and reiterated flat earnings per share growth over the next three quarters when excluding tariff recovery proceeds. Evercore ISI analyst noted that there are no immediate hints pointing toward positive revenue growth in the foreseeable future, making it difficult to justify expanding the current price-to-earnings ratio.</p>
@@ -91,7 +91,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -99,7 +99,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -34,7 +34,7 @@ source_url: "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceas
     <p>The situation escalated rapidly on Tuesday when air defenses in the United Arab Emirates detected two ballistic missiles launched from Iran, with one falling outside territorial waters and the other landing within them. Meanwhile, maritime risks in the Strait of Hormuz remain acute. A cargo vessel was struck by a projectile during transit, damaging its engine room and resulting in a crew casualty, even as U.S. officials maintain that the crucial waterway is open and cleared of water mines under a naval blockade.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
     <p>With traffic through the strait—which historically handled roughly 20% of the world's oil trade—reduced to a trickle, the global economy faces a prolonged period of uncertainty. Yet, despite sporadic attacks on oil tankers and stalled peace talks, global markets have not experienced the catastrophic price spikes once feared. Understanding why requires a closer look at the financial mechanics currently at play.</p>
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive ($59.99)
   <section id="financial-perspective" class="ncg-section">
     <h2>The Financial Impact: Markets, Energy, and Global Supply Chains</h2>
     <p>From a financial and economic perspective, prolonged geopolitical conflict in a vital maritime chokepoint like the Strait of Hormuz acts as an invisible tax on global commerce. When transportation costs rise and insurance premiums skyrocket for vessels attempting passage, those expenses are inevitably passed down the supply chain to end consumers. However, the economic response to this ongoing crisis has defied historical precedents in surprising ways.</p>
-    <p>Oil prices rose for a third straight session following the diplomatic breakdown, reflecting heightened anxiety among investors. Yet, prices have managed to avoid surging past the psychological $100-a-barrel threshold. According to market analysis from firms like Eurasia Group, the global economy has spent the past six months adapting to the disruption. Alternative overland pipelines, successful oil-rerouting efforts, and a sluggish global demand curve have cushioned the blow, giving Washington more breathing room in its economic standoff with Tehran.</p>
+    <p>Oil prices rose for a third straight session following the diplomatic breakdown, reflecting heightened anxiety among investors. Yet, prices have managed to avoid surging past the psychological -a-barrel threshold. According to market analysis from firms like Eurasia Group, the global economy has spent the past six months adapting to the disruption. Alternative overland pipelines, successful oil-rerouting efforts, and a sluggish global demand curve have cushioned the blow, giving Washington more breathing room in its economic standoff with Tehran.</p>
     <p>At the same time, the financial stakes remain immense. President Trump's earlier floating of proposals—such as attempting to levy a 20% toll on cargo or declaring the international waterway a U.S. territory—highlight the administration's reliance on economic coercion and naval blockades as primary leverage. While maritime experts and legal scholars point out that unilateral tolling violates international law, the mere threat of financial penalties and military retaliation creates profound volatility for energy traders, shipping conglomerates, and industrial manufacturers.</p>
     
     <div class="ncg-quote-box">
@@ -107,7 +107,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -115,7 +115,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

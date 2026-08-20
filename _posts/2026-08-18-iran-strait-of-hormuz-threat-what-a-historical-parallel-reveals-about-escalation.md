@@ -24,10 +24,10 @@ source_url: 'https://www.yahoo.com/news/articles/iran-threatens-offensive-strait
     <p>The June memorandum of understanding had established a 60-day window to negotiate an end to hostilities that began with U.S. and Israel strikes on February 28. That fragile peace quickly unraveled over a bitter dispute regarding control of the Strait of Hormuz—the critical maritime passage through which roughly one-fifth of global oil and liquefied natural gas historically traveled.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
-    <p>With diplomacy stalling, back-channel communications involving figures like former Director of National Intelligence Tulsi Gabbard and IRGC commander General Ahmad Vahidi have intensified. Yet, the public posture remains tense. President Trump recently issued stark warnings regarding Oman's parallel negotiations with Tehran over the strait, while global markets continue to react with Brent crude holding above $90 a barrel and U.S. gasoline prices hovering north of $4 per gallon ahead of November congressional elections.</p>
+    <p>With diplomacy stalling, back-channel communications involving figures like former Director of National Intelligence Tulsi Gabbard and IRGC commander General Ahmad Vahidi have intensified. Yet, the public posture remains tense. President Trump recently issued stark warnings regarding Oman's parallel negotiations with Tehran over the strait, while global markets continue to react with Brent crude holding above  a barrel and U.S. gasoline prices hovering north of  per gallon ahead of November congressional elections.</p>
   </section>
 
   <section id="historical-perspective" class="ncg-section">
@@ -43,7 +43,7 @@ Tactical Waterproof Backpack ($35.99)
 
   <section id="what-it-means" class="ncg-section">
     <h2 class="ncg-h2">Why This Moment Matters for Everyday Consumers</h2>
-    <p>Geopolitical maneuvering in the Middle East often feels distant until it hits household budgets. The collapse of the ceasefire directly impacts ordinary citizens through sustained energy inflation. Benchmark Brent crude has experienced wild swings, peaking at $126 a barrel earlier in the conflict before settling around $90. For drivers across the United States, average gasoline prices remaining above $4 a gallon act as a constant, daily reminder of distant naval standoffs.</p>
+    <p>Geopolitical maneuvering in the Middle East often feels distant until it hits household budgets. The collapse of the ceasefire directly impacts ordinary citizens through sustained energy inflation. Benchmark Brent crude has experienced wild swings, peaking at  a barrel earlier in the conflict before settling around  For drivers across the United States, average gasoline prices remaining above  a gallon act as a constant, daily reminder of distant naval standoffs.</p>
     <p>Domestically, Iran enters this new phase of escalation facing immense economic headwinds—high inflation, a weakening currency, severe infrastructure damage, and widespread public weariness. Leaders in Tehran are acutely aware that prolonged conflict risks reigniting domestic unrest, creating a dangerous dynamic where external posturing serves as an internal pressure valve.</p>
   </section>
 
@@ -114,7 +114,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -122,7 +122,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

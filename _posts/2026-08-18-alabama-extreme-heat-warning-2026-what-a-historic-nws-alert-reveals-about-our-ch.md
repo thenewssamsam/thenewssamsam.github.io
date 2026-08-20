@@ -26,7 +26,7 @@ source_url: 'https://www.al.com/weather/2026/08/extreme-heat-warning-issued-for-
 <p>Beginning Sunday night, a long-duration heat wave tightened its grip across the state, prompting the National Weather Service to establish extreme heat warnings for central Alabama alongside statewide heat advisories. Sunday afternoon temperatures already crossed the century mark in Tuscaloosa (101°F) and Montgomery (100°F), while cities like Birmingham, Mobile, and Muscle Shoals hovered between 96 and 97 degrees.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0GKT8JXPZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Wawahydro Insulated Water Bottle ($29.99)
+Wawahydro Insulated Water Bottle 
 </a></p>
 
 
@@ -91,7 +91,7 @@ Wawahydro Insulated Water Bottle ($29.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B09QQCX392?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">EZPIK Reachers and Grabbers</a></div>
-    <div class="product-price">$14.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B09QQCX392?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -99,7 +99,7 @@ Wawahydro Insulated Water Bottle ($29.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -107,7 +107,7 @@ Wawahydro Insulated Water Bottle ($29.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0GX8NPZ1T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">GOPPUS Insulated Leak-Proof Bottle</a></div>
-    <div class="product-price">$19.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0GX8NPZ1T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -115,7 +115,7 @@ Wawahydro Insulated Water Bottle ($29.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">CeraVe Skin Renewing Night Cream</a></div>
-    <div class="product-price">$18.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -123,7 +123,7 @@ Wawahydro Insulated Water Bottle ($29.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07MBBP71L?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Bambaw Stainless Steel Water Bottle</a></div>
-    <div class="product-price">$25.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07MBBP71L?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -131,7 +131,7 @@ Wawahydro Insulated Water Bottle ($29.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0GVH72LRS?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">KewLitz Insulated Stainless Steel Bottle</a></div>
-    <div class="product-price">$24.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0GVH72LRS?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -139,7 +139,7 @@ Wawahydro Insulated Water Bottle ($29.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -26,7 +26,7 @@ source_url: 'https://apnews.com/article/iran-us-israel-lebanon-gaza-hormuz-augus
     <p>Tensions reached a new peak this Monday as Iran announced it had reached an understanding with Oman regarding a transit route through the Strait of Hormuz. The proposed plan would allow ships to navigate the strait without fees, utilizing routes close to both nations. However, the United States, which has maintained a blockade on Iranian ports since the conflict began following the February 28 attacks, remains hostile to any deal that does not meet its specific terms.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>President Trump’s rhetoric has escalated significantly, with reports indicating he threatened to bomb Oman should it “get in the way” of U.S. objectives. Meanwhile, the 60-day window for U.S.-Iran peace negotiations has expired without a breakthrough, leaving the international community, including U.N. Secretary-General António Guterres, calling for a de-escalation of rhetoric.</p>
@@ -82,7 +82,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -90,7 +90,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

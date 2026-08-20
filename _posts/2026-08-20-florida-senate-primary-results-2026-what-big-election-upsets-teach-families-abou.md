@@ -26,7 +26,7 @@ source_url: "https://www.nbcnews.com/politics/2026-primary-special-elections/flo
   </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   <p>
@@ -34,7 +34,7 @@ Tactical Waterproof Backpack ($35.99)
   </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -44,7 +44,7 @@ Seagate Portable External Hard Drive ($59.99)
   </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   <p>
@@ -52,7 +52,7 @@ Tactical Waterproof Backpack ($35.99)
   </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -67,7 +67,7 @@ Tactical Waterproof Backpack ($35.99)
   </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -79,7 +79,7 @@ Seagate Portable External Hard Drive ($59.99)
 
   <div class="ncg-product-box" style="border-left: 4px solid #f59e0b; background: #fffbeb; padding: 16px; margin: 20px 0; border-radius: 4px;">
     <p style="margin: 0 0 8px 0; font-weight: bold; color: #92400e;">Recommended Resource for Family Discussions:</p>
-    <p style="margin: 0;"><a href="https://www.amazon.com/dp/B07V5W85C5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Civics for Kids: Interactive Guide to Government and Voting</a> - $14.99</p>
+    <p style="margin: 0;"><a href="https://www.amazon.com/dp/B07V5W85C5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Civics for Kids: Interactive Guide to Government and Voting</a> - </p>
   </div>
 
   <h2 id="scripture-and-moral-reflection">A Quiet Moment of Reflection</h2>
@@ -88,7 +88,7 @@ Seagate Portable External Hard Drive ($59.99)
   </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   <p>
@@ -96,13 +96,13 @@ Seagate Portable External Hard Drive ($59.99)
   </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
   <div class="ncg-product-box" style="border-left: 4px solid #f59e0b; background: #fffbeb; padding: 16px; margin: 20px 0; border-radius: 4px;">
     <p style="margin: 0 0 8px 0; font-weight: bold; color: #92400e;">Helpful Tool for Family Journaling:</p>
-    <p style="margin: 0;"><a href="https://www.amazon.com/dp/B08N5W85C5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Family Gratitude and Reflection Journal</a> - $12.50</p>
+    <p style="margin: 0;"><a href="https://www.amazon.com/dp/B08N5W85C5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">Family Gratitude and Reflection Journal</a> - </p>
   </div>
 
   <h2 id="how-should-families-respond">How Should Families Respond?</h2>
@@ -111,7 +111,7 @@ Tactical Waterproof Backpack ($35.99)
   </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   <ol>
@@ -122,7 +122,7 @@ Seagate Portable External Hard Drive ($59.99)
 
   <div class="ncg-product-box" style="border-left: 4px solid #f59e0b; background: #fffbeb; padding: 16px; margin: 20px 0; border-radius: 4px;">
     <p style="margin: 0 0 8px 0; font-weight: bold; color: #92400e;">Great Book for Raising Resilient Children:</p>
-    <p style="margin: 0;"><a href="https://www.amazon.com/dp/B07N5W85C5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The Resilience Advantage: Raising Kids Who Bounce Back</a> - $16.99</p>
+    <p style="margin: 0;"><a href="https://www.amazon.com/dp/B07N5W85C5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline;">The Resilience Advantage: Raising Kids Who Bounce Back</a> - </p>
   </div>
 
   <h2 id="closing-takeaway">One Last Thought</h2>

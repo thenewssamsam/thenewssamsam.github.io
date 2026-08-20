@@ -16,7 +16,7 @@ source_url: "https://apnews.com/article/tariffs-trump-canada-usmca-trade-aae597c
   </header>
 
   <section id="intro">
-    <p>In a dramatic last-minute development, President Donald Trump announced a three-day pause on the 50% tariffs scheduled to hit $20 billion worth of Canadian imports. By securing a temporary deal, both nations have stepped back from a brink that threatened to upend one of the world’s most integrated trade relationships. Yet, the legal mechanism used—Section 338 of the 1930 Tariff Act—invokes a ghost from the past that historians and economists have long warned against.</p>
+    <p>In a dramatic last-minute development, President Donald Trump announced a three-day pause on the 50% tariffs scheduled to hit  billion worth of Canadian imports. By securing a temporary deal, both nations have stepped back from a brink that threatened to upend one of the world’s most integrated trade relationships. Yet, the legal mechanism used—Section 338 of the 1930 Tariff Act—invokes a ghost from the past that historians and economists have long warned against.</p>
   </section>
 
   <section id="what-happened">
@@ -24,7 +24,7 @@ source_url: "https://apnews.com/article/tariffs-trump-canada-usmca-trade-aae597c
     <p>The tariffs were set to impact everything from hockey sticks to essential medical supplies. The eleventh-hour agreement provides a brief window for negotiators to finalize terms, specifically addressing what the administration views as discriminatory Canadian measures against U.S. dairy, alcohol, and automotive exports. While Canadian Prime Minister Mark Carney noted "substantial progress," the reality remains that both economies are currently in a state of high-stakes limbo.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -34,7 +34,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>To find the precedent for these tariffs, one must look back to the dark days of the Great Depression. The 1930 Tariff Act, better known as the <strong>Smoot-Hawley Tariff</strong>, remains a cautionary tale in economic history. Designed to protect American industry, it instead triggered a global retaliatory spiral that deepened and prolonged the worldwide economic collapse.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -42,7 +42,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>"History doesn't repeat itself, but it often rhymes. Using 1930s-era tools in a 21st-century global economy risks repeating the protectionist traps of the past."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -51,7 +51,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Section 338, which had never been previously invoked, gives the executive branch broad authority to impose levies without the standard investigations required by modern trade law. Much like the legislative atmosphere of 1930, the current administration is utilizing protectionism as a primary lever for broader geopolitical goals—in this case, pushing for concessions within the USMCA framework.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -61,13 +61,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>As I consider the tension between nations, I am reminded of the biblical principle of stewardship and the value of honest dealing. In Proverbs 11:1, we read: <em>"A false balance is an abomination to the Lord, but a just weight is his delight."</em> While this verse is often applied to personal integrity, it speaks volumes to the macro level of national policy. Are we seeking a "just weight" in our trade relations, or are we using leverage to serve short-term interests at the expense of our neighbors?</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Furthermore, Matthew 5:9 reminds us: <em>"Blessed are the peacemakers, for they shall be called sons of God."</em> The push for a deal, even at the eleventh hour, reflects a human desire to avoid unnecessary conflict. It invites us to consider whether our own actions in business and community life prioritize reconciliation or the cold, calculated use of power. True stability is found not in the threat of sanctions, but in the commitment to fair and transparent cooperation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

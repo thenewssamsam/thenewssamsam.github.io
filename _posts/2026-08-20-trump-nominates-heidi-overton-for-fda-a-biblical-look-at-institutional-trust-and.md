@@ -32,7 +32,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/19/heidi-overton-fda-c
 
   <div class="ncg-amazon-product" style="border-left: 4px solid #d97706; background-color: #fffbeb; padding: 15px 20px; margin: 25px 0; border-radius: 0 6px 6px 0; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
     <p style="margin: 0 0 8px 0; font-weight: 600; color: #92400e;">Recommended Resource for Deeper Study:</p>
-    <p style="margin: 0; font-size: 0.95srem; color: #78350f;"><a href="https://www.amazon.com/dp/B07Z7Q8R5V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">Navigating Culture and Conscience: A Christian Guide to Public Ethics</a> — Price: $16.99. Exploring how timeless biblical truths apply to modern governance, medical science, and institutional leadership.</p>
+    <p style="margin: 0; font-size: 0.95srem; color: #78350f;"><a href="https://www.amazon.com/dp/B07Z7Q8R5V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">Navigating Culture and Conscience: A Christian Guide to Public Ethics</a> — . Exploring how timeless biblical truths apply to modern governance, medical science, and institutional leadership.</p>
   </div>
 
   <section class="ncg-section" style="margin-bottom: 35px;">
@@ -40,21 +40,21 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/19/heidi-overton-fda-c
     <p>According to reports from <em>The Guardian</em> and other major outlets, Donald Trump announced via Truth Social that he is nominating Dr. Heidi Overton, MD, PhD, to head the FDA. Hailing her as a key figure in his administration's health initiatives working alongside Secretary Robert F. Kennedy Jr. and Dr. Oz, Trump emphasized goals of accelerating drug approvals, lowering drug prices, and enacting major clinical trial reforms.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>However, Overton’s background has immediately drawn intense public scrutiny. An outspoken opponent of abortion, Overton has previously advocated for strict congressional regulation of the abortion drug mifepristone, which she characterized in a 2023 policy brief as "teleabortion" and "abortion-on-demand." For the roughly 23 million women living in states with active abortion bans, mifepristone remains a critical vector for access, making federal oversight of the drug a high-stakes battleground.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>In addition to her stances on reproductive health, Overton recently appeared alongside President Trump during an executive order announcement aimed at splitting the measles, mumps, and rubella (MMR) vaccine into three separate doses. While the administration frames this as empowering parental choice, major medical organizations like the American Academy of Pediatrics have sharply criticized the directive as dangerous amid ongoing disease outbreaks.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -64,28 +64,28 @@ Tactical Waterproof Backpack ($35.99)
     <p>Whenever public health policies collide with profound moral questions, believers are invited to step back from the partisan noise and look through an eternal lens. Scripture consistently reminds us that earthly authorities and institutional systems operate within a fallen world, yet they remain under the overarching sovereignty of God.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>The core debates surrounding the FDA—involving the protection of vulnerable lives, the distribution of medications, and the transparent pursuit of public health—touch directly upon biblical commands concerning justice, truth, and human dignity. When Proverbs 31:8-9 commands us to <em>"Speak up for those who cannot speak for themselves, for the rights of all who are destitute,"</em> it challenges leaders and citizens alike to consider how policy protects or endangers the most defenseless among us. From a biblical worldview, the sanctity of human life from its earliest stages is not merely a political talking point, but a foundational moral reality.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>At the same time, Proverbs 12:22 tells us that <em>"Lying lips are detestable to the Lord, but faithful people are his delight."</em> In an era of intense information fragmentation—where scientific claims are frequently weaponized and public trust in regulatory bodies swings wildly—the pursuit of unvarnished truth becomes a spiritual imperative. True wisdom requires us to sift through complex medical claims with discernment, demanding honesty and accountability from those who wield institutional power.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-product" style="border-left: 4px solid #d97706; background-color: #fffbeb; padding: 15px 20px; margin: 25px 0; border-radius: 0 6px 6px 0; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
     <p style="margin: 0 0 8px 0; font-weight: 600; color: #92400e;">Recommended Resource for Deeper Study:</p>
-    <p style="margin: 0; font-size: 0.95srem; color: #78350f;"><a href="https://www.amazon.com/dp/0310536712?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">The Bible and Bioethics: Principles and Guidelines</a> — Price: $24.99. A thoughtful exploration of how scripture informs modern medical decisions, healthcare policy, and biotechnology.</p>
+    <p style="margin: 0; font-size: 0.95srem; color: #78350f;"><a href="https://www.amazon.com/dp/0310536712?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">The Bible and Bioethics: Principles and Guidelines</a> — . A thoughtful exploration of how scripture informs modern medical decisions, healthcare policy, and biotechnology.</p>
   </div>
 
   <div class="ncg-quote-box" style="background-color: #f8fafc; border: 1px solid #e2e8f0; border-left: 4px solid #0f172a; padding: 25px; margin: 30px 0; border-radius: 0 8px 8px 0; text-align: center;">
@@ -98,7 +98,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Navigating leadership transitions within major federal agencies like the FDA can easily evoke anxiety or cynicism. However, Scripture calls believers to a posture of active, prayerful engagement rather than passive despair. Here are three grounded ways Christians can respond to developments in public health policy:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -111,7 +111,7 @@ Tactical Waterproof Backpack ($35.99)
 
   <div class="ncg-amazon-product" style="border-left: 4px solid #d97706; background-color: #fffbeb; padding: 15px 20px; margin: 25px 0; border-radius: 0 6px 6px 0; box-shadow: 0 2px 4px rgba(0,0,0,0.02);">
     <p style="margin: 0 0 8px 0; font-weight: 600; color: #92400e;">Recommended Resource for Deeper Study:</p>
-    <p style="margin: 0; font-size: 0.95srem; color: #78350f;"><a href="https://www.amazon.com/dp/1581347340?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">The Culture of Life: Ten Essential Principles for Christian Bioethics</a> — Price: $19.45. Essential reading on upholding moral integrity in modern medicine.</p>
+    <p style="margin: 0; font-size: 0.95srem; color: #78350f;"><a href="https://www.amazon.com/dp/1581347340?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #b45309; text-decoration: underline; font-weight: 600;">The Culture of Life: Ten Essential Principles for Christian Bioethics</a> — . Essential reading on upholding moral integrity in modern medicine.</p>
   </div>
 
   <section class="ncg-section" style="margin-bottom: 35px;">

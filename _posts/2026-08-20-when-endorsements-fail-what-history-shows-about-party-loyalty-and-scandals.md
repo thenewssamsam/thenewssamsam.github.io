@@ -32,13 +32,13 @@ source_url: "https://www.foxnews.com/politics/trumps-support-doesnt-save-scandal
     <p>Mills is far from the only lawmaker caught in this current wave. Rep. Chuck Edwards of North Carolina recently abandoned his re-election bid following an explosive House Ethics report. While Mills repeatedly downplayed the allegations and framed the scrutiny as a political operation, primary voters in his district ultimately drew a hard line.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
 
   <div class="hc-amazon-rec" style="background:#f9f9f9; border-left:4px solid #f0c14b; padding:12px; margin:15px 0; border-radius:4px;">
-    <p style="margin:0; font-size:0.95em;"><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B003L77ZXG?tag=thenewssam-20" target="_blank" rel="noopener">American Sphinx: The Character of Thomas Jefferson</a> - A classic examination of political character, ambition, and the timeless trials of leadership in early America ($14.99).</p>
+    <p style="margin:0; font-size:0.95em;"><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B003L77ZXG?tag=thenewssam-20" target="_blank" rel="noopener">American Sphinx: The Character of Thomas Jefferson</a> - A classic examination of political character, ambition, and the timeless trials of leadership in early America .</p>
   </div>
 
   <section id="historical-perspective">
@@ -46,14 +46,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>To understand the shockwaves of Tuesday night's primary, we have to look past modern media cycles and step back into the long mirror of American political history. The phenomenon of a powerful political figure endorsing a struggling ally—only to watch primary voters reject them—is as old as the republic itself.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <p>In the American political tradition, endorsements function much like royal stamps of approval did in earlier centuries. Presidents, party bosses, and populist icons have long acted as kingmakers. Yet, history demonstrates that a top-down endorsement has a distinct breaking point. When local constituents perceive a breach of trust or an ethical cloud that threatens their community's reputation, personal affection for a national leader often takes a back seat to local survival instincts.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -61,19 +61,19 @@ Tactical Waterproof Backpack ($35.99)
     <p>Consider the mid-term primary battles of past eras, such as Franklin D. Roosevelt's failed 1938 "purge" attempt. Roosevelt actively campaigned against conservative members of his own party who opposed the New Deal, stepping directly into local primaries to steer outcomes. Despite his immense national popularity, many of the targets he opposed easily won re-election. Voters drew a sharp line: national policy goals could not override local candidate accountability.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
     <div class="hc-amazon-rec" style="background:#f9f9f9; border-left:4px solid #f0c14b; padding:12px; margin:15px 0; border-radius:4px;">
-      <p style="margin:0; font-size:0.95em;"><strong>Leadership Insight:</strong> <a href="https://www.amazon.com/dp/B074W8Y3NK?tag=thenewssam-20" target="_blank" rel="noopener">Team of Rivals: The Political Genius of Abraham Lincoln</a> - Explore how historical leaders managed fragile coalitions and shifting alliances under immense pressure ($18.50).</p>
+      <p style="margin:0; font-size:0.95em;"><strong>Leadership Insight:</strong> <a href="https://www.amazon.com/dp/B074W8Y3NK?tag=thenewssam-20" target="_blank" rel="noopener">Team of Rivals: The Political Genius of Abraham Lincoln</a> - Explore how historical leaders managed fragile coalitions and shifting alliances under immense pressure .</p>
     </div>
 
     <h3 style="margin-top:1.5em; font-size:1.2em; color:#444;">2. The Ethics Threshold</h3>
     <p>Throughout American history, ethical scandals act as a solvent that dissolves party discipline. Whether looking at the 19th-century Gilded Age machine politics or post-Watergate congressional primary sweeps, a proven or heavily investigated ethics breach shifts the voter's primary question from "Is this person on my team?" to "Is this person a liability?" When lawmakers like Mills or North Carolina's Chuck Edwards face credible internal investigations, the protective shield of party loyalty quickly frays.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -84,7 +84,7 @@ Tactical Waterproof Backpack ($35.99)
   </section>
 
   <div class="hc-amazon-rec" style="background:#f9f9f9; border-left:4px solid #f0c14b; padding:12px; margin:15px 0; border-radius:4px;">
-    <p style="margin:0; font-size:0.95em;"><strong>Political History:</strong> <a href="https://www.amazon.com/dp/B000FC1P5G?tag=thenewssam-20" target="_blank" rel="noopener">The Age of Jackson</a> - A deep dive into the rise of populist movements, party loyalty, and the turbulent history of American political alignments ($16.99).</p>
+    <p style="margin:0; font-size:0.95em;"><strong>Political History:</strong> <a href="https://www.amazon.com/dp/B000FC1P5G?tag=thenewssam-20" target="_blank" rel="noopener">The Age of Jackson</a> - A deep dive into the rise of populist movements, party loyalty, and the turbulent history of American political alignments .</p>
   </div>
 
   <section id="spiritual-reflection">
@@ -92,27 +92,27 @@ Tactical Waterproof Backpack ($35.99)
     <p>This political shakeup also brings to mind the timeless wisdom found in Scripture regarding the stewardship of trust and public leadership. When leaders are placed in positions of influence, their character is ultimately tested away from the bright lights of national campaigns.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>Proverbs 22:1 reminds us, <q>A good name is to be chosen rather than great riches, and favour is better than silver and gold.</q> This ancient proverb speaks directly to the reality unfolding in modern politics. Endorsements, poll numbers, and party backing are fleeting assets. When integrity is compromised, no amount of institutional support can permanently sustain a leader whose foundation has cracked.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>Similarly, Luke 12:48 reminds us of a basic principle of accountability: <q>For unto whomsoever much is given, of him shall be much required.</q> Holding public office is a high calling that demands rigorous personal integrity. When voters step into the ballot box, they are often acting as an unintended instrument of accountability, reminding leaders that authority is a temporary trust rather than an entitlement.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
 
   <div class="hc-amazon-rec" style="background:#f9f9f9; border-left:4px solid #f0c14b; padding:12px; margin:15px 0; border-radius:4px;">
-    <p style="margin:0; font-size:0.95em;"><strong>Ethical Reflection:</strong> <a href="https://www.amazon.com/dp/0802878377?tag=thenewssam-20" target="_blank" rel="noopener">The Making of a Leader</a> - Books on character development and moral leadership in public life ($15.49).</p>
+    <p style="margin:0; font-size:0.95em;"><strong>Ethical Reflection:</strong> <a href="https://www.amazon.com/dp/0802878377?tag=thenewssam-20" target="_blank" rel="noopener">The Making of a Leader</a> - Books on character development and moral leadership in public life .</p>
   </div>
 
   <section id="how-readers-should-respond">
@@ -120,7 +120,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Primary upsets like the one in Florida's 7th District offer clear lessons for everyday citizens navigating modern politics:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>
@@ -131,7 +131,7 @@ Seagate Portable External Hard Drive ($59.99)
   </section>
 
   <div class="hc-amazon-rec" style="background:#f9f9f9; border-left:4px solid #f0c14b; padding:12px; margin:15px 0; border-radius:4px;">
-    <p style="margin:0; font-size:0.95em;"><strong>Civic Engagement:</strong> <a href="https://www.amazon.com/dp/1524763136?tag=thenewssam-20" target="_blank" rel="noopener">The Constitution of the United States</a> - Pocket edition for understanding foundational civic structures and voting rights ($5.99).</p>
+    <p style="margin:0; font-size:0.95em;"><strong>Civic Engagement:</strong> <a href="https://www.amazon.com/dp/1524763136?tag=thenewssam-20" target="_blank" rel="noopener">The Constitution of the United States</a> - Pocket edition for understanding foundational civic structures and voting rights .</p>
   </div>
 
   <section id="closing-takeaway">

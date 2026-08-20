@@ -29,11 +29,11 @@ source_url: 'https://finance.yahoo.com/markets/article/spacexs-biggest-investors
   <p>The numbers paint a picture of extreme concentration. More than 1,500 investors disclosed stakes in the company, but just 23 of them account for over 80% of the reported shares. At the other end of the spectrum, nearly 1,340 investors reported positions of fewer than 100,000 shares, yet together they own less than 1% of the total reported equity.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 
-  <p>Alphabet (GOOGL, GOOG) leads the corporate pack by a wide margin, disclosing more than 551 million shares valued at a staggering $77.2 billion based on recent trading. Fidelity follows with over 302 million shares worth $42.4 billion, though that total represents stock held across numerous managed mutual funds and accounts rather than a single corporate treasury bet. Other heavyweights include Gigafund at 171.8 million shares, Saudi Arabia's Public Investment Fund at 154.1 million, and artificial intelligence darling Nvidia (NVDA) holding 122.8 million shares. Even higher education got in on the action, with Harvard Management Co. disclosing nearly 13 million shares&mdash;making SpaceX the largest individual stock position in the Ivy League endowment's publicly reported U.S. equity portfolio.</p>
+  <p>Alphabet (GOOGL, GOOG) leads the corporate pack by a wide margin, disclosing more than 551 million shares valued at a staggering  billion based on recent trading. Fidelity follows with over 302 million shares worth  billion, though that total represents stock held across numerous managed mutual funds and accounts rather than a single corporate treasury bet. Other heavyweights include Gigafund at 171.8 million shares, Saudi Arabia's Public Investment Fund at 154.1 million, and artificial intelligence darling Nvidia (NVDA) holding 122.8 million shares. Even higher education got in on the action, with Harvard Management Co. disclosing nearly 13 million shares&mdash;making SpaceX the largest individual stock position in the Ivy League endowment's publicly reported U.S. equity portfolio.</p>
 
   <h2 id="financial-impact">The Financial Mechanics: Examining Market Concentration and Share Lockups</h2>
   
@@ -151,7 +151,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -159,7 +159,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

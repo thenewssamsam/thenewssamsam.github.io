@@ -23,7 +23,7 @@ source_url: "https://www.azfamily.com/2026/08/18/lake-powell-lake-mead-hit-recor
     <p>When major reservoirs hit record lows, rumors often spread faster than the water recedes. Here is a breakdown of the current situation based on expert reporting.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -32,7 +32,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>Fact:</strong> While the water levels are at record lows, experts like Sarah Porter of the Kyl Center for Water Policy clarify that cities and towns are not in immediate danger of "running out" of water. Municipalities have been planning for these declines for decades, and while usage restrictions and higher water rates are likely, the infrastructure is designed to maintain a baseline supply.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </details>
@@ -42,7 +42,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>Fact:</strong> This is partially false. While your tap water is expected to continue flowing, the secondary effects are real. Increased water rates are a likely outcome as utilities adjust to the costs of securing water, and the reduction in hydroelectric power generation could impact grid stability and energy costs across the West.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </details>
@@ -57,13 +57,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This situation invites us to consider the biblical principle of stewardship. As it says in <strong>1 Peter 4:10</strong>, "Each of you should use whatever gift you have received to serve others, as faithful stewards of God’s grace in its various forms."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Water is a fundamental gift, and seeing these reservoirs drop reminds me that our resources are not infinite. It challenges us to move from a mindset of consumption to one of care, recognizing that our choices today impact the generations of tomorrow. <strong>Psalm 24:1</strong> reminds us, "The earth is the Lord’s, and everything in it, the world, and all who live in it." We are merely caretakers of this land, and this crisis is a call to handle our natural resources with wisdom, humility, and foresight.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -78,10 +78,10 @@ Tactical Waterproof Backpack ($35.99)
   </section>
 
   <div style="border-left: 5px solid #d4ac0d; background-color: #fef9e7; padding: 15px; margin: 20px 0;">
-    <p><strong>Need to conserve water at home?</strong> Check out these highly-rated <a href="#">smart irrigation controllers (approx. $120)</a> to optimize your lawn watering schedule.</p>
+    <p><strong>Need to conserve water at home?</strong> Check out these highly-rated <a href="#">smart irrigation controllers (approx. )</a> to optimize your lawn watering schedule.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>

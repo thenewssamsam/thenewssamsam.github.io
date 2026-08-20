@@ -26,7 +26,7 @@ source_url: 'https://www.cbsnews.com/live-updates/us-iran-war-deal-expired-strai
     <p>While Washington maintains its military blockade in the Strait of Hormuz—with President Trump even floating the controversial idea of declaring the vital waterway a U.S. territory—financial markets are delivering their own verdict. Oil prices have resumed their upward march, dragging major stock indices down from their recent record highs. Behind the diplomatic maneuvers and high-stakes warnings lies a stark economic reality: the longer this standoff persists, the more fragile global supply chains and household budgets become.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -55,7 +55,7 @@ Tactical Waterproof Backpack ($35.99)
     <h2>The Financial Impact: Why the Strait of Hormuz Drives Inflation</h2>
     <p>From a financial perspective, the Strait of Hormuz is not merely a geographic waypoint; it is the jugular vein of the global energy supply. Roughly a fifth of the world's petroleum passes through this narrow passage. When transit halts or relies entirely on heavily policed military escorts and blockades, the friction introduces immediate systemic costs.</p>
     
-    <p>In economics, uncertainty acts as a hidden tax. When petroleum futures swing violently—as Brent crude has done over the past month, zigzagging wildly between $72 and $102 a barrel—refineries, shipping firms, and manufacturers cannot reliably forecast their operating costs. That volatility filters down with ruthless efficiency:</p>
+    <p>In economics, uncertainty acts as a hidden tax. When petroleum futures swing violently—as Brent crude has done over the past month, zigzagging wildly between  and  a barrel—refineries, shipping firms, and manufacturers cannot reliably forecast their operating costs. That volatility filters down with ruthless efficiency:</p>
     
     <ul>
       <li><strong>Transport and Logistics:</strong> Higher fuel costs immediately inflate freight rates for moving consumer goods across land and sea.</li>
@@ -70,7 +70,7 @@ Tactical Waterproof Backpack ($35.99)
 
   <section class="ncg-section" id="market-reaction">
     <h2>Markets React: Oil Volatility and Slower Growth</h2>
-    <p>Wall Street made its anxiety clear on Monday. As afternoon trading progressed and news confirmed that the diplomatic window had closed without a breakthrough, oil prices accelerated upward. Brent crude climbed 2.7% to settle at $90.87 a barrel. Equity markets mirrored that anxiety: the S&P 500 slipped 0.5% away from its record highs, the Dow Jones Industrial Average dropped 272 points, and the Nasdaq composite edged downward.</p>
+    <p>Wall Street made its anxiety clear on Monday. As afternoon trading progressed and news confirmed that the diplomatic window had closed without a breakthrough, oil prices accelerated upward. Brent crude climbed 2.7% to settle at  a barrel. Equity markets mirrored that anxiety: the S&P 500 slipped 0.5% away from its record highs, the Dow Jones Industrial Average dropped 272 points, and the Nasdaq composite edged downward.</p>
     
     <p>Investors hate nothing more than unstructured risk. While corporate earnings in other sectors remain relatively resilient, energy shocks have a unique capacity to suppress broader economic momentum. When businesses see their energy expenses spike overnight, capital expenditure plans get shelved, hiring freezes are enacted, and growth forecasts are quietly revised downward. The market's current retreat is a rational pricing-in of prolonged geopolitical friction.</p>
   </section>
@@ -136,7 +136,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -144,7 +144,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

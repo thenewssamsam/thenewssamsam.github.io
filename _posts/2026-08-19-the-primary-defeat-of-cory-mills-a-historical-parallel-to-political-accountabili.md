@@ -25,7 +25,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/gop-rep-cory-mills-l
     <p>However, Mills was dogged by a House Ethics Committee probe regarding sexual misconduct and campaign finance violations, alongside a separate Justice Department investigation. These factors, combined with calls for his resignation from both sides of the aisle, created a political environment where the "Trump endorsement" was insufficient to maintain his seat.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -35,7 +35,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>History suggests that incumbent vulnerability often follows a specific pattern. When we look back at the 1974 post-Watergate era or the 1994 "Republican Revolution," we see that voters often prioritize perceived institutional integrity over internal party loyalty when scandals reach a critical mass.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p><strong>"The fall of Cory Mills echoes moments in history where the weight of ethics investigations proved heavier than the gravity of party endorsements."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -52,7 +52,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Just as in the case of various 20th-century political figures who faced internal party revolts, Mills' challenger, Ryan Elijah, successfully framed the race around "character" and "integrity." When Republican colleagues like Anna Paulina Luna and Mike Haridopolos publicly endorsed Elijah, they effectively signaled to the electorate that the party brand was more important than the individual incumbent.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -60,7 +60,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Historically, incumbents in seats won by large margins—like the 12-point advantage Trump held in this district in 2024—are rarely ousted in primaries. However, when an incumbent becomes a liability, the seat’s safety often emboldens a primary challenger to step forward, calculating that a "clean" candidate can hold the district in the general election where a scandal-plagued incumbent might fail.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -70,13 +70,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>In reflecting on this political shift, I'm reminded of the biblical principle that "a good name is to be chosen rather than great riches" (Proverbs 22:1). Power, endorsements, and financial backing are fleeting, but the integrity of one's character remains the foundation of any true leadership. This situation invites us to consider how we prioritize the truth in our own lives, even when it is uncomfortable or costly.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Scripture reminds us in Luke 12:2 that "there is nothing covered that will not be revealed, nor hidden that will not be known." While this is a political event, it serves as a sobering reminder that transparency and moral stewardship are not just personal virtues, but essential requirements for those entrusted with public service. It invites us to pray for our leaders to walk in wisdom and honesty, regardless of the political cost.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

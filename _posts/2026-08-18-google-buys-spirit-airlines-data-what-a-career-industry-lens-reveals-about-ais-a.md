@@ -16,20 +16,20 @@ source_url: 'https://news.bloomberglaw.com/bankruptcy-law/google-aims-to-boost-a
 <p><time datetime="2026-08-16">Published: August 16, 2026</time> &bull; 6 min read</p>
 </header>
 
-<p>When a massive low-cost airline collapses under billions of debt, its physical planes and airport slots aren't the only assets put up for grabs. In a bankruptcy auction that signals a new chapter for corporate technology, Google just secured a $10 million trove of enterprise data, software code, and operational records from the defunct Spirit Aviation Holdings to feed its artificial intelligence models. While the deal explicitly excludes personal passenger profiles and loyalty program data, it opens up a fascinating window into how tech giants are sourcing real-world workflow data—and what that shift means for professionals watching the evolution of automation and enterprise value.</p>
+<p>When a massive low-cost airline collapses under billions of debt, its physical planes and airport slots aren't the only assets put up for grabs. In a bankruptcy auction that signals a new chapter for corporate technology, Google just secured a  million trove of enterprise data, software code, and operational records from the defunct Spirit Aviation Holdings to feed its artificial intelligence models. While the deal explicitly excludes personal passenger profiles and loyalty program data, it opens up a fascinating window into how tech giants are sourcing real-world workflow data—and what that shift means for professionals watching the evolution of automation and enterprise value.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Backpack USB Charging Port ($39.99)
+Backpack USB Charging Port 
 </a></p>
 
 
 <h2 id="what-happened">What Happened in the Spirit Airlines Data Auction?</h2>
 
-<p>According to court notices filed in the U.S. Bankruptcy Court for the Southern District of New York, Google LLC won the auction for a sweeping enterprise dataset after outbidding AI talent recruiting firm Mercor.io, which had submitted a $7.5 million backup offer. The purchase brings an enormous volume of operational history into Google's hands, including 100 million emails, 500 million Microsoft Teams chats and collaboration records, human resources archives dating back to 1986, and extensive project management documentation.</p>
+<p>According to court notices filed in the U.S. Bankruptcy Court for the Southern District of New York, Google LLC won the auction for a sweeping enterprise dataset after outbidding AI talent recruiting firm Mercor.io, which had submitted a  million backup offer. The purchase brings an enormous volume of operational history into Google's hands, including 100 million emails, 500 million Microsoft Teams chats and collaboration records, human resources archives dating back to 1986, and extensive project management documentation.</p>
 
 <p>Crucially, the acquisition also encompasses roughly 30 million lines of software code, development metadata, and pricing history drawn from 7.2 billion competitor flights alongside 7.5 billion passenger transaction records going back nearly two decades. On the privacy front, court documents emphasize that Google's purchase leaves behind sensitive consumer assets, such as Spirit's 97.5 million passenger profiles and 50.2 million Free Spirit loyalty records. Google stated that the incoming business data will undergo a rigorous third-party scrubbing process to ensure no personally identifiable information reaches its systems.</p>
 
-<p>Spirit's shutdown on May 2—triggered by surging fuel costs, failed financing negotiations, and roughly $8.1 billion in debt—left 17,000 employees out of work. While JetBlue Airways snapped up the airline's 22 takeoff and landing slots at LaGuardia Airport for $58.5 million, this separate data sale to Google highlights a quiet, highly lucrative market for the digital exhaust of bankrupt corporate giants.</p>
+<p>Spirit's shutdown on May 2—triggered by surging fuel costs, failed financing negotiations, and roughly  billion in debt—left 17,000 employees out of work. While JetBlue Airways snapped up the airline's 22 takeoff and landing slots at LaGuardia Airport for  million, this separate data sale to Google highlights a quiet, highly lucrative market for the digital exhaust of bankrupt corporate giants.</p>
 
 <h2 id="career-industry-perspective">A Career &amp; Industry Perspective: The Rising Value of Institutional Workflow</h2>
 
@@ -61,7 +61,7 @@ Backpack USB Charging Port ($39.99)
 
 <details class="ncg-faq" style="margin-bottom: 1rem; border: 1px solid #e0e0e0; border-radius: 4px; padding: 1rem;">
   <summary style="font-weight: 600; cursor: pointer;">Did Google buy customer data in the Spirit Airlines bankruptcy?</summary>
-  <p style="margin-top: 0.5rem; margin-bottom: 0;">No. Court documents confirm that Google's $10 million purchase explicitly excludes personal data, such as Spirit's 97.5 million passenger profiles and 50.2 million loyalty program records. The data is also subject to rigorous third-party scrubbing to remove any personally identifiable information.</p>
+  <p style="margin-top: 0.5rem; margin-bottom: 0;">No. Court documents confirm that Google's  million purchase explicitly excludes personal data, such as Spirit's 97.5 million passenger profiles and 50.2 million loyalty program records. The data is also subject to rigorous third-party scrubbing to remove any personally identifiable information.</p>
 </details>
 
 <details class="ncg-faq" style="margin-bottom: 1rem; border: 1px solid #e0e0e0; border-radius: 4px; padding: 1rem;">
@@ -108,7 +108,7 @@ Backpack USB Charging Port ($39.99)
       "name": "Did Google buy customer data in the Spirit Airlines bankruptcy?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. Court documents confirm that Google's $10 million purchase explicitly excludes personal data, such as Spirit's 97.5 million passenger profiles and 50.2 million loyalty program records. The data is also subject to rigorous third-party scrubbing to remove any personally identifiable information."
+        "text": "No. Court documents confirm that Google's  million purchase explicitly excludes personal data, such as Spirit's 97.5 million passenger profiles and 50.2 million loyalty program records. The data is also subject to rigorous third-party scrubbing to remove any personally identifiable information."
       }
     },
     {
@@ -129,7 +129,7 @@ Backpack USB Charging Port ($39.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -137,7 +137,7 @@ Backpack USB Charging Port ($39.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -145,7 +145,7 @@ Backpack USB Charging Port ($39.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">QT-QY Military Tactical Backpack</a></div>
-    <div class="product-price">$34.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -153,7 +153,7 @@ Backpack USB Charging Port ($39.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">JIYINGDUO External Hard Drive</a></div>
-    <div class="product-price">$44.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -161,7 +161,7 @@ Backpack USB Charging Port ($39.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Toshiba 5400RPM Hard Drive</a></div>
-    <div class="product-price">$49.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -169,7 +169,7 @@ Backpack USB Charging Port ($39.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Backpack USB Charging Port</a></div>
-    <div class="product-price">$39.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

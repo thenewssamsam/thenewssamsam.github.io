@@ -24,7 +24,7 @@ source_url: "https://abcnews.com/Politics/florida-holds-1st-major-primaries-afte
 <p><strong>Shareable Insight:</strong> "Civic engagement isn't just about the ballot box; it's about teaching our children that their voice matters in the shaping of their community's future."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </div>
@@ -34,7 +34,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>When headlines are dominated by redistricting battles and political scandals, it is natural for parents to feel a sense of unease. Our children are often more observant than we realize, picking up on our stress or hearing snippets of tense conversations. Here is how we can frame these moments as learning opportunities rather than sources of anxiety.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -42,7 +42,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>Instead of getting bogged down in the mechanics of redistricting, explain the concept of representation. Use simple terms: "We have leaders who help make decisions about our roads, our parks, and our schools. Today, people are voting to choose who those helpers will be." This shifts the focus from "political winning" to "community service."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -50,7 +50,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>The news often highlights conflict, especially in competitive races like the one in the 25th Congressional District. When you discuss these events, model the behavior you want to see. Avoid derogatory language about candidates. Instead, say, "It is okay to disagree with someone's ideas, but we should always treat the person with respect."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -67,13 +67,13 @@ Seagate Portable External Hard Drive ($59.99)
 <p>In times of political upheaval, I am often reminded of the weight of our stewardship over our communities. Proverbs 29:2 reminds us: <em>"When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn."</em> This isn't just a political statement; it is a call for us to model integrity within our own homes.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <p>We are the primary teachers of our children, and our response to political news—whether it be scandal or change—shapes their understanding of truth. As we watch these primaries unfold, let us consider how we can teach our children to value character and service over mere power. 1 Peter 2:17 invites us to: <em>"Show proper respect to everyone, love the family of believers, fear God, honor the emperor."</em> Even when we are frustrated by the political environment, we are called to maintain our own dignity and teach our children to do the same.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
@@ -83,7 +83,7 @@ Tactical Waterproof Backpack ($35.99)
 <p>Don't let the news cycle dictate your family's mood. Here are three concrete ways to move forward:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 <ol>

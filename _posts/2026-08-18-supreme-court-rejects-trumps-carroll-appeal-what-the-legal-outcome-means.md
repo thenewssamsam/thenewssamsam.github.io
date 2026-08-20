@@ -21,15 +21,15 @@ source_url: 'https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.
     <p>The United States Supreme Court has officially declined to hear President Donald Trump’s request for a rehearing regarding a federal civil jury’s verdict in the E. Jean Carroll case. This decision marks the end of the road for this specific legal challenge, solidifying the initial verdict that found the former president liable for sexual abuse and defamation.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
   </section>
 
   <section id="what-happened">
     <h2>The Legal Roadblock</h2>
-    <p>On Monday, the Supreme Court issued an order list rejecting Trump's petition for a rehearing. This move follows a previous denial by the high court in June. By refusing to reconsider the case, the court has left the unanimous jury verdict—and the $5 million damages award—untouched.</p>
-    <p>According to the court docket, E. Jean Carroll has already received over $5.6 million, a total that includes the original damages plus accrued interest. Trump’s legal team had argued that a rehearing was necessary to address broader questions regarding presidential immunity, but the justices opted not to intervene.</p>
+    <p>On Monday, the Supreme Court issued an order list rejecting Trump's petition for a rehearing. This move follows a previous denial by the high court in June. By refusing to reconsider the case, the court has left the unanimous jury verdict—and the  million damages award—untouched.</p>
+    <p>According to the court docket, E. Jean Carroll has already received over  million, a total that includes the original damages plus accrued interest. Trump’s legal team had argued that a rehearing was necessary to address broader questions regarding presidential immunity, but the justices opted not to intervene.</p>
   </section>
 
   <section id="legal-rights-explainer">
@@ -47,7 +47,7 @@ Seagate Portable External Hard Drive ($59.99)
 
   <section id="the-broader-picture">
     <h2>What Happens Next?</h2>
-    <p>While this $5 million case is now concluded, it is important to distinguish it from other ongoing litigation. Trump still has a pending request before the Supreme Court regarding a separate, $83.3 million defamation verdict in favor of Carroll. The high court has not yet signaled how it will proceed with that specific petition.</p>
+    <p>While this  million case is now concluded, it is important to distinguish it from other ongoing litigation. Trump still has a pending request before the Supreme Court regarding a separate,  million defamation verdict in favor of Carroll. The high court has not yet signaled how it will proceed with that specific petition.</p>
     <p>The distinction between these cases remains vital. Trump’s attorneys continue to argue that official presidential statements should be shielded by "presumptive immunity," a concept currently being tested across several legal fronts.</p>
   </section>
 
@@ -80,7 +80,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -88,7 +88,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

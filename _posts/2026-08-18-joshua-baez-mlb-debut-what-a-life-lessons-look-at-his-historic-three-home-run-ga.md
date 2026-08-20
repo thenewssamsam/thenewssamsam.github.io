@@ -40,7 +40,7 @@ source_url: 'https://www.nytimes.com/athletic/7516761/2026/08/17/cardinals-joshu
 <p>With a light rain falling over Wrigleyville, Baez homered in his first, second, and third career major-league at-bats, powering the Cardinals to an 8-4 victory over their historic rivals. Afterward, surrounded by over 30 family members and friends, the young slugger shared an emotional embrace with his mother, Yris Baez, cementing a moment that felt more like Hollywood fiction than reality.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -52,7 +52,7 @@ Tactical Waterproof Backpack ($35.99)
 
 <h2 id="the-road">The Long, Hard Road to The Show</h2>
 
-<p>To understand why this debut resonated so deeply with the Cardinals organization, you have to look past the box score and examine the immense turbulence it took to get there. Selected out of a Massachusetts prep school in the second round of the 2021 draft with a $2.25 million signing bonus, Baez arrived in professional baseball carrying raw, natural power that scouts compared to elite sluggers.</p>
+<p>To understand why this debut resonated so deeply with the Cardinals organization, you have to look past the box score and examine the immense turbulence it took to get there. Selected out of a Massachusetts prep school in the second round of the 2021 draft with a  million signing bonus, Baez arrived in professional baseball carrying raw, natural power that scouts compared to elite sluggers.</p>
 
 <p>However, the road quickly turned rocky. A severe wrist injury wiped out most of his 2022 season. Soon after, a glaring mechanical flaw exposed itself: a massive strikeout rate driven by an overly complex swing path that struggled to catch up with high-velocity pitching. By 2024, his strikeout rate ballooned to an alarming 39 percent in High-A.</p>
 
@@ -162,7 +162,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -170,7 +170,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -45,7 +45,7 @@ source_url: 'https://thenevadaindependent.com/article/appeals-court-finds-sigal-
     <p>On Monday, a three-judge panel of the Ninth Circuit Court of Appeals upheld a lower court's decision, ruling that Sigal Chattah's continued leadership of the U.S. Attorney's Office for the District of Nevada violated federal law. The legal challenge originated in September, when the Nevada federal public defender's office sued to disqualify Chattah, arguing that the administration executed a series of unlawful personnel maneuvers to keep her atop the office.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>President Donald Trump initially appointed Chattah as interim U.S. attorney, a position restricted to a 180-day term. On the eve of that expiration, Chattah was designated as first assistant U.S. attorney—a maneuver the administration argued allowed her to serve an additional 210 days as acting U.S. attorney. However, the appeals court dismantled that logic, writing that the Attorney General cannot bypass the Senate-confirmation requirement by designating someone as a first assistant to an already vacant office.</p>
@@ -129,7 +129,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -137,7 +137,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

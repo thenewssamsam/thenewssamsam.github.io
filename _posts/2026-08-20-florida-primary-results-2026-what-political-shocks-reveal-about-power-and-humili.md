@@ -32,7 +32,7 @@ source_url: "https://www.cnn.com/2026/08/18/politics/live-news/florida-primary-e
     <p>According to CNN projections, the Florida primary cycle brought dramatic shifts across both major parties. In the Democratic Senate primary, state Representative Angie Nixon defeated retired Army Lieutenant Colonel Alex Vindman, advancing to face Republican Senator Ashley Moody in the general election. Nixon's campaign tapped into deep economic anxieties, pointing to everyday working families struggling to stay afloat while wealth accumulates at the top.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In the Republican race for governor, Representative Byron Donalds secured the nomination to succeed outgoing Governor Ron DeSantis, navigating a bitter internal contest where DeSantis withheld his endorsement. Meanwhile, significant congressional changes unfolded as well, including the defeat of Rep. Cory Mills in the 7th District amid committee investigations, and other notable primary battles playing out from Wyoming to California.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -53,14 +53,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Political contests often amplify human pride, rivalry, and the temptation to place ultimate trust in earthly institutions. When candidates battle for dominance and factions draw lines in the sand, it is easy for voters to get swept up in the anger of the moment. Scripture provides a steady anchor when the political winds blow fierce, reminding us that earthly rulers are temporary stewards.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <p>Proverbs 29:2 reminds us:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <blockquote style="margin: 20px 0; padding: 15px 20px; background: #fdfbf7; border-left: 4px solid #b8860b; font-style: italic; color: #444;">
@@ -70,18 +70,18 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This verse cuts directly to the heart of why elections matter so deeply to everyday citizens. Good governance is fundamentally about justice, mercy, and the protection of the vulnerable. When communities feel left behind by skyrocketing costs and out-of-touch leadership—themes that echoed loudly in Angie Nixon's campaign speeches—the groaning of the people becomes palpable. Leaders are called to be servants rather than masters, bearing the heavy moral burden of caring for their neighbors.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <div style="background: #fff8dc; border: 1px solid #e2d293; padding: 15px; margin: 20px 0; border-radius: 4px;">
-      <p style="margin: 0; font-size: 0.95rem; color: #555;">Recommended Resource: <a href="https://amzn.to/3xyz123" target="_blank" rel="noopener noreferrer" style="color: #8b6508; text-decoration: underline;">Exploring Christian Ethics and Public Life</a> — $19.99</p>
+      <p style="margin: 0; font-size: 0.95rem; color: #555;">Recommended Resource: <a href="https://amzn.to/3xyz123" target="_blank" rel="noopener noreferrer" style="color: #8b6508; text-decoration: underline;">Exploring Christian Ethics and Public Life</a> — </p>
     </div>
 
     <p>Furthermore, political ambition can easily blind individuals to the collaborative, humble spirit required to truly help a community flourish. The Apostle Paul writes in Philippians 2:3:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <blockquote style="margin: 20px 0; padding: 15px 20px; background: #fdfbf7; border-left: 4px solid #b8860b; font-style: italic; color: #444;">
@@ -96,7 +96,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When candidates and voters alike embrace humility, political disagreements no longer need to devolve into vitriol. Instead, they can become a disciplined dialogue about how best to steward our communities, protect public resources, and uphold human dignity.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -106,18 +106,18 @@ Tactical Waterproof Backpack ($35.99)
     <p>Watching election returns roll in late at night often leaves a quiet unease in the chest. We see billions of dollars spent, sharp words exchanged, and deep divisions laid bare across Florida and the nation. It makes me think about how quickly we look to human governments to provide the ultimate security that only God can offer. Ecclesiastes reminds us that there is a time for every season under the sun, including seasons of political transition and societal shifting.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <div style="background: #fff8dc; border: 1px solid #e2d293; padding: 15px; margin: 20px 0; border-radius: 4px;">
-      <p style="margin: 0; font-size: 0.95rem; color: #555;">Recommended Resource: <a href="https://amzn.to/3abc456" target="_blank" rel="noopener noreferrer" style="color: #8b6508; text-decoration: underline;">Finding Peace in Uncertain Times Daily Devotional</a> — $14.99</p>
+      <p style="margin: 0; font-size: 0.95rem; color: #555;">Recommended Resource: <a href="https://amzn.to/3abc456" target="_blank" rel="noopener noreferrer" style="color: #8b6508; text-decoration: underline;">Finding Peace in Uncertain Times Daily Devotional</a> — </p>
     </div>
 
     <p>I am reminded that our participation in civic life is important, but our ultimate hope does not rest on a ballot box or a party platform. When we keep our hearts grounded in timeless truths, we can engage in our communities with grace, holding leaders accountable while extending patience and kindness to our neighbors who see the world differently.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -127,7 +127,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Engaging thoughtfully with election outcomes means moving beyond partisan tribalism and focusing on practical, constructive action:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul style="line-height: 1.6; color: #333;">

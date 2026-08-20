@@ -28,14 +28,14 @@ source_url: "https://www.foxnews.com/politics/progressive-florida-lawmaker-angie
     <p><em>This is general information, not legal advice. Consult a licensed attorney about your specific situation regarding voting rights or election law.</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>When a U.S. Senate seat becomes vacant, the process for filling it is governed by a mix of federal constitutional requirements and state statutes. In Florida, the Governor has the authority to make an interim appointment—which Governor Ron DeSantis exercised in appointing Ashley Moody—but this appointment is temporary.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -43,7 +43,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>State law mandates that an interim appointee serves only until the next general election. This ensures that the principle of popular sovereignty is upheld, allowing the electorate to decide who serves the remainder of the term. Voters should be aware of the following:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <ul>
@@ -61,19 +61,19 @@ Tactical Waterproof Backpack ($35.99)
     <p>As we observe the political process unfolding, it is a reminder of the weight of stewardship. Whether in governance or our daily lives, we are called to act with integrity and wisdom. Scripture reminds us of the importance of truth and justice in our dealings with one another:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p><em>"The LORD detests dishonest scales, but accurate weights find favor with him."</em> (Proverbs 11:1, NIV)</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>This verse invites us to consider how we approach civic participation. Just as honest weights are essential for fairness in the marketplace, transparency and adherence to the rule of law are essential for the health of our communities. As we engage with the electoral process, we are invited to seek the common good and act as responsible stewards of the influence we have been given through the right to vote.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -83,7 +83,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>For those living in Florida, the most effective way to participate in this process is to:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ol>

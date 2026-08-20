@@ -24,7 +24,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/gop-rep-cory-mills-l
     <p>With over 80% of the vote counted, Ryan Elijah secured 46% of the Republican primary vote compared to 34% for the incumbent, Mills. The loss is significant not only because of the incumbent status but because it occurred despite the backing of the party's most influential figure. Mills has been dogged by a House Ethics Committee probe regarding allegations of sexual misconduct and campaign finance violations, alongside a Department of Justice investigation into his finances. He has consistently denied all allegations of wrongdoing.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -34,7 +34,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>From a career management perspective, Mills’ loss illustrates the "reputational tax" that professionals face when their work is overshadowed by external investigations. In any high-stakes industry, whether politics, corporate leadership, or private practice, the accumulation of negative publicity—regardless of the eventual legal outcome—can erode the social capital necessary to maintain a position.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -46,7 +46,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The decision by fellow GOP Representatives Anna Paulina Luna and Mike Haridopolos to endorse Elijah is a rare occurrence in the tight-knit world of congressional politics. It suggests that, in the professional sphere, there is a "tipping point" where the personal liabilities of a colleague become too high a cost for peers to bear. When the broader organization (or in this case, the party caucus) perceives that an individual is a net negative to the brand, professional distance becomes a survival strategy.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -56,13 +56,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This situation invites us to consider the timeless value of integrity in the public eye. As the Apostle Paul wrote in 1 Timothy 3:7, "He must also have a good reputation with outsiders, so that he will not fall into disgrace and into the devil’s trap." While this verse is specific to church leadership, the principle holds true in any vocation: a person's character is their most valuable professional asset. When that reputation is compromised, the fallout extends beyond the individual, affecting everyone they work with.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Proverbs 22:1 reminds us, "A good name is more desirable than great riches; to be esteemed is better than silver or gold." This reminds me that in any career—whether in government or the private sector—the pursuit of power or influence is never worth the sacrifice of one's fundamental character. True stability comes from a foundation of truth and consistency, not just from the backing of powerful entities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -81,7 +81,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>The defeat of Rep. Cory Mills is a case study in how career longevity is fundamentally linked to public trust. When that trust is frayed by repeated investigations, even the strongest political endorsements may not be enough to bridge the gap. For professionals in all sectors, the lesson remains the same: your reputation is your primary currency, and once spent, it is rarely recovered.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

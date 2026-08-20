@@ -25,10 +25,10 @@ source_url: "https://apnews.com/article/florida-primaries-donald-trump-wasserman
   </section>
 
   <div class="ncg-amazon-product" style="border: 2px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 8px;">
-    <p><strong>Recommended Reading:</strong> <em>The Florida Voter's Guide to Local Policy</em> - <a href="https://www.amazon.com/dp/example1" target="_blank" rel="noopener noreferrer">$19.99</a></p>
+    <p><strong>Recommended Reading:</strong> <em>The Florida Voter's Guide to Local Policy</em> - <a href="https://www.amazon.com/dp/example1" target="_blank" rel="noopener noreferrer"></a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </div>
@@ -38,7 +38,7 @@ Crevice Cleaning Brush Set ($12.99)
     <p>For the average Floridian, the rhetoric of the campaign trail often obscures the kitchen-table issues that matter most. The gubernatorial race is already shaping up to be a debate over the state's economic future.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     
@@ -46,7 +46,7 @@ Crevice Cleaning Brush Set ($12.99)
     <p>Byron Donalds has emphasized a platform focused on overhauling insurance regulations and seeking transparency from healthcare providers. For families struggling with skyrocketing premiums, these policy proposals are the most critical aspect of the upcoming election. Regardless of political affiliation, the ability to afford basic needs remains a top concern for residents in cities like Orlando and Port St. Lucie.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
 
@@ -54,7 +54,7 @@ Crevice Cleaning Brush Set ($12.99)
     <p>The primary also saw significant results in congressional races, most notably Debbie Wasserman Schultz winning her primary in a newly redrawn district. This highlights the ongoing tension between national political mapping and the desire for localized representation. Voters are now tasked with deciding whether they prioritize national party experience or a push for new, diverse leadership at the local level.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
 
@@ -64,10 +64,10 @@ Crevice Cleaning Brush Set ($12.99)
   </section>
 
   <div class="ncg-amazon-product" style="border: 2px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 8px;">
-    <p><strong>Essential Organizer:</strong> <em>Community Action Planning Notebook</em> - <a href="https://www.amazon.com/dp/example2" target="_blank" rel="noopener noreferrer">$12.50</a></p>
+    <p><strong>Essential Organizer:</strong> <em>Community Action Planning Notebook</em> - <a href="https://www.amazon.com/dp/example2" target="_blank" rel="noopener noreferrer"></a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </div>
@@ -77,13 +77,13 @@ Crevice Cleaning Brush Set ($12.99)
     <p>As we navigate the noise of election season, I’m reminded of the wisdom found in <strong>Proverbs 29:2</strong>: "When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn." This verse invites us to consider our role as citizens. We are called to be good stewards of our communities, seeking leaders who prioritize the welfare of their neighbors above personal gain or partisan victory.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
     <p>Additionally, <strong>Philippians 2:4</strong> encourages us: "Let each of you look not only to his own interests, but also to the interests of others." In the heat of political campaigns, it is easy to become divided. Yet, our local communities thrive when we focus on the common good, ensuring that policies support the vulnerable and provide stability for all families.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set ($12.99)
+Crevice Cleaning Brush Set 
 </a></div>
 
   </section>

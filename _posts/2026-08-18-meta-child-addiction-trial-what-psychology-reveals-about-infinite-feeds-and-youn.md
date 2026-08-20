@@ -23,11 +23,11 @@ source_url: 'https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social
   <p class="ncg-lead">Meta heads into federal court in a landmark trial brought by four states alleging that the tech giant intentionally engineered its platforms to hook children, driving compulsive use despite internal knowledge of the harm to young minds. As legal experts compare the high-stakes showdown to historic tobacco and opioid litigation, the core question centers not on user speech, but on deliberate product design.</p>
 
   <h2 id="what-happened">What Happened in the Meta Federal Trial</h2>
-  <p>On Tuesday, Meta faces a group of state attorneys general in the U.S. District Court for the Northern District of California in Oakland. Four states—California, Colorado, Kentucky, and New Jersey—are seeking up to $1.4 trillion in penalties and structural product changes. The plaintiffs allege that Meta violated consumer protection laws and the Children's Online Privacy Protection Act (COPPA) by gathering data on kids under 13 without parental consent and misleading the public about platform safety.</p>
+  <p>On Tuesday, Meta faces a group of state attorneys general in the U.S. District Court for the Northern District of California in Oakland. Four states—California, Colorado, Kentucky, and New Jersey—are seeking up to  trillion in penalties and structural product changes. The plaintiffs allege that Meta violated consumer protection laws and the Children's Online Privacy Protection Act (COPPA) by gathering data on kids under 13 without parental consent and misleading the public about platform safety.</p>
   <p>Unlike traditional disputes shielded by Section 230 of the Communications Decency Act—which protects platforms from liability over user-generated content—this federal lawsuit takes direct aim at product mechanics. The states argue that features like the "like" button, infinite-scroll functions, and recommendation algorithms were intentionally designed to maximize engagement at the expense of children's sleep, education, and emotional well-being.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
   <p>Legal scholars note that the trial will likely spotlight internal company documents, including pretrial disclosures suggesting that time-restriction tools were treated internally as public relations stunts rather than genuine safety measures. Meta contends that the financial demands are disproportionate, that the states offer no proof of widespread localized deception, and that age verification remains an industry-wide challenge.</p>
@@ -72,7 +72,7 @@ Seagate Portable External Hard Drive ($59.99)
     </details>
     <details class="ncg-faq-item">
       <summary>What are the plaintiffs asking for?</summary>
-      <p>The states are seeking up to $1.4 trillion in civil penalties, along with mandatory product design changes to improve safety and compliance with child privacy laws.</p>
+      <p>The states are seeking up to  trillion in civil penalties, along with mandatory product design changes to improve safety and compliance with child privacy laws.</p>
     </details>
   </div>
 
@@ -106,7 +106,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -114,7 +114,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

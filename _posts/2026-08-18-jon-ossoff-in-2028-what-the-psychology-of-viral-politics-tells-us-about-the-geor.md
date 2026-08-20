@@ -40,7 +40,7 @@ source_url: 'https://www.usatoday.com/story/news/state/georgia/2026/08/17/no-oss
     <p>Yet, despite his repeated denials, the national conversation keeps pulling him upward. A recent Emerson College poll placed Ossoff at 13 percent in a hypothetical 2028 Democratic primary field, putting him right behind heavyweights like Pete Buttigieg and Gavin Newsom. Meanwhile, short clips of his committee questioning and campaign speeches are racking up millions of views on TikTok and other platforms, prompting viral commentary from users wondering if he is eyeing higher office.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
     <p>This dynamic—between a politician’s stated intentions and the public's eagerness to project ambitions onto them—offers a compelling window into how modern political attention operates.</p>
@@ -133,7 +133,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -141,7 +141,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

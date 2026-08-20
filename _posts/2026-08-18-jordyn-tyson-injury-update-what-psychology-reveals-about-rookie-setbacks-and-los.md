@@ -37,7 +37,7 @@ source_url: ''
     <p>The news is a sobering reality check for an organization that drafted the explosive playmaker to immediately revitalize their offensive attack alongside quarterback Tyler Shough and head coach Kellen Moore. While head coach Kellen Moore noted the issue is unrelated to the hamstring problems Tyson dealt with during the spring, the broader narrative centers on a familiar hurdle: durability.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
     <p>Tyson entered the league with immense talent, blending size, elite route-running, and a reputation for contested catches. However, his college resume at Colorado and Arizona State was persistently disrupted by injuries, including a major knee issue, a collarbone fracture, and previous hamstring troubles. Despite his fierce competitiveness—exemplified by playing through pain to lead his team in high-stakes games—the physical toll of the sport has caught up with him once again before his first official NFL snap.</p>
@@ -100,7 +100,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -108,7 +108,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

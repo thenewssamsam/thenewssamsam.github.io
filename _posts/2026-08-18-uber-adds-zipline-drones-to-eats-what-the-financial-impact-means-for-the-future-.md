@@ -40,10 +40,10 @@ source_url: 'https://finance.yahoo.com/technology/articles/uber-adds-zipline-dro
     <p>Ride-hailing giant Uber announced a strategic investment and partnership with San Francisco-based drone startup Zipline. The collaboration aims to bring automated aerial deliveries to the Uber Eats platform starting later this year in Zipline s existing markets, with plans to rapidly expand into dozens of U.S. cities.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
-    <p>While financial terms of Uber s investment were not publicly disclosed, the deal follows Zipline closing an extended Series H funding round of $800 million, bringing its valuation to a staggering $7.6 billion. Uber CEO Dara Khosrowshahi noted in an interview that quick commerce is proving to be an even larger market than traditional food delivery, positioning autonomous flight as an enormous growth tailwind for the company.</p>
+    <p>While financial terms of Uber s investment were not publicly disclosed, the deal follows Zipline closing an extended Series H funding round of  million, bringing its valuation to a staggering  billion. Uber CEO Dara Khosrowshahi noted in an interview that quick commerce is proving to be an even larger market than traditional food delivery, positioning autonomous flight as an enormous growth tailwind for the company.</p>
   </section>
 
   <section id="financial-impact" class="ncg-section">
@@ -64,7 +64,7 @@ Seagate Portable External Hard Drive ($59.99)
   <section id="platform-strategy" class="ncg-section">
     <h2>Uber s Platform Playbook: Asset-Light Expansion</h2>
     <p>Uber s move with Zipline mirrors the financial playbook it has adopted for robotaxis and autonomous vehicles. Rather than sinking billions of dollars into manufacturing proprietary hardware or building delivery fleets from scratch, Uber acts as a aggregator and orchestrator.</p>
-    <p>This strategy has allowed Uber to stay at the cutting edge of technological shifts without bearing the heavy capital expenditure of equipment manufacturing. Over the years, Uber has committed more than $10 billion across dozens of autonomous vehicle and robotics providers, positioning its marketplace as the ultimate distribution channel.</p>
+    <p>This strategy has allowed Uber to stay at the cutting edge of technological shifts without bearing the heavy capital expenditure of equipment manufacturing. Over the years, Uber has committed more than  billion across dozens of autonomous vehicle and robotics providers, positioning its marketplace as the ultimate distribution channel.</p>
     <p>However, this platform model is not without financial risk. Vendor concentration and contract tensions—such as Uber s recent friction with autonomous vehicle partner Waymo—demonstrate that reliance on external technology partners can lead to strategic standoffs as contracts expire and regulatory battles heat up.</p>
   </section>
 
@@ -104,7 +104,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -112,7 +112,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

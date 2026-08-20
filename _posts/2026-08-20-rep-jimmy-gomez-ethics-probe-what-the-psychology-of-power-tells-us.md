@@ -27,7 +27,7 @@ source_url: 'https://www.cnn.com/2026/08/19/politics/jimmy-gomez-house-ethics-se
     <p>The investigation centers on allegations that Gomez engaged in inappropriate sexual contact with a staffer. While the congressman initially framed his conduct as consensual personal matters, attorneys representing an accuser have issued a statement explicitly rejecting that characterization, alleging sexual assault. House Democratic leadership has described the allegations as “serious and disturbing,” calling for a swift and thorough review.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
   </section>
@@ -36,7 +36,7 @@ CeraVe Hydrating Facial Cleanser ($14.99)
     <p><strong>Recommended Reading:</strong> <em>The Psychology of Power: Influence and Corruption</em> - <a href="#">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-AMANSSE Lightweight Running Shoes ($65.99)
+AMANSSE Lightweight Running Shoes 
 </a></div>
 
   </div>
@@ -46,7 +46,7 @@ AMANSSE Lightweight Running Shoes ($65.99)
     <p>When high-profile figures face allegations of misconduct, the public often struggles to reconcile the professional persona with the reported behavior. In psychology, we look at the <strong>power-approach theory</strong>, which suggests that individuals in positions of high authority often experience a shift in their cognitive processing. Power can, in some cases, dampen the ability to empathize or accurately perceive the boundaries of others.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-FitVille Comfortable Running Shoes ($69.99)
+FitVille Comfortable Running Shoes 
 </a></div>
 
     
@@ -57,7 +57,7 @@ FitVille Comfortable Running Shoes ($69.99)
     <p>Furthermore, the <strong>normalization of behavior</strong> within high-stress environments can create a "bubble" where individuals believe their actions are acceptable simply because they haven't been challenged before. This is not a diagnosis of any specific individual, but a well-documented pattern in organizational behavior where the lack of immediate consequences reinforces problematic conduct.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-FitVille Comfortable Running Shoes ($69.99)
+FitVille Comfortable Running Shoes 
 </a></div>
 
   </section>
@@ -67,14 +67,14 @@ FitVille Comfortable Running Shoes ($69.99)
     <p>This situation serves as a sobering reminder of the weight of leadership and the fragility of human character. Proverbs 11:3 reminds us, <em>"The integrity of the upright guides them, but the unfaithful are destroyed by their duplicity."</em> This verse invites us to consider that true character is revealed not when one is seen by the public, but in the private choices that go unnoticed until they are brought into the light.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-AMANSSE Lightweight Running Shoes ($65.99)
+AMANSSE Lightweight Running Shoes 
 </a></div>
 
     
     <p>I am also reminded of Luke 12:2: <em>"There is nothing concealed that will not be disclosed, or hidden that will not be made known."</em> This is a challenging promise. It speaks to the reality that truth has a way of surfacing, regardless of the power or position one holds. It is an invitation to pursue honesty in all aspects of life, knowing that the standard for our actions is ultimately higher than the rules of a committee—it is a matter of the heart before God.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
   </section>
@@ -83,7 +83,7 @@ CeraVe Hydrating Facial Cleanser ($14.99)
     <p><strong>Journal for Reflection:</strong> <em>Guided Integrity Daily Journal</em> - <a href="#">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-AMANSSE Lightweight Running Shoes ($65.99)
+AMANSSE Lightweight Running Shoes 
 </a></div>
 
   </div>

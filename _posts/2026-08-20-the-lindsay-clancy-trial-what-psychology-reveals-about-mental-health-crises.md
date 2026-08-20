@@ -27,22 +27,22 @@ source_url: 'https://6abc.com/post/lindsay-clancy-trial-day-16-defense-expert-su
     <p>Lindsay Clancy is facing first-degree murder charges for the 2023 deaths of her children, Cora, Dawson, and Callan. The defense does not dispute that Clancy committed the acts, but they argue she was in the throes of a severe mental health episode—specifically, bipolar disorder with postpartum psychosis—and therefore lacked the capacity to appreciate the wrongfulness of her actions.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-AMANSSE Lightweight Running Shoes ($65.99)
+AMANSSE Lightweight Running Shoes 
 </a></div>
 
     <p>Recent testimony from forensic psychologist Paul Zeizel has provided a detailed look at the months leading up to the tragedy. Zeizel described a "downward spiral" marked by unrelenting intrusive thoughts, derealization, and the belief that others could hear her thoughts.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-product" style="border: 2px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B08365X442?tag=thenewssam-20" target="_blank">The Postpartum Husband: Practical Help for Mothers and Fathers - $14.99</a></p>
+    <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B08365X442?tag=thenewssam-20" target="_blank">The Postpartum Husband: Practical Help for Mothers and Fathers - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-AMANSSE Lightweight Running Shoes ($65.99)
+AMANSSE Lightweight Running Shoes 
 </a></div>
 
   </div>
@@ -52,7 +52,7 @@ AMANSSE Lightweight Running Shoes ($65.99)
     <p>To understand the defense's argument, we must look at the psychological concept of <em>ego-dystonic</em> intrusive thoughts. Unlike typical worries, these are thoughts that the individual finds abhorrent and invasive; they do not reflect the person’s true desires or values. When these thoughts become relentless, they can impair a person's ability to function.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
     
@@ -66,22 +66,22 @@ CeraVe Hydrating Facial Cleanser ($14.99)
     <p>Psychologists often describe psychosis as having an intermittent, "wave-like" nature. A person might appear to function normally one day and experience a total break from reality the next. This makes early detection incredibly difficult for both families and medical providers, as the outward appearance of stability can mask a severe internal crisis.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
     <p>The defense argues that the medical system missed these warning signs, suggesting that the complexity of Clancy’s prescriptions—13 medications in four months—may have complicated, rather than stabilized, her condition.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-AMANSSE Lightweight Running Shoes ($65.99)
+AMANSSE Lightweight Running Shoes 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-product" style="border: 2px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1451639614?tag=thenewssam-20" target="_blank">The Noonday Demon: An Atlas of Depression - $18.50</a></p>
+    <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1451639614?tag=thenewssam-20" target="_blank">The Noonday Demon: An Atlas of Depression - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
   </div>
@@ -91,13 +91,13 @@ CeraVe Hydrating Facial Cleanser ($14.99)
     <p>When we look at stories of profound suffering, it is natural to feel overwhelmed. We are reminded that human beings are fragile, and sometimes, the burdens we carry—whether physical, mental, or emotional—are more than we can bear alone. Even in the darkest moments, we are invited to consider the importance of compassion and the grace required to support those who are struggling.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-AMANSSE Lightweight Running Shoes ($65.99)
+AMANSSE Lightweight Running Shoes 
 </a></div>
 
     <p>Scripture reminds us of the power of presence, even when words fail: <em>"Carry each other’s burdens, and in this way you will fulfill the law of Christ."</em> (Galatians 6:2, NIV). This isn't just a call to action; it's a reminder that we were not created to isolate our pain. Another verse brings comfort to those feeling overwhelmed by internal noise: <em>"The Lord is close to the brokenhearted and saves those who are crushed in spirit."</em> (Psalm 34:18, NIV). These words invite us to approach the suffering of others with humility, recognizing that we are all in need of healing and community.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-AMANSSE Lightweight Running Shoes ($65.99)
+AMANSSE Lightweight Running Shoes 
 </a></div>
 
   </section>

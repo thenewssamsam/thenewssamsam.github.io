@@ -28,7 +28,7 @@ source_url: 'https://www.cbsnews.com/news/helicopter-crash-kenya-deaths-us-journ
 </section>
 
 <div class="ncg-amazon-box" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <p style="margin: 0 0 10px 0; font-size: 0.95rem; color: #333;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B003WUYRF6?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #8b6508; text-decoration: none;">Walking with God through Pain and Suffering</a> — A thoughtful exploration of finding meaning and spiritual grounding in times of unexpected loss and hardship. Price: $16.99</p>
+  <p style="margin: 0 0 10px 0; font-size: 0.95rem; color: #333;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B003WUYRF6?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #8b6508; text-decoration: none;">Walking with God through Pain and Suffering</a> — A thoughtful exploration of finding meaning and spiritual grounding in times of unexpected loss and hardship. </p>
 </div>
 
 <nav class="ncg-toc" id="table-of-contents">
@@ -49,20 +49,20 @@ source_url: 'https://www.cbsnews.com/news/helicopter-crash-kenya-deaths-us-journ
   <p>Local emergency response teams, including the Kenya Red Cross and Tropic Air Kenya, immediately dispatched rescue helicopters to the site. However, efforts were severely hampered by difficult terrain access and an active fire at the wreckage. Tragically, authorities confirmed that none of the seven occupants survived.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   
   <p>As names emerged, the global reach of the tragedy became painfully clear. NBCUniversal confirmed that José Alberto Suárez, president and general manager of Telemundo 31, Telemundo 49, and Telemundo Fort Myers–Naples, was among the victims. Described by colleagues as a deeply respected mentor and leader, Suárez left an indelible mark on broadcast journalism. Also confirmed lost was Miami restaurateur Roger Duarte, alongside Ecuador's intelligence chief Michele Sensi-Contugi, his wife Stephany Holliham Yeaza, two other passengers, and the pilot. Families have requested privacy and asked for prayers as they navigate an unfathomable grief.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
 
 <div class="ncg-amazon-box" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <p style="margin: 0 0 10px 0; font-size: 0.95rem; color: #333;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0310344468?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #8b6508; text-decoration: none;">The Meaning of Marriage: Facing the Complexities of Commitment with the Wisdom of God</a> — A helpful guide for families navigating deep emotional bonds and life transitions. Price: $18.50</p>
+  <p style="margin: 0 0 10px 0; font-size: 0.95rem; color: #333;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0310344468?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #8b6508; text-decoration: none;">The Meaning of Marriage: Facing the Complexities of Commitment with the Wisdom of God</a> — A helpful guide for families navigating deep emotional bonds and life transitions. </p>
 </div>
 
 <section id="a-faith-perspective">
@@ -70,14 +70,14 @@ Tactical Waterproof Backpack ($35.99)
   <p>News of sudden accidents like the crash near Mount Ololokwe jarringly interrupts our daily routines. One moment, individuals are traveling, working, and building dreams; the next, life on earth has ended. From a biblical worldview, such events strip away our illusion of absolute control.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   
   <p>We often live as though our calendars belong entirely to us, scheduling months and years in advance without hesitation. Yet human history and Scripture remind us of a sobering truth: our breath is not guaranteed. This realization is not meant to paralyze us with fear or anxiety, but rather to awaken us to the profound value of the present moment and the grace we have been given.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -88,13 +88,13 @@ Seagate Portable External Hard Drive ($59.99)
   <p>When leaders and family members are taken so abruptly, it leaves communities reeling. It forces us to confront the reality of a broken world where accidents happen, equipment fails, and nature remains untamed. Yet, it also invites us to look past the temporary horizons of our careers and travels toward what truly endures.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
 
 <div class="ncg-amazon-box" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <p style="margin: 0 0 10px 0; font-size: 0.95rem; color: #333;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1581346263?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #8b6508; text-decoration: none;">Trusting God Even When Life Hurts</a> — A classic Christian encouragement book on navigating unexpected trials and loss. Price: $14.99</p>
+  <p style="margin: 0 0 10px 0; font-size: 0.95rem; color: #333;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1581346263?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #8b6508; text-decoration: none;">Trusting God Even When Life Hurts</a> — A classic Christian encouragement book on navigating unexpected trials and loss. </p>
 </div>
 
 <section id="biblical-reflection">
@@ -102,20 +102,20 @@ Seagate Portable External Hard Drive ($59.99)
   <p>When unexpected sorrow enters our newsfeeds, it often feels like the ground is shifting beneath our feet. I find myself reflecting on how the biblical writers processed sudden, overwhelming grief. James reminds us in James 4:14, <em>"Yet you do not know what tomorrow will bring. What is your life? For you are a mist that appears for a little time and then vanishes."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   
   <p>This verse is not spoken with cruelty, but with a deep, compassionate realism. It prompts us to cherish our loved ones today and to invest our time in things that carry eternal weight. Similarly, Psalm 90:12 offers a quiet prayer for perspective: <em>"So teach us to number our days that we may get a heart of wisdom."</em> Wisdom begins when we acknowledge our limitations and anchor our hope not in the safety of earthly travels or temporary success, but in the steadfast love of God.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </section>
 
 <div class="ncg-amazon-box" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <p style="margin: 0 0 10px 0; font-size: 0.95rem; color: #333;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0764219731?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #8b6508; text-decoration: none;">When Grief Comes: Finding Strength Through Loss</a> — Gentle reflections and practical comfort for those mourning. Price: $12.99</p>
+  <p style="margin: 0 0 10px 0; font-size: 0.95rem; color: #333;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0764219731?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #8b6508; text-decoration: none;">When Grief Comes: Finding Strength Through Loss</a> — Gentle reflections and practical comfort for those mourning. </p>
 </div>
 
 <section id="how-should-christians-respond">
@@ -123,7 +123,7 @@ Tactical Waterproof Backpack ($35.99)
   <p>Knowing how to react to distant tragedies involves more than reading headlines and feeling a momentary pang of sorrow. Here are three concrete ways believers can respond to the Kenya helicopter crash and its ripple effects:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   
@@ -135,7 +135,7 @@ Seagate Portable External Hard Drive ($59.99)
 </section>
 
 <div class="ncg-amazon-box" style="border-left: 4px solid #d4af37; background: #fdfcf7; padding: 15px; margin: 20px 0; border-radius: 4px;">
-  <p style="margin: 0 0 10px 0; font-size: 0.95rem; color: #333;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0830846271?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #8b6508; text-decoration: none;">Every Good Endeavor: Connecting Your Work to God's Work</a> — Reflecting on legacy, career, and purposeful living. Price: $17.00</p>
+  <p style="margin: 0 0 10px 0; font-size: 0.95rem; color: #333;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0830846271?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #8b6508; text-decoration: none;">Every Good Endeavor: Connecting Your Work to God's Work</a> — Reflecting on legacy, career, and purposeful living. </p>
 </div>
 
 <section id="closing-reflection" class="ncg-closing-box" style="background: #f7f5f0; padding: 25px; border-radius: 8px; margin-top: 30px;">
@@ -143,14 +143,14 @@ Seagate Portable External Hard Drive ($59.99)
   <p>Heavenly Father, our hearts are heavy as we read of the sudden loss of life in the skies of Kenya. We lift up the families, friends, and colleagues of José Alberto Suárez, Roger Duarte, Michele Sensi-Contugi, Stephany Holliham Yeaza, and all those who perished alongside them. Comfort them in their deep sorrow, Lord, and surround them with your undeniable peace.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   
   <p>Remind each of us how fragile our days truly are. Teach us to number our moments, to love one another deeply, and to walk in the wisdom of Your grace. In times of uncertainty, be our rock and our refuge.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   

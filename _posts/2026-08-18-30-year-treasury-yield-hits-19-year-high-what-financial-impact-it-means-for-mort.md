@@ -38,7 +38,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fom
   <p>While the Federal Reserve has kept its short-term interest rate target steady between 3.5% and 3.75%, the broader bond market is moving to the beat of a different drum. Fueled by rising global oil prices, growing national deficits, and mounting concerns over government debt issuance, the long end of the Treasury curve is demonstrating that market forces often override short-term monetary policy.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 </section>
@@ -47,7 +47,7 @@ Seagate Portable External Hard Drive ($59.99)
   <h2>What Happened in the Bond Market?</h2>
   <p>On Monday, Treasury yields advanced across the board. The benchmark 30-year Treasury yield climbed more than 4 basis points to 5.311%, while the 10-year Treasury note yield rose over 2 basis points to 4.724%. Meanwhile, the 2-year Treasury note edged up to 4.182%, reflecting its closer tie to short-term Federal Reserve decisions.</p>
   
-  <p>This upward momentum in yields coincided with a 2.6% jump in West Texas Intermediate crude futures to $84.50 a barrel and a 2.7% rise in Brent crude to $90.87 a barrel. With a critical 60-day deadline for U.S.-Iran diplomatic talks expiring and Tehran ruling out extensions, energy markets have reacted swiftly, stoking fresh anxiety over persistent inflationary pressures.</p>
+  <p>This upward momentum in yields coincided with a 2.6% jump in West Texas Intermediate crude futures to  a barrel and a 2.7% rise in Brent crude to  a barrel. With a critical 60-day deadline for U.S.-Iran diplomatic talks expiring and Tehran ruling out extensions, energy markets have reacted swiftly, stoking fresh anxiety over persistent inflationary pressures.</p>
 
   <p>Yet, seasoned market strategists point out that inflation is only part of the story. According to Barclays research, these rising rates are increasingly driven by structural pressures: heavy U.S. budget deficits, high capital demands from artificial intelligence infrastructure competing with government bonds, and higher term premiums—the extra compensation investors demand to hold long-term government debt.</p>
 
@@ -140,7 +140,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -148,7 +148,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

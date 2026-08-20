@@ -18,10 +18,10 @@ source_url: 'https://www.investopedia.com/5-things-to-know-before-the-stock-mark
     </p>
   </header>
 
-  <p>Stock futures are pointing to a mixed open on Monday, August 17, 2026, as Wall Street gears up for a heavy week of retail earnings, fresh Federal Reserve minutes, and a startling revelation that Harvard University's endowment holds a massive $2.2 billion stake in SpaceX. With the tech-heavy Nasdaq futures edging up 0.4% while the Dow slips 0.2%, investors are navigating a complex landscape of shifting consumer health indicators, a weakening U.S. dollar, and surging AI hardware demand. Understanding the financial mechanics behind these moving parts helps clarify why today's market signals matter far beyond Wall Street trading floors.</p>
+  <p>Stock futures are pointing to a mixed open on Monday, August 17, 2026, as Wall Street gears up for a heavy week of retail earnings, fresh Federal Reserve minutes, and a startling revelation that Harvard University's endowment holds a massive  billion stake in SpaceX. With the tech-heavy Nasdaq futures edging up 0.4% while the Dow slips 0.2%, investors are navigating a complex landscape of shifting consumer health indicators, a weakening U.S. dollar, and surging AI hardware demand. Understanding the financial mechanics behind these moving parts helps clarify why today's market signals matter far beyond Wall Street trading floors.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -29,8 +29,8 @@ Tactical Waterproof Backpack ($35.99)
   <p>The premarket trading session ahead of the opening bell reflects a tug-of-war across major asset classes. Futures tied to the Nasdaq climbed 0.4%, and S&P 500 futures added 0.1%, while Dow Jones Industrial Average futures ticked down 0.2% following minor pullbacks on Friday. Despite Friday's dip, the broader indexes managed to secure their third consecutive weekly gain.</p>
   <p>Meanwhile, commodities and currencies are moving in response to macroeconomic crosswinds:</p>
   <ul>
-    <li><strong>Crude Oil:</strong> WTI crude oil futures held steady at $82.40 per barrel as markets monitored the expiration of a 60-day diplomatic deadline between the U.S. and Iran.</li>
-    <li><strong>Safe Havens:</strong> Gold futures rose 0.5% to $4,450 an ounce, and Bitcoin rebounded to around $63,600.</li>
+    <li><strong>Crude Oil:</strong> WTI crude oil futures held steady at  per barrel as markets monitored the expiration of a 60-day diplomatic deadline between the U.S. and Iran.</li>
+    <li><strong>Safe Havens:</strong> Gold futures rose 0.5% to ,450 an ounce, and Bitcoin rebounded to around ,600.</li>
     <li><strong>Treasury Yields:</strong> The yield on the benchmark 10-year Treasury note ticked lower to 4.69%.</li>
     <li><strong>The Dollar:</strong> The U.S. Dollar Index slipped 0.2% to 99.45, hitting its lowest level since early June as cooling inflation data dampened expectations of aggressive Federal Reserve interest rate hikes.</li>
   </ul>
@@ -39,7 +39,7 @@ Tactical Waterproof Backpack ($35.99)
   <p>When multiple high-impact economic storylines converge on a single Monday morning, it is easy to get overwhelmed by the ticker tape. Looking at these events through a financial mechanics lens reveals how institutional capital, consumer spending power, and monetary policy interact.</p>
   <p>First, consider the upcoming parade of retail earnings reports from giants like Walmart, Home Depot, Lowe's, Target, and TJX Companies. In modern markets, retail earnings are not merely corporate scorecards; they function as a real-time stress test for the American consumer. When inflation cools and borrowing costs remain elevated, discretionary versus staple spending patterns reveal precisely how much financial cushion households have left. Retailers do not just report past sales—their guidance sets the valuation baseline for millions of retirement portfolios.</p>
   <p>Second, the retreat in the U.S. dollar index to 99.45 highlights the direct transmission belt between inflation data and currency valuation. As recent consumer and producer price reports show cooling inflation, futures pricing via the CME FedWatch tool indicates only a 31% probability of a rate hike at next month's Federal Reserve meeting. Lower rate expectations reduce the yield advantage of holding dollar-denominated assets, driving foreign exchange adjustments that ripple through multinational corporate earnings and commodity pricing.</p>
-  <p>Finally, the disclosure that Harvard Management Company holds nearly 13 million shares of SpaceX—valued at over $2.2 billion following the company's June public listing—offers a masterclass in institutional endowment strategy. University endowments operate on multi-decade investment horizons, allowing them to anchor private capital rounds long before a company hits public markets. When a private giant transitions to public trading, regulatory 13F filings finally pull back the curtain, demonstrating how patient capital captures generational wealth creation in high-barrier-to-entry sectors like aerospace and orbital connectivity.</p>
+  <p>Finally, the disclosure that Harvard Management Company holds nearly 13 million shares of SpaceX—valued at over  billion following the company's June public listing—offers a masterclass in institutional endowment strategy. University endowments operate on multi-decade investment horizons, allowing them to anchor private capital rounds long before a company hits public markets. When a private giant transitions to public trading, regulatory 13F filings finally pull back the curtain, demonstrating how patient capital captures generational wealth creation in high-barrier-to-entry sectors like aerospace and orbital connectivity.</p>
 
   <div class="ncg-quote-box" style="border-left: 4px solid #1b4d3e; background: #f4f7f6; padding: 20px; margin: 25px 0; border-radius: 0 8px 8px 0;">
     <p style="font-size: 1.15em; font-weight: 600; color: #1b4d3e; margin: 0;">
@@ -79,7 +79,7 @@ Tactical Waterproof Backpack ($35.99)
     "@context": "https://schema.org",
     "@type": "NewsArticle",
     "headline": "Stock Market Open on August 17, 2026: What Financial Mechanics Reveal About Harvard's SpaceX Stake and Retail Earnings",
-    "description": "Stock futures mixed as retail earnings loom, the dollar falls, and Harvard reveals a $2.2B SpaceX stake. Financial analysis of the August 17, 2026 market open.",
+    "description": "Stock futures mixed as retail earnings loom, the dollar falls, and Harvard reveals a B SpaceX stake. Financial analysis of the August 17, 2026 market open.",
     "datePublished": "2026-08-17",
     "author": {
       "@type": "Organization",
@@ -94,7 +94,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -102,7 +102,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

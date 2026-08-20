@@ -27,7 +27,7 @@ source_url: 'https://apnews.com/article/kennedy-center-trump-name-facade-court-o
     <p>Following a U.S. District Court order in May that declared the original placement of Donald Trump’s name on the Kennedy Center facade illegal, the board has remained embroiled in conflict. Despite the ruling, a recent board resolution proposed naming the plaza after the president and adding his name to the building's exterior, contingent on fundraising goals. Meanwhile, the board is pushing for a two-year closure for infrastructure renovations, a move critics—including Rep. Joyce Beatty—argue is being used to bypass judicial oversight and push through controversial branding.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Lenovo Legion Tower Gaming PC ($899.99)
+Lenovo Legion Tower Gaming PC 
 </a></div>
 
   </section>
@@ -37,7 +37,7 @@ Lenovo Legion Tower Gaming PC ($899.99)
     <p>Throughout history, the naming of public monuments has rarely been a neutral act. We often look back at the "Founding Fathers" as static figures of history, yet the process of cementing their legacy in stone was a highly charged political endeavor.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Lenovo Legion Tower Gaming PC ($899.99)
+Lenovo Legion Tower Gaming PC 
 </a></div>
 
     
@@ -45,7 +45,7 @@ Lenovo Legion Tower Gaming PC ($899.99)
       <p><strong>"The struggle for the Kennedy Center's facade isn't just about a name; it's a window into the perpetual American cycle of claiming physical space to secure political immortality."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Skin Renewing Night Cream ($18.99)
+CeraVe Skin Renewing Night Cream 
 </a></div>
 
     </div>
@@ -54,15 +54,15 @@ CeraVe Skin Renewing Night Cream ($18.99)
     <p>In the late 19th and early 20th centuries, it was common for new political administrations to "rebrand" public works. During the transition of power, buildings and plazas were frequently renamed to signal a shift in ideological priorities. The current dispute at the Kennedy Center mirrors these historical cycles where an incoming administration seeks to leave a "physical mark" on the capital, effectively layering their influence over the work of those who came before them.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Vitamin C Brightening Serum ($16.99)
+CeraVe Vitamin C Brightening Serum 
 </a></div>
 
 
     <h3>2. The "Endowment" Strategy</h3>
-    <p>The board's proposal to add Trump’s name if the Trump Kennedy Center Fund reaches $100 million is not without precedent. Historically, public institutions have often traded naming rights for necessary capital. However, the controversy here lies in the intersection of public-trust institutions and partisan branding. When a monument is named not for a public servant but for a donor—or in this case, a political figure seeking to solidify their legacy—it shifts the institution from a neutral space of art to a battlefield of partisan narrative.</p>
+    <p>The board's proposal to add Trump’s name if the Trump Kennedy Center Fund reaches  million is not without precedent. Historically, public institutions have often traded naming rights for necessary capital. However, the controversy here lies in the intersection of public-trust institutions and partisan branding. When a monument is named not for a public servant but for a donor—or in this case, a political figure seeking to solidify their legacy—it shifts the institution from a neutral space of art to a battlefield of partisan narrative.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Vitamin C Brightening Serum ($16.99)
+CeraVe Vitamin C Brightening Serum 
 </a></div>
 
   </section>
@@ -72,14 +72,14 @@ CeraVe Vitamin C Brightening Serum ($16.99)
     <p>As I consider the intensity of this struggle, I am reminded of the biblical warning regarding the pursuit of lasting names. In Genesis 11, the builders of the Tower of Babel declared, "Let us make a name for ourselves." Their motivation was to prevent being scattered and to establish a monument to their own collective power.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Vitamin C Brightening Serum ($16.99)
+CeraVe Vitamin C Brightening Serum 
 </a></div>
 
     
     <p>This story invites us to consider the difference between a legacy built on genuine service and one built on the desire for recognition. Proverbs 22:1 reminds us, "A good name is to be chosen rather than great riches." The ongoing legal battles and the covering of the building with a tarp serve as a humble reminder that human-made structures are temporary. Even the grandest facades in Washington D.C. are subject to the erosion of time and the shifting tides of human opinion. Perhaps the true value of an institution like the Kennedy Center lies not in the name on the wall, but in the art and culture it facilitates for the people.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Vitamin C Brightening Serum ($16.99)
+CeraVe Vitamin C Brightening Serum 
 </a></div>
 
   </section>

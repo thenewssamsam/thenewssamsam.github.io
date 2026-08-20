@@ -44,13 +44,13 @@ source_url: 'https://abcnews.com/US/trial-judge-recused-karmelo-anthony-case-tee
         <p>The defense argued successfully that Judge Roach's post-trial public comments and media interviews—in which he defended his strict courtroom rules and appeared to endorse the jury's guilty verdict while a motion for a new trial was still pending—created a reasonable question regarding his judicial impartiality. When Judge Harle delivered his ruling, supporters in the courtroom reacted with audible cheers and tears, highlighting the deep emotional currents surrounding the case.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </section>
 
     <div class="ncg-amazon-rec" style="border-left: 4px solid #f0c14b; background-color: #fcf8e3; padding: 12px 15px; margin: 20px 0; border-radius: 0 4px 4px 0;">
-        <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Resource:</strong> Looking to deepen your understanding of biblical justice and community restoration? Check out <a href="https://www.amazon.com/dp/B07PGL2KZG?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Restorative Justice: A Biblical Perspective</a> (Paperback) - <span style="color: #b12704; font-weight: bold;">$14.99</span></p>
+        <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Resource:</strong> Looking to deepen your understanding of biblical justice and community restoration? Check out <a href="https://www.amazon.com/dp/B07PGL2KZG?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Restorative Justice: A Biblical Perspective</a> (Paperback) - <span style="color: #b12704; font-weight: bold;"></span></p>
     </div>
 
     <section id="legal-context">
@@ -58,27 +58,27 @@ Seagate Portable External Hard Drive ($59.99)
         <p>To understand the weight of these legal maneuvers, we must look back at the tragedy that sparked them. On April 2, 2025, a rainy track and field event at a Frisco Independent School District stadium turned fatal. What began as a verbal dispute under a school tent—reportedly over Anthony being in an unauthorized area—escalated rapidly.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         
         <p>Witnesses testified that an argument ensued, leading to a physical push or nudge before Anthony drew a pocket knife. The single blow proved fatal to Metcalf, striking his heart. While prosecutors argued the killing was an unjustified, deliberate murder, the defense maintained that Anthony acted in self-defense. After four days of testimony and hours of deliberation, the jury rejected lesser options like manslaughter or "sudden passion," handing down a 35-year sentence.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         
         <p>Now, Anthony's new legal team is fighting for a retrial, contending that strict courtroom restrictions—including a ban on electronics and a gag order—alongside alleged improper jury instructions, compromised the fairness of the original trial.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </section>
 
     <div class="ncg-amazon-rec" style="border-left: 4px solid #f0c14b; background-color: #fcf8e3; padding: 12px 15px; margin: 20px 0; border-radius: 0 4px 4px 0;">
-        <p style="margin: 0; font-size: 0.95rem;"><strong>Essential Reading:</strong> Navigate legal stress and courtroom challenges with wisdom using <a href="https://www.amazon.com/dp/0802412858?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Courageous Leadership: Finding God's Direction</a> (Hardcover) - <span style="color: #b12704; font-weight: bold;">$18.50</span></p>
+        <p style="margin: 0; font-size: 0.95rem;"><strong>Essential Reading:</strong> Navigate legal stress and courtroom challenges with wisdom using <a href="https://www.amazon.com/dp/0802412858?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Courageous Leadership: Finding God's Direction</a> (Hardcover) - <span style="color: #b12704; font-weight: bold;"></span></p>
     </div>
 
     <section id="biblical-perspective">
@@ -86,21 +86,21 @@ Seagate Portable External Hard Drive ($59.99)
         <p>The recusal of a judge touches on one of the most fundamental pillars of biblical ethics: the absolute demand for unbiased, honest justice. Throughout Scripture, God places an immense weight on how earthly courts operate. Human beings are inherently flawed, prone to confirmation bias, pride, and the temptation to defend their own past decisions rather than seek pure truth.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         
         <p>When legal systems stumble or face questions of partiality, it serves as a stark reminder of human frailty. This makes me think about the timeless wisdom found in <span style="font-style: italic;">Deuteronomy 16:19</span>, which commands: <q style="quotes: '“' '”' '‘' '’';">Do not pervert justice or show partiality. Do not accept a bribe, for a bribe blinds the eyes of the wise and twists the words of the innocent.</q></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         
         <p>While no one is alleging bribery here, the underlying principle remains identical: any factor—whether public pressure, social media outrage, or a judge's personal defensiveness—that clouds a clear, unbiased view of the facts threatens the integrity of the process.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         
@@ -112,24 +112,24 @@ Seagate Portable External Hard Drive ($59.99)
         <p>Furthermore, Scripture invites us to examine our own hearts when we rush to judgment. In a digital age where cases are tried on social media long before they reach a jury, we are often tempted to harden our stances instantly. Yet <span style="font-style: italic;">Proverbs 18:13</span> offers a sobering caution: <q style="quotes: '“' '”' '‘' '’';">To answer before listening—that is folly and shame.</q></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
         
         <p>Whether looking at the tragic loss of Austin Metcalf’s young life or evaluating the legal arguments surrounding Karmelo Anthony’s right to a fair hearing, the biblical mandate is patience, rigorous truth-seeking, and a profound respect for due process.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </section>
 
     <div class="ncg-amazon-rec" style="border-left: 4px solid #f0c14b; background-color: #fcf8e3; padding: 12px 15px; margin: 20px 0; border-radius: 0 4px 4px 0;">
-        <p style="margin: 0; font-size: 0.95rem;"><strong>Deepen Study:</strong> Explore biblical ethics and conflict resolution with <a href="https://www.amazon.com/dp/080101736X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Peacemaker: A Biblical Guide to Resolving Personal Conflict</a> (Paperback) - <span style="color: #b12704; font-weight: bold;">$16.99</span></p>
+        <p style="margin: 0; font-size: 0.95rem;"><strong>Deepen Study:</strong> Explore biblical ethics and conflict resolution with <a href="https://www.amazon.com/dp/080101736X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Peacemaker: A Biblical Guide to Resolving Personal Conflict</a> (Paperback) - <span style="color: #b12704; font-weight: bold;"></span></p>
     </div>
 
     <div class="ncg-amazon-rec" style="border-left: 4px solid #f0c14b; background-color: #fcf8e3; padding: 12px 15px; margin: 20px 0; border-radius: 0 4px 4px 0;">
-        <p style="margin: 0; font-size: 0.95rem;"><strong>Personal Growth:</strong> Cultivate patience and emotional wisdom using <a href="https://www.amazon.com/dp/0310346061?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Meaning of Marriage: Facing the Complexities of Commitment</a> (Hardcover) - <span style="color: #b12704; font-weight: bold;">$19.99</span></p>
+        <p style="margin: 0; font-size: 0.95rem;"><strong>Personal Growth:</strong> Cultivate patience and emotional wisdom using <a href="https://www.amazon.com/dp/0310346061?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Meaning of Marriage: Facing the Complexities of Commitment</a> (Hardcover) - <span style="color: #b12704; font-weight: bold;"></span></p>
     </div>
 
     <section id="practical-response">
@@ -144,19 +144,19 @@ Seagate Portable External Hard Drive ($59.99)
     </section>
 
     <div class="ncg-amazon-rec" style="border-left: 4px solid #f0c14b; background-color: #fcf8e3; padding: 12px 15px; margin: 20px 0; border-radius: 0 4px 4px 0;">
-        <p style="margin: 0; font-size: 0.95rem;"><strong>Family Encouragement:</strong> Strengthen household communication and relational health with <a href="https://www.amazon.com/dp/0785232141?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The 5 Love Languages: The Secret to Love that Lasts</a> (Paperback) - <span style="color: #b12704; font-weight: bold;">$15.20</span></p>
+        <p style="margin: 0; font-size: 0.95rem;"><strong>Family Encouragement:</strong> Strengthen household communication and relational health with <a href="https://www.amazon.com/dp/0785232141?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The 5 Love Languages: The Secret to Love that Lasts</a> (Paperback) - <span style="color: #b12704; font-weight: bold;"></span></p>
     </div>
 
     <div class="ncg-amazon-rec" style="border-left: 4px solid #f0c14b; background-color: #fcf8e3; padding: 12px 15px; margin: 20px 0; border-radius: 0 4px 4px 0;">
-        <p style="margin: 0; font-size: 0.95rem;"><strong>Wisdom Literature:</strong> Reflect on daily proverbs and righteous judgment with <a href="https://www.amazon.com/dp/1433559102?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">ESV Study Bible, Large Print</a> (Hardcover) - <span style="color: #b12704; font-weight: bold;">$49.99</span></p>
+        <p style="margin: 0; font-size: 0.95rem;"><strong>Wisdom Literature:</strong> Reflect on daily proverbs and righteous judgment with <a href="https://www.amazon.com/dp/1433559102?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">ESV Study Bible, Large Print</a> (Hardcover) - <span style="color: #b12704; font-weight: bold;"></span></p>
     </div>
 
     <div class="ncg-amazon-rec" style="border-left: 4px solid #f0c14b; background-color: #fcf8e3; padding: 12px 15px; margin: 20px 0; border-radius: 0 4px 4px 0;">
-        <p style="margin: 0; font-size: 0.95rem;"><strong>Mental Clarity:</strong> Overcome worry and foster peace of mind with <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Anxious for Nothing: Finding Calm in a Chaotic World</a> (Paperback) - <span style="color: #b12704; font-weight: bold;">$13.99</span></p>
+        <p style="margin: 0; font-size: 0.95rem;"><strong>Mental Clarity:</strong> Overcome worry and foster peace of mind with <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Anxious for Nothing: Finding Calm in a Chaotic World</a> (Paperback) - <span style="color: #b12704; font-weight: bold;"></span></p>
     </div>
 
     <div class="ncg-amazon-rec" style="border-left: 4px solid #f0c14b; background-color: #fcf8e3; padding: 12px 15px; margin: 20px 0; border-radius: 0 4px 4px 0;">
-        <p style="margin: 0; font-size: 0.95rem;"><strong>Spiritual Renewal:</strong> Daily reflections on grace and truth found in <a href="https://www.amazon.com/dp/1578562341?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">My Utmost for His Highest</a> (Daily Devotional) - <span style="color: #b12704; font-weight: bold;">$12.99</span></p>
+        <p style="margin: 0; font-size: 0.95rem;"><strong>Spiritual Renewal:</strong> Daily reflections on grace and truth found in <a href="https://www.amazon.com/dp/1578562341?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">My Utmost for His Highest</a> (Daily Devotional) - <span style="color: #b12704; font-weight: bold;"></span></p>
     </div>
 
     <section id="closing-thoughts">
@@ -167,19 +167,19 @@ Seagate Portable External Hard Drive ($59.99)
     </section>
 
     <div class="ncg-amazon-rec" style="border-left: 4px solid #f0c14b; background-color: #fcf8e3; padding: 12px 15px; margin: 20px 0; border-radius: 0 4px 4px 0;">
-        <p style="margin: 0; font-size: 0.95rem;"><strong>Faithful Living:</strong> Discover encouragement for everyday challenges with <a href="https://www.amazon.com/dp/0736967069?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Power of a Praying Woman</a> (Paperback) - <span style="color: #b12704; font-weight: bold;">$11.99</span></p>
+        <p style="margin: 0; font-size: 0.95rem;"><strong>Faithful Living:</strong> Discover encouragement for everyday challenges with <a href="https://www.amazon.com/dp/0736967069?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Power of a Praying Woman</a> (Paperback) - <span style="color: #b12704; font-weight: bold;"></span></p>
     </div>
 
     <div class="ncg-amazon-rec" style="border-left: 4px solid #f0c14b; background-color: #fcf8e3; padding: 12px 15px; margin: 20px 0; border-radius: 0 4px 4px 0;">
-        <p style="margin: 0; font-size: 0.95rem;"><strong>Leadership Wisdom:</strong> Build ethical foundations with <a href="https://www.amazon.com/dp/1546032128?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Good Inside: A Guide to Becoming the Parent You Want to Be</a> (Hardcover) - <span style="color: #b12704; font-weight: bold;">$17.49</span></p>
+        <p style="margin: 0; font-size: 0.95rem;"><strong>Leadership Wisdom:</strong> Build ethical foundations with <a href="https://www.amazon.com/dp/1546032128?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Good Inside: A Guide to Becoming the Parent You Want to Be</a> (Hardcover) - <span style="color: #b12704; font-weight: bold;"></span></p>
     </div>
 
     <div class="ncg-amazon-rec" style="border-left: 4px solid #f0c14b; background-color: #fcf8e3; padding: 12px 15px; margin: 20px 0; border-radius: 0 4px 4px 0;">
-        <p style="margin: 0; font-size: 0.95rem;"><strong>Reflective Reading:</strong> Deepen your prayer life with <a href="https://www.amazon.com/dp/1641580170?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Valley of Vision: A Collection of Puritan Prayers</a> (Paperback) - <span style="color: #b12704; font-weight: bold;">$15.50</span></p>
+        <p style="margin: 0; font-size: 0.95rem;"><strong>Reflective Reading:</strong> Deepen your prayer life with <a href="https://www.amazon.com/dp/1641580170?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">The Valley of Vision: A Collection of Puritan Prayers</a> (Paperback) - <span style="color: #b12704; font-weight: bold;"></span></p>
     </div>
 
     <div class="ncg-amazon-rec" style="border-left: 4px solid #f0c14b; background-color: #fcf8e3; padding: 12px 15px; margin: 20px 0; border-radius: 0 4px 4px 0;">
-        <p style="margin: 0; font-size: 0.95rem;"><strong>Biblical Encouragement:</strong> Find strength in daily scripture readings with <a href="https://www.amazon.com/dp/0310452314?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Jesus Calling: Enjoying Peace in His Presence</a> (Devotional) - <span style="color: #b12704; font-weight: bold;">$12.50</span></p>
+        <p style="margin: 0; font-size: 0.95rem;"><strong>Biblical Encouragement:</strong> Find strength in daily scripture readings with <a href="https://www.amazon.com/dp/0310452314?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066c0; text-decoration: none;">Jesus Calling: Enjoying Peace in His Presence</a> (Devotional) - <span style="color: #b12704; font-weight: bold;"></span></p>
     </div>
 
     <footer class="ncg-article-footer" style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #e0e0e0; font-size: 0.9rem; color: #666;">

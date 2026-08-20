@@ -37,20 +37,20 @@ source_url: "https://www.forbes.com/sites/siladityaray/2026/08/18/doj-asks-court
     <p>The legal saga surrounding Kilmar Abrego Garcia began when he became caught in the sweeping immigration enforcement initiatives of the Trump administration. Detained in March of last year, Garcia was mistakenly deported to El Salvador due to what administration officials later acknowledged was a clerical error.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Despite the admission of an administrative mistake, the administration maintained unverified allegations that Garcia had ties to the MS-13 gang. Federal courts subsequently intervened, ruling that his removal lacked proper legal justification and ordering the government to facilitate his return.</p>
     <p>Once Garcia returned to the United States and successfully challenged his deportation, federal prosecutors in Tennessee indicted him on human smuggling charges. However, U.S. District Judge Waverly Crenshaw dismissed those indictments in May, ruling that objective evidence pointed to "vindictive motive" and an "abuse of prosecuting power," noting that the government had previously closed its investigation into a 2022 traffic stop until Garcia won his removal lawsuit.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Now, the DOJ has filed an appeal before the Sixth Circuit, arguing that prosecutors had legitimate probable cause based on new evidence and that the acting U.S. Attorney had no personal stake in the removal litigation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -60,13 +60,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>From a legal rights standpoint, the core tension in this case is not simply about immigration or alleged smuggling; it touches on the fundamental boundary between legitimate law enforcement and unconstitutional retaliation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Under American jurisprudence, the Executive Branch possesses broad prosecutorial discretion—the authority to decide whether, when, and whom to prosecute. However, that discretion is not absolute. The Constitution's Due Process Clause strictly prohibits vindictive prosecution. If a government agency revives a dormant criminal investigation solely because a citizen successfully exercised their right to sue the government in federal court, it creates a chilling effect on constitutional remedies.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -77,7 +77,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The DOJ's recent appellate filing attempts to sever that connection, arguing that the revived probe relied on new evidence stemming from the 2022 traffic stop and that the prosecutors involved acted independently of the removal dispute. Yet, Judge Crenshaw's initial ruling highlighted a troubling chronological coincidence: an investigation that was quietly closed was suddenly reopened only after Garcia successfully vindicated his rights.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -91,19 +91,19 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Controversies involving complex legal maneuvering often obscure the human reality at the center of the dispute. When legal systems grapple with mistakes, administrative errors, and competing claims of authority, the pursuit of objective truth can sometimes be overshadowed by institutional defense mechanisms.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Scripture frequently speaks to the重 (heavy) responsibility of those who hold power, urging fairness and the absolute rejection of partiality or vindictiveness. Proverbs 21:15 reminds us that <q>when justice is done, it brings joy to the righteous but terror to evildoers,</q> emphasizing that true justice must be transparent, equitable, and free from personal or political retaliation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>When legal processes appear defensive rather than restorative, it invites us to consider how human institutions so easily slip away from integrity. Micah 6:8 calls for a different standard: <q>To act justly and to love mercy and to walk humbly with your God.</q> Balancing accountability with human dignity remains one of the hardest challenges for any society governed by the rule of law.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -113,7 +113,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>High-profile federal litigation can feel distant from daily life, but the principles at stake belong to every citizen. Here are a few grounded ways to engage with news like this:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>

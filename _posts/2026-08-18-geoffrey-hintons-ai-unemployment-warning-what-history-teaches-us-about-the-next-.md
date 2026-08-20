@@ -36,7 +36,7 @@ source_url: 'https://fortune.com/article/godfather-of-ai-geoffrey-hinton-massive
 <p>Yet Geoffrey Hinton, the Nobel Prize-winning computer scientist widely celebrated as the "Godfather of AI," is cutting through the tech-utopian optimism. Speaking alongside Senator Bernie Sanders at Georgetown University in late 2025, Hinton offered a blunt assessment of corporate motives. The massive sums being poured into advanced data centers and specialized silicon chips are not being funded by charity or pure scientific curiosity; they are business investments designed to generate a return.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -44,7 +44,7 @@ Tactical Waterproof Backpack ($35.99)
 
 <p>"Where are these guys going to get the roughly trillion dollars they’re investing in data centers and chips… one of the main sources of money is going to be by selling people AI that will do the work of workers much cheaper," Hinton warned. In short, the tech industry is betting heavily on automation that displaces human labor to recover its astronomical capital expenditures.</p>
 
-<p>While OpenAI races toward a projected funding need exceeding $207 billion with profitability pushed out to 2030, the underlying economic engine requires tangible cost-cutting in the real economy. And that cost-cutting looks remarkably like replacing human payrolls with synthetic labor.</p>
+<p>While OpenAI races toward a projected funding need exceeding  billion with profitability pushed out to 2030, the underlying economic engine requires tangible cost-cutting in the real economy. And that cost-cutting looks remarkably like replacing human payrolls with synthetic labor.</p>
 
 <div class="ncg-quote-box">
 <p>&ldquo;The tech industry is not investing trillions in data centers for charity; they are betting on AI systems that can do the work of human employees much cheaper.&rdquo;</p>
@@ -109,7 +109,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -117,7 +117,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

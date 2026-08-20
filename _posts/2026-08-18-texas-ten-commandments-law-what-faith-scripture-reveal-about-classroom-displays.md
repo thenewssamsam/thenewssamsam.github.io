@@ -22,7 +22,7 @@ source_url: 'https://www.scotusblog.com/2026/08/texas-families-ask-supreme-court
 <p>Attorneys representing an interfaith coalition of Texas public-school families formally petitioned the Supreme Court to review a sharply divided 9-8 ruling by the U.S. Court of Appeals for the 5th Circuit. That April decision upheld Texas Senate Bill 10 (S.B. 10), a 2025 statute mandating that public elementary and secondary schools display a framed copy of the Ten Commandments in a conspicuous place in every single classroom, utilizing the specific text drawn from the King James Bible.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 <p>The challengers—comprising Christian, Jewish, Hindu, and nonreligious families—argue that the law violates both the Establishment Clause and their constitutional right to direct the religious upbringing of their children. The 5th Circuit majority, however, reasoned that the Supreme Court's older 1980 precedent in <em>Stone v. Graham</em>—which struck down a similar Kentucky classroom display law—had relied on the "Lemon test," a church-state framework the high court effectively discarded in its 2022 <em>Kennedy v. Bremerton School District</em> decision. With the Lemon test gone, the lower court concluded that the Texas law does not mirror founding-era state establishments and therefore survives constitutional scrutiny. Now, the Supreme Court must decide whether to step in and resolve the mounting tension over public education and religious freedom.</p>
@@ -152,7 +152,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -160,7 +160,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

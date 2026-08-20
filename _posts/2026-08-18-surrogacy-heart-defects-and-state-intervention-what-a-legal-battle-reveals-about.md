@@ -42,7 +42,7 @@ source_url: 'https://www.nbcnews.com/news/us-news/newborn-heart-condition-center
   <p>The infant, named Rumi, was born to surrogate McKenna West in Texas. In utero, Rumi was diagnosed with hypoplastic left heart syndrome (HLHS), a rare and severe congenital defect resulting from the underdevelopment of the left side of the heart. According to reporting by NBC News, the case quickly escalated beyond a private family matter into a complex legal and political dispute.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
   <p>West alleged that the biological parents, Omar Ahmed and Nausheen Gilkar, repeatedly pressured her to terminate the pregnancy after the fetal abnormality was discovered. Conversely, a legal response filed by the parents in Alaska claimed West was clear and knowing in her intention to abide by termination requests if severe abnormalities arose. Before Rumi's birth, Texas Attorney General Ken Paxton intervened, filing a motion asking a state court to order doctors to perform lifesaving surgery, alleging the biological parents might refuse care—an accusation the parents strongly denied, stating they had already arranged specialized treatment in California.</p>
@@ -122,7 +122,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -130,7 +130,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

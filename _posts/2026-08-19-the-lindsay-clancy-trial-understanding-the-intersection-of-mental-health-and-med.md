@@ -24,13 +24,13 @@ source_url: "https://www.wbur.org/news/2026/08/17/prosecution-rests-murder-trial
     <p>Lindsay Clancy faces three counts of first-degree murder. Her defense team argues she was not criminally responsible due to her mental state, specifically citing postpartum psychosis and the potential impact of prescribed psychiatric medications. Prosecutors, conversely, contend the actions were deliberate, noting that Clancy searched for information regarding medication and suicide in the weeks preceding the tragedy.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>The trial has featured testimony from first responders, psychiatric clinicians, and Patrick Clancy, the children’s father. His testimony painted a picture of a family navigating a confusing and escalating crisis, where moments of normalcy were interspersed with terrifying thoughts of harm. The case highlights the limitations of our current healthcare systems when faced with the volatile nature of postpartum psychiatric disorders.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -40,7 +40,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>From a health and wellness perspective, the Clancy case underscores the urgent need for a more integrated, proactive approach to maternal care. Postpartum depression and the much rarer, more severe postpartum psychosis are not merely "bad days"—they are medical emergencies that require specialized, consistent monitoring.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -48,7 +48,7 @@ Tactical Waterproof Backpack ($35.99)
       <p><strong>"True wellness in motherhood requires a village, but it also requires a clinical system that listens, observes, and acts before a crisis reaches its breaking point."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -57,15 +57,15 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The defense’s focus on medication is a critical point of public discourse. While psychiatric drugs are essential tools for managing mental health conditions, they are not one-size-fits-all solutions. The trial brings to light the reality that for some patients, finding the right balance of medication is a trial-and-error process that can be fraught with side effects or unintended psychological shifts. This doesn't negate the efficacy of treatment, but it does emphasize why patients and their families need intensive, ongoing clinical supervision during the adjustment period.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <div class="ncg-amazon-product" style="border-left: 5px solid #ff9900; background: #fffdf0; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommended Resource:</strong> <em>The Postpartum Depression Workbook</em> – A guide for managing emotional health during pregnancy and postpartum. Price: $18.99. <a href="https://www.amazon.com/dp/example" target="_blank" rel="noopener noreferrer">View on Amazon</a></p>
+      <p><strong>Recommended Resource:</strong> <em>The Postpartum Depression Workbook</em> – A guide for managing emotional health during pregnancy and postpartum. . <a href="https://www.amazon.com/dp/example" target="_blank" rel="noopener noreferrer">View on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -74,7 +74,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Wellness is not just the absence of illness; it is the presence of a supportive environment. The Clancy case suggests that when a mother expresses fear about harming her children, the response must move beyond standard outpatient check-ins. A holistic health framework demands that we look at sleep, nutrition, social support, and the psychological burden of new motherhood as interconnected variables.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -84,13 +84,13 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In the midst of such a profound tragedy, it is natural to search for answers and meaning. The Bible speaks to the weight of the human spirit in times of deep distress. Psalm 34:18 reminds us, "The Lord is close to the brokenhearted and saves those who are crushed in spirit." This verse invites us to consider that in our darkest moments, when the mind feels fractured and the path forward is obscured, there is a presence that understands our deepest suffering even when we cannot articulate it ourselves.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>This situation reminds me that we are all finite beings, susceptible to the ailments of both body and mind. It calls for a spirit of compassion rather than judgment for those navigating the unknown trials of mental health. It also encourages us to be present for one another—to be the eyes and ears for those who are struggling to see the light, offering grace and support when they need it most.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

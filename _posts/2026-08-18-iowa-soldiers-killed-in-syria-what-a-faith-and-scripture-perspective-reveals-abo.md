@@ -131,7 +131,7 @@ source_url: 'https://www.kcci.com/article/iowa-soldiers-killed-in-syria-honored-
 <p>The two Iowa National Guard soldiers were shot and killed by a lone ISIS gunman while deployed in Syria. According to military reports, their deaths mark the first time members of the Iowa National Guard have died in action since 2011. Hegseth’s visit had originally been scheduled for March but was postponed due to escalating tensions and conflict with Iran.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>During the event at JR's South Pork Ranch, leaders and family members spoke candidly about the sacrifices made by ordinary citizens who step into extraordinary danger in defense of their country.</p>
@@ -200,7 +200,7 @@ Source: <a href="https://www.kcci.com/article/iowa-soldiers-killed-in-syria-hono
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -208,7 +208,7 @@ Source: <a href="https://www.kcci.com/article/iowa-soldiers-killed-in-syria-hono
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

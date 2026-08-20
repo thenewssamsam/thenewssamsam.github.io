@@ -16,7 +16,7 @@ source_url: "https://apnews.com/article/tariffs-trump-canada-usmca-trade-aae597c
   </header>
 
   <section id="introduction">
-    <p>President Donald Trump has announced a three-day pause on the 50% tariffs previously scheduled to hit $20 billion worth of Canadian imports. While this "last-minute deal" offers a temporary reprieve for businesses and consumers, the underlying legal mechanism—Section 338 of the Tariff Act of 1930—remains a subject of intense scrutiny. Understanding this obscure provision is essential for grasping the current trade tension between the U.S. and its northern neighbor.</p>
+    <p>President Donald Trump has announced a three-day pause on the 50% tariffs previously scheduled to hit  billion worth of Canadian imports. While this "last-minute deal" offers a temporary reprieve for businesses and consumers, the underlying legal mechanism—Section 338 of the Tariff Act of 1930—remains a subject of intense scrutiny. Understanding this obscure provision is essential for grasping the current trade tension between the U.S. and its northern neighbor.</p>
   </section>
 
   <section id="what-happened">
@@ -24,7 +24,7 @@ source_url: "https://apnews.com/article/tariffs-trump-canada-usmca-trade-aae597c
     <p>The U.S. government was set to impose a 50% tariff on a variety of Canadian goods, ranging from medical supplies like tongue depressors to everyday items like hockey sticks. The delay was announced via social media, providing a brief window for negotiators to finalize terms. This situation highlights the volatility of modern trade policy and the ongoing effort to renegotiate the USMCA framework.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -34,7 +34,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>The Trump administration's decision to invoke Section 338 of the Tariff Act of 1930 is an extraordinary legal move. This statute, born from the Great Depression era, grants the President broad, nearly unchecked authority to impose tariffs of up to 50% on goods from nations deemed to be "discriminating" against U.S. commerce.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
@@ -42,7 +42,7 @@ Seagate Portable External Hard Drive ($59.99)
       <p><strong>Disclaimer:</strong> This is general information, not legal advice. Trade law is complex and subject to rapid change. Consult a licensed attorney or trade compliance expert about your specific situation regarding import regulations and business liabilities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -64,13 +64,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>When I reflect on these complex trade negotiations, I am reminded of the biblical call to integrity and fairness in all our dealings. Proverbs 11:1 tells us, <em>"The Lord detests dishonest scales, but accurate weights find favor with him."</em> This verse serves as a timeless standard for any system, whether it is a marketplace or a government trade policy. It invites us to consider whether our pursuit of national interest is balanced by a commitment to justice for our neighbors.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>Furthermore, we are reminded in Philippians 2:4, <em>"Let each of you look not only to his own interests, but also to the interests of others."</em> As we navigate these economic uncertainties, we are called to act with wisdom and compassion, recognizing that the decisions made in high offices eventually ripple down to the families and workers who rely on stable, honest trade. It encourages us to pray for our leaders to seek solutions that reflect truth rather than mere tactical maneuvering.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -80,7 +80,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>For small business owners and consumers, this "limbo state" necessitates a cautious approach:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <ol>

@@ -24,7 +24,7 @@ source_url: "https://www.fox35orlando.com/news/florida-primary-election-result-2
     <p>On Tuesday, August 18, 2026, Florida voters are determining the nominees who will advance to the November general election. With polls open from 7 a.m. to 7 p.m. local time, the Florida Division of Elections and the Associated Press are providing real-time updates on results across counties including Orange, Seminole, Volusia, and beyond.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -33,7 +33,7 @@ Tactical Waterproof Backpack ($35.99)
     <p><strong>Legal Note:</strong> This is general information, not legal advice. Consult a licensed attorney or your county's Supervisor of Elections office regarding specific concerns about your personal voting situation.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Florida election law provides clear protections for every registered voter. Whether you are voting in person or by mail, your rights remain consistent under state and federal statutes.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -64,13 +64,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>Participating in an election is a form of stewardship over the community in which we live. Scripture reminds us of the importance of seeking justice and truth in all our dealings. Proverbs 31:9 (NIV) instructs us to <em>"Speak up and judge fairly; defend the rights of the poor and needy,"</em> while Micah 6:8 (ESV) calls us to <em>"do justice, and to love kindness, and to walk humbly with your God."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>These verses invite us to view our civic duties not as a burden, but as an opportunity to seek the common good. When we exercise our right to vote, we are participating in a process that affects the lives of our neighbors. Approaching this responsibility with a heart for integrity and a desire for truth helps foster a society where justice can flourish.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -80,7 +80,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>If you encounter issues at the polls, do not simply walk away. Ask to speak with a poll worker or the clerk. If your issue remains unresolved, contact your county Supervisor of Elections immediately. Document the time, location, and the nature of the issue if you feel your rights have been infringed upon.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

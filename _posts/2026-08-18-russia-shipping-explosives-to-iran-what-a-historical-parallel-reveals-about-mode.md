@@ -159,7 +159,7 @@ source_url: 'https://www.nbcnews.com/politics/national-security/russia-shipping-
   <p>According to a European government document obtained by NBC News and verified by a Western official, Russia has stepped up military logistics operations directed toward Iran. The shipments—consisting of essential explosive materials like TNT, ammunition, and specialized components for drone manufacturing—are moving through the Caspian Sea.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
   <p>This flow of war materiel serves a vital purpose for Tehran: replenishing stockpiles that have taken heavy hits following targeted U.S. and Israeli airstrikes. Rather than operating in isolated diplomatic silos, Moscow and Tehran are increasingly sharing industrial and military capabilities to counter Western-led pressure.</p>
@@ -229,7 +229,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -237,7 +237,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

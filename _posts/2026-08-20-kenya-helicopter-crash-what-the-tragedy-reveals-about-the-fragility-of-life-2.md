@@ -23,13 +23,13 @@ source_url: 'https://www.bbc.com/news/articles/clylkv4z59vo'
     <p>A tragic helicopter crash in Kenya’s Samburu county has resulted in the deaths of seven individuals, including Ecuador’s intelligence chief, Michele Sensi-Contugi, and his wife, Stephany Hollihan. The aircraft, a Eurocopter EC130 B4 operated by Lady Lori Helicopters, went down on Wednesday morning while on a scenic flight from the Loisaba wildlife conservancy toward the Ewaso Nyiro river.</p>
     
     <div style="border-left: 5px solid #ffc107; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Featured Product:</strong> <a href="#">High-Quality Binoculars for Wildlife Viewing - $129.99</a></p>
+      <p><strong>Featured Product:</strong> <a href="#">High-Quality Binoculars for Wildlife Viewing - </a></p>
     </div>
 
     <p>Among the victims were five American citizens, including respected NBCUniversal journalist José Alberto Suárez and Miami restaurateur Roger Duarte. The Kenya Civil Aviation Authority (KCAA) is currently investigating the circumstances of the crash, which occurred on the slopes of Mount Ololokwe.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -39,15 +39,15 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When we hear of sudden tragedies in beautiful, remote locations, it serves as a jarring reminder of how quickly circumstances can change. We often associate travel and adventure with safety and recreation, but this incident underscores that life is inherently fragile.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <div style="border-left: 5px solid #ffc107; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Featured Product:</strong> <a href="#">Durable Travel First Aid Kit - $35.00</a></p>
+      <p><strong>Featured Product:</strong> <a href="#">Durable Travel First Aid Kit - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -59,7 +59,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The loss of leaders and mentors like José Alberto Suárez highlights that when a life is cut short, the ripples are felt far beyond the immediate crash site. It invites us to consider how we are spending our own time and whether we are investing in the people around us while we have the chance.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -69,15 +69,15 @@ Seagate Portable External Hard Drive ($59.99)
     <p>In moments of profound loss, many turn to the wisdom of Scripture to find ground in the shifting sand of circumstances. James 4:14 reminds us: <em>"Why, you do not even know what will happen tomorrow. What is your life? You are a mist that appears for a little while and then vanishes."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <div style="border-left: 5px solid #ffc107; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Featured Product:</strong> <a href="#">Journal for Daily Reflection and Gratitude - $18.50</a></p>
+      <p><strong>Featured Product:</strong> <a href="#">Journal for Daily Reflection and Gratitude - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -85,7 +85,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>This verse is not meant to inspire fear, but rather a profound sense of stewardship regarding our time. Psalm 90:12 provides a prayerful response: <em>"Teach us to number our days, that we may gain a heart of wisdom."</em> When we recognize that our days are a gift rather than a guarantee, our priorities shift. We become more deliberate in our kindness, more present in our conversations, and more intentional with the talents we have been given.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

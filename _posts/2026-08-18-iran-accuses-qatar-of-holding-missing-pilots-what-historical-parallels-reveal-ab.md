@@ -65,7 +65,7 @@ p { margin-bottom: 16px; color: #334155; }
 <p>The controversy stems from an incident early in the ongoing US-Iran conflict when Qatari forces shot down Iranian Sukhoi Su-24 bombers operating in the region. According to reports from the <em>Wall Street Journal</em> and the <em>New York Times</em>, Tehran is now insisting that three crew members who survived ejection—identified as Javad Salehi, Abdolmajid Dashtian, and Omran Behraveshian—are alive and being held in secret detention by Doha. Iran has formally asked the International Committee of the Red Cross (ICRC) to visit them.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>Qatar flatly rejects the accusation. Doha maintains that it recovered only one body—identified as pilot Majid Kazemi—and immediately mounted search-and-rescue operations for the remaining crew members. Furthermore, Qatari officials state they invited Iranian counterparts to review the physical evidence and attempted to coordinate the return of Kazemi's remains, an offer they claim Tehran ignored.</p>
@@ -183,7 +183,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -191,7 +191,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

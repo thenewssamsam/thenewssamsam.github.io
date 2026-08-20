@@ -11,7 +11,7 @@ source_url: 'https://www.cleveland.com/news/2026/08/ice-cream-brand-sold-at-walm
 ---
 <article>
   <header class="ncg-header">
-    <h1 class="ncg-title">Rebel Creamery Bankruptcy: What a $23M Lawsuit Reveals About Business and Design</h1>
+    <h1 class="ncg-title">Rebel Creamery Bankruptcy: What a M Lawsuit Reveals About Business and Design</h1>
     <div class="ncg-meta">
       <time datetime="2026-08-11">Published: August 11, 2026</time>
       <span class="ncg-separator">•</span>
@@ -22,12 +22,12 @@ source_url: 'https://www.cleveland.com/news/2026/08/ice-cream-brand-sold-at-walm
   <p class="ncg-lead">When a popular low-carb ice cream brand found in major nationwide grocers files for Chapter 11 bankruptcy just weeks after a devastating multi-million dollar court judgment, it signals more than just a corporate restructuring—it highlights the high-stakes, legally precarious world of modern consumer product branding.</p>
 
   <h2 id="what-happened">What Happened in the Rebel Creamery Case?</h2>
-  <p>Utah-based Rebel Creamery, known for its keto-friendly, low-carbohydrate ice cream pints stocked at Walmart, Target, Kroger, and Safeway, has officially filed for Chapter 11 bankruptcy protection. The filing comes approximately a month after the company was hit with a staggering $23.8 million judgment in a federal lawsuit brought by rival dessert maker Van Leeuwen Ice Cream.</p>
+  <p>Utah-based Rebel Creamery, known for its keto-friendly, low-carbohydrate ice cream pints stocked at Walmart, Target, Kroger, and Safeway, has officially filed for Chapter 11 bankruptcy protection. The filing comes approximately a month after the company was hit with a staggering  million judgment in a federal lawsuit brought by rival dessert maker Van Leeuwen Ice Cream.</p>
   
-  <p>According to court filings, Rebel reported roughly $13.78 million in assets against $23.85 million in liabilities as it prepares to appeal the ruling. The legal battle centers around "trade dress"—the visual appearance and overall design of a product's packaging that identifies its source to consumers.</p>
+  <p>According to court filings, Rebel reported roughly  million in assets against  million in liabilities as it prepares to appeal the ruling. The legal battle centers around "trade dress"—the visual appearance and overall design of a product's packaging that identifies its source to consumers.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-JIYINGDUO External Hard Drive ($44.99)
+JIYINGDUO External Hard Drive 
 </a></p>
 
 
@@ -79,7 +79,7 @@ JIYINGDUO External Hard Drive ($44.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">GAZELLE External Hard Drive</a></div>
-    <div class="product-price">$54.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -87,7 +87,7 @@ JIYINGDUO External Hard Drive ($44.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">abshoo College Bookbag</a></div>
-    <div class="product-price">$29.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -95,7 +95,7 @@ JIYINGDUO External Hard Drive ($44.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">QT-QY Military Tactical Backpack</a></div>
-    <div class="product-price">$34.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -103,7 +103,7 @@ JIYINGDUO External Hard Drive ($44.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Toshiba 5400RPM Hard Drive</a></div>
-    <div class="product-price">$49.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -111,7 +111,7 @@ JIYINGDUO External Hard Drive ($44.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -119,7 +119,7 @@ JIYINGDUO External Hard Drive ($44.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">JIYINGDUO External Hard Drive</a></div>
-    <div class="product-price">$44.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -127,7 +127,7 @@ JIYINGDUO External Hard Drive ($44.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">KEOFID Classic Backpack</a></div>
-    <div class="product-price">$32.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -135,7 +135,7 @@ JIYINGDUO External Hard Drive ($44.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

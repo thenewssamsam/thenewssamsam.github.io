@@ -24,15 +24,15 @@ source_url: "https://apnews.com/article/alaska-primary-senate-sullivan-peltola-c
     <p>The Alaska U.S. Senate race features a crowded field of 16 candidates, but the primary focus has centered on the incumbent, Republican Sen. Dan S. Sullivan, and a challenger who shares his name: Daniel J. Sullivan Jr., a retired teacher from Petersburg. The presence of two Sullivans on the ballot—with the incumbent labeled as such and the challenger running with no party affiliation—has sparked intense debate over whether the race is being manipulated to confuse voters.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
     <div class="ncg-amazon-box" style="border: 1px solid #d4af37; background-color: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 8px;">
-      <p><strong>Recommended:</strong> <a href="https://www.amazon.com/dp/B08P13W54F" target="_blank">Alaska State Flag Lapel Pin - $8.99</a> - Show your local pride during election season.</p>
+      <p><strong>Recommended:</strong> <a href="https://www.amazon.com/dp/B08P13W54F" target="_blank">Alaska State Flag Lapel Pin - </a> - Show your local pride during election season.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     </div>
@@ -40,7 +40,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>While the incumbent has the backing of national GOP figures, including former President Donald Trump, the challenger argues his candidacy is born from genuine frustration with current political leadership. This clash is occurring against the backdrop of a broader, state-wide movement to address campaign finance, with a ballot initiative seeking to reimpose contribution limits.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -50,7 +50,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>For the average Alaskan, this isn't just about a name; it’s about the accessibility and integrity of the political process. Alaska’s top-four open primary system is designed to allow voters more choice, but it also creates environments where "spoiler" candidates or name-confusion tactics can dominate the news cycle, potentially distracting from substantive policy discussions on energy extraction, the cost of living, and military support.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -59,10 +59,10 @@ Seagate Portable External Hard Drive ($59.99)
     </div>
 
     <div class="ncg-amazon-box" style="border: 1px solid #d4af37; background-color: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 8px;">
-      <p><strong>Recommended:</strong> <a href="https://www.amazon.com/dp/B07K66X5G8" target="_blank">Civic Engagement Journal - $12.95</a> - Track your local ballot initiatives and voting history.</p>
+      <p><strong>Recommended:</strong> <a href="https://www.amazon.com/dp/B07K66X5G8" target="_blank">Civic Engagement Journal - </a> - Track your local ballot initiatives and voting history.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -73,13 +73,13 @@ Tactical Waterproof Backpack ($35.99)
     <p>In the midst of this chaotic election, I am reminded of the importance of clarity and honesty in our public life. The confusion caused by similar names reflects a deeper societal tension where truth often feels obscured by political maneuvering. Scripture invites us to consider the value of transparency, as stated in <strong>Proverbs 11:3: "The integrity of the upright guides them, but the unfaithful are destroyed by their duplicity."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>It is easy to become cynical when we see tactics that seem intended to mislead rather than inform. Yet, as citizens, we are called to be vigilant and discerning. <strong>"For God is not a God of confusion but of peace," (1 Corinthians 14:33)</strong>. This serves as a gentle nudge to look beyond the noise of the headlines and seek out the substantive issues that truly affect our neighbors and our communities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

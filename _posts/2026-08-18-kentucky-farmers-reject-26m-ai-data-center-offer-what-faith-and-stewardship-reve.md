@@ -11,7 +11,7 @@ source_url: 'https://nypost.com/2026/08/16/us-news/country-hick-kentucky-farmers
 ---
 <article>
   <header>
-    <h1>Kentucky Farmers Reject $26M AI Data Center Offer: What Faith and Stewardship Reveal About the Choice</h1>
+    <h1>Kentucky Farmers Reject M AI Data Center Offer: What Faith and Stewardship Reveal About the Choice</h1>
     <div class="ncg-meta-row">
       <time datetime="2026-08-16">Published: August 16, 2026</time>
       <span class="ncg-dot">•</span>
@@ -19,15 +19,15 @@ source_url: 'https://nypost.com/2026/08/16/us-news/country-hick-kentucky-farmers
     </div>
   </header>
 
-  <p class="ncg-lead">When an artificial intelligence company waved a $26.4 million check in front of a Kentucky family for their historic farmland, most people expected an easy yes. Instead, self-described "country hicks" Delsia Bare and her mother, Ida Huddleston, delivered a six-word rejection that has stunned the tech world and sparked a deep local debate over what land is truly worth.</p>
+  <p class="ncg-lead">When an artificial intelligence company waved a  million check in front of a Kentucky family for their historic farmland, most people expected an easy yes. Instead, self-described "country hicks" Delsia Bare and her mother, Ida Huddleston, delivered a six-word rejection that has stunned the tech world and sparked a deep local debate over what land is truly worth.</p>
 
   <h2 id="what-happened">What Happened in Maysville, Kentucky?</h2>
   <p>The story, originally detailed by the <em>Wall Street Journal</em>, centers on 463 acres of land in Maysville, Kentucky, that has remained in the same family for roughly two00 years. Representatives from an unnamed artificial intelligence business—believed by reporters to be connected to Meta—approached the mother-daughter duo with a staggering buyout proposal.</p>
   
-  <p>The company offered Bare $48,000 per acre and Huddleston $60,000 per acre, totaling a combined $26.48 million—a figure far exceeding market rate. Initially, the family agreed to the sale. But when they learned the buyer intended to pave over the historic acreage to construct massive data centers powering AI bots, they swiftly backed out.</p>
+  <p>The company offered Bare ,000 per acre and Huddleston ,000 per acre, totaling a combined  million—a figure far exceeding market rate. Initially, the family agreed to the sale. But when they learned the buyer intended to pave over the historic acreage to construct massive data centers powering AI bots, they swiftly backed out.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
 
@@ -52,7 +52,7 @@ Tactical Waterproof Backpack ($35.99)
   <div class="ncg-scripture-box">
     <h3>Proverbs 13:11</h3>
     <p>"Wealth gained hastily will dwindle, but whoever gathers little by little will increase it."</p>
-    <p class="ncg-scripture-note">This proverb highlights the temptation of sudden, massive windfalls. While $26 million offers immediate earthly security, it tests a person's willingness to trade long-term generational heritage for a single transactional payout.</p>
+    <p class="ncg-scripture-note">This proverb highlights the temptation of sudden, massive windfalls. While  million offers immediate earthly security, it tests a person's willingness to trade long-term generational heritage for a single transactional payout.</p>
   </div>
 
   <div class="ncg-scripture-box">
@@ -97,8 +97,8 @@ Tactical Waterproof Backpack ($35.99)
   {
     "@context": "https://schema.org",
     "@type": "NewsArticle",
-    "headline": "Kentucky Farmers Reject $26M AI Data Center Offer: What Faith and Stewardship Reveal About the Choice",
-    "description": "A Kentucky family turned down $26.4 million from an AI company to protect their 200-year-old farm. Explore what true stewardship really means.",
+    "headline": "Kentucky Farmers Reject M AI Data Center Offer: What Faith and Stewardship Reveal About the Choice",
+    "description": "A Kentucky family turned down  million from an AI company to protect their 200-year-old farm. Explore what true stewardship really means.",
     "datePublished": "2026-08-16",
     "author": {
       "@type": "Person",
@@ -117,7 +117,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -125,7 +125,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

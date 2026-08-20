@@ -21,7 +21,7 @@ source_url: 'https://www.dataforprogress.org/blog/2026/8/17/as-alaskas-affordabi
     <p>As Alaska’s affordability crisis deepens, the state’s economic landscape has become the central battleground for the 2026 election cycle. New polling data indicates that voters are increasingly concerned about the rising costs of basic necessities, with energy and utility expenses topping the list of fiscal priorities. For Alaskans, this isn't just a political talking point—it is a daily financial struggle that is reshaping how they evaluate candidates for office.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
   </section>
@@ -40,7 +40,7 @@ Tactical Waterproof Backpack ($35.99)
 
   <section id="financial-impact-perspective">
     <h2>A Financial Perspective: Spending and Fiscal Policy</h2>
-    <p>From a financial literacy standpoint, the survey reveals a clear disconnect between government spending proposals and voter economic priorities. When asked how to allocate an additional $100 million in state funds, the consensus is not on broad tax cuts, but on targeted relief:</p>
+    <p>From a financial literacy standpoint, the survey reveals a clear disconnect between government spending proposals and voter economic priorities. When asked how to allocate an additional  million in state funds, the consensus is not on broad tax cuts, but on targeted relief:</p>
     <blockquote>
       "When household budgets are squeezed by non-discretionary costs like heat and electricity, voters naturally prioritize systemic solutions that lower these fixed monthly outflows over one-time dividends."
     </blockquote>
@@ -86,7 +86,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -94,7 +94,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

@@ -28,16 +28,16 @@ source_url: 'https://www.thecentersquare.com/texas/article_e8c8326e-8457-4041-b4
     <p>The move follows a lack of transparency from the industry; when the Public Utility Commission (PUC) requested data on power consumption, only 10% of companies responded. Now, those who wish to operate in the Lone Star State must demonstrate that they can "pay their own way" without shifting costs onto Texas families or relying on taxpayer-funded incentives.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-block" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B004DI7736" target="_blank">Power Management Surge Protector Strip</a> - Stay organized and efficient with your home office equipment. Price: $24.99</p>
+    <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B004DI7736" target="_blank">Power Management Surge Protector Strip</a> - Stay organized and efficient with your home office equipment. </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>
@@ -47,7 +47,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>In our modern era, "stewardship" is often reduced to financial management. However, from a biblical perspective, it encompasses the care of all resources—our land, our water, and the peace of our neighborhoods. When leaders demand that large corporations account for their impact on the vulnerable, they are acting in accordance with the principle that power and resources are meant to serve the common good, not merely the profit of the few.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -58,7 +58,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>This verse reminds us that our gifts—whether technological innovation or administrative authority—are not for self-aggrandizement, but for service. When a company seeks to build in a community, it enters into a moral covenant with the residents. If that development disrupts the peace of a neighborhood or strains the resources required for a family to thrive, it fails the test of stewardship.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -66,16 +66,16 @@ Seagate Portable External Hard Drive ($59.99)
     <p>We are often reminded in Scripture that those in positions of influence carry a heavy burden. Proverbs 29:2 notes, "When the righteous thrive, the people rejoice; when the wicked rule, the people groan." While this is a policy matter, the underlying principle holds: true progress is measured by how it affects the "least of these" in our communities. A sustainable future is one where corporations act as neighbors, not just entities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
 
   <div class="ncg-amazon-block" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B08P54J2H4" target="_blank">Water Conservation Home Kit</a> - Practical tools for managing household water usage. Price: $19.95</p>
+    <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B08P54J2H4" target="_blank">Water Conservation Home Kit</a> - Practical tools for managing household water usage. </p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </div>
@@ -85,7 +85,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>As these developments unfold, we are called to be wise and engaged citizens:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <ul>

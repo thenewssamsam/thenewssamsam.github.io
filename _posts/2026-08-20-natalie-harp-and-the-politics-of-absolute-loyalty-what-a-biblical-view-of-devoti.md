@@ -64,7 +64,7 @@ source_url: "https://www.cnn.com/2026/08/18/politics/natalie-harp-trump-aide"
 
 <div class="ncg-amazon-box">
 <span>Interested in leadership dynamics and organizational culture? Check out <strong>Leaders Eat Last</strong> by Simon Sinek.</span>
-<a href="https://www.amazon.com/dp/1591845327/?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">View on Amazon ($16.99)</a>
+<a href="https://www.amazon.com/dp/1591845327/?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">View on Amazon </a>
 </div>
 
 <p class="ncg-p">Harp's intense dedication recently drew fresh national scrutiny after Democratic Sen. Jon Ossoff name-dropped her in a viral speech criticizing foreign travel logistics. While White House spokespersons and allies fiercely defended Harp as an exceptionally hard-working and loyal staffer, critics and rival West Wing aides have expressed frustration over her territorial oversight of access to the president.</p>
@@ -82,7 +82,7 @@ source_url: "https://www.cnn.com/2026/08/18/politics/natalie-harp-trump-aide"
 
 <div class="ncg-amazon-box">
 <span>Explore books on emotional intelligence and professional boundaries: <strong>Crucial Conversations</strong></span>
-<a href="https://www.amazon.com/dp/1484723143/?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">View on Amazon ($18.49)</a>
+<a href="https://www.amazon.com/dp/1484723143/?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">View on Amazon </a>
 </div>
 
 <p class="ncg-p">This modern political drama invites a timeless reflection. Throughout history, human beings have repeatedly sought security, identity, and purpose by attaching themselves wholly to charismatic figures. But Scripture offers a profound caution regarding where we place our ultimate allegiance and how we evaluate human relationships.</p>
@@ -95,7 +95,7 @@ source_url: "https://www.cnn.com/2026/08/18/politics/natalie-harp-trump-aide"
 
 <div class="ncg-amazon-box">
 <span>Deepen your study of biblical wisdom and discernment with a reliable commentary set: <strong>ESV Study Bible</strong></span>
-<a href="https://www.amazon.com/dp/1433502410/?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">View on Amazon ($39.99)</a>
+<a href="https://www.amazon.com/dp/1433502410/?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">View on Amazon </a>
 </div>
 
 <p class="ncg-p">Furthermore, Proverbs 27:6 offers a complementary truth about relational honesty: <em>"Wounds from a friend can be trusted, but an enemy multiplies kisses."</em> True faithfulness within any community or working relationship sometimes requires the courage to speak truth rather than simply echoing what someone in power wishes to hear. Authentic wisdom invites us to support and serve others while keeping our ultimate moral anchor rooted in truth and divine accountability rather than mere proximity to earthly power.</p>
@@ -112,7 +112,7 @@ source_url: "https://www.cnn.com/2026/08/18/politics/natalie-harp-trump-aide"
 
 <div class="ncg-amazon-box">
 <span>Find daily encouragement and spiritual grounding: <strong>Jesus Calling</strong> by Sarah Young</span>
-<a href="https://www.amazon.com/dp/140418762X/?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">View on Amazon ($12.99)</a>
+<a href="https://www.amazon.com/dp/140418762X/?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">View on Amazon </a>
 </div>
 </section>
 

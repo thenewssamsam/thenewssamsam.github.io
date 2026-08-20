@@ -28,7 +28,7 @@ source_url: "https://www.foxnews.com/politics/iran-fails-strike-deal-us-deadline
 <p>International maritime law, largely codified by the United Nations Convention on the Law of the Sea (UNCLOS), provides the framework for understanding the tensions in the Strait of Hormuz. Under the principle of "transit passage," ships are generally entitled to navigate through straits used for international navigation between one part of the high seas or an exclusive economic zone and another.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 
@@ -36,7 +36,7 @@ Tactical Waterproof Backpack ($35.99)
 <p><strong>"The right of transit passage is not merely a suggestion; it is a bedrock of global commerce, ensuring that vital resources like oil and gas can move freely across the world's oceans."</strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </div>
@@ -45,15 +45,15 @@ Seagate Portable External Hard Drive ($59.99)
 <p>A naval blockade is a belligerent act under international law, typically used during an active armed conflict to prevent vessels from entering or leaving a port or coast. The legality of such an action is heavily scrutinized under the laws of war. While nations involved in an active conflict may claim military necessity, international humanitarian law requires that such actions do not disproportionately affect civilian commercial interests.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <div class="ncg-product" style="border-left: 5px solid #FFD700; background: #fdfaf0; padding: 15px; margin: 20px 0;">
-<p><strong>Recommended Reading:</strong> <a href="#">International Law and the Use of Force - $45.00</a></p>
+<p><strong>Recommended Reading:</strong> <a href="#">International Law and the Use of Force - </a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
 </div>
@@ -64,14 +64,14 @@ Tactical Waterproof Backpack ($35.99)
 <p>In the midst of political maneuvering and the breakdown of treaties, we are reminded of the biblical importance of keeping one’s word. Scripture teaches that integrity is not a bargaining chip but a requirement for those who seek peace. Proverbs 12:22 tells us, "The Lord detests lying lips, but he delights in people who are trustworthy."</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>When negotiations fail and conflict persists, it is easy to view the "other side" through a lens of total cynicism. However, as we witness the strain on global resources and the fear caused by these blockades, we might consider the words of Matthew 5:9: "Blessed are the peacemakers, for they will be called children of God." This invites us to pray not only for the cessation of hostilities but for the wisdom of leaders to pursue truth and honesty in their dealings, recognizing that behind every policy decision are human lives impacted by the choices made in halls of power.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 </section>
@@ -81,7 +81,7 @@ Seagate Portable External Hard Drive ($59.99)
 <p>For the ordinary reader, these events often feel distant, yet they impact global energy prices and economic stability. Here is how you can engage:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 <ul>

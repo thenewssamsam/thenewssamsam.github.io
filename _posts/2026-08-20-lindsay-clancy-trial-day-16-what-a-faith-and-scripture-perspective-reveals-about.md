@@ -46,14 +46,14 @@ source_url: 'https://www.nbcboston.com/news/local/lindsay-clancy-trial-day-16-li
     <p>The defense maintains that Clancy was entirely divorced from reality due to medical complications and psychiatric overload, arguing she should not be held criminally responsible. Meanwhile, prosecutors press forward with accountability for the lives lost. For families watching from home, the details are nothing short of agonizing.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <!-- Product Recommendation 1 -->
   <div style="background: #fffdf0; border-left: 4px solid #d69e2e; padding: 15px; margin: 20px 0; border-radius: 0 6px 6px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.05);" class="ncg-product-box">
-    <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B08N5K1V23?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: underline;">The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma</a> - $14.99. A vital read for understanding how deep psychological trauma and severe mental health crises impact physical and emotional well-being.</p>
+    <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B08N5K1V23?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: underline;">The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma</a> - . A vital read for understanding how deep psychological trauma and severe mental health crises impact physical and emotional well-being.</p>
   </div>
 
   <section id="biblical-perspective" style="margin-bottom: 30px;">
@@ -61,14 +61,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When society witnesses a mind pushed to such catastrophic extremes, it challenges simplistic worldviews. We often want neat boxes for human behavior—good versus evil, intentional malice versus innocence. Yet Scripture reveals a fallen world where human biology, mental capacity, and spiritual warfare intersect in deeply complex ways.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>The Bible does not shy away from the reality of deep mental suffering and despair. Figures throughout Scripture experienced profound psychological and emotional distress, demonstrating that a broken mind is part of the physical curse of a fallen creation, not always a direct reflection of a person's moral standing.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -79,14 +79,14 @@ Seagate Portable External Hard Drive ($59.99)
     <p>This verse reminds us that even in places of unspeakable darkness and mental fracture, God's compassion does not fail. While human courts must determine legal responsibility based on evidence and statute, a biblical lens looks upon the situation with profound sorrow, recognizing that severe illness can distort reality to a terrifying degree.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <!-- Product Recommendation 2 -->
   <div style="background: #fffdf0; border-left: 4px solid #d69e2e; padding: 15px; margin: 20px 0; border-radius: 0 6px 6px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.05);" class="ncg-product-box">
-    <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1501161938?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: underline;">Anxious for Nothing: Finding Calm in a Chaotic World</a> - $12.49. Practical, faith-centered guidance on finding peace and recognizing mental strain before it reaches critical limits.</p>
+    <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1501161938?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: underline;">Anxious for Nothing: Finding Calm in a Chaotic World</a> - . Practical, faith-centered guidance on finding peace and recognizing mental strain before it reaches critical limits.</p>
   </div>
 
   <section id="grace-in-brokenness" style="margin-bottom: 30px;">
@@ -94,7 +94,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The testimony surrounding postpartum psychosis highlights an area of medical health that has historically been misunderstood or minimized. When a mother experiences complete detachment from reality, her capacity to choose good or recognize truth is severely compromised.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -105,7 +105,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>Scripture invites us to look at human weakness with humility. The Apostle Paul speaks of our present physical bodies as subject to decay and suffering:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -118,7 +118,7 @@ Seagate Portable External Hard Drive ($59.99)
 
   <!-- Product Recommendation 3 -->
   <div style="background: #fffdf0; border-left: 4px solid #d69e2e; padding: 15px; margin: 20px 0; border-radius: 0 6px 6px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.05);" class="ncg-product-box">
-    <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0310347203?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: underline;">The Tech-Wise Family: Everyday Steps for Putting Technology in Its Proper Place</a> - $11.99. A helpful tool for building strong, communicative household connections and real-world support systems.</p>
+    <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0310347203?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: underline;">The Tech-Wise Family: Everyday Steps for Putting Technology in Its Proper Place</a> - . A helpful tool for building strong, communicative household connections and real-world support systems.</p>
   </div>
 
   <section id="how-should-christians-respond" style="margin-bottom: 30px;">
@@ -133,12 +133,12 @@ Seagate Portable External Hard Drive ($59.99)
 
   <!-- Product Recommendation 4 -->
   <div style="background: #fffdf0; border-left: 4px solid #d69e2e; padding: 15px; margin: 20px 0; border-radius: 0 6px 6px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.05);" class="ncg-product-box">
-    <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0785238182?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: underline;">The Ruthless Elimination of Hurry</a> - $13.99. Encourages slowing down and prioritizing mental and spiritual health in an overwhelming modern culture.</p>
+    <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0785238182?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: underline;">The Ruthless Elimination of Hurry</a> - . Encourages slowing down and prioritizing mental and spiritual health in an overwhelming modern culture.</p>
   </div>
 
   <!-- Product Recommendation 5 -->
   <div style="background: #fffdf0; border-left: 4px solid #d69e2e; padding: 15px; margin: 20px 0; border-radius: 0 6px 6px 0; box-shadow: 0 1px 3px rgba(0,0,0,0.05);" class="ncg-product-box">
-    <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0310455850?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: underline;">NIV, Journal the Word Bible</a> - $24.99. A durable journal Bible ideal for recording prayers, reflections, and processing difficult life events through Scripture.</p>
+    <p style="margin: 0; font-size: 0.95rem;"><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0310455850?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; text-decoration: underline;">NIV, Journal the Word Bible</a> - . A durable journal Bible ideal for recording prayers, reflections, and processing difficult life events through Scripture.</p>
   </div>
 
   <section id="closing" style="margin-top: 40Prx; padding: 25px; background: #f8fafc; border-radius: 8px; border: 1px solid #e2e8f0;">

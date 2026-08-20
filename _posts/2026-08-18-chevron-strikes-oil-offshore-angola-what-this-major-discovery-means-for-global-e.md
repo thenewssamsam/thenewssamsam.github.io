@@ -24,7 +24,7 @@ source_url: 'https://oilprice.com/Latest-Energy-News/World-News/Chevron-Strikes-
 <p>When an energy giant like Chevron announces it has tapped more than 2,000 feet of total hydrocarbons in a single exploration well, the financial markets take notice. Behind the technical jargon of the Lower Congo Basin lies a simple economic reality: established oil basins are far from dead, provided the infrastructure is already there to capture the windfall.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></p>
 
 <p>For Angola, a nation that once pumped close to 2 million barrels of crude a day before watching its output slide, this new discovery offers more than just corporate revenue. It represents a potential lifeline for a national economy deeply dependent on petroleum exports. But beyond the geological celebration, how does an offshore strike in West Africa actually ripple through capital markets, corporate balance sheets, and everyday energy costs?</p>
@@ -105,7 +105,7 @@ Seagate Portable External Hard Drive ($59.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -113,7 +113,7 @@ Seagate Portable External Hard Drive ($59.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

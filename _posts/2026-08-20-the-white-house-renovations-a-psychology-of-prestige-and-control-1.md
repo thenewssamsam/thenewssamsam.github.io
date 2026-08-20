@@ -19,7 +19,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/19/trump-white-house-r
   </header>
 
   <section id="hook">
-    <p>As the United States grapples with a $40 trillion national debt and the ongoing conflict in Iran, President Donald Trump recently diverted attention to his latest project: an extensive renovation of the White House grounds. While critics argue this focus ignores pressing national crises, the act of "building" serves as a profound psychological anchor for the president, revealing deep-seated patterns of behavior regarding power, legacy, and the need for tangible control.</p>
+    <p>As the United States grapples with a  trillion national debt and the ongoing conflict in Iran, President Donald Trump recently diverted attention to his latest project: an extensive renovation of the White House grounds. While critics argue this focus ignores pressing national crises, the act of "building" serves as a profound psychological anchor for the president, revealing deep-seated patterns of behavior regarding power, legacy, and the need for tangible control.</p>
   </section>
 
   <section id="what-happened">
@@ -32,7 +32,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/19/trump-white-house-r
     <p>From a psychological standpoint, the focus on physical construction during times of national turbulence is a classic manifestation of <em>locus of control</em>. When leaders face complex, abstract, or uncontrollable systemic issues—like a massive national debt or a protracted foreign conflict—they often experience significant cognitive dissonance. Managing these problems is difficult, invisible, and slow. By contrast, renovating a driveway or laying sod is immediate, visible, and entirely within one’s command.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-FitVille Comfortable Running Shoes ($69.99)
+FitVille Comfortable Running Shoes 
 </a></div>
 
 
@@ -44,7 +44,7 @@ FitVille Comfortable Running Shoes ($69.99)
     <p>Psychologists often note that individuals who have spent their careers in real estate—a field defined by leaving a permanent mark on a skyline—find it difficult to transition to the abstract nature of governance. The "builder" persona is not just a job title; it is a way of externalizing self-worth. By upgrading the White House, the president is effectively "branding" the presidency with his own aesthetic, creating a physical testament to his presence that outlasts the daily headlines.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
 
@@ -52,7 +52,7 @@ CeraVe Hydrating Facial Cleanser ($14.99)
     <p>The president’s repeated comments that "grass has a life like humans" suggest a desire to project order and vitality onto his environment. This is a form of <em>anthropomorphism</em>, where the leader projects their own values or concerns onto inanimate objects. If the grass is "happy" and "high quality," it serves as a proxy for the success and health of the administration itself.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Hydrating Facial Cleanser ($14.99)
+CeraVe Hydrating Facial Cleanser 
 </a></div>
 
   </section>
@@ -62,14 +62,14 @@ CeraVe Hydrating Facial Cleanser ($14.99)
     <p>This situation invites us to reflect on the difference between building for one's own name and building for the good of the community. In the Gospel of Luke, Jesus warns, <em>"For what is a man profited if he gains the whole world, and loses or forfeits himself?"</em> (Luke 9:25, ESV). This reminds us that our true legacy is found not in the permanence of granite or the beauty of a lawn, but in the character we cultivate and the people we serve.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-AMANSSE Lightweight Running Shoes ($65.99)
+AMANSSE Lightweight Running Shoes 
 </a></div>
 
     
     <p>Furthermore, Proverbs 27:2 reminds us, <em>"Let another praise you, and not your own mouth; a stranger, and not your own lips."</em> When we are so focused on our own achievements, we risk losing sight of the humility required to truly lead. It is a gentle reminder for all of us to examine what we are building in our own lives—are we seeking to leave a monument to ourselves, or are we striving to be good stewards of the responsibilities we have been given?</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-AMANSSE Lightweight Running Shoes ($65.99)
+AMANSSE Lightweight Running Shoes 
 </a></div>
 
   </section>
@@ -79,7 +79,7 @@ AMANSSE Lightweight Running Shoes ($65.99)
     <p>When observing leaders or influencers fixated on outward displays of success during troubled times, it is helpful to:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-FitVille Comfortable Running Shoes ($69.99)
+FitVille Comfortable Running Shoes 
 </a></div>
 
     <ul>

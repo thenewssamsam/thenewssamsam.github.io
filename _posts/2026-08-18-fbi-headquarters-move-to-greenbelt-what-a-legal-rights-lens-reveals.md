@@ -21,7 +21,7 @@ source_url: 'https://www.nbcwashington.com/news/local/judge-blocks-plan-to-scrap
     <p>A federal judge has issued a significant ruling blocking efforts to abandon the long-planned relocation of the FBI headquarters to Greenbelt, Maryland. The decision, which halts the Trump administration's attempt to keep the bureau at the Ronald Reagan Building in Washington, D.C., brings a momentary end to a high-stakes legal battle over the use of congressionally approved funds and administrative authority.</p>
 <!-- Amazon Associates Recommendation -->
 <p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></p>
 
   </section>
@@ -29,7 +29,7 @@ Tactical Waterproof Backpack ($35.99)
   <section id="what-happened">
     <h2>What Happened?</h2>
     <p>For over 15 years, the federal government has debated the future of the FBI's headquarters. In 2023, the site in Greenbelt, Maryland, was formally selected as the winner of a competitive process. However, following a leadership change, FBI Director Kash Patel announced a pivot to the Ronald Reagan Building in D.C.</p>
-    <p>Maryland officials, led by the Attorney General’s office, filed a lawsuit arguing that this redirection was an illegal attempt to divert $300 million in funds specifically appropriated by Congress for the Greenbelt project. The court's ruling effectively forces the government to honor the original selection process, citing concerns over executive overreach regarding congressionally mandated spending.</p>
+    <p>Maryland officials, led by the Attorney General’s office, filed a lawsuit arguing that this redirection was an illegal attempt to divert  million in funds specifically appropriated by Congress for the Greenbelt project. The court's ruling effectively forces the government to honor the original selection process, citing concerns over executive overreach regarding congressionally mandated spending.</p>
   </section>
 
   <section id="legal-perspective">
@@ -47,7 +47,7 @@ Tactical Waterproof Backpack ($35.99)
     <h2>Why It Matters to You</h2>
     <p>While this may seem like a high-level bureaucratic dispute, it affects the public in two distinct ways:</p>
     <ul>
-      <li><strong>Economic Impact:</strong> Prince George’s County stands to gain an estimated $4 billion investment and 7,500 jobs. For local residents, the stability of this project directly correlates to long-term economic growth and infrastructure development.</li>
+      <li><strong>Economic Impact:</strong> Prince George’s County stands to gain an estimated  billion investment and 7,500 jobs. For local residents, the stability of this project directly correlates to long-term economic growth and infrastructure development.</li>
       <li><strong>Governance and Accountability:</strong> The case establishes a precedent for how federal agencies must interact with congressional funding directives. It reinforces the idea that taxpayer-funded projects cannot be shifted based on sudden political changes without proper legal and legislative vetting.</li>
     </ul>
   </section>
@@ -86,7 +86,7 @@ Tactical Waterproof Backpack ($35.99)
 <div class="recommendations-grid">
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    <div class="product-price">$35.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>
@@ -94,7 +94,7 @@ Tactical Waterproof Backpack ($35.99)
 </div>
 <div class="amazon-product-card">
     <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    <div class="product-price">$59.99</div>
+    
     <div class="product-button">
         <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
     </div>

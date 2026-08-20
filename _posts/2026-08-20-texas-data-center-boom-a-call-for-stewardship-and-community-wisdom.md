@@ -27,15 +27,15 @@ source_url: 'https://www.kut.org/energy-environment/2026-08-19/austin-tx-texas-d
     <p>The rapid expansion of data centers across Texas, particularly around the Austin area, has brought significant strain on local water, electricity, and land resources. While these facilities promise technological advancement, they also demand immense utility consumption that often competes with the needs of local residents. The "Death Star" bill (HB 2127) has further complicated the situation by limiting local municipalities' ability to enact their own zoning bans, leaving many communities feeling powerless.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <div style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
-      <p><strong>Recommendation:</strong> <em>The Tech-Wise Family</em> by Andy Crouch. A thoughtful guide on how to integrate technology into our lives without letting it consume our values. <strong>Price: $14.99</strong></p>
+      <p><strong>Recommendation:</strong> <em>The Tech-Wise Family</em> by Andy Crouch. A thoughtful guide on how to integrate technology into our lives without letting it consume our values. <strong></strong></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     </div>
@@ -43,7 +43,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Governor Abbott’s recent directives requiring audits of power and water usage suggest a realization that uncontrolled growth may come at too high a cost to the neighborhoods housing these servers. However, the legal limbo facing cities like Taylor and Hays County highlights a deep-seated tension between state-level economic ambition and local-level quality of life.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -53,14 +53,14 @@ Tactical Waterproof Backpack ($35.99)
     <p>When we look at the rapid, often disruptive growth of data centers, we are reminded of the biblical call to be faithful stewards of the earth and our neighbors. Stewardship is not merely about preserving resources; it is about managing them in a way that reflects care for the common good. <em>"The earth is the Lord’s, and everything in it, the world, and all who live in it"</em> (Psalm 24:1, NIV). This foundational truth invites us to consider that every acre of land and every drop of water is ultimately held in trust.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>In our modern economy, there is a constant pressure to prioritize speed and output. Yet, scripture offers a different rhythm. <em>"Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect"</em> (Romans 12:2, ESV). This verse encourages us to move beyond mere compliance or economic convenience and to seek what is truly "good" for the flourishing of our communities.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -71,7 +71,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>When we analyze the conflict between data center developers and local residents, we see a clash between the desire for progress and the need for stability. True wisdom requires us to ask: Are we building systems that serve people, or are we sacrificing the well-being of the vulnerable for the sake of efficiency? A community that feels unheard is a community that is losing its sense of dignity. We must advocate for development that doesn't just calculate for profit, but calculates for the longevity and health of the people who live nearby.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>
@@ -90,7 +90,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>The data center debate in Texas is a mirror reflecting our broader challenge: how to inhabit a world of rapid change without losing our sense of neighborliness. By approaching these conflicts with a spirit of stewardship rather than just opposition, we can seek solutions that honor both our technological future and our local communities. Let us strive to be builders of places that reflect justice and care.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>

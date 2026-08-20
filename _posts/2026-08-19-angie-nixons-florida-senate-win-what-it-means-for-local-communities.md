@@ -21,25 +21,25 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vi
 
   <section id="what-happened">
     <h2>The Results That Shook the State</h2>
-    <p>The primary election results caught many political analysts off guard. Alexander Vindman, who entered the race with significant national name recognition and a $16.3 million war chest, was widely expected to secure the nomination. However, Nixon—who raised less than $1 million—leveraged her long-standing connections to Florida communities to secure the win.</p>
+    <p>The primary election results caught many political analysts off guard. Alexander Vindman, who entered the race with significant national name recognition and a  million war chest, was widely expected to secure the nomination. However, Nixon—who raised less than  million—leveraged her long-standing connections to Florida communities to secure the win.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Nixon, born in Jacksonville, has spent nearly two decades as an organizer. Her campaign focused heavily on local issues, including direct opposition to Governor Ron DeSantis’s policies. Her recent sit-in at the governor’s office regarding redistricting, which resulted in legal challenges, appears to have resonated deeply with voters tired of the traditional establishment approach.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
 
   <div class="ncg-product-box" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
-    <p><strong>Recommended:</strong> <a href="#">Florida Politics: A Guide to Local Governance ($19.99)</a> - Understand the state-level shifts impacting your community.</p>
+    <p><strong>Recommended:</strong> <a href="#">Florida Politics: A Guide to Local Governance </a> - Understand the state-level shifts impacting your community.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </div>
@@ -49,7 +49,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>For the average Floridian, this result is more than just a headline; it represents a shift in how political candidates are engaging with local concerns. Nixon’s victory suggests that voters are increasingly prioritizing candidates who have "been in the trenches" with them.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     
@@ -57,7 +57,7 @@ Tactical Waterproof Backpack ($35.99)
     <p>Nixon’s campaign strategy bypassed the traditional "top-down" approach favored by many establishment candidates. For communities in Jacksonville and beyond, this means a candidate who emphasizes local legislative battles—such as housing, public education, and district representation—over national-level talking points. This grassroots success may encourage future local candidates to focus on community-level engagement rather than relying solely on large-dollar fundraising.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
 
@@ -69,7 +69,7 @@ Seagate Portable External Hard Drive ($59.99)
     <p>The contrast between Nixon’s win and the victories of establishment Democrats like Debbie Wasserman Schultz shows that Florida’s political identity remains deeply divided. While some districts are sticking to centrist paths, others are clearly hungry for a more progressive, community-centered approach to governance.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive ($59.99)
+Seagate Portable External Hard Drive 
 </a></div>
 
   </section>
@@ -79,19 +79,19 @@ Seagate Portable External Hard Drive ($59.99)
     <p>As we watch these political shifts, it is a reminder of the importance of serving the community with integrity. In our daily lives, we are called to be faithful stewards of the resources and influence we have, whether in our neighborhoods or in the halls of government.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p><em>"Each of you should use whatever gift you have received to serve others, as faithful stewards of God’s grace in its various forms."</em> (1 Peter 4:10, NIV). This verse invites us to consider that true leadership is rooted in service to the "least of these" in our own communities. When we engage in our local civic life, we do so with the responsibility to represent the needs of our neighbors rather than our own interests.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
     <p>This makes me think about how often we look for change from the "top down" when the most profound impacts actually happen at the local level, where we live, work, and interact with our neighbors every single day.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack ($35.99)
+Tactical Waterproof Backpack 
 </a></div>
 
   </section>

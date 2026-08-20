@@ -27,7 +27,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/19/trump-white-house-r
     <p>During a 40-minute media tour, President Trump highlighted upgrades to the executive mansion, including refurbished columns and new landscaping. The centerpiece of the presentation was a new helipad—which the president noted could double as a cocktail patio—featuring an inscribed stone bearing his name. Trump, drawing on his background as a real estate developer, emphasized the quality of the materials used, noting that the grass for the grounds was provided by a campaign contributor, Scotts Miracle-Gro.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Skin Renewing Night Cream ($18.99)
+CeraVe Skin Renewing Night Cream 
 </a></div>
 
   </section>
@@ -36,7 +36,7 @@ CeraVe Skin Renewing Night Cream ($18.99)
     <p><strong>Recommended:</strong> Professional Grade Gardening Tools - <a href="#">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Lenovo Legion Tower Gaming PC ($899.99)
+Lenovo Legion Tower Gaming PC 
 </a></div>
 
   </div>
@@ -46,14 +46,14 @@ Lenovo Legion Tower Gaming PC ($899.99)
     <p>Throughout history, leaders have often turned to massive construction projects or aesthetic upgrades during periods of internal or external instability. This phenomenon—often referred to as "monumentalism"—serves a dual purpose: it acts as a distraction from policy failures and serves as a tangible assertion of control when other areas of governance feel chaotic.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Skin Renewing Night Cream ($18.99)
+CeraVe Skin Renewing Night Cream 
 </a></div>
 
     
     <p>Consider the historical parallels of leaders who focused on the physical environment of their seats of power during times of national debt or war. When a leader emphasizes "building" during a crisis, they are often attempting to project a sense of permanence and competence. However, historians note that this strategy is a double-edged sword. While it can rally supporters who value strength, it often alienates citizens who feel the disconnect between the leader's focus on granite and their own daily economic struggles.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Vitamin C Brightening Serum ($16.99)
+CeraVe Vitamin C Brightening Serum 
 </a></div>
 
 
@@ -66,7 +66,7 @@ CeraVe Vitamin C Brightening Serum ($16.99)
     <p><strong>Recommended:</strong> History of the White House Architecture Book - <a href="#">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Skin Renewing Night Cream ($18.99)
+CeraVe Skin Renewing Night Cream 
 </a></div>
 
   </div>
@@ -76,13 +76,13 @@ CeraVe Skin Renewing Night Cream ($18.99)
     <p>This news invites us to reflect on the nature of stewardship. In the Bible, there is a recurring theme regarding where we place our focus and what we choose to build. Luke 12:15 reminds us: <em>"Take care, and be on your guard against all covetousness, for one's life does not consist in the abundance of his possessions."</em></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Skin Renewing Night Cream ($18.99)
+CeraVe Skin Renewing Night Cream 
 </a></div>
 
     <p>It is easy to become preoccupied with the outward appearance of our lives or our projects, especially when we face uncertainty. Yet, Proverbs 29:18 suggests that without a higher vision—one rooted in justice and wisdom rather than merely the physical or the temporary—a nation or an individual can lose their way. This moment serves as a reminder to consider whether our own efforts are focused on building things that have lasting, eternal value, or if we are merely seeking to leave a mark in stone that may soon be forgotten.</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Lenovo Legion Tower Gaming PC ($899.99)
+Lenovo Legion Tower Gaming PC 
 </a></div>
 
   </section>
@@ -92,7 +92,7 @@ Lenovo Legion Tower Gaming PC ($899.99)
     <p>For the average citizen, the reaction to such news should be one of discernment. When leaders focus on aesthetics during crisis, ask yourself:</p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Skin Renewing Night Cream ($18.99)
+CeraVe Skin Renewing Night Cream 
 </a></div>
 
     <ul>
@@ -106,7 +106,7 @@ CeraVe Skin Renewing Night Cream ($18.99)
     <p><strong>Recommended:</strong> Financial Planning Journal - <a href="#">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
 <div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-CeraVe Vitamin C Brightening Serum ($16.99)
+CeraVe Vitamin C Brightening Serum 
 </a></div>
 
   </div>
