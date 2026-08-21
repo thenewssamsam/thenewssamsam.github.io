@@ -37,7 +37,7 @@ source_url: 'https://www.ksbw.com/article/lifeguard-saved-boy-seabright-beach-me
     <p>On July 25, at Santa Cruz, California's Seabright State Beach, 16-year-old lifeguard Ryder Williams was watching the water on a day when heavy crowds, warm weather, and a dangerous swell were already keeping rescue towers busy. In an instant, routine vigilance turned into a desperate fight against the ocean.</p>
     <p>Ten-year-old Nathaniel Rai lost his footing in ankle-deep water, swept off his feet by a powerful wave. Williams didn't hesitate: he radioed for backup, dropped his sunglasses, and plunged into the churning surf. Due to the severe conditions, he couldn't get a rescue tube around the boy. Instead, Williams wrapped his arms around Nathaniel, holding him tight as wave after wave crashed over them both, at times burying them completely.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

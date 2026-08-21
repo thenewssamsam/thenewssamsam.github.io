@@ -23,7 +23,7 @@ source_url: "https://www.psu.edu/news/campus-life/story/penn-state-responds-seri
 
 <p>In response, Penn State officials moved swiftly. The university placed Delta Upsilon on an immediate interim suspension while the Office of Student Accountability and Conflict Response launches a formal investigation. University leaders noted that Sigma Chi is already an unrecognized organization operating completely outside institutional oversight. Andrea Dowhower, vice president for Student Affairs, expressed shock at the allegations, stating that criminal activity and hazing have no place at the institution and pledging full cooperation with law enforcement.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

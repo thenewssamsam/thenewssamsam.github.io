@@ -27,7 +27,7 @@ source_url: 'https://www.independent.co.uk/news/world/americas/us-politics/trump
 
 <p>Accusing Bream of being "so biased against MAGA," Trump resurrected the "Milktoast" moniker—a recurring typo for <em>milquetoast</em>, denoting a timid or feeble person—which he had previously used against her in June after a segment regarding Immigration and Customs Enforcement arrest statistics. The president also criticized Fox anchors like Bret Baier over approval rating polls and lamented the bygone era of Chris Wallace.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

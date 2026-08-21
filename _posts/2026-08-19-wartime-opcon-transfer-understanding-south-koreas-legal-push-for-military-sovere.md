@@ -23,7 +23,7 @@ source_url: "https://www.theguardian.com/world/2026/aug/18/south-korea-president
     <h2>What is the Opcon Transfer?</h2>
     <p>Since the Korean War, the command structure on the peninsula has been unique. While South Korea regained peacetime control in 1994, the authority to command forces in the event of renewed hostilities—known as wartime Opcon—has remained with the head of the Combined Forces Command, a position held by a US four-star general. President Lee's government views the transition of this authority as the final step in establishing full national military sovereignty.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -33,7 +33,7 @@ Tactical Waterproof Backpack
     <h2>A Legal Perspective on Military Sovereignty</h2>
     <p>From a legal standpoint, the status of the South Korean military is defined by the 1953 Armistice Agreement and subsequent mutual defense treaties. It is important to note that the Korean War technically never ended with a formal peace treaty, which provides the legal basis for the ongoing presence of the United Nations Command (UNC).</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -41,7 +41,7 @@ Seagate Portable External Hard Drive
     <div class="ncg-legal-note" style="border: 1px solid #666; padding: 15px; background: #f9f9f9; border-left: 5px solid #5d3fd3; margin: 20px 0;">
       <p><strong>Note:</strong> This is general information, not legal advice. Consult a licensed attorney regarding international law or specific national security statutes.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -50,7 +50,7 @@ Seagate Portable External Hard Drive
     <h3>The Framework of the Alliance</h3>
     <p>The transition of wartime Opcon is not merely a political preference; it is a complex legal process involving the certification of South Korean readiness. Under the current alliance framework, the US maintains command responsibility, which carries specific obligations and legal liabilities under international protocols. For Seoul to assume these responsibilities, it must demonstrate an integrated command capability that meets the stringent requirements set by the Combined Forces Command.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -64,14 +64,14 @@ Seagate Portable External Hard Drive
     <h2>A Biblical Perspective on Stewardship</h2>
     <p>As nations navigate the weight of security and self-governance, we are reminded of the importance of wisdom and responsible stewardship. Proverbs 24:6 tells us, <em>"For by wise guidance you can wage your war, and in abundance of counselors there is victory."</em> This serves as a reminder that whether in personal life or international relations, the path to peace requires careful planning and a reliance on wise counsel rather than impulsive actions.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>In the midst of geopolitical tension, there is an invitation to seek a spirit of discernment. Psalm 127:1 reminds us, <em>"Unless the Lord builds the house, those who build it labor in vain. Unless the Lord watches over the city, the watchman stays awake in vain."</em> This perspective invites us to balance our efforts toward security with a humble recognition that true peace is ultimately sustained by something greater than military hardware or political maneuvering.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

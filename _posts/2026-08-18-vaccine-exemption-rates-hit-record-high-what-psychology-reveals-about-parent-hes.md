@@ -38,7 +38,7 @@ source_url: 'https://abcnews.com/Health/exemption-rate-routine-childhood-vaccine
     <p>According to new data released by the Centers for Disease Control and Prevention (CDC), exemptions from routine childhood vaccinations among U.S. kindergarteners increased to 4.2% during the 2025–26 school year. That figure marks an increase from 3.6% the previous year and a stark jump from the 2.2% baseline recorded during the 2020–21 school year. The vast majority of these exemptions were for non-medical reasons.</p>
     <p>Simultaneously, coverage for the measles, mumps, and rubella (MMR) vaccine dipped to 92.4%. This puts national coverage below the 95% benchmark that physicians and epidemiologists rely on to maintain community-level herd immunity. Other routine immunizations saw minor declines or remained flat, including drops in DTaP and varicella coverage rates, even as local measles outbreaks made headlines nationwide.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

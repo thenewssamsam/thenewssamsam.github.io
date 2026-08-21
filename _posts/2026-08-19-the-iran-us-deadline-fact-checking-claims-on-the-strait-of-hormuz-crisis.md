@@ -24,7 +24,7 @@ source_url: "https://www.foxnews.com/politics/iran-fails-strike-deal-us-deadline
 
 <p>In high-stakes geopolitical conflicts, the distance between official statements and on-the-ground reality is often vast. Below are the key claims currently surrounding the Iran-U.S. impasse, evaluated against available reporting.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -33,7 +33,7 @@ Tactical Waterproof Backpack
 <summary><strong>Myth: The Strait of Hormuz has been permanently closed by Iran.</strong></summary>
 <p><strong>Fact:</strong> While the waterway is severely restricted and dangerous, it is not "closed" in a total sense. Iran continues to assert control over traffic, and the U.S. continues to enforce a naval blockade. The reality is a high-risk "gray zone" where commercial vessels face significant threats, leading to a sharp reduction in traffic rather than a complete cessation of movement.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -43,7 +43,7 @@ Tactical Waterproof Backpack
 <summary><strong>Myth: The U.S. has run out of all precision-guided munitions.</strong></summary>
 <p><strong>Fact:</strong> While reports indicate that U.S. stocks of ATACMS and Tomahawk missiles have been significantly depleted, they are not empty. The Pentagon has acknowledged the strain on inventory and is actively working with defense contractors to accelerate production. The situation is one of <em>diminished capacity</em>, not total exhaustion of combat capability.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -57,7 +57,7 @@ Tactical Waterproof Backpack
 
 <p>Watching the hardening of hearts in international diplomacy often brings to mind the wisdom found in Proverbs 15:1: "A gentle answer turns away wrath, but a harsh word stirs up anger." In the midst of threats and demands for surrender, it is easy for leaders and citizens alike to fall into a cycle of pride. Scripture reminds us that true wisdom often looks like patience and the pursuit of peace, even when the pressure to escalate is immense. James 1:19-20 further invites us to be "quick to listen, slow to speak and slow to become angry, because human anger does not produce the righteousness that God desires." As we observe these events, we are reminded that political outcomes are not solely in the hands of the powerful, and that there is a higher standard of justice and humility to which we are all called.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -70,7 +70,7 @@ Tactical Waterproof Backpack
 
 <p>With the 60-day MOU expired, the administration faces three likely paths:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -88,7 +88,7 @@ Seagate Portable External Hard Drive
 
 <p>For the ordinary reader, this conflict is primarily felt through energy prices and market volatility. While the urge to react to sensational headlines is strong, the most practical response is to stay informed through verified, multi-source reporting. Avoid falling for rumors regarding "secret deals" or imminent total war; instead, watch for official updates from CENTCOM and the White House. Stewardship of your own resources—maintaining a buffer in your personal budget for energy price fluctuations—is a more prudent approach than reacting to the daily fluctuations of the news cycle.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

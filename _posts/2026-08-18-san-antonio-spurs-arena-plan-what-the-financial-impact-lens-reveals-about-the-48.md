@@ -26,7 +26,7 @@ source_url: 'https://news4sanantonio.com/news/local/san-antonio-city-council-rej
     <p>San Antonio voters will not get a direct ballot measure this November to decide on the city's  million contribution toward a proposed  billion downtown arena for the Spurs. In a narrow 6-5 vote, the City Council rejected a push for a referendum, leaving the project to move forward under previously established nonbinding financing terms.</p>
     <p>For taxpayers, local businesses, and municipal budget watchers, this vote raises a fundamental question: how are massive public-private sports projects actually paid for, and who carries the financial risk when multi-million dollar stadium developments break ground?</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

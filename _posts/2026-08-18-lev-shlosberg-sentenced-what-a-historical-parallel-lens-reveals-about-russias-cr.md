@@ -37,7 +37,7 @@ source_url: 'https://apnews.com/article/russia-ukraine-shlosberg-crackdown-elect
 <p>On Monday, a Russian court in the northwestern city of Pskov convicted Lev Shlosberg—a 63-year-old veteran politician, deputy chairman of the Yabloko party, and former regional legislator—on charges of "discrediting" and spreading "false information" about the Russian military. The sentence: 11 years and one month in a penal colony.</p>
 <p>The charges stemmed from a political debate where Shlosberg advocated for ending the war in Ukraine, as well as a post on his Telegram channel featuring a British tabloid front page with a critical headline about Russian leadership. It was Shlosberg's second trial in two years, following his designation as a "foreign agent" and his placement in pretrial detention in December 2025.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

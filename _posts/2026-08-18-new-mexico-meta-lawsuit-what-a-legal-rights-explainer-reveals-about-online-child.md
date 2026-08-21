@@ -41,7 +41,7 @@ source_url: 'https://www.theguardian.com/technology/2026/aug/17/raul-torrez-new-
       The court's remedy package includes mandatory operational reforms effective for five years: strict age verification tools, enhanced safety safeguards, overnight limits on push notifications, and mandatory time-use limits for users under 18. Rather than letting the matter rest after securing the judgment, AG Raúl Torrez is now working with state lawmakers to introduce robust new legislation designed to close regulatory loopholes, remove caps on consumer protection penalties, and establish a broader legal framework encompassing artificial intelligence and chatbots.
     </p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

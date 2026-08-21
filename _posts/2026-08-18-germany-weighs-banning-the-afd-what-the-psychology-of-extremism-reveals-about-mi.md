@@ -37,7 +37,7 @@ source_url: 'https://www.democrata.es/en/international/germany-is-considering-th
 <h2>What Is Happening in Germany Right Now?</h2>
 <p>The conversation around banning the Alternative for Germany (AfD) has moved from fringe political commentary into the mainstream legislative arena. Spurred by an open letter signed by more than 1,000 legal scholars and a detailed study by the civil rights defense organization Gesellschaft für Freiheitsrechte, pressure is mounting on federal institutions to take formal action.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

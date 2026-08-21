@@ -26,7 +26,7 @@ source_url: ''
     
     <p>In the aftermath, outfielder Corbin Carroll addressed the media with a candid assessment of the day's events, describing a locker room caught between professional preparation and genuine human worry. While sports headlines often focus strictly on box scores and standings, moments like this offer a fascinating window into group psychology, normative behavior under stress, and the delicate balance between workplace performance and empathy.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

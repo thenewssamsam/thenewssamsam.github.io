@@ -170,7 +170,7 @@ source_url: 'https://www.investors.com/research/micron-technology-stock-mu-memor
   
   <p>According to reports from Investor's Business Daily, Micron Technology has landed a coveted spot among Monday's IBD 50 Growth Stocks to Watch. The company's stock recently clawed its way back from previous lows, reaching an early entry point on Monday as part of a classic technical consolidation pattern.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

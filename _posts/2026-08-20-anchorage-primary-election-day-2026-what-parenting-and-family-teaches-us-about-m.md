@@ -102,14 +102,14 @@ source_url: "https://www.adn.com/politics/2026/08/18/in-photos-candidates-compet
 
 <p>Tuesday marked the statewide primary election across Alaska, bringing a burst of intense campaign activity to major hubs like Anchorage. Candidates from various political arenas sought to capture the final attention of undecided voters. Volunteers gathered in support groups, while residents filled municipal and neighborhood polling locations to make their voices heard on everything from federal legislative seats to state leadership.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Elections can often feel like abstract, distant events dominated by television commercials and social media arguments. Yet street-corner sign waving and lines at community centers ground democracy in physical reality. They remind us that local governance relies on human effort, physical presence, and active community involvement.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -122,14 +122,14 @@ Tactical Waterproof Backpack
 
 <p>Children rarely learn values through lectures alone; they learn by watching how adults inhabit their communities. When kids see parents researching candidates, discussing community issues calmly at the dinner table, or taking them along to the local polling place, they internalize a profound lesson: my voice matters, and participating in society requires effort.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Parenting experts often emphasize that building civic health starts long before a teenager turns eighteen. It begins with age-appropriate conversations about fairness, cooperation, and how groups make decisions together. Whether your kids are young children watching enthusiastic volunteers on an Anchorage street corner or teenagers forming their own political opinions, primary election day provides a natural opening for dialogue.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -144,7 +144,7 @@ Seagate Portable External Hard Drive
 
 <p>As parents, we also carry the responsibility of managing how political stress affects family life. Bitter campaigns and polarized news cycles can create anxiety in sensitive children. When kids express confusion or worry about political tension in the news, it gives us an opportunity to reassure them. We can explain that disagreements are a normal part of a free society, and that healthy communities find ways to work together despite differences.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -157,14 +157,14 @@ Tactical Waterproof Backpack
 
 <p>This dynamic makes me think about the timeless wisdom found in Scripture regarding our duty to our neighbors and communities. The Apostle Paul reminds us in Galatians 6:9, "Let us not grow weary of doing good, for in due season we will reap, if we do not give up." Participating in the civic life of our towns and state requires patience, perseverance, and a genuine care for the welfare of those around us.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Furthermore, Proverbs 11:14 offers practical insight into collective decision-making: "Where there is no guidance, a people falls, but in an abundance of counselors there is safety." When citizens engage thoughtfully in elections, weigh different perspectives, and participate in local governance, communities grow stronger and more resilient for future generations.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -177,7 +177,7 @@ Seagate Portable External Hard Drive
 
 <p>You don't need to run for office or manage a campaign to teach your children the value of civic duty. Here are a few practical, age-appropriate ways to engage:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

@@ -49,7 +49,7 @@ source_url: 'https://www.nbcmiami.com/news/local/jose-suarez-telemundo-death-hel
 <h2>Remembering a Visionary Media Leader</h2>
 <p>For those who worked alongside him, Suárez was much more than a title on an organizational chart. With a career spanning more than 25 years in television and journalism, he was known as a passionate advocate for the communities his stations served. Over 18 combined years with Telemundo and NBC stations, he led markets from Fresno and Las Vegas to San Antonio, Utah, and Florida.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -59,7 +59,7 @@ Tactical Waterproof Backpack
 </div>
 <p>Colleagues remember him as a leader who brought energy, humor, and a genuine sense of purpose to the newsroom. His multiple Emmy Awards and Associated Press honors reflect professional excellence, but the tributes pouring in from network executives emphasize his deep care for people. His sudden absence leaves a quiet void in the industry he helped shape.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -69,7 +69,7 @@ Seagate Portable External Hard Drive
 <h2>A Biblical Reflection on Life's Brevity</h2>
 <p>Tragedies like the one in Samburu County confront us with an unsettling truth: we are never guaranteed tomorrow. In our modern, highly planned lives, we often build schedules, careers, and ambitions as though our time on earth is a permanent fixture rather than a fleeting gift.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -79,41 +79,41 @@ Tactical Waterproof Backpack
 </div>
 <p>Scripture addresses this universal human condition with striking honesty. James reminds us of how fragile our mortal plans truly are:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 <blockquote style="border-left: 3px solid #ccc; margin: 15px 0; padding-left: 15px; color: #444;">
 <p><em>“Yet you do not know what tomorrow will bring. What is your life? For you are a mist that appears for a little time and then vanishes.”</em> (James 4:14, ESV)</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 </blockquote>
 <p>This verse does not invite despair, but rather a re-centering of our priorities. When we watch a successful career end in the blink of an eye halfway across the world, we are reminded that our true security cannot be found in professional titles, travel itineraries, or earthly achievements.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 <p>At the same time, the Bible speaks comfort into the grief of sudden separation. The Psalmist writes:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 <blockquote style="border-left: 3px solid #ccc; margin: 15px 0; padding-left: 15px; color: #444;">
 <p><em>“The Lord is near to the brokenhearted and saves the crushed in spirit.”</em> (Psalm 34:18, ESV)</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 </blockquote>
 <p>For the grieving family and colleagues of José Suarez, faith offers the anchor that human institutions cannot provide—the assurance that sorrow is witnessed and held by a compassionate Creator.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -123,7 +123,7 @@ Seagate Portable External Hard Drive
 <h2>How Should Christians Respond?</h2>
 <p>When heartbreaking news touches public figures and community leaders, how should believers process the event in daily life? Here are three practical ways to respond:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

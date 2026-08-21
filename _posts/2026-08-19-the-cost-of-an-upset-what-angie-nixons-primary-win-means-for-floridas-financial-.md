@@ -28,7 +28,7 @@ source_url: "https://www.foxnews.com/politics/progressive-florida-lawmaker-angie
 <h2>The Economics of the Nixon Platform</h2>
 <p>Nixon’s campaign has centered on an unapologetically progressive economic agenda. From a financial impact standpoint, her proposals represent a significant departure from current market-oriented approaches in the Sunshine State.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -36,7 +36,7 @@ Seagate Portable External Hard Drive
 <h3>The Rent Freeze Proposal</h3>
 <p>One of Nixon's most discussed policies is a nationwide rent freeze for at least one year. While aimed at providing immediate relief to tenants facing rising housing costs, economists often point to the potential for unintended financial consequences. Historically, price controls can lead to reduced investment in housing maintenance and new construction, as landlords may lack the capital or incentive to improve properties when rental income is capped. For Florida households, this creates a short-term liquidity benefit balanced against the risk of long-term housing supply shortages.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -48,7 +48,7 @@ Tactical Waterproof Backpack
 <h3>Medicare-for-All and National Debt</h3>
 <p>Nixon has championed Medicare-for-All, a policy that requires a massive reallocation of federal spending. When asked about the impact on the national debt, Nixon stated that her primary concern is the "debt of hardworking, everyday people." From a federal budgeting perspective, transitioning to a single-payer system involves shifting costs from private insurance premiums to public tax structures. While this could lower out-of-pocket costs for individuals, the macro-financial impact depends entirely on how the program is funded and whether it achieves the projected administrative efficiencies.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -62,13 +62,13 @@ Tactical Waterproof Backpack
 <h2>A Reflection on Stewardship and Responsibility</h2>
 <p>In reflecting on the promises made during this campaign, I am reminded of the biblical principle of stewardship. <em>"For which of you, desiring to build a tower, does not first sit down and count the cost, whether he has enough to complete it?"</em> (Luke 14:28, ESV). This verse invites us to consider that whether we are managing a household budget, a business, or a government, there is a moral weight to the promises we make and the resources we oversee.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
  
 <p>It is easy to focus on the immediate relief of a burden, but true wisdom involves looking at the long-term impact on our neighbors. Scripture reminds us that we are called to be wise stewards of what we have, ensuring that our actions today do not unintentionally harm those we seek to help tomorrow. <em>"The plans of the diligent lead surely to abundance, but everyone who is hasty comes only to poverty."</em> (Proverbs 21:5, ESV). As voters, we are tasked with the difficult work of discerning which paths lead to genuine flourishing for our communities.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

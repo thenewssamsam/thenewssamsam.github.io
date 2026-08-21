@@ -33,7 +33,7 @@ source_url: 'https://finance.yahoo.com/energy/articles/chevron-confirms-major-oi
 <p>Chevron Corporation (NYSE:CVX), operating through its subsidiary Cabinda Gulf Oil Company Limited (CABGOC), announced a significant oil and gas condensate discovery at the 105-4X exploration well in Angola's offshore Block 0. Drilled in the Lower Congo Basin, the well struck an oil and gas condensate column stretching over 600 metres (2,000 feet) within the primary Pinda reservoir, delivering more than 90 metres (300 feet) of net pay.</p>
 <p>CABGOC holds a 39.2% working interest in Block 0, partnered alongside state-owned Sonangol E&P (41%), TotalEnergies (10%), and Azule Energy (9.8%). Rather than rushing to construct brand-new offshore production facilities from scratch, Chevron is evaluating potential development options by connecting the new find to nearby existing infrastructure.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

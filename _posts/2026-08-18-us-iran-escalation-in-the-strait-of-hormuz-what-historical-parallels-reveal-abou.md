@@ -39,7 +39,7 @@ source_url: ''
     
     <p>However, rather than capitulating under economic strain, Tehran has signaled a shift to a "fully offensive" posture. According to recent intelligence reports and statements from Iranian officials, the regime has reorganized its military strategy, deployed commanders to regional proxies, and prepared contingency measures—ranging from regional sabotage to challenging the U.S. naval presence directly. At the same time, logistical strains have emerged on the American side, including depleted interceptor stockpiles and fatigued naval carrier groups operating at historic lengths of deployment.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

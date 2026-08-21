@@ -50,7 +50,7 @@ source_url: "https://www.nbcboston.com/news/local/lindsay-clancy-trial-day-15-li
 <h2>The Duxbury Perspective: A Community Unsettled</h2>
 <p>For the residents of Duxbury and the wider South Shore community of Massachusetts, high-profile trials of this magnitude are rarely viewed through a purely legal lens. They strike at the very heart of local identity, safety, and mutual trust. When a tragedy occurs in a quiet, tight-knit residential neighborhood, the ripples extend far beyond police reports and courtroom exhibits.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -61,7 +61,7 @@ Seagate Portable External Hard Drive
 
 <p>Local communities often find themselves divided or deeply unsettled when complex medical defenses collide with devastating losses of young life. On one hand, neighbors and local observers grapple with the horror of what happened inside that home. On the other hand, healthcare advocates and mental health professionals in the region point to the urgent need for a deeper public understanding of postpartum psychiatric disorders. The trial forces local communities to confront uncomfortable realities about maternal mental health support systems, isolation among new parents, and the limits of institutional safety nets.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -73,7 +73,7 @@ Tactical Waterproof Backpack
 
 <p>Furthermore, courtroom moments like the contested "mortal sin" inquiry resonate intensely within local social circles and digital community forums. They highlight how deeply moral, religious, and ethical frameworks intertwine with public perceptions of guilt, accountability, and mercy. For local families following the daily updates, the case remains an ongoing emotional weight that defies simple categorization.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -83,7 +83,7 @@ Seagate Portable External Hard Drive
 <h2>Navigating Grief and Brokenness</h2>
 <p>Moments of profound community trauma often force individuals to look beyond legal arguments and confront deeper questions of human frailty. One cannot examine such deep sorrow without remembering that human minds and bodies are fragile vessels navigating a fallen world.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -94,7 +94,7 @@ Seagate Portable External Hard Drive
 
 <p>Scripture reminds us in Psalm 34:18 that "The Lord is close to the brokenhearted and saves those who are crushed in spirit." This verse offers a quiet reminder that where human understanding fails and legal battles rage, divine compassion meets those who suffer in ways hidden from public view. It invites communities to respond not with hasty condemnation, but with a humble recognition of our shared need for grace, patience, and profound healing.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

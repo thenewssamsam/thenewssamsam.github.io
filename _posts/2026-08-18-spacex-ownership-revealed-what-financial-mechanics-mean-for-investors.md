@@ -28,7 +28,7 @@ source_url: 'https://finance.yahoo.com/markets/article/spacexs-biggest-investors
 
 <p>The disclosures offer the first comprehensive look at SpaceX ownership since the company's public debut on June 12. Large institutional investment managers are required to report their US equity holdings every quarter, and the latest data package outlines massive multi-billion-dollar positions among a select group of players.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

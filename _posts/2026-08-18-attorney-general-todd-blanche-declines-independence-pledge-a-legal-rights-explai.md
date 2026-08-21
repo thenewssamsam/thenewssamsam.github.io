@@ -38,7 +38,7 @@ source_url: 'https://www.cnn.com/2026/08/16/politics/todd-blanche-trump-administ
 <h2>What Happened in the Blanche Interview?</h2>
 <p>During Sunday television interviews on NBC's "Meet the Press" and Fox News Sunday, newly confirmed Attorney General Todd Blanche addressed long-standing concerns regarding executive influence over federal prosecutions. When pressed by Kristen Welker on whether he could pledge absolute independence from the White House, Blanche offered a blunt response.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

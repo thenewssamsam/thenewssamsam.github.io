@@ -46,7 +46,7 @@ source_url: 'https://www.foxnews.com/politics/trump-threatens-unprecedented-econ
 
     <p>As leaders in Washington and Tehran exchange warnings, ordinary citizens across the region are left holding their breath, wondering how far this spiral of economic and military pressure will go.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -56,7 +56,7 @@ Seagate Portable External Hard Drive
     <h2>A Faith &amp; Scripture Perspective: Nations, Pride, and Power</h2>
     <p>Whenever headlines are dominated by talks of economic warfare, naval blockades, and the humbling of foreign regimes, it is natural for believers to seek a higher vantage point. Scripture has a great deal to say about the rise and fall of nations, the illusion of absolute security, and the danger of hubris.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -67,7 +67,7 @@ Tactical Waterproof Backpack
 
     <p>This passage reminds us that while earthly leaders wield immense economic and military leverage—likening their policies to historic turning points like D-Day—human strategies remain ultimately subject to divine sovereignty. Leaders on all sides often speak with absolute confidence in their capacity to crush opposition or secure total victory. Yet history and Scripture consistently show that earthly power is remarkably fragile.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -75,7 +75,7 @@ Tactical Waterproof Backpack
     <div class="ncg-quote-box">
         <p>"True security is never found in worthless currencies, naval blockades, or shifting alliances, but in the enduring justice and mercy of God."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -83,7 +83,7 @@ Seagate Portable External Hard Drive
 
     <p>Proverbs 16:18 offers a timeless warning regarding the pride of nations and rulers: <em>"Pride goes before destruction, a haughty spirit before a fall."</em> Whether applied to a regime projecting terror or global powers flexing economic might, this verse invites a sobering reflection. Human systems built primarily on coercion and retaliation rarely produce lasting peace. Instead, they highlight the brokenness of a world operating outside of divine reconciliation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -94,7 +94,7 @@ Tactical Waterproof Backpack
 
     <p>This makes me think about how quickly we place our trust in economic engines and deterrents. When currency values collapse and trade routes close, we witness firsthand how easily the material foundations of modern society can be shaken. One lesson is that our ultimate allegiance must transcend the shifting tides of geopolitical conflict.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -104,7 +104,7 @@ Tactical Waterproof Backpack
     <h2>The Human Cost and Regional Tremors</h2>
     <p>Behind the grand rhetoric of "economic D-Day" and secondary sanctions lie real human lives. Trade disruption, inflation, and severed regional ties invariably hit the vulnerable hardest—ordinary families living in the Gulf states, merchants caught in supply chain chokepoints, and citizens trapped under authoritarian governance.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -115,7 +115,7 @@ Seagate Portable External Hard Drive
 
     <p>When nations engage in total economic isolation, the collateral damage rarely spares the innocent. As believers, we are called to look past the political theater and remember the human dignity of populations caught in the crossfire. Leaders may calculate leverage in billions of dollars and barrels of oil, but every statistic represents a human soul bearing the image of God.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -125,7 +125,7 @@ Seagate Portable External Hard Drive
     <h2>How Should Christians Respond?</h2>
     <p>When facing international crises and economic threats, it is easy to become consumed by anxiety or partisan division. Scripture points us toward a different posture:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

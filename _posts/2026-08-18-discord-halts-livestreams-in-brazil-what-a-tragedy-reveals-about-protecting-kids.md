@@ -39,7 +39,7 @@ source_url: 'https://apnews.com/article/brazil-discord-children-social-media-f7f
 <h2 id="what-happened">What Happened in Brazil</h2>
 <p>Discord, the immensely popular communication platform used by more than 90 million active daily users worldwide—predominantly gamers—announced it has halted its livestreaming features in Brazil. The move came after the country’s national data protection agency ordered the suspension, citing robust evidence that the platform failed to protect children and adolescents from exposure to extreme violence, self-harm, and peer coercion.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

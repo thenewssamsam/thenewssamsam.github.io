@@ -37,14 +37,14 @@ source_url: "https://www.cnn.com/2026/08/18/economy/canada-tariffs-trump"
     <h2 style="font-size: 1.5rem; color: #2b6cb0; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; margin-bottom: 20px;">A Biblical Perspective on Diplomacy and Economic Tensions</h2>
     <p>In our interconnected global economy, policy announcements made in Washington or Ottawa ripple outward instantly, affecting family budgets, corporate supply chains, and the livelihoods of millions. When geopolitical friction threatens stability, it is easy to view these events purely through the lens of political strategy or economic loss. Yet, stepping back to reflect on human nature and governance reveals timeless patterns that Scripture addresses directly.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
     <p>The tension between nations often stems from competition, pride, and the temptation to rely solely on economic leverage rather than cooperative stewardship. Trade disputes remind us of how quickly nations can move from partnership to adversarial postures. However, the sudden pivot toward negotiation and a paused deadline highlights the immense value of dialogue over division.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -55,7 +55,7 @@ Tactical Waterproof Backpack
 
     <p>This verse invites us to consider the posture required in moments of high-stakes conflict. While the political motives behind tariffs and trade pacts are complex, the underlying human desire for security, fairness, and mutual respect mirrors the relational dynamics described throughout Scripture. Peacemaking in the public square requires humility, patience, and a willingness to step back from ultimatums to find a constructive path forward.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -72,7 +72,7 @@ Seagate Portable External Hard Drive
 
     <p>Furthermore, the biblical narrative frequently emphasizes the importance of fair dealing and honest weights in commerce. Proverbs 11:1 reminds us that honest scales are an absolute delight to a righteous standard, pointing toward an underlying moral framework that should govern how nations trade and interact.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

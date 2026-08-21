@@ -32,7 +32,7 @@ source_url: 'https://nypost.com/2026/08/16/us-news/border-wall-construction-on-r
 <h2>The Ruling and the 1907 Precedent</h2>
 <p>The legal showdown centers on a stretch of the U.S.–Mexico border that cuts directly through the ancestral lands of the Tohono O'odham Nation. U.S. District Judge Richard Leon issued the ruling after members of the tribe attempted to block federal workers from surveying the site, posting "no trespassing" signs and threatening to escort federal agents off tribal territory.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

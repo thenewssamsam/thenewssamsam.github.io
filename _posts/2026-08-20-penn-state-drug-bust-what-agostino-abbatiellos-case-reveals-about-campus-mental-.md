@@ -43,7 +43,7 @@ source_url: "https://www.nbcnews.com/news/us-news/penn-state-agostino-abbatiello
 <div class="ncg-amazon-box">
   <p><strong>Recommended for Stress Relief & Focus:</strong> <a href="https://www.amazon.com/dp/B073R5K699?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Weighted Blanket for Anxiety and Calm (15 lbs) - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -54,7 +54,7 @@ Tactical Waterproof Backpack
   <p>When society looks at a major college drug bust, the immediate reactions are often punitive: outrage, judgment, and calls for harsher campus security. Yet, from a general health and wellness standpoint, incidents involving high-achieving students engaged in high-risk behaviors often point to underlying emotional distress. College is frequently marketed as the best time of our lives, but for many students, it is an intense crucible of academic pressure, financial anxiety, and social comparison.</p>
   <p>When young adults experience chronic, unmanaged stress, their coping mechanisms can become severely distorted. Whether through burnout, sleep deprivation, or the pursuit of artificial control, the desire to numb emotional pain or artificially enhance performance can lead down dangerous, irreversible paths.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -65,7 +65,7 @@ Seagate Portable External Hard Drive
 
   <p>This is general information, not medical advice. Consult a licensed medical or mental health professional about your specific situation if you or someone you know is struggling with stress or substance use.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -74,7 +74,7 @@ Seagate Portable External Hard Drive
 <div class="ncg-amazon-box">
   <p><strong>Recommended for Mindfulness & Sleep:</strong> <a href="https://www.amazon.com/dp/B07V2V3J48?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Aromatherapy Essential Oil Diffuser & Relaxation Kit - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -84,13 +84,13 @@ Seagate Portable External Hard Drive
   <h2>The Hidden Pressures of Modern College Life</h2>
   <p>Accounting majors, fraternity involvement, and competitive GPAs create a demanding ecosystem. Today's students face unprecedented expectations to secure internships, maintain flawless social media personas, and shoulder mounting tuition costs. When reality fails to match these rigid expectations, emotional distress can set in quietly.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
   <p>Psychologists often observe that individuals who engage in high-risk ventures may be seeking an escape from feelings of inadequacy or a distorted sense of control. True wellness on a college campus requires looking beyond disciplinary measures to address the root causes of isolation and chronic anxiety.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -99,7 +99,7 @@ Tactical Waterproof Backpack
 <div class="ncg-amazon-box">
   <p><strong>Recommended for Emotional Wellness:</strong> <a href="https://www.amazon.com/dp/B085W2YQ8F?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Five-Minute Journal: A Daily Gratitude Guide - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -109,14 +109,14 @@ Seagate Portable External Hard Drive
   <h2>Finding Peace Beyond Performance</h2>
   <p>Stories like this often make me reflect on the heavy burdens we place on ourselves to achieve, succeed, and maintain a certain image before others. We live in a culture that measures human worth by output, status, and external success. Yet Scripture reminds us that our true value does not depend on our frantic efforts to climb or conquer.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
   <p>In Matthew 11:28-29, Jesus offers an invitation that stands in stark contrast to the relentless pace of campus life: <q>Come to me, all who labor and are heavy laden, and I will give you rest. Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls.</q> This passage reminds us that when we try to carry impossible expectations on our own shoulders, we inevitably break down or seek destructive shortcuts for relief.</p>
   <p>I am also reminded of Proverbs 3:5-6, which counsels us to trust in the Lord with all our hearts rather than leaning on our own understanding or desperate schemes. True wellness begins the moment we release our frantic need to control every outcome and instead seek wisdom, grace, and honest accountability.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -125,7 +125,7 @@ Seagate Portable External Hard Drive
 <div class="ncg-amazon-box">
   <p><strong>Recommended for Daily Devotionals:</strong> <a href="https://www.amazon.com/dp/B003L7W0OE?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">ESV Study Bible, Large Print - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -144,7 +144,7 @@ Tactical Waterproof Backpack
 <div class="ncg-amazon-box">
   <p><strong>Recommended for Personal Growth:</strong> <a href="https://www.amazon.com/dp/B074H376KC?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Atomic Habits: An Easy & Proven Way to Build Good Habits - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -156,21 +156,21 @@ Seagate Portable External Hard Drive
     <p><strong>Q: What happened in the Penn State drug case?</strong><br>
     A: Authorities allege that accounting major and fraternity member Agostino Abbatiello ran a major drug distribution scheme on the Penn State campus.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p><strong>Q: What is the health angle of this story?</strong><br>
     A: This case highlights the hidden toll of extreme academic and social pressures on college students, emphasizing the need for robust mental health support.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p><strong>Q: Where can students find help for stress or substance use?</strong><br>
     A: Students can contact campus counseling centers, confidential student helplines, or licensed local mental health professionals.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -180,7 +180,7 @@ Tactical Waterproof Backpack
 <div class="ncg-amazon-box">
   <p><strong>Recommended for Home Focus & Study:</strong> <a href="https://www.amazon.com/dp/B099K11K2N?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">LED Desk Lamp with USB Charging Port and Dimmable Light - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

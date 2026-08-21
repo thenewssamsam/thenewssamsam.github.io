@@ -18,7 +18,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/17/trump-mail-vote-flo
 
 <p>When public actions directly clash with years of fiery public rhetoric, the human brain goes to extraordinary lengths to bridge the gap. Donald Trump recently cast a mail-in ballot in Florida's Republican primary&mdash;marking at least the third time he has utilized the postal voting method he routinely condemns. While political commentators focus on the hypocrisy and policy contradictions, a deeper look at the human mind reveals a textbook case of psychological adaptation under pressure.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

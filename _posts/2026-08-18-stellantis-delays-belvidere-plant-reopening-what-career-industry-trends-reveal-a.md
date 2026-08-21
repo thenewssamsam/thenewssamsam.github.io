@@ -39,7 +39,7 @@ source_url: 'https://www.caranddriver.com/news/a73453603/stellantis-jeep-cheroke
     
     <p>The updated timeline means pilot production for the next-generation Jeep Cherokee is now slated for the first half of 2028, with retail production targeted for the second half of 2029. Back in February 2023, the Belvidere plant was indefinitely idled, sending shockwaves through the local community as fifth-generation Cherokee production migrated to Toluca, Mexico. While the recent announcements confirm that the factory will roar back to life, the extended wait highlights the complex engineering and financial hurdles facing legacy automakers navigating massive architectural transitions.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

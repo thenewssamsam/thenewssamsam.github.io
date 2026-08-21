@@ -24,7 +24,7 @@ source_url: 'https://www.newsday.com/news/nation/milligan-university-cyclists-ki
     <p>On Wednesday morning, 11 members of the Milligan University cycling team were engaged in a training ride on Highway 19, a road with a 50 mph speed limit. In a tragic turn of events, a vehicle collided with the group, resulting in the deaths of two sophomores: Haylan Engdahl of Winthrop Harbor, Illinois, and Brayden Rogers of Huntsville, Alabama.</p>
     <p>According to Tennessee authorities, a 69-year-old North Carolina man has been arrested and faces charges including reckless vehicular homicide. Seven other student-athletes were transported to Johnson City Medical Center, where, as of Wednesday evening, four remained in critical condition.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -34,7 +34,7 @@ Seagate Portable External Hard Drive
     <h2>A Faith-Based Perspective on Grief</h2>
     <p>When sudden tragedy strikes, our first instinct is often to ask "Why?" In the Christian tradition, we are not promised an exemption from suffering, but we are promised a presence that sustains us through it. President Stephen Waers captured this spirit when he urged the university community to "help our brothers and sisters bear burdens that are too great for any one person to carry alone."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -45,7 +45,7 @@ Tactical Waterproof Backpack
 
     <p>This event invites us to consider the biblical reality of lament. Throughout the Psalms, we see believers pouring out their anguish to God. We are reminded of the verse, <strong>"The Lord is close to the brokenhearted and saves those who are crushed in spirit" (Psalm 34:18, NIV)</strong>. This is not just a comforting sentiment; it is a declaration that in our darkest hours, we are not abandoned. The Milligan community is living out the call to be the hands and feet of Christ, demonstrating that grief is not meant to be carried in isolation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -55,7 +55,7 @@ Tactical Waterproof Backpack
     <h2>Finding Strength in Shared Burden</h2>
     <p>The Apostle Paul wrote, <strong>"Carry each other’s burdens, and in this way you will fulfill the law of Christ" (Galatians 6:2, NIV)</strong>. Seeing the way the Milligan community has rallied around the families of Haylan and Brayden, and the injured students, is a powerful reminder of what it looks like to "fulfill the law of Christ." When life feels overwhelming, the church and the community become the vessel of God’s grace. We are reminded that our faith is not merely for the mountaintops but is most essential in the valleys of shadow.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

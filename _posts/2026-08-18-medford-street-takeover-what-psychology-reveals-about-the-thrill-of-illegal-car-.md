@@ -148,7 +148,7 @@ source_url: 'https://www.newsday.com/long-island/crime/street-takeover-li-medfor
 
 <p>Behind the roar of engines and the smell of burning rubber lies a complex social phenomenon. To understand why dozens of drivers and spectators are willing to risk wrecked vehicles, steep fines, and arrest records, we have to look past the asphalt and examine what is happening inside the minds of the participants.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -127,7 +127,7 @@ source_url: ''
 <h2 id="what-happened">The  Billion Milestone</h2>
 <p>In the fast-moving world of artificial intelligence, financial figures often sound abstract until they cross into jaw-dropping territory. According to reports from Bloomberg, Anthropic's annualized revenue run rate surged past  billion at the end of July. To put that meteoric rise in perspective, the model maker stood at  billion in May and a comparatively modest  billion at the close of last year.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

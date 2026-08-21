@@ -37,7 +37,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/17/election-denier-tin
     <p>Shasta County, a conservative region in northern California with 182,000 residents, has become a focal point for battles over election administration. The county's top election official, Registrar Clint Curtis, announced plans to hire Tina Peters—the former Colorado election official recently released from prison—as an election consultant. Peters was convicted in 2024 of multiple felonies and misdemeanors related to a security breach involving voting system software in Mesa County, Colorado.</p>
     <p>Curtis, a Florida-based attorney appointed to his post in 2024 who was subsequently ousted by voters in a June election, stated that Peters would replace his top deputy on an interim basis. However, local officials and state observers noted that Peters, who remains on parole and requires travel permission from Colorado, would have limited administrative scope while still drawing significant national attention.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

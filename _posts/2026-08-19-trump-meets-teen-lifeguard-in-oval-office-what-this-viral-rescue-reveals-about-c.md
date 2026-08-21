@@ -40,7 +40,7 @@ source_url: "https://www.foxnews.com/politics/trump-meets-teen-lifeguard-boy-sav
     <h2>The Anatomy of Sudden Courage</h2>
     <p>Most of us will never have to pull a drowning child out of rough ocean waves. We will not have cameras rolling to capture our split-second decisions, nor will we receive an invitation to the White House to shake the hand of the president. Yet, the story of Ryder Williams offers concrete lessons about how preparation meets opportunity when crises strike.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -51,7 +51,7 @@ Tactical Waterproof Backpack
 
     <p>Williams noted a crucial detail to reporters after his meeting: <em>"In those dangerous moments that we have, we always try to fall back on our training."</em> It is a powerful reminder for our own lives. Character is not forged in the spotlight of the Oval Office; it is forged in the boring, repetitive drills completed when nobody is watching. Whether in parenting, professional life, or community safety, the habits we build in quiet seasons dictate how we respond when the current suddenly pulls us under.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -65,14 +65,14 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Stewardship and Service</h2>
     <p>Stories like this naturally make me think about how we treat our daily responsibilities. It is easy to view our jobs, our volunteering, or our quiet acts of kindness as mundane routines rather than meaningful stewardship. Yet, watching a young man step up without hesitation reminds me that we are called to look out for one another's well-being with genuine intentionality.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>Scripture puts it plainly in Galatians 6:2: <em>"Bear one another's burdens, and so fulfill the law of Christ."</em> Ryder didn't calculate the personal risk or wonder if he would go viral; he simply saw a neighbor in peril and acted. Similarly, Proverbs 3:27 advises us: <em>"Do not withhold good from those to whom it is due, when it is in your power to do it."</em> These verses invite us to consider where we might be holding back our own everyday help—waiting for a grand stage instead of serving the person right in front of us.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -82,7 +82,7 @@ Tactical Waterproof Backpack
     <h2>How Should Readers Respond?</h2>
     <p>It is easy to read a heartwarming news story, feel a momentary surge of inspiration, and go right back to our distractions. If we want to truly honor stories like Ryder Williams', we can translate inspiration into practical action:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

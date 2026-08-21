@@ -29,7 +29,7 @@ source_url: "https://www.nbcnews.com/politics/2026-primary-special-elections/flo
     <h2>Myth vs. Fact: Clearing the Air</h2>
     <p>Election nights are often filled with speculation. Let’s look at the facts based on the current data from the NBC News Decision Desk and the Associated Press.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -37,7 +37,7 @@ Tactical Waterproof Backpack
     <h3>Myth: The "Expected Vote" Count is the Final Result</h3>
     <p><strong>Fact:</strong> The "expected vote" figure is an estimate used by news organizations to gauge how much of the total vote has been reported. It is a projection, not a finalized tally, and it changes as election officials provide more data from early voting and Election Day precincts.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -45,7 +45,7 @@ Seagate Portable External Hard Drive
     <h3>Myth: The Primary Results Automatically Determine the Next Senator</h3>
     <p><strong>Fact:</strong> These are primary elections. The winners of these primaries will move on to the general special election to determine who serves the remainder of the term. The primary results simply narrow the field for the upcoming contest.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -55,14 +55,14 @@ Tactical Waterproof Backpack
     <h2>A Perspective on Truth</h2>
     <p>In a world of fast-moving information and political tension, we are reminded of the value of seeking truth with diligence. Proverbs 14:15 tells us, <em>"The simple believes everything, but the prudent gives thought to his steps."</em> This is a vital reminder to pause, verify information, and approach public discourse with wisdom rather than reactionary emotion.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>Furthermore, we are called to handle our responsibilities with integrity. <em>"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters"</em> (Colossians 3:23). Whether we are voters evaluating candidates or citizens processing the news, our conduct matters. It invites us to consider how we can contribute to a culture of honesty and peace, even when we disagree on the path forward for our state and nation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -81,7 +81,7 @@ Tactical Waterproof Backpack
     <h2>Closing Takeaway</h2>
     <p>The 2026 Florida Senate special election is a significant moment for the state's representation. By separating projections from finalized facts and maintaining a commitment to truth, voters can navigate this cycle with confidence. Information is a tool; use it wisely.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

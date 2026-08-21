@@ -26,7 +26,7 @@ source_url: "https://www.wbur.org/news/2026/08/17/prosecution-rests-murder-trial
       <h3>Myth: Lindsay Clancy was officially diagnosed with postpartum psychosis before the incident.</h3>
       <p><strong>Fact:</strong> While the defense and the family’s malpractice suits suggest she was suffering from postpartum mental health issues, medical records presented in court indicate she was not formally diagnosed with postpartum psychosis prior to the tragedy. Her treatment history included therapy and stays at McLean Hospital for depression and anxiety, but the specific nature of her psychiatric state at the time of the killings remains a central point of contention for the jury.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -36,7 +36,7 @@ Seagate Portable External Hard Drive
       <h3>Myth: The insanity defense automatically clears a defendant of all wrongdoing.</h3>
       <p><strong>Fact:</strong> An insanity defense is not an acquittal in the traditional sense of "not guilty." If the jury finds Clancy not criminally responsible, she would not simply walk free. She would be committed to a state hospital. Her status would then be subject to periodic judicial and clinical reviews to determine if she remains a danger to herself or others, with release only possible if it is deemed safe.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -46,13 +46,13 @@ Seagate Portable External Hard Drive
   <section id="spiritual-reflection">
     <p>This case forces us to confront the fragility of the human mind and the profound weight of parental responsibility. It brings to mind the words of <strong>Psalm 34:18</strong>, which tells us, <em>"The Lord is near to the brokenhearted and saves the crushed in spirit."</em> When we witness such devastation, it is a reminder that we live in a fallen world where mental health struggles can lead to unimaginable darkness. This situation invites us to consider how we support those suffering in silence and the importance of grace in our own hearts as we await the truth of the judicial process.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>We are also reminded of the call to seek wisdom in <strong>James 1:5</strong>: <em>"If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him."</em> As the jury weighs the complex evidence, we see the need for deep discernment and the recognition of human frailty.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -66,7 +66,7 @@ Seagate Portable External Hard Drive
     <h2>The Role of Forensic Evidence</h2>
     <p>The prosecution’s recent presentation of digital forensic evidence—including Apple Watch data and internet search history—serves to paint a picture of Clancy’s state of mind in the final hours. Digital footprints can often provide a timeline that contradicts or supports subjective claims. The jury must now decide if these actions suggest a premeditated plan or the erratic behaviors of someone in the throes of a severe psychiatric crisis.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

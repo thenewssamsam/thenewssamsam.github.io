@@ -39,7 +39,7 @@ source_url: 'https://www.cnbc.com/2026/08/16/cramer-believe-the-unbelievable-in-
 <p>For decades, cyclical memory and storage manufacturers were treated as financial landmines. Companies like SanDisk, Seagate, Western Digital, and Micron would experience brief periods of staggering demand, only to plunge into destructive overproduction cycles that wiped out investor gains. But the year-to-date performances in 2026 shatter those historical expectations entirely.</p>
 <p>SanDisk has surged 496%, Seagate is up 238%, Western Digital has climbed 171%, and Micron has skyrocketed to a staggering  trillion market capitalization. Gross margins that once hovered in the 20% to 35% range have nearly doubled or tripled in some cases, pushing Seagate to 47% and Micron to an astonishing 85%. To traditional market veterans, these numbers defy financial gravity. Yet they reflect a fundamental transformation in how massive hardware providers operate in the age of generative AI infrastructure.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -33,7 +33,7 @@ source_url: 'https://www.cnn.com/2026/08/19/politics/jimmy-gomez-house-ethics-se
     <div class="ncg-quote-box">
       <p>&ldquo;The allegations of misconduct are serious and disturbing. We encourage the Committee to conduct a thorough and swift investigation.&rdquo; &mdash; Top House Democratic Leadership</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -41,7 +41,7 @@ Tactical Waterproof Backpack
 
     <p>As top congressional leaders call for a thorough and transparent inquiry, the public is once again left confronting the sobering reality of moral failure within the halls of government. While the House Ethics Committee has emphasized that an ongoing investigation does not automatically prove a violation has occurred, the gravity of the accusations demands careful, sober attention from observers everywhere.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -55,21 +55,21 @@ Tactical Waterproof Backpack
     <h2>A Biblical Perspective on Power and Truth</h2>
     <p>News of political scandal often stirs up a complex mix of frustration, cynicism, and grief. Whenever someone entrusted with public office is accused of using their position to exploit another person, it strikes at the very core of human dignity. This situation makes me think deeply about how Scripture addresses the heavy responsibilities of authority and the hidden places of the human heart.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>The Bible does not sugarcoat the moral failings of leaders, nor does it allow power to act as a shield against wrongdoing. Proverbs 29:2 reminds us, <q>When the righteous thrive, the people rejoice; when the wicked rule, the people groan.</q> This ancient wisdom points to a timeless truth: authority is meant to serve and protect, not to dominate or manipulate.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>I am also reminded of the words found in Luke 12:2 &mdash; <q>There is nothing concealed that will not be disclosed, or hidden that will not be made known.</q> In moments like these, when private actions are dragged into the harsh light of public scrutiny, we see a vivid reminder that accountability is inescapable. Whether in this life or the next, truth has a way of surfacing, stripping away the carefully constructed facades of powerful individuals.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -83,7 +83,7 @@ Tactical Waterproof Backpack
     <h2>What This Investigation Reveals About Human Nature</h2>
     <p>When headlines focus on congressional misconduct, the temptation is to view the issue as an isolated failure of a single individual. Yet, looking deeper reveals a recurring pattern rooted in the corrupting nature of unbridled pride and misplaced power.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -91,7 +91,7 @@ Tactical Waterproof Backpack
     <h3 class="ncg-h3">The Illusion of Secrecy</h3>
     <p>Human beings have a long history of believing that private actions will remain permanently hidden behind closed doors. The reports surrounding the House Ethics Committee inquiry illustrate how quickly hidden behaviors unravel when subjected to the light of investigation. Scripture repeatedly warns against the delusion that secret sins have no consequences.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -99,7 +99,7 @@ Tactical Waterproof Backpack
     <div class="ncg-shareable-quote">
       <p>&ldquo;Power does not create corruption; it simply removes the guardrails that kept a person's private choices hidden from the world.&rdquo;</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -108,7 +108,7 @@ Seagate Portable External Hard Drive
     <h3 class="ncg-h3">The Vulnerability of the Powerless</h3>
     <p>In almost every story of workplace harassment or abuse of authority, there is an inherent imbalance of power. Congressional aides and staffers operate in high-pressure environments where questioning a superior can feel professionally impossible. A faithful worldview demands that we stand in solidarity with the vulnerable, recognizing that true justice requires protecting those whose voices are easily silenced by institutional power.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -122,7 +122,7 @@ Seagate Portable External Hard Drive
     <h2>How Should Christians Respond?</h2>
     <p>Faced with ongoing news of political scandals and broken trust, believers are called to respond not with cynical mockery or partisan glee, but with a posture of discernment, prayer, and personal reflection.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

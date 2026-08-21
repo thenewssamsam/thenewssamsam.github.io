@@ -23,7 +23,7 @@ source_url: "https://www.foxnews.com/us/penn-state-cocaine-bust-nets-14-arrests-
 <div class="ncg-quote-box" style="border-left: 5px solid #2e7d32; background: #f1f8e9; padding: 15px; margin: 20px 0;">
 <p><strong>"Criminal activity, including hazing, such as this has no place at our institution, and we will cooperate with law enforcement in any way we can."</strong> — Andrea Dowhower, Penn State Vice President for Student Affairs.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -33,7 +33,7 @@ Seagate Portable External Hard Drive
 <h2>The Ripple Effect on Our Local Community</h2>
 <p>State College prides itself on being a premier university town, but incidents of this magnitude ripple outward. When illegal substances are moved in "large quantities" from cities like New York and Philadelphia into a smaller college town, the risk to the local population increases. The involvement of off-campus housing highlights a perennial challenge for university towns: the tension between campus oversight and the autonomy of private, off-campus living arrangements.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -41,7 +41,7 @@ Tactical Waterproof Backpack
 <div style="border: 1px solid #ddd; padding: 10px; background: #f9f9f9;">
 <p><em>Recommendation:</em> <a href="#">Heavy-Duty Smart Security Camera System - </a> - Keep your off-campus living space secure and monitored.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -49,7 +49,7 @@ Tactical Waterproof Backpack
 
 <p>Furthermore, the alleged use of fraternity houses—traditionally hubs of social life—as production facilities for narcotics creates a dangerous environment for all students, not just those involved in Greek life. This shifts the perception of these organizations from social clubs to potential hubs of criminal enterprise, forcing the local community to reckon with how student organizations are managed and supervised.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -59,13 +59,13 @@ Tactical Waterproof Backpack
 <h2>A Moment for Reflection and Stewardship</h2>
 <p>As we process this news, it is natural to feel a sense of disappointment and even fear for the youth in our community. We are reminded of the wisdom found in Proverbs 4:23, which says, <em>"Above all else, guard your heart, for everything you do flows from it."</em> When we allow darkness to infiltrate our places of community and fellowship—like the fraternity houses that should be centers of brotherhood—the consequences are often devastating.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 <p>This incident also brings to mind the words of 1 Peter 5:8: <em>"Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour."</em> This is a stark reminder that we must be vigilant in how we raise our young adults and the environments we encourage them to enter. The "indoctrination" mentioned by the Attorney General is a sobering example of how easily the vulnerable can be led astray when moral guardrails are ignored. It invites us to consider how we can better mentor the next generation, ensuring they find true belonging in places that build them up, rather than in structures that exploit their desire for acceptance.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -77,7 +77,7 @@ Tactical Waterproof Backpack
 <summary>How does this affect Penn State students?</summary>
 <p>The university has placed the Delta Upsilon fraternity on interim suspension and is investigating the Sigma Chi organization, which is not currently university-recognized. Students living in or near these houses may face increased scrutiny and administrative changes.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -86,7 +86,7 @@ Seagate Portable External Hard Drive
 <summary>Are parents right to be concerned?</summary>
 <p>Yes. The scale of this operation—involving regular trafficking from major cities—suggests a level of organization that poses a genuine risk to student health and campus safety.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -96,7 +96,7 @@ Seagate Portable External Hard Drive
 <div style="border: 1px solid #ddd; padding: 10px; background: #f9f9f9;">
 <p><em>Recommendation:</em> <a href="#">Digital Wellness & Productivity Journal - </a> - A great tool for students to focus on academic goals.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

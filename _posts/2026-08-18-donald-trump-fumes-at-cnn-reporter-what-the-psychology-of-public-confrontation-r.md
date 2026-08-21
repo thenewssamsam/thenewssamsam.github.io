@@ -34,7 +34,7 @@ source_url: 'https://deadline.com/2026/08/trump-yells-at-cnn-reporter-north-kore
 <h2 id="what-happened">What Happened in the Oval Office</h2>
 <p>The confrontation unfolded while Trump was hosting Nathaniel Rai, a 10-year-old who had been rescued from rough surf in Santa Cruz by lifeguard Ryder Williams. Earlier in the session, Trump had been discussing his foreign policy stance, stating that he understood North Korea's Kim Jong Un and defending his recent Truth Social announcement ordering the military to reduce joint military exercises with South Korea.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

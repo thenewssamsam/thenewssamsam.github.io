@@ -20,7 +20,7 @@ source_url: 'https://www.foxnews.com/politics/trump-meets-teen-lifeguard-boy-sav
   <section id="introduction">
     <p>In a rare moment of unity and celebration at the White House, President Donald Trump recently hosted 16-year-old California lifeguard Ryder Williams. The teenager, whose decisive actions during a July 25 ocean rescue went viral, was honored for saving a 10-year-old boy, Nathaniel Rai, from dangerous surf. Beyond the headlines, this encounter offers a profound look at the quiet power of preparation and the responsibility we all share toward one another.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -26,7 +26,7 @@ source_url: 'https://finance.yahoo.com/markets/stocks/articles/rklb-stock-rises-
 <h2>What Happened: The Globalstar Deployment Breakdown</h2>
 <p>On Saturday, Rocket Lab launched the first eight spacecraft built under its landmark 2022 agreement with MDA Space from Cape Canaveral Space Force Station. The contract, valued at  million, represents Rocket Lab's largest spacecraft-bus order at the time it was signed.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

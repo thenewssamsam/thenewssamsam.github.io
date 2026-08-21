@@ -31,7 +31,7 @@ source_url: 'https://www.theguardian.com/us-news/live/2026/aug/19/mary-peltola-d
   <div class="ncg-quote-box">
     <p>“More than any other thing in this race, data centers are the anchor hanging around Husted’s neck.” <em>— NRSC Campaign Memo</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -40,13 +40,13 @@ Seagate Portable External Hard Drive
   <h2 id="scripture-perspective">A Biblical Perspective on Power and Progress</h2>
   <p>As we watch political campaigns scramble to respond to grassroots anxiety over massive server farms, Scripture invites us to consider our relationship with power, scale, and the common good. Throughout the biblical narrative, human ingenuity is celebrated as a reflection of the Creator's image, yet technological advancement without ethical restraint is consistently challenged.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
   <p>Consider the wisdom found in Proverbs 29:2: <em>"When the righteous thrive, the people rejoice; when the wicked rule, the people groan."</em> While this political contest involves complex economic trade-offs rather than simplistic moral binaries, the underlying human groan—the exhaustion of communities feeling unheard by distant decision-makers—is something Scripture takes deeply seriously. When progress benefits the few at the expense of the peace and well-being of the many, it creates a moral friction that no amount of political spin can easily erase.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -57,7 +57,7 @@ Tactical Waterproof Backpack
 
   <p>Furthermore, Jesus taught us to evaluate our choices by their tangible impact on our neighbors. The golden rule is not merely an interpersonal ethic; it is a standard for civic and corporate stewardship. When massive technology conglomerates build sprawling infrastructure that consumes local resources while leaving neighbors to deal with the disruptions, it raises fundamental questions about justice and fairness.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -69,13 +69,13 @@ Tactical Waterproof Backpack
   <h2 id="what-this-reveals">What This Reveals About Our Society</h2>
   <p>The anxiety surrounding AI datacenters in Ohio is about much more than electricity grids and zoning laws. It reveals a deep-seated fear of powerlessness in an increasingly automated world. Citizens are asking a fundamental question: Does technology serve humanity, or does humanity exist to serve technology?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
   <p>When voters feel that political leaders are beholden to distant billionaires rather than local communities, trust fractures. This dynamic reminds us of the timeless warning in Jeremiah 22:3: <em>"This is what the Lord says: Do what is just and right. Rescue from the hand of the oppressor the one who has been robbed. Do no wrong or violence to the foreigner, the fatherless or the widow, and do not shed innocent blood in this place."</em> While server farms are a far cry from ancient injustices, the underlying principle remains identical: leadership requires protecting the vulnerable rather than trading their peace for economic abstractions.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -87,7 +87,7 @@ Seagate Portable External Hard Drive
   <div class="ncg-shareable-box">
     <p>“True technological progress should uplift communities, not leave everyday citizens bearing the unseen costs of unchecked power.”</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -100,7 +100,7 @@ Seagate Portable External Hard Drive
   <h2 id="how-should-christians-respond">How Should Christians Respond?</h2>
   <p>In moments of political polarization and rapid cultural change, followers of Christ are called to navigate complex issues with discernment, grace, and active engagement:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -117,7 +117,7 @@ Seagate Portable External Hard Drive
   <h2 id="closing-takeaway">Closing Takeaway</h2>
   <p>The Ohio Senate race serves as a powerful reminder that every major technological leap carries human and moral consequences. As we witness the clash between big tech expansion and grassroots community resistance, let us remember that true wisdom begins with respecting the dignity of our neighbors and caring for the world entrusted to our care.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

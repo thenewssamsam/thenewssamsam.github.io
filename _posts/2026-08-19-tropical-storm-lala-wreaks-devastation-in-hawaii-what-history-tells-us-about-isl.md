@@ -26,7 +26,7 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/17/storm-lala-hawaii-d
     <p>The resulting floodwaters and powerful winds damaged or completely swept away about 100 homes and six bridges on the Big Island. Hawaii County Mayor Kimo Alameda described the situation in hard-hit areas as "devastation." Hawaiian Electric reported that up to 111,000 customers lost power, with utility warning that rural repairs could stretch into weeks. Helicopters and drones were deployed to survey remote, mountainous terrain cut off by washouts.</p>
     <p>Tragically, officials confirmed one storm-related fatality: a woman reported missing in Naalehu and subsequently found dead. Meanwhile, on Oahu, the Honolulu fire department handled more than 600 weather-related calls by Sunday noon, citing downed trees, ripped-off roofs, and a daring ocean rescue.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -36,13 +36,13 @@ Seagate Portable External Hard Drive
     <h2 id="why-it-matters">Why This Storm Matters Now</h2>
     <p>Severe weather events in isolated island chains carry immediate economic and humanitarian weight that reaches far beyond a standard mainland storm. Governor Josh Green estimated statewide damages in the hundreds of millions of dollars. Crucially, parts of a major highway in the Big Island’s southeast collapsed overnight, cutting off road access to Pahala—the region's only hospital.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>This disruption highlights the vulnerable infrastructure facing island communities as a powerful El Niño forms in the central equatorial Pacific. The National Oceanic and Atmospheric Administration (NOAA) has predicted a 69% chance of a historic El Niño event peaking between October and December, which typically fuels heightened Pacific hurricane activity.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -52,19 +52,19 @@ Seagate Portable External Hard Drive
     <h2 id="historical-parallel">A Historical Parallel: Remembering the Lessons of Past Storms</h2>
     <p>When looking at the wreckage left by tropical storm Lala, history offers both sobering warnings and reminders of resilience. Hawaii was last struck by a "major" hurricane—defined as Category 3 or higher—in 1992, when Hurricane Iniki ravaged the islands, causing at least six deaths and billions of dollars in damage.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>Iniki fundamentally reshaped Hawaii’s building codes, emergency preparedness, and community response frameworks. Yet, just as communities rallied after Iniki and weathered threats like Hurricane Fausto last month, current recovery efforts test the same foundational endurance.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>There are important limits to these comparisons: modern weather forecasting and drone damage-assessment technology are far more advanced today than they were in 1992, allowing for faster initial triage. However, the fundamental human challenge remains identical: the grueling, dangerous days of clearing debris and restoring basic infrastructure after the winds die down.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -80,13 +80,13 @@ Tactical Waterproof Backpack
     <p>Facing sudden devastation forces communities to confront the profound fragility of human infrastructure. When floodwaters sweep away homes and isolate towns, it naturally prompts quiet reflection on what truly sustains us in times of trial.</p>
     <p>I find myself thinking about the timeless wisdom in Proverbs 18:10, which notes, "The name of the Lord is a strong tower; the righteous man runs into it and is protected." This isn't just about physical safety; it's a reminder of where our deepest trust rests when the material comforts and structures we rely on are suddenly washed away.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>Similarly, Ecclesiastes reminds us that seasons of hardship are part of a shared human journey. When neighbors step up to clear roads, check on isolated families, and share resources, they embody a quiet grace that transcends the storm's destruction.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -96,7 +96,7 @@ Tactical Waterproof Backpack
     <h2 id="how-readers-respond">How Should Readers Respond?</h2>
     <p>While most readers watching from afar cannot be on the ground in Hawaii, major weather events offer clear opportunities for thoughtful action:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -111,7 +111,7 @@ Seagate Portable External Hard Drive
     <h2 id="one-last-thought">One Last Thought</h2>
     <p>Tropical storm Lala is a stark reminder that nature operates on a scale far beyond human control, testing the resilience of roads, grids, and communities alike. Yet the true measure of an island community isn't found in how hard the wind blows, but in how swiftly neighbors reach out to rebuild what was lost.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

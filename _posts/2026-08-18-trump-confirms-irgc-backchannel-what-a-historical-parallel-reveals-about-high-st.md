@@ -26,7 +26,7 @@ source_url: 'https://www.foxnews.com/world/trump-confirms-irgc-backchannel-calls
 
 <p>"They should put up the white flag of surrender," Trump told Yingst, reiterating his core demand that Iran must completely abandon its nuclear weapons aspirations. Around the same time, the president reinforced his position on Truth Social, writing that America's primary goal is ensuring Tehran can never acquire a nuclear weapon in any shape or form.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -49,14 +49,14 @@ source_url: 'https://apnews.com/article/trump-white-house-construction-ballroom-
     <h2>The Psychology of the Builder-in-Chief</h2>
     <p>From a behavioral standpoint, watching a leader pivot intensely toward physical construction projects during high-stress political seasons offers a fascinating window into human coping mechanisms. When the abstract variables of geopolitics, legislative battles, and economic forecasts feel overwhelming or intractable, the human brain naturally craves domains where tangible control is still possible.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
 
     <p>Real estate development is structural, physical, and permanent. Granite does not argue back; concrete sets on a predictable schedule; blueprints yield immediate visual validation. Psychologists often point to the concept of the <em>control heuristic</em>—our innate tendency to over-index on tasks where we can directly manipulate our immediate environment when broader systemic outcomes feel uncertain.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -67,7 +67,7 @@ Tactical Waterproof Backpack
 
     <p>By stepping into the role of the master builder, the president retreats to a familiar psychological safe harbor. Decades before entering political life, his identity was forged in the world of high-profile construction. Returning to that identity under fire is not merely a diversion; it is a reaffirmation of competence.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -77,7 +77,7 @@ Tactical Waterproof Backpack
     <h2>Legacy, Control, and Normalcy Bias</h2>
     <p>Another powerful psychological dynamic at play is the drive for legacy preservation in the face of temporal anxiety. Trump explicitly noted during the tour that these construction projects "will be here long after we're gone, no matter what happens with the world."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -90,14 +90,14 @@ Tactical Waterproof Backpack
 
     <p>This statement highlights a universal human preoccupation with legacy—the desire to etch one's existence into the physical fabric of the earth so that erasure becomes impossible. When political cycles turn volatile and public approval fluctuates, leaders frequently seek monumental permanence. Building a helipad out of million-year-old stone is an effort to conquer time itself, creating physical proof of having occupied a space of immense power.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
 
     <p>At the same time, observers often experience their own cognitive dissonance when viewing such events. Critics see tone-deaf detachment from pressing economic and military crises, while supporters see a leader calmly executing long-term visions regardless of temporary noise. Both reactions stem from how human brains filter complex environments through pre-existing emotional lenses.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -107,21 +107,21 @@ Tactical Waterproof Backpack
     <h2>A Matter of Lasting Foundations</h2>
     <p>Observing leaders strive so intently to carve their names into stone brings to mind how easily our focus gets trapped in transient achievements. Throughout history, humanity has poured immense energy into building monuments designed to defy time, forgetting how quickly empires and structures eventually fade.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
     
     <p>This dynamic reminds me of the simple wisdom found in Psalm 127:1: <em>"Unless the Lord builds the house, the builders labor in vain."</em> It is a sobering reflection on where we place our ultimate security. While there is dignity in skilled craftsmanship and physical stewardship—values celebrated even in biblical narratives of building and creation—true endurance is rarely found in granite helipads or military ballrooms.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
 
     <p>Scripture also invites us to examine the permanence of our own daily choices. As Matthew 7:24-25 notes, the wise person builds their house upon the rock, pointing toward spiritual foundations that weather storms far better than any human-engineered fortress.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -131,7 +131,7 @@ Tactical Waterproof Backpack
     <h2>How Should Readers Respond?</h2>
     <p>You do not need to be managing a White House renovation to recognize these psychological patterns in everyday life. Here are a few grounded ways to apply these insights:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 

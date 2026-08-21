@@ -22,7 +22,7 @@ source_url: "https://abcnews.com/Politics/florida-holds-1st-major-primaries-afte
     <div style="border-left: 5px solid #8e44ad; background: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Did you know?</strong> Political redistricting often triggers <em>territoriality bias</em>, where voters feel a sense of loss or confusion when their established district boundaries are redrawn, even if their actual representation remains largely the same.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -33,7 +33,7 @@ Seagate Portable External Hard Drive
     <h2>The Psychology of Power and Redistricting</h2>
     <p>When political lines are redrawn, it isn't just a matter of geography; it is a disruption of <em>group identity</em>. Voters often associate their civic power with their district. When those lines move, the psychological effect can be profound, leading to what behavioral scientists call <em>loss aversion</em>. Voters feel the "loss" of their old district more acutely than they perceive the "gain" of a new one.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -41,7 +41,7 @@ Seagate Portable External Hard Drive
     <h3>The Dynamics of Incumbency and Scandal</h3>
     <p>We also see the phenomenon of <em>motivated reasoning</em> in play regarding candidates like Rep. Cory Mills. Despite ethics investigations and serious allegations, Mills maintains high-level endorsements, including from Donald Trump. Psychologically, supporters often engage in "identity-protective cognition," where they interpret negative information about their preferred candidate as a "smear" or a distraction, allowing them to maintain their support without experiencing cognitive dissonance.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -53,7 +53,7 @@ Tactical Waterproof Backpack
     <h3>The Attraction to "Front-Runners"</h3>
     <p>The support for Rep. Byron Donalds in the gubernatorial race illustrates the <em>bandwagon effect</em>. As a candidate gains momentum and high-profile endorsements, voters—often subconsciously—align themselves with the "winner" to feel part of a successful movement. This reduces the psychological cost of backing a candidate, as the perceived risk of "betting on the wrong horse" is minimized by the crowd's approval.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -63,13 +63,13 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Integrity</h2>
     <p>As we observe the shifting alliances and the search for leadership, I am reminded of the timeless counsel in Proverbs 11:3: <em>"The integrity of the upright guides them, but the crookedness of the treacherous destroys them."</em> This makes me think about how easily we can be swayed by charisma or the momentum of a campaign, sometimes overlooking the character of those we choose to represent us.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>It is easy to focus on the power dynamics of the state capitol, but we are invited to consider if our own choices—whether in the voting booth or in our daily interactions—are guided by a commitment to truth. James 1:8 warns of the "double-minded" person who is unstable in all their ways. In a season of political noise, perhaps the most radical act is to seek leaders whose actions match their promises, and to hold ourselves to that same standard of consistency.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

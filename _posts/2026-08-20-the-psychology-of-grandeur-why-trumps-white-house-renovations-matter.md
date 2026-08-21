@@ -24,7 +24,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/19/trump-white-house-r
     <h2>The Tour of the Grounds</h2>
     <p>During the tour, the President focused on physical upgrades to the White House exterior, including refurbished columns and premium granite surfaces. The centerpiece of the event was a new helipad, which he noted would double as a patio for cocktail events. Trump frequently emphasized his expertise in real estate, asserting that his focus on "the best stuff" is a core component of his leadership philosophy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -34,7 +34,7 @@ Seagate Portable External Hard Drive
     <h2>The Psychology of "Building" as Leadership</h2>
     <p>From a behavioral standpoint, the President’s intense focus on physical environment—often called "propertied identity"—serves a specific psychological function. When faced with complex, abstract, or uncontrollable systemic issues like war or national debt, leaders often pivot to domains where they can exert total, immediate control. The construction of a driveway or the selection of grass species offers a low-stakes, high-visibility win that reinforces a sense of agency.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -46,7 +46,7 @@ Seagate Portable External Hard Drive
     <h3>The "Builder" Archetype</h3>
     <p>Psychologically, the "builder" persona is rooted in <em>competence signaling</em>. By emphasizing his past success in real estate, the President attempts to anchor his legitimacy in tangible results. For supporters, this suggests a leader who "gets things done." For critics, like Senator Jon Ossoff, it represents a displacement of focus—a preference for the aesthetic over the administrative.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -56,7 +56,7 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Stewardship</h2>
     <p>This focus on outward grandeur brings to mind the caution found in <em>Matthew 6:19-21</em>: "Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal, but lay up for yourselves treasures in heaven." It invites us to consider where we place our own sense of value. While there is nothing inherently wrong with maintaining a home or a grounds, we are reminded that our true legacy is found in the character we build and the service we provide to others, rather than the structures we leave behind. <em>Proverbs 21:2</em> adds, "Every way of a man is right in his own eyes, but the Lord weighs the heart." This is a quiet reminder that while the world may judge us by our "flagpoles" and "granite," our deeper motives are transparent to God.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

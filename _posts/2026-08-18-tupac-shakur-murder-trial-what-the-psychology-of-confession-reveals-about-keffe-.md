@@ -59,7 +59,7 @@ source_url: 'https://www.bbc.com/news/live/c9gk4e30jp40t'
   <h2 id="what-happened">What Happened in Court</h2>
   <p>The trial opened in Las Vegas with Shaimaa Khalil reporting from the courtroom as Duane "Keffe D" Davis entered wearing a blue suit, scanning the gallery before sitting quietly beside his legal counsel. Prosecutors wasted no time laying out their central thesis: that Davis orchestrated Shakur's killing as an act of retaliation for an altercation involving his nephew earlier that same evening.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

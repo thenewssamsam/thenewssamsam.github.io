@@ -23,7 +23,7 @@ source_url: 'https://www.nbcnews.com/world/ukraine/suspected-russian-drone-shot-
   <p>The incident unfolded in the early hours of Sunday. Romania's defense ministry confirmed that radar detected a suspected drone entering the country from neighboring Moldova, moving north of the southeastern city of Galati. Operating under NATO command, a Spanish-piloted F-18 made radar contact, secured authorization, and safely intercepted the target at 5:01 a.m. Debris fell in an uninhabited area between two villages, avoiding casualties, but the breach highlights the persistent vulnerability of NATO's 381-mile land border with Ukraine.</p>
   <p>Simultaneously, the war came home to the Russian capital in a dramatic fashion. Ukrainian drones struck the Moscow region overnight, resulting in what provincial officials described as one of the largest attacks targeting the area. An 83-year-old man was killed in Podolsk, and several people were injured. A massive fire broke out at a logistics warehouse belonging to Wildberries—Russia's largest online retailer—which Kyiv accuses of handling military goods. Concurrently, Russian forces unleashed heavy missile and drone bombardments on Kyiv, injuring multiple residents, including a child, and igniting fires in northern and southern districts of the capital.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

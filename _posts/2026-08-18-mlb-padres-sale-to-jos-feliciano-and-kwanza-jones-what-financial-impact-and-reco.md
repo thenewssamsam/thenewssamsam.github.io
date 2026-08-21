@@ -40,7 +40,7 @@ source_url: 'https://www.nytimes.com/athletic/7516437/2026/08/17/mlb-padres-sale
 <p>The unanimous vote by MLB owners on Monday marked the formal conclusion of a transaction process that began in April, when Feliciano and Jones initially agreed to purchase the team from the Seidler family. The husband-and-wife duo is acquiring more than 40 percent of the franchise, with other prominent individuals and entities joining their ownership group at a smaller combined percentage.</p>
 <p>The sale is expected to close near the end of this week. The Padres organization has announced plans to officially introduce Feliciano and Jones at a Petco Park news conference next Monday.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

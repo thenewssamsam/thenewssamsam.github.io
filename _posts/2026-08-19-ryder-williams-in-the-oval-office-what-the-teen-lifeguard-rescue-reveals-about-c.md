@@ -96,13 +96,13 @@ source_url: "https://www.cbsnews.com/news/trump-teen-lifeguard-ryder-williams-ov
     <p>The harrowing incident unfolded quickly off the coast of Santa Cruz. Ten-year-old Nathaniel Rai was caught in a powerful rip current, fighting against crashing surf that his father, Sumit Rai, later noted left his son "a second or two away from dying."</p>
     <p>Witnessing the struggle, 16-year-old Ryder Williams didn't hesitate. Relying on his training, the teenage lifeguard swam out into the dangerous waves, secured Nathaniel, and fought his way back to shore against pounding water. The viral video of the rescue showed just how narrow the margin was between tragedy and survival.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>During their recent Oval Office visit, President Trump praised Williams for his poise and instincts. "What you did was incredible," Mr. Trump remarked, adding, "Maybe lifeguards don't get the credit they deserve." For his part, Williams remained remarkably grounded, crediting the boring, repetitive hours of preparation: "Lifeguards try to fall back on their training during dangerous moments."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -110,13 +110,13 @@ Seagate Portable External Hard Drive
     <h2 id="lessons-in-courage">The Quiet Power of Preparation and Character</h2>
     <p>Stories like Ryder Williams' resonate so deeply because they cut through the cynicism of the daily news cycle. They remind us that character isn't forged in grand, theoretical debates; it is built in quiet preparation for moments we hope will never come.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Most of us will never have to swim into a churning Pacific rip current to pull a stranger to safety. Yet we all face our own sudden rip currents—unexpected crises in our families, careers, or communities where panic is easy and action is hard. Williams' response offers a few timeless lessons:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -130,7 +130,7 @@ Tactical Waterproof Backpack
     <div class="ncg-quote-box">
         <p>&ldquo;True courage isn't the absence of fear when the waves crash around you; it's the quiet choice to rely on your training and swim straight into the danger anyway.&rdquo;</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -138,7 +138,7 @@ Tactical Waterproof Backpack
 
     <p>I'm reminded sometimes that the most meaningful contributions to our world often come from ordinary people simply doing their jobs with extraordinary care. Williams didn't set out to become a viral sensation or visit the president; he simply showed up for his shift, watched the water, and answered the call when it mattered most.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

@@ -21,7 +21,7 @@ source_url: 'https://mashable.com/tech/have-i-been-flocked-license-plate-search'
 <h2 id="what-happened">What Happened: The Rise of "Have I Been Flocked?"</h2>
 <p>As communities increasingly push back against Flock Safety’s expanding network of automated license plate readers—canceling municipal contracts and mapping camera locations—a new tool has emerged to bring transparency to the data. Developed as part of an independent project called Footnote4a, the website <strong>Have I Been Flocked?</strong> compiles public audit logs released by local governments.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

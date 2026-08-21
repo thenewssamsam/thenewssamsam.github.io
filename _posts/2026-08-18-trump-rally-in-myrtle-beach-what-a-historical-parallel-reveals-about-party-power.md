@@ -38,7 +38,7 @@ source_url: 'https://wpde.com/news/local/trump-rally-in-myrtle-beach-prompts-pos
 <h2>What Happened in South Carolina?</h2>
 <p>The South Carolina Republican Party announced the postponement of a scheduled U.S. Senate runoff stump stop at the Anderson County Civic Center, which had been slated for Friday, August 21. The disruption came directly from a competing, high-profile rally featuring President Donald Trump in Myrtle Beach on the exact same day.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

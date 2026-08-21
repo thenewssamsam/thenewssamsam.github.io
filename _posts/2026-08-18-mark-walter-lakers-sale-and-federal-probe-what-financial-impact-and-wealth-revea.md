@@ -24,7 +24,7 @@ source_url: ''
 
 <p>For years, Walter maintained an unassuming profile despite controlling sports teams like the Los Angeles Dodgers, Premier League club Chelsea FC, and the WNBA’s Los Angeles Sparks through his holding company, TWG Global, and financial firm Guggenheim Partners. Now, federal investigations by the U.S. Attorney’s Office for the Southern District of New York, the FBI, and the SEC have thrust his complex financial machinery into an unaccustomed spotlight. Understanding this story requires looking past the stadium lights and examining the underlying financial mechanics that govern large-scale holding companies, insurance portfolios, and regulatory compliance.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

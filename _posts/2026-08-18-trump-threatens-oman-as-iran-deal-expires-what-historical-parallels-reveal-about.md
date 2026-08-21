@@ -19,7 +19,7 @@ source_url: 'https://www.cnn.com/2026/08/17/world/live-news/iran-war-trump'
 
 <p>For ordinary observers trying to make sense of overlapping crises from the Persian Gulf to Gaza, the headlines can feel dizzying. But beneath the daily rush of warnings, denials, and diplomatic maneuvers lies a familiar rhythm of pressure, deterrence, and maritime vulnerability that has played out across centuries.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

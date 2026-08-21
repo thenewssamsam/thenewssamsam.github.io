@@ -26,7 +26,7 @@ source_url: "https://www.psu.edu/news/campus-life/story/penn-state-responds-seri
     <div style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
         <p><strong>Shareable Insight:</strong> "When a student organization faces criminal allegations, the 'cost' isn't just legal fees—it is the erosion of institutional trust and the total loss of the organization's operational capital."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -36,7 +36,7 @@ Seagate Portable External Hard Drive
         <h2>The Financial Mechanics of Accountability</h2>
         <p>From a financial perspective, universities operate much like any large-scale enterprise. When an organization like a fraternity faces suspension, the university must redirect significant resources toward internal investigations. These administrative costs—legal reviews, staff hours for student conduct hearings, and increased security monitoring—are ultimately borne by the institution’s budget.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -44,7 +44,7 @@ Tactical Waterproof Backpack
         <h3>The Cost of Operating Outside Oversight</h3>
         <p>Organizations like the unrecognized Sigma Chi often face distinct financial disadvantages. Without university recognition, these groups lack access to institutional insurance policies, professional liability protection, and campus resources. When a crisis occurs, the financial burden of legal defense and potential civil liability falls entirely on the individual members and their private alumni associations, rather than being mitigated by university-backed risk management programs.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -52,7 +52,7 @@ Tactical Waterproof Backpack
         <div style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 10px; margin: 10px 0;">
             <p><strong>Recommended Resource:</strong> <a href="#">University Risk Management & Campus Safety Handbook</a> - </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -61,7 +61,7 @@ Seagate Portable External Hard Drive
         <h3>Impact on Student Fees and Resources</h3>
         <p>Every dollar spent on hazing prevention and disciplinary hearings is a dollar diverted from other student services. While these efforts are necessary for safety, the recurring need for such initiatives represents an operational inefficiency caused by the failure of individual chapters to adhere to university standards. For the average student, this can manifest as redirected funds that might otherwise have supported student life programs or campus infrastructure.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -71,14 +71,14 @@ Seagate Portable External Hard Drive
         <h2>A Reflection on Stewardship and Truth</h2>
         <p>The situation at Penn State brings to mind the biblical principle of stewardship. We are called to manage our communities and influence with integrity. Proverbs 22:1 reminds us that "A good name is more desirable than great riches; to be esteemed is better than silver or gold." These students, and the organizations they represent, had a responsibility to steward their influence and their environment with honesty. When that trust is broken by criminal activity, the community suffers a loss that no amount of money can easily restore.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
         
         <p>This reality invites us to consider our own choices: are we building foundations of integrity, or are we risking our future—and the futures of those around us—for temporary gains? Galatians 6:7 reminds us, "Do not be deceived: God cannot be mocked. A man reaps what he sows." Every choice, whether in a private meeting or a public organization, carries a consequence that extends far beyond the moment.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

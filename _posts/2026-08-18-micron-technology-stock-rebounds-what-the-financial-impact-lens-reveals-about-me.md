@@ -149,7 +149,7 @@ source_url: 'https://www.investors.com/research/micron-technology-stock-mu-memor
   <h2 id="what-happened">What Happened with Micron Stock?</h2>
   <p>Semiconductor maker Micron Technology recently made headlines by landing a spot on the IBD 50 Growth Stocks To Watch list. The stock has been carving out a consolidation pattern, a common technical setup where a surging asset pauses to digest gains before potentially launching into its next leg higher. On Monday, Micron reached an early entry point as buyers stepped back in.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

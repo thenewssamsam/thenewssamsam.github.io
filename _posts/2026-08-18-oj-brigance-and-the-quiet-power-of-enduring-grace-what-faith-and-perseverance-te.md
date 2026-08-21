@@ -24,7 +24,7 @@ source_url: ''
 <p>The Baltimore Ravens announced on Monday that O.J. Brigance had died at the age of 56. Diagnosed with amyotrophic lateral sclerosis—commonly known as Lou Gehrig's disease—back in 2007, Brigance faced a terminal prognosis with an unyielding spirit that came to define the latter half of his life.</p>
 <p>Brigance's professional football journey was itself remarkable. He is the rare player to win both a Canadian Football League championship and a Super Bowl title for teams in the same city, Baltimore. He made the very first tackle in Super Bowl XXXV during the Ravens' dominant 34-7 victory over the New York Giants in January 2001. Yet, as monumental as those athletic milestones were, those who knew him best understood that his true legacy began long after he hung up his cleats.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

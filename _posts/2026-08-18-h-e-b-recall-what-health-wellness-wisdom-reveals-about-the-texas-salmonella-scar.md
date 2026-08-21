@@ -41,7 +41,7 @@ When Texas grocery giant H-E-B pulled more than 50 items from its shelves due to
 
 <p>The affected merchandise reached retail customers in Texas and Louisiana between July 3 and August 5. The impacted selection includes both NatureBest-branded goods and in-store-made H-E-B favorites, such as assorted ceviches, guacamole, pico de gallo containers, diced jalapeños, and jalapeño stuffed mushrooms.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 CeraVe Skin Renewing Night Cream 
 </a></p>
 

@@ -30,7 +30,7 @@ source_url: "https://www.foxnews.com/us/penn-state-cocaine-bust-nets-14-arrests-
 <h2>What Happened in the Penn State Drug Bust</h2>
 <p>Pennsylvania Attorney General Dave Sunday announced the sweeping arrests stemming from a coordinated, highly profitable drug-trafficking operation operating out of off-campus houses associated with the Delta Upsilon and Sigma Chi fraternities. According to investigators, alleged ringleaders Agostino Abbatiello and Thomas Robinson orchestrated regular trips to Philadelphia and New York to secure large quantities of cocaine.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

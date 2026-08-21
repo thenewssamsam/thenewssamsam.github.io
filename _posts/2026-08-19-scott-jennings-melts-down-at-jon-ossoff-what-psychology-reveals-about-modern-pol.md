@@ -27,21 +27,21 @@ source_url: "https://www.thedailybeast.com/scott-jennings-melts-down-at-dem-star
 <h2 id="the-psychology-of-political-outrage">The Psychology of Political Outrage and Tribal Defense</h2>
 <p>Moments like the Jennings-Ossoff dustup offer a fascinating window into human behavior under the microscope of public life. Why do political figures and commentators react with such explosive intensity to seemingly peripheral remarks? Psychologists often point to group identity theory and tribal defense mechanisms.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>When an individual's political in-group is criticized, the human brain frequently processes the critique not as an argument about policy, but as a direct assault on personal identity and values. For commentators like Jennings, who have built a public brand on defending a specific political movement, stepping in to shield a colleague or staffer acts as a reinforcement of loyalty. It signals strength to the base and maintains group cohesion.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>At the same time, we see the operation of cognitive dissonance and confirmation bias on both sides of the aisle. Critics like Ossoff view close aides through the lens of institutional risk—interpreting proximity as an echo chamber that shields leaders from dissenting facts. Supporters view that same loyalty as essential resilience against relentless opposition. Each side interprets the exact same interpersonal dynamic entirely differently, depending entirely on which colored jersey they wear.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -55,21 +55,21 @@ Tactical Waterproof Backpack
 <h2 id="a-reflection-on-words-and-wisdom">A Reflection on Words and Wisdom</h2>
 <p>This kind of high-decibel political theater naturally invites a step back from the cable news cycle to consider how we communicate as human beings. When public figures trade insults and commentators rush to defend honor with fiery online posts, it often obscures deeper truths about human nature and the temptations of power.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>It makes me think of the timeless wisdom found in Proverbs 18:21, which reminds us that "death and life are in the power of the tongue." While ancient proverbs were written long before social media feeds and 24-hour cable hits, the underlying principle remains remarkably sharp. Words chosen in anger or calculated for political theater rarely build anything lasting; instead, they deepen divisions and inflame resentment.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Scripture also frequently warns against the dangers of flattery and isolated echo chambers—the very dynamic Ossoff claimed to be addressing. Proverbs 27:6 notes, "Faithful are the wounds of a friend; but the kisses of an enemy are deceitful." Whether in the highest offices of government or in our own daily interactions, the healthiest environments are those where people are surrounded by truth-tellers rather than yes-men. When leaders—or any of us—surround ourselves only with voices that validate our preferred narratives, wisdom is inevitably sidelined.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -79,7 +79,7 @@ Seagate Portable External Hard Drive
 <h2 id="how-should-readers-respond">How Should Readers Respond?</h2>
 <p>It is easy to get sucked into the daily outrage machine, treating political clashes like a spectator sport. Instead of letting cable news drama dictate your emotional state, consider these practical steps:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

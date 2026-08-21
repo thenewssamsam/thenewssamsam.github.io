@@ -26,7 +26,7 @@ source_url: 'https://watchers.news/2026/08/17/el-nino-forecast-to-reach-historic
 
   <p>For North America and beyond, this points toward a distinct winter pattern: wetter conditions across the southern tier, drier trends in the Northwest, and above-normal temperatures across much of the West and northern tier. Yet, as meteorological models map out the physical atmosphere, a parallel drama unfolds in our minds. How do everyday people process warnings of "historic" proportions, and why does extreme weather so often catch communities psychologically off guard?</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

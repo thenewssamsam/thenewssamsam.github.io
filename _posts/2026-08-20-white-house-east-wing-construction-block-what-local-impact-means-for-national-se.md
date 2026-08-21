@@ -39,7 +39,7 @@ source_url: "https://www.foxnews.com/opinion/morning-glory-scotus-should-urgentl
 
 <p>However, the National Trust for Historic Preservation challenged the project in court, arguing for strict adherence to historic preservation reviews. Lower courts sided in part with micromanaging the construction process, prompting the DOJ to seek urgent Supreme Court relief before a response deadline of August 18, 2026.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -52,21 +52,21 @@ Tactical Waterproof Backpack
 <h2 id="local-impact">A Local & Community Impact Perspective: DC Neighbors and National Landmarks</h2>
 <p>For residents of Washington, D.C., and the surrounding metropolitan region, federal properties are more than distant symbols of government; they are immediate neighbors. The physical footprint of the Executive Mansion sits squarely within a vibrant urban community where federal infrastructure and local civilian life constantly intersect.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>When legal disputes freeze federal construction projects, the ripples are felt locally. The District of Columbia is uniquely positioned as both a home for millions of working families and the command center for the federal government. Securing federal facilities properly is not merely an abstract constitutional debate for D.C. commuters and neighborhood associations; it is about maintaining a safe, stable regional environment where government operations can proceed without inviting catastrophic security vulnerabilities.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Critics of the lower court interventions point out that treating the White House like a standard historic home open for public tours ignores its primary function as a national security nerve center. In any local community, municipal authorities and property owners maintain the inherent right to secure their premises against evolving threats. Denying the commander in chief similar authority over the executive residence creates a dangerous anomaly in local risk management.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -74,7 +74,7 @@ Tactical Waterproof Backpack
 <div class="ncg-quote-box">
   <p>"To ignore the rapidly evolving threats to the White House against this reality would be reckless beyond reason and defy common sense."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -88,21 +88,21 @@ Tactical Waterproof Backpack
 <h2 id="security-reality">The Security Matrix and Regional Vulnerabilities</h2>
 <p>The backdrop to the East Wing litigation includes a rapidly escalating threat matrix. Over the past three years, advancements in drone technology, hypersonic missile capabilities, and persistent threats from state sponsors of terror have transformed the security landscape for high-value targets across the United States.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>When Vice President Dick Cheney was evacuated from the West Wing during the September 11 attacks, the necessity of hardened subterranean emergency facilities became starkly apparent. An 84-year-old emergency center designed during World War II is fundamentally unequipped to handle contemporary aerial and digital threats.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Delaying essential modernizations over procedural litigation risks leaving national leaders exposed. The community surrounding the White House relies on effective federal security measures to deter attacks that could destabilize the entire region. Common sense dictates that national security infrastructure must evolve as fast as the threats directed against it.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -115,14 +115,14 @@ Tactical Waterproof Backpack
 <h2 id="biblical-reflection">A Reflection on Stewardship and Protection</h2>
 <p>When considering the safety of leaders and the stewardship of national infrastructure, Proverbs 21:31 reminds us: <em>"The horse is made ready for the day of battle, but victory belongs to the Lord."</em> This principle of responsible preparation runs deep throughout history. Taking practical, prudent steps to secure a home, an office, or a community against known dangers is not a sign of fear, but an act of responsible stewardship.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Scripture frequently highlights the duty of leaders to protect those entrusted to their care and to maintain order within their walls. As we observe legal battles over security fortifications, we are reminded that wisdom requires balancing reverence for the past with the sober recognition of present realities.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

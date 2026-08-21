@@ -34,14 +34,14 @@ source_url: 'https://www.bostonglobe.com/2026/08/19/metro/lindsay-clancy-trial-l
 
 <p>During Wednesday's proceedings in the high-profile trial, Dr. Paul Zeizel testified that Clancy continues to think of her children daily, stating that she "really loves them and misses them." The testimony came during a defense effort to illustrate the depth of her ongoing psychological turmoil. Prosecutors, however, pressed the psychologist on potential confirmation bias during a sharp cross-examination.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>At the same time, Judge William Sullivan presided over legal arguments regarding whether a former McLean Hospital social worker could testify about the facility's staffing levels during Clancy's stay in early 2023. Ultimately, the judge limited the former employee's testimony due to the temporal gap since her departure in 2021, while allowing the hospital's written records into evidence. The trial remains focused on whether Clancy should be held criminally responsible or found not guilty by reason of postpartum psychosis, a condition her defense argues profoundly compromised her grasp of reality.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -54,14 +54,14 @@ Seagate Portable External Hard Drive
 
 <p>Stories like the Lindsay Clancy trial defy simple categorization. They force observers to confront the darkest corners of human vulnerability—where biology, mind, and spirit intersect. From a traditional biblical perspective, human beings are complex, fragile vessels. Scripture never minimizes the reality of mental anguish, nor does it pretend that our earthly existence is free from profound suffering.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>When reflecting on deep mental distress and the tragic loss of innocent life, the Bible reminds us of our ultimate reliance on divine mercy. As the Apostle Paul writes in <strong>2 Corinthians 1:3-4</strong> (ESV): <q>Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort, who comforts us in all our affliction, so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God.</q> This passage invites us to approach human tragedy not with self-righteous condemnation, but with a profound posture of compassionate grief.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -72,7 +72,7 @@ Seagate Portable External Hard Drive
 
 <p>Furthermore, theological humility requires us to resist the urge to assign simplistic spiritual formulas to medical and psychological catastrophes. The Book of Job reminds us that human beings often lack the panoramic view of suffering and pain. When Zeizel testified about Clancy's ongoing love and sorrow for her children, it served as an aching reminder of the image of God remaining even within a shattered mind.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -85,14 +85,14 @@ Seagate Portable External Hard Drive
 
 <p>The legal arguments in Plymouth Superior Court highlight a societal struggle: how to justly weigh moral responsibility against severe neurological and psychological impairment. Postpartum psychosis is a recognized medical condition that distorts perception to a terrifying degree. Recognizing this medical reality does not erase the tragedy; rather, it frames it as an illness that overpowered a mother's capacity.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>In our communities, cases like this underscore why mental health care must be treated as a vital component of holistic human stewardship. When individuals suffer in silence, the entire community bears the weight of the resulting fractures.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -105,7 +105,7 @@ Seagate Portable External Hard Drive
 
 <p>Faced with news reports that stir up profound sadness, believers are called to specific, grounded actions:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

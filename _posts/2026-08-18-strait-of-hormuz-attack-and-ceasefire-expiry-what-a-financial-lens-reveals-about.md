@@ -37,7 +37,7 @@ source_url: 'https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceas
 <p>The latest escalation arrived hard on the heels of a failed diplomatic window. Following the expiration of a 60-day negotiating ceasefire reached in mid-June, both Washington and Tehran have rejected further talks. U.S. President Donald Trump explicitly ruled out an extension during Oval Office remarks, noting that Tehran's terms do not align with what is required to end the conflict.</p>
 <p>Almost immediately, the security situation on the water deteriorated. The U.K. Maritime Trade Operations agency confirmed that a cargo vessel transiting the crucial waterway was hit by a projectile, damaging its engine room and resulting in a crew casualty. The remaining crew members were evacuated and assisted by the Omani Coast Guard. Meanwhile, Iranian military spokespersons hardened the rhetoric, warning that vessels attempting unapproved passage face severe hull damage.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

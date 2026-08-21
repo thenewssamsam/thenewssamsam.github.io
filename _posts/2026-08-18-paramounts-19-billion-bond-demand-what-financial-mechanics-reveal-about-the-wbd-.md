@@ -37,7 +37,7 @@ source_url: ''
     <p>Corporate acquisitions of this scale are rarely simple, but the legal battle between Paramount and a coalition of 12 state attorneys general—alongside the Writers Guild of America—has escalated into an extraordinary financial confrontation.</p>
     <p>Paramount filed a court motion asking U.S. District Judge Araceli Martinez-Olguín to require the state plaintiffs and the union to post a staggering  billion bond. The rationale? If the company ultimately prevails in court against the antitrust lawsuit, it wants guaranteed financial compensation for unrecoverable losses incurred while the deal is stalled.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

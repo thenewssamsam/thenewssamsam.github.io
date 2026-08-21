@@ -21,7 +21,7 @@ source_url: 'https://www.scotusblog.com/2026/08/texas-families-ask-supreme-court
 <h2 id="what-happened">What Happened in the Texas Ten Commandments Case?</h2>
 <p>Attorneys representing an interfaith coalition of Texas public-school families formally petitioned the Supreme Court to review a sharply divided 9-8 ruling by the U.S. Court of Appeals for the 5th Circuit. That April decision upheld Texas Senate Bill 10 (S.B. 10), a 2025 statute mandating that public elementary and secondary schools display a framed copy of the Ten Commandments in a conspicuous place in every single classroom, utilizing the specific text drawn from the King James Bible.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

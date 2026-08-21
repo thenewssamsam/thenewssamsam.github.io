@@ -66,7 +66,7 @@ source_url: "https://www.proofpoint.com/us/blog/threat-insight/cleaning-out-inbo
     <h2>The Anatomy of a Half-Click Exploit</h2>
     <p>The operational security and technical sophistication behind TA488's new malware, dubbed <strong>OWAReaper</strong>, reveal a disturbing evolution in modern cyber threats. The attackers sent emails bearing utterly mundane, bureaucratic subject lines—topics like semiconductor supply chain metrics, global gas market flows, or hydrological indicators. To the busy professional, these looked like harmless industry newsletters.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -75,7 +75,7 @@ Tactical Waterproof Backpack
     </div>
     <p>Behind those banal subjects, however, lay hidden code tucked inside social media icons in the HTML body. Once rendered by the Exchange server, OWAReaper installs itself silently into browser local storage and local database caches, surviving password rotations, device reboots, and even full system re-imaging. It grants the attackers persistent backdoor access by altering folder permissions within the mail server itself.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -89,7 +89,7 @@ Seagate Portable External Hard Drive
     <h2>A Faith Perspective on Hidden Threats</h2>
     <p>When we examine digital breaches like the TA488 campaign through a biblical and spiritual lens, certain timeless human realities come into sharp relief. In our modern age, we tend to separate the digital realm from the moral realm, treating cybersecurity as a purely technical exercise involving patches, firewalls, and server settings. Yet scripture frequently reminds us that human ingenuity, whether used for creation or corruption, flows from the heart.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -98,7 +98,7 @@ Tactical Waterproof Backpack
     </div>
     <p>The tactic used by TA488—disguising malicious code inside completely ordinary, boring, and trustworthy-looking reports—bears a striking resemblance to ancient patterns of deception. Throughout history, harmful influences have rarely announced themselves with flashing red lights; instead, they slip in quietly through the mundane routines of daily life, hiding behind familiar words and comforting appearances.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -106,7 +106,7 @@ Seagate Portable External Hard Drive
     <div class="ncg-quote-box">
       <p>"The greatest deception often arrives not in the guise of roaring evil, but wrapped in the quiet clothing of the everyday routine."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -121,7 +121,7 @@ Seagate Portable External Hard Drive
     <h2>Scripture and the Call to Watchfulness</h2>
     <p>This reality makes me think about how easily we let down our guard when things appear normal. We scroll through our inboxes, trusting the safety of our digital environment just as we walk down familiar streets. Yet wisdom calls us to maintain a healthy, sober alertness.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -130,7 +130,7 @@ Tactical Waterproof Backpack
     </div>
     <p>Scripture repeatedly urges believers to stay awake and exercise discernment in a world filled with hidden traps:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -138,7 +138,7 @@ Seagate Portable External Hard Drive
     <blockquote>
       <p><em>"Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to devour."</em> — <strong>1 Peter 5:8 (NIV)</strong></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -146,7 +146,7 @@ Tactical Waterproof Backpack
 
     <p>While Peter was speaking of spiritual vigilance rather than state-sponsored cyberespionage, the underlying principle remains profoundly applicable. Just as OWAReaper exploits unseen vulnerabilities in system code, spiritual compromise often targets the unguarded corners of our habits and thoughts. Furthermore, scripture reminds us of the value of testing everything carefully:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -154,7 +154,7 @@ Seagate Portable External Hard Drive
     <blockquote>
       <p><em>"Brothers and sisters, if someone is caught in a sin, you who live by the Spirit should restore that person gently. But watch yourselves, or you also may be tempted."</em> — <strong>Galatians 6:1 (NIV)</strong></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -162,7 +162,7 @@ Seagate Portable External Hard Drive
 
     <p>These verses invite us to consider how fragile our systems—both technical and personal—truly are when left unmonitored. They remind us to cultivate a posture of grounded wisdom, recognizing that peace and security cannot be manufactured solely through human technology.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -176,7 +176,7 @@ Seagate Portable External Hard Drive
     <h2>How Should Christians Respond?</h2>
     <p>Recognizing the fragile nature of our digital infrastructure shouldn't lead to paranoia or fear, but rather to responsible stewardship and thoughtful action. Here are concrete ways to respond:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

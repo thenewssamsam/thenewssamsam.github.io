@@ -37,7 +37,7 @@ source_url: ''
   <p>On the evening of February 16, 2022, 33-year-old Jared Bridegan dropped off his 9-year-old twins at the home of his ex-wife, Shanna Gardner, following a routine family dinner. Driving back to St. Augustine with another of his children strapped safely in the backseat, Bridegan encountered an unexpected obstacle: a tire deliberately placed in the middle of the dark road.</p>
   <p>Following a natural instinct to clear a road hazard, Bridegan stopped his vehicle, turned on his warning lights, and stepped out. Moments later, he was shot twice in what prosecutors describe as a targeted, carefully planned ambush. More than four years later, the legal fallout is unfolding in a Duval County courtroom, exposing the terrifying depths to which some bitter domestic disputes can sink.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

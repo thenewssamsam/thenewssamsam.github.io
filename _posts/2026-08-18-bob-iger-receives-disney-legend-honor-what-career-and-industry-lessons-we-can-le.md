@@ -37,7 +37,7 @@ source_url: 'https://variety.com/2026/film/news/bob-iger-robert-downey-jr-harris
     <p>At the 2026 D23 convention, the Walt Disney Company inducted its former CEO into its hall of fame, making Iger the first executive in the company's history to earn the official title of "Disney Legend." The ceremony brought out an all-star roster of talent—including Anne Hathaway, Lin-Manuel Miranda, Ellen Pompeo, Diane Sawyer, and Harrison Ford—to pay tribute to the executive who guided the company through decades of unprecedented expansion and severe global turbulence.</p>
     <p>Introduced by his newly installed CEO successor, Josh D'Amaro—who took the reins in March 2026—Iger reflected on his unlikely beginnings and the supporting role executives play in lifting up creative talent. Robert Downey Jr. lauded Iger's defining trait as courage, pointing to high-stakes gambles that reshaped the entertainment landscape.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Toshiba 5400RPM Hard Drive 
 </a></p>
 

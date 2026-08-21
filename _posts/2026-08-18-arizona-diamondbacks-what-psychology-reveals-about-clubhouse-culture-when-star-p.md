@@ -65,7 +65,7 @@ source_url: ''
 <h2 id="what-happened">What Happened: The Sudden Roster Shock</h2>
 <p>The Arizona Diamondbacks found themselves facing an unexpected crisis right before a high-stakes matchup against the Boston Red Sox. Star player Ketel Marte was missing from the lineup, prompting the organization to place him on the restricted list. Following a tough rout by the Red Sox, media members crowded infielder Geraldo Perdomo in the clubhouse, probing for details, gossip, and reactions.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

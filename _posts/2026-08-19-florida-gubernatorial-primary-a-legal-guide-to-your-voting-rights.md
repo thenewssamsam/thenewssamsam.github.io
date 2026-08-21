@@ -27,7 +27,7 @@ source_url: "https://katu.com/news/nation-world/florida-voters-choose-nominees-i
     <h2>Understanding Florida’s Closed Primary System</h2>
     <p>Florida utilizes a "closed primary" system. This is a critical legal distinction that determines who can cast a ballot for which candidate.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -35,7 +35,7 @@ Tactical Waterproof Backpack
     <div style="border-left: 5px solid #6a5acd; background-color: #f4f0ff; padding: 15px; margin: 20px 0;">
       <p><strong>Legal Notice:</strong> This is general information, not legal advice. Consult a licensed attorney or your county Supervisor of Elections office regarding your specific situation or any challenges you face at the polling place.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -44,7 +44,7 @@ Seagate Portable External Hard Drive
     <h3>Who Can Vote?</h3>
     <p>Under Florida law, only voters who are registered with a specific political party may vote in that party's primary election. This means:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -63,13 +63,13 @@ Tactical Waterproof Backpack
     <h2>A Perspective on Stewardship and Truth</h2>
     <p>In moments of political transition, I am reminded of the call to be faithful stewards of our responsibilities. Whether in the voting booth or our daily lives, we are called to seek truth and act with integrity. As Proverbs 11:14 (ESV) says, "Where there is no guidance, a people falls, but in an abundance of counselors there is safety." This reminds us that our civic participation is a form of counsel—a way to contribute to the direction of our community.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>Furthermore, 1 Peter 2:17 (NIV) encourages us to "Show proper respect to everyone, love the family of believers, fear God, honor the emperor." While our political landscape is often divided, we are invited to approach our civic duties with a spirit of respect for our neighbors, even when we disagree on the path forward.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

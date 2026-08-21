@@ -22,7 +22,7 @@ source_url: "https://www.nbcnews.com/politics/2026-primary-special-elections/flo
     <div style="border-left: 4px solid #d4af37; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Recommended for You:</strong> <a href="#">Civic Engagement Journal - </a> | Keep track of your reflections on local and national policy as you engage with your community.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -30,7 +30,7 @@ Seagate Portable External Hard Drive
 
     <p>These results determine the path for the remaining two years of the term originally won by Marco Rubio in 2022. As voters look ahead, the focus shifts from primary campaigning to the broader implications of leadership and the direction of the state.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -40,7 +40,7 @@ Tactical Waterproof Backpack
     <h2>A Faith & Scripture Lens on Leadership</h2>
     <p>In the midst of political maneuvering and vote counts, it is easy for the noise of the election cycle to drown out the quiet reflection of the heart. For the believer, an election is not merely a contest of power; it is an invitation to consider the nature of stewardship. Leadership, in a biblical sense, is never about self-aggrandizement; it is about serving the needs of the neighbor and upholding truth.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -48,7 +48,7 @@ Tactical Waterproof Backpack
     <div style="border-left: 4px solid #d4af37; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><em>"The measure of a leader is not found in the volume of their campaign, but in the integrity of their character and their commitment to the common good."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -56,7 +56,7 @@ Tactical Waterproof Backpack
 
     <p>When we look at candidates, we are reminded of the standard set forth in <strong>Exodus 18:21</strong>: <em>"But select capable men from all the people—men who fear God, trustworthy men who hate dishonest gain—and appoint them as officials over thousands, hundreds, fifties and tens."</em> This verse invites us to prioritize character, fear of God, and integrity over partisan affiliation or charisma. It challenges us to look beyond the surface and seek those who demonstrate a genuine heart for justice and humility.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -64,7 +64,7 @@ Tactical Waterproof Backpack
     <div style="border-left: 4px solid #d4af37; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Recommended for You:</strong> <a href="#">NIV Study Bible, Large Print - </a> | Deepen your understanding of biblical principles for every area of life, including public service.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -72,7 +72,7 @@ Tactical Waterproof Backpack
 
     <p>The political process is often messy and fraught with human error. However, we are called to participate with a spirit of prayer rather than cynicism. We must hold our leaders accountable, not through bitterness, but through a commitment to the values that align with the Kingdom of God—mercy, truth, and the protection of the vulnerable.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -82,14 +82,14 @@ Seagate Portable External Hard Drive
     <h2>Reflecting on Our Civic Duty</h2>
     <p>I find myself reflecting on the weight of our choices as voters. It is easy to feel overwhelmed by the candidates or the intensity of the debate. Yet, I am reminded of <strong>1 Timothy 2:1-2</strong>: <em>"I urge, then, first of all, that petitions, prayers, intercession and thanksgiving be made for all people—for kings and all those in authority, that we may live peaceful and quiet lives in all godliness and holiness."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>This verse reminds me that our primary duty toward those in authority is not just to judge them, but to pray for them. Whether or not the candidate we supported won, our responsibility remains the same: to pray for wisdom, discernment, and a heart for the people they serve. It shifts the burden from our own anxiety to God's sovereignty. We are called to be salt and light, which means our involvement in the democratic process should be characterized by grace and a pursuit of peace.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -106,7 +106,7 @@ Tactical Waterproof Backpack
     <div style="border-left: 4px solid #d4af37; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Recommended for You:</strong> <a href="#">Prayer Journal for Citizens - </a> | A dedicated space to record your prayers for our nation and community leaders.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

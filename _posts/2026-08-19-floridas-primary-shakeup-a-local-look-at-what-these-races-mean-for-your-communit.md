@@ -27,7 +27,7 @@ source_url: "https://www.cnn.com/2026/08/18/politics/florida-alaska-wyoming-prim
 <h2>Why This Matters to Your Community</h2>
 <p>When district lines change, so does the connection between a representative and their constituents. In many parts of Florida, residents are finding themselves in new districts where the local concerns—whether it’s coastal infrastructure, education funding, or regional economic development—may be prioritized differently than they were previously.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -35,7 +35,7 @@ Crevice Cleaning Brush Set
 <div class="ncg-quote-box" style="border-left: 5px solid #4a7c59; background: #f9f9f9; padding: 15px; margin: 20px 0;">
 <p><strong>"The true impact of a primary isn't found in the national polling data; it’s found in the specific policy focus of the candidate who will be tasked with representing your unique local interests for the next two years."</strong></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -43,7 +43,7 @@ Crevice Cleaning Brush Set
 
 <p>For those in newly redrawn districts, the primary represents a chance to vet candidates on issues that hit close to home. Are they focused on the specific growth challenges of your city? Do they understand the local economic landscape? These are the questions that matter more than the national party labels that often dominate the airwaves.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -53,7 +53,7 @@ Crevice Cleaning Brush Set
 <h2>Reflecting on Our Responsibility</h2>
 <p>In times of political transition and local uncertainty, it is easy to become cynical or overwhelmed by the noise of campaigns. However, I’m reminded that being a good neighbor involves engaging with the processes that govern our shared lives with wisdom and grace. Scripture reminds us, "Seek the peace and prosperity of the city to which I have carried you" (Jeremiah 29:7, NIV). This encourages us to look past the bitterness of feuds and toward the tangible needs of our own communities. We are invited to consider how our participation can contribute to the well-being of those around us, rather than simply fueling the fires of division.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -72,7 +72,7 @@ Crevice Cleaning Brush Set
 <h2>Closing Takeaway</h2>
 <p>As the results come in, remember that the most significant changes often happen at the local level. Regardless of which candidates secure their party's nomination, the duty to stay informed and involved remains with us. Our communities thrive when we pay attention to the details that affect our daily lives.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 

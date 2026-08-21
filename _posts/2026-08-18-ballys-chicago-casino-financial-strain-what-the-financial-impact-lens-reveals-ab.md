@@ -22,7 +22,7 @@ source_url: 'https://chicago.suntimes.com/casinos-gambling/2026/08/17/ballys-chi
   <h2 id="what-happened">What Happened at Bally’s Chicago?</h2>
   <p>In a quarterly filing with the Securities and Exchange Commission (SEC), Bally’s issued a formal "going concern" warning. Companies are legally required to make this disclosure when there is serious doubt about their ability to avoid defaulting on debt obligations over the upcoming twelve months. Bally's cited persistent operational losses, negative cash flows, and a staggering debt burden exceeding  billion as core drivers behind the warning.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -36,7 +36,7 @@ source_url: 'https://www.publicsource.org/property-tax-reassessment-ordered-in-a
   <h2 id="what-happened">What Happened: The Court Order Explained</h2>
   <p>The judicial directive arrives after years of mounting pressure from local school districts—most notably Pittsburgh Public Schools—and a recent recommendation from the county Government Review Commission calling for routine property valuations every four years. Under the new court order, Allegheny County must enlist a third-party contractor within six months to carry out the countywide reassessment. That contractor must substantially begin the process within three months of selection, utilizing data collection methods ranging from aerial imagery and software modeling to in-person property views.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

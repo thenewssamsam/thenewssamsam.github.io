@@ -20,7 +20,7 @@ source_url: 'https://www.foxnews.com/politics/russell-fry-endorses-ex-rival-darl
   <section id="introduction">
     <p>In the wake of a highly competitive South Carolina special Republican U.S. Senate primary, the political landscape is shifting. Rep. Russell Fry, who finished third in the August 11 contest, has officially endorsed the top-finisher, Sen. Darline Graham. As the runoff election approaches on August 25, this move offers a masterclass in political coalition-building and the psychological mechanics of party unity.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

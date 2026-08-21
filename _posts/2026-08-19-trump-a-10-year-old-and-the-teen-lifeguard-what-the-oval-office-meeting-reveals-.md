@@ -34,7 +34,7 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/17/trump-oval-office-c
     <p>In late July, a dramatic video captured a terrifying moment at Seabright Beach in Santa Cruz, California. Ten-year-old Nathanial Rai was swept off his feet by powerful coastal waves. Sixteen-year-old lifeguard Ryder Williams plunged into the churning water, clinging to Nathanial as pounding waves repeatedly crashed over them both. Thanks to Williams and a second lifeguard, Aaron Bohnen, who helped pull them ashore, tragedy was averted.</p>
     <p>Weeks later, the story took an unusual turn when the rescue went viral, catching the attention of Donald Trump's family and the White House. Nathanial, dressed in a dark suit and maroon tie, sat on a gold couch in the Oval Office alongside his father, Sumit Rai, and President Trump. Across from them sat Williams, the teenage lifeguard.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -45,25 +45,25 @@ Seagate Portable External Hard Drive
     <h2>The Psychology of Courage: Why Most Freeze While Heroes Act</h2>
     <p>When we watch dramatic footage of a teenager plunging into towering waves to save a stranger, a common question arises: <em>Why do some people run toward danger while others freeze?</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>From a psychological standpoint, high-stress emergency situations trigger an immediate fight-or-flight response governed by the amygdala. For the average observer, the sheer shock of a crisis can induce paralysis—a phenomenon psychologists associate with cognitive overload and normalcy bias, where the brain struggles to accept that an abnormal, life-threatening event is actually happening.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Lifeguards and professional rescuers, however, undergo rigorous conditioning that overrides this initial panic. Through repeated exposure and specialized training, they build what psychologists call emotional regulation under duress. Their brains are wired to bypass the initial freeze phase, rapidly converting sensory input into calculated, life-saving action.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>What makes Ryder Williams's story particularly striking is his age. At 16, his prefrontal cortex—the area of the brain responsible for impulse control, long-term planning, and assessing complex risks—is still developing. Yet, in a fraction of a second, his situational awareness and empathetic drive outweighed self-preservation. It is a powerful reminder that profound courage is not reserved for adulthood; it often emerges from ordinary youth thrust into extraordinary circumstances.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -71,7 +71,7 @@ Tactical Waterproof Backpack
     <div class="ncg-quote-box">
         <p>&ldquo;Profound courage is not reserved for adulthood; it often emerges from ordinary youth thrust into extraordinary circumstances.&rdquo;</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -83,7 +83,7 @@ Tactical Waterproof Backpack
     <p>Stories like this naturally prompt a deeper moral reflection on what it means to lay down our comfort for the sake of another. Throughout human history, societies have wrestled with the profound weight of protecting the vulnerable.</p>
     <p>When the young lifeguard risked his life in the pounding surf of Santa Cruz, he embodied a principle echoed in ancient wisdom regarding selfless love and the protection of human dignity. As the Apostle John reminds us in 1 John 3:16: <em>&ldquo;By this we know love, that he laid down his life for us, and we ought to lay down our lives for the brothers.&rdquo;</em> While this verse speaks primarily to spiritual sacrifice, the earthly reflection of that truth is visible every day in first responders, firefighters, and everyday citizens who step into harm's way so that others might live.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -94,19 +94,19 @@ Seagate Portable External Hard Drive
     <h2>The Hidden Debate: Are Lifeguards First Responders?</h2>
     <p>While the Oval Office visit provided heartwarming viral moments, it also underscored a serious legislative debate happening concurrently in California.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>As NBC Bay Area reported, the rescue unfolded just as state lawmakers were reviewing proposed legislation that would officially designate lifeguards as first responders. While many citizens expressed shock upon learning that lifeguards do not already hold this official classification, lawmakers like Santa Cruz State Senator John Laird pointed out that the designation is complex.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>True first responder status involves rigorous, standardized training frameworks—such as the extensive months-long programs required for peace officers or EMTs. Upgrading lifeguard status involves navigating difficult logistical questions: What level of standardized training should be required? How does the designation work across different municipal jurisdictions? And crucially, who pays for the expanded training, worker protections, and benefits?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

@@ -26,13 +26,13 @@ source_url: 'https://www.nbcboston.com/news/local/lindsay-clancy-trial-day-16-li
     <h2>What Happened in the Courtroom?</h2>
     <p>Recent developments in the trial have included testimony from forensic experts and significant procedural hurdles. The defense argues that Clancy was suffering from severe bipolar disorder and postpartum psychosis, a condition that they contend left her unable to distinguish right from wrong. Prosecutors, conversely, are focused on the premeditated nature of the actions taken on that January day.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>The trial recently saw a brief pause and the exclusion of a potential witness—a TikTok creator—after questioning outside the presence of the jury. These moments reflect the intense scrutiny placed on how mental health evidence is presented in high-stakes criminal litigation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -42,7 +42,7 @@ Tactical Waterproof Backpack
     <h2>Understanding the Psychology of Postpartum Psychosis</h2>
     <p>From a psychological standpoint, postpartum psychosis is distinct from the more commonly discussed "baby blues" or postpartum depression. It is a rare, medical emergency that can involve a total break from reality, including hallucinations and delusional thinking.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -54,7 +54,7 @@ Tactical Waterproof Backpack
     <h3>Cognitive Dissonance and Crisis</h3>
     <p>Observers often struggle to reconcile the actions described in court with the known history of the defendant. This creates profound cognitive dissonance. When we see a mother who was previously perceived as loving and attentive commit such an act, our brains search for a "logical" explanation. Psychological research suggests that in states of acute psychosis, the internal logic of the individual is entirely hijacked by the illness.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -62,7 +62,7 @@ Tactical Waterproof Backpack
     <div style="border-left: 5px solid #d4af37; background: #fdfaf0; padding: 15px; margin: 20px 0;">
       <p><strong>Recommended Resource:</strong> <em>The Postpartum Depression Workbook</em> by Abigail Burd. A helpful guide for understanding the spectrum of postpartum mental health. <a href="#">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -71,7 +71,7 @@ Tactical Waterproof Backpack
     <h3>The Challenge of Normalcy Bias</h3>
     <p>Normalcy bias—our tendency to underestimate the possibility of a disaster—often leads the public to assume that "someone would have noticed" or that the defendant "must have been in control." However, in cases of rapid-onset psychosis, behavioral shifts can be subtle until they become catastrophic. The legal system struggles here because it is designed for a world of rational actors, whereas the clinical reality of psychosis is defined by irrationality.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -81,13 +81,13 @@ Seagate Portable External Hard Drive
     <h2>A Spiritual Dimension to Suffering</h2>
     <p>In the midst of such immense human suffering, we are reminded of the fragility of the human mind and the weight of our shared brokenness. Scripture offers a perspective on the depth of our inner turmoil. In Psalm 34:18, we read, <em>"The Lord is close to the brokenhearted and saves those who are crushed in spirit."</em> This reminds us that even in the darkest valleys of mental illness and tragedy, there is a call to compassion for the broken.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>We are also reminded of the importance of community and truth. Proverbs 24:11 tells us, <em>"Rescue those being led away to death; hold back those staggering toward slaughter."</em> While this verse often speaks to justice, it also speaks to the imperative of intervention. It invites us to consider how we, as a society, can better support mothers and families before a crisis reaches such a devastating breaking point.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

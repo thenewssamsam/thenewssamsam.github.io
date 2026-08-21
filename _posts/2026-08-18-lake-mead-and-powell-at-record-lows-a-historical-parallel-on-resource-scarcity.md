@@ -24,7 +24,7 @@ source_url: 'https://www.yahoo.com/news/us/articles/two-largest-us-reservoirs-hi
     <h2>What Happened?</h2>
     <p>According to the Bureau of Reclamation, Lake Powell recently dipped to 3,519.80 feet, breaking its previous 2023 record. Meanwhile, Lake Mead, held by the iconic Hoover Dam, has dropped to 1,039.70 feet. These levels are dangerously close to the point where hydroelectric power generation—a primary purpose of these dams—becomes compromised. The federal government has stepped in with a plan to mandate water usage cuts for California, Arizona, and Nevada, a move that has already sparked legal threats and regional tension.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

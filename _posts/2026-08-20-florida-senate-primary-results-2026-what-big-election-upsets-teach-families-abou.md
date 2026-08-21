@@ -25,7 +25,7 @@ source_url: "https://www.nbcnews.com/politics/2026-primary-special-elections/flo
     The recent primary special election results finalized the candidates who will move forward to represent their respective parties for the final two years of the term originally won by Marco Rubio in 2022. According to NBC News and Associated Press vote data, Republican Senator Ashley Moody captured nearly 80% of the vote in a crowded GOP primary field, easily defeating challengers Chris Gleason and Ernest Rivera. 
   </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -33,7 +33,7 @@ Tactical Waterproof Backpack
     On the Democratic side, the race delivered a major surprise. State lawmaker Angie Nixon secured a definitive victory, pulling ahead of Alex Vindman with approximately 56% of the vote. The outcome has sparked widespread discussion among political analysts about shifting voter alignments and grassroots momentum within Florida politics. While political pundits debate the strategy and future campaigning implications, parents watching the results roll in face a different kind of task: helping children make sense of intense political contests, shifting power dynamics, and the very human reality of unexpected outcomes.
   </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive
     When major election surprises flash across television screens and family smartphones, children often absorb the tension and excitement in the room long before they fully understand the underlying policy debates. Whether a child's favorite candidate wins or loses, high-profile political races provide an invaluable window into teaching emotional regulation, respect for diverse viewpoints, and personal resilience.
   </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -51,7 +51,7 @@ Tactical Waterproof Backpack
     In many households, political discussions can quickly become emotionally charged. However, framing election results through a lens of civic education rather than partisan victory helps children see the broader picture. When an upset occurs—such as Angie Nixon's surprising primary win or a landslide victory like Ashley Moody's—it demonstrates that every vote truly matters and that the political landscape can shift rapidly based on grassroots engagement.
   </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -66,7 +66,7 @@ Tactical Waterproof Backpack
     As parents guide their children through these news cycles, several practical communication strategies can help bridge the gap between complex election data and age-appropriate understanding:
   </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -87,7 +87,7 @@ Seagate Portable External Hard Drive
     Watching the swift currents of political life can sometimes leave families feeling uneasy about the division and friction present in public discourse. This makes me think about how easy it is to place ultimate hope in political outcomes rather than enduring virtues. I am reminded of the timeless wisdom found in Scripture, which encourages believers to maintain a steady spirit regardless of shifting earthly authorities.
   </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -95,7 +95,7 @@ Seagate Portable External Hard Drive
     As the Apostle Paul wrote in <span style="font-style: italic;">Galatians 6:9</span>, <span style="font-style: italic;">&ldquo;Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up.&rdquo;</span> This passage serves as a gentle reminder that our primary calling—whether in our families, our neighborhoods, or our civic responsibilities—is to pursue integrity, kindness, and steadfast service. Political tides will always rise and fall, but the daily work of building a compassionate community remains constant.
   </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -110,7 +110,7 @@ Tactical Waterproof Backpack
     Instead of letting election news become a source of household anxiety, parents can turn these events into constructive teachable moments. Here are three concrete steps families can take this week:
   </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

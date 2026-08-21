@@ -20,7 +20,7 @@ source_url: 'https://ny1.com/nyc/all-boroughs/news/2026/08/17/one-of-two-amtrak-
 
   <p>More than a decade after Superstorm Sandy surged into New York City's underground transit arteries, one of Amtrak's heavily damaged East River tubes has finally reopened following a grueling year-long rehabilitation. But as commuters breathe a temporary sigh of relief, the milestone arrives alongside fierce political friction between Amtrak and the MTA, serving up a stark reminder of how fragile America's century-old transportation backbone really is.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

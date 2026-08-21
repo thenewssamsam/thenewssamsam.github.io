@@ -26,7 +26,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/19/trump-white-house-r
     <h2>The Details of the Renovation Tour</h2>
     <p>During the 40-minute event, President Trump detailed upgrades to the executive grounds, including the installation of "flawless granite" and fresh sod. The centerpiece of the tour was the new helipad, which Trump noted would double as a patio for social events. He also took the opportunity to highlight personal contributions, such as the large flagpoles flanking the building, and acknowledged a donation of grass from Scotts Miracle-Gro, a company he noted had contributed to his campaign.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 CeraVe Hydrating Facial Cleanser 
 </a></div>
 
@@ -36,7 +36,7 @@ CeraVe Hydrating Facial Cleanser
     <h2>The Psychology of the 'Builder' Archetype</h2>
     <p>From a psychological perspective, Trump’s focus on physical construction—even during times of national turbulence—aligns with the "Builder" archetype. In behavioral science, individuals who derive their identity from tangible creation often experience a heightened sense of agency when managing physical environments. When complex geopolitical or economic problems feel intractable, the ability to control one's immediate surroundings provides a psychological anchor.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 AMANSSE Lightweight Running Shoes 
 </a></div>
 
@@ -48,7 +48,7 @@ AMANSSE Lightweight Running Shoes
     <h3>Normalcy Bias and Control</h3>
     <p>The President’s preoccupation with the "life of grass" and the quality of materials represents a form of normalcy bias. By focusing on the minutiae of landscaping, a leader can signal to themselves and their supporters that life continues as normal, regardless of external pressures. This is not necessarily a conscious deception, but rather a coping mechanism that prioritizes the visible and the tactile over the intangible difficulties of statecraft.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 FitVille Comfortable Running Shoes 
 </a></div>
 
@@ -58,13 +58,13 @@ FitVille Comfortable Running Shoes
     <h2>A Reflection on Stewardship</h2>
     <p>This situation invites us to consider the biblical principle of stewardship. In 1 Corinthians 4:2, the Apostle Paul reminds us, "Now it is required that those who have been given a trust must prove faithful." This verse invites us to consider what it means to be a faithful steward of the resources and responsibilities placed in our hands.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 FitVille Comfortable Running Shoes 
 </a></div>
 
     <p>When we look at the choices of leaders—or even our own daily priorities—we are reminded that focus is a limited commodity. Ecclesiastes 3:1 reminds us that "there is a time for everything, and a season for every activity under the heavens." The tension in the current news cycle serves as a reminder to examine our own hearts: are we focusing on the "ornate" additions to our lives, or are we tending to the weightier matters of mercy, justice, and the needs of our neighbors?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 FitVille Comfortable Running Shoes 
 </a></div>
 
@@ -73,7 +73,7 @@ FitVille Comfortable Running Shoes
   <div style="border-left: 5px solid #ffd700; background-color: #fffdf0; padding: 15px; margin: 20px 0;">
     <p><strong>Featured Resource:</strong> <a href="#">Premium Gardening Tool Set - </a>. Perfect for those who take pride in the quality of their own landscape.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 FitVille Comfortable Running Shoes 
 </a></div>
 
@@ -91,7 +91,7 @@ FitVille Comfortable Running Shoes
   <div style="border-left: 5px solid #ffd700; background-color: #fffdf0; padding: 15px; margin: 20px 0;">
     <p><strong>Featured Resource:</strong> <a href="#">Journal for Personal Reflection - </a>. Track your daily goals and ensure your focus remains on what truly matters.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 FitVille Comfortable Running Shoes 
 </a></div>
 

@@ -37,7 +37,7 @@ source_url: 'https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-r
     <p>By every conventional metric, humanity is living through a golden era of space exploration. Over the past three years, the world has averaged roughly 270 orbital rocket launches annually—a staggering threefold increase compared to just a decade ago. Prices have plummeted, launch frequencies have accelerated, and getting hardware off the ground is faster than ever.</p>
     <p>Yet, paradoxically, the commercial space sector is currently gripped by a severe supply shortage. According to recent industry reporting from Ars Technica, satellite operators across the globe are in what analysts describe as "panic mode." Despite a booming number of rockets piercing the stratosphere, there simply are not enough available payload slots to keep pace with soaring corporate ambitions.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

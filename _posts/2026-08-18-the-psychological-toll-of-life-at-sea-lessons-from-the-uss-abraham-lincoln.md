@@ -25,7 +25,7 @@ source_url: 'https://www.bbc.com/news/articles/c5y6z4krrx3o'
     <h2>What Happens Below Deck?</h2>
     <p>For the average sailor, life on a warship is defined by sensory deprivation and relentless routine. Unlike the cinematic image of sailors scanning the horizon, many crew members operate in the "belly of the beast"—enclosed, windowless rooms where their only connection to the outside world is the machinery they monitor. Former Navy photographer Jonny Burnell, who documented life on the USS Carl Vinson, described these vessels as "floating prisons" where the constant noise and lack of natural light contribute to a specific type of psychological fatigue.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -26,7 +26,7 @@ source_url: "https://www.wbur.org/news/2026/08/17/prosecution-rests-murder-trial
 <h2>What Happened in Court as Prosecutors Rest Their Case</h2>
 <p>The state's case spanned two weeks, featuring testimony from dozens of witnesses including first responders, medical examiners, healthcare workers, and Patrick Clancy, the children's father. Prosecutors detailed the tragic events of January 2023, presenting digital forensic evidence such as health tracker logs, text messages, and internet searches for psychiatric medications from the weeks leading up to the tragedy.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

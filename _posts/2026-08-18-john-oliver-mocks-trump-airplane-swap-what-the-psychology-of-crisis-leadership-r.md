@@ -25,7 +25,7 @@ source_url: 'https://variety.com/2026/tv/news/john-oliver-mocks-trump-sacrificin
 
   <p>According to reports highlighted on the show, intelligence regarding a potential security threat prompted a covert switcheroo: Trump reportedly slipped out of his primary aircraft and onto a catering truck, leaving a decoy plane, top administration officials, and traveling journalists behind while he took off on a smaller military jet. While the logistics of an emergency catering-truck escape sounded like something straight out of a political satire, the more troubling detail for many observers wasn't the truck itself—it was who stayed on the original plane.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -27,7 +27,7 @@ source_url: 'https://www.dw.com/en/wildfires-rage-in-belgium-france-spain-greece
     <p>Following weeks of blistering heat and unrelenting drought, Europe is once again facing an early and ferocious wildfire season. According to data from the European Forest Fire Information System, the destruction has already claimed more than twice the land area of Luxembourg.</p>
     <p>In Belgium, a ferocious blaze in the High Fens nature reserve along the German border has charred some 3,000 hectares—marking the largest fire in the country's modern history and prompting King Philippe to interrupt his summer vacation to survey the devastation. Meanwhile, across the continent, the toll has been severe: a Spanish soldier has lost his life in Aragon, an elderly couple was tragically trapped by fast-moving flames on the Greek island of Salamina, and towns from Croatia to Portugal have faced mass evacuations.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

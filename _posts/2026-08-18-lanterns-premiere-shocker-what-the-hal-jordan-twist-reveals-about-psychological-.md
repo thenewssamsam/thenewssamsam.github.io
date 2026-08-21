@@ -36,7 +36,7 @@ source_url: 'https://variety.com/2026/tv/news/lanterns-premiere-how-does-hal-die
     <h2>What Happened in the Lanterns Premiere?</h2>
     <p>The series premiere of <em>Lanterns</em> introduces a gritty, grounded detective story set in a small Nebraska town, blending intergalactic stakes with rural crime. Hal Jordan (Kyle Chandler) is forced to mentor a younger, eager John Stewart (Aaron Pierre). But the narrative structure immediately upends expectations by leaping across timelines, culminating in a brutal winter cliffhanger where Hal is found dead, leaving Stewart and local sheriff Kerry (Kelly MacDonald) to unravel the mystery.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

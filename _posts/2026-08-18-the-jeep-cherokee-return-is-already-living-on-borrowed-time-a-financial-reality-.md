@@ -24,7 +24,7 @@ source_url: 'https://www.thedrive.com/news/the-jeep-cherokee-just-returned-only-
 
   <p>For everyday consumers and auto enthusiasts watching the market, a three-year lifecycle for a newly redesigned vehicle sounds counterintuitive, if not financially reckless. But behind this rapid pivot lies a complex web of platform strategies, shifting manufacturing footprints, and the brutal economic pressures currently facing traditional legacy automakers.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

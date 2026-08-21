@@ -25,7 +25,7 @@ source_url: 'https://www.cbsnews.com/live-updates/us-iran-war-deal-expired-strai
     
     <p>While Washington maintains its military blockade in the Strait of Hormuz—with President Trump even floating the controversial idea of declaring the vital waterway a U.S. territory—financial markets are delivering their own verdict. Oil prices have resumed their upward march, dragging major stock indices down from their recent record highs. Behind the diplomatic maneuvers and high-stakes warnings lies a stark economic reality: the longer this standoff persists, the more fragile global supply chains and household budgets become.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -39,7 +39,7 @@ source_url: ''
 <p>President Trump has signed an executive order demanding limits on childhood vaccine recommendations, leaning into long-standing rhetoric linking shots to autism. Yet this policy directive arrives as his own health secretary, Robert F. Kennedy Jr., has failed to produce verifiable evidence connecting vaccinations to the disorder after more than a year of secretive, multimillion-dollar investigations.</p>
 <p>According to reports from CBS News, the administration's high-stakes research project has operated almost entirely behind closed doors. Leading scientists, career federal researchers, and major autism advocacy groups report being completely shut out of the process. Meanwhile, public claims made by Kennedy—ranging from unproven links involving Tylenol use during pregnancy to misunderstood vaccine safety datasets—have repeatedly failed to withstand scientific scrutiny, even as the White House presses forward with sweeping changes to the national immunization schedule.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

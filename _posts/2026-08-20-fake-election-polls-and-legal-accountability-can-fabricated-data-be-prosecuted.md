@@ -39,14 +39,14 @@ source_url: "https://apnews.com/article/polling-poll-fake-median-karen-bass-los-
 
 <p>Just days later, the truth unraveled. Median Strategies admitted to the <em>Los Angeles Times</em> that the numbers were entirely made up. The group abruptly shuttered its website, leaving behind a brief statement claiming the stunt was a "social experiment" designed to test how unvetted polling enters the political ecosystem. Though the group insisted its creators did not trade on prediction platforms like Kalshi or Polymarket, trading volumes noticeably spiked immediately following the release of the fake numbers.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Major independent poll aggregators like <em>The New York Times</em> and FiftyPlusOne had wisely ignored the Median Strategies data because it lacked basic methodological transparency, such as disclosure of voter files or sampling vendors. Yet, the episode left campaigns, journalists, and voters asking a chilling question: If bad actors can invent data out of thin air to tilt political narratives or financial markets, what stops them from doing it again?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -60,7 +60,7 @@ Tactical Waterproof Backpack
 <h2>A Legal Rights Explainer: Where Fraud Meets Free Speech</h2>
 <p>When false information disrupts an election, the immediate public reaction is often a call for criminal prosecution. Indeed, a spokesperson for Mayor Bass’s campaign rightly asserted that "any bad faith attempts to influence elections should be investigated and prosecuted to the fullest extent of the law." But from a constitutional and statutory standpoint, prosecuting the creators of fake polls is legally complex.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -72,21 +72,21 @@ Seagate Portable External Hard Drive
 
 <p><strong>First Amendment Protections and Speech Thresholds:</strong> In the United States, political speech enjoys some of the highest tiers of legal protection under the First Amendment. Courts have historically been extremely reluctant to criminalize false statements in political discourse unless they meet narrow, rigorous definitions of fraud, defamation, or direct voter suppression (such as intentionally lying about the date, time, or location of an election to stop people from voting).</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p><strong>Fraud and Financial Manipulation:</strong> While general political lying is notoriously difficult to prosecute, the introduction of prediction markets (like Kalshi and Polymarket) introduces a fascinating and potentially perilous legal dimension for hoax creators. If an individual or organization manufactures false polling data with the intent to artificially move prediction markets—and subsequently profits from those financial shifts—they could potentially cross the line into wire fraud, securities fraud, or market manipulation statutes enforced by federal regulators like the CFTC or SEC.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p><strong>Consumer Protection and Fraud Disclaimers:</strong> Most states have consumer protection laws prohibiting deceptive business practices. However, because Median Strategies labeled itself as a "social experiment" and did not charge money for its content, traditional commercial fraud claims become difficult to anchor.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -97,7 +97,7 @@ Tactical Waterproof Backpack
 
 <p>Ultimately, our current legal frameworks were built for an era of human-generated, traditional media gatekeeping. As generative AI and anonymous digital actors make manufacturing convincing falsehoods effortless, lawmakers face an urgent challenge in updating legal boundaries without trampling foundational free speech rights.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -112,14 +112,14 @@ Seagate Portable External Hard Drive
 <h2>A Biblical Reflection on Truth and Deception</h2>
 <p>Incidents like this fabrication remind me of how easily falsehoods travel when they tickle our preferences. Proverbs 12:22 tells us, <em>"Lying lips are an abomination to the Lord, but those who act faithfully are his delight."</em> Scripture repeatedly warns against the corrosive nature of deceit—not merely because it breaks rules, but because it breaks trust between neighbors.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>In our modern information landscape, truth is often treated as a commodity to be manipulated for leverage rather than a sacred standard to be upheld. Yet Colossians 3:9 urges believers, <em>"Do not lie to one another, seeing that you have put off the old self with its practices."</em> When we consume or amplify unverified reports simply because they tell us what we want to hear, we participate in a culture of deception. Seeking truth requires patience, discernment, and a commitment to honesty even when the unvarnished reality is inconvenient.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

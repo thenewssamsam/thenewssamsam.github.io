@@ -36,7 +36,7 @@ source_url: "https://www.cnn.com/2026/08/18/asia/trump-us-south-korea-military-e
 
 <p>The directive followed public statements from President Trump citing his personal relationship with North Korean leader Kim Jong Un, alongside complaints regarding defense expenditures and regional burden-sharing. While South Korean President Lee Jae Myung expressed support for Washington's diplomatic overtures—noting Seoul's willingness to increase domestic defense spending and contribute to international maritime security—the abrupt operational shift has placed local security and alliance commitments under a sharp spotlight.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -44,7 +44,7 @@ Seagate Portable External Hard Drive
 <div class="ncg-quote-box">
 <p>&ldquo;For families farming near the Demilitarized Zone, regional stability is not an abstract political debate; it is the foundation of everyday life.&rdquo;</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -54,14 +54,14 @@ Tactical Waterproof Backpack
 
 <p>To understand the true weight of these policy adjustments, one must look past the negotiating tables and examine the communities closest to the front lines. In towns like Yeoncheon, situated mere miles from the border with North Korea, military exercises are a familiar part of the local landscape. Heavy armor maneuvers, increased troop movements, and defensive readiness drills are constant reminders of an unresolved conflict that has persisted for over seven decades.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>South Korea hosts the largest overseas US military installation at Camp Humphreys, deeply intertwining local economies, businesses, and municipal planning with the presence of tens of thousands of American service members and their families. When military exercises are abruptly halved or modified, local communities experience immediate administrative and logistical adjustments. Small businesses catering to service members, local civil defense coordinators, and municipal leaders must constantly recalibrate their emergency preparedness postures.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -74,7 +74,7 @@ Seagate Portable External Hard Drive
 
 <p>Furthermore, local leaders in border regions navigate a delicate balancing act. On one hand, communities welcome any genuine reduction in immediate military tensions that lowers the baseline threat of conflict. On the other hand, residents who rely on the ironclad guarantees of the US-South Korea mutual defense treaty naturally feel a twinge of anxiety whenever alliance mechanisms are visibly altered or scaled down in response to external political pressures.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -89,7 +89,7 @@ Tactical Waterproof Backpack
 
 <p>Whenever nations negotiate shifts in military posture and regional security, it invites a deeper look at the human longing for lasting peace. In a world characterized by shifting alliances and political maneuvers, moments like these remind us of the fragile nature of earthly security. Scripture gently reminds believers where true and lasting peace originates: <q>Great peace have those who love your law, and nothing can make them stumble.</q> (Psalm 119:165, ESV). It is a helpful prompt that while civic leaders strive to build security through treaties and tactical drills, communities ultimately find their deepest stability and hope rooted in steadfast wisdom, mutual respect, and a commitment to justice.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -98,7 +98,7 @@ Seagate Portable External Hard Drive
 
 <p>For residents and leaders navigating these shifting geopolitical winds, maintaining a resilient and calm community posture requires deliberate focus:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -118,7 +118,7 @@ Seagate Portable External Hard Drive
 
 <p>The scaling back of the Ulchi Freedom Shield exercises underscores the intricate dance between high-stakes international diplomacy and the everyday lives of citizens living near the border. As Washington and Seoul navigate the future of their 70-year alliance, the resilience of local communities remains the true bedrock of regional stability.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

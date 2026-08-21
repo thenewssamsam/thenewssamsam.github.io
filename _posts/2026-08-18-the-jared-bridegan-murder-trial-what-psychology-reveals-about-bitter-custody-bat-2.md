@@ -153,7 +153,7 @@ source_url: ''
   
   <p>On the evening of February 16, 2022, Jared Bridegan, a 33-year-old Microsoft design manager, drove his car down a familiar stretch of road in Jacksonville Beach, Florida. He had just dropped off his 9-year-old twins at the home of his ex-wife, Shanna Gardner, following a routine family date night. In the backseat sat his then-2-year-old daughter, strapped securely into her car seat.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

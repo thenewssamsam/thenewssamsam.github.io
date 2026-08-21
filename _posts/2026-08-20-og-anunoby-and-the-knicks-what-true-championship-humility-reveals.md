@@ -35,7 +35,7 @@ source_url: 'https://edition.cnn.com/2026/08/18/sport/og-anunoby-new-york-knicks
   <h2 id="the-weight-of-glory">The Biblical Perspective on Success and Striving</h2>
   <p>For many people, reaching the absolute pinnacle of their career or craft triggers an intense desire to bask in the applause indefinitely. Human nature loves a pedestal. We want our efforts validated, our names remembered, and our victories celebrated on a loop. But Scripture offers a different posture toward our achievements, reminding us that clinging too tightly to past triumphs can blind us to the responsibilities of the present.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -47,14 +47,14 @@ Seagate Portable External Hard Drive
 
   <p>This verse gently reframes how we view recognition. Anunoby's reluctance to wallow in his own fame is not coldness; it is a recognition of a deeper truth. When we make our past victories the main object of our worship, we stop growing. The Apostle Paul echoed this forward-looking mindset when describing his own spiritual journey, writing in Philippians 3:13-14 about forgetting what lies behind and straining forward to what lies ahead.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
   <p>In our daily lives, whether we are celebrating a career milestone, a graduation, or a hard-fought personal victory, we face the same temptation. We want to rest. But life is an ongoing journey of stewardship, requiring us to look forward rather than standing still.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -67,14 +67,14 @@ Seagate Portable External Hard Drive
   <h2 id="navigating-pressure">Navigating Pressure with Quiet Steadiness</h2>
   <p>Defending a championship—or maintaining any hard-won achievement—brings its own unique brand of anxiety. In New York, the expectations are crushing. Yet the Knicks roster is uniquely equipped because they do not rely on manufactured hype. They are composed of players who learned discipline through years of team-first basketball.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
   <p>This steady temperament reflects a valuable lesson in emotional and spiritual endurance. When external pressures mount, panic is rarely the most productive response. Quiet resilience wins the day.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

@@ -22,7 +22,7 @@ source_url: "https://www.nbcnews.com/politics/2026-primary-special-elections/flo
     <div style="border-left: 5px solid #d4af37; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Product Suggestion:</strong> Stay informed with the <a href="#">Kindle Paperwhite (16 GB) - </a>, perfect for reading long-form political analysis on the go.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -30,7 +30,7 @@ Tactical Waterproof Backpack
 
     <p>The numbers reflect a clear mandate from the primary electorate, with Moody maintaining a strong lead throughout the night. On the Democratic side, Nixon’s win over Vindman—a figure deeply tied to recent political history—suggests a shift in what Democratic voters are currently prioritizing in their candidates.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -40,7 +40,7 @@ Seagate Portable External Hard Drive
     <h2>The Psychology of the Vote: Why Voters Chose Their Candidates</h2>
     <p>When we look at election results, it is easy to focus solely on policy platforms. However, from a psychological perspective, voters often rely on "cognitive shortcuts" or heuristics to make complex decisions. In the Florida Senate primary, several behavioral patterns likely influenced the outcome.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -48,7 +48,7 @@ Seagate Portable External Hard Drive
     <h3>The Power of Familiarity and Status Quo Bias</h3>
     <p>Ashley Moody’s victory reflects a classic example of <em>Status Quo Bias</em>. Voters often experience a psychological comfort in maintaining the current representative, especially in times of perceived uncertainty. Familiarity breeds a sense of safety, and for many Republican primary voters, Moody represents a known quantity that reduces the cognitive load of evaluating a new, unproven contender.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -56,7 +56,7 @@ Tactical Waterproof Backpack
     <div style="border-left: 5px solid #d4af37; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Product Suggestion:</strong> Organize your workspace for better focus with the <a href="#">UPLIFT V2 Standing Desk - </a>.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -65,7 +65,7 @@ Tactical Waterproof Backpack
     <h3>Social Identity and the Shift in Democratic Preferences</h3>
     <p>Angie Nixon’s upset victory over Alex Vindman can be viewed through the lens of <em>Social Identity Theory</em>. Voters tend to align with candidates who they feel best embody their specific community’s values and identity. While Vindman brought significant national profile and military experience, Nixon’s campaign appears to have resonated more deeply with the specific, localized identity concerns of the Democratic base in Florida. Voters are often more motivated by candidates who mirror their own perceived "in-group" than by those who carry external, nationalized endorsements.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -77,7 +77,7 @@ Tactical Waterproof Backpack
     <div style="border-left: 5px solid #d4af37; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Product Suggestion:</strong> Keep your devices charged during election tracking with the <a href="#">Anker 737 Power Bank - </a>.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -88,13 +88,13 @@ Tactical Waterproof Backpack
     <h2>Reflecting on Truth and Humility</h2>
     <p>In the midst of political maneuvering, I am reminded of the importance of seeking truth rather than just following the crowd. Proverbs 14:15 tells us, <em>"The simple believes everything, but the prudent gives thought to his steps."</em> This invites us to consider our own motives as voters. Are we acting out of fear, tribalism, or a genuine desire for wisdom?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Similarly, James 1:19 reminds us: <em>"My dear brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry."</em> In a polarized environment, these words challenge us to look past the slogans and genuinely listen to the concerns of our neighbors. True leadership, and true citizenship, often begins with the humility to realize that we don't have all the answers.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

@@ -101,7 +101,7 @@ source_url: 'https://www.nbcnews.com/pop-culture/pop-culture-news/actor-hayden-p
     <p>Actor Hayden Panettiere, widely recognized for her breakout television roles as Claire Bennet in NBC’s <em>Heroes</em> and Juliette Barnes in ABC’s <em>Nashville</em>, has died at the age of 36. Her father, Skip Panettiere, confirmed her passing in a statement on Sunday night.</p>
     <p>According to the Greenville County Coroner’s Office, authorities received a 911 call reporting a cardiac arrest at an apartment complex where Panettiere was temporarily staying. Resuscitation efforts were unsuccessful, and she was pronounced dead at 2:32 p.m. An autopsy completed Monday revealed no signs of trauma contributing to the death, and police confirmed the preliminary investigation showed no indications of foul play. The formal cause of death remains pending further investigation.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

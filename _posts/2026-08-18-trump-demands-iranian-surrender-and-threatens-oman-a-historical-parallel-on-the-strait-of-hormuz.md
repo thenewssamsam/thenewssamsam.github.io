@@ -35,7 +35,7 @@ source_url: 'https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-
 
 <p>As rhetoric hardens and military options narrow, the current confrontation mirrors age-old geopolitical struggles over narrow maritime corridors. To understand where this crisis might be heading, it helps to look backward at how great powers have historically handled contested chokepoints.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

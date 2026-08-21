@@ -22,7 +22,7 @@ source_url: 'https://www.renewableenergyworld.com/news/how-can-utilities-build-c
     When extreme weather threatens modern power grids, the public conversation almost always focuses on physical hardware: concrete poles, buried lines, high-tech sensors, and automated shutoff switches. But according to energy sector experts, upgrading the physical grid is only half the battle. The deeper challenge lies in how organizations themselves think, communicate, and make high-stakes decisions under pressure. As climate pressures and wildfire risks intensify across North America, power providers are discovering that technical modernization cannot outrun organizational inertia.
   </p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

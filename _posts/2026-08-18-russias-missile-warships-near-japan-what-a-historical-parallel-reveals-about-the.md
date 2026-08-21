@@ -25,7 +25,7 @@ source_url: 'https://united24media.com/world/russia-sends-four-missile-warships-
     
     <p>For casual observers, naval movements in the North Pacific might look like distant geopolitical posturing. But for Japan and Russia, this is the living ghost of a war that officially ended eight decades ago yet lacks a final peace treaty. To understand why a cluster of remote islands continues to rattle international security, we have to look past today's headlines and examine the deep historical mechanics of territorial stalemates.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

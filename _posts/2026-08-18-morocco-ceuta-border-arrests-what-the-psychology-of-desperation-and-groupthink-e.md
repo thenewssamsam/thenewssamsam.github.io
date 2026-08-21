@@ -33,7 +33,7 @@ source_url: 'https://apnews.com/article/morocco-spain-ceuta-migration-6572645979
 
 <p>According to reports from Moroccan state television and the Associated Press, Moroccan security forces arrested 294 migrants from sub-Saharan Africa on a Saturday as they attempted to enter Ceuta by land and sea. Alongside those attempts, authorities detained 61 Moroccan nationals accused of facilitating the crossings.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -38,7 +38,7 @@ source_url: ''
 
   <p>The lawsuit, initially filed in 2023 by attorneys general from states including California, Colorado, Kentucky, and New Jersey, alleges that Facebook and Instagram were intentionally engineered to be addictive for young users. The states claim Meta downplayed known mental health risks and violated laws regarding the collection of minors' data. Among the most anticipated moments of the proceedings is the expected testimony of Meta CEO Mark Zuckerberg.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

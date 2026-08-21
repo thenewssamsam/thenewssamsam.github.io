@@ -131,7 +131,7 @@ source_url: 'https://finance.yahoo.com/technology/ai/articles/amazon-once-online
 
 <p>When an online bookstore born to champion the written word now operates specialized facilities to disintegrate physical volumes for algorithmic consumption, it forces a jarring question. What does our collective willingness to consume our own history say about the psychological state of the modern tech boom?</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

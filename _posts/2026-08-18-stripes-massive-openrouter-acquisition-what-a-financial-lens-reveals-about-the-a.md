@@ -26,7 +26,7 @@ source_url: 'https://uk.finance.yahoo.com/news/stripe-seven-billon-dollar-openro
     
     <p>Only three months prior, OpenRouter had closed a Series B funding round at a  billion valuation. In roughly 90 days, its perceived market value multiplied by more than five times. To understand this astronomical price tag, we have to look past the hype of artificial intelligence and examine the hard financial mechanics of routing, infrastructure tollbooths, and margin capture.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

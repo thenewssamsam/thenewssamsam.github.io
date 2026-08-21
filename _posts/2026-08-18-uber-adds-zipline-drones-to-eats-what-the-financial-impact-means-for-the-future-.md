@@ -39,7 +39,7 @@ source_url: 'https://finance.yahoo.com/technology/articles/uber-adds-zipline-dro
     <h2>What Happened: The Uber-Zipline Partnership</h2>
     <p>Ride-hailing giant Uber announced a strategic investment and partnership with San Francisco-based drone startup Zipline. The collaboration aims to bring automated aerial deliveries to the Uber Eats platform starting later this year in Zipline s existing markets, with plans to rapidly expand into dozens of U.S. cities.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -140,7 +140,7 @@ source_url: 'https://www.politico.eu/article/andy-burnham-messages-impersonator-
 
 <p>The text conversation reportedly involved only a "few messages" before the Prime Minister's team grew suspicious of the contact's legitimacy and cut off the interaction. Downing Street officials have declined to comment extensively on national security particulars, though sources close to the situation maintain that the messages exchanged were "of no significance." Still, the incident serves as an uncomfortable reminder of the modern digital vulnerabilities facing global leaders.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

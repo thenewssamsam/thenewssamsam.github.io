@@ -27,7 +27,7 @@ source_url: 'https://understandingwar.org/research/middle-east/iran-update-speci
   
   <p>Reports from major news outlets indicate that the Islamic Revolutionary Guards Corps (IRGC) utilized a recent period of diplomatic calm under a memorandum of understanding (MoU) to coordinate regional attack plans with aligned partners and proxies in Iraq, Yemen, and Lebanon. With senior Iranian officials warning of preemptive options—ranging from targeting critical infrastructure in the Persian Gulf to expanding proxy operations around the Red Sea—the diplomatic window appears increasingly narrow.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -35,7 +35,7 @@ source_url: 'https://www.theguardian.com/world/2026/aug/16/lula-brazil-president
 
 <p>Yet, this election is about much more than a clash of personalities between an aging political icon and Flávio Bolsonaro, the senator son of jailed former President Jair Bolsonaro. It is a high-stakes referendum on democratic resilience, economic direction, and an increasingly assertive United States foreign policy in the Western Hemisphere.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

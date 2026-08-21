@@ -26,7 +26,7 @@ source_url: 'https://nypost.com/2026/08/16/us-news/ex-mamdani-campaign-staffer-m
   
   <p>Prosecutors stated during Montes' arraignment that the defendant admitted to harboring racial animus toward Black individuals, having turned his attention toward a 65-year-old African American security guard before exiting the building. Crucially, law enforcement sources confirmed that Montes explicitly yelled "f–k the Jews" during the rampage.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

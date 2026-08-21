@@ -26,7 +26,7 @@ source_url: 'https://www.latimes.com/california/story/2026-08-19/as-lake-mead-sh
 <h2 id="what-happened">What Happened at Lake Mead?</h2>
 <p>According to recent reports from the Los Angeles Times, visitors exploring the shrinking shores of Lake Mead National Recreation Area in Nevada discovered additional human remains at Boulder Beach, including a jawbone with teeth and dental fillings along with rib bones. Clark County authorities and park officials note that this is part of a sobering trend that began around 2022, when the reservoir first plunged toward historic lows amid the severe Western water crisis.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -38,7 +38,7 @@ Tactical Waterproof Backpack
 
 <p>Since the reservoir hit record lows—dropping past 1,039 feet above sea level—several sets of skeletal remains have surfaced. Investigators have identified victims from decades past, such as Thomas Erndt, who drowned in 2002, and Donald P. Smith, who drowned in 1974, alongside mysterious cold cases like a man found fatally shot inside a barrel dating back to the 1980s. As federal officials work to manage the dwindling Colorado River supply, authorities warn that more discoveries are almost certain as the water pulls back further.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -46,14 +46,14 @@ Tactical Waterproof Backpack
 <h2 id="a-faith-perspective">A Faith Perspective on Secrets and Exposure</h2>
 <p>It is difficult not to feel a profound sense of awe and solemnity when nature strips away our grandest engineering achievements to reveal what we thought was safely hidden beneath fathoms of water. For decades, the depths of Lake Mead acted as an impenetrable vault, keeping secrets, unsolved mysteries, and forgotten sorrows locked away from the living world.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Yet, physical nature often mirrors spiritual reality. Throughout Scripture, water frequently symbolizes chaos, depth, and the unknown, while the uncovering of the deep speaks to a fundamental spiritual truth: nothing remains hidden forever. Luke 12:2-3 reminds us, "There is nothing concealed that will not be disclosed, or hidden that will not be made known. What you have said in the dark will be heard in the light..."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -65,7 +65,7 @@ Seagate Portable External Hard Drive
 
 <p>While the discoveries at Lake Mead stem from environmental climate shifts and receding water lines rather than a deliberate moral confession, the visual metaphor is striking. Families of the missing, some waiting decades for closure, are finally receiving answers—painful though they may be. In the same way, human conscience often tries to submerge regrets, hidden wrongs, or unconfessed burdens deep beneath the surface of our busy lives, hoping time will wash them away. But reality has a way of receding, exposing the things we thought we left safely out of sight.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -89,7 +89,7 @@ Seagate Portable External Hard Drive
 <h2 id="reflection-and-mortality">Reflecting on Our Fragility and Stewardship</h2>
 <p>Ecclesiastes reminds us of the fleeting nature of human life and the certainty of our earthly limitations. When we look at massive infrastructure projects like Hoover Dam and Lake Mead—built to tame the desert and secure human prosperity—we are reminded of how fragile our best-laid plans truly are. Climate shifts and natural limits remind us that we are stewards of creation, not absolute masters of it.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -101,7 +101,7 @@ Seagate Portable External Hard Drive
 
 <p>Furthermore, these discoveries bring closure to families who have mourned loved ones for decades. In moments of grief and sudden shock, faith invites us to lean on the promise that human dignity does not end with a tragic accident or an unsolved mystery. Every individual whose remains are recovered is known by name to the Creator, who numbers the hairs on our heads and catches every tear.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -114,7 +114,7 @@ Tactical Waterproof Backpack
 <h2 id="how-should-christians-respond">How Should Christians Respond?</h2>
 <p>When confronted with reports of tragedy and earthly uncertainty, believers are called to respond with specific, constructive actions rather than morbid curiosity or despair:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

@@ -37,7 +37,7 @@ source_url: 'https://www.investopedia.com/market-update-memory-stocks-monday-tra
 <p>The artificial intelligence hardware trade is shaking off recent bubble fears in a big way. Semiconductor stocks kicked off the week with strong gains, led by a sharp rally in memory chip makers. Sandisk shares jumped 9% in recent trading, pacing a broader advance across the sector that lifted rivals like Western Digital, Micron Technology, and Seagate Technology.</p>
 <p>While major indexes like the Dow Jones Industrial Average and the S&P 500 hovered near flat lines or edged lower, technology hardware clearly captured investors' attention. The Roundhill Memory ETF (DRAM) climbed nearly 8%, while the iShares Semiconductor ETF (SOXX) rose about 2.5%, buoyed by notable gains in Marvell Technology and Intel.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

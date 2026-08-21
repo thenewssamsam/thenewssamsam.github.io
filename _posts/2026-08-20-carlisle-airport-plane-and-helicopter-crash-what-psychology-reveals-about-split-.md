@@ -39,21 +39,21 @@ source_url: 'https://www.nbcnews.com/news/us-news/pilot-killed-state-troopers-hu
 
 <p>According to Acting State Police Commissioner George L. Bivens, the airplane struck the rear tail rotor of the helicopter before crashing into the main rotor. The impact sent the Cessna into multiple pieces, while the helicopter spun and came to a rest on its side.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
 
 <p>Tragically, the pilot of the Cessna 150 lost their life in the crash. Meanwhile, the two state troopers aboard the helicopter—identified by Gov. Josh Shapiro as Cpl. Bryce Corman and Trooper Jason Mills—managed to survive. Corman, despite being trapped, freed himself and assisted Mills out of the wreckage. Both troopers sustained minor injuries and were treated at Hershey Medical Center.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
 
 <p>Commissioner Bivens noted the sheer impossibility of avoidance from the cockpit perspective, stating that the pilots would not have been able to see the incoming aircraft approaching them from behind.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -61,7 +61,7 @@ Tactical Waterproof Backpack
 <h2 id="psychology-perspective">The Psychology of Split-Second Disasters</h2>
 <p>When catastrophic events occur in the blink of an eye, observers often look for someone to blame. However, examining such incidents through the lens of psychology reveals how cognitive limitations, spatial awareness constraints, and environmental factors interact during high-stress scenarios.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -73,7 +73,7 @@ Seagate Portable External Hard Drive
 <h3 id="attention-tunnels-and-blind-spots">Attentional Tunneling Under Pressure</h3>
 <p>In aviation psychology, "attentional tunneling" describes a phenomenon where a pilot or driver becomes intensely focused on a single task—such as managing descent parameters or executing a precise training maneuver—while unconsciously filtering out peripheral stimuli. When two moving vehicles converge at high speeds, even a fraction of a second of delayed perception can eliminate the window for evasive action.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -85,7 +85,7 @@ Tactical Waterproof Backpack
 <h3 id="the-physics-of-human-survival">The Mechanics of Heroic Action</h3>
 <p>In the aftermath of the crash, Cpl. Corman's ability to free himself and rescue his partner highlights another fascinating area of behavioral science: stress-induced hyper-focus and resilience. While traumatic shock paralyzes some individuals, acute adrenaline surges can mobilize others into rapid problem-solving mode. The instinct to preserve life often overrides personal pain and disorientation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -93,7 +93,7 @@ Seagate Portable External Hard Drive
 <blockquote class="ncg-quote-box">
 <p>"In the quiet spaces between split-second decisions, we discover just how fragile our physical routines are—and how deeply human resilience shines when the unexpected strikes."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -102,7 +102,7 @@ Tactical Waterproof Backpack
 <h2 id="scripture-reflection">A Moment for Reflection</h2>
 <p>Sudden accidents remind us of how quickly our daily routines can shift. Life is remarkably brief, and our footing in this world is never guaranteed. This reality naturally invites a measure of humility and a deeper appreciation for the grace we receive each day.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -113,14 +113,14 @@ Tactical Waterproof Backpack
 
 <p>Scripture gently reminds us of our human limitation:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
 <blockquote>
 <p>"Yet you do not know what tomorrow will bring. What is your life? For you are a mist that appears for a little time and then vanishes." &mdash; James 4:14 (ESV)</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -128,7 +128,7 @@ Seagate Portable External Hard Drive
 
 <p>Reflecting on such fragility does not mean living in constant fear; rather, it encourages us to live with gratitude, kindness, and attentiveness toward the people around us.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -140,7 +140,7 @@ Seagate Portable External Hard Drive
 <h2 id="how-to-respond">How Should We Respond?</h2>
 <p>When news of local tragedies breaks, our response should be grounded in empathy and practical support:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -159,7 +159,7 @@ Seagate Portable External Hard Drive
 <h3>One Last Thought</h3>
 <p>The collision at Carlisle Airport is a somber reminder of the unpredictable intersections of everyday life. While investigators from the FAA and NTSB work to determine the exact mechanical and environmental factors involved, the human cost remains heavy. May we honor those affected by holding our loved ones a little closer and treating every ordinary day as a gift.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 

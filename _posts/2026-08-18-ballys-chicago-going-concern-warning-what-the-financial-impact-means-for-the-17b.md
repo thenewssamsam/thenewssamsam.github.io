@@ -38,7 +38,7 @@ source_url: 'https://www.chicagotribune.com/2026/08/17/ballys-chicago-going-conc
     
     <p>The Rhode Island-based gaming company revealed that it is actively pursuing alternative financing structures to shore up its liquidity by early next year to stay in compliance with revolving credit facility lenders. While auditors require a going concern warning when any corporation faces potential debt default risks within a 12-month window, the timing could not be more sensitive for Chicago taxpayers, city council members, and the hundreds of construction workers whose livelihoods depend on the project moving forward.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

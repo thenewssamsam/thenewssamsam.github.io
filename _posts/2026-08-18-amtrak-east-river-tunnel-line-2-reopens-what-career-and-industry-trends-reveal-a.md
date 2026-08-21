@@ -33,7 +33,7 @@ source_url: 'https://media.amtrak.com/2026/08/amtrak-completes-first-phase-of-ea
 <p>Earlier this week, Amtrak Interim President Byl Herrmann joined federal, state, and transit leaders at New York Penn Station to celebrate a monumental achievement: the successful completion of the first phase of the East River Tunnel (ERT) Rehabilitation Project. Commuters, union workers, and regional planners watched as Line 2 officially reopened to passenger traffic, restoring a vital link for Amtrak, Long Island Rail Road (LIRR), and NJ TRANSIT customers.</p>
 <p>The numbers behind the project underline the sheer scale of the undertaking. Opened in 1910, the East River Tunnel serves roughly 450 daily trains, making it one of the busiest passenger rail corridors in the Western Hemisphere. However, decades of heavy use compounded by the corrosive saltwater intrusion of Superstorm Sandy left two of its four tubes in dire need of comprehensive reconstruction.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

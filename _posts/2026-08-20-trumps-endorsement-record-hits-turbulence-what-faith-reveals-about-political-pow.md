@@ -107,7 +107,7 @@ source_url: 'https://www.nbcnews.com/politics/2026-election/trumps-endorsement-r
 <h2 id="what-happened">What Happened in the Primaries?</h2>
 <p>For much of the 2026 primary season, a presidential endorsement functioned as a golden ticket for Republican candidates seeking to clear crowded fields. Trump’s backing regularly translated into decisive double-digit victories, cementing his ongoing grip on the party's apparatus.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -118,7 +118,7 @@ Seagate Portable External Hard Drive
 
 <p>However, August brought a sudden wave of friction. Several high-profile candidates carrying the former president's endorsement fell short at the ballot box. While a 67-6 record remains statistically formidable, the rare defeats highlight the limits of borrowed clout. Voters at the local level are increasingly evaluating candidates on individual merits, local grievances, and grassroots organization rather than national branding alone.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -130,7 +130,7 @@ Seagate Portable External Hard Drive
 <h2 id="scripture-perspective">The Biblical Perspective on Earthly Power</h2>
 <p>Shifting political fortunes often invite a deeper moral and spiritual reflection. In a culture obsessed with winning, endorsements, and political dominance, Scripture offers a sobering counter-perspective on where ultimate security lies.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -142,7 +142,7 @@ Seagate Portable External Hard Drive
 
 <p>This ancient wisdom reminds us that political alliances and earthly kingmakers are inherently fragile. Throughout history, societies have placed enormous hope in charismatic leaders and powerful figures, believing that the right endorsement could usher in an era of stability and prosperity. Yet, human political power ebbs and flows like the tide.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -153,7 +153,7 @@ Seagate Portable External Hard Drive
 
 <p>Another profound scriptural caution comes from the prophet Jeremiah, which speaks directly to the danger of relying on human strength rather than divine wisdom:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -165,7 +165,7 @@ Seagate Portable External Hard Drive
 
 <p>This does not mean Christians should disengage from civic life or ignore elections. Rather, it invites a re-centering of our affections. When our primary source of hope is tethered to election returns or political strongmen, we set ourselves up for perpetual anxiety. Leaders rise and fall, endorsements hit bumps in the road, but God's kingdom remains unshaken.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -181,7 +181,7 @@ Tactical Waterproof Backpack
 <h2 id="how-should-christians-respond">How Should Christians Respond?</h2>
 <p>As the primary season wraps up and the general election cycle approaches, believers are called to navigate politics with discernment, humility, and grace.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

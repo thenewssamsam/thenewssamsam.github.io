@@ -48,7 +48,7 @@ source_url: "https://www.foxnews.com/politics/mysterious-polling-firm-behind-fak
       To understand why a fake poll matters beyond hurt feelings, we have to look at how political campaigns operate as financial enterprises. Campaigns are multi-million dollar operations constrained by strict fundraising limits, tight timelines, and constant pressure to demonstrate viability to major donors. 
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -57,7 +57,7 @@ Seagate Portable External Hard Drive
       Accurate polling serves as market intelligence. It tells a campaign manager where to allocate scarce advertising dollars, which voter demographics are slipping, and whether a ground-game pivot is necessary. When a firm like Median Strategies injects fabricated numbers into the public sphere—showing a candidate up by 12 points in Los Angeles or 20 points in Wisconsin—it alters the financial behavior of everyone participating in that race:
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -85,7 +85,7 @@ Seagate Portable External Hard Drive
       In financial markets, the SEC polices material misstatements because false data destroys market integrity and punishes honest investors. In the political economy, however, the barrier to entry for releasing "survey data" is remarkably low. Median Strategies operated with minimal initial footprint, yet its numbers were picked up by local TV newscasts, online reporting outlets, and social media influencers.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -94,7 +94,7 @@ Seagate Portable External Hard Drive
       This creates a severe information asymmetry. Local news organizations, facing shrinking newsrooms and tight production deadlines, often lack the specialized data-auditing resources required to verify whether a sample size of 560 respondents in Los Angeles actually exists or if the quoted 4.1% margin of error is mathematically sound. When these fake surveys enter mainstream circulation, they distort the media market just as counterfeit goods distort physical retail markets.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -119,7 +119,7 @@ Tactical Waterproof Backpack
       When I look at stories involving deliberate deception disguised as experiments, I am reminded of how fragile trust really is once it is traded for attention. Proverbs 12:22 tells us, <em>"Lying lips are an abomination to the Lord, but those who act faithfully are his delight."</em> 
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

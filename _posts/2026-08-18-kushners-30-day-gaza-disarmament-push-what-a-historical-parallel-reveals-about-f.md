@@ -34,7 +34,7 @@ source_url: 'https://www.yahoo.com/news/politics/articles/hamas-expects-meeting-
       US President Donald Trump's envoy, Jared Kushner, announced on Monday that tangible progress toward disarming Hamas and advancing a broader Gaza peace plan could materialize within just 30 days. Speaking to Fox News in Tel Aviv following talks with Israeli Prime Minister Benjamin Netanyahu and separate direct negotiations in Egypt, Kushner outlined an aggressive timeline focused on weapon decommissioning and tunnel clearance. 
     </p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

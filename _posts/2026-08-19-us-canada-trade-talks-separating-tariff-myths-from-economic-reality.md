@@ -22,7 +22,7 @@ source_url: "https://www.bbc.com/news/articles/crl7600rpnko"
   <div class="ncg-quote-box" style="border-left: 5px solid #6a0dad; background: #f9f4ff; padding: 15px; margin: 20px 0;">
     <p><strong>Shareable Insight:</strong> "Trade negotiations are often a game of brinkmanship; distinguishing between a temporary tariff threat and a permanent economic shift is the first step toward understanding the true stakes for North American markets."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -31,7 +31,7 @@ Seagate Portable External Hard Drive
   <h2>Myth vs. Fact: Decoding the Trade Dispute</h2>
   <p>Misinformation often thrives during high-pressure diplomatic windows. Here is a breakdown of the claims currently circulating in the public discourse:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -46,7 +46,7 @@ Tactical Waterproof Backpack
 
   <p>As we navigate these uncertainties, it is helpful to recall the wisdom of Proverbs 15:22: "Plans fail for lack of counsel, but with many advisers they succeed." This reminds us that even in international diplomacy, success is rarely found in isolation or reactionary moves, but through the deliberate, often quiet, work of seeking common ground.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -54,7 +54,7 @@ Seagate Portable External Hard Drive
   <div style="border-left: 5px solid #FFD700; background: #fdfdf0; padding: 15px; margin: 20px 0;">
     <p><strong>Recommended Resource:</strong> <em>The Worldly Philosophers</em> by Robert Heilbroner — A classic look at how economic systems and trade policies have shaped our modern world. <a href="#">Check Price</a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -63,7 +63,7 @@ Tactical Waterproof Backpack
   <h2>The Dairy and Alcohol Pressure Points</h2>
   <p>The US argument against Canada’s supply management system for dairy, eggs, and poultry is a long-standing point of contention. The US government labels these quotas "unreasonable." However, for Canadian producers, particularly in Quebec, these systems are seen as essential for food security and price stability. The tension here isn't just financial; it is a fundamental disagreement over whether agricultural products should be treated as commodities or as national strategic assets.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -71,7 +71,7 @@ Seagate Portable External Hard Drive
   <h2>How Should Readers Respond?</h2>
   <p>For the average reader, the primary response should be one of measured observation rather than panic. Economic anxiety is valid, but reacting to every headline with fear-based financial decisions—like shifting household budgets or hoarding—is rarely productive. Instead, monitor the official outcomes of the Wednesday deadline. If you own a business directly impacted by cross-border logistics, focus on diversifying supply chains where possible, rather than relying on short-term political pivots.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -79,7 +79,7 @@ Tactical Waterproof Backpack
   <h2>A Final Reflection</h2>
   <p>In a world of fast-moving news, we are often tempted to look for a "win" or a "loss" in every negotiation. Yet, as scripture reminds us in James 1:19, we are called to be "quick to listen, slow to speak and slow to become angry." Whether an agreement is reached by Wednesday or the tariffs move forward, the relationship between these two nations remains deeply intertwined. Patience and clear-headed analysis are our best tools for navigating the uncertainty ahead.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

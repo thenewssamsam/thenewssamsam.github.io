@@ -46,21 +46,21 @@ source_url: "https://www.cnn.com/2026/08/18/politics/live-news/florida-primary-e
     <h2 style="font-size: 1.6rem; color: #2d3436; border-bottom: 1px solid #dfe6e9; padding-bottom: 8px; margin-top: 40px;">What Happened in the Florida and Wyoming Primaries?</h2>
     <p>The 2026 primary race outcomes brought high drama across multiple states. In Florida's Democratic Senate primary, state Representative Angie Nixon, a democratic socialist, secured a victory over Alex Vindman, advancing to face Republican Senator Ashley Moody in November. Meanwhile, in the crowded Republican contest to succeed outgoing Governor Ron DeSantis, Representative Byron Donalds projected a win to face Democrat David Jolly.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>Other races saw significant turbulence. Representative Cory Mills lost his GOP primary amidst ongoing ethics committee investigations. Over in Wyoming, state Senator Eric Barlow defeated President Donald Trump's preferred candidate, Megan Degenfelder, marking another notable primary setback for Trump-backed gubernatorial hopefuls across the country this cycle.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>These varied results across geographic lines point to a restless electorate. But looking strictly at the tally sheets misses the underlying currents of human behavior driving these choices.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -72,7 +72,7 @@ Seagate Portable External Hard Drive
     <h3 style="font-size: 1.3rem; color: #2d3436; margin-top: 25px;">1. Normalcy Bias and the Search for Stability</h3>
     <p>When economic pressures rise and daily living costs squeeze household budgets, voters experience chronic background stress. Psychologically, humans rely on <a href="https://www.amazon.com/dp/B0756WYWY9?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #2980b9; text-decoration: none;">cognitive frameworks</a> to make sense of threats. Normalcy bias—the tendency to underestimate the likelihood of a crisis or its effects—often gives way to sharp corrections when reality feels unsustainable. Candidates who tap into the visceral feeling that everyday people are "struggling just to stay afloat" resonate powerfully because they validate this collective emotional reality.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -87,7 +87,7 @@ Tactical Waterproof Backpack
     <h3 style="font-size: 1.3rem; color: #2d3436; margin-top: 25px;">2. Reactance Theory and Endorsement Fatigue</h3>
     <p>The repeated struggles of high-profile, endorsed candidates in Wyoming and Florida highlight a fascinating psychological phenomenon known as psychological reactance. When individuals feel that external authorities or power figures are attempting to constrain their choices or dictate outcomes, they often experience an instinctive psychological pushback. Voters want to feel sovereign over their own ballots; heavy-handed endorsement attempts can trigger an unintended rejection reflex.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -95,7 +95,7 @@ Tactical Waterproof Backpack
     <h3 style="font-size: 1.3rem; color: #2d3436; margin-top: 25px;">3. The Comfort of the Outsider Identity</h3>
     <p>In political psychology, anti-establishment momentum is rarely just about policy; it is an emotional rejection of the status quo. Voters looking at institutional stagnation gravitate toward figures who represent an absolute break from business-as-usual. Whether through insurgent progressive platforms or independent-minded local legislators, the human brain seeks novelty and hope when current structures feel unresponsive.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -118,14 +118,14 @@ Tactical Waterproof Backpack
     <h2 style="font-size: 1.6rem; color: #2d3436; border-bottom: 1px solid #dfe6e9; padding-bottom: 8px; margin-top: 40px;">A Moment for Moral Reflection</h2>
     <p>Political seasons can easily amplify human anxiety, tribalism, and division. When I watch communities grapple with shifting power dynamics, I am reminded of how easily our hearts chase after temporary securities. One lesson that often grounds us is found in the biblical reminder: <span style="font-style: italic;">&ldquo;Do not put your trust in princes, in human beings, who cannot save.&rdquo;</span> (Psalm 146:3, NIV).</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>This verse doesn't tell us to ignore civic duty; rather, it invites us to examine where we place our ultimate hope. Elections matter, leaders change policies, and laws shape communities, but true human flourishing requires justice, humility, and genuine care for the vulnerable—virtues that no single ballot box can automatically guarantee unless we cultivate them in our daily lives.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -135,7 +135,7 @@ Seagate Portable External Hard Drive
     <h2 style="font-size: 1.6rem; color: #2d3436; border-bottom: 1px solid #dfe6e9; padding-bottom: 8px; margin-top: 40px;">How Should Readers Respond?</h2>
     <p>Witnessing high-stakes political battles can leave citizens feeling fatigued or polarized. Here are three grounded, constructive ways to navigate election season without losing your peace of mind:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

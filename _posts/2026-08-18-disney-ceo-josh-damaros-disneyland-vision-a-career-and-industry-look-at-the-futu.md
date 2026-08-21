@@ -24,7 +24,7 @@ source_url: 'https://www.ocregister.com/2026/08/16/disney-ceo-josh-damaro-lays-o
     <p>When Disney CEO Josh D'Amaro took the stage at the Anaheim Convention Center during the D23 media briefing, he did not just talk about new steel and concrete. He talked about trash cans. Specifically, he remembered sitting in a room back in 1998, just after joining the company, listening to a fierce debate over where to place garbage receptacles during construction on Main Street, U.S.A. To a newcomer fresh from other corporate environments, the level of agonizing over minor details might have seemed absurd. But looking back, D'Amaro realized that meticulous obsession with the mundane is exactly what separates a mediocre themed environment from a legendary one.</p>
     <p>For industry watchers and career professionals alike, D'Amaro's recent vision statement offers a fascinating window into modern corporate leadership, balancing legacy assets with audacious future bets, and maintaining product standards in a high-stakes entertainment economy.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Backpack USB Charging Port 
 </a></p>
 

@@ -29,13 +29,13 @@ source_url: "https://abcnews.com/Business/wireStory/shakira-makes-surprise-visit
     <h2>Why This Story Hits Home for Families Everywhere</h2>
     <p>For parents sitting thousands of miles away, watching news reports of children losing their schools, their homes, and sometimes their lives in a sudden natural disaster is uniquely terrifying. It strikes at our deepest parental instinct: the desire to protect our kids from a fragile, unpredictable world.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>Yet, the aftermath in Chocó—an impoverished, isolated region where rivers serve as the primary roads—highlights a harsh reality. Emergencies do not affect all communities equally. When infrastructure is already fragile, a disaster doesn't just disrupt a school year; it threatens to erase a generation's future. That reality invites us to reflect on our own blessings and challenges us to consider how we talk to our children about global suffering, resilience, and our duty to our neighbors.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -45,7 +45,7 @@ Tactical Waterproof Backpack
     <h2>A Parenting and Family Perspective: Teaching Resilience Through Action</h2>
     <p>When major natural disasters dominate the news cycle, children inevitably absorb the anxiety. How we, as parents and caregivers, frame these events shapes whether our kids internalize fear or develop empathy and constructive resilience.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -61,7 +61,7 @@ Seagate Portable External Hard Drive
 
     <p>Shakira's persistent dedication to Chocó over 22 years—long after the initial camera crews leave—demonstrates a vital parenting truth: consistency matters more than grand, one-off gestures. Children learn resilience not when life is easy, but when they watch adults show up consistently in the wake of hardship.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -76,13 +76,13 @@ Tactical Waterproof Backpack
     <h2>A Quiet Reflection on Stewardship and Care</h2>
     <p>Stories like this often prompt a deeper internal check about our responsibilities toward the vulnerable. Watching leaders and artists pour their energy into restoring a forgotten province feels reminiscent of timeless wisdom regarding our duty to look after the helpless.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>One is reminded of the simple, grounding truth found in Scripture: <em>"Do not withhold good from those to whom it is due, when it is in your power to act"</em> (Proverbs 3:27). Whether viewed through a secular humanitarian lens or a traditional spiritual framework, the core message remains identical. We are entrusted with resources, time, and influence not merely for our own comfort, but to help rebuild the broken places around us—especially so that the young may continue to dream.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -92,7 +92,7 @@ Seagate Portable External Hard Drive
     <h2>How Should Families Respond?</h2>
     <p>You don't need to be a Grammy-winning superstar or a billionaire philanthropist to make a meaningful difference in the lives of children facing adversity. Here are three concrete ways families can channel this news into positive action:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

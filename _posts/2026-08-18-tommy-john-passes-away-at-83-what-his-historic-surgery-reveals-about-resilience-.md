@@ -36,7 +36,7 @@ source_url: 'https://www.theguardian.com/sport/2026/aug/16/tommy-john-pitcher-wh
     <p>Long before his surname became a common noun in sports medicine clinics across the globe, Tommy John was simply a fierce, durable left-handed pitcher trying to save his livelihood. TMZ and subsequent tributes confirmed that John passed away at his home in Florida at the age of 83, surrounded by his family, following a recent bout with bladder cancer.</p>
     <p>Tributes poured in swiftly from across Major League Baseball, most notably from the New York Yankees, where John pitched some of his finest years, securing consecutive 20-win seasons. Yet, as the Yankees' statement noted, his staggering longevity and post-surgery triumphs often overshadowed his raw excellence on the mound. He wasn't just a great pitcher; he was the inadvertent godfather of modern sports orthopedics.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

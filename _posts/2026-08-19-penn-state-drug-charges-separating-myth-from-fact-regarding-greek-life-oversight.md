@@ -27,7 +27,7 @@ source_url: "https://www.psu.edu/news/campus-life/story/penn-state-responds-seri
     <h2>Myth vs. Fact: Clearing the Confusion</h2>
     <p>In the wake of such headlines, several myths can circulate regarding university authority. Let’s look at the reality of the situation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -36,7 +36,7 @@ Tactical Waterproof Backpack
       <h3>Myth: The University has full control over all off-campus Greek houses.</h3>
       <p><strong>Fact:</strong> Not all organizations are recognized by the university. Sigma Chi, for instance, is not a recognized organization at Penn State and operates entirely outside the university's support and oversight. This means the university’s ability to impose direct sanctions on the group itself is limited compared to recognized organizations.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -44,7 +44,7 @@ Tactical Waterproof Backpack
       <h3>Myth: University discipline replaces legal criminal charges.</h3>
       <p><strong>Fact:</strong> These processes are distinct. Law enforcement handles criminal prosecution, while the university conducts its own internal review. Students can face both criminal penalties and university sanctions, including permanent separation (expulsion), regardless of the outcome in court.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -59,13 +59,13 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Accountability</h2>
     <p>Situations like this remind us that our actions carry heavy consequences, not just for ourselves, but for our entire community. We are often reminded in Scripture that there is a time for everything, and a time for justice. As Proverbs 21:15 notes, "When justice is done, it brings joy to the righteous but terror to evildoers." This serves as a sobering reminder that seeking the truth and upholding integrity is the bedrock of any healthy community.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>It also brings to mind the call in Galatians 6:7: "Do not be deceived: God cannot be mocked. A man reaps what he sows." This principle of accountability is universal. It invites us to consider the weight of our choices and the importance of fostering environments where safety and respect are prioritized over recklessness.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

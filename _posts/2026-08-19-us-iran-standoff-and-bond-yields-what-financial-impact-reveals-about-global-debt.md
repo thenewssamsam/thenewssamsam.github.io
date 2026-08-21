@@ -91,13 +91,13 @@ source_url: "https://www.theguardian.com/business/2026/aug/18/governments-borrow
     <p>Financial markets reacted sharply as the ceasefire between Washington DC and Tehran collapsed on Monday night without a lasting agreement. Compounding the tension, negotiations yielded no progress on reopening the crucial Strait of Hormuz, a vital energy transit chokepoint.</p>
     <p>Adding fuel to the fire, threats surrounding regional negotiations pushed oil prices above  a barrel on Tuesday. Investors immediately recognized the risk: higher energy costs invariably feed back into inflation, prompting central banks to keep interest rates elevated for longer. At the same time, governments across Europe and North America continue to ramp up defense spending and fiscal borrowing, creating a massive wave of new debt hitting the market.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>The resulting shockwaves were felt across international fixed-income markets:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -111,13 +111,13 @@ Tactical Waterproof Backpack
     <h2 id="financial-impact">Financial Mechanics: Why Rising Yields Matter</h2>
     <p>When bond yields rise, the market price of existing government debt falls. According to market experts, this movement is driven by a combination of stubborn inflation fears, geopolitical risk premiums, and sheer supply volume.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>As Dan Coatsworth, head of markets at AJ Bell, noted, rising long-dated yields reflect "concerns around high levels of government borrowing and investors demanding greater compensation for the risks of holding long-dated government bonds." In simple terms, lenders want a higher return if they are going to lend money to governments that keep running up deficits.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -128,7 +128,7 @@ Seagate Portable External Hard Drive
 
     <p>Furthermore, Neil Wilson, a Saxo UK investor strategist, pointed out that the sheer volume of issuance—both from governments funding defense and public projects, and from corporate borrowers chasing artificial intelligence capital expenditures—is flooding the market with debt.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -136,7 +136,7 @@ Tactical Waterproof Backpack
     <div class="ncg-verse-box">
         <p><strong>A Timeless Principle of Stewardship:</strong> This current economic squeeze reminds me of the ancient wisdom found in Proverbs 22:7, which notes that <em>"the borrower is slave to the lender."</em> While nations operate on a macro scale, the fundamental truth remains: when debt and borrowing costs outpace sustainable revenues, financial flexibility evaporates, leaving economies vulnerable to every external shock.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

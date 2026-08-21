@@ -34,7 +34,7 @@ source_url: 'https://bleacherreport.com/articles/25472801-dana-white-rips-machad
 
 <p>That psychological tug-of-war took center stage following UFC 330, when UFC president Dana White did not hold back his frustration regarding challenger Ian Machado Garry’s performance against welterweight champion Islam Makhachev. Beyond the scorecards and takedowns, the post-fight discourse quickly zeroed in on a much deeper human question: why do exceptionally talented individuals hesitate right at the threshold of greatness?</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

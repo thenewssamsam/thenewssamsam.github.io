@@ -28,7 +28,7 @@ source_url: 'https://www.cbsnews.com/news/indonesia-earthquake-death-toll-flores
 
 <p>When the earth violently shook beneath Flores Island just before dawn on Saturday, August 17, the celebration of Indonesia's 81st Independence Day instantly transformed into a desperate fight for survival. At least 68 people lost their lives, over 200 were injured, and more than 5,000 residents were forced to camp under makeshift tarpaulin tents as aftershocks rattled the region. President Prabowo Subianto asked participants in Jakarta to lead a moment of silence for the victims, casting a somber shadow over national festivities.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

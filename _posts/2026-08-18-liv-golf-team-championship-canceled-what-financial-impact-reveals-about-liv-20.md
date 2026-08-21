@@ -26,7 +26,7 @@ source_url: ''
   <p>For weeks, tour officials insisted everything was fine. Despite empty plots of land at The Cardinal in Plymouth, Michigan, showing zero signs of tournament construction, LIV Golf maintained that its season-ending Team Championship would proceed as scheduled from August 27–30.</p>
   <p>Then reality caught up with the press releases. Last week, LIV quietly stopped selling tickets, days after U.S. broadcast partner Fox Sports scrubbed the event from its television listings. Facing mounting pressure, LIV Golf finally conceded on Monday what had long been obvious: the Team Championship is dead.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

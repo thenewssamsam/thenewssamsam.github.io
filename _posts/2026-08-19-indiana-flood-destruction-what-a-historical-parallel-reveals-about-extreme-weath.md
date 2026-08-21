@@ -133,7 +133,7 @@ source_url: "https://www.foxweather.com/weather-news/watch-drone-video-staggerin
 <p>Beginning around August 11, a relentless series of severe storms lashed Indiana, culminating in catastrophic flooding that has left seven people dead and hundreds of structures damaged. In Hamilton County, breathtaking and sobering drone footage captured the devastation firsthand, revealing a landscape transformed by raging waters. Most notably, a bridge just south of 106th on Hazel Dell Parkway completely collapsed due to severe erosion, a loss officials warn will take months and substantial resources to rebuild.</p>
 <p>The White River surged dramatically, cresting near 25 feet in Anderson and Noblesville. This historic crest easily surpassed the previous modern benchmark set over a century ago. Governor Mike Braun declared a state of emergency, a move swiftly matched by President Donald Trump's approval of a federal emergency declaration to bolster rescue and recovery operations. From Indianapolis to Muncie, emergency services have performed dozens of water rescues, while communities grapple with washed-out roadways and imminent structural threats.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -143,19 +143,19 @@ Tactical Waterproof Backpack
 <h2 id="the-historical-parallel">A Historical Parallel: Remembering March 1913</h2>
 <p>When local meteorologists and officials label an event a "100-year flood," it is easy to hear it as mere meteorological shorthand. However, in the case of the White River's recent surge, history offers a sobering point of comparison: the devastating Great Flood of March 1913.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 <p>In March 1913, Indiana and neighboring Ohio experienced what remains one of the worst weather disasters in regional history, when persistent, heavy rainfall combined with saturated soils to push rivers far beyond their natural banks. The previous record for the White River in Noblesville—23.6 feet—was established during that exact era. For over a century, that high-water mark stood as a monument to nature's raw power.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 <p>When comparing 1913 to today, the striking similarity lies not just in the meteorology—unprecedented multi-day downpours over already swollen river basins—but in the vulnerability of human infrastructure. Over the generations, communities expanded, paving over natural floodplains and building bridges across dynamic river systems. While modern engineering gives us sturdier concrete, advanced radar, and rapid drone assessment tools that our great-grandparents could only dream of, the underlying physics remain unchanged: when millions of gallons of water rush down a narrow valley, something has to give.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -163,7 +163,7 @@ Tactical Waterproof Backpack
 <div class="ncg-quote-box">
 <p>"History doesn't repeat itself, but it often rhymes—reminding us that human engineering must constantly adapt to the enduring fury of nature."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -171,7 +171,7 @@ Seagate Portable External Hard Drive
 
 <p>The differences, thankfully, are also profound. In 1913, communication was agonizingly slow, and relief efforts took days to mobilize. Today, automated emergency alerts, round-the-clock operations centers, and federal disaster assistance mean that rescue crews are deployed within minutes. Yet, the parallel remains a humbling reminder that our control over the natural world is always conditional.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -181,25 +181,25 @@ Seagate Portable External Hard Drive
 <h2 id="spiritual-reflection">Reflecting on Endurance and Stewardship</h2>
 <p>Witnessing communities grapple with sudden destruction naturally stirs deeper questions about our place in a volatile world. When homes are inundated and bridges collapse overnight, we are reminded of how fragile our daily routines truly are.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 <p>This makes me think of the wisdom found in Scripture regarding building upon firm foundations. In the Gospel of Matthew, we are reminded of the storms that inevitably test human construction:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 <blockquote><p>"Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock. And the rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock." &mdash; Matthew 7:24-25 (ESV)</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 </blockquote>
 <p>While this passage speaks profoundly to spiritual resilience, it also echoes a physical truth about how we inhabit our land. We are called to be wise stewards of our communities&mdash;&#8211;designing our towns, maintaining our infrastructure, and preparing for the inevitable storms that test us. Beyond physical structures, however, crises like the Indiana floods reveal the rock-solid character of neighbors helping neighbors, emergency responders working around the clock, and communities uniting in compassion.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -209,7 +209,7 @@ Tactical Waterproof Backpack
 <h2 id="community-response">How Should Residents Respond?</h2>
 <p>Disaster recovery requires practical, grounded action rather than panic. For those living in affected regions or looking to support relief efforts, consider the following steps:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

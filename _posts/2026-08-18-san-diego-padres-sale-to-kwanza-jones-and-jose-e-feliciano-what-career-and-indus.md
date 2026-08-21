@@ -16,7 +16,7 @@ source_url: ''
     <p>Major League Baseball's unanimous approval of a historic ownership transition reshapes the business side of America's pastime—and signals where the sports industry is heading next.</p>
     <p><time datetime="2026-03-31">Published: March 31, 2026</time> &bull; 6 min read</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

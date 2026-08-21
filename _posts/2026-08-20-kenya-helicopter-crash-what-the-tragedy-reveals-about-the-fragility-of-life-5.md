@@ -22,7 +22,7 @@ source_url: 'https://www.bbc.com/news/articles/clylkv4z59vo'
     
     <p>Images from the site at Mount Ololokwe show smoke billowing from the wreckage as emergency responders arrived. Among the victims identified so far is NBCUniversal journalist José Alberto Suárez and Miami restaurateur Roger Duarte. Authorities are still working to confirm the identities of the remaining American passengers.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -32,7 +32,7 @@ Seagate Portable External Hard Drive
     <h2>The Fragility of Our Plans</h2>
     <p>When news of such a sudden and devastating event breaks, it serves as a jarring reminder of the unpredictability of our daily existence. We often move through our lives with a sense of security, assuming that our plans for tomorrow—or even for the next hour—are guaranteed. Yet, these individuals were on a scenic tour, likely anticipating the beauty of the Kenyan landscape, when their lives were cut short in an instant.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -43,7 +43,7 @@ Tactical Waterproof Backpack
 
     <p>This event invites us to evaluate how we treat our time. Are we holding onto grudges that no longer matter? Are we delaying expressions of love or gratitude? In the wake of such a disaster, the most practical lesson is the necessity of radical presence. When we accept that our time here is finite, we become more intentional about the things that truly hold value: our relationships, our character, and our service to others.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -53,21 +53,21 @@ Tactical Waterproof Backpack
     <h2>Finding Hope Amidst Loss</h2>
     <p>In moments where life feels fragile, I am often reminded of the words in James 4:14: "Why, you do not even know what will happen tomorrow. What is your life? You are a mist that appears for a little while and then vanishes."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
     <p>This verse isn't meant to cause despair, but rather to provide a perspective shift. It reminds us that our life is not defined by the length of our days, but by the depth of our connection to the Creator and the impact we have on those around us. Psalm 90:12 offers a beautiful prayer for this realization: "Teach us to number our days, that we may gain a heart of wisdom."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
     <p>When we "number our days," we aren't counting down to an end; we are recognizing the precious nature of the current hour. It invites us to consider our choices and to prioritize peace and truth in our dealings with others. Even in the face of sudden, inexplicable loss, there is a call to anchor our souls in something beyond the temporary nature of this world.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

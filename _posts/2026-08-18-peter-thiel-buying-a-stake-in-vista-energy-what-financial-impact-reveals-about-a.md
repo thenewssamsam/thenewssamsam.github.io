@@ -102,7 +102,7 @@ source_url: 'https://qz.com/peter-thiel-thiel-macro-vista-energy-argentina-stake
 
   <p>Beyond the initial market bump, this move opens up a broader conversation about how major institutional and macro investors evaluate emerging energy plays in developing economies. To understand why this investment matters, we need to look past the headline and examine the underlying financial mechanics driving capital toward Argentine shale.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

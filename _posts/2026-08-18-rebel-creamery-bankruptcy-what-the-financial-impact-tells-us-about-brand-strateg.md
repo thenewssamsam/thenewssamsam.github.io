@@ -50,7 +50,7 @@ source_url: 'https://www.independent.co.uk/life-style/ice-cream-brand-rebel-crea
     <h2>What Happened: The Collapse of Rebel Creamery</h2>
     <p>Utah-based Rebel Creamery carved out a lucrative niche in the competitive frozen dessert aisle by catering to keto and low-carb diets. By securing distribution in retail giants like Walmart, Target, Kroger, and Safeway, the brand scaled rapidly. However, rapid revenue growth does not automatically shield a company from severe balance-sheet vulnerabilities.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -42,14 +42,14 @@ source_url: "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-
     <h2>A Historical Parallel: The Illusion of Decisive Air Campaigns</h2>
     <p>To understand the strategic logic and the limits of this new wave of long-range drone warfare, we can look back at mid-20th-century aerial strategies, such as the strategic bombing campaigns of World War II. In both historical conflicts and modern asymmetric engagements, military planners have consistently turned to deep-penetration aerial strikes with a specific psychological and economic goal in mind: to disrupt industrial supply lines, strain enemy air defenses, and bring the psychological reality of war directly to the civilian population centers of the opposing nation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>However, historical parallels offer a sobering lesson. In nearly every major historical instance—from the Blitz in Britain to the strategic bombing of German and Japanese industrial centers—aerial bombardment rarely achieved a quick, decisive collapse of civilian morale or government resolve. Instead, it frequently hardens public resistance, complicates internal logistics, and shifts the conflict into a grinding war of endurance. Ukraine's strategy aims to impose economic costs and disrupt supply networks like the targeted warehouses, yet history suggests that long-range strikes alone rarely break a deadlock when ground forces remain deadlocked.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -63,7 +63,7 @@ Seagate Portable External Hard Drive
     <h2>A Moment for Reflection: Power, Vulnerability, and Life</h2>
     <p>When headlines are dominated by numbers in the hundreds of drones and dozens of casualties, it is easy to view war entirely through the dispassionate lens of military strategy or economic loss. Yet behind every statistical tally in Moscow, Kharkiv, or Brovary are human lives of infinite and irreplaceable value. This reality often brings to mind the sobering wisdom of James 4:13-14:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -74,7 +74,7 @@ Tactical Waterproof Backpack
 
     <p>This ancient reflection cuts through the grand illusions of political invincibility and military supremacy. Whether examining the vulnerability of modern capital cities or grieving for families in residential settlements, we are reminded of how fragile human engineering and earthly security truly are. It invites observers everywhere to cultivate deep humility, recognizing that true peace cannot be manufactured solely through escalation, but requires a fundamental turning away from destruction and toward the preservation of human dignity.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -84,7 +84,7 @@ Tactical Waterproof Backpack
     <h2>How Should Readers Respond? Finding Clarity in Chaos</h2>
     <p>Watching a distant conflict escalate can easily induce feelings of helplessness or anxiety. For everyday readers observing these events from afar, constructive engagement involves a few grounded steps:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

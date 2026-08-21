@@ -27,7 +27,7 @@ source_url: 'https://chicago.suntimes.com/casinos-gambling/2026/08/17/ballys-chi
   
   <p>The disclosure arrives as Bally's is locked in a fierce dispute with Chicago City Council members. The city authorized video gambling terminals (VGTs) to help balance its municipal budget&mdashdefying Mayor Brandon Johnson and the original host community agreement. Bally's argues that these machines will siphon vital revenue away from its operations. Meanwhile, critics on the City Council claim the VGT dispute is simply a convenient smokescreen masking a much harsher reality: Bally's cannot afford to complete the project.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

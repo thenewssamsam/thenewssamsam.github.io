@@ -25,7 +25,7 @@ source_url: 'https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-
     <h2>What Happened?</h2>
     <p>Following the expiration of a memorandum of understanding meant to address sanctions and nuclear concerns, Washington and Tehran remain deadlocked. President Trump, speaking on Fox News, characterized the Iranian leadership as "good poker players" while suggesting he remains in no hurry to resolve the five-month-long conflict. Simultaneously, he issued a stern warning to Oman regarding interference in the Strait of Hormuz, a vital energy artery.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

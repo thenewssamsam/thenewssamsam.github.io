@@ -130,7 +130,7 @@ source_url: 'https://www.kcci.com/article/iowa-soldiers-killed-in-syria-honored-
 <p>Secretary of Defense Pete Hegseth traveled to the Iowa State Fairgrounds to participate in a Republican fundraiser hosted alongside congressional candidates Zach Nunn and Ashley Hinson. The visit carried heavy emotional weight, serving as a formal tribute to Staff Sgt. William Nathaniel Howard and Staff Sgt. Edgar Brian Torres-Tovar.</p>
 <p>The two Iowa National Guard soldiers were shot and killed by a lone ISIS gunman while deployed in Syria. According to military reports, their deaths mark the first time members of the Iowa National Guard have died in action since 2011. Hegseth’s visit had originally been scheduled for March but was postponed due to escalating tensions and conflict with Iran.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

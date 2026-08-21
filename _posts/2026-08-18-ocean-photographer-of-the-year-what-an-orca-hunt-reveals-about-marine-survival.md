@@ -34,7 +34,7 @@ source_url: 'https://gizmodo.com/award-winning-ocean-photographs-reveal-the-afte
 <h2 id="the-winning-shots">Beyond the Surface: The Ocean Photographer Awards</h2>
 <p>The annual Ocean Photographer of the Year competition is much more than a celebration of aesthetic beauty. It functions as a global archive of changing marine habitats, dividing its entries into categories like adventure, conservation, and human connection. This year's collection features images that provoke wonder, such as a male cardinalfish sheltering its young inside its mouth, balanced against stark reminders of human impact, like a silky shark ensnared by an illegal longline hook in the Gulf of California.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

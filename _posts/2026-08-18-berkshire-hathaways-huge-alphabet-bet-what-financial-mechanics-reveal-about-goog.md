@@ -35,7 +35,7 @@ source_url: 'https://247wallst.com/investing/2026/08/17/berkshire-raised-its-alp
     <p>For months, the market narrative around Alphabet (NASDAQ:GOOG) has been dominated by anxiety over massive artificial intelligence spending. Even though the company posted stellar Q2 2026 results on July 22—reporting  billion in revenue (up 24.2% year-over-year) and an EPS of  that soundly beat consensus estimates—investors fixated on a different set of numbers.</p>
     <p>Capital expenditures nearly doubled to  billion, free cash flow dipped into negative territory, and long-term debt increased. Shares cooled off from summer highs, pulling back 7.2% over a single month.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

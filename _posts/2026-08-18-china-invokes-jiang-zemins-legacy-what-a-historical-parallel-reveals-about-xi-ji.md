@@ -36,7 +36,7 @@ source_url: 'https://www.scmp.com/news/china/politics/article/3364198/communist-
     <h2>What Happened: Jiang's Legacy Summoned for Modern Unity</h2>
     <p>The state-backed commemoration of Jiang Zemin—who passed away in 2022 at the age of 96—has shifted into high gear. Alongside a 12-part television documentary, commemorative postage stamps, and a specialized defense symposium, a high-profile gathering in Beijing has placed Jiang back at the center of the national conversation. At the heart of this campaign is a core message: when navigating what state media calls "rough waters," internal solidarity is the ultimate shield.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

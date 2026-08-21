@@ -17,7 +17,7 @@ source_url: 'https://www.theguardian.com/world/2026/aug/17/ukraine-war-briefing-
 
   <p>Ukraine could possess the capability to strike targets deep inside Russia using domestically manufactured ballistic missiles within the next three to six months, according to estimates from former defense minister Mykhailo Fedorov. As the conflict grinds past its 1,600th day, this technological push represents a significant shift from relying primarily on long-range drones and cruise missiles. But as history shows, every leap in offensive capability triggers a complex cycle of adaptation, escalation, and strategic reevaluation.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

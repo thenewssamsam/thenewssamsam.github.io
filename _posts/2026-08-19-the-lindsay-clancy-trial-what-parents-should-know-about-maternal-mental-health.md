@@ -23,7 +23,7 @@ source_url: "https://www.bostonglobe.com/2026/08/17/metro/lindsay-clancy-trial-p
     <p>Lindsay Clancy, a 36-year-old nurse and mother, stands accused of strangling her three children—Cora, 5; Dawson, 3; and Callan, 8 months—in January 2023. The prosecution has rested its case, arguing that Clancy was in control and that her actions were premeditated. Conversely, the defense asserts that Clancy was suffering from an undiagnosed psychotic break brought on by postpartum psychosis and an overmedicated state.</p>
     <p>The trial highlights a massive gap in how we track maternal mental health. Testimony revealed that various providers treating Clancy were operating in silos, often without a complete picture of her history, including calls to suicide hotlines. This lack of coordination is at the heart of the defense's argument regarding her criminal responsibility.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -32,7 +32,7 @@ Tactical Waterproof Backpack
   <div class="ncg-product-card" style="border: 1px solid #ddd; padding: 15px; background: #f9f9f9; border-left: 5px solid #d4af37; margin: 20px 0;">
     <p><strong>Recommended Resource:</strong> <em>The Fourth Trimester: A Postpartum Guide to Healing Your Body, Balancing Your Emotions, and Restoring Your Vitality</em>. A helpful guide for understanding the physical and emotional shifts after birth. <a href="#">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -42,7 +42,7 @@ Tactical Waterproof Backpack
     <h2>Navigating the Postpartum Period</h2>
     <p>From a parenting and family perspective, this trial is not just a legal matter; it is a signal to families to prioritize maternal wellness as a foundational pillar of household safety. Postpartum psychosis is a medical emergency, distinct from the more commonly discussed postpartum depression. It requires immediate, specialized intervention.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -54,7 +54,7 @@ Tactical Waterproof Backpack
     <h3>Advocating for Coordinated Care</h3>
     <p>The testimony regarding siloed medical records is a wake-up call for parents. When a spouse or partner is struggling, it is vital to act as a central advocate. Ensure that every provider—OB-GYN, psychiatrist, and primary care physician—is fully informed of the symptoms and medications being managed.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -62,7 +62,7 @@ Tactical Waterproof Backpack
     <h3>Recognizing the Signs</h3>
     <p>Parents should be aware that "feeling sick" or "something is wrong," as Clancy reportedly texted her mother, is a signal that should never be ignored. While most postpartum experiences do not lead to violence, rapid mood swings, insomnia, or talk of hopelessness are red flags that necessitate immediate professional evaluation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -72,13 +72,13 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Compassion and Vigilance</h2>
     <p>This situation invites us to reflect on the fragility of the human mind and the responsibility we have to care for one another in times of deep darkness. When we see a neighbor or a loved one struggling under the weight of an invisible burden, we are reminded of the call to "Carry one another’s burdens, and in this way you will fulfill the law of Christ" (Galatians 6:2). This is not just a theological instruction; it is a practical imperative for the health of our families.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>I am reminded that even in the most desperate of circumstances, we are called to be channels of grace and truth. "The Lord is close to the brokenhearted and saves those who are crushed in spirit" (Psalm 34:18). This verse brings a measure of peace, reminding us that no one is beyond the reach of God's presence, even when the complexities of mental illness make that presence feel distant. It serves as an invitation to be the hands and feet of that support for the mothers and parents in our own communities who may be suffering in silence.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -87,7 +87,7 @@ Seagate Portable External Hard Drive
   <div class="ncg-product-card" style="border: 1px solid #ddd; padding: 15px; background: #f9f9f9; border-left: 5px solid #d4af37; margin: 20px 0;">
     <p><strong>Support Tool:</strong> <em>Journaling for Mental Clarity: A Guided Workbook</em>. Useful for tracking moods and symptoms during the postpartum period. <a href="#">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

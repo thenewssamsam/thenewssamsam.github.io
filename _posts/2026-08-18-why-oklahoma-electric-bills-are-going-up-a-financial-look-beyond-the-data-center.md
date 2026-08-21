@@ -42,7 +42,7 @@ source_url: 'https://www.newson6.com/data-centers-in-oklahoma/why-oklahoma-elect
     <h2>What Happened: The Anatomy of Summer Rate Shock</h2>
     <p>For Tulsa-area customers, the most immediate pressure point arrived July 1, when an interim rate adjustment took effect for Public Service Company of Oklahoma (PSO) while the Oklahoma Corporation Commission evaluates a broader permanent rate hike request. Under state regulations, utilities file formal rate review cases to cover operating expenses, labor, materials, capital investments, and allowable profit margins.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

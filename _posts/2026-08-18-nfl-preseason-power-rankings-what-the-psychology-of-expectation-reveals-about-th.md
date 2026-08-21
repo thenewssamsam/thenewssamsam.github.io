@@ -17,7 +17,7 @@ source_url: 'https://sports.yahoo.com/articles/nfl-preseason-power-rankings-bill
 
 <p>As the 2026 NFL preseason kicks off, the latest league power rankings show a dramatic shuffle at the top, with the Los Angeles Rams claiming the No. 1 spot and the Buffalo Bills charging into second place following major summer moves. But long before a single meaningful snap is played in September, these rankings offer a fascinating window into how sports psychology shapes the way fans, analysts, and players handle anticipation, pressure, and the heavy weight of expectations.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

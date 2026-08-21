@@ -31,7 +31,7 @@ source_url: "https://www.foxnews.com/politics/trumps-support-doesnt-save-scandal
 
 <p>Mills was unseated by Ryan Elijah, a former Orlando-area television news anchor and NFL sideline reporter. The upset came despite Mills holding a commanding lead in early polling and securing what is widely considered the most potent symbol of political gravity in modern GOP primaries: an endorsement from former President Donald Trump.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive
 
 <p>The primary defeat marks the culmination of months of mounting political pressure. Mills faced an ongoing House Ethics Committee investigation regarding sexual misconduct allegations, alongside swirling rumors of a separate Department of Justice probe—allegations that Mills aggressively pushed back against, pointing the finger at political opponents.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -53,7 +53,7 @@ Tactical Waterproof Backpack
 <h2>Myth vs. Fact: Sorting Through the Claims</h2>
 <p>In high-profile political races involving allegations and ethics probes, misinformation spreads quickly on social media and cable news. Let&apos;s separate verifiable reporting from campaign talking points.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -62,7 +62,7 @@ Tactical Waterproof Backpack
 <h3 style="margin-top: 0; color: #2c3e50;">Myth: A Trump endorsement guarantees a primary victory regardless of local ethics controversies.</h3>
 <p><strong>Fact:</strong> While a presidential endorsement remains one of the most powerful tools in a primary, it is not an absolute shield. Voters weighed the high-profile backing against mounting local headwinds, including a House Ethics Committee probe and defections from fellow Florida Republicans like Reps. Mike Haridopolos and Anna Paulina Luna.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -72,7 +72,7 @@ Tactical Waterproof Backpack
 <h3 style="margin-top: 0; color: #2c3e50;">Myth: The Justice Department officially confirmed an active criminal investigation into Rep. Mills.</h3>
 <p><strong>Fact:</strong> According to reports, the news of a DOJ probe stemmed from an anonymous source familiar with the matter rather than an official statement from federal law enforcement. Rep. Mills strongly denied the existence of any such investigation, characterizing it as a political operation orchestrated by his primary opponents.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -87,14 +87,14 @@ Seagate Portable External Hard Drive
 <h2>A Moment for Reflection</h2>
 <p>Situations like this often prompt deeper reflection on leadership, integrity, and the pursuit of truth. When public figures stumble under the weight of scandal, it serves as a reminder that accountability is a universal principle.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>One of my favorite passages on character comes from Proverbs 10:9, which reminds us: <em>&ldquo;Whoever walks in integrity walks securely, but whoever takes crooked paths will be found out.&rdquo;</em> This truth transcends politics. It speaks directly to the reality that hidden actions eventually come to light, and that public trust is fragile—easily squandered, but exceedingly difficult to rebuild once lost.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -104,7 +104,7 @@ Seagate Portable External Hard Drive
 <h2>How Should Voters Respond?</h2>
 <p>Elections are not merely popularity contests; they are stress-tests for local and national representation. When faced with conflicting claims during a primary season, voters can take several concrete steps:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -138,7 +138,7 @@ Seagate Portable External Hard Drive
 <h2>One Last Thought</h2>
 <p>The defeat of Rep. Cory Mills demonstrates that voters still hold the ultimate power of evaluation at the ballot box, regardless of elite backing or pre-election polling. As political cycles continue to churn, separating verifiable fact from partisan rhetoric remains our best defense against confusion. Integrity in public life matters, and accountability remains the bedrock of a healthy republic.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

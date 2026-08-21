@@ -24,7 +24,7 @@ source_url: "https://abc7ny.com/story/14-charged-alleged-cocaine-trafficking-rin
 
     <p>The operation was not a small-scale side hustle; officials describe it as a coordinated crew led by senior fraternity members who traveled regularly to major cities to source large quantities of cocaine. For some, this criminal enterprise was baked into the very culture of the fraternity, with packaging drugs serving as a form of "indoctrination" for new pledges.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -34,7 +34,7 @@ Tactical Waterproof Backpack
     <h2>The Economics of Illicit Campus Operations</h2>
     <p>From a financial perspective, this case illustrates how modern illicit operations have evolved. By utilizing payment apps and digital transaction methods, the organizers attempted to blend their criminal proceeds into the high-velocity environment of a college campus. However, this digital footprint is exactly what law enforcement often uses to build a paper trail.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -42,7 +42,7 @@ Tactical Waterproof Backpack
     <div style="border-left: 4px solid #d4af37; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>For secure document storage:</strong> Keep your important files safe with this <strong><a href="https://www.amazon.com/dp/B00006IF5O" target="_blank" rel="noopener noreferrer">Fireproof Document Safe </a></strong>, a stark reminder that hiding illicit evidence often carries its own heavy legal cost.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -50,7 +50,7 @@ Seagate Portable External Hard Drive
 
     <p>The "profitability" mentioned by the Attorney General highlights the danger of commodifying student organizations. When a fraternity shifts from a social or academic support structure to a distribution network, the overhead costs—including legal fees, potential loss of university recognition, and the destruction of future earning potential—vastly outweigh any short-term cash gains. The "dealing in proceeds of unlawful activity" charge specifically addresses the intent to profit from this illicit trade, elevating the risk profile for every participant involved.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -64,14 +64,14 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Stewardship and Integrity</h2>
     <p>This situation brings to mind the sobering wisdom found in <strong>Proverbs 21:6</strong>: <em>"The getting of treasures by a lying tongue is a fleeting vapor and a snare of death."</em> While this verse speaks to the pursuit of wealth through dishonest means, it serves as a powerful reminder that any "profit" gained through the exploitation of others or the breaking of the law is fundamentally fragile.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>Often, we are tempted to believe that we can build a secure future by cutting corners or participating in systems that compromise our integrity. Yet, as we see here, those systems are "fleeting vapors." The students involved likely sought status or quick money, only to find their paths to graduation and future careers under immediate threat. Scripture invites us to consider that true security comes from honest labor and upright character, not from the high-risk, high-cost shortcuts that ultimately act as a snare.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -88,7 +88,7 @@ Seagate Portable External Hard Drive
     <div style="border-left: 4px solid #d4af37; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Campus Safety Tools:</strong> Stay prepared with a <strong><a href="https://www.amazon.com/dp/B07T2B9R8W" target="_blank" rel="noopener noreferrer">Personal Safety Alarm </a></strong>, ensuring you have the tools to maintain your own security in any environment.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

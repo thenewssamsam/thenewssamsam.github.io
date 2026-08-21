@@ -126,7 +126,7 @@ source_url: 'https://www.businessreport.com/article/tech-companies-are-fighting-
 
   <p>Platforms like LinkedIn, YouTube, TikTok, and Substack are scrambling to roll out new detection filters, content labels, and user controls to limit the flood. But beneath this sudden corporate crusade lies a deeply uncomfortable truth: these tech giants spent years building and promoting the exact tools that made mass-producing garbage effortless.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

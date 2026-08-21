@@ -25,7 +25,7 @@ source_url: "https://www.nbcnews.com/news/us-news/tuesday-primaries-buss-family-
     <div style="border-left: 4px solid #d4af37; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Recommendation:</strong> <em>The Purpose Driven Life</em> by Rick Warren - A guide to finding meaning during life's most challenging transitions. <a href="https://www.amazon.com/dp/031033750X" target="_blank">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -33,7 +33,7 @@ Seagate Portable External Hard Drive
 
     <p>Whether it is the "Buss family drama" involving the Lakers or the geopolitical tensions in the Strait of Hormuz, we see people grappling with power, loss, and the desire for control. When we look at these stories, it is easy to become overwhelmed by the sheer pace of it all.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive
     <h2>A Lens of Faith: Finding Stability in a Shifting World</h2>
     <p>From a biblical perspective, the world’s instability is not a new phenomenon. Scripture frequently speaks to the transient nature of life. We are reminded that while empires rise and fall and personal circumstances change, there is a foundation that remains unshakable.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -55,14 +55,14 @@ Tactical Waterproof Backpack
 
     <p>In the life of Hayden Panettiere, we see a human story of struggle—a reminder that fame does not shield one from the weight of depression or the need for grace. As I reflect on her passing, I am reminded of <strong>Psalm 34:18</strong>: <em>"The Lord is close to the brokenhearted and saves those who are crushed in spirit."</em> This verse invites us to consider that no matter the public narrative or the career trajectory, God’s presence is the ultimate refuge for those struggling with the burdens of life.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
     <p>Similarly, the political and familial conflicts we see in the news often stem from the human desire for control. We want to secure our future, protect our interests, and ensure our legacy. Yet, <strong>James 4:14</strong> warns us: <em>"Why, you do not even know what will happen tomorrow. What is your life? You are a mist that appears for a little while and then vanishes."</em> This is not meant to be cynical, but rather a call to prioritize what is eternal over what is temporary.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -70,7 +70,7 @@ Seagate Portable External Hard Drive
     <div style="border-left: 4px solid #d4af37; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Recommendation:</strong> <em>Grace for the Moment</em> by Max Lucado - Daily devotions to help find peace in the midst of life's daily chaos. <a href="https://www.amazon.com/dp/1400206235" target="_blank">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -81,7 +81,7 @@ Tactical Waterproof Backpack
     <h2>How Should We Respond?</h2>
     <p>When the news cycle brings us face-to-face with loss or conflict, we can choose to respond with intention rather than anxiety:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

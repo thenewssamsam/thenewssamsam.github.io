@@ -33,7 +33,7 @@ source_url: 'https://ca.finance.yahoo.com/news/nike-shares-hit-11-low-174500075.
 <h2>What Happened: The 11-Year Low</h2>
 <p>When a corporate giant like Nike hits an 11-year low, Wall Street takes notice. Shares fell to levels not seen in over a decade following a fresh analyst downgrade and persistent weakness in direct-to-consumer (DTC) channels. UBS analysts released data pointing to muted revenue projections for upcoming quarters as the brand works through a complex, multi-year strategic reset.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

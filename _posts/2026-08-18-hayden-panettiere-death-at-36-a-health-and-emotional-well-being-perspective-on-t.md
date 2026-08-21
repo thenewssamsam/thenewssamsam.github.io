@@ -22,7 +22,7 @@ source_url: 'https://people.com/hayden-panettiere-suffered-apparent-overdose-was
 
 <p>According to reports from the Greenville Police Department and the Greenville County Coroner's Office, emergency responders arrived at a residence in Greenville, South Carolina, on Sunday afternoon, August 16, following a 911 call placed by an acquaintance. First responders found Panettiere unresponsive and immediately initiated advanced cardiac life support measures. Despite their efforts, resuscitation was unsuccessful, and she was pronounced deceased at 2:32 p.m.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0GX8NPZ1T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0GX8NPZ1T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 GOPPUS Insulated Leak-Proof Bottle 
 </a></p>
 

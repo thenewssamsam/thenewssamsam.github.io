@@ -37,7 +37,7 @@ source_url: ''
 <p>The young Microsoft executive had just dropped off his twins at his ex-wife&#8217;s home in Jacksonville Beach on a warm, late-winter Florida evening. Towering live oaks draped with Spanish moss lined the neighborhood, casting long shadows across the pavement as the sun began to set.</p>
 <p>He started driving home with his 2-year-old daughter in the backseat when he came upon a tire in the middle of the road. He stopped his car and got out to move it. But before he could get back behind the wheel, someone shot him dead in the street and fled.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

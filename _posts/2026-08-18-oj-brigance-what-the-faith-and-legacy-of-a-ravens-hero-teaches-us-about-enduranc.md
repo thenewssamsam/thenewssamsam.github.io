@@ -38,7 +38,7 @@ source_url: ''
 <h2 style="font-size:1.5rem; color:#1b365d; margin-top:2rem; margin-bottom:1rem;">The News: A Life of Impact</h2>
 <p>The Baltimore Ravens announced Monday that Orenthial James Brigance had died at age 56. For anyone who followed football in the late 1990s and early 2000s, Brigance was a household name. He made the very first tackle of Super Bowl XXXV on the opening kickoff, helping propel the Ravens to a dominant 34-7 victory over the New York Giants. He remains the only player to win both a Canadian Football League Grey Cup and a Super Bowl championship for a team in the same city—Baltimore.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

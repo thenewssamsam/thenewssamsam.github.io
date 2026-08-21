@@ -28,7 +28,7 @@ source_url: "https://www.azfamily.com/2026/08/18/lake-powell-lake-mead-hit-recor
 
     <p>This isn't just a weather event; it is a systemic challenge of managing a resource that is being withdrawn faster than it is being replenished. The reliance on hydroelectric power adds a layer of economic urgency, as the loss of this cheap energy could ripple through the western power grid.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -38,14 +38,14 @@ Seagate Portable External Hard Drive
     <h2>Lessons from the Dust of History</h2>
     <p>History is littered with the remnants of civilizations that failed to adapt to changing water realities. The most striking parallel to our current Colorado River crisis is the collapse of the Hohokam culture in the Salt River Valley centuries ago. Much like the modern Southwest, the Hohokam built an intricate network of irrigation canals that sustained a thriving population for over a thousand years. However, prolonged drought and soil salinization eventually rendered their system unsustainable.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>Another parallel can be found in the Mesopotamian civilizations of the Tigris and Euphrates. They faced similar challenges: over-diversion of water and the gradual depletion of their river systems. History teaches us that the transition from abundance to scarcity is rarely sudden; it is a slow, creeping process that often outpaces the political will to change.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -61,14 +61,14 @@ Seagate Portable External Hard Drive
     <h2>A Reflection on Stewardship</h2>
     <p>This crisis forces me to think about the biblical concept of stewardship. In Genesis, humanity is entrusted with the care of the earth, a responsibility that requires both wisdom and foresight. When we look at the drying basins of Lake Mead and Powell, it serves as a sobering reminder of our finite control over nature.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>As Proverbs 21:20 notes, "The wise store up choice food and olive oil, but fools gulp theirs down." We have been "gulping down" our water resources for decades, assuming the supply was infinite. This moment invites us to consider our relationship with the land and the necessity of humility. We are not just consumers; we are caretakers of a future we may not inhabit. How we act today defines the legacy we leave for the next generation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

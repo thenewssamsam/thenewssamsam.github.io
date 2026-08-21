@@ -35,7 +35,7 @@ source_url: 'https://www.psu.edu/news/campus-life/story/penn-state-responds-seri
 
 <p>While the legal system handles indictments, university discipline, and individual accountability, a deeper question remains largely unaddressed by police reports and press conferences: <em>How does this happen in the first place?</em> Looking past the immediate shock value, the behavioral dynamics at play offer a sobering look at how group psychology, peer pressure, and institutional isolation can warp moral boundaries on college campuses.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

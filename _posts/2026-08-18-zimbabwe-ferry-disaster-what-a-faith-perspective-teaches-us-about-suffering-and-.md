@@ -162,7 +162,7 @@ source_url: 'https://apnews.com/article/zimbabwe-ferry-capsize-death-toll-rises-
 
 <p>News reports of sudden disasters often arrive as raw statistics, but behind every numerical increase lies a family torn apart, a community in mourning, and an urgent reminder of our shared, fragile humanity. When we pause to look past the headlines, events like the Zimbabwe ferry disaster invite us to reflect on deeper truths about vulnerability, our responsibility to one another, and where hope can be found when tragedy strikes.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

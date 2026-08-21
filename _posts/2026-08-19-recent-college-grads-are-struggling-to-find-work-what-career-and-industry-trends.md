@@ -24,7 +24,7 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduat
 
   <p>When young professionals put in relentless effort—networking, earning advanced degrees, and completing multiple internships—only to face constant rejection, the frustration is entirely understandable. Naturally, many point the finger at the most visible technological shift of our era: artificial intelligence. But according to labor economists studying the data, the truth behind today's tough entry-level market goes far beyond simple tech displacement.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

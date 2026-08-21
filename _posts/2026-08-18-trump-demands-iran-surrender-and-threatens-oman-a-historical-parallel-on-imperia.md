@@ -25,7 +25,7 @@ source_url: 'https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-
     <p>As a 60-day US-Iran ceasefire expired without a formal deal, President Donald Trump escalated regional tensions on Monday by demanding that Tehran put up the "white flag of surrender" and stunningly threatening US ally Oman over control of the vital Strait of Hormuz. With naval blockades choking global oil routes, backchannels operating via the IRGC, and political pressures mounting ahead of the US midterm elections, the standoff has entered a volatile new phase.</p>
     <p>Yet, shouting matches over narrow maritime corridors are hardly new. History shows that whenever a dominant power attempts to unilaterally subdue a regional chokepoint through sheer economic and military pressure, the results rarely mirror the simple scripts projected from capitals far away.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

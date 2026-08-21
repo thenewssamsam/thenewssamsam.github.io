@@ -34,7 +34,7 @@ source_url: 'https://www.investopedia.com/gen-x-retirement-savings-how-much-they
 <h2 id="what-happened">What the Federal Reserve Data Shows</h2>
 <p>Americans born between 1965 and 1980 entered the workforce right as corporate America was phasing out traditional pensions and shifting the burden of retirement funding onto individual employees via 401(k) plans. Gen X became the original test case for this do-it-yourself retirement system.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

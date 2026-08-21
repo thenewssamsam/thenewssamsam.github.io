@@ -27,7 +27,7 @@ source_url: "https://apnews.com/article/tariffs-trump-canada-usmca-trade-aae597c
     <h2>The Psychology of the Brink</h2>
     <p>In behavioral economics and political psychology, what we just witnessed is a classic example of <em>brinkmanship</em>. It is a strategy where one party pushes a dangerous situation to the limit of safety—to the "brink"—in the hope that the other party will concede first.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -39,7 +39,7 @@ Tactical Waterproof Backpack
     <h3>The Power of Uncertainty</h3>
     <p>From a psychological perspective, the most taxing element of this standoff isn't the tariff rate itself—it's the <em>uncertainty</em>. Humans are wired to seek predictability; when that is stripped away, we experience a stress response known as "uncertainty intolerance." This is why market analysts and business leaders express such frustration with the "limbo state." When we cannot predict the future, our brains default to risk-aversion, causing us to freeze or prepare for the worst-case scenario.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -47,7 +47,7 @@ Seagate Portable External Hard Drive
     <h3>The Normalcy Bias</h3>
     <p>Many observers were shocked by the intensity of the threat, given the long-standing alliance between the U.S. and Canada. This reaction is often fueled by <em>normalcy bias</em>—the tendency to believe that because things have been peaceful in the past, they will continue to be so in the future. Trump’s aggressive stance disrupts this bias, forcing both global markets and the Canadian government to recalibrate their expectations of what a "friendly" relationship actually looks like in practice.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -57,7 +57,7 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Wisdom and Peace</h2>
     <p>This high-stakes tension reminds me of the biblical call to seek peace even in the midst of conflict. In <strong>Proverbs 15:1</strong>, we are told, "A gentle answer turns away wrath, but a harsh word stirs up anger." While international trade is complex, the underlying human desire for dominance often mirrors the pride that leads to unnecessary friction. I am reminded that wisdom often involves knowing when to de-escalate, rather than seeing who can push the hardest. As <strong>James 3:17</strong> notes, "The wisdom that comes from heaven is first of all pure; then peace-loving, considerate, submissive, full of mercy and good fruit, impartial and sincere." In our own lives, when we feel the urge to "win" an argument at all costs, we might consider if the cost of the victory is worth the damage to the relationship.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

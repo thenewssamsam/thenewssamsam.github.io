@@ -39,7 +39,7 @@ source_url: 'https://oilprice.com/Geopolitics/Europe/Ukraine-Has-Shattered-the-M
 
 <p>Yet according to security experts, misinterpreting what this war reveals about Russian power is dangerous. While Moscow&rsquo;s conventional ground forces have suffered extraordinary degradation, Russia continues to adapt, scale up industrial production, and forge new external alliances. To understand where this conflict is heading, we need to step back from the daily headlines and look at how past military stalemates offer a clearer window into the nature of modern great-power conflict.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

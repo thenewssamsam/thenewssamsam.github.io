@@ -27,28 +27,28 @@ source_url: "https://www.psu.edu/news/campus-life/story/penn-state-responds-seri
 <h2>Lessons from Collegiate History</h2>
 <p>The tension between university administration and Greek life is not new. Throughout the early 20th century, the expansion of campus residential societies often outpaced the oversight mechanisms of the time. We can observe three recurring historical themes in these institutional crises:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 <h3>1. The "Off-Campus" Loophole</h3>
 <p>Historically, universities have frequently struggled to exert authority over organizations that claim autonomy. Much like the transition from the "boarding house" era of the 1800s to the structured fraternity systems of the 1920s, the current struggle with "unrecognized" groups mirrors the historical difficulty of enforcing codes of conduct on private property where the university has limited legal reach.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 <h3>2. The Cycle of Reform and Reaction</h3>
 <p>Following high-profile scandals in the mid-1960s, many universities adopted "tough love" policies that led to temporary spikes in oversight, followed by periods of relative autonomy. Today's enhanced educational efforts at Penn State are a modern iteration of the "disciplinary waves" that have defined campus life for decades.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 <h3>3. The Erosion of Organizational Trust</h3>
 <p>When organizations operate outside of university oversight, they often create a "shadow culture." History shows that when these groups are forced into the shadows, the risk of extreme behavior—whether hazing or illicit activity—tends to increase rather than decrease.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -62,7 +62,7 @@ Tactical Waterproof Backpack
 <h2>A Moment for Reflection</h2>
 <p>When we look at these events, it is easy to focus solely on policy and enforcement. However, this situation also invites us to consider the state of our own communities. Proverbs 13:20 reminds us, "Walk with the wise and become wise, for a companion of fools suffers harm." This is a stark reminder that the groups we choose to associate with shape our character and our future. Similarly, 1 Corinthians 15:33 warns, "Bad company ruins good morals." These verses are not just ancient advice; they are practical warnings about the influence of group dynamics. As we process this news, we are reminded that true safety comes from a culture of integrity, where individuals take personal responsibility for their actions, regardless of the peer pressure or organizational culture surrounding them.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -72,7 +72,7 @@ Seagate Portable External Hard Drive
 <h2>How Should Readers Respond?</h2>
 <p>For parents, students, and community members, the response should be one of active engagement:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

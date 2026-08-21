@@ -44,7 +44,7 @@ source_url: 'https://thenevadaindependent.com/article/appeals-court-finds-sigal-
     <h2>What Happened in the Ninth Circuit</h2>
     <p>On Monday, a three-judge panel of the Ninth Circuit Court of Appeals upheld a lower court's decision, ruling that Sigal Chattah's continued leadership of the U.S. Attorney's Office for the District of Nevada violated federal law. The legal challenge originated in September, when the Nevada federal public defender's office sued to disqualify Chattah, arguing that the administration executed a series of unlawful personnel maneuvers to keep her atop the office.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

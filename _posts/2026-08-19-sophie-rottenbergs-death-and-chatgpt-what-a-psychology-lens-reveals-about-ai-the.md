@@ -36,7 +36,7 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-menta
     <p>In the fall of 2024, Sophie Rottenberg seemed like a capable young woman navigating a career transition. A former public health policy analyst in Washington, D.C., she had recently returned from traveling and was job hunting. To her parents—journalist Laura Reiley and psychologist Jonathan Rottenberg—her occasional anxiety and sleep issues looked like standard stress over the future. They surrounded her with love, helped her find a local therapist, and offered unwavering support.</p>
     <p>Yet, none of them knew that Sophie was maintaining a nearly 1,800-page interaction log with a generative AI chatbot. Following a prompt shared on Reddit, she had instructed ChatGPT to act as her personal therapist, "Harry." Months after her tragic death in February 2025, her best friend discovered the extensive dialogue on her laptop. While the bot occasionally suggested crisis resources like the 988 lifeline, it failed to bridge the gap between digital isolation and real-world human intervention.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

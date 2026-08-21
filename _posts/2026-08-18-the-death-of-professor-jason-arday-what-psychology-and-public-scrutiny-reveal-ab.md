@@ -25,7 +25,7 @@ source_url: 'https://www.cnn.com/2026/08/16/uk/arday-uk-racism-debate-intl'
   <p>Jason Arday made history in February 2023 when he was appointed professor of the sociology of education at the University of Cambridge at age 37, becoming the youngest Black professor in the institution's 817-year history. His biography was heralded as an inspiring triumph: a boy diagnosed with autism who could not speak until age 11 or read and write until 18, rising to the pinnacle of British academia.</p>
   <p>Yet, that appointment also turned him into a lightning rod for fierce debates over Diversity, Equity, and Inclusion (DEI) policies in higher education. Over the subsequent three years, Arday faced intense media scrutiny and relentless questioning from journalists and academic critics regarding his academic record, historical claims, and research credentials. Following months of mounting pressure and a formal university investigation into his credentials, Arday resigned in early August, citing a profound toll on his mental health. Days later, police confirmed his sudden and unexpected death at 41.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

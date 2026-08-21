@@ -62,7 +62,7 @@ source_url: "https://edition.cnn.com/2026/08/18/business/iran-strait-of-hormuz-o
     <h2>The Financial Mechanics: Who Pays and Who Profits</h2>
     <p>When examining this geopolitical standoff through a financial lens, the economic mechanics of choke points become immediately apparent. Maritime trade thrives on predictability, low costs, and legal clarity. When those pillars fracture, the financial toll ripples outward to global energy consumers at the pump.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -71,7 +71,7 @@ Seagate Portable External Hard Drive
     </div>
     <p>Earlier in the spring, Iran effectively enforced tolls on ship traffic moving through the northern channels, extracting revenue and exerting economic leverage. However, the dramatic shift toward the Omani shipping lane has largely choked off that revenue stream. Despite the expiration of a key US-Iran Memorandum of Understanding this week—which theoretically gave Tehran legal room to resume toll collection—analysts note that regional operators simply refuse to pay.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -80,7 +80,7 @@ Seagate Portable External Hard Drive
     </div>
     <p>To navigate the threat of attacks, major Gulf producers including Kuwait, Saudi Arabia, and the United Arab Emirates have engineered clever logistical workarounds. They are chartering Very Large Crude oil Carriers (VLCCs) to move oil out of the Persian Gulf, then transferring the crude to customer tankers outside the danger zone in the Gulf of Oman. Many vessels even turn off their transponders—creating so-called "dark traffic"—to evade hostility. Despite these complications, Energy Secretary Chris Wright reported that combined oil transits and rerouted volumes have bounced back to roughly 15 million barrels per day, creeping closer to the pre-war average of 20 million barrels.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -88,7 +88,7 @@ Seagate Portable External Hard Drive
     <div class="ncg-quote-box">
       <p>"When naval escorts and shifting shipping routes bypass a hostile chokepoint, economic deterrence breaks down, turning a strategic monopoly into a costly failure for the aggressor."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -102,7 +102,7 @@ Tactical Waterproof Backpack
     <h2>Historical Parallels: Chokepoints and Economic Warfare</h2>
     <p>The friction in the Strait of Hormuz is far from a modern anomaly. Throughout modern history, control over narrow maritime corridors has served as a primary instrument of economic leverage. From the Ottoman Empire's taxation of Bosporus trade routes to 20th-century disruptions in the Suez Canal, nations lacking broad economic competitiveness have frequently turned to geographical bottlenecks to assert dominance.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -111,7 +111,7 @@ Tactical Waterproof Backpack
     </div>
     <p>However, history also demonstrates the limits of chokepoint coercion. When tolls or military threats become overly burdensome, international markets rarely capitulate; instead, they innovate. Just as the closure of the Suez Canal in 1967 spurred the design of massive supertankers capable of sailing around Africa, today's tankers are adapting through Omani channels, ship-to-ship transfers, and dark traffic navigation. Deterrence functions only as long as alternative routes remain closed—once viable workarounds emerge, the coercive power evaporates.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -124,7 +124,7 @@ Seagate Portable External Hard Drive
     <h2>A Moment for Reflection</h2>
     <p>When global tensions flare over resources and economic control, it is easy to become entirely consumed by market charts and military strategy. Yet, conflicts of this scale often mirror the fragile nature of human security and the limits of earthly power. This makes me think of the wisdom found in Scripture regarding where we place our ultimate trust and stability.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -133,7 +133,7 @@ Tactical Waterproof Backpack
     </div>
     <p>Proverbs 21:31 reminds us, <q>The horse is made ready for the day of battle, but victory belongs to the Lord.</q> Even as naval fleets patrol troubled waters and nations jockey for economic leverage, underlying human efforts remain imperfect and uncertain. Recognizing this invites a quiet humility, reminding us that true peace and stability in our communities do not depend entirely on geopolitical dominance or fluctuating commodity prices.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -146,7 +146,7 @@ Tactical Waterproof Backpack
     <h2>How Should Readers Respond?</h2>
     <p>While an oil tanker standoff in the Middle East feels distant from daily life, its downstream financial effects can touch household budgets through energy prices and inflation. Rather than reacting with panic to every fluctuating headline regarding maritime control, everyday readers can take practical, grounded steps:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -161,7 +161,7 @@ Seagate Portable External Hard Drive
     <h2>One Last Thought</h2>
     <p>The shifting control of the Strait of Hormuz serves as a powerful reminder that no single actor holds a permanent monopoly over global trade routes. Markets adapt, nations innovate, and resilience ultimately wins out over coercion. While geopolitical tensions will undoubtedly continue to rise and fall, the steady flow of commerce proves that human ingenuity always finds a way forward.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

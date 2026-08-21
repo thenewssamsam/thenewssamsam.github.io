@@ -39,14 +39,14 @@ source_url: "https://www.nbcnews.com/politics/2026-election/live-blog/elections-
 
 <p>Meanwhile, primary night featured significant legislative oustings. In Florida’s 7th District, former television journalist Ryan Elijah defeated incumbent Republican Representative Cory Mills. Rep. Mills faced mounting political pressure amid ongoing House Ethics Committee investigations and Justice Department inquiries. On the Democratic side in Florida, progressive candidate Angie Nixon scored a major upset over former National Security Council aide Alex Vindman in the primary race for the U.S. Senate.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Farther north, Alaska's primary spotlighted a bizarre electoral quirk: GOP Senator Dan Sullivan navigated a tough re-election race featuring a challenger who shares his exact name—a campaign involvement that has drawn attention from the Justice Department through grand jury subpoenas. Across Wyoming and South Carolina, gubernatorial and congressional primaries similarly tested the limits of endorsements, campaign finance, and public accountability.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -59,7 +59,7 @@ Seagate Portable External Hard Drive
 
 <p>When legal troubles, congressional ethics probes, and federal subpoenas intersect with an active election, voters often misunderstand what the law permits. From a legal rights perspective, several key principles govern these situations:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -67,7 +67,7 @@ Seagate Portable External Hard Drive
 <h3>1. Investigations Do Not Equal Disqualification</h3>
 <p>A common point of confusion during election season is whether an ongoing Department of Justice investigation, grand jury subpoena, or House Ethics Committee probe legally disqualifies a candidate from appearing on the ballot. Under federal election law and the U.S. Constitution, the qualifications for holding federal office are strictly enumerated (age, citizenship, and residency). An investigation, or even an indictment, does not automatically bar an individual from running for or winning a congressional or gubernatorial seat. Accountability in these instances rests primarily with political parties, primary voters, and—if a member is elected—congressional expulsion mechanisms.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -79,7 +79,7 @@ Seagate Portable External Hard Drive
 <h3>2. The Boundaries of Campaign Subpoenas and Interference Claims</h3>
 <p>In races like Alaska’s Senate contest, where federal grand juries have issued subpoenas regarding campaign activities involving candidates sharing identical names, questions of election interference often arise. Legally, the Department of Justice maintains strict internal policies regarding investigative actions close to an election to avoid appearing to influence the outcome. However, grand juries operate independently when presented with evidence of potential campaign finance violations, fraud, or election law infractions. Subpoenas compel witness testimony or document production; they are investigative tools, not final legal judgments.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -91,7 +91,7 @@ Seagate Portable External Hard Drive
 <h3>3. Statutory Notice Regarding Legal Information</h3>
 <p><em>This is general information, not legal advice — consult a licensed attorney for your specific situation.</em> Election laws, ballot access regulations, and campaign finance rules vary significantly by state and local jurisdiction. Anyone seeking to understand specific candidacy rights or legal compliance must consult qualified legal counsel.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -104,14 +104,14 @@ Seagate Portable External Hard Drive
 
 <p>When leadership and the rule of law intersect in public life, it naturally invites moral reflection. One is reminded of Proverbs 29:2: "When the righteous increase, the people rejoice, but when the wicked rule, the people groan." This ancient observation speaks directly to the deep weariness many citizens feel when public service is overshadowed by scandal, investigation, or questionable integrity.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Furthermore, Scripture emphasizes the importance of honesty and justice in governance, noting in Romans 13:4 that governing authorities are meant to be God’s servants for good. These passages remind us that systems of law and ethics exist to protect communities from corruption and chaos. While headlines often highlight political maneuvering and legal friction, citizens are continually called to seek truth, exercise discernment, and hold leaders to a standard of genuine accountability.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -124,7 +124,7 @@ Seagate Portable External Hard Drive
 
 <p>Navigating primary election seasons filled with legal complexities requires active, informed participation. Here are practical ways to respond:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

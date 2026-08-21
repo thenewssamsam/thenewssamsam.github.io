@@ -24,7 +24,7 @@ source_url: 'https://variety.com/2026/film/news/california-paramount-bonta-do-ov
     <p>When multi-billion-dollar corporate mergers collide with state antitrust regulators, the resulting financial fallout rarely stays confined to the boardroom. California Attorney General Rob Bonta’s office delivered a sharp rejection this week to Paramount’s request for a massive  billion bond, turning a standard legal dispute into a high-stakes masterclass in corporate risk, contract architecture, and the hidden costs of regulatory delay.</p>
     <p>At the center of the clash is a simple economic reality: time is quite literally costing millions of dollars a day. For everyday readers watching media consolidation reshape the entertainment landscape, this legal friction exposes how complex financial mechanisms function when corporate ambitions crash into regulatory walls.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

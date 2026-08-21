@@ -129,7 +129,7 @@ source_url: 'https://abc7.com/post/10-million-gold-found-buried-former-brewery-b
     <p>Most renovation projects come with unpleasant surprises—rusted pipes, crumbling drywall, or unexpected water damage that drains the budget. But last Tuesday in the Belgian city of Dendermonde, a routine drilling operation took a startling turn when a construction crew hit something altogether different: solid gold.</p>
     <p>Working underneath a former brewery about 19 miles northwest of Brussels, eight construction workers made the discovery of a lifetime. The drill bit suddenly got stuck, jamming against what authorities later confirmed was a gold bar. Upon investigating further, the crew uncovered a metal bucket filled with gold coins and multiple bars valued at approximately 9 million euros, or roughly  million.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

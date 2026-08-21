@@ -64,7 +64,7 @@ p { margin-bottom: 16px; color: #334155; }
 <h2 id="what-happened">What Happened: The Dispute Over the Sukhoi Su-24 Pilots</h2>
 <p>The controversy stems from an incident early in the ongoing US-Iran conflict when Qatari forces shot down Iranian Sukhoi Su-24 bombers operating in the region. According to reports from the <em>Wall Street Journal</em> and the <em>New York Times</em>, Tehran is now insisting that three crew members who survived ejection—identified as Javad Salehi, Abdolmajid Dashtian, and Omran Behraveshian—are alive and being held in secret detention by Doha. Iran has formally asked the International Committee of the Red Cross (ICRC) to visit them.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

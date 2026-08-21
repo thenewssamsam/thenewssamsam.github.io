@@ -26,7 +26,7 @@ source_url: "https://abc7ny.com/story/14-charged-alleged-cocaine-trafficking-rin
 </div>
 <p>The operation allegedly involved regular supply runs to Philadelphia and New York. While the legal system handles the criminal charges—ranging from felony corrupt organizations to possession—the university has moved to place Delta Upsilon on interim suspension. Sigma Chi, notably, is not a university-recognized organization, meaning it operates without official oversight.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -36,7 +36,7 @@ Seagate Portable External Hard Drive
 <h2>The Impact on State College</h2>
 <p>For residents of State College, the presence of such an operation in the heart of the community is deeply concerning. The local impact is twofold: safety and reputation. When illegal activity becomes embedded in the fabric of student organizations, it places the entire community at risk.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -45,7 +45,7 @@ Tactical Waterproof Backpack
 </div>
 <p>The university's response—promising to enhance hazing prevention and health education—is a necessary step, but it raises questions about how such a high-level operation went undetected for over a year. Local families and business owners are now looking for more stringent accountability measures to ensure the campus remains a place for learning rather than a hub for illicit trade.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -55,7 +55,7 @@ Seagate Portable External Hard Drive
 <h2>A Moment for Reflection</h2>
 <p>This situation serves as a sobering reminder of the choices young people face when caught in the pressure of social hierarchies. We are reminded of the wisdom in Proverbs 4:23: <em>"Above all else, guard your heart, for everything you do flows from it."</em> When the desire for status or belonging—like that found in fraternity culture—overrides one's moral compass, the consequences are often devastating for both the individual and the community.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -64,7 +64,7 @@ Tactical Waterproof Backpack
 </div>
 <p>It is also a call to look out for one another. As we see in Galatians 6:2, <em>"Carry each other’s burdens, and in this way you will fulfill the law of Christ."</em> True community, whether in a university town or elsewhere, relies on individuals looking out for the well-being of their neighbors rather than engaging in activities that erode trust and safety.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

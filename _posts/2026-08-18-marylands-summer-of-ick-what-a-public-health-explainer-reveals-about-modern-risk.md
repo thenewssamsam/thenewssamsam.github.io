@@ -22,7 +22,7 @@ source_url: 'https://www.thebanner.com/community/public-health/cyclosporiasis-me
   <h2 id="what-happened">What Happened: A Menu of Modern Pathogens</h2>
   <p>According to recent reports from public health agencies and experts in Maryland, the state has logged notable spikes in several distinct infections. Among the most talked about is cyclosporiasis, a foodborne parasitic illness that has triggered thousands of cases nationally—including nearly 200 in Maryland—and made "explosive diarrhea" an uncomfortable trending topic. Linked in some national distribution channels to imported produce, the outbreak has caught consumers and public health trackers off guard.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0GX8NPZ1T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0GX8NPZ1T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 GOPPUS Insulated Leak-Proof Bottle 
 </a></p>
 

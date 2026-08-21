@@ -26,7 +26,7 @@ source_url: 'https://ny1.com/nyc/all-boroughs/news/2026/08/17/one-of-two-amtrak-
     
     <p>According to transit officials, the completed project required removing 24,000 feet of rail, 8,000 tons of ballast, and 8,000 wooden ties. The 116-year-old tunnel now features code-compliant bench walls, modern drainage systems, and a concrete floor designed to withstand future extreme weather events. Yet, the relief of finishing one tube is tempered by the looming disruption of the next phase.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

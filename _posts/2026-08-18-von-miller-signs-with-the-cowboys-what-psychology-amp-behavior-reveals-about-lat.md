@@ -32,7 +32,7 @@ source_url: 'https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/von-m
 <h2>What Happened</h2>
 <p>According to reports from Pro Football Talk, Von Miller officially signed with the Dallas Cowboys on a Sunday night after months of offseason discussions. The deal brings the Super Bowl champion and multi-time Pro Bowler back to the very place where his football fandom began. Miller, who recorded nine sacks for the Washington Commanders last season, noted that the Cowboys were the first team to contact him ahead of training camp.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -29,7 +29,7 @@ source_url: 'https://www.npr.org/2026/08/19/nx-s1-5936636/covid-research-fauci-m
     <div class="ncg-product-card" style="border-left: 5px solid #f1c40f; background: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Recommended Resource:</strong> <em>The Pursuit of Truth</em> - A thoughtful exploration of integrity in leadership. <a href="#">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -37,7 +37,7 @@ Seagate Portable External Hard Drive
 
     <p>The case continues to spark intense debate. While some, like Senator Rand Paul, view this as evidence of a cover-up regarding the virus's origins, others warn that the aggressive targeting of scientists threatens the integrity of public health institutions. Regardless of the political fallout, the legal reality is that a public official has admitted to failing in his duty to maintain transparency.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -47,7 +47,7 @@ Tactical Waterproof Backpack
     <h2>A Call to Walk in the Light</h2>
     <p>From a biblical perspective, the Morens case serves as a sober reminder of the premium God places on honesty. Scripture frequently distinguishes between the "hidden things" and the "light." In Luke 8:17, Jesus teaches, <em>"For there is nothing hidden that will not be disclosed, and nothing concealed that will not be known or brought to the open."</em> This verse reminds us that while human systems may be bypassed, truth has a way of surfacing. Integrity is not merely about following the law; it is about reflecting the character of a God who is Truth itself.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -59,7 +59,7 @@ Tactical Waterproof Backpack
     <h3>The Stewardship of Trust</h3>
     <p>Public service is, at its heart, a form of stewardship. When individuals accept positions of authority, they accept a sacred trust from the people they serve. Proverbs 11:3 states, <em>"The integrity of the upright guides them, but the unfaithful are destroyed by their duplicity."</em> This wisdom highlights that duplicity—the act of living in two worlds or hiding one's actions—eventually leads to ruin. Whether in government, business, or our personal lives, the temptation to hide our mistakes or manipulate information is a common human failing, yet one that carries heavy consequences.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -67,7 +67,7 @@ Tactical Waterproof Backpack
     <div class="ncg-product-card" style="border-left: 5px solid #f1c40f; background: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Recommended Resource:</strong> <em>Leadership and Self-Deception</em> - Understanding the patterns that lead to cover-ups. <a href="#">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -78,7 +78,7 @@ Seagate Portable External Hard Drive
     <h2>How Should Christians Respond?</h2>
     <p>In light of this news, we are called to move beyond partisan finger-pointing and toward personal reflection:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

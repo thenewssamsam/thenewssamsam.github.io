@@ -36,7 +36,7 @@ source_url: 'https://inshorts.com/en/news/wife-of-3-time-trump-voter-detained-in
 <p>According to recent reports, a US citizen who proudly supported Donald Trump in three separate elections found himself confronting the strict machinery of the immigration system he had championed. His Russian-born wife was arrested during an immigration crackdown at an airport and placed into detention.</p>
 <p>As the husband starkly summarized the situation to reporters, "She did not jump a wall, she did not swim a river." While his wife was subsequently released from detention, she is far from cleared: she remains under strict administrative restrictions, permitted to travel only within a tightly limited geographic area.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

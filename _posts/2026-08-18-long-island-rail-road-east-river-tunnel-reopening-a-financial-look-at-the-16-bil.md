@@ -20,7 +20,7 @@ source_url: 'https://www.newsday.com/long-island/transportation/east-river-tunne
 
   <p>To the thousands of commuters staring into the semidarkness of the daily morning ride, the change will feel almost imperceptible. But as the Long Island Rail Road (LIRR) resumes service through its newly rebuilt East River tunnel, the financial architecture behind that quiet stretch of track represents one of the most expensive infrastructure recovery efforts in recent regional history.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

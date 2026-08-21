@@ -28,7 +28,7 @@ source_url: "https://apnews.com/article/florida-primaries-donald-trump-wasserman
     <h2>A Faith-Based Perspective on Leadership</h2>
     <p>In the heat of political campaigns, it is easy to become divided by rhetoric. However, the Bible invites us to view leadership through a lens of service and humility. <strong>Proverbs 29:2</strong> reminds us, <em>"When the righteous are in authority, the people rejoice; but when the wicked beareth rule, the people mourn."</em> This verse calls us to pray for leaders who prioritize justice, truth, and the well-being of their neighbors.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -40,7 +40,7 @@ Seagate Portable External Hard Drive
     <h3>The Call to Unity</h3>
     <p>Byron Donalds remarked on the need for his party to put aside differences and unite. For Christians, unity is not merely a political strategy—it is a spiritual mandate. In a polarized society, we are called to be peacemakers, even when our political opinions differ from those around us.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -48,7 +48,7 @@ Seagate Portable External Hard Drive
     <h3>Stewardship of the Vote</h3>
     <p>Voting is an expression of our stewardship. We are called to be salt and light in the world, which includes participating in the systems that shape our communities. By staying informed and voting with a conscience shaped by scripture, we honor our responsibility to our neighbors.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -58,7 +58,7 @@ Seagate Portable External Hard Drive
     <h2>Reflecting on Our Civic Duty</h2>
     <p>I find myself reflecting on <strong>1 Timothy 2:1-2</strong>, which says, <em>"I urge, then, first of all, that petitions, prayers, intercession and thanksgiving be made for all people—for kings and all those in authority, that we may live peaceful and quiet lives in all godliness and holiness."</em> This passage reminds me that our primary allegiance is to God, and our role in the political process is an extension of our love for our neighbor. When I look at these election results, I am reminded that the true hope of our nation does not rest in any single officeholder, but in the sovereignty of God and our faithful witness in the public square.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -77,7 +77,7 @@ Tactical Waterproof Backpack
     <h2>Closing Takeaway</h2>
     <p>As Florida moves toward November, let us remember that our identity is found in Christ, not in our political labels. By approaching our civic duties with prayer and humility, we can contribute to a more peaceful and just society.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

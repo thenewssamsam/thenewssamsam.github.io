@@ -23,7 +23,7 @@ source_url: "https://people.com/justin-chatwin-says-costar-hayden-panettiere-fel
     <p>Hayden Panettiere was found unresponsive in Greenville, South Carolina, on August 16, 2026. Her final onscreen appearance, <em>Sleepwalker</em>, a psychological thriller filmed in early 2025, saw her playing a mother grappling with the tragic loss of a child—a role that reportedly mirrored some of her own complex life experiences.</p>
     <p>Chatwin, who previously worked with Panettiere during her <em>Heroes</em> era, noted a distinct shift in her demeanor when they reunited for <em>Sleepwalker</em>. He observed that while she remained a "sweet" and professional presence on set, there was a layer of vulnerability and loneliness that she only dropped when the cameras stopped rolling.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -33,7 +33,7 @@ Seagate Portable External Hard Drive
     <h2>The Psychology of the "Performance"</h2>
     <p>From a psychological standpoint, Chatwin’s observation that Panettiere was "trained to be on" speaks to the concept of <strong>emotional labor</strong>. For child stars and long-term public figures, the constant need to maintain a curated persona can lead to a profound sense of alienation. When one’s authentic self is rarely permitted to exist outside of the public eye, the resulting dissonance can be exhausting.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -44,7 +44,7 @@ Seagate Portable External Hard Drive
 
     <p>This "on-stage" survival mechanism often creates a cycle where the individual feels they can only be loved or accepted if they are performing. Over time, this masks deep-seated trauma and addiction, making it difficult for the individual to reach out for help until the internal pressure becomes unsustainable.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -54,13 +54,13 @@ Seagate Portable External Hard Drive
     <h2>Finding Rest in a Weary World</h2>
     <p>Seeing someone so vibrant struggle with isolation is a reminder of our universal need for genuine community. The Bible often speaks to the weariness that comes from carrying burdens alone. In Matthew 11:28, Jesus offers an invitation that feels particularly relevant in an age of constant visibility: <em>"Come to me, all you who are weary and burdened, and I will give you rest."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>We are not designed to carry the weight of our pasts, our traumas, or our public images entirely on our own shoulders. Proverbs 17:17 reminds us, <em>"A friend loves at all times, and a brother is born for a time of adversity."</em> Hayden’s story underscores the vital importance of having spaces—and people—where we can simply "take the mask off," as Chatwin put it, and be known for who we are, not what we produce or how we appear to the world.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

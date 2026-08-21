@@ -25,7 +25,7 @@ source_url: 'https://nypost.com/2026/08/17/us-news/louisiana-husband-tyronne-bra
     <p>Last week, a routine traffic stop in downtown Memphis brought to light a horrifying sequence of events. Police officers pulled over 50-year-old Tyronne Brazille and discovered his wife, 50-year-old Lanessa Bradford, dead in the passenger seat from a gunshot wound.</p>
     <p>According to investigators in Baton Rouge, the couple had been arguing at Independence Community Park, roughly 80 miles northwest of New Orleans, before the shooting occurred. Instead of seeking help or surrendering at the scene, Brazille allegedly placed his wife's body in the passenger seat and drove for more than five hours across state lines before Memphis law enforcement intervened.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

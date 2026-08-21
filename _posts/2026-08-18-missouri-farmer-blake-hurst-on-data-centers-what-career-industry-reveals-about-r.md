@@ -35,7 +35,7 @@ source_url: 'https://www.kq2.com/news/2026/08/16/meet-blake-hurst-the-missouri-f
 
 <p>While neighboring landowners voiced familiar anxieties over water depletion, power grid strain, and the permanent loss of productive topsoil, Hurst took a sharply contrarian position. In his view, the existential threat to rural Missouri is not the hum of server racks cooling down server farms; it is the silent, steady draining of schools, hospitals, local businesses, and young families.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Toshiba 5400RPM Hard Drive 
 </a></p>
 

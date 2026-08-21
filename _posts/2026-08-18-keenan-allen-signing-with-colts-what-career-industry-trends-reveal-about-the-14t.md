@@ -36,7 +36,7 @@ source_url: 'https://www.nfl.com/news/report-six-time-pro-bowl-wr-keenan-allen-s
 <h2 id="what-happened">What Happened: The Veteran Wide Receiver Moves to Indianapolis</h2>
 <p>ESPN reported late Monday night that 34-year-old wide receiver Keenan Allen is signing with the Indianapolis Colts. Allen spent 12 of his first 13 professional seasons with the Chargers franchise—including a brief one-year stint with the Chicago Bears in 2025 before rejoining Los Angeles—cementing his status as one of the organization's all-time greatest pass catchers.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

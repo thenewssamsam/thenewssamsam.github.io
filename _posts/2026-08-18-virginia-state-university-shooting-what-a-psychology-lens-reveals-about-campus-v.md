@@ -89,7 +89,7 @@ source_url: 'https://www.bbc.com/news/articles/c0l5583903yo'
 
 <p>Incidents like these immediately trigger public shock, grief, and urgent demands for safety. But beyond the immediate tactical responses of law enforcement, events involving young adults and volatile late-night confrontations often reflect deeper psychological patterns regarding group dynamics, environment, and impulse control under stress.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

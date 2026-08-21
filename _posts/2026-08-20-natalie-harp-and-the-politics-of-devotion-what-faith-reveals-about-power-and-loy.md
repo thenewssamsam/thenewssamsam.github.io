@@ -60,7 +60,7 @@ source_url: 'https://www.bbc.com/news/articles/c80nzdjgmk3o'
     <h2>A Faith Perspective on Human Devotion and Power</h2>
     <p>When we look at Natalie Harp’s story through the lens of faith and scripture, we are invited to examine a deeply human dynamic: the powerful intersection of profound personal gratitude, intense loyalty, and the human impulse to attach oneself to a powerful protector. In a broken world, people naturally seek refuge, validation, and rescue. For Harp, a life-saving policy intervention created an unbreakable bond of loyalty that transcends standard political staff dynamics.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -80,7 +80,7 @@ Seagate Portable External Hard Drive
     <h3>The Weight of Gratitude</h3>
     <p>Gratitude is a biblical virtue. Scripture repeatedly calls us to give thanks and remember those who have shown us mercy or help. When someone believes another person literally saved their physical life, the emotional weight of that debt is immeasurable. Yet, biblical wisdom also cautions us about the dangers of extreme hero-worship and unyielding human devotion. History and scripture remind us that earthly power structures are fragile, and mortal leaders—no matter how influential or benevolent they may appear to those they help—remain human.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -92,7 +92,7 @@ Seagate Portable External Hard Drive
     <h3>Gatekeepers and Influence</h3>
     <p>The description of Harp as a "gatekeeper" or a "comfort blanket" touches on another timeless theme: the mechanics of influence around rulers. In biblical narratives from Joseph in Egypt to Daniel in Babylon, those who stood closest to the throne held immense power not merely through their own authority, but through their ability to curate information for the sovereign. In modern politics, the person who controls the flow of news to a leader holds a quiet yet staggering amount of influence over the destiny of nations.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -102,7 +102,7 @@ Tactical Waterproof Backpack
     <h2>Wisdom, Stewardship, and Allegiance</h2>
     <p>This story makes me think about how easily our hearts can attach ultimate devotion to earthly figures. One lesson is found in Psalm 146:3, which advises us: <em>"Do not put your trust in princes, in human beings, who cannot save."</em> (NIV). This verse does not condemn gratitude or respect for leaders; rather, it reminds us of the fundamental difference between human rescue and ultimate salvation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -113,7 +113,7 @@ Tactical Waterproof Backpack
 
     <p>I'm also reminded of the words in Colossians 3:23: <em>"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."</em> (NIV). Natalie Harp’s tireless dedication to her role demonstrates an extraordinary work ethic and personal loyalty. Yet, Scripture invites us to examine the object of our deepest devotion, ensuring that our highest allegiance remains anchored in truth, justice, and faithfulness to God rather than absolute loyalty to any political icon.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -123,7 +123,7 @@ Tactical Waterproof Backpack
     <h2>How Should Christians Respond?</h2>
     <p>Observing high-profile political dynamics like the one surrounding Natalie Harp can often stir up division, cynicism, or tribalism among believers. Instead of getting swept up in partisan hostility, we can respond with spiritual discernment and practical grace:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

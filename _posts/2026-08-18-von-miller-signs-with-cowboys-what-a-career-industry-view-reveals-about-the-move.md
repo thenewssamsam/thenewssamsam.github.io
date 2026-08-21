@@ -22,7 +22,7 @@ source_url: 'https://sports.yahoo.com/articles/tremendous-them-shannon-sharpe-ch
   <h2 id="what-happened">What Happened</h2>
   <p>Von Miller has officially joined the Dallas Cowboys for what could be the final season of his storied NFL career. According to sports analysts and reports, the veteran defender signed a team-friendly minimum salary deal, drastically minimizing financial risk for the franchise while maximizing potential defensive upside. Analysts like Sharpe and Johnson point out that Miller isn't arriving on a ceremonial farewell tour; he is joining a talented roster with clear aspirations of making a deep postseason run and competing for a championship.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 GAZELLE External Hard Drive 
 </a></p>
 

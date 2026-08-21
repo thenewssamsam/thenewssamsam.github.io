@@ -59,7 +59,7 @@ source_url: 'https://www.upstreamonline.com/exploration/chevron-exploration-prob
     <p>According to recent industry reports from Upstream Online, energy major Chevron has struck an "excellent" oil reservoir with its latest exploration probe in Angola. Specifically centered around the prolific Block 0 operating area, the discovery appears poised to bypass the traditional, high-cost hurdles of brand-new offshore development because of its proximity to existing production networks.</p>
     <p>While brief headlines often focus solely on the volume of crude discovered, the operational logistics tell a far more interesting story for anyone watching corporate capital expenditures. Rather than requiring a massive, multi-billion-dollar greenfield facility from scratch, this new find is positioned for a rapid tieback to infrastructure that is already up and running.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

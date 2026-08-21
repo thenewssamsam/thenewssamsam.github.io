@@ -38,7 +38,7 @@ source_url: 'https://www.mlb.com/news/padres-sale-to-jose-e-feliciano-and-kwanza
     <h2>What Happened: The Unanimous Vote</h2>
     <p>The transition of control to Jones and Feliciano—who are husband and wife and co-founders of the Kwanza Jones and José E. Feliciano Initiative—comes after an agreement was struck back in May following exploratory sale processes initiated by the Seidler family late last year. Feliciano, the co-founder and managing partner of Clearlake Capital Group, has been designated as the team's control person, while Jones serves as CEO of their private family office and brings extensive board-level experience.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

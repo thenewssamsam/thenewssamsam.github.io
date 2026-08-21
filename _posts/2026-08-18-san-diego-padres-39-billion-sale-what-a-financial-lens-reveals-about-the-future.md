@@ -35,7 +35,7 @@ source_url: ''
     <h2>What Happened: The  Billion Deal</h2>
     <p>It took a couple of months longer than initially expected, but the transaction cleared its final major hurdle when the league's remaining 29 owners unanimously approved the sale following a vetting process by an eight-member committee. Feliciano, co-founder of private equity firm Clearlake Capital, and Jones secured the team after winning a competitive bidding war in April against three other finalist groups.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

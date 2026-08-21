@@ -34,7 +34,7 @@ source_url: 'https://abc7.com/post/los-angeles-sheriffs-department-shares-photos
 
 <p>An unidentified suspect shattered the glass front door, allowing approximately 10 individuals to surge into the business in a coordinated, mob-like fashion. The group caused significant interior property damage and made off with a substantial quantity of merchandise.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

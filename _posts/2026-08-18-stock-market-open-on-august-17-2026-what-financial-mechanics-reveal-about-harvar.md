@@ -20,7 +20,7 @@ source_url: 'https://www.investopedia.com/5-things-to-know-before-the-stock-mark
 
   <p>Stock futures are pointing to a mixed open on Monday, August 17, 2026, as Wall Street gears up for a heavy week of retail earnings, fresh Federal Reserve minutes, and a startling revelation that Harvard University's endowment holds a massive  billion stake in SpaceX. With the tech-heavy Nasdaq futures edging up 0.4% while the Dow slips 0.2%, investors are navigating a complex landscape of shifting consumer health indicators, a weakening U.S. dollar, and surging AI hardware demand. Understanding the financial mechanics behind these moving parts helps clarify why today's market signals matter far beyond Wall Street trading floors.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

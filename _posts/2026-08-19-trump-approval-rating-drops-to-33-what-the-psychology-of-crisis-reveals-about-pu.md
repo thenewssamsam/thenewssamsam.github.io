@@ -35,7 +35,7 @@ source_url: "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-
 <p>United States President Donald Trump has seen his job approval rating slide to a striking 33 percent—matching the lowest marks of his first term in December 2017—according to a new Reuters/Ipsos poll. Conducted over four days, the survey reveals that an overwhelming 64 percent of Americans disapprove of his current performance in office.</p>
 <p>The core catalyst for this steep drop is clear: the protracted US-Israel war against Iran, which began in February. Originally promised as a swift intervention lasting only a few weeks to prevent a nuclear threat, the conflict has settled into a grinding strategic stalemate. Meanwhile, everyday Americans are bearing the direct brunt of the economic fallout. Gasoline prices have surged by nearly a third compared to the previous year, according to the American Automobile Association (AAA), as the Strait of Hormuz remains largely blocked to oil and gas exports.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -28,7 +28,7 @@ source_url: 'https://www.nbcnews.com/world/europe/us-tourist-dies-struck-lightni
   
   <p>The tragedy occurred against a backdrop of heightened seismic instability. Prolonged volcanic activity had already forced the temporary closure of the airport in nearby Catania for much of the previous week. While authorities had implemented restrictions across certain upper slopes of the volcano due to the ongoing eruptions, it remained unclear whether the hiker had crossed into a restricted zone.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

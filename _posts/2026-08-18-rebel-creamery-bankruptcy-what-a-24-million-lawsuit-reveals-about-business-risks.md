@@ -22,7 +22,7 @@ source_url: 'https://local12.com/news/nation-world/ice-cream-brand-sold-kroger-w
 <h2 id="what-happened">What Happened to Rebel Creamery?</h2>
 <p>Rebel Creamery, founded in 2017 with a mission to bring low-carb, no-sugar-added ice cream to the mainstream market, filed for Chapter 11 bankruptcy on August 14. According to court filings and reports from outlets like WKRC and Fox Business, the Utah-based company reported approximately  million in assets against a daunting  million in liabilities.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

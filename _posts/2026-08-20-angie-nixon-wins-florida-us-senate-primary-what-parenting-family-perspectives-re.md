@@ -43,7 +43,7 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/18/angie-nixon-alex-vi
 
 <p>Beyond the top of the ticket, the Florida primaries showcased complex political shifts following state redistricting. Longtime establishment figures like Debbie Wasserman Schultz prevailed in newly drawn safe-blue districts, while centrist Democrats successfully fended off progressive primary challengers in coastal regions. Yet, Nixon's surprise triumph remains the defining headline—a testament to relentless local organizing over heavyweight fundraising.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -53,7 +53,7 @@ Tactical Waterproof Backpack
 <h2>A Parenting & Family Perspective on Underdog Wins</h2>
 <p>For parents watching the news with children in the room, major political upsets offer a natural opening for dinner-table conversations. Politics often feels like a game dominated by massive bank accounts, powerful institutional endorsements, and polished national names. When an underdog like Angie Nixon wins a primary race while being outraised by a factor of sixteen, it challenges that cynical narrative in a very tangible way.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -61,7 +61,7 @@ Seagate Portable External Hard Drive
 <div class="pfp-quote-box">
 <p>"True community impact isn't bought in a media market; it's earned block by block, relationship by relationship, over years of showing up."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -69,7 +69,7 @@ Seagate Portable External Hard Drive
 
 <p>Children and teenagers frequently absorb the subtle message that money and power dictate outcomes. Explaining events like the Florida Senate primary gives parents an opportunity to pivot toward different values: the importance of showing up consistently, the power of local relationships, and the reality that people still matter more than television ads. Here are a few age-appropriate ways to frame these concepts for younger minds:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -95,7 +95,7 @@ Tactical Waterproof Backpack
 <h2>Wisdom, Truth, and Stewardship</h2>
 <p>Whenever public life shifts and unexpected leaders emerge, I find myself reflecting on the timeless wisdom found in Scripture regarding humility, community strength, and honest labor. Ecclesiastes 4:9 reminds us, "Two are better than one, because they have a good reward for their toil." Political victories won through grassroots volunteerism often echo this principle—reminding us that collective human effort and shared purpose can accomplish what isolated wealth cannot.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -107,7 +107,7 @@ Tactical Waterproof Backpack
 
 <p>At the same time, Proverbs 22:1 teaches us that "A good name is to be chosen rather than great riches, and favour is better than silver or gold." While campaigns require funding to function in modern America, Nixon's primary win underscores the enduring power of a trusted local reputation built over years of consistent advocacy. For families striving to teach integrity to the next generation, this serves as a gentle nudge: character, presence, and genuine care for neighbors carry a lasting weight that no campaign commercial can manufacture.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -122,7 +122,7 @@ Seagate Portable External Hard Drive
 <h2>How Families Can Respond Today</h2>
 <p>Navigating the noise of election season without overwhelming children requires intentional choices. Rather than letting cable news run in the background creating anxiety or cynicism, families can channel current events into constructive local action:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -148,7 +148,7 @@ Seagate Portable External Hard Drive
 <h2>One Last Thought</h2>
 <p>Big political headlines will continue to shift as November approaches, bringing waves of advertising, polling data, and fierce debates. But inside our homes, the most enduring lessons are shaped away from the television screen. When we teach our children to value steady perseverance, local community care, and honest human connection over the flashiest financial backing, we equip them for far more than an election cycle—we prepare them to build a healthier society from the ground up.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

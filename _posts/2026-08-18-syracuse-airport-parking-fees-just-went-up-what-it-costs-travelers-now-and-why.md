@@ -21,7 +21,7 @@ source_url: 'https://www.syracuse.com/business/2026/08/syracuse-airport-charges-
 
 <p>The increase—the first fee adjustment in a year—comes at a pivotal operational moment as the airport takes direct control of its parking facilities from an outside contractor. But for everyday fliers, the immediate takeaway is simpler: leaving a car behind while taking a trip just got a little more expensive.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

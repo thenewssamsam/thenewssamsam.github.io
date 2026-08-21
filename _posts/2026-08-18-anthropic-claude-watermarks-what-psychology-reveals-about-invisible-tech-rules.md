@@ -38,7 +38,7 @@ source_url: 'https://www.theverge.com/ai-artificial-intelligence/980869/anthropi
     <h2>What Happened: The Mechanics of Claude's New Watermarks</h2>
     <p>In response to the European Union’s AI Act—which requires synthetic text, audio, images, and video to feature verifiable markers—Anthropic announced that Claude will soon incorporate a customized version of Google DeepMind's SynthID-Text. Importantly, Anthropic assures users that these invisible watermarks will not inflate subscription costs or degrade the quality of Claude's output.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -27,7 +27,7 @@ source_url: 'https://www.democracydocket.com/news-alerts/attorney-general-blanch
 
   <p>Yet, the executive branch has hit a nearly unbroken wall of judicial pushback. On Friday, the DOJ suffered its 22nd district court defeat in a lawsuit against Nevada. To date, not a single federal judge has sided with the administration’s core legal theory. These rulings span across political lines, with judges appointed by both Democratic and Republican administrations rejecting the federal government’s demands.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

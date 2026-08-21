@@ -107,7 +107,7 @@ source_url: 'https://gizmodo.com/spirit-airlines-is-dead-but-its-data-will-haunt
     <h2 id="what-happened">What Happened in the Spirit Airlines Auction?</h2>
     <p>When a corporation collapses, its physical assets are typically liquidated—airplanes get sold off, office equipment is auctioned, and real estate leases are broken. But in the modern digital economy, a company&apos;s most enduring residue is intangible. According to documents on the U.S. Bankruptcy Court docket for the Southern District of New York, Google&apos;s purchase included more than 100 million company emails, 500 million Microsoft Teams chats, 30 million lines of code, development metadata, and operational logs.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -28,7 +28,7 @@ source_url: 'https://www.cnn.com/2026/08/19/middleeast/israel-military-idf-hind-
     <div class="ncg-quote-box" style="border-left: 5px solid #d4af37; background: #fdfbf7; padding: 20px; margin: 20px 0;">
         <p><em>"Justice is not merely a legal proceeding; it is the moral obligation to acknowledge the truth, honor the sanctity of life, and pursue accountability for the vulnerable."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -38,21 +38,21 @@ Seagate Portable External Hard Drive
         <h2>A Biblical Perspective on Justice</h2>
         <p>In the face of such profound loss, we are reminded of the weight of human life. The Scriptures are clear about the value of the innocent and the necessity of seeking truth. When we consider the suffering of a child like Hind, we are invited to look at the world through the lens of divine justice. As it is written in <strong>Proverbs 31:8-9</strong>, "Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
         <p>This passage serves as a heavy reminder that our pursuit of truth cannot be passive. Accountability is not just a political requirement; it is a moral imperative rooted in our recognition that every human being is made in the image of God. When systems fail to protect the vulnerable, or when investigations are perceived as shielding the powerful, the heart of the believer must grieve for the lack of justice. We are reminded that God is the ultimate judge, yet He calls His people to be agents of truth in a broken world.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
         <p>One might also consider <strong>Micah 6:8</strong>: "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God." This walk requires us to confront uncomfortable realities. It requires us to look at the records, the failures, and the pain of our neighbors without turning away. It is a call to hold power to account while maintaining the humility to recognize our own limitations in comprehending the full scope of such tragedy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -62,14 +62,14 @@ Seagate Portable External Hard Drive
         <h2>The Search for Credible Accountability</h2>
         <p>The IDF's announcement of a criminal investigation is part of a broader report covering 150 incidents. However, skepticism remains high. The Hind Rajab Foundation has publicly stated that past investigations by Israeli forces rarely result in meaningful punishment. Palestinian Ambassador to the UN Riyad Mansour echoed this sentiment, arguing that a truly credible investigation must lead to real consequences, not just administrative review.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
         <p>The military's decision to pursue a criminal investigation in this case—while declining to do so for other high-profile incidents, such as the killing of World Central Kitchen aid workers—has sparked further debate. The WCK, in particular, condemned the military’s internal findings as "inconsistent with the full truth and deeply offensive," highlighting the ongoing tension between official state reports and the accounts of those on the ground.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -88,13 +88,13 @@ Tactical Waterproof Backpack
         <h2>One Last Thought</h2>
         <p>The admission regarding Hind Rajab’s death is a small step, but it is not an end. True justice requires more than just an acknowledgement of error; it requires a commitment to ensuring that such tragedies are not repeated. As we look at these events, let us remain steadfast in our commitment to the truth, even when it is difficult to hear. Let us be the voices that call for mercy and accountability in a world that often prefers to move on.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
         <p><em>In the pursuit of justice, truth is the only foundation that can support the weight of peace.</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

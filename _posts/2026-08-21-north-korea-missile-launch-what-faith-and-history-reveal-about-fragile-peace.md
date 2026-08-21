@@ -53,7 +53,7 @@ source_url: 'https://www.opb.org/article/2026/08/20/north-korea-fires-a-suspecte
 <div class="ncg-amazon-box">
 <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0310452654?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">NIV Life Application Study Bible - $29.99</a>: Practical insights for applying timeless biblical truths to modern daily life.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -64,7 +64,7 @@ Seagate Portable External Hard Drive
 <div class="ncg-amazon-box">
 <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1496458319?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The One Year Daily Insights with Zig Ziglar - $16.89</a>: Daily motivational and reflective readings to anchor your mindset.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -78,7 +78,7 @@ Tactical Waterproof Backpack
 <div class="ncg-quote-box">
 <p>"Some trust in chariots and some in horses, but we trust in the name of the Lord our God." — Psalm 20:7 (ESV)</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -89,7 +89,7 @@ Seagate Portable External Hard Drive
 <div class="ncg-amazon-box">
 <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1535902780?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Grace Awakening - Charles Swindoll - $14.99</a>: Discover freedom from legalism and judgment in daily interactions.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -100,7 +100,7 @@ Tactical Waterproof Backpack
 <div class="ncg-quote-box">
 <p>"Blessed are the peacemakers, for they will be called children of God." — Matthew 5:9 (NIV)</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -109,7 +109,7 @@ Tactical Waterproof Backpack
 <div class="ncg-amazon-box">
 <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0785238476?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Screwtape Letters - C.S. Lewis - $11.49</a>: A classic exploration of human temptation, pride, and subtle discord.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -120,7 +120,7 @@ Seagate Portable External Hard Drive
 <div class="ncg-amazon-box">
 <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/083084631X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Pursuing Peace - Robert K. Cheong - $13.50</a>: Practical guidance on resolving conflict with grace and wisdom.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -129,7 +129,7 @@ Tactical Waterproof Backpack
 <div class="ncg-quote-box">
 <p><strong>Shareable Insight:</strong> "True peace cannot be launched by a missile or secured by a treaty alone; it begins when humility replaces pride in the human heart."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -143,7 +143,7 @@ Seagate Portable External Hard Drive
 <div class="ncg-amazon-box">
 <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0764233769?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Power of a Praying Nation - Stormie Omartian - $12.99</a>: Uplifting prayers and guidance for interceding on behalf of leaders and communities.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -154,7 +154,7 @@ Seagate Portable External Hard Drive
 <div class="ncg-amazon-box">
 <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0310346061?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Peacemaker - Ken Sande - $15.99</a>: Biblical principles for resolving everyday conflicts and building lasting harmony.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -165,7 +165,7 @@ Seagate Portable External Hard Drive
 <div class="ncg-amazon-box">
 <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1581346336?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Desiring God - John Piper - $16.49</a>: Finding supreme satisfaction and steadfast hope in the character of God.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -174,7 +174,7 @@ Tactical Waterproof Backpack
 <div class="ncg-amazon-box">
 <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0310439502?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">NIV, Journalling Bible - $24.99</a>: A dedicated space to record personal reflections and prayers for global peace.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -183,7 +183,7 @@ Seagate Portable External Hard Drive
 <div class="ncg-amazon-box">
 <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/1641581404?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Anxious for Nothing - Max Lucado - $12.99</a>: Finding calm in a world full of unsettling news and uncertainty.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 

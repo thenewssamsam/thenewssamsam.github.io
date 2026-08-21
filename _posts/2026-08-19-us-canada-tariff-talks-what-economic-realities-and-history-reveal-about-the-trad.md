@@ -42,13 +42,13 @@ source_url: "https://apnews.com/article/tariffs-trump-canada-usmca-trade-aae597c
     <h2>The Financial Mechanics: Who Really Pays for Tariffs?</h2>
     <p>In political speeches, tariffs are often framed as a tax paid by foreign nations. From a practical financial standpoint, however, import taxes function very differently. When a 50% tariff is levied on  billion of Canadian products, the tax is paid directly at the U.S. border by American importers, businesses, and wholesalers.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>To protect their profit margins, these U.S. companies frequently attempt to pass those higher costs down the supply chain to retail consumers. With American voters already feeling the pinch of persistent inflation and high living costs ahead of upcoming midterm elections, the White House faces its own domestic political calculation. Imposing a heavy new tax burden on everyday items risks intensifying consumer frustration right at the ballot box.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -56,7 +56,7 @@ Seagate Portable External Hard Drive
     <div class="ncg-quote-box">
       <p>"Tariffs are taxes collected at the border, but their financial weight is ultimately absorbed by the businesses and families downstream in the supply chain."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -64,7 +64,7 @@ Tactical Waterproof Backpack
 
     <p>Beyond immediate consumer prices, the negotiations touch on high-stakes strategic assets. Reports indicate Washington is pressing Ottawa to increase defense spending—including potential purchases of U.S. fighter jets and participation in missile defense initiatives—while also securing broader American access to critical minerals. Meanwhile, Canadian officials are seeking relief from existing U.S. duties on steel, aluminum, and lumber, framing any resolution as a matter of mutual economic survival.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -74,13 +74,13 @@ Tactical Waterproof Backpack
     <h2>A Ghost from the Great Depression</h2>
     <p>To enact these steep levies, the Trump administration bypassed traditional investigative tools like Section 301, instead reaching back nearly a century to invoke Section 338 of the Tariff Act of 1930. Better known as the Smoot-Hawley tariffs, the 1930 legislation is widely cited by economic historians as a cautionary tale.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>During the collapse of the global economy in the 1930s, Smoot-Hawley aimed to protect domestic industries by imposing heavy taxes on international imports. Instead, it triggered immediate retaliatory trade barriers from trading partners, choked off international commerce, and deepened the misery of the Great Depression. The fact that Section 338 has remained dormant for nearly a century highlights just how extraordinary—and legally untested—the current administration's strategy is.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -89,13 +89,13 @@ Tactical Waterproof Backpack
       <h3>A Reflection on Prudence and Stewardship</h3>
       <p>This high-stakes brinkmanship brings to mind the ancient wisdom found in Proverbs 13:16, which observes that <q>every prudent man acts with knowledge, but a fool flashes forth folly.</q> When nations manage trade, the ripple effects are felt not in abstract economic models, but in the livelihoods of ordinary working families on both sides of an undefended border.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
       <p>We are reminded of the importance of stewardship and peaceable cooperation among neighbors. As the Apostle Paul writes in Romans 12:18, <q>If possible, so far as it depends on you, live peaceably with all.</q> True economic strength is rarely forged through conflict and retaliation, but through stable partnerships, honest governance, and a commitment to the common good.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -106,7 +106,7 @@ Seagate Portable External Hard Drive
     <h2>How Should Readers Respond?</h2>
     <p>While ordinary citizens cannot dictate international trade policy, understanding the mechanics of these events helps households prepare for potential financial shifts:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -127,7 +127,7 @@ Seagate Portable External Hard Drive
       <summary>What is Section 338 of the Tariff Act of 1930?</summary>
       <p>Section 338 is a provision from the Smoot-Hawley era that allows the U.S. president to impose tariffs of up to 50% on imports from countries deemed to discriminate against American commerce, without requiring lengthy investigations.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -136,7 +136,7 @@ Seagate Portable External Hard Drive
       <summary>How do these talks affect the USMCA?</summary>
       <p>The threat of tariffs serves as leverage in ongoing negotiations surrounding the United States-Mexico-Canada Agreement (USMCA), as Washington pushes for fresh economic and defense concessions from Ottawa.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

@@ -22,7 +22,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july
 
 <p>According to data released by China's National Bureau of Statistics, economic momentum slowed across nearly every major sector:</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -28,7 +28,7 @@ source_url: 'https://www.fox5atlanta.com/news/search-atlanta-sisters-ages-4-11-m
     <p>For nearly twenty-four hours, the city of Atlanta held its breath. Four-year-old Zola Cooper and her 11-month-old sister, Norah Cooper, became the center of an intensive, high-stakes Amber Alert after disappearing with their babysitter, Lakesha Brown (also known in reports as Keisha Brown).</p>
     <p>The ordeal began when their mother, Elica Redding, who had connected with Brown through an online mom group offering free services for expecting mothers, left her children in Brown's care on a Saturday night. When the children were not returned, excuses about a fictitious car accident began rolling in via text message. Soon, communication severed entirely.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

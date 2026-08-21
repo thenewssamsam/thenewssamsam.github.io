@@ -24,7 +24,7 @@ source_url: "https://www.foxnews.com/politics/progressive-florida-lawmaker-angie
     <p>Angie Nixon, a Jacksonville-based state representative, defeated Alex Vindman—a figure who gained national prominence during the 2019 impeachment inquiry of Donald Trump. Despite Vindman’s massive fundraising advantage, reporting over  million in receipts compared to Nixon's roughly ,000, voters chose the local organizer over the nationally recognized candidate.</p>
     <p>Nixon will now advance to the general election to face Republican Ashley Moody for the right to finish the remainder of the Senate term vacated by Marco Rubio.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -34,7 +34,7 @@ Seagate Portable External Hard Drive
     <h2>Myth vs. Fact: Sorting Through the Campaign Narrative</h2>
     <p>Political contests often generate confusion regarding candidate affiliations and policy platforms. Here is a breakdown of the claims surfaced during this primary cycle.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -42,7 +42,7 @@ Tactical Waterproof Backpack
     <h3>Myth: Nixon’s Membership Status with the DSA is Undisputed</h3>
     <p><strong>Fact:</strong> The situation is nuanced. While Nixon confirmed her membership in the Democratic Socialists of America (DSA) during a July interview, DSA officials later indicated to media outlets that her current membership status is unclear, noting she had previously belonged to a local chapter but did not secure the national organization's endorsement for this run.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -50,7 +50,7 @@ Seagate Portable External Hard Drive
     <h3>Myth: Fundraising Guarantees Victory</h3>
     <p><strong>Fact:</strong> The race serves as a stark reminder that name recognition and a  million war chest do not always dictate primary outcomes. Nixon’s background in community and labor organizing proved sufficient to overcome the financial disparity, highlighting a disconnect between national donor interests and local voter sentiment.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -64,13 +64,13 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Truth and Humility</h2>
     <p>In the noise of political campaigns, it is easy to lose sight of the need for clarity and honesty. Proverbs 12:22 reminds us: <em>"The Lord detests lying lips, but he delights in people who are trustworthy."</em> This serves as a gentle invitation to value truth over rhetoric, whether in our personal lives or our public discourse.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>I am also reminded of Philippians 2:3, which encourages us: <em>"Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves."</em> When we look at the shifting tides of politics, these verses invite us to consider the motives behind the messages we consume, urging us to seek wisdom and integrity in a world that often prioritizes popularity over substance.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -89,7 +89,7 @@ Tactical Waterproof Backpack
     <h2>Closing Takeaway</h2>
     <p>The victory of Angie Nixon over Alex Vindman illustrates that even in an era of nationalized politics, local roots and labor ties can still turn the tide. As Florida heads toward the general election, voters will have to decide whether this shift represents a new direction for the state's Democratic party or a localized anomaly.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

@@ -24,7 +24,7 @@ source_url: "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-
     <h2>The Psychology of Policy Fatigue</h2>
     <p>When voters experience a disconnect between a leader's promises—such as a "quick conflict"—and the reality of an unfolding, costly war, they often experience <strong>cognitive dissonance</strong>. This psychological tension occurs when an individual’s belief in a leader clashes with the harsh, lived reality of rising gas prices and economic instability.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -36,7 +36,7 @@ Seagate Portable External Hard Drive
     <h3>Normalcy Bias and the War Timeline</h3>
     <p>Initially, many supporters likely employed <em>normalcy bias</em>, assuming the conflict would resolve quickly as promised. However, as 80 percent of Americans now believe the war will drag on, that bias has been replaced by a collective realization of long-term economic friction. This shift isn't just about politics; it’s about the human desire for predictability and the stress caused when that predictability vanishes.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -46,13 +46,13 @@ Seagate Portable External Hard Drive
     <h2>A Reflection on Truth and Stewardship</h2>
     <p>Watching the public struggle with broken promises and economic uncertainty reminds me of the importance of integrity in leadership. Proverbs 11:3 (ESV) tells us, <em>"The integrity of the upright guides them, but the crookedness of the treacherous destroys them."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>It is difficult when we feel misled, but this situation invites us to reflect on where we place our trust. When the world feels volatile, we are reminded that true stability is not found in political figures or national might, but in a higher standard of truth. Psalm 146:3 offers a sobering perspective: <em>"Put not your trust in princes, in a son of man, in whom there is no salvation."</em> This doesn't mean we disengage from our duties as citizens, but it does invite us to maintain a healthy, prayerful detachment from the idols of political certainty.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

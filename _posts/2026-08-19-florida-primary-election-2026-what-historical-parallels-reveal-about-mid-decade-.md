@@ -33,7 +33,7 @@ source_url: "https://abcnews.com/Politics/florida-holds-1st-major-primaries-afte
 <p>Tuesday marks Florida's primary election day, bringing voters to the polls for the first major contests since the state legislature passed a controversial new congressional map earlier this year. The freshly drawn boundaries could allow Republicans to flip up to four seats in November's midterm elections, serving as a critical battleground in the fight for control of the U.S. House of Representatives. Analysts project that the map could leave just four Democratic-held districts in the entire state after the general election.</p>
 <p>The stakes are intensely personal for several incumbent members of Congress. Democratic Reps. Darren Soto, Jared Moskowitz, Debbie Wasserman Schultz, and Kathy Castor find their districts directly impacted. Wasserman Schultz opted to run in the newly redrawn 20th Congressional District—a majority-minority district—sparking local tensions with Black Democrats who feel squeezed by similar mid-decade redistricting moves in states like Tennessee, Louisiana, and Alabama. Meanwhile, Moskowitz faces a spirited primary challenge from progressive challenger Oliver Larkin in the 25th District.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

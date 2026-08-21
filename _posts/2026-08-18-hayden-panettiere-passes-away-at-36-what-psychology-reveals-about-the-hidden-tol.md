@@ -22,7 +22,7 @@ source_url: 'https://www.bbc.com/news/articles/cq5665zgg1po'
   <p>Hayden Panettiere passed away on Sunday in Greenville, South Carolina, at age 36. According to the Greenville County Coroner's Office and local police dispatch reports, emergency crews responded to a call regarding a woman in cardiac arrest. Despite advanced life support and resuscitation efforts, she was pronounced dead at the scene.</p>
   <p>Police and coroner officials stated that a preliminary investigation revealed "no signs of foul play or suspicious circumstances." While Panettiere had documented her long-standing struggles with substance abuse, addiction, and the pressures of her upbringing in her memoir earlier this year, a definitive cause of death has not yet been released.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

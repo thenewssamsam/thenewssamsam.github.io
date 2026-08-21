@@ -39,7 +39,7 @@ source_url: "https://www.adn.com/politics/2026/08/18/in-photos-candidates-compet
       According to local reporting from the Anchorage Daily News, the 2026 primary election transformed ordinary street corners into stages for political survival and momentum. Candidates across multiple party lines engaged in classic retail politics—waving signs in Midtown Anchorage, talking directly with dedicated campaign volunteers, and gathering with close supporters to await early returns. 
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -47,7 +47,7 @@ Tactical Waterproof Backpack
       Simultaneously, voters across the municipality navigated polling stations to make their voices heard in key federal and state contests. These primary races determine which contenders advance to the general election ballot, making Tuesday's turnout a crucial baseline for the political landscape in Alaska for the coming years. While the scene was energetic, it also highlighted the exhausting nature of modern campaigning, where candidates must constantly fight for a fleeting moment of public attention in an increasingly crowded media environment.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -67,7 +67,7 @@ Tactical Waterproof Backpack
       When we watch candidates vie for attention on busy street corners, holding up large cardboard signs and calling out to strangers, it is easy to view the spectacle through a purely cynical lens. But from a biblical standpoint, this scene reflects a fundamental human longing that goes back to our creation: the desire to be seen, to be heard, and to matter. We want our existence and our convictions to make a difference in the world around us.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -75,7 +75,7 @@ Seagate Portable External Hard Drive
       However, Scripture frequently cautions us about the mechanisms of human ambition and the temptation to build our worth on public approval. In ancient times, leaders sought platforms in the city gates and public squares to cement their influence. Today, those ancient squares have been replaced by busy intersections, social media feeds, and televised debates. The medium changes, but the human heart remains remarkably consistent.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -83,7 +83,7 @@ Tactical Waterproof Backpack
       When political candidates pour immense energy into chasing public validation, it serves as a mirror for our own daily lives. How often do we find ourselves measuring our personal value by the approval of the crowd, the number of nods we receive, or our perceived status in society? True spiritual grounding invites us to seek a different kind of validation—one that does not depend on winning an election or capturing the fleeting attention of passersby.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -99,7 +99,7 @@ Tactical Waterproof Backpack
       Furthermore, the energetic clamor of election day reminds us of the temporary nature of earthly power. Campaigns promise transformation, stability, and renewal, yet the history of human governance shows that political systems alone can never fully heal the deepest fractures in a community. Leaders come and go, policies are enacted and later repealed, and the daily struggles of ordinary people persist long after the ballot boxes are stored away.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -117,7 +117,7 @@ Seagate Portable External Hard Drive
       This proverb reminds us that pouring our entire soul into relentless striving—whether for wealth, status, or political dominance—ultimately leads to exhaustion. When candidates spend hours standing on concrete medians waving at indifferent drivers, it is a humbling picture of human striving. It reminds us that while civic engagement is a vital duty, our ultimate security cannot rest on the precarious foundation of public office or political victory.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -144,7 +144,7 @@ Tactical Waterproof Backpack
       Whenever election season reaches its peak, our social feeds and neighborhood streets fill with competing claims of who can save us, fix our economy, or restore our culture. As people of faith, watching candidates hustle for votes in Anchorage prompts a necessary internal check. Are we putting our ultimate hope in a political party or a charismatic candidate, or are we anchoring our lives in something far more enduring?
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -152,7 +152,7 @@ Seagate Portable External Hard Drive
       The Apostle Paul writes in his letter to the Philippians about letting our gentleness be evident to all, and reminding us that our citizenship is ultimately in heaven. This does not mean we check out of civic life; rather, it transforms how we participate in it. When we realize that our ultimate security is secure, we can engage in politics without panic, anxiety, or bitter partisan hostility. We can vote with a clear conscience, advocate for just policies, and still treat our neighbors—and opposing candidates—with genuine Christian love and respect.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -170,7 +170,7 @@ Seagate Portable External Hard Drive
       This verse is not an argument against voting or civic participation; it is a profound calibration of our expectations. Human leaders are fallible, limited, and temporary. When we expect politics to deliver salvation or absolute righteousness, we set ourselves up for profound disappointment and division. But when we view politics as a practical tool for temporary stewardship—a way to love our neighbors by seeking orderly and just communities—we can engage constructively without losing our spiritual equilibrium.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

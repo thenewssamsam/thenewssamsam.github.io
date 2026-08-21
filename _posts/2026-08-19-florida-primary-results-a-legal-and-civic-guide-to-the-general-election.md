@@ -27,7 +27,7 @@ source_url: "https://apnews.com/article/florida-primaries-donald-trump-wasserman
     <h2>Navigating the Legal Landscape</h2>
     <p>This is general information, not legal advice. Consult a licensed attorney about your specific situation regarding voting rights or election law.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -35,7 +35,7 @@ Seagate Portable External Hard Drive
     <h3>The Nature of Special Elections</h3>
     <p>When a sitting official vacates a seat—such as Marco Rubio’s transition to Secretary of State—the legal procedure for filling that vacancy depends on state and federal statutes. In Florida, the special election process is designed to ensure representation continues with minimal interruption. Voters are essentially choosing a candidate to complete the remainder of the unexpired term, rather than a full six-year cycle.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive
     <h3>Redistricting and Representation</h3>
     <p>The primary also highlighted the impact of redrawn congressional maps. Legally, state legislatures hold the primary authority to draw district boundaries, a power often challenged in court. The shift toward plurality Black districts, as seen in the race involving Debbie Wasserman Schultz, illustrates how legal boundary adjustments directly influence candidate viability and voter representation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -57,7 +57,7 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Stewardship</h2>
     <p>As we observe the shifting political landscape, I’m reminded of the call to act with integrity and wisdom in all our civic duties. The Apostle Paul writes in <strong>Romans 13:1</strong>, "Let everyone be subject to the governing authorities, for there is no authority except that which God has established." This doesn't mean we remain passive; rather, it invites us to consider our role as stewards of our community and our nation. We are also reminded in <strong>James 1:19</strong> to be "quick to listen, slow to speak and slow to become angry." In the heat of an election cycle, these words serve as a necessary anchor for how we engage with neighbors who hold different perspectives, encouraging us to seek truth and justice rather than mere partisan victory.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

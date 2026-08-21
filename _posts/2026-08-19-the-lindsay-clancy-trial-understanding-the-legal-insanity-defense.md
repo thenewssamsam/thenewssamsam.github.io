@@ -22,7 +22,7 @@ source_url: "https://www.bostonglobe.com/2026/08/17/metro/lindsay-clancy-trial-p
     <h2>The Legal Standoff</h2>
     <p>Lindsay Clancy has pleaded not guilty to three counts of first-degree murder regarding the 2023 deaths of her children. The prosecution argues that her actions were a deliberate, premeditated choice. Conversely, the defense contends that Clancy was experiencing a psychotic break caused by severe, undiagnosed postpartum mental illness, rendering her unable to appreciate the wrongfulness of her actions.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -32,13 +32,13 @@ Seagate Portable External Hard Drive
     <h2>The Insanity Defense: A Legal Framework</h2>
     <p><em>This is general information, not legal advice. Consult a licensed attorney about your specific situation.</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>In the American legal system, the insanity defense is a specific legal strategy, not a medical diagnosis. It asserts that at the time of the crime, the defendant’s mental state was such that they could not understand the nature of their actions or distinguish right from wrong.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -46,7 +46,7 @@ Tactical Waterproof Backpack
     <div class="ncg-quote-box" style="border-left: 5px solid #6a0dad; background: #f9f4fb; padding: 15px; margin: 20px 0;">
       <p><strong>"The insanity defense is not about excusing the act, but about determining if the defendant possessed the necessary legal capacity to form criminal intent at the moment the event occurred."</strong></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -55,7 +55,7 @@ Tactical Waterproof Backpack
     <h3>The Burden of Proof</h3>
     <p>In many jurisdictions, once the defense raises the issue of insanity, the burden often shifts to the state to prove beyond a reasonable doubt that the defendant was sane at the time of the offense. This is a high bar, which explains why the testimony of psychiatric providers and the minute-by-minute account of the defendant’s behavior are scrutinized so heavily by both sides.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -65,7 +65,7 @@ Seagate Portable External Hard Drive
     <h2>A Reflection on Truth and Complexity</h2>
     <p>This trial reminds us of the profound brokenness that can enter human lives and the difficulty of discerning the heart's true state. Proverbs 14:10 tells us, "The heart knows its own bitterness, and no stranger shares its joy," while 1 Corinthians 4:5 reminds us, "Therefore judge nothing before the time, until the Lord comes, who will both bring to light the hidden things of darkness and reveal the counsels of the hearts." These verses invite us to consider that human legal systems, while necessary for order, are limited in their ability to fully grasp the internal agony of a soul in crisis. We are reminded to approach such tragedies with humility, acknowledging that only God truly knows the depths of human suffering and the complexities of the mind.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -75,7 +75,7 @@ Tactical Waterproof Backpack
     <h2>How Should Readers Respond?</h2>
     <p>The intensity of this trial can be difficult to process. If you or someone you know is struggling, remember that resources are available:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

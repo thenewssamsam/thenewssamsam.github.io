@@ -41,7 +41,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/19/lake-mead-human-rem
 
 <p>While hydrologists and climate experts focus on declining runoff, warming temperatures, and the staggering reality that the Colorado River supplies water to 40 million people across seven states, there is another layer to this ongoing story. Beneath the technical data of water depth measurements and reservoir management lies a profound human and spiritual reality: what we attempt to bury in the dark rarely stays hidden forever.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -55,14 +55,14 @@ Tactical Waterproof Backpack
 <h2>The Receding Waters and Our Hidden Past</h2>
 <p>There is something deeply unsettling about a receding body of water. Water has long served in human consciousness—and in biblical narrative—as a symbol of both cleansing and concealment. When the depths cover an object, it disappears from human sight. Families lose loved ones, investigators hit cold case dead ends, and communities move forward, assuming the past has been safely locked away beneath feet of blue water.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>But nature has a way of stripping away our illusions of permanence. The prolonged drought in the American West is acting as a giant eraser, exposing the lakebed year after year. Every foot the water drops reveals forgotten boat wrecks, lost personal items, and, hauntingly, human remains that carry unresolved grief for families who may have waited decades for answers.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -70,7 +70,7 @@ Seagate Portable External Hard Drive
 <div class="ncg-quote-box">
 <p>"There is nothing concealed that will not be disclosed, or hidden that will not be made known." — Luke 12:2</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -78,7 +78,7 @@ Tactical Waterproof Backpack
 
 <p>This physical reality mirrors a spiritual truth. Human beings are remarkably skilled at hiding things—secrets, regrets, historical injustices, and personal sins. We push them down into the deepest reservoirs of our lives, hoping that time and distance will act as a permanent barrier. Yet, external pressures, life changes, or simply the passing of time often lower the buffer zones in our own lives, bringing forgotten things right back to the surface.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -92,21 +92,21 @@ Tactical Waterproof Backpack
 <h2>A Biblical Look at What Is Hidden</h2>
 <p>Scripture frequently uses the imagery of hidden things coming to light to remind humanity of God's overarching justice and omniscience. In the Book of Numbers, Moses warns the people of Israel with a phrase that resonates across generations: <em>"Be sure that your sin will find you out"</em> (Numbers 32:23). While the Lake Mead discoveries are largely the tragic result of human violence and unfortunate accidents tied to decades past rather than direct divine judgment, the physical exposure of hidden remains speaks powerfully to the moral order of the universe.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>We often live as though the things done in secret—whether crimes committed in the shadows of Las Vegas decades ago or quiet compromises in our everyday lives—remain forever locked away. But the Bible reminds us that human history is moving toward a grand reckoning where nothing remains obscured.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Ecclesiastes 12:14 adds a sobering perspective: <em>"For God will bring every deed into judgment, including every hidden thing, whether it is good or evil."</em> This is not written merely to terrify, but to instill a healthy reverence for truth. When we see physical evidence forced out of the mud and silt of Lake Mead, it serves as a tangible reminder that reality cannot be permanently suppressed by rising or falling water.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -120,7 +120,7 @@ Tactical Waterproof Backpack
 <h2>How Should Christians Respond?</h2>
 <p>When news headlines report yet another grim discovery in the Nevada desert, how should believers process the event? Rather than falling into morbid fascination or fear over changing climate patterns, we can approach these moments with purposeful reflection:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

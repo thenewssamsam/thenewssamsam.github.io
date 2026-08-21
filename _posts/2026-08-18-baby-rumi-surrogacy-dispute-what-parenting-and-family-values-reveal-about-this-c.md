@@ -40,7 +40,7 @@ source_url: 'https://www.cbsnews.com/news/texas-surrogacy-dispute-baby-heart-sur
     <h2>What Happened: The Facts of the Case</h2>
     <p>The timeline of Rumi's birth and medical journey involves multiple states, conflicting legal jurisdictions, and a high-stakes medical diagnosis. Intended parents Omar Ahmed and Nausheen Gilkar, residing in California, enlisted McKenna West of Alaska as their surrogate.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

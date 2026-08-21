@@ -26,7 +26,7 @@ source_url: 'https://alaskapublic.org/news/politics/elections/2026-08-18/u-s-sen
     <div style="border-left: 4px solid #d4af37; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Shareable Insight:</strong> "In a world of noise and confusing labels, the challenge for the voter isn't just picking a name—it's discerning the substance behind the identity."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -34,7 +34,7 @@ Tactical Waterproof Backpack
 
     <p>This is not merely a local curiosity; it is a battleground for control of the U.S. Senate. With millions of dollars flooding in from national fundraising platforms, the race has become a high-stakes arena where every vote is treated as a strategic asset, and minor candidates are sometimes elevated by super PACs to shift the outcome.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -44,21 +44,21 @@ Tactical Waterproof Backpack
     <h2>A Biblical Lens on Truth and Clarity</h2>
     <p>The confusion of having two candidates share a name forces us to consider the value of clarity. In Scripture, names often carried significant weight, representing a person’s character and identity. When names become obscured, it mirrors the spiritual tension of living in a world where truth is frequently tangled in deception or strategic maneuvering.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>Proverbs 12:22 reminds us: <em>"The Lord detests lying lips, but he delights in people who are trustworthy."</em> This verse invites us to consider the importance of being known for who we truly are, rather than relying on confusion or hidden agendas. When we look at the political landscape, we are reminded that our ultimate allegiance is not to a party label or a familiar name, but to the pursuit of truth.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
     <p>I am also reminded of 1 Corinthians 14:33, which states: <em>"For God is not a God of disorder but of peace."</em> This makes me think about our current political environment, which often thrives on chaos and discord. As believers, we are called to seek the "peace" that comes from clarity and integrity, even when the systems around us seem designed to sow confusion.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

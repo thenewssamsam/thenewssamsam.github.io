@@ -27,7 +27,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/angie-nixon-winner-f
     <h2>The Local Impact: A New Direction for Florida?</h2>
     <p>For Floridians, this race is about more than just party labels; it is a battle over the future of local policy. Nixon’s platform—centered on universal child care, affordable housing, and fully funded public education—speaks directly to the economic anxieties of working-class families across the state.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -35,7 +35,7 @@ Crevice Cleaning Brush Set
     <div style="border-left: 5px solid #6b4c9a; background: #f9f7fb; padding: 15px; margin: 20px 0;">
       <p><strong>Shareable Insight:</strong> "Nixon’s victory isn't just about a seat in the Senate; it’s a clear signal that Florida voters are prioritizing hyper-local economic solutions over national political branding."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -43,7 +43,7 @@ Crevice Cleaning Brush Set
 
     <p>However, the shift also brings challenges. Nixon’s positions on foreign policy, particularly regarding U.S. aid to Israel, have sparked intense debate. In a state with a significant Jewish population, these views put her at odds with traditional Democratic party platforms, creating a complex landscape for voters as they head toward the November general election.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -51,7 +51,7 @@ Crevice Cleaning Brush Set
     <div style="border-left: 4px solid #ffd700; background: #fffdf0; padding: 10px; margin: 15px 0;">
       <p>Need to organize your local community efforts? Check out this <strong><a href="#">heavy-duty portable megaphone</a></strong>  to ensure your voice is heard at town halls.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -62,13 +62,13 @@ Crevice Cleaning Brush Set
     <h2>A Reflection on Truth and Stewardship</h2>
     <p>Watching the political landscape shift in our own backyard often leaves us wondering about the nature of leadership. I am reminded of the words in <em>Proverbs 29:2</em>, "When the righteous thrive, the people rejoice; when the wicked rule, the people groan."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
     <p>This verse doesn't necessarily tell us which candidate to pick, but it invites us to consider the character and the fruit of those who seek to represent us. Are they truly seeking the well-being of the most vulnerable in our neighborhoods? Furthermore, <em>Micah 6:8</em> challenges us: "And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God." Regardless of the political outcome, our calling as neighbors is to hold leaders accountable to these standards of justice and humility, ensuring that our community remains a place where all can flourish.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 

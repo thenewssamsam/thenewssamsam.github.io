@@ -34,7 +34,7 @@ source_url: 'https://kstp.com/kstp-news/top-news/has-your-car-been-flocked-websi
     <p>Automated license plate readers (ALPRs)—most notably operated by the surveillance technology company Flock Safety—have quietly become fixtures on American roadways. These solar- and battery-powered cameras snap photos of passing vehicles, capturing not just license plate numbers but also vehicle makes, models, colors, and even bumper stickers.</p>
     <p>Law enforcement agencies across the country utilize these networks to aid active investigations, track stolen vehicles, and locate missing persons. Supporters argue that the technology provides an invaluable force multiplier for police departments facing staffing shortages.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

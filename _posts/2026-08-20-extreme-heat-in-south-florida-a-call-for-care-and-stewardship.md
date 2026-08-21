@@ -22,7 +22,7 @@ source_url: 'https://www.local10.com/weather/2026/08/19/extreme-heat-warning-in-
 <p>Residents across Miami-Dade and Broward counties are currently under an official Extreme Heat Warning as temperatures soar. With the heat index expected to climb to 110°F or higher for several hours, local authorities have urged the public to exercise extreme caution through Wednesday evening.</p>
 <p>This weather event is more than just a summer nuisance; it is a significant health risk. The primary guidance from officials is clear: stay hydrated, seek air conditioning, and minimize outdoor exertion. While scattered evening storms may provide brief relief, the current conditions demand vigilance.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -31,7 +31,7 @@ Seagate Portable External Hard Drive
 <div style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
 <p><strong>Quick Take:</strong> Stewardship isn't just about managing resources; it’s about protecting the life and health of ourselves and our neighbors during times of environmental trial.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -41,19 +41,19 @@ Seagate Portable External Hard Drive
 <h2>A Faith Perspective on Weather and Care</h2>
 <p>In the face of such intense heat, we are reminded of our responsibility to be good stewards of the bodies God has given us and to look out for the vulnerable in our communities. Proverbs 25:13 reminds us: <em>"Like the cold of snow in the time of harvest is a faithful messenger to those who send him; he refreshes the soul of his masters."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 <p>Just as a cold drink refreshes on a sweltering day, our actions to check on an elderly neighbor or provide water to someone working outside can be a "refreshing" act of kindness. Our faith calls us to move beyond self-preservation and into active care for those around us.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 <p>Furthermore, in Matthew 25:40, we are reminded that <em>"Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me."</em> This heat wave is a practical opportunity to live out that verse by ensuring that the most vulnerable—the elderly, the homeless, and those without reliable cooling—are not forgotten.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

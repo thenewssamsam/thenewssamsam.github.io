@@ -37,14 +37,14 @@ source_url: "https://www.foxnews.com/politics/mysterious-polling-firm-behind-fak
 
 <p>The numbers quickly escaped into the wild. Local TV newscasts, social media feeds, and online reporting outlets picked up the data without independent verification. In Los Angeles, the fake poll claimed Bass held a 12-point lead over City Council member Nithya Raman in the primary. In reality, Bass edged Raman by a much tighter five-point margin. Similar manufactured or wildly inaccurate polls surfaced around the same time in Wisconsin and Michigan, creating widespread confusion among voters trying to make sense of crowded primary races.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Then came the confession. Median Strategies posted a notice on its website declaring that the company was created as a short-term social experiment to examine how purported polling information enters and spreads through the political ecosystem. Having proved their point, they shut down operations, leaving local communities to deal with the fallout of manipulated public trust.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -58,14 +58,14 @@ Seagate Portable External Hard Drive
 <h2 style="font-size: 1.5rem; margin-top: 2rem; margin-bottom: 1rem; color: #1a202c;">The Local Impact on Los Angeles Voters and Media</h2>
 <p>While internet pranksters or academic researchers might view a "social experiment" as a harmless exercise in data flow, the ground-level consequences for cities like Los Angeles are deeply frustrating. Local democracy relies on a shared baseline of factual reality. When fake numbers enter the bloodstream of a municipal election, they distort the democratic process in tangible ways.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>For Angelenos, municipal elections are already complex. Voters juggle local ballot measures, city council races, and high-stakes mayoral contests where neighborhood concerns like housing, transit, and public safety take center stage. Introducing fabricated data into this mix saps energy away from substantive debates. Instead of discussing Nithya Raman's policy positions or Karen Bass's mayoral record, campaigns and local media found themselves reacting to ghost numbers invented by an anonymous outfit.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -76,7 +76,7 @@ Tactical Waterproof Backpack
 
 <p>Furthermore, local journalism outlets—already stretched thin by industry contractions—are forced to spend valuable reporting hours chasing down unverified claims. The Median Strategies incident underscores a vulnerability in regional reporting: the rush to publish breaking poll numbers can sometimes bypass the rigorous verification needed to protect local civic health.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -90,14 +90,14 @@ Tactical Waterproof Backpack
 <h2 style="font-size: 1.5rem; margin-top: 2rem; margin-bottom: 1rem; color: #1a202c;">A Reflection on Truth and Deception</h2>
 <p>Situations like this make me think about how easily deception spreads when people are eager to believe a narrative that confirms their preexisting views. Proverbs 12:22 reminds us that "lying lips are an abomination to the Lord, but those who act faithfully are his delight." While Median Strategies framed their actions as an academic experiment, the moral reality remains: introducing falsehoods into public discourse carries real consequences for real people.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>I am reminded that truth is the foundational currency of any healthy community. Ephesians 4:25 urges us, "Therefore, having put away falsehood, let each one of you speak the truth with his neighbor, for we are members one of another." When we compromise on honesty—even under the guise of testing a system—we fray the social bonds that hold neighborhoods together.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -111,7 +111,7 @@ Seagate Portable External Hard Drive
 <h2 style="font-size: 1.5rem; margin-top: 2rem; margin-bottom: 1rem; color: #1a202c;">How Local Communities Can Guard Against Misinformation</h2>
 <p>Protecting our local political environment from anonymous hoaxes requires a collective commitment to basic verification habits. Here are practical steps residents and community leaders can take:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

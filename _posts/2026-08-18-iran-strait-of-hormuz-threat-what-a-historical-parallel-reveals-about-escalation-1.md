@@ -36,7 +36,7 @@ source_url: ''
 <h2 id="what-happened">What Happened in the Gulf</h2>
 <p>The diplomatic breakdown arrived on Monday as a June memorandum of understanding (MoU) expired without a permanent peace deal. The interim agreement, which had paused military operations across multiple fronts, unravelled over a fundamental disagreement: who holds administrative control over the Strait of Hormuz, the vital waterway separating Iran from Oman.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

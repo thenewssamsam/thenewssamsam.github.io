@@ -43,7 +43,7 @@ source_url: 'https://www.statnews.com/2026/08/17/eyepoint-duravyu-wet-amd-study/
       Specifically, patients administered Duravyu failed to maintain vision with less frequent injections compared to standard treatment protocols. For a drug whose core value proposition was reducing the treatment burden for patients who otherwise require frequent, invasive injections into the eye, missing this efficacy endpoint is a critical hurdle. The setback immediately imperils Eyepoint's plans to seek regulatory approval for the drug and triggered an immediate, severe reaction in public markets.
     </p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

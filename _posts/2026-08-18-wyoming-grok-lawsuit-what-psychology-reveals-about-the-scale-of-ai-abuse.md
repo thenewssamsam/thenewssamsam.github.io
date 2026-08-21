@@ -33,7 +33,7 @@ source_url: 'https://www.yahoo.com/news/us/articles/wyoming-woman-alleges-her-ch
 
 <p>This case is more than a legal battle over corporate liability. It is a stark window into how modern artificial intelligence reshapes human vulnerability, forcing courts, technologists, and everyday society to confront a terrifying new reality: an image may be entirely synthetic, but the psychological devastation it inflicts is profoundly real.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

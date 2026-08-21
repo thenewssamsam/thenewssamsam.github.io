@@ -28,7 +28,7 @@ source_url: 'https://apnews.com/article/comey-justice-department-trump-264e3a178
     <h2>A Faith Perspective: The Power of the Tongue</h2>
     <p>In a culture where every post, image, and caption is scrutinized for hidden meaning, this case serves as a sober reminder of the biblical injunction to govern our speech with extreme care. Whether or not one believes Comey’s explanation, the situation illustrates a timeless truth: our words (and images) do not exist in a vacuum.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -41,14 +41,14 @@ Tactical Waterproof Backpack
 
     <p>The Apostle James reminds us that the tongue—or in our modern context, the digital thumb—is a potent instrument. We often underestimate how a “small spark” of irony, sarcasm, or cryptic messaging can ignite a firestorm in a polarized society. When we choose to engage in public discourse, we are not just expressing ourselves; we are contributing to the atmosphere of the community around us.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>Scripture invites us to consider the intent of our hearts before we hit "post." Proverbs 15:1 teaches, "A gentle answer turns away wrath, but a harsh word stirs up anger." In a climate of deep suspicion, the call for Christians is not to add to the noise with ambiguity, but to prioritize clarity, peace, and the avoidance of unnecessary offense. We must ask ourselves: Does my communication build up, or does it invite the very discord I claim to oppose?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -58,7 +58,7 @@ Tactical Waterproof Backpack
     <h2>How Should Christians Respond?</h2>
     <p>This news cycle is a prompt for personal inventory. Here are three ways to apply this to our own digital lives:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -73,7 +73,7 @@ Seagate Portable External Hard Drive
     <h2>One Last Thought</h2>
     <p>The legal outcome of the Comey case will be determined in a courtroom, but the moral lesson is ours to claim today. We live in a world desperate for people who speak with integrity and act with transparency. Let us be the ones who minimize the heat and maximize the light, ensuring that our words always serve to reconcile rather than divide. May we be known for the clarity of our speech and the purity of our motives.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

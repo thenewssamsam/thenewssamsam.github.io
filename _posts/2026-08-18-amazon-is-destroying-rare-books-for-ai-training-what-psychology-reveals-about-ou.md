@@ -36,7 +36,7 @@ source_url: 'https://finance.yahoo.com/technology/ai/articles/amazon-once-online
 
   <p>Recent investigative reporting by 404 Media uncovered this surreal reality by placing a tracking device inside a rare book. The trail led straight to an Amazon facility in Las Vegas designated as VGT3—fittingly marked with a symbol of a dinosaur holding a book in its claws.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

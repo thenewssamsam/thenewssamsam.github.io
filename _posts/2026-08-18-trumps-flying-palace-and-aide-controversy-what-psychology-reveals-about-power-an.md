@@ -25,7 +25,7 @@ source_url: 'https://www.independent.co.uk/news/world/americas/us-politics/trump
 
   <p>Behind the political posturing lies a classic study in how power operates, how proximity shapes influence, and why high-stakes environments naturally breed intense psychological scrutiny over inner circles.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

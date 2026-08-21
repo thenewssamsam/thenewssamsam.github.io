@@ -37,7 +37,7 @@ source_url: 'https://luxurylaunches.com/auctions/billionaire-who-bought-first-fe
   <p>At RM Sotheby's flagship Monterey sale, Chassis 0 of the new Ferrari Luce crossed the auction block to an astonishing final bid of  million. Pre-sale estimates had placed the car at a respectable  million, meaning the final sale price cleared that threshold by a multiple of over 36.</p>
   <p>What makes the transaction noteworthy beyond the astronomical sum is both its beneficiary and its pedigree. The entire  million hammer price is directed straight to the Ferrari Foundation, injecting massive philanthropic capital into educational and cultural causes. Furthermore, the car is no ordinary production model. Designated as Chassis 0, it is the first complete automotive realization of a long-term creative partnership between Ferrari and LoveFrom—the design collective founded by former Apple design chief Jony Ive and industrial designer Marc Newson.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

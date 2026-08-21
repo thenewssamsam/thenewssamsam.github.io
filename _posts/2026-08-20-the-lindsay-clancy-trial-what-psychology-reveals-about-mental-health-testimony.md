@@ -27,7 +27,7 @@ source_url: 'https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live
 
 <p>Additionally, Judge William Sullivan ruled against allowing a TikTok user—a former employee of the facility where Clancy received care—to testify, citing limited relevance to the specific timeline of the case. The day concluded abruptly due to an "unforeseen circumstance," with the court scheduled to resume Thursday as the defense prepares to potentially rest its case.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -37,7 +37,7 @@ Seagate Portable External Hard Drive
 <h2>The Psychology of Expert Testimony and Confirmation Bias</h2>
 <p>In high-stakes legal cases involving mental health, the role of the expert witness is often the fulcrum upon which the verdict turns. From a psychological standpoint, the tension in the courtroom reflects several well-documented human behaviors.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -45,7 +45,7 @@ Tactical Waterproof Backpack
 <h3>The Challenge of Confirmation Bias</h3>
 <p>The prosecution's cross-examination of Dr. Zeizel brought the concept of <strong>confirmation bias</strong> to the forefront. This cognitive bias occurs when an individual favors information that confirms their existing beliefs while discounting contradictory evidence. In forensic settings, the risk is that an evaluator may unconsciously shape their findings to align with the narrative of the side that hired them.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -57,7 +57,7 @@ Seagate Portable External Hard Drive
 <h3>Rapport vs. Neutrality</h3>
 <p>The questioning regarding Dr. Zeizel’s "deep care" for his patient touches on the psychological tension between clinical empathy and forensic neutrality. While developing rapport is essential for a therapeutic relationship, the legal system demands a detachment that is difficult to maintain when a clinician is deeply invested in the patient's well-being. This is not necessarily a sign of dishonesty, but it is a psychological factor that jurors must weigh when determining the objectivity of an expert's conclusions.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -67,14 +67,14 @@ Seagate Portable External Hard Drive
 <h2>A Reflection on Truth and Compassion</h2>
 <p>Watching this trial unfold, it is impossible not to feel the weight of the immense suffering involved. It reminds me of the biblical call to seek wisdom in the midst of chaos. Proverbs 18:17 tells us, <em>"The one who states his case first seems right, until the other comes and examines him."</em> This verse speaks to the importance of looking at all sides of a story, especially when human lives and justice are on the line. </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>I am also reminded of Psalm 34:18: <em>"The Lord is near to the brokenhearted and saves the crushed in spirit."</em> While the courtroom seeks to assign legal responsibility, these verses invite us to maintain a posture of humility. We are seeing a tragedy that defies simple explanation, and it challenges us to hold space for the complexity of human pain while simultaneously seeking the truth. It is a sobering reminder that we are all finite beings, capable of great fragility, and in need of grace.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -84,7 +84,7 @@ Tactical Waterproof Backpack
 <h2>How Should Readers Respond?</h2>
 <p>For those following this case, the most constructive response is to cultivate discernment rather than engaging in speculation. </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

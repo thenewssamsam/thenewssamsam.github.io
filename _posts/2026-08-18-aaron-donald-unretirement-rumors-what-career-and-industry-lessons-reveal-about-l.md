@@ -21,7 +21,7 @@ source_url: 'https://www.nfl.com/news/rams-sean-mcvay-has-no-timeline-for-aaron-
 <h2 id="what-happened">What Happened</h2>
 <p>Speaking after the Rams' preseason opener against the Kansas City Chiefs, Sean McVay made it clear that no official deadline has been imposed on Aaron Donald regarding a potential unretirement. Donald, who stepped away from the game after the 2023 season at age 33 and is now 35, has fueled speculation following a high-profile trade that brought Myles Garrett to Los Angeles. According to transaction wires, Donald has quietly explored a return, but McVay emphasized that the three-time Defensive Player of the Year will dictate his own timeline. Rather than forcing a rushed decision, the Rams organization is operating with the current roster while keeping the door wide open for one of the greatest defensive players in NFL history.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -27,7 +27,7 @@ source_url: 'https://justinweather.com/2026/08/16/august-16-soggy-sunday-with-se
   <p>Meteorologist Justin Berk issued an updated Sunday morning weather report highlighting a significant threat of severe storms and heavy rainfall. A Flood Watch remains in effect until midnight for Western Maryland, where expected rainfall totals generally range from 1 to 2 inches, with localized spots potentially reaching 3 to 5 inches. The highest immediate risk is concentrated west of Baltimore and south of Washington, D.C., though shifting atmospheric moisture leaves open the possibility of the watch expanding eastward toward Central Maryland.</p>
   <p>Short-range computer models have struggled with consistency, prompting forecasters to emphasize a "Potential: Not A Promise" mindset. While today brings multiple rounds of storms, improvement is expected by Monday, followed by a brief break midweek before thundershowers threaten to return on Thursday. Beneath the radar loops and precipitation totals, however, lies an equally fascinating aspect of severe weather events: how the human mind processes shifting, uncertain risks.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

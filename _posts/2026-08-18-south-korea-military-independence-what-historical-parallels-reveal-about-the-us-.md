@@ -40,7 +40,7 @@ source_url: 'https://www.theguardian.com/world/2026/aug/18/south-korea-president
 <h2>What Happened: The Drill Cuts and Seoul's Response</h2>
 <p>In mid-August 2026, the geopolitical balance on the Korean peninsula shifted once again. Following instructions from US President Donald Trump to "substantially reduce" the ongoing <em>Ulchi Freedom Shield</em> joint military exercises, South Korean President Lee Jae Myung announced an accelerated push to reclaim wartime operational control—known as Opcon—of his country's armed forces.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

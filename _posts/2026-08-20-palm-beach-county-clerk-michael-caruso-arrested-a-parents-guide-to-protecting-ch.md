@@ -37,14 +37,14 @@ source_url: "https://cbs12.com/news/local/palm-beach-county-clerk-of-court-micha
 
 <p>According to the arrest affidavit released by Florida Attorney General James Uthmeier's office and FDLE investigators, the case began to unfold after a child's father observed concerning behavior between his young son and another sibling in October 2025. Upon questioning, the child disclosed that he had been allegedly abused by Michael Caruso during unsupervised outings—such as fishing trips—and notably during a family cruise aboard Royal Caribbean's <em>Icon of the Seas</em> in August 2025.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Investigators state that Caruso used his family relationship to secure regular, unsupervised access to the child, isolating him under pretexts such as getting ice cream. The affidavit details allegations dating back to 2024, including incidents in Orange and Palm Beach counties. In the spring of 2026, therapeutic services revealed that the child was exhibiting trauma responses. Following a recorded conversation where Caruso allegedly acknowledged isolating the child, authorities secured an arrest warrant for five felony counts. Caruso is currently being held without bond as the statewide prosecution proceeds.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -57,7 +57,7 @@ Seagate Portable External Hard Drive
 
 <p>As parents, we want to believe that family members and respected community leaders are safe harbors for our children. The shock of the Michael Caruso case lies in the alleged breach of that exact assumption. From a parenting and family dynamics perspective, this case highlights critical principles every caregiver must navigate:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -65,7 +65,7 @@ Tactical Waterproof Backpack
 <h3>1. Dispelling the Myth of the Stranger Danger</h3>
 <p>For decades, safety education focused heavily on warning children about strangers in cars or parks. Yet criminological data consistently shows that the vast majority of child abuse is committed by individuals the family knows and trusts—often family members, close friends, or authority figures. Equipping our children means teaching them about body boundaries regardless of who the person is, reinforcing that no adult has the right to ask them to keep secrets from their parents.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -73,7 +73,7 @@ Tactical Waterproof Backpack
 <h3>2. The Danger of Isolation Tactics</h3>
 <p>The FDLE affidavit notes that Caruso allegedly isolated the young victim by separating him from his parents under everyday pretexts like getting a snack or going fishing. Abusers frequently use grooming tactics designed to create private, unsupervised bubbles. Parents can counter this by maintaining the "rule of open spaces"—ensuring that while trusted relatives can spend time with children, activities should generally remain transparent, observable, and within reasonable boundaries.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -81,7 +81,7 @@ Seagate Portable External Hard Drive
 <h3>3. Listening to Behavioral Cues</h3>
 <p>Children—especially those under the age of 12—may not always have the vocabulary or the emotional safety to immediately report abuse in words. In this case, the investigation was partly initiated after a parent observed behavioral changes and interactions between siblings. Paying close attention to sudden shifts in a child's behavior, regressions, unusual anxieties, or unexplained bodily discomfort can be vital lifelines for early intervention.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -98,21 +98,21 @@ Seagate Portable External Hard Drive
 
 <p>Stories involving the mistreatment of children stir a righteous sorrow and anger in any compassionate heart. They remind us of the immense fragility of childhood and the heavy responsibility entrusted to adults who guide them. Scripture speaks directly to the sacred duty of protecting the innocent, offering both a warning and a call to vigilance.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Proverbs 31:8-9 urges us, "Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy." This responsibility begins in our own homes and communities, where we act as the first line of defense for children who rely entirely on our discernment.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>At the same time, when wrongdoing is brought to light, it mirrors the sobering truth found in Luke 8:17: "For there is nothing hidden that will not be disclosed, and nothing concealed that will not be known or brought out into the open." Darkness relies on silence and isolation, but truth, though painful in its uncovering, provides the essential foundation for justice, healing, and eventual restoration.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

@@ -38,7 +38,7 @@ source_url: 'https://www.bostonglobe.com/2026/08/17/metro/lindsay-clancy-trial-l
 <h2>What Happened in Court Today</h2>
 <p>The transition from the prosecution&#8217;s case to the defense brought immediate emotional weight to the courtroom. Paula Musgrove, Clancy&#8217;s mother, testified about the months leading up to the January tragedy in Duxbury, Massachusetts. Under questioning from defense attorney Kevin Reddington, Musgrove recounted disturbing statements and actions from her daughter, including an evening when Clancy asked to sleep in her mother&#8217;s bed because she &#8220;didn&#8217;t want to be alone,&#8221; and an admission that she felt her medication was &#8220;destroying&#8221; her mind.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

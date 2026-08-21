@@ -184,7 +184,7 @@ Finally, we must recognize that true security is never found in covering up our 
 Heavenly Father, we bring before You the heavy burdens of broken families, fallen leaders, and communities touched by substance abuse and poor choices. We ask for Your mercy upon the Robinson family and all those navigating the fallout of these serious charges. Grant wisdom to judges, investigators, and all who seek true justice. Lord, search our own hearts and deliver us from the temptation to hide our failings or shield wrongdoing out of misplaced loyalty. Give us the courage to walk in the light, to guide our children with both fierce love and unyielding truth, and to find our ultimate security in Your grace. In Jesus' name, Amen.
 </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

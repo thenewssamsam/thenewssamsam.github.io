@@ -30,7 +30,7 @@ source_url: 'https://www.foxnews.com/politics/trumps-handpicked-desantis-success
     <h2>A Biblical Lens on Political Stewardship</h2>
     <p>When we look at political transitions, it is easy to become caught up in the fervor of endorsements and policy agendas. However, Scripture reminds us that all authority is ultimately under the sovereignty of God. Romans 13:1 teaches us, "Let everyone be subject to the governing authorities, for there is no authority except that which God has established." This does not mean we remain passive; rather, it calls us to engage with a spirit of discernment and prayer.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -41,7 +41,7 @@ Seagate Portable External Hard Drive
 
     <p>Leadership in the biblical sense is synonymous with stewardship. Whether a candidate is "handpicked" by a political icon or rises through grassroots support, the ultimate responsibility of a leader is to act justly and love mercy (Micah 6:8). As Florida moves toward a new chapter, voters are tasked with evaluating not just the party platform, but the character and the heart of the individuals seeking to steward the resources and well-being of millions.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -51,7 +51,7 @@ Tactical Waterproof Backpack
     <h2>Reflecting on Our Civic Duty</h2>
     <p>This election cycle makes me think about the weight of responsibility placed upon those who seek to lead. I am reminded of 1 Timothy 2:1-2, which urges us to offer "petitions, prayers, intercession and thanksgiving" for "all those in authority, that we may live peaceful and quiet lives in all godliness and holiness." This verse invites us to consider that our role as citizens is not merely to pick a side, but to be a people of prayer, consistently lifting up our leaders so that justice might flourish.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -70,7 +70,7 @@ Tactical Waterproof Backpack
     <h2>Closing Takeaway</h2>
     <p>As Florida enters this new political season, the transition from Gov. Ron DeSantis to his successor marks a significant shift. Regardless of the outcome, the call for the faithful is to remain grounded in truth, active in prayer, and committed to the values of service and humility.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

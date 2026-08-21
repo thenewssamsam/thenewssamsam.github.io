@@ -21,7 +21,7 @@ source_url: 'https://247wallst.com/investing/2026/08/16/high-dividend-etfs-are-b
 
   <p>While the headline numbers catch the eye, the real story lies underneath the ticker symbols. Each of these three funds achieves its outperformance through entirely different financial mechanics, and those structural differences matter far more to a portfolio than simple yield percentages suggest.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

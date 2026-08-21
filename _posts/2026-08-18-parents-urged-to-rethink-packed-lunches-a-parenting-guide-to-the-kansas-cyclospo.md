@@ -116,7 +116,7 @@ source_url: 'https://www.kwch.com/2026/08/18/parents-urged-rethink-packed-lunche
 <h2 id="what-happened">What Happened in Kansas?</h2>
 <p>State health officials reported 748 confirmed cases of cyclosporiasis, with Sedgwick County alone accounting for roughly 100 of those infections. The outbreak, tied primarily to contaminated fresh produce like bagged lettuce, has prompted widespread concern just as the new school year kicks off.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

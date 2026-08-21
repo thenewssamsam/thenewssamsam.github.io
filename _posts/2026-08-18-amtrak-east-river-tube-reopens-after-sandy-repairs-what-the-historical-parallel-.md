@@ -69,7 +69,7 @@ source_url: 'https://ny1.com/nyc/all-boroughs/news/2026/08/17/one-of-two-amtrak-
 <p>After more than a year of intensive rehabilitation, one of the two Amtrak East River tubes heavily damaged during Hurricane Sandy in 2012 has finally reopened. The 116-year-old tube is a critical artery making up part of the East River Tunnel, utilized heavily by Long Island Rail Road (LIRR) and New Jersey Transit passengers traveling into Manhattan's Penn Station.</p>
 <p>The overhaul was far from superficial. According to Amtrak officials, work required completely stripping the tube down to its bare shell. Crews removed tracks, third-rail power systems, 24,000 feet of rail, 8,000 tons of ballast, and 8,000 wooden ties. The newly reopened tube now boasts modern power and communication networks, fresh tracks, code-compliant bench walls, and sturdy concrete floors designed to withstand future weather events.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

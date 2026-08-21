@@ -38,7 +38,7 @@ source_url: 'https://news.bloomberglaw.com/bankruptcy-law/google-aims-to-boost-a
 
 <p>Spirit Aviation Holdings Inc. shut down its operations on May 2 following its second Chapter 11 bankruptcy filing in two years, drowning under roughly  billion in debt, surging fuel prices, and failed financing talks. The shutdown laid off approximately 17,000 workers. While much of the airline's physical and logistical value went to other carriers—such as JetBlue Airways acquiring 22 takeoff and landing slots at LaGuardia Airport for  million—its digital footprint drew a fierce bidding war.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 KEOFID Classic Backpack 
 </a></p>
 

@@ -45,7 +45,7 @@ source_url: "https://apnews.com/article/florida-wyoming-alaska-primaries-democra
 
     <p>Yet, the most startling headlines came from legislative and congressional primary battles. In a major upset, progressive state lawmaker Angie Nixon easily defeated retired Army Lt. Col. Alex Vindman, despite Vindman outraising Nixon by more than 16-to-1. Elsewhere, redrawn maps scrambled districts, and primary ballots featured eclectic fields of candidates—including former members of Congress returning from scandal, reality-show figures, and eccentric political transplants.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -55,7 +55,7 @@ Seagate Portable External Hard Drive
     <h2>A Psychology & Behavior Perspective: The Pull of the Outsider</h2>
     <p>Why do voters repeatedly gravitate toward anti-establishment figures, underdogs, or colorful disruptors, even when well-funded establishment alternatives seem safer on paper? When we examine elections through the lens of human behavior, several powerful cognitive and emotional patterns emerge.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -67,7 +67,7 @@ Tactical Waterproof Backpack
     <h3>1. Reactance and the Backlash Against Heavy Spending</h3>
     <p>Psychological reactance theory suggests that when people feel their freedom of choice is being pressured or influenced by external forces—such as massive, lopsided campaign war chests—they experience a motivational state directed at restoring that freedom. When Alex Vindman out-fundraised Angie Nixon by 16-to-1, it created an invisible psychological friction. To many voters, an overwhelming financial advantage stops looking like organizational competence and starts looking like an attempt to manufacture consent.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -75,7 +75,7 @@ Tactical Waterproof Backpack
     <h3>2. The Halo Effect Versus The Novelty Bias</h3>
     <p>Establishment candidates often rely on resume building and institutional ties, hoping voters will apply a positive "halo effect" from past titles. However, in cycles marked by widespread institutional skepticism, novelty bias takes over. Voters become fatigued by predictable political scripts. When a candidate represents a sharp break from the norm, the human brain registers them as a refreshing disruption, temporarily discounting the operational risks of choosing an untried outsider.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -91,7 +91,7 @@ Seagate Portable External Hard Drive
     <h3>3. Normalcy Bias and Scandal Fatigue</h3>
     <p>Another fascinating behavioral quirk visible in these primaries is the tolerance for unorthodox backgrounds—including candidates with past legal troubles, reality television ties, or unconventional careers. When the public's baseline expectation of political virtue drops due to continuous cycles of scandal, normalcy bias shifts. Rather than viewing baggage as an immediate disqualifier, exhausted electorates may view imperfection as proof of authenticity: a flawed human being is perceived as more honest than a polished politician hiding behind consultants.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -105,13 +105,13 @@ Seagate Portable External Hard Drive
     <h2>Cognitive Traps in Political Selection</h2>
     <p>As voters navigate primary ballots featuring crowded fields—sometimes even matching last names like the Dan Sullivans in Alaska—our cognitive processing limits become glaringly obvious. Human brains rely heavily on mental shortcuts (heuristics) to make decisions when overwhelmed by information.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>In high-stress election environments, people often resort to recognition heuristics: voting for the name that sounds familiar or the candidate who triggers an immediate emotional release valve. While these shortcuts save mental energy, they can also bypass critical evaluation of long-term policy capability. Understanding this vulnerability is the first step toward reclaiming deliberate, thoughtful civic participation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -125,7 +125,7 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Human Frailty and True Discernment</h2>
     <p>Watching political campaigns unfold with all their shifting alliances, financial disparities, and human flaws often makes me think about how easily we place our ultimate hopes in earthly institutions. Scripture gently reminds us of the limits of human strength and the importance of looking beyond outward appearances. In Proverbs 16:9, we are reminded: <em>"In their hearts humans plan their course, but the Lord establishes their steps."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

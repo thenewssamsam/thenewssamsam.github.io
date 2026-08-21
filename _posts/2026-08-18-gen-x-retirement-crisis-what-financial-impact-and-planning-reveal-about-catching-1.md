@@ -32,7 +32,7 @@ source_url: 'https://money.com/gen-x-retirement-age-68-savings/'
 <h2 id="what-happened">What Happened: The Gen X Savings Gap</h2>
 <p>Generation X&mdash;those born between 1965 and 1980&mdashis approaching retirement age with a striking anxiety over their bank accounts. More than half of surveyed workers worry they have not saved enough, and 61 percent report feeling less financially secure than they anticipated at this stage of life.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

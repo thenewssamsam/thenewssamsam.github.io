@@ -37,7 +37,7 @@ source_url: ''
 <h2>What Happened in Palm Beach</h2>
 <p>According to reports from Politico and the New York Times, Palm Beach county voting records and White House confirmations show that Donald Trump mailed his ballot on August 13 for Florida's upcoming primary elections. This follows previous instances of the president using mail-in ballots in 2020 and during a special statehouse election earlier this year.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

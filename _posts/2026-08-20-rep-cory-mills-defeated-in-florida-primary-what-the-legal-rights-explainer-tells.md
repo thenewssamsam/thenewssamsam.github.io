@@ -47,7 +47,7 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-r
     <h2 class="ncg-h2">A Legal Rights Explainer: Ethics Probes and Due Process</h2>
     <p>When high-profile political figures face investigations by bodies like the House Ethics Committee, it often sparks widespread confusion regarding their legal rights, protections, and the nature of internal congressional oversight versus criminal proceedings.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -55,7 +55,7 @@ Seagate Portable External Hard Drive
     <h3 class="ncg-h3">The Difference Between Ethics Investigations and Criminal Trials</h3>
     <p>A fundamental principle of American jurisprudence is the presumption of innocence. However, the House Ethics Committee is a legislative body, not a court of law. Its inquiries are administrative and institutional rather than criminal. When the committee opens an investigation into allegations—such as campaign finance infractions or personal misconduct—it does not possess the authority to hand down criminal prison sentences. Instead, its purview is to determine whether a member has violated the rules of the House, with potential penalties ranging from reprimands and fines to expulsion.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -71,7 +71,7 @@ Tactical Waterproof Backpack
     <h3 class="ncg-h3">The Right to Due Process and Public Defense</h3>
     <p>Representative Mills has maintained his innocence and denied all allegations against him. Under standard legislative ethics rules, a member under investigation retains the right to counsel, the opportunity to respond to findings, and due process before any disciplinary action is finalized by the full House. Yet, electoral accountability functions entirely apart from formal legal adjudications. Voters exercise their own prerogative to weigh allegations, baggage, and electability when stepping into the voting booth—a reality demonstrated clearly by the outcome in Florida's 7th district.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -83,7 +83,7 @@ Tactical Waterproof Backpack
     <h2 class="ncg-h2">A Matter of Character and Stewardship</h2>
     <p>Political developments like primary defeats and ethics scandals often cause us to reflect deeper on the moral foundations of leadership. Proverbs reminds us that integrity is the bedrock of any lasting influence: <q>“The integrity of the upright guides them, but the crookedness of the treacherous destroys them”</q> (Proverbs 11:3, ESV). This verse invites us to consider that public office is not merely a position of power, but a sacred trust of stewardship over communities and people.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -94,7 +94,7 @@ Seagate Portable External Hard Drive
 
     <p>When leaders face serious allegations, the community bears a heavy burden. It reminds me that transparency, honesty, and accountability are virtues that must be guarded fiercely at every level of society. As we observe these transitions, we are challenged to pray for discernment for voters and wisdom for those who govern, keeping our ultimate hope anchored in principles higher than partisan politics.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

@@ -35,7 +35,7 @@ source_url: 'https://www.cityandstateny.com/politics/2026/08/randy-mastro-cant-s
     <p>In the eight months since former Mayor Eric Adams left office, his old second-in-command has kept remarkably busy. Randy Mastro—the 69-year-old veteran attorney and former federal prosecutor—has represented clients in five distinct lawsuits targeting Mayor Zohran Mamdani's administration this year alone.</p>
     <p>The targets are wide-ranging. Mastro's legal challenges have sought to halt homeless shelter relocations, overturn the Rent Guidelines Board's rent freeze on rent-stabilized apartments, push for an open primary system, and back a Forbes journalist fighting for transparency over executive orders. Most recently, Mastro secured a temporary restraining order over the rollout of the city's contentious pied-à-terre tax on luxury second homes—though a state appeals court quickly paused that victory pending further hearings.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

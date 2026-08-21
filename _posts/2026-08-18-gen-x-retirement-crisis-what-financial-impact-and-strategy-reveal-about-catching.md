@@ -37,7 +37,7 @@ source_url: 'https://money.com/gen-x-retirement-age-68-savings/'
 
   <p>A recent survey of more than 1,000 employed Gen Xers conducted by Zety paints a sobering picture of generational anxiety. Just 20% of respondents expect to retire between ages 65 and 67. Meanwhile, 19% expect to push their exit date to 68 or later, and another 19% have resigned themselves to the possibility that they may never stop working. More than half—52%—worry they have fundamentally failed to save enough money, and 61% report feeling less financially secure today than they originally anticipated at this stage of life.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

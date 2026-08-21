@@ -34,7 +34,7 @@ source_url: 'https://finance.yahoo.com/energy/article/asian-refiners-ask-pick-sa
 <p>Geopolitical friction in the Middle East has officially collided with corporate balance sheets. Recent attacks on tankers and energy infrastructure by Iran-backed Houthi militants in the Red Sea region have drastically raised risk profiles for shipowners and cargo handlers. In response to these mounting dangers, major Asian refiners are pushing back against Saudi Aramco's requests to pick up their contracted crude oil at Yanbu on the Red Sea.</p>
 <p>For months, Yanbu served as a crucial logistical pivot for Saudi Arabia, allowing the kingdom to maintain high-volume crude shipments while conflict snarled traffic through the Strait of Hormuz and choked off traditional Persian Gulf pathways. But as insurance premiums surge and vessel operators refuse to navigate the perilous Bab el-Mandeb strait at the southern end of the Red Sea, the economics of moving oil have shifted dramatically. At least two major Asian refiners have formally asked Aramco for permission to take delivery at Egypt's Mediterranean port of Sidi Kerir instead, trading one set of logistical headaches for another.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

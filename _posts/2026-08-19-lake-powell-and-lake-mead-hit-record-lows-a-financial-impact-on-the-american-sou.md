@@ -93,7 +93,7 @@ source_url: "https://www.azfamily.com/2026/08/18/lake-powell-lake-mead-hit-recor
     <h2>What Happened in the Colorado River Basin?</h2>
     <p>Lake Powell and Lake Mead have hit record lows, driven by a relentless three-decade drought, persistent overuse, and changing climatic patterns. These two massive bodies of water sustain the lower half of the Colorado River basin, serving as the literal lifeblood for municipal utilities, agricultural hubs, and electrical grids across the American Southwest.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -37,7 +37,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/19/darline-graham-deba
 
   <p>She doubled down moments later, emphasizing her outsider status: &ldquo;I&#8217;m not a polished politician up here. National security is not my thing, not my area of expertise, but I do support the military.&rdquo; Her opponent, Ralph Norman, faced no such stumbling block, smoothly navigating Taiwan's economic ties and geopolitical significance. Yet, Graham's unfiltered admission immediately dominated headlines, throwing the primary race into unpredictable territory just days before early voting.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -45,14 +45,14 @@ Tactical Waterproof Backpack
   <h2 id="political-stakes" style="font-size: 1.5rem; font-weight: 700; color: #1a202c; margin-top: 40px; margin-bottom: 15px;">The Contrast Between Polish and Plain Truth</h2>
   <p>In modern electoral politics, admission of ignorance is widely treated as a fatal operational error. Candidates spend millions of dollars and countless hours media-training to ensure they never utter the phrase &ldquo;I don't know.&rdquo; Every global flashpoint, economic indicator, and legislative nuance is supposed to be met with immediate, confident expertise, even when that expertise is superficial.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
   <p>Ralph Norman leaned heavily into traditional political fluency, discussing Taiwan's strategic value and critiquing broader administration policies in the Middle East. Meanwhile, Graham's campaign has rested largely on Donald Trump&#8217;s endorsement and her own personal story of navigating hardship, including her family's reliance on social security survivor benefits following the death of her parents. When she stumbled on foreign policy, she refused to fake competence. That choice highlights a profound tension in how we evaluate leaders: do we demand the comforting illusion of omniscience, or is there hidden value in radical, unvarnished honesty?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -65,14 +65,14 @@ Seagate Portable External Hard Drive
   <h2 id="faith-perspective" style="font-size: 1.5rem; font-weight: 700; color: #1a202c; margin-top: 40px; margin-bottom: 15px;">A Faith and Scripture Perspective on Honesty and Wisdom</h2>
   <p>When viewed through a biblical lens, political debates and high-stakes elections are ultimately about stewardship, truth, and the condition of the human heart. Scripture has much to say about the danger of false posturing and the quiet power of speaking plain truth, even when it carries a social or professional cost.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
   <p>Proverbs 12:22 reminds us: <em>&ldquo;The Lord detests dishonest lips, but he delights in people who are trustworthy.&rdquo;</em> In a political culture saturated with spin, talking points, and calculated evasions, hearing a candidate confess a limitation can feel jarring. While national security is a grave and complex responsibility requiring deep wisdom and preparation, there is a distinct moral difference between acknowledging a current lack of knowledge and willfully deceiving the public.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -84,7 +84,7 @@ Seagate Portable External Hard Drive
 
   <p>At the same time, biblical wisdom also places a high premium on preparedness, counsel, and understanding. Proverbs 19:2 notes, <em>&ldquo;Desire without knowledge is not good—how much more will hasty feet miss the way!&rdquo;</em> True leadership requires more than mere sincerity; it demands diligence, a willingness to learn, and the capacity to shoulder heavy burdens with sound judgment. Darline Graham's candid admission opens an important conversation for voters: can an outsider's humility compensate for a deficit in policy expertise, or does the weight of national leadership demand mastery from day one?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -101,7 +101,7 @@ Tactical Waterproof Backpack
   <h2 id="voter-response" style="font-size: 1.5rem; font-weight: 700; color: #1a202c; margin-top: 40px; margin-bottom: 15px;">How Should Christians Respond?</h2>
   <p>For voters navigating this primary and similar political choices across the country, moments like this invite careful discernment rather than reactive outrage. Here are concrete ways to process such events thoughtfully:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

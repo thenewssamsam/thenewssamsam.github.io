@@ -158,7 +158,7 @@ source_url: 'https://www.nbcnews.com/politics/national-security/russia-shipping-
   <h2>What Happened</h2>
   <p>According to a European government document obtained by NBC News and verified by a Western official, Russia has stepped up military logistics operations directed toward Iran. The shipments—consisting of essential explosive materials like TNT, ammunition, and specialized components for drone manufacturing—are moving through the Caspian Sea.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

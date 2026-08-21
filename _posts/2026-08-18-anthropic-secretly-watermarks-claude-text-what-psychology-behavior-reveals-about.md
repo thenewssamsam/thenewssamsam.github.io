@@ -32,7 +32,7 @@ source_url: 'https://www.androidauthority.com/how-claude-watermarks-text-3699100
 <p>Anthropic has pulled back the curtain on how its AI assistant, Claude, embeds invisible watermarks into generated text. Utilizing a text-adapted version of Google DeepMind's SynthID technology, the system operates by subtly steering "low-stakes" choices between synonymous words during generation—such as choosing between "overcast" and "grey" when describing weather.</p>
 <p>According to Anthropic's technical breakdown, these choices leave a mathematical pattern that is entirely imperceptible to human readers. However, anyone possessing the correct decryption key can test text to determine the statistical likelihood that Claude contributed to it. Crucially, the system does not alter the meaning or quality of the text, requires no extra tokens, and avoids inserting hidden unicode characters.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

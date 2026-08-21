@@ -39,7 +39,7 @@ source_url: "https://www.nbcboston.com/news/local/lindsay-clancy-trial-day-15-li
   <p>During Day 15 of the proceedings stemming from the tragic events of January 24, 2023, in Duxbury, Massachusetts, jurors observed detailed testimony from forensic pathologists and defense psychiatric experts. The prosecution previously rested its case after arguing that Lindsay Clancy strangled her three young children—Cora, Dawson, and Callan—before jumping from a second-story window, an act resulting in her paralysis.</p>
   <p>The defense team, having begun presenting its witnesses earlier in the week, has focused heavily on establishing that Clancy was suffering from severe bipolar disorder and postpartum psychosis at the time, arguing she should not be held criminally responsible. Tuesday's session featured courtroom arguments over contentious lines of questioning, expert psychological analysis, and architectural reconstructions of the home.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -53,13 +53,13 @@ Tactical Waterproof Backpack
   <h2>A Health and Wellness Perspective on Postpartum Illness</h2>
   <p>Cases like this often evoke intense emotional reactions, bringing complex discussions around mental health into the public sphere. From a health and wellness standpoint, it is vital to distinguish between normal postpartum emotional adjustments and extreme, rare psychiatric emergencies such as postpartum psychosis.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
   <p>While the "baby blues" affect a large percentage of new parents and typically resolve independently, conditions like postpartum depression and postpartum psychosis represent clinical conditions requiring immediate medical intervention. Postpartum psychosis involves symptoms such as severe mood swings, confusion, delusions, and hallucinations, representing a medical emergency that impairs a person's grasp on reality.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -70,7 +70,7 @@ Seagate Portable External Hard Drive
 
   <p>Public trials touching on these issues remind us that mental health awareness goes beyond everyday stress management. Recognizing warning signs early and fostering open conversations without stigma remain critical components of community wellness and maternal health care.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -88,7 +88,7 @@ Seagate Portable External Hard Drive
   <h2>Navigating Emotional Distress and Seeking Help</h2>
   <p>High-profile news coverage of traumatic court cases can sometimes trigger feelings of anxiety, distress, or secondary trauma in readers. Taking care of one's own mental well-being is an essential step when consuming heavy news cycles.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -99,7 +99,7 @@ Seagate Portable External Hard Drive
   </ul>
   <p>If you or someone you know is experiencing overwhelming emotional distress or thoughts of self-harm, please reach out for immediate support. In the United States, you can call or text the Suicide & Crisis Lifeline at 988.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -140,7 +140,7 @@ Tactical Waterproof Backpack
 <section class="ncg-bible-reflection" style="margin: 20px 0; padding: 15px; background: #fafafa; border-left: 3px solid #6c757d;">
   <p>Reflecting on human pain and the quiet struggles that often go unnoticed behind closed doors makes me think about the comfort found in quiet strength and compassion. One lesson is that we are often unaware of the heavy burdens others carry in silence. As Scripture reminds us, <q>Cast all your anxiety on him because he cares for you</q> (1 Peter 5:7, NIV). In moments of profound distress, seeking community support and extending grace to one another remains a vital part of our shared humanity.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

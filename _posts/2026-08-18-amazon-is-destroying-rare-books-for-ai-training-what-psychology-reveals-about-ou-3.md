@@ -59,7 +59,7 @@ source_url: 'https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-
   <p>For decades, Amazon built an empire on the distribution of books, promising to make the world's literature easily accessible to anyone with an internet connection. But a recent investigative report by 404 Media has uncovered a startling reality: the retail and cloud giant is systematically acquiring rare books, stripping away their bindings, and feeding them into digital scanners to train massive artificial intelligence models.</p>
   <p>The operation was tracked when reporters placed a tracking device inside a rare book, which ultimately ended up at an Amazon facility in Las Vegas designated as VGT3. Interestingly, the facility reportedly identifies itself with a symbol of a dinosaur holding a book in its claws—an unintentionally apt mascot for a process turning ancient, irreplaceable physical heritage into digital fuel. When questioned, Amazon issued a statement noting that it purchases books through commercial channels to improve customer products and services.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

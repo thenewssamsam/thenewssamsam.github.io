@@ -49,7 +49,7 @@ Among the notable casualties were Wyoming gubernatorial candidate Megan Degenfel
 As political analysts sift through the data points, it becomes increasingly clear that primary voters are exercising their independent judgment with greater frequency. Whether driven by local issues, fatigue, or a desire for fresh representation, the electorate is showing that high-profile endorsements no longer guarantee automatic victory.
 </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -69,7 +69,7 @@ The Shifting Winds of Political Influence
 Political influence is often viewed as a permanent fixture by those who hold it, yet history demonstrates that public favor is remarkably fragile. When a leader enjoys widespread support, it is easy for both the figurehead and their followers to confuse popularity with permanence. Yet, the 2026 primaries highlight a growing disconnect between central party figures and grassroots voters who are registering discontent on key issues.
 </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -77,7 +77,7 @@ Tactical Waterproof Backpack
 Even public statements from leaders attempting to reframe losses—such as claiming they advised a candidate to step aside beforehand—reveal the delicate nature of managing political optics. When earthly power fluctuates so visibly, it invites observers to look past the immediate political theater and consider deeper truths about authority, ambition, and community expectations.
 </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -91,7 +91,7 @@ A Biblical Perspective on Human Power and Trust
 When political landscapes shift overnight, it is easy for observers to feel anxious or overly invested in the fortunes of earthly leaders. However, Scripture offers a steadying anchor amid the ever-changing tides of human governance. The Book of Psalms reminds us not to place our ultimate confidence in human power structures:
 </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -104,7 +104,7 @@ Seagate Portable External Hard Drive
 This passage does not tell us to ignore civic duty or participation; rather, it invites us to maintain proper perspective. Political endorsements, voting blocs, and electoral victories are temporary features of a fallen world. When leaders rise and fall, it serves as a gentle reminder that human capability has inherent limits.
 </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -119,7 +119,7 @@ Seagate Portable External Hard Drive
 Furthermore, Scripture cautions against the dangers of pride and self-reliance in leadership. Proverbs reminds us that human ambition is subject to a higher, sovereign order:
 </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -132,7 +132,7 @@ Tactical Waterproof Backpack
 Whether a candidate wins by a landslide or suffers an unexpected defeat, every election cycle underscores that ultimate control does not rest in campaign strategy or social media pronouncements. For believers, recognizing this truth brings a profound sense of peace. It frees us from putting undue anxiety into the outcomes of earthly contests and directs our attention toward eternal principles of justice, mercy, and truth.
 </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -152,7 +152,7 @@ How Should Christians Respond?
 Electoral surprises and shifting political power can easily stir up division, frustration, or fear among citizens. How, then, should followers of Christ navigate these moments?
 </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

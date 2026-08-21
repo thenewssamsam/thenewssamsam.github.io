@@ -40,7 +40,7 @@ source_url: "https://www.foxnews.com/opinion/morning-glory-scotus-should-urgentl
     <p>The controversy centers on ongoing construction to replace the aging East Wing of the White House, originally built in 1902 and expanded under President Franklin D. Roosevelt in 1942 to include underground command and control spaces like the Presidential Emergency Operations Center. With modern security threats evolving rapidly over recent decades—including sophisticated drone technology, hypersonic missile capabilities, and persistent threats from state-sponsored adversaries—federal officials initiated plans to modernize these facilities.</p>
     <p>However, the National Trust for Historic Preservation brought a legal challenge, leading U.S. District Judge Richard Leon and a panel of the U.S. Court of Appeals for the District of Columbia Circuit to impose restrictive schedules and oversight on the replacement structure. In response, the Department of Justice filed an emergency application with Supreme Court Chief Justice John Roberts, asking the high court to stay the lower court orders and allow construction to move forward while the underlying litigation proceeds.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -50,7 +50,7 @@ Seagate Portable External Hard Drive
     <h2>A Legal Rights Explainer: Standing, Separation of Powers, and Executive Authority</h2>
     <p>To understand why this dispute has reached the nation's highest court, it helps to examine three fundamental pillars of American constitutional law: legal standing, the separation of powers, and the Commander-in-Chief clause.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -58,7 +58,7 @@ Seagate Portable External Hard Drive
     <h3 class="ncg-h3">1. The Threshold Question of Legal Standing</h3>
     <p>Under Article III of the Constitution, federal courts only have jurisdiction to hear actual "cases and controversies." To bring a lawsuit, a plaintiff must demonstrate concrete legal standing: injury in fact, causation, and redressability. In challenges brought by preservationist groups against executive branch operations on federal property, legal scholars have long debated whether plaintiffs suffer the kind of direct, concrete harm required to override executive operational decisions, or whether such lawsuits improperly turn courts into general supervisors of government property.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -66,7 +66,7 @@ Seagate Portable External Hard Drive
     <h3 class="ncg-h3">2. Separation of Powers and Judicial Micromanagement</h3>
     <p>The doctrine of separation of powers prevents one branch of government from usurping the core functions of another. While the judiciary holds the power to interpret laws and review agency compliance with statutes like the National Historic Preservation Act, critics of the lower court orders argue that judicial oversight crossed the line into micromanagement. Directing a sitting president on the specific architectural details, schedules, and design of his official residence and adjacent national security command structures touches directly upon executive functions.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -80,7 +80,7 @@ Seagate Portable External Hard Drive
     <h3 class="ncg-h3">3. The Commander-in-Chief Clause and National Security Powers</h3>
     <p>Article II, Section 2 of the Constitution designates the president as Commander-in-Chief of the Army and Navy. Constitutional jurisprudence has consistently recognized that this grant includes inherent, necessary authority to command military forces and secure executive facilities against evolving foreign threats. When statutory preservation statutes clash with immediate national security needs at the primary command node of the executive branch, constitutional principles of self-preservation and executive autonomy carry immense weight.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -99,13 +99,13 @@ Tactical Waterproof Backpack
     <h2>Wisdom, Order, and Protection</h2>
     <p>When evaluating matters of public safety, civic order, and the duties of leadership, I am often reminded that governance and security are not merely political constructs, but essential duties of stewardship. The Apostle Paul reminds believers in Romans 13:4 that civil authorities serve as ministers for good and instruments of justice against peril: <q>For the one in authority is God's servant for your good. But if you do wrong, be afraid, for rulers do not bear the sword for no reason. They are God's servants, agents of wrath to bring punishment on the wrongdoer.</q></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>Similarly, Proverbs 21:31 reminds us that practical preparedness and diligence matter in a dangerous world: <q>The horse is made ready for the day of battle, but victory rests with the Lord.</q> These reflections invite us to consider that maintaining a secure environment for leadership is an inherent part of protecting the broader community from harm.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

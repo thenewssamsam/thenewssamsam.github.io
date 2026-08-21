@@ -25,7 +25,7 @@ source_url: 'https://www.cbsnews.com/news/microsoft-manager-murder-jared-bridega
 
   <p>While juries weigh the evidence, the testimony, and the financial paper trail involving a ,000 payment to a former tenant, a deeper, uncomfortable question lingers outside the courtroom: How does a family dispute over school conferences and religious differences escalate into an alleged murder plot? Looking through the lens of psychology and human behavior offers a chilling roadmap of how high-conflict separations can short-circuit normal emotional regulation.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

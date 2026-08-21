@@ -27,19 +27,19 @@ source_url: "https://www.foxnews.com/politics/iran-fails-strike-deal-us-deadline
   <h2 id="historical-parallels">A Historical Parallel Perspective: Choke Points and Ultimatum Politics</h2>
   <p>History rarely repeats itself neatly, but it loves to rhyme, particularly when great powers clash over geography and pride. The central friction point in the current crisis is not just ideology; it is a physical geography problem: the Strait of Hormuz. Throughout history, the nation or empire that controls a vital maritime choke point holds a knife to the throat of global commerce.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
   <p>We can look back to ancient Athens and the Megarian Decree, or more closely to the 19th-century European struggles over access to strategic straits like the Dardanelles and Bosphorus, where declining empires and rising hegemons routinely collided over navigation rights. In those eras, as today, maritime blockades were deployed not just to starve an enemy of supplies, but to break their institutional will.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
   <p>Yet history also warns us about the trap of the absolute ultimatum. When a leader demands unconditional surrender or total capitulation, it often produces the exact opposite effect intended. Psychologically and politically, cornered regimes frequently choose protracted suffering over public humiliation. As historian Barbara Tuchman illustrated in her classic analyses of political folly, leaders often lock themselves into escalation paths because backing down feels more catastrophic than pressing forward—regardless of the material cost.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -51,19 +51,19 @@ Seagate Portable External Hard Drive
   <h2 id="biblical-reflection">Wisdom from the Ancients: Pride, Power, and Conflict</h2>
   <p>Long before modern intelligence briefings and naval blockades, ancient writers observed the grim mechanics of human conflict and national pride. The Hebrew Scriptures repeatedly examine the dangerous interplay between human ambition and the illusions of absolute control.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
   <p>Proverbs 16:18 offers a timeless diagnostic for political stalemates: <em>"Pride goes before destruction, a haughty spirit before a fall."</em> In times of international crisis, both sides of a conflict are frequently convinced that their righteousness and military superiority will force the other to blink first. Yet Proverbs 21:30 reminds us of the limits of human strategy: <em>"There is no wisdom, no insight, no plan that can succeed against the Lord."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
   <p>This perspective invites us to look past the political posturing and consider the heavy human cost borne by ordinary people caught in the machinery of war. Scripture continually points away from the arrogance of empires toward humility, justice, and the sobering reality that military might alone cannot secure lasting peace or heal broken trust.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -71,7 +71,7 @@ Seagate Portable External Hard Drive
   <h2 id="how-to-respond">How Should Readers Respond?</h2>
   <p>When international crises flare up, it is easy to feel entirely helpless under the weight of geopolitical headlines. However, thoughtful engagement begins with grounding ourselves in reality rather than panic:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

@@ -27,7 +27,7 @@ source_url: "https://www.foxnews.com/politics/trumps-support-doesnt-save-scandal
 
 <p>The defeat follows months of mounting pressure. Bipartisan friction inside the House saw lawmakers like Rep. Nancy Mace push for censures and investigations, turning Mills into a central flashpoint for congressional conduct. For parents watching the news cycle unfold with their children in the room, the race offers much more than a political scoreboard. It presents an opening to talk about accountability, character, and the very real consequences of our actions.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -40,14 +40,14 @@ Seagate Portable External Hard Drive
 <h2 id="parenting-perspective">A Parenting &amp; Family Perspective: Navigating the Politics of Spin</h2>
 <p>In homes across America, discussions around kitchen tables often touch on public figures behaving badly. When leaders stumble under the weight of scandals, it forces parents into a delicate balancing act. How do we explain these headlines to kids without breeding total cynicism about public service?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>The Cory Mills race highlights a timeless parental lesson: shortcuts don't replace character. On the campaign trail, Mills attempted to use a powerful political endorsement as a shield against mounting ethical questions. In everyday life, children often try a parallel tactic—using popularity, excuses, or charm to avoid facing the music when they break a rule. This moment reminds us that while powerful friends might offer temporary cover, true accountability always catches up.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -59,7 +59,7 @@ Seagate Portable External Hard Drive
 
 <p>Here are a few age-appropriate ways to frame these conversations with young people:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -76,14 +76,14 @@ Tactical Waterproof Backpack
 <h2 id="scripture-reflection">Wisdom on Truth and Transparency</h2>
 <p>When public scandals unfold day after day, it's easy to grow weary of shifting narratives and broken trust. This makes me think about the timeless wisdom found in Scripture regarding integrity and hidden actions coming to light. Proverbs 10:9 reminds us, "Whoever walks in integrity walks securely, but whoever takes crooked paths will be found out."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>I'm reminded that truth has a way of surfacing, no matter how much spin or high-stakes backing is applied to cover it up. For families striving to build homes rooted in honesty, this news story serves as a quiet encouragement: living uprightly is always the safest and most enduring path, even when shortcuts look tempting.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -96,7 +96,7 @@ Seagate Portable External Hard Drive
 <h2 id="how-families-should-respond">How Families Should Respond</h2>
 <p>Instead of letting political cynicism take root at the dinner table, parents can use events like the Cory Mills primary defeat to reinforce positive family values:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -114,7 +114,7 @@ Tactical Waterproof Backpack
 <h2 id="closing-takeaway">One Last Thought</h2>
 <p>Political endorsements come and go, but the quiet habits built inside our homes last a lifetime. The defeat in Florida's 7th District is a stark reminder that labels and power cannot override a deficit of trust. By teaching our children to value substance over spin, we help them grow into adults who stand firm when the spotlight shines hardest.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

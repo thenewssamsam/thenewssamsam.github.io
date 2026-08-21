@@ -39,7 +39,7 @@ source_url: 'https://www.syracuse.com/us-news/2026/08/farmer-gives-6-word-respon
 <p>In an era where tech companies routinely buy up large tracts of rural land to power the next generation of artificial intelligence, one family's choice made national headlines. Delsia Bare and her mother, Ida Huddleston, initially agreed to sell their Kentucky property for a combined total of  million. But once they discovered the land would host a sprawling data center to fuel machine learning infrastructure, they pulled out of the deal completely.</p>
 <p>Bare's response to the prospective buyers was blunt and unforgettable: <q class="ncg-inline-quote">Kick rocks and don’t come back.</q></p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

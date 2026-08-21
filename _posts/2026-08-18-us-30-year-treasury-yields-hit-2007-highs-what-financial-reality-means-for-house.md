@@ -116,7 +116,7 @@ source_url: 'https://finance.yahoo.com/markets/currencies/articles/us-bond-sello
 <h2 id="what-happened">What Happened in the Bond Market?</h2>
 <p>According to recent financial reports, the rate on the benchmark 30-year US Treasury bond—often called the "long bond"—ticked up three basis points to 5.29 percent. This move extends a bruising selloff that forced the US Treasury to auction  billion in new 30-year bonds at a yield of 5.216 percent, the highest financing cost for such a sale since 2001. Just a day prior, the 10-year Treasury auction drew its highest financing costs since 2007.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -26,7 +26,7 @@ source_url: 'https://abc7ny.com/post/amtrak-reopens-east-river-tunnel-line-damag
   <p>The milestone was celebrated Monday with a press conference and ceremonial train ride at Penn Station. The newly rehabilitated tunnel tube, originally opened in 1910, underwent a grueling yearlong modernization after being stripped down completely to its concrete liner.</p>
   <p>During the closure, crews installed entirely new track, drainage systems, modern power grids, communications networks, and state-of-the-art life safety systems. The project's completion marks the halfway point for Amtrak's rehabilitation of the two tubes damaged during Superstorm Sandy in 2012. While Lines 3 and 4 remain untouched, Line 1 is scheduled to undergo a similar overhaul beginning this fall, running through the end of 2027.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

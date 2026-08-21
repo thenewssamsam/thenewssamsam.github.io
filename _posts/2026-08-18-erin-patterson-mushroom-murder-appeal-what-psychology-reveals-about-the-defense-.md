@@ -34,7 +34,7 @@ source_url: 'https://www.rte.ie/news/world/2026/0817/1588163-erin-patterson-appe
 
 <p>Over a two-day hearing before three judges at the Court of Appeal in Melbourne, legal counsel for 51-year-old Erin Patterson will attempt to prove that her original trial was marred by substantial miscarriages of justice. Patterson, participating via live video link from the maximum-security Dame Phyllis Frost Centre, claims the trial judge erred in admitting prejudicial evidence—such as Facebook messages and cell tower data—while wrongly excluding other digital files found on her home memory card. Her defense also points to an unspecified fundamental irregularity during jury sequestration that allegedly undermined the verdicts, alongside complaints of an unfair prosecution cross-examination.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

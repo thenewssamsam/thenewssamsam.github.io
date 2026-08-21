@@ -150,7 +150,7 @@ source_url: 'https://www.mercurynews.com/2026/08/16/eataly-san-jose-santa-clara-
     
     <p>Last week, routine oversight met unexpected reality at the popular Santa Clara culinary hub. According to reports from the Santa Clara County Environmental Health Department, inspectors visiting the facility on Friday midday found a live cockroach crawling on the wall above a kitchen hand wash sink in the Terra restaurant, along with dead cockroaches in the same area.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

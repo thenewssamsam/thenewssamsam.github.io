@@ -33,7 +33,7 @@ source_url: "https://apnews.com/article/polling-poll-fake-median-karen-bass-los-
 
 <p>The controversy began when Median Strategies published numbers showing incumbent Mayor Karen Bass leading progressive challenger Nithya Raman by roughly 12 points in the Democratic primary. Major independent aggregators like The New York Times and FiftyPlusOne immediately ignored the data because it lacked basic methodological transparency—such as response rates, voter file sources, and transparent sample vendors. However, social media aggregation accounts and even the Bass campaign amplified the findings before independent verification could occur.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -44,7 +44,7 @@ Tactical Waterproof Backpack
 
 <p>Days later, Median Strategies admitted the numbers were entirely fake, shuttering its website without revealing who funded the project or whether individuals profited from immediate shifts on prediction markets like Kalshi and Polymarket. Veteran pollsters noted that it has never been easier to make manufactured numbers look legitimate, giving campaigns and outside actors strong incentives to amplify favorable metrics before anyone checks the methodology.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -53,14 +53,14 @@ Tactical Waterproof Backpack
 
 <p>While the digital distribution tools are new, the strategy of deploying fake intelligence to sway public opinion is as old as representative government itself. In nineteenth-century American politics, partisan newspapers routinely published forged letters and invented statistics to demoralize opposing factions long before modern polling existed.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>A classic historical parallel can be found in the "whisper campaigns" and forged broadsides of the 19th and early 20th centuries, where anonymous pamphleteers manufactured fake endorsements or fabricated straw polls to create an illusion of inevitability. Just as nineteenth-century readers struggled to verify the origin of anonymous broadsheets dropped on tavern doorsteps, today's digital citizens face an onslaught of sleek, professional-looking graphics that mimic legitimate research firms.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -75,7 +75,7 @@ Tactical Waterproof Backpack
 
 <p>History shows that whenever a new medium for measuring public sentiment emerges—whether it was early straw polls in the 1800s, televised polling in the 1950s, or online prediction markets today—bad actors immediately find ways to game the system. The danger lies not simply in a single fake poll, but in the erosion of public trust that follows every such revelation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -84,7 +84,7 @@ Tactical Waterproof Backpack
 
 <p>What makes the Median Strategies episode uniquely troubling is its intersection with financial prediction markets. Within minutes of the false data being posted, trading volume spiked on platforms like Kalshi and Polymarket, with contract prices for Mayor Bass shifting slightly. Although the financial movements were relatively small, they demonstrate how unvetted claims can instantly ripple into financial instruments before fact-checkers can intervene.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -95,7 +95,7 @@ Seagate Portable External Hard Drive
 
 <p>Independent pollsters emphasize that public opinion polling is an industry built entirely on trust and transparency. When anonymous groups inject noise into the information ecosystem under the guise of an "experiment," they inflict collateral damage on professional pollsters who spend considerable resources ensuring methodological rigor.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -104,7 +104,7 @@ Tactical Waterproof Backpack
 
 <p>This modern scramble for favorable narratives often stems from a deep-seated human desire for validation and control. Yet, Scripture offers a timeless warning about the dangers of leaning on falsehoods for strategic advantage. Proverbs 12:22 tells us, "Lying lips are an abomination to the Lord, but those who act faithfully are his delight." Furthermore, Ephesians 4:25 reminds believers to "put away falsehood and speak the truth each one with his neighbor." In an era dominated by rapid information sharing, these ancient words invite us to pause, seek genuine integrity, and refuse to amplify unverified claims simply because they happen to align with our preferences.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -126,7 +126,7 @@ Tactical Waterproof Backpack
 <h3>One Last Thought</h3>
 <p>The Median Strategies fake poll fiasco is a stark reminder that in an age of instant digital noise, skepticism is a civic duty. When we prioritize emotional confirmation over rigorous truth, we invite manipulation into our public square. True discernment requires patience, verification, and an unwavering commitment to facts over convenience.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

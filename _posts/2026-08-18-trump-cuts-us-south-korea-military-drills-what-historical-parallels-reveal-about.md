@@ -36,7 +36,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/17/first-thing-trump-c
     <p>President Donald Trump has ordered Defense Secretary Pete Hegseth to substantially reduce joint US military exercises with South Korea. The decision, announced amid ongoing security concerns on the Korean Peninsula, directly bypasses warnings from military officials in both Washington and Seoul who argue that North Korea's regime is actively studying new battlefield tactics emerging from the war in Ukraine.</p>
     <p>According to reports, Trump cited his personal relationship with North Korean leader Kim Jong-un as a core driver for the shift. Calling the joint drills costly and describing them as a signal that is "totally inappropriate and hostile" to an unthreatening Pyongyang, the administration has chosen to pivot away from routine show-of-force maneuvers. For defense analysts, regional allies, and observers watching the fragile security architecture of East Asia, the move represents a striking departure from decades of conventional deterrence strategy.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

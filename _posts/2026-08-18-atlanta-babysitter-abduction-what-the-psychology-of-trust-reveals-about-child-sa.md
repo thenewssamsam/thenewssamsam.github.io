@@ -24,7 +24,7 @@ source_url: 'https://www.ajc.com/news/2026/08/2-young-atlanta-girls-might-have-b
 
 <p>Yet behind the immense relief of a safe recovery lies a chilling reminder of a different kind of danger—one that doesn't fit the classic "stranger in the bushes" narrative. According to Atlanta Police Homicide Unit Commander Lt. Christapher Butler, Brown had deliberately cultivated trust with the girls' mother before Saturday night's disappearance. That detail forces us to look past simple stranger anxiety and examine a much more complex psychological reality: how human beings evaluate safety, why manipulative actors succeed in gaining confidence, and what parents can do when trust is weaponized.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -35,7 +35,7 @@ source_url: 'https://cbs12.com/news/cbs12-news-i-team/florida-primary-election-n
     <h2>What Happened in the Primary Preview</h2>
     <p>Florida’s primary election cycle is reaching its climax, and the spotlight is firmly fixed on the race for governor. According to recent reports and polling data from CBS 12 News, the Republican and Democratic primaries are rapidly narrowing toward a high-profile general election faceoff between GOP Congressman Byron Donalds and former Republican-turned-Democrat David Jolly.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -31,7 +31,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/live-blog/elections-
   <div class="ncg-quote-box">
     <p>&ldquo;Primary nights remind us that local politics is deeply personal; voters are looking past national endorsements to evaluate who truly understands their everyday community challenges.&rdquo;</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -42,7 +42,7 @@ Seagate Portable External Hard Drive
     When major political shifts happen at the ballot box, the ripple effects are felt right down to city councils, county commissions, and local school boards. Focusing on Florida's local and regional dynamics, these primary results highlight a growing desire among voters for candidates who address hyper-local issues such as infrastructure, housing affordability, and community safety.
   </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -50,7 +50,7 @@ Seagate Portable External Hard Drive
     In districts like the 7th and 19th, where congressional primary upsets occurred, local voters are signaling fatigue with political theater and controversies. Whether it is local conservative talk radio station owner Jim Schwartzel winning the Republican nomination in the 19th District or grassroots enthusiasm powering Angie Nixon's Senate primary win, communities are increasingly demanding representatives who are deeply embedded in regional concerns rather than relying solely on national brand recognition.
   </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -58,7 +58,7 @@ Seagate Portable External Hard Drive
     Furthermore, strategists note that statewide races like the Donalds-Jolly gubernatorial contest will force candidates to speak directly to the diverse economic realities of South Florida, Central Florida, and the Panhandle. For residents, this means the coming months will bring intense debates over state-level funding, property insurance reform, and economic development initiatives that directly impact household budgets.
   </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -68,7 +68,7 @@ Seagate Portable External Hard Drive
     Political seasons often stir up anxiety, division, and uncertainty within our neighborhoods. Yet, moments of civic transition invite us to pause and reflect on the deeper responsibilities we share as neighbors and citizens. Scripture encourages us to seek the welfare of the communities where we are planted and to practice patience and kindness in our interactions. As Jeremiah 29:7 reminds us: &ldquo;Also, seek the peace and prosperity of the city to which I have carried you into exile. Pray to the Lord for it, because if it prospers, you too will prosper.&rdquo; This timeless wisdom calls us to look beyond partisan divides and focus on building resilient, supportive local communities.
   </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -76,7 +76,7 @@ Tactical Waterproof Backpack
     We are also reminded of the importance of humility in leadership. Proverbs 16:18 notes that &ldquo;pride goes before destruction, a haughty spirit before a fall,&rdquo; serving as a gentle caution for any leader entrusted with authority. True community strength comes not from division, but from mutual respect, attentive listening, and a shared commitment to the common good.
   </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -84,7 +84,7 @@ Tactical Waterproof Backpack
   <div class="ncg-product-card" style="border-left: 4px solid #f0c14b; background: #fdf8f2; padding: 15px; margin: 20px 0; border-radius: 4px;">
     <p><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B08N5KWB9H?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Righteous Mind: Why Good People Are Divided by Politics and Religion</a> - Gain a deeper understanding of the psychology behind political polarization and community division. </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -95,7 +95,7 @@ Tactical Waterproof Backpack
     Elections do not end when the primary ballots are counted; in many ways, that is when the real community work begins. Here are a few practical, constructive ways local residents can engage moving forward:
   </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

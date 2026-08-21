@@ -37,7 +37,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/stock-market-today-live-updates.htm
     <p>The new trading week got off to a difficult start on Wall Street. Dow Jones Industrial Average futures traded 73 points lower, while S&P 500 futures and Nasdaq-100 futures fell 0.32% and 0.59%, respectively. These declines follow a broader losing session where major benchmarks each dropped about 0.5%.</p>
     <p>International markets reflected a mixed picture. In Asia, South Korea's benchmark Kospi jumped 1.9%, whereas Japan's Nikkei 225 fell 0.94%, Hong Kong's Hang Seng slid 0.19%, and China's CSI 300 dipped 0.12%. The primary catalyst for the cautious sentiment in the U.S. centers on two converging forces: geopolitical friction in the Middle East and renewed inflation fears translating directly into bond market pressure.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -36,7 +36,7 @@ source_url: 'https://variety.com/2026/film/news/dwayne-johnson-disney-legend-d23
 <h2 id="what-happened">What Happened at D23?</h2>
 <p>During the Walt Disney Company’s D23 event, Dwayne Johnson was officially named a Disney Legend alongside entertainment heavyweights including Bob Iger, Anne Hathaway, and the Jonas Brothers. Presenter and co-star Emily Blunt introduced him with a revealing observation: she noted that the intimidating "walking suplex" bravado associated with "The Rock" is merely a performance, while the man underneath is unpretentious, gentle, and deeply curious.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -29,7 +29,7 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-r
         <h3>Myth: President Trump actively campaigned for Mills until the end.</h3>
         <p><strong>Fact:</strong> While Mills did receive an endorsement from President Trump in February, the former president notably omitted Mills from several social media endorsement lists in the days leading up to the Tuesday primary.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -37,7 +37,7 @@ Seagate Portable External Hard Drive
         <h3>Myth: Mills maintained the full support of Florida GOP leadership.</h3>
         <p><strong>Fact:</strong> Florida Governor Ron DeSantis explicitly stated late last week, "I have not endorsed Cory Mills, and I do not support Cory Mills," distancing the state party's executive leadership from the incumbent.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -45,7 +45,7 @@ Seagate Portable External Hard Drive
         <h3>Myth: The district is safely Republican regardless of the candidate.</h3>
         <p><strong>Fact:</strong> Due to ongoing scandals—including a House Ethics Committee investigation—the nonpartisan Cook Political Report downgraded the district from "solid Republican" to "likely Republican," signaling increased vulnerability.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -60,13 +60,13 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Truth and Integrity</h2>
     <p>In times of political upheaval, we are reminded of the importance of transparency and the weight of our character. The Bible teaches us that "The integrity of the upright guides them, but the unfaithful are destroyed by their duplicity" (Proverbs 11:3, NIV). This situation invites us to consider how public trust is built through consistency and honesty.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>It is also a moment to reflect on the nature of our choices. "For there is nothing hidden that will not be disclosed, and nothing concealed that will not be known or brought out into the open" (Luke 8:17, NIV). This reminds us that in both public and private life, the truth has a way of surfacing, and our actions inevitably shape the outcomes we face.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -85,7 +85,7 @@ Tactical Waterproof Backpack
     <h2>Closing Takeaway</h2>
     <p>The defeat of Cory Mills serves as a clear indicator that voters are weighing personal conduct and party unity alongside policy achievements. As Ryan Elijah moves forward to face Democrat Bale Dalton, the district remains a focal point for political analysts watching the shift from "solid" to "likely" status.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

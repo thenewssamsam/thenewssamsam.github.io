@@ -37,7 +37,7 @@ source_url: 'https://www.usatoday.com/story/money/2026/08/17/buc-ees-arkansas-op
 <p>The new Arkansas location represents the continuing march of Buc-ee's out of its Texas heartland and into the wider American landscape. Occupying a massive 74,000-square-foot footprint off the highway, the Benton facility features 120 fueling positions and is projected to inject over 200 jobs into the local economy with starting pay described by the company as well above minimum wage.</p>
 <p>For travelers, the arrival brings the brand's legendary pristine restrooms, colossal food counters, and sprawling merchandise aisles to a brand-new region. For economists and retail watchers, it signals the ongoing maturation of a company that has fundamentally redefined what consumers expect from a highway stop.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

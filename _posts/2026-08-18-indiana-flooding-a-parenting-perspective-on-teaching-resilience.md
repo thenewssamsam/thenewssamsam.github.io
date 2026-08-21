@@ -21,7 +21,7 @@ source_url: 'https://www.foxweather.com/weather-news/watch-drone-video-staggerin
     <h2>The Reality of the Indiana Floods</h2>
     <p>Historic flooding has left a trail of destruction across Indiana, with the White River surging to record-breaking levels near 25 feet in some areas. From the collapse of the Hazel Dell Parkway bridge in Hamilton County to the heartbreaking loss of seven lives, the impact of the recent storms is profound. As Governor Mike Braun coordinates state emergency resources and federal aid arrives, families across the region are left to process not just the physical damage, but the psychological weight of witnessing such a disaster.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

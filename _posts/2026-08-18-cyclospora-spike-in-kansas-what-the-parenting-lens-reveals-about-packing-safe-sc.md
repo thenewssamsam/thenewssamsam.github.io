@@ -36,7 +36,7 @@ source_url: 'https://www.kwch.com/2026/08/18/parents-urged-rethink-packed-lunche
 
 <p>Because the parasite has an incubation period of one to two weeks, health authorities caution that a child exposed on the very first day of school might not exhibit symptoms until the following week. While recalled items like <a href="https://truthbeyondheadlines.blogspot.com/" target="_blank" rel="noopener noreferrer">bagged lettuce</a> have been pulled from store shelves, officials emphasize that the source remains difficult to pin down entirely. This uncertainty leaves parents wondering how to navigate packing safe, nutritious midday meals without abandoning fresh fruits and vegetables altogether.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

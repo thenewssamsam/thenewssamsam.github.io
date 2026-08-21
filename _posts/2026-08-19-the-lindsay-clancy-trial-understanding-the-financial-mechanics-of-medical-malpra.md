@@ -23,7 +23,7 @@ source_url: "https://www.wbur.org/news/2026/08/17/prosecution-rests-murder-trial
     <div class="ncg-quote-box" style="border-left: 5px solid #2c3e50; background: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>"The financial reality of malpractice litigation in mental health is that it forces a public audit of clinical decisions, insurance coverage, and the systemic costs of managing severe postpartum conditions."</strong></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -31,7 +31,7 @@ Seagate Portable External Hard Drive
 
     <p>When patients or their families file malpractice suits, they are often seeking compensation for damages, which can include medical expenses, loss of income, and pain and suffering. However, for the healthcare system, these suits represent potential liability that leads to increased malpractice insurance premiums, which can eventually trickle down to affect the cost of care for all patients.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -39,7 +39,7 @@ Seagate Portable External Hard Drive
     <div class="ncg-product" style="border: 1px solid #ddd; padding: 10px; background: #fdfdfd; margin: 10px 0;">
       <p><strong>Financial Planning Guide:</strong> Managing High-Cost Legal and Medical Contingencies. <em></em> - <a href="#">View on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -50,14 +50,14 @@ Seagate Portable External Hard Drive
     <h2>A Perspective on Stewardship and Truth</h2>
     <p>In the midst of such profound tragedy, we are reminded of the value of human life and the heavy weight of responsibility. Proverbs 21:3 reminds us: <em>"To do righteousness and justice is more acceptable to the Lord than sacrifice."</em> This verse invites us to consider that true justice isn't just about financial settlements, but about the pursuit of truth and the protection of the vulnerable.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>Furthermore, 1 Peter 4:10 encourages us: <em>"Each of you should use whatever gift you have received to serve others, as faithful stewards of God’s grace in its various forms."</em> This is a sobering reminder that those in the medical profession are entrusted with the stewardship of human lives. When that trust is broken, or when the system fails to provide adequate care, the consequences are devastating. We are called to pray for wisdom for those in the legal and medical systems, that they might act with integrity and compassion in the face of such overwhelming grief.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -67,7 +67,7 @@ Tactical Waterproof Backpack
     <h3>The Cost of Care and Liability</h3>
     <p>The defense in the Clancy trial has noted that medication adherence and specific diagnoses are key points of contention. From a financial perspective, this highlights the "standard of care" debate. When a provider is sued, the burden of proof rests on demonstrating that the care provided deviated from established medical protocols.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -75,7 +75,7 @@ Tactical Waterproof Backpack
     <div class="ncg-product" style="border: 1px solid #ddd; padding: 10px; background: #fdfdfd; margin: 10px 0;">
       <p><strong>Professional Notebook:</strong> Tracking Medical Records and Appointments. <em></em> - <a href="#">View on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -83,7 +83,7 @@ Tactical Waterproof Backpack
 
     <p>These cases also highlight the financial strain on the mental health system. Providing high-intensity inpatient care, such as the stay at McLean Hospital, requires significant resources. When these resources are deemed insufficient, the resulting legal fallout can be catastrophic for both the patient's family and the institution involved.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -93,7 +93,7 @@ Tactical Waterproof Backpack
     <h2>How Should Readers Respond?</h2>
     <p>While this trial is a specific, tragic event, it serves as a reminder to be proactive regarding healthcare financial and medical planning:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

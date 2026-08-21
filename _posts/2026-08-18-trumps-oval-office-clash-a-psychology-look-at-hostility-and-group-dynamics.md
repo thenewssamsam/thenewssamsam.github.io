@@ -20,7 +20,7 @@ source_url: 'https://timesofindia.indiatimes.com/world/us/youre-loud-boisterous-
   <section id="introduction">
     <p>A recent Oval Office event intended to honor a young hero took a sharp turn when President Donald Trump engaged in a heated confrontation with a CNN reporter. The exchange, which saw the President label the reporter "loud" and "fake news," offers more than just a political headline; it provides a window into the psychological mechanics of high-pressure public discourse.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

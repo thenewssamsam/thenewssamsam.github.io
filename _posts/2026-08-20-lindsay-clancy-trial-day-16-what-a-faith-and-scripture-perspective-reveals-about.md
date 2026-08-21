@@ -45,7 +45,7 @@ source_url: 'https://www.nbcboston.com/news/local/lindsay-clancy-trial-day-16-li
     
     <p>The defense maintains that Clancy was entirely divorced from reality due to medical complications and psychiatric overload, arguing she should not be held criminally responsible. Meanwhile, prosecutors press forward with accountability for the lives lost. For families watching from home, the details are nothing short of agonizing.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -60,14 +60,14 @@ Seagate Portable External Hard Drive
     <h2 style="font-size: 1.5rem; color: #2d3748; border-bottom: 1px solid #edf2f7; padding-bottom: 8px; margin-bottom: 15px;">A Biblical Perspective on Mental Anguish</h2>
     <p>When society witnesses a mind pushed to such catastrophic extremes, it challenges simplistic worldviews. We often want neat boxes for human behavior—good versus evil, intentional malice versus innocence. Yet Scripture reveals a fallen world where human biology, mental capacity, and spiritual warfare intersect in deeply complex ways.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>The Bible does not shy away from the reality of deep mental suffering and despair. Figures throughout Scripture experienced profound psychological and emotional distress, demonstrating that a broken mind is part of the physical curse of a fallen creation, not always a direct reflection of a person's moral standing.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -78,7 +78,7 @@ Seagate Portable External Hard Drive
     
     <p>This verse reminds us that even in places of unspeakable darkness and mental fracture, God's compassion does not fail. While human courts must determine legal responsibility based on evidence and statute, a biblical lens looks upon the situation with profound sorrow, recognizing that severe illness can distort reality to a terrifying degree.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -93,7 +93,7 @@ Seagate Portable External Hard Drive
     <h2 style="font-size: 1.5rem; color: #2d3748; border-bottom: 1px solid #edf2f7; padding-bottom: 8px; margin-bottom: 15px;">Navigating Grace in Unimaginable Suffering</h2>
     <p>The testimony surrounding postpartum psychosis highlights an area of medical health that has historically been misunderstood or minimized. When a mother experiences complete detachment from reality, her capacity to choose good or recognize truth is severely compromised.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -104,7 +104,7 @@ Seagate Portable External Hard Drive
 
     <p>Scripture invites us to look at human weakness with humility. The Apostle Paul speaks of our present physical bodies as subject to decay and suffering:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

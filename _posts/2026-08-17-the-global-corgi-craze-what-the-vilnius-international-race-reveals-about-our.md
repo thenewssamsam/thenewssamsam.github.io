@@ -37,7 +37,7 @@ source_url: 'https://apnews.com/article/lithuania-vilnius-corgi-race-costumes-no
 
   <p>Organizer Edvinas Miskas noted the symbolic shift of welcoming participants from the UK, remarking that when people from the breed's native land travel to Lithuania instead of the reverse, the title of "European capital of corgis" starts to carry real weight.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

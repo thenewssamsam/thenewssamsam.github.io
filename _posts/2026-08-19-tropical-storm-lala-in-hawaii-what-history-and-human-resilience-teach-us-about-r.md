@@ -21,7 +21,7 @@ source_url: "https://apnews.com/article/hawaii-lala-hurricane-tropical-storm-dam
 <h2 id="what-happened">What Happened in Hawaii?</h2>
 <p>Tropical Storm Lala swept past Hawaii’s main islands over the weekend, packing sustained tropical storm-force winds and torrential downpours. While the wind caused significant structural damage and downed transmission towers, it was the catastrophic flooding that proved most devastating. Gov. Josh Green, who surveyed the damage firsthand, reported that mud, rocks, and raging floodwaters poured through rural southern communities, sweeping roughly 100 homes from their foundations.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

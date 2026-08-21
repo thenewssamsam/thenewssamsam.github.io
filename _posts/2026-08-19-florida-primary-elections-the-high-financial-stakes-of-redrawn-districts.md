@@ -25,7 +25,7 @@ source_url: "https://abcnews.com/Politics/florida-holds-1st-major-primaries-afte
     <div style="border-left: 4px solid #d4af37; background: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Economic Insight:</strong> When district lines shift, the cost of political entry changes. Candidates in redrawn districts often face a "re-election tax" as they must spend significantly more on name recognition and voter outreach to re-establish their base in unfamiliar territory.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -33,7 +33,7 @@ Tactical Waterproof Backpack
 
     <p>For example, Rep. Jared Moskowitz is navigating a new 25th Congressional District. Because this area is now a primary target for Republican pick-up, the financial resources required to run a competitive campaign have spiked. Meanwhile, Rep. Cory Mills, currently embroiled in scandals, is facing a funding dry spell, highlighting how donor capital often flees from candidates perceived as high-risk investments.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive
     <h2>Big Donors and the Gubernatorial Race</h2>
     <p>The financial scale of the Florida gubernatorial race is perhaps best exemplified by the  million check donated to Rep. Byron Donalds by GOP mega-donor Ken Griffin. This singular transaction underscores a growing trend in state-level politics: the centralization of campaign finance power among a few high-net-worth individuals.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -54,7 +54,7 @@ Tactical Waterproof Backpack
 
     <p>This level of funding not only provides a massive advantage in traditional advertising but also allows for sophisticated data-driven voter targeting that smaller, grassroots-funded campaigns struggle to match. As voters head to the polls, the "financial footprint" of these campaigns remains a silent but powerful indicator of expected outcomes.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -64,7 +64,7 @@ Seagate Portable External Hard Drive
     <h2>A Reflection on Stewardship and Integrity</h2>
     <p>As we observe the shifting landscape of political influence, it is helpful to pause and consider the nature of our resources and the focus of our hearts. The Bible speaks often about the dangers of placing too much faith in worldly structures or the influence that wealth can purchase.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -73,7 +73,7 @@ Seagate Portable External Hard Drive
 
     <p>This reminds me that while financial support is a reality of our political process, the stewardship of a community—the care for the people behind the district lines—must always remain the primary objective. When we see massive sums of money flowing into campaigns, it invites us to consider whether our leaders are being driven by a commitment to the public good or by the pressures of their financial benefactors. It serves as a reminder to pray for those in office, that they might prioritize wisdom and integrity over the accumulation of influence.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -83,7 +83,7 @@ Tactical Waterproof Backpack
     <h2>How Should Readers Respond?</h2>
     <p>For the average voter, navigating the noise of high-dollar political ads can be daunting. Here are three ways to engage thoughtfully:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

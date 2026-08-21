@@ -38,7 +38,7 @@ source_url: 'https://247wallst.com/investing/2026/08/17/situational-awareness-13
     <p>According to CNBC reporting on the fund's Q2 13F snapshot as of June 30, 2026, Situational Awareness was aggressively piling into names driving the artificial intelligence memory boom. At the center of the strategy were two massive positions: SanDisk and Micron Technology, representing more than  billion in combined long exposure.</p>
     <p>On paper, the thesis looked unstoppable. SanDisk pointed to ,977 million in Q4 datacenter revenue and full-year datacenter growth of 437%, backed by 10 New Business Model agreements representing  billion in minimum revenue commitments. Micron reported Q3 FY26 revenue of  billion, a record gross margin of 84.9%, and  billion in cumulative minimum-price revenue commitments.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

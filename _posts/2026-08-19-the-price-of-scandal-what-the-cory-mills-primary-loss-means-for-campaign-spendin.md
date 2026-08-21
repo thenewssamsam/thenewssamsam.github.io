@@ -23,7 +23,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/gop-rep-cory-mills-l
     <h2>The Financial Realities of the 7th District Race</h2>
     <p>With 80% of the vote counted, political newcomer Ryan Elijah secured 46% of the vote to Mills' 34%. For observers of campaign finance, the outcome is particularly striking: Mills, despite his incumbent status and the high-profile endorsement of Donald Trump, could not convert his fundraising advantage into a victory. He raised less than ,000—a figure that, while double what Elijah raised, was significantly lower than the average House member's war chest.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -31,7 +31,7 @@ Seagate Portable External Hard Drive
     <div class="ncg-product-box" style="border: 2px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Recommended Resource:</strong> <em>The Price of Politics</em> by Bob Woodward - A detailed look at how money shapes modern governance. <a href="https://www.amazon.com/dp/1451651112?tag=thenewssam-20"></a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -42,7 +42,7 @@ Seagate Portable External Hard Drive
     <h2>The Diminishing Returns of Campaign Capital</h2>
     <p>In modern politics, "outspending" is often equated with "winning." However, the Mills vs. Elijah race suggests that when a candidate is dogged by legal investigations—including those from the House Ethics Committee and the Justice Department—the marginal utility of every dollar spent begins to plummet.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -50,7 +50,7 @@ Tactical Waterproof Backpack
     <h3>Efficiency Over Volume</h3>
     <p>Elijah spent only ,000 on airwaves compared to Mills' ,000. While both sums are relatively modest in the landscape of federal elections, the disparity in ad strategy shows that Elijah’s campaign focused on character-driven messaging that resonated with voters more effectively than the incumbent’s defensive posture. For donors, this serves as a reminder that financial resources cannot easily overcome a deficit of public trust.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -64,13 +64,13 @@ Seagate Portable External Hard Drive
     <h2>A Reflection on Integrity and Stewardship</h2>
     <p>As we watch the financial fallout of this primary race, I am reminded that wealth and resources, whether in a campaign or our personal lives, are not the ultimate arbiters of success. Scripture warns us that, "Better is a little with righteousness than great revenues with injustice" (Proverbs 16:8, ESV). This verse invites us to consider that the value of our work is not measured by the size of our budget or the noise of our advertising, but by the integrity of our actions.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>Similarly, we are reminded in Luke 16:10 that, "One who is faithful in a very little is also faithful in much, and one who is dishonest in a very little is also dishonest in much." This makes me think about how the public evaluates leadership. Regardless of the political outcome, the lesson for any of us—in our careers or our community service—is that character is the only investment that yields lasting interest. When we prioritize the appearance of success over the substance of truth, we eventually find that no amount of capital can bridge the gap created by lost integrity.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

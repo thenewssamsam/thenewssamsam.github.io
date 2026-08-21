@@ -24,7 +24,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/gop-rep-cory-mills-l
     <p>NBC News projects that Cory Mills, despite holding the endorsement of Donald Trump, was defeated by Ryan Elijah after a campaign dogged by multiple investigations. These include a House Ethics Committee probe regarding allegations of sexual misconduct and campaign finance violations, as well as a separate Justice Department inquiry into his finances. Mills has consistently denied any wrongdoing.</p>
     <p>The loss marks Mills as the 11th House member to lose a primary this year, a notably high number. Prominent Florida Republicans, including Representatives Anna Paulina Luna and Mike Haridopolos, broke with party tradition to endorse Elijah, citing a need for "integrity, energy, and an unwavering commitment to the people."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -38,7 +38,7 @@ Tactical Waterproof Backpack
     <h2>The Parenting Lens: Teaching Integrity</h2>
     <p>For parents, news cycles dominated by scandal can feel exhausting. However, they are also "teachable moments." When we see public figures face consequences for their actions, it provides a neutral starting point to discuss why character isn't just a buzzword—it's the foundation of a life well-lived.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -46,7 +46,7 @@ Seagate Portable External Hard Drive
     <h3>1. Character is What You Do When No One is Watching</h3>
     <p>It is easy to behave well when the spotlight is on you. The real test of character, as we see in this story, occurs in the private, often unseen corners of our lives. When talking to teens, emphasize that "reputation" is what others think of us, but "character" is who we actually are.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -54,7 +54,7 @@ Seagate Portable External Hard Drive
     <h3>2. The Weight of Accountability</h3>
     <p>This event serves as a reminder that actions have consequences. Whether in the halls of Congress or in a middle school classroom, ignoring problems or denying reality rarely makes them go away. Encourage your children to own their mistakes early. It is a sign of maturity, not weakness, to admit when we are wrong.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -64,13 +64,13 @@ Seagate Portable External Hard Drive
     <h2>A Reflection on Truth and Wisdom</h2>
     <p>This situation brings to mind the wisdom found in Proverbs 10:9: "Whoever walks in integrity walks securely, but whoever takes crooked paths will be found out" (NIV). It serves as a sobering reminder that truth has a way of surfacing, regardless of how much effort is spent trying to hide it. I am also reminded of Colossians 3:23, which encourages us to do our work "with all your heart, as working for the Lord, not for human masters."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>These verses invite us to consider that our primary goal should be to live in a way that is honest and honorable before God, rather than merely seeking the approval of others. When we prioritize integrity over popularity, we build a life that stands firm even when the political or social winds shift.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -89,7 +89,7 @@ Seagate Portable External Hard Drive
     <h2>Closing Takeaway</h2>
     <p>The defeat of Rep. Cory Mills is a reminder that in politics, as in life, character remains the ultimate currency. While we cannot control the actions of public figures, we can control the values we instill in the next generation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

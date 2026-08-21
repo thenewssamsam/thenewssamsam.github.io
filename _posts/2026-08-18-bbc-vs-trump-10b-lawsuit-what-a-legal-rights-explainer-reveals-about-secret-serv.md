@@ -37,7 +37,7 @@ source_url: 'https://apnews.com/article/bbc-trump-defamation-lawsuit-subpoenas-6
 <p>The legal battle stems from a December lawsuit filed by Donald Trump seeking  billion in damages from the BBC. The complaint accuses the British broadcaster of defamation, as well as deceptive and unfair trade practices, centered on a 2024 documentary that edited a speech Trump delivered on January 6, 2021, prior to the Capitol attack. The lawsuit alleges the BBC spliced two separate parts of the speech together to intentionally misrepresent his words as an incitement to violence.</p>
 <p>While the BBC has publicly apologized for the misleading edit while maintaining it did not defame him, the pretrial discovery process has now escalated. Lawyers for the broadcaster filed documents in federal court in Florida arguing that Ivanka Trump, Jared Kushner, and Donald Trump Jr. possess personal knowledge and records relevant to the core claims. Specifically, the filing notes that Donald Trump Jr. and Ivanka Trump were present in the Oval Office while the speech was being revised, and that Donald Trump Jr. spoke directly with his father after the Capitol violence erupted.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

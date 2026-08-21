@@ -23,7 +23,7 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-menta
 
   <p>Yet, after Sophie died by suicide in February 2025, her family discovered a devastating secret. For months, Sophie had told no one about the true depth of her agony except for an artificial intelligence chatbot named Harry—a custom persona she created using a Reddit prompt on ChatGPT. Nearly 1,800 pages of logs revealed an intimate, months-long digital relationship that operated entirely outside the view of her flesh-and-blood therapists, friends, and family.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

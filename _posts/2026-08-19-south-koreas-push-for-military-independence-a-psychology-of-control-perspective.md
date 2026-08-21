@@ -28,7 +28,7 @@ source_url: "https://www.theguardian.com/world/2026/aug/18/south-korea-president
     <h2>The Psychology of Control and Autonomy</h2>
     <p>From a behavioral perspective, South Korea’s renewed urgency is rooted in the <strong>Locus of Control</strong> theory. When a nation perceives that its survival depends entirely on the decisions of an external partner—whose priorities may shift based on individual personality or personal diplomacy—the resulting anxiety creates a drive to internalize that control.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -36,7 +36,7 @@ Tactical Waterproof Backpack
     <div class="ncg-quote-box" style="border-left: 5px solid #6a0dad; background-color: #f4eef9; padding: 15px; margin: 20px 0;">
       <p><strong>"The drive for sovereign defense is not merely a military requirement; it is a psychological imperative to mitigate the anxiety of uncertainty in a volatile alliance."</strong></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -45,7 +45,7 @@ Seagate Portable External Hard Drive
     <h3>Normalcy Bias and Security</h3>
     <p>There is also a tension involving <strong>Normalcy Bias</strong>, where observers might assume that the status quo of US-led command will continue indefinitely. President Lee’s push for nuclear-powered submarines and Opcon transfer is a direct counter-measure to this bias, acknowledging that historical security frameworks are not static and that reliance on a single point of failure—diplomatic personality-based security—is unsustainable.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -55,13 +55,13 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Sovereignty and Wisdom</h2>
     <p>Watching these high-stakes negotiations, I am reminded of the biblical principle of stewardship and the responsibility to be prepared. Proverbs 21:31 reminds us: <em>"The horse is made ready for the day of battle, but the victory belongs to the Lord."</em> This doesn't mean we should be passive or reckless; rather, it suggests that while we must be diligent in our earthly duties and preparations, our ultimate security is not found in human alliances or military hardware alone.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>It also brings to mind 1 Peter 5:7: <em>"Casting all your anxieties on him, because he cares for you."</em> When nations—or individuals—face uncertainty, the impulse to grab control can sometimes stem from fear. True wisdom lies in balancing the prudent preparation required for our daily lives with a humble acknowledgment of our limits.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

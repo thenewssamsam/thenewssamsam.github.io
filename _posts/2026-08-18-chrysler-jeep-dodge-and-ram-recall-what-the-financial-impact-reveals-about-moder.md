@@ -39,7 +39,7 @@ source_url: 'https://www.foxbusiness.com/economy/nearly-1m-chrysler-jeep-dodge-r
 <h2>What Happened in the Stellantis Recall?</h2>
 <p>On Monday, parent company Stellantis issued a recall covering approximately 955,000 vehicles globally. The core issue is a radio software bug that may prevent the rearview camera image from displaying properly when drivers shift into reverse. According to the company, the affected pool includes more than 848,000 vehicles in the United States, alongside roughly 107,000 across Canada, Mexico, and international markets.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

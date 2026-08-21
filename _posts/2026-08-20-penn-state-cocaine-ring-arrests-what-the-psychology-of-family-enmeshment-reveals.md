@@ -41,13 +41,13 @@ source_url: "https://triblive.com/local/regional/father-charged-in-suspected-coc
 </div>
 <p>Investigators identified 23-year-old Thomas Michael Robinson as a suspected leader of the narcotics network. Following his initial arrest in December 2024 on drug manufacturing and delivery charges, the younger Robinson chose to cooperate with authorities, eventually leading police to his primary supplier, 24-year-old Agostino Abbatiello of Westbury, New York.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 <p>Yet the most jarring development of the sweep involved Thomas’s father, Paul Robinson. A seasoned equity member at Meyer, Darragh, Buckler, Bebenek & Eck, PLLC, and chair of the firm's product liability and transportation groups, Paul Robinson found himself on the wrong side of the law. Prosecutors charged the veteran defense and civil litigator with felony tampering, hindering apprehension for allegedly concealing evidence—including a safe containing drugs and cash—and obstructing an official investigation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -57,7 +57,7 @@ Tactical Waterproof Backpack
 <h2>The Psychology of Family Enmeshment and Rationalization</h2>
 <p>How does a man who has spent nearly three decades upholding legal frameworks, navigating complex corporate liability, and counseling clients on risk suddenly cross the line into alleged felony obstruction? Human behavior is rarely a simple binary of good versus evil; it is almost always a complex interplay of cognitive biases and emotional pressures.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -69,7 +69,7 @@ Tactical Waterproof Backpack
 <h3>Cognitive Dissonance and Compartmentalization</h3>
 <p>Psychologists frequently point to <em>cognitive dissonance</em>—the mental discomfort a person feels when holding two contradictory beliefs—to explain how professionals rationalize unethical acts. Paul Robinson’s professional life required strict adherence to legal statutes. However, his parental identity operated under a completely different emotional rulebook. When confronted with his son's arrest, the gap between his self-image as a protective father and the harsh reality of his son's alleged criminal enterprise created immense psychological friction. To resolve this internal tension, the human mind often resorts to compartmentalization, sealing off the illegal nature of the actions behind a wall of emotional justification.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -80,7 +80,7 @@ Seagate Portable External Hard Drive
 </div>
 <p>In psychology, <em>enmeshment</em> describes a dynamic where personal boundaries are permeable and blurred, leading family members to absorb each other's emotional states and crises as their own. A parent experiencing deep enmeshment may struggle to see their adult child as an autonomous individual capable of bearing the consequences of their own choices. Instead, the child's crisis is experienced as an existential threat to the family unit—and by extension, the parent's own identity. Moving a safe containing cash and drugs is not typically the rational act of a detached legal expert; it is the panicked, knee-jerk maneuver of a parent whose boundaries have completely dissolved under the weight of acute psychological distress.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -88,7 +88,7 @@ Seagate Portable External Hard Drive
 <h3>Normalcy Bias and Escalation of Commitment</h3>
 <p>Another powerful behavioral pattern is the <em>escalation of commitment</em>. Once a person takes a small, questionable step to protect a loved one, they become psychologically invested in defending that initial choice. Admitting wrongdoing later means confronting the catastrophic magnitude of the original mistake. Combined with <em>normalcy bias</em>—the mind's tendency to underestimate the likelihood of disaster ("this will blow over, nobody will find out")—otherwise rational individuals can slide down a slippery slope of bad decisions until law enforcement steps in.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -98,7 +98,7 @@ Seagate Portable External Hard Drive
 <h2>A Moral Reflection on Truth, Family, and Integrity</h2>
 <p>This unfolding situation strikes at a profound moral tension as old as humanity itself: the pull of tribal and familial loyalty versus the unyielding demand for objective truth and justice. Scripture frequently speaks to the dangers of corrupted judgment when partiality blinds us to right and wrong. Proverbs 18:17 reminds us, "The one who states his case first seems right, until the other comes and examines him." In moments of family crisis, we are often tempted to accept our own narrative, shutting our ears to accountability.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -107,7 +107,7 @@ Seagate Portable External Hard Drive
 </div>
 <p>Furthermore, Proverbs 24:23 notes that "partiality in judging is not good." While unconditional parental love is a foundational human virtue, Scripture consistently teaches that love does not mean shielding loved ones from the consequences of destructive behavior. True wisdom invites us to practice discernment, recognizing that enabling wrongdoing ultimately harms the very person we are trying to protect. As I reflect on this case, it's a stark reminder of how easily good intentions can be warped by fear, pride, and a misplaced sense of rescue.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -117,7 +117,7 @@ Seagate Portable External Hard Drive
 <h2>How Should Readers Respond?</h2>
 <p>While the details of this high-profile case are unique to Pittsburgh and Penn State, the underlying human dynamics offer practical takeaways for everyday life:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -137,7 +137,7 @@ Tactical Waterproof Backpack
 <summary>Who was charged in the Penn State fraternity drug ring?</summary>
 <p>Pennsylvania Attorney General Dave Sunday announced charges against 14 suspects, including student leaders and fraternity members from Delta Upsilon and Sigma Chi, as well as Paul Robinson, a Pittsburgh attorney and father of a suspect.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -146,7 +146,7 @@ Seagate Portable External Hard Drive
 <summary>What specific charges does Pittsburgh attorney Paul Robinson face?</summary>
 <p>Paul Robinson has been charged with felony tampering, hindering apprehension for allegedly concealing evidence (such as a safe containing drugs and cash), and obstructing an official investigation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -155,7 +155,7 @@ Seagate Portable External Hard Drive
 <summary>How did the investigation begin?</summary>
 <p>The probe gained significant momentum after Thomas Robinson was arrested in December 2024 on drug delivery charges and subsequently cooperated with law enforcement, leading investigators up the supply chain.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

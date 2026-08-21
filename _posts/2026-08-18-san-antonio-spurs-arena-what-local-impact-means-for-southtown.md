@@ -21,7 +21,7 @@ source_url: 'https://www.ksat.com/news/local/2026/08/17/southtown-businesses-rea
     <h2>The Latest on the Downtown Arena Debate</h2>
     <p>The future of a new downtown arena for the San Antonio Spurs remains a focal point of city discourse following a narrow 5-6 vote by the San Antonio City Council on Monday. The council rejected Mayor Gina Ortiz Jones’ proposal to put the project’s funding back on the November ballot, a move that has left residents and business owners reflecting on the path forward.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></p>
 

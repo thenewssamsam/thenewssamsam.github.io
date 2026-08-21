@@ -25,7 +25,7 @@ source_url: 'https://www.nytimes.com/athletic/7516358/2026/08/16/eagles-preseaso
   <p>The Eagles opened their 2026 preseason schedule with a 24-7 loss to the Baltimore Ravens at M&T Bank Stadium. Head coach Nick Sirianni opted to rest the vast majority of his starters and keep play-calling vanilla, leading to an understandably sluggish offensive display. Veteran Andy Dalton started under center, finishing 3 of 6 for 20 yards across three drives, while second-year contributor Tanner McKee took over and went 6 of 10 for 35 yards, presiding over three three-and-outs in four full drives.</p>
   <p>Despite the mundane box score, the game featured notable storylines. The backup quarterback battle—once thought to be a clear strength for the franchise—appeared to regress rather than crystallize. Meanwhile, the contest provided an unforgettable milestone for two rookie international prospects stepping onto a football field in full pads for the very first time.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

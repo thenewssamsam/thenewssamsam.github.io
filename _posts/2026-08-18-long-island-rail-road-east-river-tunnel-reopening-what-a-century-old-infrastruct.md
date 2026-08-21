@@ -26,7 +26,7 @@ source_url: 'https://www.newsday.com/long-island/transportation/east-river-tunne
   <p>Line 2, one of four vital East River tunnel crossings connecting Penn Station in Manhattan to Queens, is officially reopening after extensive reconstruction. Originally opened in 1910 alongside the historic Penn Station, the tunnel suffered catastrophic damage during Superstorm Sandy in 2012, when millions of gallons of corrosive saltwater inundated the tracks and left a legacy of chronic delays.</p>
   <p>The rehabilitation project, which kicked off in May 2025, required a complete, 15-month shutdown of Line 2 while three remaining tunnels bore the weight of commuter traffic. According to Amtrak and federal officials—including U.S. Sen. Chuck Schumer, who helped secure significant federal funding from the 2021 infrastructure package—workers completely rebuilt the track beds, concrete linings, drainage systems, and signaling equipment. With Line 2 now operational, Amtrak is preparing to shift its focus to Line 1 this fall, setting up another 13-month shutdown to complete the  billion twin-tunnel overhaul designed to last another century.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

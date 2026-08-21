@@ -25,7 +25,7 @@ source_url: 'https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies
     
     <p>Yet behind the glowing Golden Globe nominations and the polished red carpet appearances lay a much more complicated, vulnerable human story. Earlier this year, in her candid memoir <em>This Is Me: A Reckoning</em>, Panettiere opened up with striking honesty about the exhausting pressures of a lifelong career in the public eye, her struggles with addiction and depression, and her deeply human yearning to simply belong.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

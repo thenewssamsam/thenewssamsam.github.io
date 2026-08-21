@@ -39,7 +39,7 @@ source_url: ''
 <h2>What Happened in the Bond Market?</h2>
 <p>On Monday, the yield on the 30-year US Treasury bond—often called the "long bond"—rose by three basis points to 5.29%. This brings the rate to its highest point since 2007, inching dangerously close to that year's peak of 5.44% just before the global financial system convulsed.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

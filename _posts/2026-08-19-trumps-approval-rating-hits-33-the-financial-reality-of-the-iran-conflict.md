@@ -23,7 +23,7 @@ source_url: "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-
     <h2>The Real Cost at the Pump</h2>
     <p>For the average American household, the war in Iran is no longer a distant geopolitical headline; it is a line item in the monthly budget. According to the American Automobile Association, gasoline prices have surged by nearly 33 percent compared to this time last year. When energy prices rise, the inflationary ripple effect is immediate, increasing the cost of shipping, manufacturing, and food logistics.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -34,7 +34,7 @@ Tactical Waterproof Backpack
 
     <p>The conflict has effectively bottled up critical energy transit routes through the Strait of Hormuz. While the administration initially framed the conflict as a short-term necessity to prevent nuclear proliferation, the reality of a protracted war has forced consumers to absorb the volatility of global oil markets.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -44,7 +44,7 @@ Seagate Portable External Hard Drive
     <h2>Financial Perspective: The Price of Security</h2>
     <p>In economics, there is always an opportunity cost. President Trump has argued that paying "a tiny little bit more" for gasoline is a necessary sacrifice to ensure long-term national security against a nuclear-armed Iran. However, polls suggest that the American public is increasingly skeptical of this trade-off.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -56,7 +56,7 @@ Tactical Waterproof Backpack
     <h3>The Erosion of Economic Confidence</h3>
     <p>The recent Politico data indicating that only one-third of the president's own MAGA base believes the economic costs are worth the current conflict highlights a shift in priorities. When inflation outpaces wage growth, voter patience for "extended periods" of military involvement shrinks rapidly. Families are forced to choose between essential spending and the rising costs of energy, creating a feedback loop of negative economic sentiment that hits the ballot box.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -70,13 +70,13 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Stewardship</h2>
     <p>This situation reminds me of the wisdom found in Luke 14:28: <em>"Suppose one of you wants to build a tower. Won’t you first sit down and estimate the cost to see if you have enough money to complete it?"</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>It is a sobering reminder that all decisions—whether personal, corporate, or national—carry a cost. When leaders or individuals pursue a course of action without transparency about the long-term price, it inevitably leads to disillusionment. As we navigate these uncertain times, it invites us to consider our own stewardship of resources and the importance of counting the cost in every commitment we make.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -96,7 +96,7 @@ Tactical Waterproof Backpack
       <h2>One Last Thought</h2>
       <p>The intersection of foreign policy and personal finance is rarely comfortable. As the Iran conflict drags on, the disconnect between government rhetoric and the reality of the family budget will continue to be a defining factor in American politics. True security must eventually find a balance with the prosperity of the people it seeks to protect.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

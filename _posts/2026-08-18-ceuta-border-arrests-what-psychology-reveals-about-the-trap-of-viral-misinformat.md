@@ -47,7 +47,7 @@ source_url: 'https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arres
     
     <p>This weekend crackdown did not happen in a vacuum. It comes just two weeks after one of the deadliest migration events in the region's recent history, where more than 72,000 people rushed toward Ceuta. Official figures place the death toll at least 90, while human rights monitors report even higher casualties. The catalyst for both surges was a sudden wave of social media posts—amplified across digital platforms—falsely promising open borders and easy passage into Europe.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

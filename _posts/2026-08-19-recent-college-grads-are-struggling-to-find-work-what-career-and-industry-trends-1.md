@@ -36,13 +36,13 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduat
     <p>Consider Irene Chang, a 21-year-old engineering graduate from Georgia Tech. Eager for stability, she began applying for data analyst positions nearly a year before finishing her degree. By the time she graduated, she had submitted roughly 450 applications and completed 19 interviews—without a single offer. Jacqueline Kline, a 25-year-old master's graduate from Florida State University, shares a similar story, having applied to more than 500 entry-level roles despite completing multiple internships and extensive networking.</p>
     <p>They are far from alone. According to data from the Federal Reserve Bank of New York, the unemployment rate for recent graduates—defined as 22-to-27-year-olds with a bachelor's degree or higher—climbed to 5.7% as of June, noticeably higher than the overall worker unemployment rate of 4.1%. In a ZipRecruiter survey, nearly half of recent graduates surveyed stated they believe AI has already altered hiring dynamics within their chosen fields.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>Yet, when you look past the immediate frustration, top economists are deeply divided on whether artificial intelligence is the primary villain, or if something else is entirely responsible for the squeeze.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -52,33 +52,33 @@ Tactical Waterproof Backpack
     <h2>The Industry Perspective: AI vs. Remote Work</h2>
     <p>To understand the current career landscape, it helps to examine what economists who study labor markets actually see in the data.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Stanford University economist Erik Brynjolfsson points out that AI is indeed part of the equation, particularly for young workers in heavily exposed fields like software development and marketing management. Since late 2022, early-career workers in those roles have experienced a 16% relative employment decline. Brynjolfsson explains that large language models are trained on codified, textbook knowledge—the exact type of foundational information that inexperienced graduates rely on when entering the workforce.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <blockquote class="ncg-quote-box">
       <p>"AI is not the whole story, but it's part of the story and the evidence is building." — Erik Brynjolfsson, Stanford University Economist</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     </blockquote>
     <p>However, other experts argue the timeline doesn't entirely fit. Harvard University economist David Deming notes that the contraction in junior hiring actually began roughly six months before ChatGPT launched. Instead, Deming points a finger at the rise of remote work following the COVID-19 pandemic. Training an entry-level employee requires significant time, mentorship, and oversight. When teams are scattered across remote home offices, employers find it much harder to onboard junior staff, tilting the value proposition in favor of hiring more senior talent who require less direct supervision.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>Adding another layer to the debate, University of Chicago economist Anders Humlum highlights data from a study by Ramp and Revelio Labs. Across more than 21,000 U.S. firms, companies making the heaviest investments in AI tools actually saw entry-level headcounts grow by 12% over the subsequent two years. Rather than cutting junior staff to save money, heavy AI adopters appear to be expanding their teams overall.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -88,25 +88,25 @@ Tactical Waterproof Backpack
     <h2>A Deeper Look at Human Labor and Stewardship</h2>
     <p>Times of massive economic and technological transition can feel deeply unsettling, leaving young professionals questioning the value of their education and hard work. When our efforts seem to yield no fruit, it touches a very human nerve of discouragement.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>This dynamic reminds me that human value has never been tied solely to our immediate economic output or efficiency. Throughout history, every major technological leap—from the printing press to the industrial loom—has disrupted traditional labor patterns while ultimately unlocking new avenues for human creativity.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>Scripture offers a timeless perspective on diligence and the cycles of human labor. Ecclesiastes 3:13 reminds us, "that everyone may eat and drink, and find satisfaction in all their toil—this is the gift of God." Yet, work is also meant to be approached with patience and resilience, knowing that seasons of friction often precede seasons of adaptation. Proverbs 13:4 observes, "A sluggard's appetite is never filled, but the desires of the diligent are fully satisfied." Diligence today may look less like sending out five hundred identical online applications and more like building genuine, human-to-human professional relationships that algorithms cannot replicate.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>While the current market is undeniably bumpy, economists remain broadly optimistic that technology will eventually empower workers rather than permanently sideline them.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -116,7 +116,7 @@ Seagate Portable External Hard Drive
     <h2>How Job Seekers Can Adapt Right Now</h2>
     <p>If you are navigating the early-career job market or advising someone who is, understanding these broader industry trends can help shift your strategy from frustration to empowerment.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

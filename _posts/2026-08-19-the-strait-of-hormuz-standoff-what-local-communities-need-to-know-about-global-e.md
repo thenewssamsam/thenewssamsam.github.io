@@ -24,7 +24,7 @@ source_url: "https://www.foxnews.com/politics/iran-fails-strike-deal-us-deadline
     <h2>Why This Matters to Your Local Economy</h2>
     <p>The Strait of Hormuz is not just a waterway; it is arguably the most critical "chokepoint" for the global energy supply, with roughly one-fifth of the world’s oil and liquefied natural gas passing through its narrow passage. When traffic slows or stops due to conflict, the immediate ripple effect is felt at local gas stations and in the heating bills of everyday families.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -32,13 +32,13 @@ Crevice Cleaning Brush Set
     <div style="border: 1px solid #ffd700; background-color: #f9f9f9; padding: 15px; border-radius: 8px; margin: 20px 0;">
       <p><strong>Did you know?</strong> Energy market volatility often leads to localized price spikes. If you are looking to manage your energy consumption, consider these tools:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
       <p><a href="#">Smart Home Energy Monitor - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -46,7 +46,7 @@ Crevice Cleaning Brush Set
 
     <p>While national headlines focus on military strategy, local communities must contend with the "supply chain tax." When energy costs rise, transportation costs for local groceries, home goods, and construction materials climb as well. Even if your town isn't directly involved in international trade, the indirect costs of a sustained blockade can tighten household budgets within weeks.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -56,7 +56,7 @@ Crevice Cleaning Brush Set
     <h2>A Reflection on Peace and Stewardship</h2>
     <p>In times of international tension and the threat of prolonged conflict, it is easy to feel overwhelmed by the scale of global events. Proverbs 21:31 reminds us: <em>"The horse is made ready for the day of battle, but the victory belongs to the Lord."</em> This verse invites us to consider that while nations prepare for war, our ultimate security does not rest in the hands of governments or military might, but in the sovereign care of God. Similarly, Matthew 5:9 encourages us: <em>"Blessed are the peacemakers, for they will be called children of God."</em> This is a sobering call to pray for wisdom for leaders and for the protection of those caught in the crossfire of these disputes.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -72,7 +72,7 @@ Crevice Cleaning Brush Set
     <h2>How Should Readers Respond?</h2>
     <p>It is natural to feel anxious about reports of potential escalation or strained munitions inventories. However, panic is rarely a productive response. Instead, focus on local resilience:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 

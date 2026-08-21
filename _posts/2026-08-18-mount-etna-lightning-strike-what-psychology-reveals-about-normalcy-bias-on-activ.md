@@ -36,7 +36,7 @@ source_url: 'https://www.cbsnews.com/news/mount-etna-erupting-american-tourist-k
 
 <p>Yet behind the immediate shock of the breaking news lies a quieter, more unsettling question that repeats itself every time a traveler bypasses a warning sign: Why do intelligent, rational people consistently underestimate sudden, catastrophic risk in extreme environments?</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

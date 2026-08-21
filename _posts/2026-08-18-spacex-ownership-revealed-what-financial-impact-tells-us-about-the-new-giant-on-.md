@@ -28,7 +28,7 @@ source_url: 'https://finance.yahoo.com/markets/article/spacexs-biggest-investors
 
   <p>The numbers paint a picture of extreme concentration. More than 1,500 investors disclosed stakes in the company, but just 23 of them account for over 80% of the reported shares. At the other end of the spectrum, nearly 1,340 investors reported positions of fewer than 100,000 shares, yet together they own less than 1% of the total reported equity.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

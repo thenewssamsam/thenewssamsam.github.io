@@ -26,7 +26,7 @@ source_url: 'https://www.thefp.com/p/texans-revolt-against-a-border-wall'
         <h2 style="color: #2c3e50; border-bottom: 2px solid #d4af37; padding-bottom: 10px;">The Reality on the Ground</h2>
         <p>The proposed border wall extension in Big Bend is not merely a political dispute; it is a clash between grand policy and the physical reality of the terrain. As reported by <em>The Free Press</em>, the geography of Big Bend—characterized by steep, 1,500-foot limestone cliffs and treacherous mountains—acts as a natural, impassable barrier. National Park rangers have long noted that human crossing in this specific area is essentially impossible, rendering structural walls redundant in the eyes of many who live there.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -34,7 +34,7 @@ Seagate Portable External Hard Drive
         <div style="background-color: #f9f9f9; border-left: 5px solid #d4af37; padding: 15px; margin: 20px 0;">
             <p><strong>Recommended Reading:</strong> <a href="#">Heavy-Duty Hiking Boots for Rugged Terrain</a> - </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -42,7 +42,7 @@ Seagate Portable External Hard Drive
 
         <p>For the residents of West Texas, the introduction of industrial steel into this pristine wilderness feels like an unnecessary scar on the landscape. The conflict highlights how top-down governance, when disconnected from local expertise, often fails to address the unique nuances of specific environments.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -52,7 +52,7 @@ Tactical Waterproof Backpack
         <h2 style="color: #2c3e50; border-bottom: 2px solid #d4af37; padding-bottom: 10px;">Stewardship in a Broken World</h2>
         <p>From a biblical perspective, the debate over the Big Bend border wall is deeply connected to the concept of stewardship. In Genesis, humanity is tasked with tending and keeping the garden. While the definition of "keeping" involves protection and order, it also implies a responsibility to honor the integrity of the creation itself. When we alter landscapes, we must weigh the necessity of our actions against the preservation of the world that reflects the Creator’s handiwork.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -63,7 +63,7 @@ Tactical Waterproof Backpack
 
         <p>This verse reminds us that the land is not ours to treat with indifference. It is a gift held in trust. As I reflect on the beauty of Big Bend—a place where the sheer scale of the cliffs makes one feel small—I am reminded that our policies should reflect a humility that recognizes the limits of human intervention. We are called to be wise, but we are also called to be protectors of the natural order that sustains life and displays God's glory.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -71,7 +71,7 @@ Seagate Portable External Hard Drive
         <div style="background-color: #f9f9f9; border-left: 5px solid #d4af37; padding: 15px; margin: 20px 0;">
             <p><strong>Recommended Reading:</strong> <a href="#">High-Capacity Water Hydration Pack for Wilderness Exploration</a> - </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -79,14 +79,14 @@ Seagate Portable External Hard Drive
 
         <p>The struggle here is one of discernment. We must ask whether a wall is the most righteous way to secure our borders, or if it is a failure of creative, compassionate, and wise management of both our national boundaries and our natural heritage. The Bible invites us to consider that our actions in the public square should be guided by justice, but also by a profound respect for the life and beauty that God has placed around us.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
         
         <p><em>"The Lord God took the man and put him in the Garden of Eden to work it and take care of it." (Genesis 2:15)</em>. This mandate remains relevant today. It invites us to consider if our "work" in the wilderness is truly taking care of it, or if it is prioritizing short-term political signaling over the long-term stewardship of a place that belongs ultimately to God.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

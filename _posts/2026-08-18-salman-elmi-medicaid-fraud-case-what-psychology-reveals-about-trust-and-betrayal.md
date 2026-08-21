@@ -21,7 +21,7 @@ source_url: 'https://www.fox9.com/news/ellison-brings-medicaid-fraud-charges-aga
 
 <p>The recent arrest and indictment of Salman Elmi in Minnesota on Medicaid fraud charges—with troubling ties to a separate sex trafficking investigation—has stunned local observers. Beyond the courtroom facts, the case provides a stark window into the cognitive mechanics of deceit, the dangers of halo perception, and why seemingly successful entrepreneurs sometimes gamble everything.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

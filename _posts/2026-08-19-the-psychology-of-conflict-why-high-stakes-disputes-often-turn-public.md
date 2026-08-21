@@ -26,7 +26,7 @@ source_url: "https://www.nbcnews.com/news/us-news/tuesday-primaries-buss-family-
     <div style="border-left: 5px solid #6a5acd; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Product Spotlight:</strong> Need to stay organized during stressful times? <a href="https://www.amazon.com/dp/B08P1D3L2R" target="_blank" rel="noopener noreferrer">Rocketbook Reusable Smart Notebook - </a>. Perfect for tracking project notes and keeping your thoughts clear.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -37,7 +37,7 @@ Tactical Waterproof Backpack
     <h2>The Behavioral Mechanics of Conflict</h2>
     <p>From a psychological perspective, publicizing a conflict is rarely accidental. It often functions as a <strong>power signal</strong>. By bringing a dispute into the open, a party attempts to force the other side's hand or rally external stakeholders to their cause. This is a classic application of <em>strategic signaling</em>, where the goal is to shift the balance of power when private negotiations have stalled.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -45,7 +45,7 @@ Seagate Portable External Hard Drive
     <h3>The Role of Groupthink and Echo Chambers</h3>
     <p>In high-stakes environments, <em>groupthink</em> can lead to the escalation of conflict. When stakeholders are surrounded by advisors who validate their perspective, they may overestimate their bargaining position. This leads to a refusal to compromise, pushing the conflict out of the boardroom and into the media, where they hope to find broader validation for their position.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -57,7 +57,7 @@ Tactical Waterproof Backpack
     <div style="border-left: 5px solid #6a5acd; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Product Spotlight:</strong> Stay focused with <a href="https://www.amazon.com/dp/B07S6J9F2D" target="_blank" rel="noopener noreferrer">Sony WH-1000XM4 Noise Canceling Headphones - </a>. Ideal for deep work and tuning out external noise during stressful negotiations.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -68,13 +68,13 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Wisdom in Conflict</h2>
     <p>The way we handle disagreement speaks volumes about our character. Scripture often points us toward the value of private reconciliation and the dangers of hasty public confrontation. As it says in Proverbs 25:9: <em>"Argue your case with your neighbor himself, and do not reveal another’s secret."</em> (ESV). This reminds us that true wisdom involves seeking resolution directly with those involved, rather than seeking the validation of the crowd.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Similarly, Matthew 18:15 offers a blueprint for handling tension: <em>"If your brother sins against you, go and tell him his fault, between you and him alone."</em> This isn't just a religious rule; it is a profound psychological truth. Publicizing conflict often inflames pride and hardens hearts, whereas private dialogue creates the space necessary for humility and genuine understanding. In an age of instant, public outrage, choosing the quieter path is often the most radical act of strength.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

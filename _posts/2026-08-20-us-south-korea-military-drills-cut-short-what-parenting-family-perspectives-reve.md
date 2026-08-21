@@ -44,7 +44,7 @@ source_url: "https://www.cnn.com/2026/08/18/asia/trump-us-south-korea-military-e
   
   <p>President Trump stated that he requested the reduction based on his "very good relationship" with North Korean leader Kim Jong Un, describing the traditional large-scale drills as an "inappropriate and hostile" signal to Pyongyang. While associated live-training events have been scaled back, converted to simulations, or canceled, military officials from both nations maintain that essential tactical readiness and training objectives remain intact.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -55,7 +55,7 @@ Tactical Waterproof Backpack
 
   <p>South Korean President Lee Jae Myung expressed support for the shift, noting that Seoul understands the administration's efforts to create diplomatic conditions for peace on the Korean Peninsula. Nevertheless, the policy pivot has reignited a broader conversation about international security, defense spending, and the reliability of long-standing alliances—topics that inevitably ripple down into family discussions around the dinner table.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -65,14 +65,14 @@ Seagate Portable External Hard Drive
   <h2>A Parenting & Family Perspective: Navigating Global Headlines at Home</h2>
   <p>When international news involves military maneuvers and high-stakes diplomacy, children—even those who seem uninterested—can absorb the ambient stress of the adults around them. From a parenting and developmental perspective, major geopolitical changes test our ability to communicate safety without minimizing real-world complexities.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
   
   <p>Children do not need a complete breakdown of cold war history or nuclear deterrence strategies. Instead, they look to caregivers for emotional cues. When headlines feature words like "threat," "conflict," or "military," kids often internalize these concepts as a direct threat to their personal safety. Grounding the conversation in reassurance and open communication helps transform a scary news ticker into a teachable moment about conflict resolution, diplomacy, and community resilience.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -99,7 +99,7 @@ Seagate Portable External Hard Drive
   <h2>A Moment for Reflection and Peace</h2>
   <p>Navigating moments of international tension often brings to mind timeless truths about the value of peace and understanding. In moments when national policies shift and global uncertainties arise, it is easy to let anxiety take root in our families.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -112,7 +112,7 @@ Seagate Portable External Hard Drive
 
   <p>Furthermore, the Apostle Paul encourages a deliberate focus on tranquility and prayer: <em>"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God"</em> (Philippians 4:6). For families watching the news unfold, turning anxiety into a moment for prayer and thoughtful conversation can be a powerful way to cultivate inner peace.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -122,7 +122,7 @@ Seagate Portable External Hard Drive
   <h2>How Should Families Respond? Practical Communication Tips</h2>
   <p>Instead of letting alarming headlines linger unaddressed in your home, consider these actionable steps to foster a calm, informed family environment:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -143,7 +143,7 @@ Tactical Waterproof Backpack
     <summary>Why were the US-South Korea military drills cut short?</summary>
     <p>The joint exercises were reduced by half at Washington's request, following President Trump's call to scale back the training. He cited his relationship with North Korean leader Kim Jong Un and expressed a desire to encourage diplomatic dialogue on the Korean Peninsula.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -152,7 +152,7 @@ Seagate Portable External Hard Drive
     <summary>How can I talk to my children about international news without causing fear?</summary>
     <p>Focus on listening to their concerns first, keep explanations simple and grounded in facts, and emphasize that many leaders and diplomats work hard to maintain global peace and safety.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -167,7 +167,7 @@ Tactical Waterproof Backpack
   <h2>One Last Thought</h2>
   <p>International headlines will always ebb and flow, shifting from intense military standoffs to unexpected diplomatic overtures. For families, these moments are not merely political updates to analyze—they are opportunities to practice empathy, patience, and open communication inside our own homes. By meeting our children's curiosity with calm reassurance, we teach them that even in a complex and changing world, peace begins with how we listen to and care for one another.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

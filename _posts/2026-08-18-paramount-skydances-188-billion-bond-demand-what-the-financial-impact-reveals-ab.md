@@ -36,7 +36,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/paramount-bond-merger-delay-costs.h
 <h2>What Happened: The  Billion Demand</h2>
 <p>The legal clash centers on an ambitious, multi-billion-dollar combination that would merge two of Hollywood's most storied film studios—Paramount and Warner Bros.—while uniting massive pay-TV networks and streaming services like HBO Max and Paramount+. Last month, a dozen state attorneys general, led by California's Rob Bonta, filed an antitrust lawsuit under the Clayton Antitrust Act to halt the transaction.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

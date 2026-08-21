@@ -36,7 +36,7 @@ source_url: 'https://apnews.com/article/florida-primary-governor-senate-house-c5
     <p>Florida voters are casting ballots Tuesday to select party nominees for governor to replace term-eligible Republican Ron DeSantis, as well as choosing contenders to complete the remainder of Marco Rubio’s unexpired U.S. Senate term. Alongside high-profile executive and senatorial contests, the state is holding its first congressional primaries under a redrawn district map designed to alter the state's legislative footprint.</p>
     <p>The gubernatorial race highlights striking intraparty dynamics on both sides. On the Republican ballot, 11 candidates are vying for the nomination, featuring prominent figures such as U.S. Rep. Byron Donalds, backed by Donald Trump, and Lt. Gov. Jay Collins, a close ally of DeSantis. Meanwhile, the Democratic primary features six contenders, including former U.S. Rep. David Jolly, navigating a complex path to rebuild the party’s statewide electoral standing after decades without a gubernatorial victory.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

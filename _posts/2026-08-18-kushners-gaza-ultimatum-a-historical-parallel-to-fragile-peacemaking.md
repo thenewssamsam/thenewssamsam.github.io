@@ -20,7 +20,7 @@ source_url: 'https://www.foxnews.com/world/kushner-gives-hamas-stark-ultimatum-d
   <section id="introduction">
     <p>U.S. special envoy Jared Kushner has delivered a high-stakes ultimatum to Hamas: disarm in exchange for a path toward regional stability, or face an escalated Israeli military operation to "finish the job." As the conflict approaches its third year, this diplomatic push marks a critical moment in the Trump administration's Middle East peace efforts, balancing the necessity of security with the overwhelming fatigue of a region trapped in a cycle of violence.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

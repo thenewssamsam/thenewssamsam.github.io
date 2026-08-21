@@ -23,7 +23,7 @@ source_url: 'https://www.themoscowtimes.com/2026/08/17/putin-revealed-his-true-i
 
 <p>According to reports from <em>The Moscow Times</em>, President Vladimir Putin visited the island of Iturup on August 13, 2026. The itinerary followed a familiar domestic script: a tightly managed inspection of a local business, a sternly staged meeting with regional bureaucrats, and a vetted meet-and-greet with handpicked residents.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

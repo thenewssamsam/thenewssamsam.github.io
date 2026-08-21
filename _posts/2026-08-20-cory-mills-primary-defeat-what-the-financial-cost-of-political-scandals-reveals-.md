@@ -36,7 +36,7 @@ source_url: "https://www.foxnews.com/politics/trumps-support-doesnt-save-scandal
 
 <p>The writing had been on the wall for months. A sustained effort to oust Mills gained traction as a House Ethics Committee investigation and unconfirmed reports of a Justice Department probe weighed down his candidacy. Bipartisan pressure, led in part by Rep. Nancy Mace of South Carolina and reinforced by local Florida House colleagues like Mike Haridopolos and Anna Paulina Luna shifting their support to Elijah, fractured the incumbent's donor base and voter confidence. Mills joins a growing list of House Republicans, including North Carolina's Chuck Edwards, whose re-election bids collapsed under the weight of ethics scandals.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -50,7 +50,7 @@ Seagate Portable External Hard Drive
 <h2>The Financial Mechanics of a Scandal-Plagued Primary</h2>
 <p>From a financial perspective, a primary campaign is essentially a high-stakes enterprise investment. Campaigns raise money from small-dollar donors, political action committees (PACs), and high-net-worth individuals, investing those funds into advertising, ground operations, polling, and brand management. Every dollar spent is weighed against its expected return on investment (ROI): votes and visibility.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -65,14 +65,14 @@ Tactical Waterproof Backpack
 
 <p>When an ethics investigation or scandal enters the picture, the fundamental economic math changes overnight. Donors grow hesitant to throw good money after bad, fearing their contributions will be wasted on damage control rather than positive voter persuasion. Advertising budgets that should be spent defining an opponent or highlighting legislative wins must suddenly be diverted to defensive crisis PR.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Furthermore, voter trust acts as intangible equity. When that equity takes a severe hit, the cost of acquiring every single vote skyrockets. Mills still had significant financial resources and institutional backing, but the marginal utility of those dollars plummeted as voters weighed the liability of ongoing investigations against alternative candidates like Elijah.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -90,14 +90,14 @@ Tactical Waterproof Backpack
 <h2>Campaign ROI: When High-Value Endorsements Lose Value</h2>
 <p>In standard market conditions, a presidential endorsement functions like prime real estate in a booming commercial district. It guarantees immediate visibility, lowers advertising costs, and drives high investor (donor) confidence. For months, Mills leveraged Donald Trump's endorsement as a primary shield against mounting criticism.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>However, basic economic theory reminds us of diminishing marginal returns and liability exposure. If a product—or in this case, a candidate's legislative brand—carries structural defects, slapping a luxury label on it only delays the inevitable market correction. Primary voters in Florida's 7th District ultimately acted as rational consumers looking at long-term utility. They realized that an embattled representative brings legislative gridlock, potential committee removal, and vulnerability in the general election—costs that far outweighed the short-term brand boost of an endorsement.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -115,21 +115,21 @@ Tactical Waterproof Backpack
 <h2>A Quiet Word on Integrity and Wealth</h2>
 <p>This political shakeup makes me think about how fragile human systems are when they lack a solid foundation of trust. We often look at elections purely through the lens of power dynamics and financial contributions, but there is a deeper moral economy at play in public and private life alike.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Proverbs 22:1 reminds us, &ldquo;A good name is to be chosen rather than great riches, and favour is better than silver and gold.&rdquo; When character is compromised for short-term gain, the eventual bankruptcy—whether in business, politics, or personal reputation—always exceeds any temporary profits.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Similarly, Luke 16:10 offers a timeless principle on stewardship: &ldquo;One who is faithful in a very little is also faithful in much, and one who is dishonest in a very little is also dishonest in much.&rdquo; Whether managing a multi-million-dollar campaign war chest or a local public office, the ledger of integrity is the only one that truly balances in the end.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -139,7 +139,7 @@ Tactical Waterproof Backpack
 <h2>How Should Readers Respond?</h2>
 <p>Elections like this one offer practical lessons for citizens, taxpayers, and anyone observing how organizations manage accountability:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

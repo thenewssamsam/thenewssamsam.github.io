@@ -32,14 +32,14 @@ source_url: "https://apnews.com/article/alaska-primary-senate-sullivan-peltola-c
 <h2>A Lens of Integrity</h2>
 <p>In the heat of an election cycle, the temptation to use confusion as a political weapon—or to dismiss opponents as "sham" candidates—often overrides the biblical call to honesty. Scripture frequently emphasizes the importance of a clear and upright spirit. Proverbs 12:22 tells us, <em>"The Lord detests lying lips, but he delights in people who are trustworthy."</em> This verse invites us to consider whether our political processes are fostering trust or sowing discord.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>When candidates or their supporters resort to labels and accusations, it can cloud the vision of the electorate. As followers of Christ, we are called to be "salt and light" in our communities. This means looking for candidates who demonstrate consistency, honesty, and a genuine desire to serve the common good rather than those who focus solely on tactical maneuvers.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

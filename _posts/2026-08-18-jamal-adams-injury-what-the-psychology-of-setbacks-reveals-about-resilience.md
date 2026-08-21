@@ -55,7 +55,7 @@ source_url: 'https://sports.yahoo.com/articles/jamal-adams-vikings-season-ends-1
 <h2 id="what-happened">What Happened to Jamal Adams?</h2>
 <p>The incident occurred early in the second quarter of the Vikings' 13-10 preseason victory over the Giants. In a cruel twist that underscores the unpredictable nature of professional sports, Adams suffered a non-contact knee injury. He was carted off the sideline, and head coach Kevin O'Connell's post-game concerns were confirmed shortly after: a season-ending knee injury.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

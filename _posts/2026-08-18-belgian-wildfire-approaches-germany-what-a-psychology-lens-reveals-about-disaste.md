@@ -26,7 +26,7 @@ source_url: 'https://www.wral.com/news/ap/cd5a8-belgian-wildfire-approaches-germ
   
   <p>Although a cold front brought overnight rain and favorable winds that kept the fire from explosive growth, officials warned the danger is far from over. The fire has crossed into inaccessible terrain and is threatening Monschau, Germany. Most chillingly, local foresters warn that the blaze is now burning deep underground in peaty soil. Similar fires are unfolding across a sweltering Europe, from a fatal blaze on the Greek island of Salamina and new flare-ups near Athens to controlled containment in southwestern France and arson arrests in Croatia.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

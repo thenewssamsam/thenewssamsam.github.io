@@ -39,7 +39,7 @@ source_url: "https://www.foxnews.com/politics/mysterious-polling-firm-behind-fak
 
 <p>In reality, Bass edged Raman by a much narrower five points, and Hong was defeated in a razor-thin contest by David Crowley. When the truth finally surfaced, Median Strategies posted a brief statement on its website claiming the entire operation was designed to study "how purported polling information could enter and spread through the political information ecosystem without independent verification."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -47,7 +47,7 @@ Seagate Portable External Hard Drive
 <div class="ncg-quote-box">
 <p>"Median Strategies was created as a short-term social experiment to examine how purported polling information could enter and spread through the political information ecosystem..."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -55,7 +55,7 @@ Tactical Waterproof Backpack
 
 <p>The firm slipped away quietly, declining interviews and leaving observers to pick through the wreckage of public trust. While the stunt was localized to a few primary races, the broader ripple effect touches everyone who relies on digital feeds to make sense of the world.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -65,7 +65,7 @@ Seagate Portable External Hard Drive
 <h2>The Illusion of Certainty: A Psychological and Spiritual Trap</h2>
 <p>Why do fake polls travel so far, so fast? The answer lies in human psychology and spiritual vulnerability. We live in an era characterized by anxiety about the future and deep tribal polarization. When a number appears on a screen that confirms what we already hope or fear to be true, our internal defenses drop immediately. We want to believe we have tomorrow figured out today.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -78,14 +78,14 @@ Tactical Waterproof Backpack
 
 <p>This insatiable hunger for foreknowledge and security exposes a profound spiritual restlessness. Scripture repeatedly warns against the danger of leaning on false assurances and manufactured narratives designed to tickle itching ears. Proverbs 14:15 offers a timeless counterweight to our digital impulsivity: <em>"The simple believes everything, but the prudent gives thought to his steps."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>The Median Strategies experiment succeeded precisely because many people stopped giving thought to their steps. Instead of asking whether a new, unverified firm had the methodological rigor to back up its claims, audiences accepted the data because it fit their preferred narrative framework. Deception often works best not when it is bizarre, but when it tells us what we secretly want to hear.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -99,7 +99,7 @@ Seagate Portable External Hard Drive
 <div class="ncg-shareable-box">
 <p><strong>Shareable Insight:</strong> "When we crave certainty so badly that we abandon verification, we invite manufactured falsehoods to guide our public square."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -110,7 +110,7 @@ Seagate Portable External Hard Drive
 <h2>Navigating a World Full of Counterfeits</h2>
 <p>In a world where artificial intelligence, anonymous actors, and social experiments routinely inject fiction into our daily news diet, discernment is no longer an optional skill—it is an essential discipline. The apostle Paul reminds believers in Ephesians 5:6-10 to walk as children of light, trying to discern what is pleasing to the Lord rather than being tossed about by clever deception.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -123,7 +123,7 @@ Seagate Portable External Hard Drive
 
 <p>When an anonymous entity drops a sensational data point that conveniently reinforces our political preferences, our first reaction should be skepticism, not sharing. Truth requires verification, patience, and humility. A rush to publish or repost often reveals an underlying desire to see our "side" win rather than a commitment to honest reality.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -133,7 +133,7 @@ Seagate Portable External Hard Drive
 <h2>How Christians Should Respond</h2>
 <p>How should a person of faith react to constant exposures of misinformation and social experiments masquerading as news? Here are three concrete ways to practice discernment:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

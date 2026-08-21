@@ -155,14 +155,14 @@ source_url: "https://www.nbcnews.com/news/us-news/penn-state-agostino-abbatiello
   
   <p>Compromise rarely happens in a single, earth-shattering moment. More often, it begins with small rationalizations. An accounting major understands numbers, ledgers, and risk assessment; ironically, spiritual and moral accounting often fails long before legal ledgers ever catch up to a person's actions.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
   <p>When individuals prioritize short-term gain, social status, or the thrill of illicit enterprise over long-term integrity, they enter a dangerous descent. Proverbs warns us repeatedly about the deceptive nature of shortcuts. What starts as a small compromise eventually demands greater risks, pulling individuals deeper into webs of deceit that become nearly impossible to untangle.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -177,7 +177,7 @@ Seagate Portable External Hard Drive
 
   <p>This case serves as a sober reminder that external success—good universities, respectable majors, fraternity brotherhood—cannot substitute for internal character anchored in timeless moral principles.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -190,7 +190,7 @@ Seagate Portable External Hard Drive
 
   <p>When reflecting on stories involving hidden schemes and sudden falls, Scripture offers timeless insight into the human condition. The Apostle Paul writes in Galatians 6:7 (ESV), <em>"Do not be deceived: God is not mocked, for whatever one sows, that will he also reap."</em> This verse reminds us that actions carry natural and moral consequences, regardless of how cleverly an operation is concealed from professors, peers, or law enforcement.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -201,7 +201,7 @@ Seagate Portable External Hard Drive
 
   <p>Furthermore, Proverbs 4:23 (NIV) instructs us: <em>"Above all else, guard your heart, for everything you do flows from it."</em> This principle cuts to the core of campus culture and human ambition. Guarding the heart means paying close attention to our motives, our associations, and the subtle shifts in our ethical boundaries before minor temptations turn into life-altering mistakes.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -212,7 +212,7 @@ Tactical Waterproof Backpack
 
   <p>These reflections do not excuse harmful actions; rather, they invite all of us to examine our own lives, urging vigilance, humility, and a commitment to honest stewardship in every area of our studies, work, and relationships.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

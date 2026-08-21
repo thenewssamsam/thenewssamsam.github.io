@@ -32,7 +32,7 @@ source_url: "https://www.foxnews.com/politics/trumps-support-doesnt-save-scandal
     
     <p>Mills is not an isolated casualty. His defeat mirrors a broader shifting tide in Washington, where a string of House Republicans—including Rep. Chuck Edwards of North Carolina, who dropped his re-election bid following an explosive ethics report—have found themselves isolated by their own caucuses. In Mills' case, fellow Republicans like Rep. Nancy Mace led a vocal push against him, proving that party protection has its limits when accumulating scandals turn a representative into a general election liability.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -42,7 +42,7 @@ Tactical Waterproof Backpack
     <h2>The Psychology of the Tipping Point: Why Voters Walk Away</h2>
     <p>When an immensely popular political figure like Donald Trump backs a candidate, standard political gravity suggests loyalty should win out. Why, then, did thousands of primary voters look at the exact same endorsement and decide it was time for a change? To understand this shift, we have to look past political strategy and examine the cognitive mechanisms driving voter decision-making.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -50,7 +50,7 @@ Seagate Portable External Hard Drive
     <h3 class="ncg-h3">Normalcy Bias Meets Cognitive Dissonance</h3>
     <p>Voters generally operate under a psychological state known as <a href="https://www.amazon.com/dp/0143115383?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">normalcy bias</a>—the unconscious assumption that things will continue roughly as they have, and that minor scandals are just political noise. For a long time, partisans lean heavily on <a href="https://www.amazon.com/dp/0061122416?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">confirmation bias</a>, dismissing negative reports about their preferred candidates as partisan attacks or media hit jobs.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -62,7 +62,7 @@ Seagate Portable External Hard Drive
 
     <p>However, there is a distinct psychological tipping point. When multiple colleagues from the candidate's own party—such as Mace, Haridopolos, and Luna—start breaking ranks and publicly endorsing the opponent, the cognitive dissonance becomes too heavy to maintain. The defense mechanism breaks down because the threat is no longer coming from external political rivals; it is coming from inside the tribe.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -74,14 +74,14 @@ Seagate Portable External Hard Drive
     <h3 class="ncg-h3">The Cost of Loss Aversion</h3>
     <p>Psychologists have long documented <a href="https://www.amazon.com/dp/0393356256?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" style="color: #0066cc; text-decoration: none;">loss aversion</a>—the principle that the pain of losing something feels far more intense than the pleasure of gaining its equivalent. In a primary election, voters weigh the potential loss of their district's safety, effectiveness, and general election viability against the emotional comfort of sticking with an incumbent.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>When continuous ethics investigations dominate the news cycle, maintaining support for that candidate stops feeling like loyalty to a movement and starts feeling like an unnecessary risk. Florida voters in the 7th District ultimately decided that keeping an embattled incumbent was a gamble they no longer wished to take.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -91,7 +91,7 @@ Seagate Portable External Hard Drive
     <h2>A Reflection on Integrity and Public Trust</h2>
     <p>This dynamic of public figures leaning on high-profile associations while trying to outrun private accountability reminds me of timeless human truths. We often look to powerful endorsements or charismatic titles to shield us from the consequences of our own actions. Yet, history and moral wisdom consistently demonstrate that titles do not overwrite character.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -103,14 +103,14 @@ Seagate Portable External Hard Drive
 
     <p>One verse that comes to mind when observing these political shifts is Proverbs 11:3: <em>"The integrity of the upright guides them, but the unfaithfulness of the treacherous destroys them."</em> It is a reminder that short-term alliances and powerful patrons can temporarily mask deep fractures, but foundational integrity—or the lack of it—ultimately dictates where a person stands when the dust settles.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>I'm also reminded of Luke 12:2-3: <em>"There is nothing concealed that will not be disclosed, or hidden that will not be made known."</em> In the modern digital and political landscape, secrets have a shrinking shelf life. Public scrutiny acts as an unforgiving lens, bringing hidden choices into the open and forcing a reckoning that even the most influential endorsements cannot prevent.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -120,7 +120,7 @@ Tactical Waterproof Backpack
     <h2>How Should Voters Respond?</h2>
     <p>Primary upsets like the one in Florida offer a clear lesson for politically engaged citizens:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

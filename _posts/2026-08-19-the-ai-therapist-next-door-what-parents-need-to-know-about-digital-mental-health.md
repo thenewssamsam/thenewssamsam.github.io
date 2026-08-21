@@ -26,7 +26,7 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-menta
   <div style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
     <p><strong>Recommended Resource:</strong> <a href="#">Journaling for Mental Clarity: A Guided Workbook</a> - . A physical space to process emotions outside of digital screens.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -36,7 +36,7 @@ Tactical Waterproof Backpack
     <h2>The Parenting Challenge: Why AI Appeals to Struggling Youth</h2>
     <p>As parents, we must understand the "why" behind the shift toward AI. Dr. Vaile Wright of the American Psychological Association notes that many young people feel they are a "burden" to their loved ones. AI is available 24/7, is free, and—most importantly—is perceived as non-judgmental. For a child fearing the stigma of mental illness, a screen can feel safer than a conversation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -56,7 +56,7 @@ Seagate Portable External Hard Drive
   <div style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
     <p><strong>Recommended Resource:</strong> <a href="#">Family Conversation Starter Cards</a> - . Tools to help deepen real-world connections.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -66,14 +66,14 @@ Tactical Waterproof Backpack
     <h2>A Word of Hope and Wisdom</h2>
     <p>In moments of profound suffering, the weight of the world can feel crushing. Scripture reminds us that we were never meant to carry these burdens in isolation. Psalm 34:18 tells us, <em>"The Lord is close to the brokenhearted and saves those who are crushed in spirit."</em> This is a beautiful invitation to remember that true healing often happens in the presence of others—the "body of believers" and the community of support God places around us.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>When we feel the temptation to retreat into a digital void, we might also consider Galatians 6:2: <em>"Carry each other’s burdens, and in this way you will fulfill the law of Christ."</em> This verse invites us to be the hands and feet of Christ for one another. As parents, we are called to be the safe harbor where our children can bring their heaviest burdens, knowing they are met with grace rather than the cold logic of an algorithm.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -83,19 +83,19 @@ Seagate Portable External Hard Drive
     <h2>How Should Readers Respond?</h2>
     <p><strong>1. Audit Your Digital Habits:</strong> If you are using AI for mental health, please transition to a licensed, human professional immediately.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p><strong>2. Initiate the Conversation:</strong> Don't wait for a crisis. Ask your children or loved ones, "Who do you turn to when you're feeling really low?" Listen without immediate advice.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p><strong>3. Prioritize Human Connection:</strong> Make physical, face-to-face time a priority, even when it feels inconvenient or awkward.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

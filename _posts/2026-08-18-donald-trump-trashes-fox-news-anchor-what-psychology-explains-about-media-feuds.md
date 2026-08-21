@@ -143,7 +143,7 @@ source_url: 'https://www.huffpost.com/entry/donald-trump-fox-news-shannon-bream_
 <h2 id="what-happened">What Happened in the Trump-Bream Clash</h2>
 <p>Over the weekend, Donald Trump unleashed a pair of lengthy posts on his Truth Social platform targeting Fox News anchor Shannon Bream. The flashpoint was an episode of "Fox News Sunday," during which Bream challenged Attorney General Todd Blanche on sensitive topics including the controversial anti-weaponization fund and the construction of a new White House ballroom.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

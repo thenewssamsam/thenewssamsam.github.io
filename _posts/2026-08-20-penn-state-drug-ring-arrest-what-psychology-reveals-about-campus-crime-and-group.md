@@ -153,7 +153,7 @@ source_url: "https://www.nbcnews.com/news/us-news/penn-state-agostino-abbatiello
 
     <p>While investigations of this scale routinely focus on the logistics of contraband, financial flows, and law enforcement tactics, they rarely unpack the underlying psychological environment that allows such schemes to incubate in plain sight. College campuses are uniquely dense social ecosystems where peer validation often supersedes institutional rules, creating fertile ground for severe behavioral blind spots.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -166,14 +166,14 @@ Seagate Portable External Hard Drive
 
     <p>When looking at how a student can compartmentalize academic responsibilities like accounting while allegedly managing illicit supply chains, psychologists point to several well-documented cognitive mechanisms.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>The first is <strong>normalization of deviance</strong>. Coined in organizational sociology and widely applied in behavioral psychology, this concept describes how incremental boundary-pushing becomes accepted as standard practice over time. A small favor here, a minor rule violation there, and soon behaviors that would have initially caused profound moral panic feel routine and manageable.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -184,7 +184,7 @@ Tactical Waterproof Backpack
 
     <p>Next is <strong>compartmentalization and rationalization</strong>. Human beings possess an uncanny ability to hold conflicting identities simultaneously. To his peers and fraternity brothers, an individual might present as a dedicated student pursuing a legitimate business or accounting degree. Inwardly, the risk assessment is warped by rationalizations: "Everyone is doing something similar," or "It is just a temporary hustle to get ahead."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -199,7 +199,7 @@ Tactical Waterproof Backpack
 
     <p>Finally, <strong>groupthink within insulated social bubbles</strong> plays a major role. Fraternities and tightly knit college subcultures can create insular reality tunnels. When normative signals come exclusively from an immediate peer group rather than broader societal structures, ethical guardrails can quickly dissolve.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -212,7 +212,7 @@ Tactical Waterproof Backpack
 
     <p>Situations like the one unfolding at Penn State invite a deeper look at the fragility of character when placed under the bright lights of autonomy and temptation. Proverbs 4:23 reminds us, "Keep your heart with all vigilance, for from it flow the springs of life." It is a timeless observation that our outward actions are almost always the delayed fruit of inner choices.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -223,7 +223,7 @@ Seagate Portable External Hard Drive
 
     <p>When young adults step away from family structures into the autonomy of university life, the temptation to take shortcuts toward success or status can be overwhelming. Yet, as Galatians 6:7 notes, "Do not be deceived: God is not mocked, for whatever one sows, that will he also reap." The psychological weight of living a double life ultimately catches up with the individual, proving that true peace of mind is worth far more than any temporary gain.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -236,7 +236,7 @@ Tactical Waterproof Backpack
 
     <p>For parents, educators, and students alike, news reports involving high-profile campus arrests serve as a stark reminder to evaluate the environments we cultivate.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -256,7 +256,7 @@ Seagate Portable External Hard Drive
       <summary class="ncg-faq-summary">What are the details of the Penn State drug case?</summary>
       <p>According to NBC News reports, authorities allege that Agostino Abbatiello operated a major drug distribution network on the Penn State campus, moving from a standard student profile to allegedly heading the university's largest drug scheme.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -266,7 +266,7 @@ Tactical Waterproof Backpack
       <summary class="ncg-faq-summary">How does normalcy bias affect college student behavior?</summary>
       <p>Normalcy bias causes individuals to underestimate the likelihood and severity of negative consequences when engaging in risky or illicit behavior, especially if they see others around them normalizing similar actions.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -276,7 +276,7 @@ Seagate Portable External Hard Drive
       <summary class="ncg-faq-summary">Why are college campuses vulnerable to illicit drug schemes?</summary>
       <p>High population density, insulated social circles like fraternities, and high demand combined with peer pressure create an environment where illicit markets can sometimes operate with a false sense of security.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

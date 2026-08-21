@@ -21,7 +21,7 @@ source_url: 'https://united24media.com/world/russia-sends-four-missile-warships-
 <h2>What Happened off the Coast of Hokkaido?</h2>
 <p>According to Japan's Joint Staff, four Russian Project 12411M Molniya-1 missile corvettes were detected off Cape Soya on Hokkaido's northern tip. A maritime patrol aircraft from the Japan Maritime Self-Defense Force closely monitored the vessels, which did not cross into Japanese territorial waters.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

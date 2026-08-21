@@ -23,7 +23,7 @@ source_url: "https://apnews.com/article/tariffs-trump-canada-usmca-trade-aae597c
     <h2>What Happened?</h2>
     <p>The U.S. government was set to impose a 50% tariff on a variety of Canadian goods, ranging from medical supplies like tongue depressors to everyday items like hockey sticks. The delay was announced via social media, providing a brief window for negotiators to finalize terms. This situation highlights the volatility of modern trade policy and the ongoing effort to renegotiate the USMCA framework.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -33,7 +33,7 @@ Tactical Waterproof Backpack
     <h2>The Legal Basis: Understanding Section 338</h2>
     <p>The Trump administration's decision to invoke Section 338 of the Tariff Act of 1930 is an extraordinary legal move. This statute, born from the Great Depression era, grants the President broad, nearly unchecked authority to impose tariffs of up to 50% on goods from nations deemed to be "discriminating" against U.S. commerce.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -41,7 +41,7 @@ Seagate Portable External Hard Drive
     <div class="ncg-legal-note" style="border-left: 5px solid #6a5acd; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Disclaimer:</strong> This is general information, not legal advice. Trade law is complex and subject to rapid change. Consult a licensed attorney or trade compliance expert about your specific situation regarding import regulations and business liabilities.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -63,13 +63,13 @@ Tactical Waterproof Backpack
     <h2>A Perspective on Stewardship and Truth</h2>
     <p>When I reflect on these complex trade negotiations, I am reminded of the biblical call to integrity and fairness in all our dealings. Proverbs 11:1 tells us, <em>"The Lord detests dishonest scales, but accurate weights find favor with him."</em> This verse serves as a timeless standard for any system, whether it is a marketplace or a government trade policy. It invites us to consider whether our pursuit of national interest is balanced by a commitment to justice for our neighbors.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>Furthermore, we are reminded in Philippians 2:4, <em>"Let each of you look not only to his own interests, but also to the interests of others."</em> As we navigate these economic uncertainties, we are called to act with wisdom and compassion, recognizing that the decisions made in high offices eventually ripple down to the families and workers who rely on stable, honest trade. It encourages us to pray for our leaders to seek solutions that reflect truth rather than mere tactical maneuvering.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -79,7 +79,7 @@ Seagate Portable External Hard Drive
     <h2>How Should Readers Respond?</h2>
     <p>For small business owners and consumers, this "limbo state" necessitates a cautious approach:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

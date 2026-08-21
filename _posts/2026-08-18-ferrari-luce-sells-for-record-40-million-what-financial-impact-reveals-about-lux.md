@@ -53,7 +53,7 @@ source_url: 'https://www.cnn.com/2026/08/17/cars/ferrari-electric-luce-record-sa
   <h2 id="what-happened">What Happened at Monterey Car Week</h2>
   <p>During Monterey Car Week in California, RM Sotheby's auctioned off "Chassis 0"—the very first tailor-made prototype of the Ferrari Luce. The electric vehicle, featuring a bubble-like design drastically departing from traditional angular Ferrari aesthetics, blew past its original  million estimate by a factor of 36. Finalizing at  million, the sale set a new world record for the highest-priced new car ever sold at auction.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

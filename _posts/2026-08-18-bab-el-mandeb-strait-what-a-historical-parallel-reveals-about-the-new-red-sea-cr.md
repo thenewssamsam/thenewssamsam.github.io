@@ -33,7 +33,7 @@ source_url: 'https://www.foxnews.com/world/bab-el-mandeb-strait-faces-growing-th
     <h2>What Happened in the Bab el-Mandeb Strait?</h2>
     <p>The global shipping corridor connecting the Gulf of Aden to the Red Sea and the Suez Canal is facing its most severe threat in over a decade. Recent escalations, highlighted by lethal attacks on commercial vessels like the Egyptian-owned cargo ship <em>Tihamah</em>, have reignited fears that the Bab el-Mandeb Strait could transform into a second Strait of Hormuz. Four crew members lost their lives in the initial strike, followed tragically by the deaths of two Yemeni rescuers.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -131,7 +131,7 @@ source_url: 'https://qz.com/nvidia-openai-ohio-data-center-backstop-081726'
   
   <p>According to reporting from The Wall Street Journal, Nvidia ($NVDA) and OpenAI were nearing a finalized agreement that could have been signed as early as last weekend. However, as terms were refined, Nvidia adjusted its financial support structure for the proposed Ohio data center campus.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

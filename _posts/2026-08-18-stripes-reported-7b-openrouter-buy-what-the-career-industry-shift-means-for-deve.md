@@ -32,7 +32,7 @@ source_url: 'https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai
 <h2>What Happened</h2>
 <p>According to reports from Bloomberg, financial infrastructure titan Stripe has finalized a deal to acquire AI gateway startup OpenRouter for upwards of  billion. The transaction follows intense speculation and reporting from The Wall Street Journal regarding ongoing acquisition talks between the two companies.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

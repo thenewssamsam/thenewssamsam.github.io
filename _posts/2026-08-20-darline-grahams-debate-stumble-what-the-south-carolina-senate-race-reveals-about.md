@@ -25,7 +25,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/19/darline-graham-deba
     <div style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Recommended Reading:</strong> <a href="#">Understanding Modern Geopolitics - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 CeraVe Hydrating Facial Cleanser 
 </a></div>
 
@@ -33,7 +33,7 @@ CeraVe Hydrating Facial Cleanser
 
     <p>While her opponent, Representative Ralph Norman, utilized the question to demonstrate his grasp of foreign policy, Graham leaned into her identity as an unpolished outsider. The reaction from the audience—a mixture of gasps and boos—highlights a growing tension in American politics: do voters want a seasoned policy expert, or are they prioritizing an authentic "outsider" who reflects their own lack of familiarity with complex international crises?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 AMANSSE Lightweight Running Shoes 
 </a></div>
 
@@ -43,7 +43,7 @@ AMANSSE Lightweight Running Shoes
     <h2>The Psychology of the "Outsider" Appeal</h2>
     <p>From a behavioral perspective, Graham’s admission is a fascinating case study in <em>radical transparency</em>. In high-stakes political environments, candidates typically employ "impression management," using jargon to mask gaps in knowledge. By admitting her ignorance, Graham triggered a psychological shift in the room.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 AMANSSE Lightweight Running Shoes 
 </a></div>
 
@@ -51,7 +51,7 @@ AMANSSE Lightweight Running Shoes
     <h3>The Trust-Competence Paradox</h3>
     <p>Voters often face a trade-off between perceived <em>warmth</em> (authenticity) and <em>competence</em>. Graham’s admission increases her perceived warmth—she feels like a "real person"—but it simultaneously triggers a <em>competence risk</em> for voters who prioritize national security. This creates a state of cognitive dissonance for her supporters: they value her honesty, yet they feel uneasy about her lack of preparation for the Senate’s role in foreign affairs.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 FitVille Comfortable Running Shoes 
 </a></div>
 
@@ -62,7 +62,7 @@ FitVille Comfortable Running Shoes
 
     <p>Furthermore, the audience's reaction reflects <em>normalcy bias</em>. We expect Senate candidates to be experts in foreign policy. When that expectation is violated, the psychological discomfort manifests as audible booing. Graham is banking on the idea that her supporters view the "establishment" as untrustworthy, making her admission a badge of honor rather than a disqualification.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 CeraVe Hydrating Facial Cleanser 
 </a></div>
 
@@ -70,7 +70,7 @@ CeraVe Hydrating Facial Cleanser
     <div style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Recommended Reading:</strong> <a href="#">The Psychology of Leadership - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 FitVille Comfortable Running Shoes 
 </a></div>
 
@@ -81,13 +81,13 @@ FitVille Comfortable Running Shoes
     <h2>A Reflection on Wisdom and Stewardship</h2>
     <p>Watching this debate, I am reminded that the ability to admit what we do not know is often the beginning of true wisdom. Proverbs 11:2 reminds us, <em>"When pride comes, then comes disgrace, but with humility comes wisdom."</em> While the political arena demands confidence, there is a profound moral weight to the role of a leader—especially one tasked with decisions that involve the safety and lives of others.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 FitVille Comfortable Running Shoes 
 </a></div>
 
     <p>Scripture invites us to consider the gravity of stewardship. Whether in a local community or the halls of the Senate, leadership is not just about being "polished"; it is about being equipped to protect the vulnerable. As we watch this race unfold, it encourages me to pray for leaders who possess not only the courage to be honest about their limitations but also the diligence to seek the knowledge required to serve with excellence and integrity.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 FitVille Comfortable Running Shoes 
 </a></div>
 
@@ -104,7 +104,7 @@ FitVille Comfortable Running Shoes
     <div style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Recommended Reading:</strong> <a href="#">Government and Policy Guide - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 CeraVe Hydrating Facial Cleanser 
 </a></div>
 

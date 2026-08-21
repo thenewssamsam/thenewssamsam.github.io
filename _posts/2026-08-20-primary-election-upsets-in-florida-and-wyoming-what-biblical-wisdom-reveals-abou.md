@@ -46,7 +46,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/live-blog/elections-
 <h2>The Nature of Political Ambition and Human Power</h2>
 <p>Watching politicians jockey for influence, secure endorsements, and navigate public scandals often feels like watching an endless theater of human striving. The sudden rise of outsiders and the unexpected falls of established figures remind us how quickly earthly standing can shift. Political campaigns require immense amounts of pride, self-promotion, and the assertion that one's own voice is uniquely qualified to lead.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -57,7 +57,7 @@ Seagate Portable External Hard Drive
 
 <p>Yet, history and scripture consistently show that human power is a fleeting vapor. When candidates stake their entire identity on winning an election, defeat feels devastating, and victory often breeds a false sense of invincibility. This cycle of ambition invites a deeper look into what truly anchors our lives beyond the ballot box.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -71,14 +71,14 @@ Tactical Waterproof Backpack
 <h2>A Reflection on Pride and Power</h2>
 <p>This political turbulence makes me think about how easily humanity places its ultimate trust in rulers and systems that ultimately pass away. Scripture offers a steadying anchor amid the noise of campaign trails and primary upsets.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Proverbs 19:21 reminds us: <em>"Many are the plans in a person’s heart, but it is the Lord’s purpose that prevails."</em> (NIV). No matter how much money is spent, how many endorsements are secured, or how carefully a political strategy is mapped out, human control has strict limits.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -89,7 +89,7 @@ Tactical Waterproof Backpack
 
 <p>Furthermore, Psalm 146:3-4 cautions us: <em>"Do not put your trust in princes, in human beings, who cannot save. When their spirit departs, they return to the ground; on that very day their plans come to nothing."</em> (NIV). This is not an argument for civic apathy, but rather a call for spiritual sobriety. Leaders rise and fall, primaries are won and lost, but our ultimate security rests far beyond any legislative chamber.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -99,7 +99,7 @@ Seagate Portable External Hard Drive
 <h2>How Christians Should Respond</h2>
 <p>As believers observe the 2026 primary results, our response should be marked by discernment rather than despair or triumphalism. Here are three concrete ways to approach political news faithfully:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

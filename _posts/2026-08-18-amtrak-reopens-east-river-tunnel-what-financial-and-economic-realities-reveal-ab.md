@@ -24,7 +24,7 @@ source_url: 'https://abc7ny.com/post/amtrak-reopens-east-river-tunnel-line-damag
 
 <p>Amtrak marked the reopening of Line 2 with a celebration at Penn Station, highlighting the completion of a grueling yearlong overhaul. Built in 1910, the 116-year-old tunnel system serves as a vital artery for the Northeast Corridor, carrying more than 450 Amtrak, Long Island Rail Road (LIRR), and NJ Transit trains daily between Manhattan, Queens, and points north and south.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

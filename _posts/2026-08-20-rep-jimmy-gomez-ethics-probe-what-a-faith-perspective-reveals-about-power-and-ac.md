@@ -48,13 +48,13 @@ source_url: 'https://www.usatoday.com/story/news/politics/2026/08/19/jimmy-gomez
     <h2>A Wider Capitol Hill Reckoning</h2>
     <p>The scrutiny facing Representative Gomez does not occur in a vacuum. It arrives amid a turbulent season on Capitol Hill that has already seen the departures or campaign suspensions of several lawmakers across both political parties. From Eric Swalwell and Tony Gonzales to Sheila Cherfilus-McCormick and Chuck Edwards, a wave of scandals has exposed systemic vulnerabilities in how congressional offices handle personal conduct, power imbalances, and accountability.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
     <p>Bipartisan task forces have been formed, and leaders like Representatives Kat Cammack and Teresa Leger Fernández have rightly stressed that no employee should ever feel unsafe in their workplace. Yet, structural committees and ethics panels can only legislate outward behavior. They often struggle to diagnose the deeper moral rot that takes root when human beings assume positions of absolute authority without a corresponding grounding in humility.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -64,7 +64,7 @@ Seagate Portable External Hard Drive
     <h2>A Scripture Perspective on Power and Temptation</h2>
     <p>When powerful leaders fall or face grave accusations, Scripture offers a sobering reminder about the seductive nature of authority and the deceitfulness of the human heart. Power acts as an amplifier of character; it does not merely test a person—it reveals what was already quietly tolerated within.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -84,7 +84,7 @@ Tactical Waterproof Backpack
 
     <p>Furthermore, the dynamic between a powerful elected official and a congressional staffer highlights a profound imbalance that scripture consistently warns against: the exploitation of the vulnerable by those holding leverage. True authority in biblical teaching is never a license for self-gratification; it is a sacred trust measured by servanthood, sacrifice, and rigorous personal integrity.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -100,7 +100,7 @@ Seagate Portable External Hard Drive
     <h2>Walking in Truth and Humility</h2>
     <p>This ongoing Capitol Hill reckoning makes me think about how easily humanity justifies compromise behind closed doors. We tell ourselves that private actions do not matter as long as public duties are managed. Yet scripture reminds us that every hidden action eventually faces the light.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -123,7 +123,7 @@ Tactical Waterproof Backpack
     <h2>How Should Christians Respond?</h2>
     <p>When news breaks of yet another leader facing serious misconduct allegations, believers are called to respond with discernment, prayer, and a commitment to justice rather than cynical partisanship.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -144,7 +144,7 @@ Tactical Waterproof Backpack
     <h2>Closing Takeaway</h2>
     <p>The investigation into Representative Jimmy Gomez is far from concluded, and due process must be allowed to run its course. Yet the broader pattern of scandals on Capitol Hill reminds every observer that earthly power is fleeting, while moral character leaves an eternal mark.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 

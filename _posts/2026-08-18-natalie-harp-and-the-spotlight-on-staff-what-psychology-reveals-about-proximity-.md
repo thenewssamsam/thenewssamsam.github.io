@@ -27,7 +27,7 @@ source_url: 'https://www.nbcnews.com/politics/white-house/natalie-harp-trump-aid
 <h2 id="what-happened">What Happened?</h2>
 <p>According to available news reports, Natalie Harp, an aide associated with Donald Trump, gained widespread public notice following inquiries by Sen. Jon Ossoff. While staff members typically operate behind the scenes managing schedules, communications, and logistical support, modern political environments have increasingly blurred the line between principal figures and their immediate staff. In this case, questions regarding Harp's role and proximity to power brought her into the legislative crosshairs, illustrating how high-stakes political oversight often extends well beyond elected leadership.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

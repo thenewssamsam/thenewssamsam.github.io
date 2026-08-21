@@ -22,7 +22,7 @@ source_url: "https://www.nbcnews.com/news/us-news/tuesday-primaries-buss-family-
     <div style="border-left: 4px solid #gold; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Shareable Insight:</strong> "The Lakers are more than a business asset; they are a civic institution. When ownership stability is questioned, the entire Los Angeles community feels the ripple effect of that uncertainty."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -33,7 +33,7 @@ Seagate Portable External Hard Drive
     <h2>Why This Matters to Los Angeles</h2>
     <p>In a city where professional sports teams are woven into the social fabric, the Lakers occupy a unique space. Since Jerry Buss took control in 1979, the team has been synonymous with "Showtime," glamour, and a specific brand of Los Angeles excellence. For the local community, the "Buss family" isn't just a group of shareholders—they are the stewards of a legacy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -41,7 +41,7 @@ Seagate Portable External Hard Drive
     <h3>The Stability Factor</h3>
     <p>When questions of ownership arise, they aren't just boardroom squabbles. Fans often worry about the "soul" of the organization. Will new majority owners prioritize local community engagement? Will the culture that defines the Lakers be maintained? These are the questions that circulate in barbershops, sports bars, and living rooms across LA.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -49,7 +49,7 @@ Seagate Portable External Hard Drive
     <div style="border: 1px solid #ddd; padding: 10px; background: #fff; border-radius: 8px; margin: 15px 0;">
       <p><strong>Recommended for Fans:</strong> <a href="#">Los Angeles Lakers Official Team Jersey - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -57,7 +57,7 @@ Tactical Waterproof Backpack
 
     <p>The conflict between the six children of the late Jerry Buss highlights a common struggle in family-owned dynasties: the transition from the founder's singular vision to the complex, often conflicting interests of the next generation. For Los Angeles, the hope is that despite these internal tensions, the team remains a stable, winning force.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -67,13 +67,13 @@ Tactical Waterproof Backpack
     <h2>A Moment for Reflection</h2>
     <p>Seeing the friction within a family tasked with stewarding a legacy reminds me that true stability rarely comes from human institutions alone. In the Bible, we are reminded of the complexities of inheritance and the need for wisdom when managing what has been entrusted to us. <em>"A good man leaves an inheritance to his children’s children"</em> (Proverbs 13:22). This verse often speaks to the physical, but it also speaks to the moral and relational inheritance we leave behind.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>It makes me think about how we handle the things we are "in charge" of, whether that is a massive sports franchise or our own family dynamics. The pressure to hold onto the past while navigating a changing future can create immense strain. It is a humble reminder that even in the high-stakes world of professional sports, we are all just stewards of the time and responsibilities given to us, and grace is needed to navigate the inevitable disagreements that come with shared legacy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

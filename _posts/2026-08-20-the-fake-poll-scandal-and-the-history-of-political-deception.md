@@ -32,7 +32,7 @@ source_url: "https://www.foxnews.com/politics/mysterious-polling-firm-behind-fak
   <h2 id="historical-parallel">A Historical Parallel: Manufactured Realities of the Past</h2>
   <p>The Median Strategies experiment is far from the first time political actors or provocateurs have manufactured consensus to influence public behavior. Looking back through history reveals striking parallels to how societies have repeatedly fallen for fabricated metrics and manufactured consensus.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -40,7 +40,7 @@ Tactical Waterproof Backpack
   <h3>1. The Literary Hoaxes of Eighteenth-Century Pamphleteers</h3>
   <p>During the rise of print journalism in Europe and early America, pamphleteers regularly published fabricated letters, fictitious election returns, and forged council resolutions to sway public opinion. Just as Median Strategies injected unverified numbers into modern social media feeds, eighteenth-century essayists understood that print media often prioritized speed and sensationalism over rigorous fact-checking. Readers eagerly consumed dramatic reports of shifting political tides without any mechanism to verify the underlying data.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -48,7 +48,7 @@ Seagate Portable External Hard Drive
   <h3>2. The Literary Hoaxes and Early Modern Propagandas</h3>
   <p>Throughout the nineteenth and twentieth centuries, governments and political factions frequently utilized fabricated opinion metrics—often disguised as expert reports or straw polls—to create a sense of inevitable victory or defeat. The goal was rarely just information sharing; it was psychological conditioning designed to demoralize political opponents and mobilize supporters through manufactured momentum.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -60,14 +60,14 @@ Seagate Portable External Hard Drive
   <h2 id="scripture-reflection">Reflecting on Truth and Integrity</h2>
   <p>This modern polling stunt reminds us of the timeless human struggle with deception. When false information is deliberately introduced into public discourse, it exploits our natural inclination to follow the crowd and believe what aligns with our expectations. Scripture cautions us repeatedly about the dangers of deceit and the importance of anchoring our trust in verified truth rather than circulating rumors.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
   
   <p>Proverbs 12:17 reminds us, "An honest witness tells the truth, but a false witness tells lies." Furthermore, Proverbs 14:15 advises, "The simple believe anything, but the prudent give thought to their steps." These ancient words offer a profound critique of our modern information consumption, urging us to exercise discernment rather than passively accepting every viral claim that crosses our screens.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -83,7 +83,7 @@ Tactical Waterproof Backpack
   <h2 id="how-readers-respond">How Should Readers Respond?</h2>
   <p>As digital misinformation grows more sophisticated, readers must adopt proactive habits to protect their information diet:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

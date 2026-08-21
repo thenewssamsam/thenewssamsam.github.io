@@ -26,7 +26,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/disney-parks-strategy-superfans-maz
 
   <p>For a multi-national entertainment conglomerate facing macroeconomic shifts and softening travel trends at rival resorts, reviving a broken ride prop and bringing back classic characters like Figment and Dreamfinder might seem like minor details. But from a behavioral standpoint, these targeted nods to nostalgia are precisely what keep the economic engine humming.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

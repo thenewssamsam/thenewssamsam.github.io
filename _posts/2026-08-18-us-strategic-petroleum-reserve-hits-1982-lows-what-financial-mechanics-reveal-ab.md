@@ -38,7 +38,7 @@ source_url: 'https://finance.yahoo.com/energy/article/the-strategic-petroleum-re
     <p>Withdrawals from the U.S. government's Strategic Petroleum Reserve (SPR) accelerated recently, dropping the emergency energy backstop by 5.3 million barrels in a single week to rest at 293.4 million barrels. This downward trajectory follows five continuous months of releases initiated by the administration in March to steady turbulent global energy markets.</p>
     <p>According to data released by the U.S. Department of Energy, the reserve has shrunk by an average of 6.3 million barrels per week since early April. This relentless drawdown coincides with stubborn fuel prices, with the American Automobile Association (AAA) reporting national gas averages at  a gallon—marking the highest mid-August prices on record.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -42,7 +42,7 @@ source_url: 'https://www.bbc.com/news/articles/c3ekl74jnk5o'
 <h2>The Financial Mechanics: Who Pays, Who Profits, and What Changes</h2>
 <p>In any international trade negotiation, tariffs are rarely paid by the foreign government; instead, they function as a tax levied on domestic importers, which is then passed down to manufacturers and retail consumers. When the US previously floated sweeping tariff hikes—such as moving levies on Canadian steel and aluminum to 50%—the immediate financial burden fell squarely on American industrial buyers, construction firms, and automakers who rely on seamless cross-border inputs.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -54,7 +54,7 @@ Tactical Waterproof Backpack
 
 <p>Under the newly negotiated terms, reports indicate that US tariffs on Canadian steel and aluminum may be cut in half, dropping back to 25%, while headline tariff rates on Canadian-made vehicles could see a reduction from 25% to 15%. For industrial manufacturers on both sides of the border, this partial de-escalation provides immediate cost relief, preventing a severe margin squeeze that would have inevitably forced retail prices upward.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -71,7 +71,7 @@ Seagate Portable External Hard Drive
 <h2>Sector-by-Sector Breakdown: Steel, Autos, and Dairy</h2>
 <p>To truly understand the weight of this impending agreement, we have to look past the political headlines and examine how specific industries navigate cross-border interdependency.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -79,7 +79,7 @@ Seagate Portable External Hard Drive
 <h3>Manufacturing and Automotive Supply Chains</h3>
 <p>North American automotive manufacturing is not a collection of isolated national factories; it is a hyper-integrated ecosystem where a single vehicle component crosses the US-Canada border multiple times before final assembly. A 25% tariff on autos and raw metals threatened to break this model, creating massive inflationary pressures. By scaling back these rates, negotiators have signaled a commitment to preserving existing supply chain efficiencies, though businesses still face lingering uncertainty regarding long-term regulatory alignment.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -92,7 +92,7 @@ Tactical Waterproof Backpack
 <h3>The Dairy Protection Battleground</h3>
 <p>While industrial sectors found room for compromise, Canada’s fiercely defended dairy supply management system remains entirely intact. Despite persistent American lobbying for greater access for US cheese and dairy producers, Minister LeBlanc confirmed that production quotas, pricing controls, and import limits will not be dismantled. For Canadian dairy farmers, this preserves vital price stability; for American negotiators, it remains an unresolved friction point that will likely surface in future trade talks.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -100,7 +100,7 @@ Tactical Waterproof Backpack
 <div class="ncg-quote-box">
 <p>"When economic policy swings between protectionism and open markets, the true test of any trade deal isn't just the tax rate negotiated today, but the certainty it provides for the businesses and workers building tomorrow."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -116,14 +116,14 @@ Tactical Waterproof Backpack
 <h2>A Quiet Reflection on Stewardship and Trust</h2>
 <p>Moments of sweeping economic renegotiation often force communities to reflect on how we manage resources, trade fairly with our neighbors, and build lasting security. When national leaders debate tariffs, quotas, and supply chains, they are essentially deciding how wealth and opportunity are distributed across millions of households.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
 
 <p>This reminds me of the ancient wisdom found in Scripture regarding honest stewardship and equitable weights. Proverbs 11:1 tells us, <em>"False scales are an abomination to the Lord, but an honest weight is His delight."</em> While this proverb speaks fundamentally to moral integrity in everyday commerce, it also invites leaders and citizens alike to consider whether our economic systems foster genuine fairness or merely transactional leverage.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -135,7 +135,7 @@ Seagate Portable External Hard Drive
 
 <p>Furthermore, Ecclesiastes 11:2 offers a timeless principle for navigating uncertain times: <em>"Divide your portion to seven, or even to eight, for you do not know what misfortune may occur on the earth."</em> In the context of modern international commerce, this underscores why resilient supply chains and diversified trade partnerships are so vital—relying on a single economic avenue always carries hidden vulnerabilities.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -150,7 +150,7 @@ Seagate Portable External Hard Drive
 <h2>How Should Readers Respond to Trade Uncertainty?</h2>
 <p>For ordinary citizens, business owners, and investors watching these trade negotiations unfold, reacting with panic or knee-jerk financial moves is rarely productive. Instead, consider these grounded steps:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -170,7 +170,7 @@ Tactical Waterproof Backpack
 <h2>Closing Takeaway & One Last Thought</h2>
 <p>The finalisation of a trade deal between Canada and the United States represents a crucial step back from the brink of damaging economic friction. While political leaders will claim total victory and critics will scrutinize every remaining concession, the underlying reality is that economic stability depends on cooperation rather than isolation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 

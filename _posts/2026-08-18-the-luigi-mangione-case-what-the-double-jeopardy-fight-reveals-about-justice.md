@@ -20,7 +20,7 @@ source_url: 'https://apnews.com/article/luigi-mangione-unitedhealthcare-ceo-post
   <section id="introduction">
     <p>The state murder trial of Luigi Mangione, accused of killing UnitedHealthcare CEO Brian Thompson, has been indefinitely postponed. As legal teams clash over the application of double jeopardy following Mangione’s federal guilty plea, the case has become a focal point for understanding the complex interplay between state and federal jurisdictions in the American legal system.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

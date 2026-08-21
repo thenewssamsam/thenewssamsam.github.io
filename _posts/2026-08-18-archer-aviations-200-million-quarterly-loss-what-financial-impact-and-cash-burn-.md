@@ -23,7 +23,7 @@ source_url: 'https://www.fool.com/investing/2026/08/16/archer-guided-to-a-200-mi
 
   <p>That math turns the ticking clock into the company's most formidable competitor. While Wall Street is busy scrutinizing flight tests, regulatory milestones, and defense partnerships, the underlying financial mechanics dictate whether the electric vertical takeoff and landing (eVTOL) pioneer will reach commercial profitability before its runway runs dry.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

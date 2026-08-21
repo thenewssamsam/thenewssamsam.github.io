@@ -37,7 +37,7 @@ source_url: 'https://finance.yahoo.com/markets/stocks/article/micron-stock-heats
     <p>Momentum has roared back into one of the market's most closely watched artificial intelligence plays. Micron Technology (MU) saw its shares pierce the ,000 mark in premarket trading, reclaiming heights not seen since early July. The rally marks a striking 36% recovery from summer lows, when overvaluation jitters temporarily knocked down high-flying AI momentum stocks, and brings its year-to-date gains to an astonishing 240%.</p>
     <p>The catalyst behind this renewed surge is not speculative hype, but hard, physical demand. Hyperscale data center operators continue their aggressive infrastructure buildouts, creating a massive order backlog for Micron's advanced high-bandwidth memory (HBM) modules—specifically HBM3E and HBM4. These memory components serve as indispensable companions to Nvidia and AMD graphics accelerators in modern AI data centers.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

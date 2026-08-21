@@ -26,7 +26,7 @@ source_url: "https://www.cnbc.com/2026/08/18/trump-south-korea-military-exercise
       <summary><strong>Claim: The U.S. has 39,000 soldiers in South Korea.</strong></summary>
       <p><strong>Fact:</strong> This is inaccurate. According to official reporting from U.S. Forces Korea, the actual number of personnel stationed in the region is approximately 28,500. The figure of 39,000 cited in recent rhetoric appears to be an exaggeration of the current troop levels.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -36,7 +36,7 @@ Seagate Portable External Hard Drive
       <summary><strong>Claim: The Ulchi Freedom Shield exercises are a rehearsal for an aggressive war.</strong></summary>
       <p><strong>Fact:</strong> This is a long-standing claim by Pyongyang, which the U.S. and South Korea consistently refute. Official statements from Seoul maintain that the exercises are purely defensive in nature, designed to ensure readiness against potential regional threats, rather than preparation for an invasion of the North.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -51,13 +51,13 @@ Tactical Waterproof Backpack
     <h2>Seeking Truth in Uncertain Times</h2>
     <p>In a world of shifting alliances and conflicting reports, the pursuit of truth requires both vigilance and a quiet heart. When leaders use rhetoric to manipulate public perception, we are reminded of the biblical call to integrity and the importance of discernment. Proverbs 12:22 tells us, <em>"The Lord detests lying lips, but he delights in people who are trustworthy."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>This situation invites us to consider our own role as truth-seekers. Are we quick to accept headlines at face value, or do we seek the deeper reality? We are called to be people who value accuracy and peace over sensationalism. As Philippians 4:8 encourages, we should focus our minds on whatever is true, noble, and right. In times of national anxiety, anchoring ourselves in these values provides a stability that no political cycle can shake.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

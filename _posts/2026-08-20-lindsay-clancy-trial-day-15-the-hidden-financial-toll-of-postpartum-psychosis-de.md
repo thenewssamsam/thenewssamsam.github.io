@@ -35,14 +35,14 @@ source_url: "https://www.nbcboston.com/news/local/lindsay-clancy-trial-day-15-li
   <h2 id="financial-impact">A Financial Impact Perspective: The Cost of Justice and Defense</h2>
   <p>While public discussion naturally centers on the profound moral and legal questions of the courtroom, high-profile criminal trials involving complex psychiatric defenses carry immense financial realities. Defending a capital or severe felony case requires an enormous expenditure of resources, stretching public defenders or private legal budgets to their absolute limits.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
   <p>Expert witnesses represent one of the most substantial expenses in modern trials. Forensic pathologists, psychiatric specialists, and home reconstruction experts command high hourly and retainer fees. In cases where the defense rests heavily on medical nuance—such as proving the physiological and psychological impact of postpartum psychosis—these specialists are indispensable, yet their involvement introduces significant financial barriers.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -57,7 +57,7 @@ Tactical Waterproof Backpack
 
   <p>Furthermore, the broader economic footprint of severe mental health crises extends far beyond the courtroom walls. Families facing catastrophic medical emergencies—including long-term psychiatric treatment, rehabilitation following paralysis, and prolonged litigation—often experience complete financial restructuring. This financial strain underscores why public discourse must also address the accessibility of preventative mental healthcare before tragedies occur.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -65,13 +65,13 @@ Seagate Portable External Hard Drive
   <h2 id="scripture-reflection">Reflecting on Stewardship and Suffering</h2>
   <p>When society confronts deep brokenness, it naturally searches for meaning amid suffering. This situation invites us to consider the heavy burdens carried by families and communities when mental health crises go unaddressed. Scripture reminds us in Proverbs 31:8-9 to "Speak up for those who cannot speak for themselves, for the rights of all who are destitute. Speak up and judge fairly; defend the rights of the poor and needy." While this speaks to legal justice, it also challenges us to extend profound compassion and better support structures to those battling invisible afflictions.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
   <p>Additionally, Galatians 6:2 encourages believers to "Carry each other’s burdens, and in this way you will fulfill the law of Christ." In moments of unimaginable community grief, the financial and emotional weight borne by all involved reminds us of our shared responsibility to foster environments of healing and early intervention.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

@@ -25,7 +25,7 @@ source_url: 'https://timesofindia.indiatimes.com/world/us/us-navy-destroyer-spen
   <h2 id="what-happened">What Happened Aboard the USS Benfold?</h2>
   <p>According to reports from CNN and USNI News, the USS Benfold experienced its severe power loss on July 24 while conducting routine operations in the Indo-Pacific. Daytime temperatures in the region routinely hovered between 32°C and 37°C, transforming the interior of a powerless steel warship into an unforgiving environment.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

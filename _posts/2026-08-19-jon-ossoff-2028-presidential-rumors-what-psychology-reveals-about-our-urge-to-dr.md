@@ -33,7 +33,7 @@ source_url: "https://www.usatoday.com/story/news/state/georgia/2026/08/17/no-oss
 <section class="ncg-section">
 <p>The presidential chatter kicked into high gear following a July Emerson College poll that introduced Jon Ossoff into the 2028 Democratic primary conversation for the first time. Landing at 13% support, Ossoff immediately positioned himself as a frontrunner alongside established names like Pete Buttigieg and Gavin Newsom, even tying with Alexandria Ocasio-Cortez and pulling ahead of several seasoned governors and former cabinet members.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

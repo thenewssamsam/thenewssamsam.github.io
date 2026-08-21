@@ -25,7 +25,7 @@ source_url: 'https://www.washingtontimes.com/news/2026/aug/16/house-democratic-l
 
   <p>Mr. Jeffries&rsquo; Sunday morning remarks addressed several contentious policy debates dividing the political left. Beyond rejecting defunding the police and open borders, the New York Democrat declined to endorse &ldquo;Medicare for All&rdquo; or the full abolition of Immigration and Customs Enforcement (ICE), though he advocated for dramatic reforms to ICE, including mandatory body cameras and judicial warrants before home entries.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

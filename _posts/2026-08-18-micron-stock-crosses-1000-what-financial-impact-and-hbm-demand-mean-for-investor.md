@@ -23,7 +23,7 @@ source_url: 'https://finance.yahoo.com/markets/stocks/article/micron-stock-heats
   <h2 id="what-happened">What Happened: The Road to ,000</h2>
   <p>Shares of Micron crossed the psychologically important ,000 mark in premarket trading on Monday, per Yahoo Finance AlphaSpace data. This milestone marks a dramatic turnaround from a difficult summer in 2025, when shares slumped 25% through late July amid broader market fears that artificial intelligence momentum was overheating and valuations had stretched too far.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

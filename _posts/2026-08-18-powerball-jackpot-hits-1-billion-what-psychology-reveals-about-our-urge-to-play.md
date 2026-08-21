@@ -32,7 +32,7 @@ source_url: 'https://www.yahoo.com/news/us/articles/powerball-jackpot-hits-1-bil
 <h2 id="what-happened">What Happened: The Billion-Dollar Milestone</h2>
 <p>Powerball officials announced that the estimated jackpot for Wednesday night's drawing has officially reached <strong> billion</strong>, with an estimated cash payout option of  million before taxes. The surge comes after ticket sales for the preceding drawing jumped more than 86 percent compared to the previous week, driven by surging participation across 45 states, Washington, D.C., Puerto Rico, the U.S. Virgin Islands, and newly expanded markets in the United Kingdom.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

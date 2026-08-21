@@ -28,7 +28,7 @@ source_url: "https://abc7ny.com/story/14-charged-alleged-cocaine-trafficking-rin
 
     <p>The charges are severe: leaders face felonies including corrupt organizations and conspiracy. One parent is also charged with tampering with evidence. Penn State has responded by placing Delta Upsilon on interim suspension, noting that Sigma Chi is an unrecognized organization operating without university oversight.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -38,7 +38,7 @@ Tactical Waterproof Backpack
     <h2>Myth vs. Fact: Clearing the Air</h2>
     <p>In the wake of such high-profile news, misinformation is inevitable. Let’s address the common questions.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -46,7 +46,7 @@ Seagate Portable External Hard Drive
     <h3>Myth: All fraternities at Penn State are involved in drug trafficking.</h3>
     <p><strong>Fact:</strong> The investigation focuses specifically on members and affiliates of two organizations: Delta Upsilon and Sigma Chi. There is no evidence suggesting this is a campus-wide systemic issue involving all Greek life organizations.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -54,7 +54,7 @@ Seagate Portable External Hard Drive
     <h3>Myth: The University was aware of these activities and took no action.</h3>
     <p><strong>Fact:</strong> Penn State officials state that they initiated an investigation immediately upon learning of the allegations. The university operates a separate conduct process from law enforcement, which can result in sanctions ranging from suspension to permanent expulsion for individuals and organizations.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -72,14 +72,14 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Truth and Integrity</h2>
     <p>This situation invites us to consider the heavy weight of choices and the influence of peer groups. Proverbs 10:9 reminds us, <em>"Whoever walks in integrity walks securely, but he who makes his ways crooked will be found out."</em> When we trade our character for temporary gain or social standing, we often find that the foundation beneath us is far more fragile than we imagined.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>It is sobering to see how quickly "indoctrination" into a group can lead to illegal activities that permanently alter lives. As we navigate our own communities, we are reminded of the call to be salt and light. <em>"Do not be misled: 'Bad company corrupts good character'"</em> (1 Corinthians 15:33). This serves as a reminder to be discerning about the environments we choose to inhabit and the values we choose to uphold when no one is watching.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -98,7 +98,7 @@ Seagate Portable External Hard Drive
     <h2>Closing Takeaway</h2>
     <p>The charges at Penn State serve as a stark reminder of the legal and personal consequences of criminal involvement. While the investigation continues, the focus remains on accountability and the protection of the student body. Integrity is not just a concept—it is a daily practice that defines our future.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

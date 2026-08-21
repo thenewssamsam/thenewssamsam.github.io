@@ -33,7 +33,7 @@ source_url: ''
 <p>In a unanimous ruling, the U.S. Ninth Circuit Court of Appeals has determined that Sigal Chattah was unlawfully appointed and is serving illegally as Nevada's top federal prosecutor. The decision marks the latest legal blow to executive branch efforts in multiple states to install political allies as United States attorneys without going through the constitutionally mandated Senate confirmation process.</p>
 <p>The case centers around a series of administrative maneuvers by the Department of Justice designed to keep Chattah at the helm of the U.S. Attorney's Office for the District of Nevada after her initial 180-day interim appointment expired. According to the appellate court, those maneuvers violated federal statutes governing government vacancies, leaving her leadership of the office without legal authority.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -36,7 +36,7 @@ source_url: "https://abc7ny.com/story/14-charged-alleged-cocaine-trafficking-rin
     <p>According to Pennsylvania Attorney General Dave Sunday, the extensive narcotics operation unfolded across 2023 and 2024. Investigators allege that senior fraternity members Agostino Abbatiello and Thomas Robinson spearheaded the ring, making frequent trips to Philadelphia and New York to procure large quantities of cocaine. The illicit substances were then brought back to the area, where they were cut and packaged primarily within the Delta Upsilon and Sigma Chi fraternity houses.</p>
     <p>Among the most disturbing revelations from law enforcement is how new members were integrated into the illicit workflow. Attorney General Sunday noted that cutting and packaging cocaine served, for some pledges, as an indoctrination into the fraternities. Four of the individuals charged are current students, while others face felony charges including corrupt organizations, conspiracy, and dealing in proceeds of unlawful activity. In a bizarre twist of familial complicity, the father of one student, Paul Robinson, was charged with tampering with evidence after allegedly hiding drugs and cash in a safe.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -30,13 +30,13 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-r
     <h2>What Happened in Florida's 7th District?</h2>
     <p>The Associated Press confirmed Tuesday evening that former local television news anchor Ryan Elijah secured a decisive victory over Rep. Cory Mills in central Florida's 7th Congressional District primary. Elijah capitalized on growing voter fatigue surrounding Mills' ongoing controversies, winning by a comfortable 12-percentage-point margin.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>The primary catalyst for Mills' vulnerability was the House Ethics Committee's decision earlier this year to open an official investigation into allegations of domestic assault involving a former girlfriend, alongside potential campaign finance violations. Although Mills has consistently denied any wrongdoing and did not respond to press inquiries regarding the specific allegations, the political fallout was swift and severe.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -47,7 +47,7 @@ Seagate Portable External Hard Drive
 
     <p>Key stakeholders began pulling back their support. While President Trump had endorsed Mills back in February, he noticeably omitted Mills from his final social media endorsement lists leading up to the primary. Furthermore, Florida Governor Ron DeSantis publicly distanced himself, stating explicitly, "I have not endorsed Cory Mills, and I do not support Cory Mills." Voters like Tiffany Davis expressed concerns that Mills' "baggage" made him a liability in the upcoming general election against Democratic nominee Bale Dalton, a 24-year Navy veteran. Consequently, nonpartisan analysts like the Cook Political Report shifted the district from "solid Republican" to "likely Republican."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -57,7 +57,7 @@ Seagate Portable External Hard Drive
     <h2>A Career & Industry Perspective: Reputation Capital and Risk Management</h2>
     <p>In any high-visibility profession—whether running a congressional district or managing a Fortune 500 company—professionals accumulate what career experts call "reputation capital." This capital is a delicate balance of tangible performance (delivering funding, securing legislation, meeting quarterly targets) and intangible trust (character, ethical standing, brand alignment).</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -68,7 +68,7 @@ Seagate Portable External Hard Drive
 
     <p>Voter Patrick Austin pointed to Mills' tangible output, noting, "He delivers for our district... he's fixed a lot of issues." In traditional corporate terms, this is equivalent to a high-performing executive who consistently hits sales goals. However, when an ethics investigation or severe scandal enters the equation, the risk calculus shifts dramatically for stakeholders, employers, and clients.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -79,7 +79,7 @@ Seagate Portable External Hard Drive
 
     <p>Organizations and constituencies operate under strict risk-mitigation frameworks. When individual misconduct allegations introduce systemic vulnerability—such as turning a safe seat into a competitive race—the tolerance for liability drops to zero. Ryan Elijah's successful campaign demonstrates the power of positioning oneself as a stable, low-risk alternative when an incumbent's personal conduct alienates vital coalition partners and key endorsers.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -89,13 +89,13 @@ Seagate Portable External Hard Drive
     <h2>Reflecting on Integrity and Stewardship</h2>
     <p>Situations involving public downfall and shattered trust often bring to mind timeless principles regarding character. One is reminded of the wisdom found in Proverbs 22:1, which notes that a good name is more desirable than great riches, and esteem is better than silver or gold.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>Similarly, Proverbs 10:9 reminds us that whoever walks in integrity walks securely, but whoever takes crooked paths will be found out. These passages invite us to consider that lasting professional stability is rooted not merely in what we accomplish on paper, but in the integrity with which we conduct our daily lives. When private actions contradict public responsibilities, the resulting friction inevitably tests the foundation of any career.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -105,7 +105,7 @@ Tactical Waterproof Backpack
     <h2>How Should Professionals Respond?</h2>
     <p>While most readers are not members of Congress, the lessons from Mills' primary defeat apply across all career paths:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

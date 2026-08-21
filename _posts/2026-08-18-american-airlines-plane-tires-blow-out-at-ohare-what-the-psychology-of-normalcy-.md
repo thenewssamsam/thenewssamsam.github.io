@@ -128,7 +128,7 @@ source_url: 'https://www.nbcchicago.com/news/local/emergency-vehicles-surround-a
 
 <p>For anyone scrolling past the breaking news alert, it looked like a terrifying ordeal. Yet beneath the flashing lights of Sky 5 helicopter footage and the rapid dispatch of Chicago fire vehicles lies a fascinating window into how modern aviation safety protocols operate—and how human psychology shapes our reaction to unexpected danger.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

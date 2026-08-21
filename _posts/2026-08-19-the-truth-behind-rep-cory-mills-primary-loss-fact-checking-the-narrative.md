@@ -23,7 +23,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/gop-rep-cory-mills-l
     <h2>The Election Results</h2>
     <p>NBC News projects that former journalist Ryan Elijah has secured the Republican nomination for Florida’s 7th District. With over 80% of the vote counted, Elijah led with 46% to Mills' 34%. This result marks a significant shift, as Mills was an incumbent seeking re-election in a district that Donald Trump carried by 12 points in 2024.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -32,7 +32,7 @@ Seagate Portable External Hard Drive
   <div style="border-left: 5px solid #d4af37; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
     <p><strong>Shareable Insight:</strong> "In primary politics, the weight of a national endorsement often competes with the gravity of local accountability—and this week, accountability won."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -42,7 +42,7 @@ Tactical Waterproof Backpack
     <h2>Myth vs. Fact: Investigating the Claims</h2>
     <p>In the wake of this loss, several narratives have emerged. Here is a breakdown of the facts as reported:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -50,7 +50,7 @@ Tactical Waterproof Backpack
     <h3>Myth: The Trump endorsement guarantees a primary win.</h3>
     <p><strong>Fact:</strong> While Donald Trump’s endorsement is highly influential, it is not a fail-safe. Mills is the latest in a small group of candidates, including Rep. Andy Ogles, who lost their primaries despite receiving the former president’s blessing.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -58,7 +58,7 @@ Seagate Portable External Hard Drive
     <h3>Myth: Mills lost solely because he was outspent.</h3>
     <p><strong>Fact:</strong> Campaign finance reports show that Mills actually raised more money than Elijah—roughly ,000 compared to Elijah’s lower total. However, Elijah was more strategic with his spending, outspending Mills on airwaves (,000 vs. ,000), suggesting that efficient ad placement outweighed total fundraising volume.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -66,7 +66,7 @@ Seagate Portable External Hard Drive
     <h3>Myth: The investigations were merely partisan rumors.</h3>
     <p><strong>Fact:</strong> While Mills has denied all wrongdoing, the investigations are documented realities. These include a House Ethics Committee probe into sexual misconduct and campaign finance allegations, as well as a Justice Department inquiry into his personal finances.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -76,13 +76,13 @@ Seagate Portable External Hard Drive
     <h2>A Reflection on Truth and Integrity</h2>
     <p>The swirl of allegations surrounding public office reminds me of the importance of transparency. Proverbs 22:1 (NIV) tells us, "A good name is more desirable than great riches; to be esteemed is better than silver or gold."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>This situation invites us to consider that power and influence are fleeting, but integrity is the foundation upon which trust is built. When we see leaders facing intense scrutiny, it is a reminder that our ultimate trust should be in God’s unchanging character rather than the shifting tides of political favor. As we navigate news cycles, we are called to seek the truth with patience, remembering that honesty is a virtue that serves the community far better than any political strategy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -101,7 +101,7 @@ Seagate Portable External Hard Drive
     <h2>Closing Takeaway</h2>
     <p>The defeat of Rep. Cory Mills is a reminder that even in safe districts, voters are increasingly weighing personal conduct and integrity alongside party affiliation. As the general election approaches, the focus in Florida’s 7th District will now shift to the contest between Ryan Elijah and Democrat Bale Dalton.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

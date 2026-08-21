@@ -37,7 +37,7 @@ source_url: 'https://www.notus.org/foreign-policy/germany-far-right-is-on-the-ri
 <h2>What Happened in Germany</h2>
 <p>The Alternative for Germany, commonly known as the AfD, is positioned to potentially capture a governing state majority in Saxony-Anhalt. Led by regional candidate Ulrich Siegmund, the party is capitalizing on significant voter dissatisfaction, surging roughly 20 points ahead of Chancellor Friedrich Merz's center-right Christian Democratic Union (CDU).</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

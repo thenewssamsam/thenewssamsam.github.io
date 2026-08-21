@@ -23,13 +23,13 @@ source_url: "https://www.wbur.org/news/2026/08/17/prosecution-rests-murder-trial
     <h2>The Legal Proceedings to Date</h2>
     <p>After 14 days of testimony, the prosecution has concluded its case, presenting a narrative of deliberate intent. Prosecutors argue that Lindsay Clancy took the lives of her children before attempting to end her own life. The defense, led by attorney Kevin Reddington, maintains that Clancy was not criminally responsible due to severe mental health struggles, including postpartum issues and the impact of prescribed medications.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>The trial has featured deeply emotional testimony, most notably from the children’s father, Patrick Clancy, who provided a harrowing account of the months leading up to the tragedy. As the defense begins its case, the jury must weigh complex forensic evidence against the testimony of mental health experts.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -38,7 +38,7 @@ Tactical Waterproof Backpack
   <div style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
     <p><strong>Recommended Resource:</strong> <em>The Body Keeps the Score</em> by Bessel van der Kolk. Understanding trauma is a vital part of our community's healing process. <a href="#">Check price on Amazon </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -48,7 +48,7 @@ Tactical Waterproof Backpack
     <h2>A Community in Mourning and Reflection</h2>
     <p>For Duxbury, the impact of this case extends far beyond the courtroom walls. It has sparked a difficult, necessary conversation about the "invisible" nature of maternal mental health crises. In a tight-knit community where neighbors often feel they know one another, the realization that such a profound struggle could go unnoticed until it reached a breaking point has left many feeling vulnerable.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -60,7 +60,7 @@ Tactical Waterproof Backpack
     <h3>The Shift in Local Awareness</h3>
     <p>Local parents have expressed a renewed focus on checking in on one another, not just with surface-level pleasantries, but with genuine concern for mental well-being. The trial has highlighted the confusion families face when navigating the mental healthcare system, leading many to advocate for better local resources and more transparent communication between providers and patients.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -69,7 +69,7 @@ Seagate Portable External Hard Drive
   <div style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
     <p><strong>Recommended Resource:</strong> <em>Journal for Mindfulness and Gratitude</em> to help manage daily stress. <a href="#">Check price on Amazon </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -79,13 +79,13 @@ Tactical Waterproof Backpack
     <h2>Reflections on Grace and Human Frailty</h2>
     <p>In the wake of such profound loss, many in our community find themselves searching for comfort. The weight of this tragedy invites us to consider the fragility of the human mind and the necessity of extending grace in times of darkness. We are reminded of the words in <strong>Psalm 34:18</strong>: <em>"The Lord is close to the brokenhearted and saves those who are crushed in spirit."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>This verse offers a gentle reminder that even in our deepest despair, there is a presence that understands our agony. We are also reminded of the call in <strong>Galatians 6:2</strong> to <em>"Carry each other’s burdens, and in this way you will fulfill the law of Christ."</em> This serves as a local mandate: we are called to be vigilant for our neighbors, to reach out when we see a struggle, and to offer support before a crisis becomes an insurmountable tragedy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

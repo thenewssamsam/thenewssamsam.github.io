@@ -137,7 +137,7 @@ source_url: 'https://www.wtvr.com/news/local-news/chesterfield-county/vsu-shoote
 <h2 id="what-happened">What Happened: The VSU Shooting and Court Document Revelations</h2>
 <p>According to court documents obtained by local CBS reporters, the violent incident unfolded around 1:30 a.m. on a Saturday along Boisseau Street near the Virginia State University campus. A verbal altercation earlier in the day allegedly sparked a feud, culminating in gunfire that left five victims injured. Among them, a 21-year-old man suffered critical injuries, while three other non-students sustained non-life-threatening wounds. A 20-year-old VSU student also sustained injuries and has since been released from the hospital.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

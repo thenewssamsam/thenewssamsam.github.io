@@ -35,7 +35,7 @@ source_url: 'https://fortune.com/2026/08/17/iran-economic-war-blockade-hormuz-es
       When defense analysts in Tehran describe their strategy as "salami-slicing"—incremental, limited escalation designed to erode an opponent's capabilities before a major confrontation—they are drawing on a playbook older than modern statecraft itself. History shows that economic blockades are rarely passive instruments of peace; rather, they act as pressure cookers that almost invariably provoke desperate, asymmetric breakouts.
     </p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

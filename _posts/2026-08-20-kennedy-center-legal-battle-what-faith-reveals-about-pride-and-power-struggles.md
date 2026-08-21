@@ -45,7 +45,7 @@ source_url: 'https://apnews.com/article/kennedy-center-trump-name-facade-court-o
 <h2 id="the-faith-perspective">A Faith Perspective on Pride and Legacy</h2>
 <p>When high-stakes political battles play out over buildings, monuments, and institutional naming rights, observers are often treated to a very public display of human ambition. Every faction wants their mark etched into stone, steel, and collective memory. From a biblical worldview, this perennial scramble to secure a permanent earthly legacy is a familiar human pattern rooted in the desire for self-exaltation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -57,7 +57,7 @@ Seagate Portable External Hard Drive
 
 <p>Humanity has spent millennia trying to build towers and monuments that declare our greatness to the world. Yet Scripture frequently warns against the emptiness of building identity solely upon temporary prestige. When leaders and institutions become consumed with securing their own names in prominent places, it often exposes a fragile relationship with power and a profound forgetfulness of our mortal limits.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -65,14 +65,14 @@ Seagate Portable External Hard Drive
 <h2 id="biblical-wisdom">Scripture on Human Ambition</h2>
 <p>This dynamic brings to mind the sobering words found in Proverbs 16:18, which reminds us: <em>&ldquo;Pride goes before destruction, a haughty spirit before a fall.&rdquo;</em> While this verse addresses the universal human trap of arrogance, it serves as a helpful mirror for any cultural or political institution caught up in bitter power struggles. When prestige and public perception override stewardship and service, the underlying motives inevitably fracture.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Furthermore, Scripture invites us to examine where we place our ultimate hope for permanence. Psalm 127:1 declares: <em>&ldquo;Unless the Lord builds the house, the builders labor in vain.&rdquo;</em> In the context of cultural landmarks and national institutions, this verse gently shifts our focus from the names etched on the outside of a building to the actual character and service happening within its walls. A building is merely mortar and glass; true cultural stewardship requires humility, integrity, and a genuine heart for serving the public good rather than feeding personal pride.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -80,7 +80,7 @@ Tactical Waterproof Backpack
 <h2 id="how-christians-respond">How Should Christians Respond?</h2>
 <p>For believers watching cultural and political institutions trade legal blows, the response should not be partisan defensiveness, but spiritual discernment. Here are three practical ways to process news stories like the Kennedy Center dispute:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

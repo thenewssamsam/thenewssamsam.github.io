@@ -36,7 +36,7 @@ source_url: ''
     <p>Security protocols across Westminster are facing sharp scrutiny after a wave of digital breaches exposed senior government officials. Andy Burnham, the mayor of Greater Manchester, found himself exchanging messages with an unknown individual posing as Susie Wiles, Donald Trump's White House chief of staff. While officials report that no sensitive government secrets were compromised and the incident was reported quickly, the fallout did not stop there.</p>
     <p>Shortly after the impersonation attempt came to light, investigative reporting revealed that the personal mobile phone numbers of at least three UK cabinet ministers—Defence Secretary Wes Streeting, Justice Secretary Alex Norris, and Northern Ireland Secretary Chris Bryant—were published online alongside their names. Although steps were swiftly taken to scrub the data, the sequence of events highlights how easily digital social engineering can intersect with physical information leaks.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -48,7 +48,7 @@ source_url: "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-d
 <h2>Myth vs. Fact: Unpacking the Trade Announcement</h2>
 <p>To cut through the noise, let us examine some of the most common claims circulating in the wake of the Trump-Carney announcement and weigh them against verifiable reporting.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -59,7 +59,7 @@ Tactical Waterproof Backpack
 <h3>"A permanent trade deal has been fully signed and sealed."</h3>
 <p><strong>Fact:</strong> Neither Washington nor Ottawa has announced a finalized, comprehensive trade agreement. President Trump noted on Truth Social that the arrangement is explicitly <em>"subject to finalization of documents,"</em> and Prime Minister Carney emphasized that while substantial progress occurred, important work remains before Friday.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -70,7 +70,7 @@ Tactical Waterproof Backpack
 <h3>"The proposed tariffs would impact billions in everyday goods."</h3>
 <p><strong>Fact:</strong> The threatened 50 percent duty targeted roughly  billion in Canadian exports—items that typically enjoy duty-free status under the United States-Mexico-Canada Agreement (USMCA). This makes the dispute notable because it challenges existing treaty frameworks.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -81,7 +81,7 @@ Seagate Portable External Hard Drive
 <h3>"The Keystone XL pipeline is officially restarting construction tomorrow."</h3>
 <p><strong>Fact:</strong> While President Trump enthusiastically posted that the long-dormant project <em>"may be awoken from the grave,"</em> reviving a cross-border pipeline requires navigating years of regulatory, environmental, and legal hurdles that cannot be solved by a simple social media post.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -91,7 +91,7 @@ Tactical Waterproof Backpack
 <div class="ncg-quote-box">
 <p>"The pause in tariffs gives exporters a momentary exhale, but until documents are signed and provincial boycotts are resolved, we are looking at a fragile truce rather than a settled peace."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -106,14 +106,14 @@ Tactical Waterproof Backpack
 <h2>A Biblical Perspective on Truth and Honest Dealings</h2>
 <p>Times of economic friction and political posturing often expose the underlying fragility of human systems. When leaders negotiate under the glare of public opinion, the temptation to spin narratives, exaggerate wins, or obscure difficult compromises is very real. Scripture frequently speaks to the value of transparent communication and integrity in commerce.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Proverbs 12:22 reminds us, <em>"Lying lips are an abomination to the Lord, but those who act faithfully are his delight."</em> This principle invites us to look past sensationalized headlines and value sober truth. Furthermore, Proverbs 11:1 tells us, <em>"A false balance is an abomination to the Lord, but a just weight is his delight."</em> In economic terms, fair dealing and honest weights form the bedrock of sustainable communities—reminding observers that true prosperity cannot be built on deception or coercion, whether in local markets or international trade treaties.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -127,14 +127,14 @@ Seagate Portable External Hard Drive
 <h2>Beyond the Headlines: The Real Stakes</h2>
 <p>Understanding why this negotiation is so tense requires looking at the deeper structural pressures at play. Canada depends heavily on the US market, with approximately 70 percent of its exports heading south. Conversely, the US sends about 30 percent of its exports northward. When tariffs are threatened on USMCA-protected goods, supply chains for automobiles, machinery, and energy face immediate disruption.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Complicating matters further, domestic politics in both countries create rigid boundaries. Prime Minister Carney must manage eight provincial governments that have maintained boycotts on US alcoholic beverages in retaliation for previous trade measures, alongside public opinion polls showing significant consumer resistance. Recognizing these underlying dynamics helps separate genuine policy shifts from temporary political theater.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

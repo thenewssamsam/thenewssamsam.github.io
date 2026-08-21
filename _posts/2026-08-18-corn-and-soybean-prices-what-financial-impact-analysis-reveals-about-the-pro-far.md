@@ -23,7 +23,7 @@ source_url: ''
   <h2 id="what-happened">What Happened in the U.S. Corn Belt?</h2>
   <p>More than 100 agricultural scouts departed from Columbus, Ohio, and Sioux Falls, South Dakota, on Monday morning for a four-day blitz across seven states that account for roughly 70 percent of U.S. corn and soybean production. The tour converges in Rochester, Minnesota, on Thursday evening, with Pro Farmer set to release its final national production estimates on Friday afternoon.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

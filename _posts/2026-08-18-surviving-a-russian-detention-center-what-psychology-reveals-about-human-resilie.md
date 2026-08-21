@@ -19,7 +19,7 @@ source_url: 'https://www.veridica.ro/en/opinions/weve-become-like-family-trying-
 
 <p>Their story, documented by the international investigative team The Reckoning Project, is a harrowing account of war and persecution. But beneath the geopolitical headlines lies a profound testament to the mechanics of human endurance. When physical safety is completely eradicated, what keeps a person from breaking? The answer reveals a great deal about how the human mind adapts to extreme duress.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

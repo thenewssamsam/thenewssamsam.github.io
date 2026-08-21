@@ -23,7 +23,7 @@ source_url: 'https://www.indexbox.io/blog/redefining-utility-reliability-and-res
   <h2 id="what-happened">What Is Driving the Shift in Utility Resilience?</h2>
   <p>For decades, electric utilities measured reliability using conventional benchmarks like SAIDI (System Average Interruption Duration Index) and SAIFI (System Average Interruption Frequency Index). While these metrics remain useful for tracking standard outages, they fail to capture modern systemic vulnerabilities. Today, energy operators face an unprecedented convergence of challenges: intensifying wildfire seasons, rapid electrification, higher public scrutiny, and deteriorating infrastructure.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

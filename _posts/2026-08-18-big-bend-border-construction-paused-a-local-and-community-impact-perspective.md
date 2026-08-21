@@ -20,7 +20,7 @@ source_url: 'https://www.texastribune.org/2026/08/17/texas-big-bend-national-par
   <section id="introduction">
     <p>The rugged, pristine landscape of Big Bend National Park—a "crown jewel" of Texas—has found itself at the center of an intense national debate. Following mounting pressure from local residents, law enforcement, and elected officials, U.S. Customs and Border Protection (CBP) Commissioner Rodney Scott has ordered a temporary pause on construction activities within the park. For the communities surrounding this remote region, this is more than just a policy shift; it is a battle for the identity and economic future of West Texas.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></p>
 

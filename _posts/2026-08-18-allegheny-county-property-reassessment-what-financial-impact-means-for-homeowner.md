@@ -36,7 +36,7 @@ source_url: 'https://www.thecentersquare.com/pennsylvania/article_d5640d30-a03f-
     <p>Property owners in Allegheny County are facing a major shakeup in how their real estate is valued for taxation. A state court has formally ordered the county to begin a comprehensive property reassessment next year, with a five-year window to complete the first round and subsequent reviews scheduled every five years.</p>
     <p>For a county that includes Pittsburgh and dozens of surrounding municipalities, this order breaks a 14-year freeze on countywide property valuations. Investigations reveal that properties in the area have recently been assessed at roughly half their actual market value—meaning a home or business worth ,000 has been taxed as if it were worth only ,000.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

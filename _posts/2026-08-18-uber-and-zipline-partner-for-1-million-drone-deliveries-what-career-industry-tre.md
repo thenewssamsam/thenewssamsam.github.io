@@ -39,7 +39,7 @@ source_url: 'https://www.engadget.com/2238260/uber-aims-for-1-million-daily-dron
     <h2>What Happened: The Uber-Zipline Alliance</h2>
     <p>Uber Eats orders could soon arrive via a mechanical hum overhead rather than a car pulling up to your curb. According to a recent press release, Uber has made a strategic financial investment into Zipline and teamed up to scale aerial delivery to historic levels. The companies are targeting a monumental one million daily drone deliveries by the close of 2029.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

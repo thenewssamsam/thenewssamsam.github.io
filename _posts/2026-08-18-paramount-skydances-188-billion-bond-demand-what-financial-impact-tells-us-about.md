@@ -34,7 +34,7 @@ source_url: ''
 <p>Corporate mega-mergers rarely cross the finish line without friction, but the proposed  billion combination of Paramount and Warner Bros. Discovery (WBD) has officially entered uncharted financial territory. In a recent antitrust filing, Paramount Skydance announced it will seek to force a dozen state attorneys general—led by California's Rob Bonta—to post a massive  billion bond.</p>
 <p>The core of the dispute centers on the legal battle initiated in July, when the state AGs filed suit to halt the deal under the Clayton Antitrust Act, arguing it would stifle competition across studio operations and streaming services like HBO Max and Paramount+. While federal regulators at the Department of Justice's Antitrust Division have already cleared the transaction, the state-level challenge has pushed the expected closing date out as far as June 2027.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

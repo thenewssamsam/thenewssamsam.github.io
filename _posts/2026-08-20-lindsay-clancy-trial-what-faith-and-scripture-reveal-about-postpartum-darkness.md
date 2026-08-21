@@ -64,7 +64,7 @@ source_url: "https://www.bbc.com/news/articles/c62emm4yp8go"
       While prosecutors argue that Clancy made a calculated, intentional decision to take her children's lives, her defense team presents a starkly different narrative rooted in severe medical emergency. Witnesses, including family members, have described a loving, nurturing mother whose mind unravelled completely following the birth of her youngest son. Insomnia, profound anxiety, sadness, and terrifying hallucinations consumed her world in the weeks leading up to the tragedy.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -78,7 +78,7 @@ Tactical Waterproof Backpack
       Among the most poignant testimonies came from Susan Clancy, the defendant's former mother-in-law. She testified that Lindsay was "begging for help" in the days before the killings. Despite actively seeking medical assistance, visiting doctors, and even checking herself into a psychiatric hospital for a few days shortly before the deaths, the safety net failed to catch her as she fell into the abyss of postpartum psychosis.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -86,7 +86,7 @@ Seagate Portable External Hard Drive
       Clancy's mother, Paula Musgrove, and her sister, Allison Ozga, also shared heartbreaking accounts of Lindsay confessing to thoughts of harming the children, admitting she was "really sick," and experiencing daily suicidal ideation. These testimonies paint a picture not of calculated malice, but of a desperate woman pleading for rescue from her own distorted and terrifying reality.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -104,7 +104,7 @@ Seagate Portable External Hard Drive
       When we examine such profound brokenness, human instinct often demands simple binaries: good or evil, villain or victim. Yet life under the sun is rarely so uncomplicated. Postpartum psychosis is a recognized medical emergency, entirely distinct from the ordinary "baby blues." It distorts perception, clouds judgment, and creates internal torment that few can fathom unless they have walked through that valley.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -112,7 +112,7 @@ Tactical Waterproof Backpack
       This trial reminds us of the profound fragility of the human mind. In Scripture, we see that God is intimately acquainted with human sorrow and the crushing weight of psychological despair. Psalm 34:18 tells us, <em>"The Lord is close to the brokenhearted and saves those who are crushed in spirit."</em> This verse invites us to consider that even in the most bewildering tragedies, God's compassion extends to those whose minds have been overtaken by darkness. We are reminded not to rush to absolute condemnation, but to approach deep human suffering with profound humility and grief.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -126,7 +126,7 @@ Tactical Waterproof Backpack
       For communities of faith, the Lindsay Clancy trial serves as a sobering call to action and self-reflection. Mental illness has historically been met in some religious circles with silence, stigma, or spiritual minimization—attributing clinical disorders solely to a lack of faith or prayer. This approach is not only unbiblical, but it is actively dangerous.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

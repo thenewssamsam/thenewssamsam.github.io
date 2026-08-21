@@ -36,7 +36,7 @@ source_url: 'https://www.thedailybeast.com/maga-patriot-turns-on-trump-after-ice
     <p>For 48-year-old tech salesman Brent Jindra, politics was largely a matter of policy papers, campaign rallies, and distant national security goals. A three-time voter for Donald Trump, Jindra supported strict immigration enforcement with the belief that government measures would target dangerous criminals rather than law-abiding households.</p>
     <p>That worldview was abruptly challenged when Immigration and Customs Enforcement (ICE) agents detained his wife, Galina Bobreneva, after the couple landed at Burbank Airport in California. Bobreneva, who is originally from Russia, arrived in the United States in 2021 on a tourist visa, later extended after the outbreak of war in Ukraine, and applied for asylum in 2022. After meeting Jindra in March 2025 and marrying that December, Jindra petitioned to sponsor her for a marriage-based green card in April.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

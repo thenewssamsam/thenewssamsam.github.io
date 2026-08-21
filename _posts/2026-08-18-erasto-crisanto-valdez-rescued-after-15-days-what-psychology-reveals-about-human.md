@@ -59,7 +59,7 @@ source_url: 'https://www.aol.com/articles/man-31-rescued-alive-being-131442000.h
     <h2>What Happened in the Cenote?</h2>
     <p>Erasto Crisanto Valdez was fishing with his father in San Francisco La Paz within the Chimalapas region of Mexico when he went underwater in a local cenote and lost his bearings. What began as a routine day on the water turned into a nightmare when he could not find his way back to the exit.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

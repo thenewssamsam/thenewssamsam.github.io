@@ -25,7 +25,7 @@ source_url: "https://www.bostonglobe.com/2026/08/17/metro/lindsay-clancy-trial-p
     <div style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Product Spotlight:</strong> Keep your home and office organized with a <strong>Desktop Document Tray</strong> to manage important paperwork. <a href="#">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -33,7 +33,7 @@ Seagate Portable External Hard Drive
 
     <p>The defense has focused heavily on the gaps in communication between various psychiatric providers who were treating Clancy for anxiety and depression. This highlights a significant challenge in modern healthcare: the difficulty of maintaining a cohesive, holistic view of a patient’s mental health trajectory when multiple specialists are involved.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -43,7 +43,7 @@ Tactical Waterproof Backpack
     <h2>Navigating Maternal Mental Health</h2>
     <p>From a general wellness perspective, it is essential to distinguish between the "baby blues" and more severe conditions like postpartum depression (PPD) or postpartum psychosis. PPD can manifest as overwhelming sadness, anxiety, or exhaustion, while postpartum psychosis is a rare but medical emergency characterized by delusions or hallucinations.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -51,7 +51,7 @@ Tactical Waterproof Backpack
     <div style="border-left: 5px solid #6A5ACD; background-color: #f4f0ff; padding: 15px; margin: 20px 0;">
       <p><strong>Shareable Insight:</strong> "True wellness in maternal care requires not just treatment of symptoms, but a unified approach to understanding the patient's entire mental health journey."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -59,7 +59,7 @@ Seagate Portable External Hard Drive
 
     <p><em>This is general information, not medical advice.</em> If you or a loved one are experiencing signs of mental distress, reaching out to specialized resources is vital. The National Maternal Mental Health Hotline (1-833-TLC-MAMA) provides confidential, 24/7 support.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -67,7 +67,7 @@ Seagate Portable External Hard Drive
     <div style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Product Spotlight:</strong> Stay hydrated during stressful days with a <strong>Stainless Steel Insulated Water Bottle</strong>. <a href="#">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -78,13 +78,13 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Compassion and Truth</h2>
     <p>In moments of profound tragedy, we are reminded of the fragility of the human mind and the weight of our shared burdens. Scripture invites us to consider the importance of presence and empathy in times of suffering: <em>"Bear one another's burdens, and so fulfill the law of Christ"</em> (Galatians 6:2, ESV). This verse serves as a call to look beyond the surface of a person's circumstances and recognize the internal struggles that may be invisible to the world. Furthermore, we are encouraged to seek wisdom in all things: <em>"The heart of the discerning acquires knowledge, for the ears of the wise seek it out"</em> (Proverbs 18:15, NIV).</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>These reflections remind us that while we may never fully understand the depths of another person's pain, we are called to approach such situations with humility and a commitment to better understanding the mental and spiritual needs of those around us.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

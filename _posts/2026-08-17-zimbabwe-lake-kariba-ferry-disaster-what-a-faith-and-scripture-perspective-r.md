@@ -105,7 +105,7 @@ source_url: 'https://apnews.com/article/zimbabwe-ferry-capsize-death-toll-rises-
 
     <p>News reports confirm that the death toll in the Zimbabwe ferry disaster has risen to 84, with dozens more feared or confirmed dead following the capsizing of a vessel carrying well beyond its legal passenger capacity. Among the heartbreaking human toll are 18 children, including babies and toddlers whose lives had scarcely begun. In moments of sudden, devastating loss like this, communities search not only for answers and accountability, but for a framework to process grief, lament, and the enduring questions of faith.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

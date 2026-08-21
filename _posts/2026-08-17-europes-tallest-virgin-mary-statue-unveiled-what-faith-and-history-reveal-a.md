@@ -38,7 +38,7 @@ source_url: 'https://www.theguardian.com/world/2026/aug/16/tallest-statue-virgin
 <h2>What Happened: A Monument in the Fields</h2>
 <p>On Saturday, August 16, 2026, hundreds of gathered worshippers, white-robed priests, and cultural performers witnessed the consecration of a towering religious landmark in central Poland. Standing 55.6 meters (182 feet) high—including a crown-shaped 15-meter pedestal—the new monument in Konotopie edges out both Rio de Janeiro's iconic Christ the Redeemer (38 meters) and Poland's own Christ the King statue in Świebodzin (52.5 meters).</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

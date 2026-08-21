@@ -143,7 +143,7 @@ source_url: 'https://www.usatoday.com/story/news/politics/2026/08/16/todd-blanch
   <h2 id="what-happened">What Happened</h2>
   <p>In an August 16 interview on NBC News' "Meet the Press," Attorney General Todd Blanche was directly asked whether he would act independently from the White House. His response was unambiguous: "No, I'm not going to pledge that." He further stated that he would consider the president's views on specific prosecutions.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

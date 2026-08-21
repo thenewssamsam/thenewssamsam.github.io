@@ -21,7 +21,7 @@ source_url: 'https://www.nytimes.com/athletic/7517341/2026/08/17/mark-walter-lak
 <h2 id="what-happened">What Happened: A Record Sale Overshadowed by Federal Scrutiny</h2>
 <p>Mark Walter has spent decades cultivating an understated, low-profile public persona despite controlling some of the most prominent sports franchises in the world, including the Los Angeles Dodgers, Chelsea FC, and the WNBA's Los Angeles Sparks. That quiet existence was pierced in July during a celebratory White House visit following the Dodgers' second consecutive World Series victory, where President Trump lauded Walter's relentless drive to win.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

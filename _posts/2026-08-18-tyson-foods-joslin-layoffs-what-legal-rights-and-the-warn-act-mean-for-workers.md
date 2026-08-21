@@ -38,7 +38,7 @@ source_url: 'https://www.kwqc.com/2026/08/17/chicago-law-firm-launches-warn-act-
     <h2 id="what-happened-at-tyson-foods-joslin">What Happened at Tyson Foods Joslin</h2>
     <p>The situation in Joslin, Illinois, unfolded rapidly last week when Tyson Foods announced and executed the layoff of over 2,500 employees. For a regional facility of this scale, losing thousands of jobs instantly disrupts local suppliers, small businesses, and thousands of households.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

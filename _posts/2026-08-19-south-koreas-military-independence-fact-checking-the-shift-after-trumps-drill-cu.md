@@ -29,7 +29,7 @@ source_url: "https://www.theguardian.com/world/2026/aug/18/south-korea-president
 <h3>Myth: North Korea is currently "unthreatening" because of personal diplomacy.</h3>
 <p><strong>Fact:</strong> Despite claims of a "very good relationship" between Trump and Kim Jong-un, military officials—including Col. Ryan Donald—note that North Korea’s integration of battlefield lessons from the Ukraine war has objectively increased their tactical capabilities. The regime’s deepening military pact with Russia remains a documented security concern for regional stability.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -40,7 +40,7 @@ Tactical Waterproof Backpack
 <h2>What is Wartime Opcon?</h2>
 <p>Wartime Operational Control (Opcon) is the authority to command forces during an active conflict. Since the 1953 armistice, this authority has rested with the U.S.-led Combined Forces Command. Reclaiming this is a central pillar of South Korea’s desire for full national sovereignty. It is not merely a bureaucratic change; it is a symbol of a mature, independent defense posture.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -49,7 +49,7 @@ Tactical Waterproof Backpack
 <section id="spiritual-reflection">
 <p>This situation reminds me that our security is often rooted in fragile human agreements. Scripture invites us to consider where we place our ultimate trust. <em>"Some trust in chariots and some in horses, but we trust in the name of the Lord our God"</em> (Psalm 20:7, ESV). While national defense is a necessary responsibility of government, it is a sobering reminder that earthly alliances are subject to the shifting tides of politics and human ego. We are encouraged to seek wisdom that goes beyond temporary strategies, remembering that true peace is a gift that requires both diligence and humility in our dealings with others.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

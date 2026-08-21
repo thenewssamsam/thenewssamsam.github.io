@@ -35,7 +35,7 @@ source_url: 'https://www.bbc.com/news/articles/clyvj5zdjj2o'
     <h2>What Happened</h2>
     <p>Prime Minister Andy Burnham recently exchanged text messages with an individual falsely posing as Susie Wiles, the chief of staff to US President Donald Trump. Downing Street confirmed the interaction after the security breach was first brought to light by political reporting. Officials noted that Burnham engaged in brief messaging before realizing the contact was illegitimate and swiftly alerting security authorities.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

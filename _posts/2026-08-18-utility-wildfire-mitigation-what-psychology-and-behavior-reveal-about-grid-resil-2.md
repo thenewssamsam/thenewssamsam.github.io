@@ -40,7 +40,7 @@ source_url: 'https://www.renewableenergyworld.com/news/how-can-utilities-build-c
 <h2>What Happened: The Shift in Grid Reliability</h2>
 <p>According to recent industry reporting from <em>Renewable Energy World</em>, the definition of grid reliability is undergoing a fundamental transformation. Standard metrics like SAIDI (System Average Interruption Duration Index) and SAIFI, which historically measured routine outages, no longer capture the complex realities of modern utility management.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

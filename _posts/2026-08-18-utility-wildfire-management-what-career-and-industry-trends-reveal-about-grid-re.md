@@ -22,7 +22,7 @@ source_url: 'https://www.indexbox.io/blog/redefining-utility-reliability-and-res
 
   <p>Rather than relying on short-lived cross-functional task forces, industry leaders are advocating for a permanent, centralized operational structure. Ahead of the upcoming DTECH Reliability & Resiliency conference, where Fazel is set to present on integrated wildfire governance, the conversation across the utility sector has shifted from reactive maintenance to strategic, data-driven prevention.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

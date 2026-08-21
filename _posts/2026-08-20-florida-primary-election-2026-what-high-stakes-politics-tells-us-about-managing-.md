@@ -36,7 +36,7 @@ source_url: "https://www.cnn.com/2026/08/18/politics/live-news/florida-primary-e
 <h2 id="the-hidden-health-toll-of-constant-political-conflict">The Hidden Health Toll of Constant Political Conflict</h2>
 <p>When elections dominate the news cycle month after month, our nervous systems often pay the price. Human biology is simply not designed to process a continuous stream of existential urgency. Every polarizing debate, bitter rivalry, and high-stakes projection triggers a low-grade fight-or-flight response. Over time, this chronic exposure to political tension can manifest physically—disrupted sleep, elevated cortisol levels, persistent mental fatigue, and a general sense of helplessness about issues outside our immediate control.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -44,7 +44,7 @@ Seagate Portable External Hard Drive
 <div class="ncg-quote-box">
 <p>"Constant exposure to high-stakes political conflict doesn't just exhaust our minds; it quietly drains our physical resilience, turning everyday civic engagement into an endurance test for our nervous systems."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -52,7 +52,7 @@ Tactical Waterproof Backpack
 
 <p>This reality makes it crucial to step back and examine our relationship with the news. While staying informed is a vital part of being an active community member, absorbing every breathless update can easily cross the line into toxic rumination. Recognizing that our bodies and minds need boundaries is not a sign of apathy—it is an essential act of self-preservation in an hyper-connected age.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -67,7 +67,7 @@ Seagate Portable External Hard Drive
 <h2 id="navigating-election-fatigue-practical-coping-strategies">Navigating Election Fatigue: Practical Coping Strategies</h2>
 <p>Protecting your mental health during intense political seasons requires deliberate habits. You do not need to check your phone every ten minutes to be a responsible citizen. Establishing healthy boundaries around media consumption can radically improve your daily well-being.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -78,7 +78,7 @@ Tactical Waterproof Backpack
 </ul>
 <p>This is general information, not medical advice. If election stress or anxiety begins to interfere significantly with your daily functioning, sleep, or relationships, please consult a qualified healthcare or mental health professional for guidance tailored to your situation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -93,7 +93,7 @@ Seagate Portable External Hard Drive
 <h2 id="one-last-thought">One Last Thought</h2>
 <p>Elections will always come and go, bringing shifting power dynamics, new leaders, and familiar debates. But your health, peace of mind, and capacity for joy are resources you must guard every single day. By learning to care for our minds amidst the noise, we ensure that we remain strong, clear-headed, and resilient participants in our communities—long after the ballots are counted and the cameras have turned away.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

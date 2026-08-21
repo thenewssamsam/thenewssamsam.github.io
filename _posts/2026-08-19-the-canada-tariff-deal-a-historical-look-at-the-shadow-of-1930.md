@@ -23,7 +23,7 @@ source_url: "https://apnews.com/article/tariffs-trump-canada-usmca-trade-aae597c
     <h2>What Just Happened?</h2>
     <p>The tariffs were set to impact everything from hockey sticks to essential medical supplies. The eleventh-hour agreement provides a brief window for negotiators to finalize terms, specifically addressing what the administration views as discriminatory Canadian measures against U.S. dairy, alcohol, and automotive exports. While Canadian Prime Minister Mark Carney noted "substantial progress," the reality remains that both economies are currently in a state of high-stakes limbo.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -33,7 +33,7 @@ Tactical Waterproof Backpack
     <h2>The 1930 Echo: Smoot-Hawley Revisited</h2>
     <p>To find the precedent for these tariffs, one must look back to the dark days of the Great Depression. The 1930 Tariff Act, better known as the <strong>Smoot-Hawley Tariff</strong>, remains a cautionary tale in economic history. Designed to protect American industry, it instead triggered a global retaliatory spiral that deepened and prolonged the worldwide economic collapse.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -41,7 +41,7 @@ Tactical Waterproof Backpack
     <div class="ncg-quote-box" style="border-left: 5px solid #6a0dad; background-color: #f9f4fd; padding: 15px; margin: 20px 0;">
       <p><strong>"History doesn't repeat itself, but it often rhymes. Using 1930s-era tools in a 21st-century global economy risks repeating the protectionist traps of the past."</strong></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -50,7 +50,7 @@ Tactical Waterproof Backpack
     <h3>Section 338: A Forgotten Weapon</h3>
     <p>Section 338, which had never been previously invoked, gives the executive branch broad authority to impose levies without the standard investigations required by modern trade law. Much like the legislative atmosphere of 1930, the current administration is utilizing protectionism as a primary lever for broader geopolitical goals—in this case, pushing for concessions within the USMCA framework.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -60,13 +60,13 @@ Seagate Portable External Hard Drive
     <h2>A Reflection on Stewardship and Truth</h2>
     <p>As I consider the tension between nations, I am reminded of the biblical principle of stewardship and the value of honest dealing. In Proverbs 11:1, we read: <em>"A false balance is an abomination to the Lord, but a just weight is his delight."</em> While this verse is often applied to personal integrity, it speaks volumes to the macro level of national policy. Are we seeking a "just weight" in our trade relations, or are we using leverage to serve short-term interests at the expense of our neighbors?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Furthermore, Matthew 5:9 reminds us: <em>"Blessed are the peacemakers, for they shall be called sons of God."</em> The push for a deal, even at the eleventh hour, reflects a human desire to avoid unnecessary conflict. It invites us to consider whether our own actions in business and community life prioritize reconciliation or the cold, calculated use of power. True stability is found not in the threat of sanctions, but in the commitment to fair and transparent cooperation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

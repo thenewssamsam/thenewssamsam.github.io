@@ -38,7 +38,7 @@ source_url: ''
     <p>The Los Angeles Lakers are once again at the center of high-level transaction news. According to documents obtained by ESPN via attorney Adam Streisand, Jeanie Buss is legally challenging a vote by five of her siblings to unload the Buss family's remaining 17.8% share of the storied NBA franchise.</p>
     <p>The buyers on the other side of the transaction are tech investor Josh Kushner and media executive Bob Iger. The proposed sale matches the massive  billion valuation agreed upon just days prior when billionaire Mark Walter secured his initial purchase agreement. However, while Walter reportedly intended to keep Jeanie Buss in place as the team's governing owner through 2030, this sudden family share sale threatens to strip her of the mandatory 15% minimum ownership requirement needed to maintain that governance role.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -56,7 +56,7 @@ source_url: 'https://www.theguardian.com/world/2026/aug/18/kuril-islands-putin-t
 <h2 id="what-happened">What Happened</h2>
 <p>The diplomatic friction began bubbling over when Russian President Vladimir Putin visited the Kuril Islands — known in Japan as the Northern Territories. The move immediately prompted reciprocal diplomatic retaliation. On Thursday, Japan’s Prime Minister Sanae Takaichi condemned Putin's actions as "absolutely unacceptable," leading to the immediate summons of Russia's ambassador in Tokyo for a dressing down.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

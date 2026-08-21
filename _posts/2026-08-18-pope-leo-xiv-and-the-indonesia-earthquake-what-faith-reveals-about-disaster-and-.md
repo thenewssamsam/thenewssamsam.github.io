@@ -36,7 +36,7 @@ source_url: 'https://www.vaticannews.va/en/pope/news/2026-08/pope-leo-deeply-sad
 <p>On the morning of Saturday, 15 August, a powerful 7.7-magnitude earthquake struck Indonesia's East Nusa Tenggara region, centered near the island of Flores, followed by a separate 6.9-magnitude quake near Sumatra hours later. The sudden geological violence left a provisional toll of 53 lives lost, 135 individuals injured, and roughly 13,000 people displaced from their homes.</p>
 <p>According to Indonesia's National Disaster Management Agency, more than 900 homes were completely destroyed, while over 450 sustained severe damage. Crucial community infrastructure—including schools, local healthcare centers, and churches—was rendered unusable, forcing thousands of families into temporary shelters as emergency responders battle persistent aftershocks.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

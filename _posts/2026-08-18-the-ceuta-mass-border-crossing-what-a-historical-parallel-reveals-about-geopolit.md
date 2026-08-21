@@ -21,7 +21,7 @@ source_url: 'https://www.npr.org/2026/08/16/nx-s1-5927053/what-happened-in-ceuta
     When tens of thousands of migrants crossed the heavily fortified double fence into the Spanish enclave of Ceuta on July 30, the shockwaves extended far beyond the 7-square-mile territory. With over 140 reported deaths and thousands of unattended minors left behind, the event highlighted deep vulnerabilities at the edge of Europe. Yet, for local residents like Teresa Pardo and Juanjo Coronado, and investigative researchers who study the region, the chaotic July day was not an unpredictable anomaly—it was the latest chapter in a familiar, recurring geopolitical script.
   </p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

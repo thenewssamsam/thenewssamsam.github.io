@@ -37,7 +37,7 @@ source_url: 'https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live
     <p>The courtroom in Plymouth Superior Court was heavy with tension as the prosecution officially rested its case, paving the way for the defense to begin presenting witnesses. Lindsay Clancy, a 36-year-old former labor and delivery nurse, stands accused of first-degree murder in the January 24, 2023, deaths of her three young children—5-year-old Cora, 3-year-old Dawson, and 8-month-old Callan—at their Duxbury home.</p>
     <p>While the prosecution argues that Clancy methodically planned the killings before attempting suicide, the defense—led by attorney Kevin Reddington—contends that Clancy was suffering from severe, unmanaged postpartum psychiatric illness and medication-induced mental defect, rendering her legally not criminally responsible.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -22,7 +22,7 @@ source_url: 'https://www.forbes.com/sites/saradorn/2026/08/17/natalie-harp-seen-
 <h2 id="what-happened">What Happened: The Ubiquitous Aide at the Center of the Storm</h2>
 <p>According to recent reporting by <em>The New York Times</em> and subsequent coverage by outlets like <em>Forbes</em>, presidential aide Natalie Harp has drawn intense public scrutiny and political debate following her near-constant presence by Donald Trump's side. Most recently, Harp was reported to be among a select group of aides—alongside figures like Dan Scavino, Walt Nauta, and Defense Secretary Pete Hegseth—who covertly switched aircraft with Trump on a secure flight departing Turkey last month amid alleged security concerns.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

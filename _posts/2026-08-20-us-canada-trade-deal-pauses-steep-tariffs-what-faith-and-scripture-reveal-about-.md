@@ -34,19 +34,19 @@ source_url: "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-d
         <h2 style="font-size: 1.5rem; color: #2d3748; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; margin-bottom: 20px;">What Happened in the US-Canada Trade Talks?</h2>
         <p>The sudden agreement came after weeks of fraught, often contentious negotiations between Washington and Ottawa. Trump had invoked Section 338 of the Tariff Act of 1930 in response to what the White House termed Canada's "discriminatory treatment" of American automobiles, dairy products, and alcoholic beverages—retaliation for provincial bans on US alcohol and stringent supply management quotas.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
         <p>The proposed 50 percent tariffs threatened approximately bn worth of Canadian goods, sending shockwaves through exporters who rely heavily on the US market, where roughly 70 percent of Canadian exports find their buyers. However, following intense talks, Trump announced a brief three-day truce on Truth Social, simultaneously teasing the potential revival of the Keystone XL Pipeline—a project originally halted by the Biden administration in 2021.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
         <p>Prime Minister Carney acknowledged that while substantial progress had been made, significant work remains. Canadian officials continue to balance economic pragmatism with a proud public sentiment that increasingly resists external pressure. As experts note, the delicate dance between ego, sovereignty, and economic interdependence makes every hour leading to the Friday deadline a critical test of diplomatic endurance.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -60,19 +60,19 @@ Tactical Waterproof Backpack
         <h2 style="font-size: 1.5rem; color: #2d3748; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; margin-bottom: 20px;">The Weight of Pride and the Pursuit of Peace</h2>
         <p>International negotiations are rarely just about balance sheets and trade deficits; they are profoundly shaped by human psychology, political pride, and national dignity. When leaders exchange sharp words—describing talks as "nasty," "delicate," and "intense"—they are wrestling with the age-old human impulse toward self-assertion and dominance.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
         <p>Scripture offers remarkable clarity on how pride often fuels unnecessary conflict, while humility opens the door to resolution. Proverbs 13:10 reminds us: <em>"Pride breeds quarrels, but wisdom is found in those who take advice."</em> In the context of modern trade disputes, the temptation for leaders is to dig in their heels, prioritize political optics over practical well-being, and let economic collateral damage mount.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
         <p>Yet the willingness of both Washington and Ottawa to step back at the eleventh hour demonstrates the value of restraint. True strength in leadership is rarely found in the loudest threat or the steepest tariff; rather, it is manifested in the disciplined choice to pause, listen, and seek common ground before irreversible damage is done.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -90,13 +90,13 @@ Seagate Portable External Hard Drive
         <h2 style="font-size: 1.5rem; color: #2d3748; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; margin-bottom: 20px;">A Reflection on Stewardship and Patience</h2>
         <p>When news cycles are dominated by threats of economic retaliation, it is easy for anxiety to take root. We worry about rising prices, strained international alliances, and the stability of our livelihoods. This makes me think about how quickly human systems can be shaken when trust is tested.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
         <p>I'm reminded that God calls His people to be agents of stability and peace in a fractured world. James 3:18 tells us: <em>"Peacemakers who sow in peace reap a harvest of righteousness."</em> This ancient truth invites us to consider our own daily interactions. Whether on a global trade stage or within our local communities, the mandate remains the same: to choose patience over provocation, and constructive dialogue over division.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -110,7 +110,7 @@ Tactical Waterproof Backpack
         <h2 style="font-size: 1.5rem; color: #2d3748; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; margin-bottom: 20px;">How Should Christians Respond?</h2>
         <p>In moments of geopolitical uncertainty, believers are called to look beyond sensational headlines and practice active discernment. Here are three concrete ways to respond to news like the US-Canada trade truce:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -129,7 +129,7 @@ Seagate Portable External Hard Drive
         <h2 style="font-size: 1.5rem; color: #2d3748; border-bottom: 1px solid #e2e8f0; padding-bottom: 8px; margin-bottom: 20px;">Closing Takeaway</h2>
         <p>The eleventh-hour pause in US-Canada tariffs is a welcome reprieve, but it is also a reminder of how fragile international harmony can be. As negotiations continue toward Friday's deadline, let us remember that true security does not rest in trade pacts alone, but in the steadfast pursuit of fairness, understanding, and peace.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

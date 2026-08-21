@@ -28,13 +28,13 @@ source_url: "https://www.nbcnews.com/world/asia/south-korean-president-urges-str
     <h2>Why This Matters for Local Communities</h2>
     <p>When high-level defense decisions shift, the ripple effects are often felt most acutely by those living closest to the border and in major urban hubs like Seoul. The "Ulchi Freedom Shield" exercises, which began this week, are not just military maneuvers; they include civil defense components designed to protect citizens in the event of an emergency.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
     <p>President Lee has been clear: these civil defense drills are defensive and meant to safeguard the daily lives of citizens. By pushing for independent capabilities—such as a nuclear-powered submarine program and better-integrated military operations—the government is attempting to ensure that South Korea’s safety isn't entirely dependent on the shifting political winds of its allies. For residents, this is about moving toward a "worst-case scenario" preparedness that doesn't rely solely on external intervention.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -44,13 +44,13 @@ Crevice Cleaning Brush Set
     <h2>A Perspective on Vigilance and Peace</h2>
     <p>In times of geopolitical uncertainty, it is natural to feel anxious about the future. I am reminded of the words in <strong>Psalm 127:1</strong>: <em>"Unless the Lord builds the house, the builders labor in vain. Unless the Lord watches over the city, the guards stand watch in vain."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
     <p>This verse doesn't suggest we shouldn't have plans or defenses; rather, it invites us to consider where we place our ultimate trust. While nations work to strengthen their borders and military capabilities, there is a profound peace in recognizing that true security transcends human strategy. It invites us to balance our earthly responsibilities—like being good stewards of our community's safety—with a heart that remains anchored in faith rather than fear. As we navigate these shifts in regional policy, we can pray for those in leadership to act with wisdom, seeking paths that foster genuine stability for families and neighborhoods.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 

@@ -22,7 +22,7 @@ source_url: 'https://www.investopedia.com/5-things-to-know-before-the-stock-mark
 <h2 id="what-happened">Market Snapshot: Mixed Futures, Cooling Dollar, and Tech Momentum</h2>
 <p>As the opening bell approaches for the week of August 17, 2026, the major stock indexes are charting divergent paths following a minor pullback on Friday. Nasdaq futures recently gained 0.4%, supported by a premarket rally in chipmakers and AI hardware suppliers like Sandisk, Seagate, and Western Digital. Conversely, S&P 500 futures edged up just 0.1%, while Dow Jones Industrial Average futures slipped 0.2%.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -40,7 +40,7 @@ source_url: 'https://finance.yahoo.com/markets/stocks/article/nikes-stock-plunge
 <h2>What Happened: The Numbers Behind the Drop</h2>
 <p>On Monday, Nike shares (NKE) tumbled more than 4% to fall below , marking their lowest valuation since late 2024. For years, major Wall Street analysts maintained an overwhelmingly bullish stance on the athletic-wear titan, anticipating quick turnarounds and steady growth. Instead, those projections have collided with persistent operational challenges.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

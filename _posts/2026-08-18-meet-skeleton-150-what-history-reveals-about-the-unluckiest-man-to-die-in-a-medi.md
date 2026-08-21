@@ -20,7 +20,7 @@ source_url: 'https://arstechnica.com/science/2026/08/meet-the-only-known-trebuch
     <p>History is written by the victors, but sometimes it is written in bone. Beneath the chapel of Scotland's historic Stirling Castle, researchers recently uncovered the remains of a defender whose death offers a painfully unique window into medieval warfare: a man crushed instantly by a boulder hurtling at nearly 300 kilometers an hour. Known to science as Skeleton 150, he stands out as the only known trebuchet casualty in the historical record.</p>
     <p>For centuries, siege engines like trebuchets were the ultimate heavy artillery of the Middle Ages, designed to smash stone walls and terrorize garrisons. Yet, direct hits on individual human beings were rarely recorded in tactical chronicles. Skeleton 150 changes that narrative, turning an abstract historical weapon into a sobering, visceral reality of flesh, bone, and extreme physics.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

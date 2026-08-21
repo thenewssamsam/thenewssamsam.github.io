@@ -33,7 +33,7 @@ source_url: "https://www.post-gazette.com/news/education/2026/08/17/drug-hazing-
 
 <p>To understand how otherwise sensible individuals participate in destructive group behavior, we have to look past simple malice and examine the subtle, powerful psychological forces at play when bright young minds enter the high-stakes ecosystem of college Greek life.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

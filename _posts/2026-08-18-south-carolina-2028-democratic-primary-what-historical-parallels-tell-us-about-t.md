@@ -34,7 +34,7 @@ source_url: 'https://www.usatoday.com/story/news/politics/elections/2026/08/16/2
     <h2>What Happened: South Carolina Locks In First-in-the-Nation Status</h2>
     <p>The Democratic National Committee made it official: South Carolina will remain the party's first-in-the-nation sanctioned primary state for the 2028 presidential election. Moving away from the historic, predominantly white landscapes of Iowa and New Hampshire, the DNC has leaned into a state where African American voters form more than 60% of the primary electorate.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

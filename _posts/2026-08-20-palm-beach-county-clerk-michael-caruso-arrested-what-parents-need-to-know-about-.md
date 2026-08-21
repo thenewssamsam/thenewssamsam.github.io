@@ -39,13 +39,13 @@ source_url: "https://www.wpbf.com/article/florida-palm-beach-county-clerk-of-cou
 <p>Palm Beach County Clerk of Court Michael Caruso was arrested Tuesday morning on serious charges related to child sexual abuse, according to Florida Attorney General James Uthmeier. The high-profile arrest was executed with assistance from the Florida Department of Law Enforcement and local agencies as part of an ongoing investigation.</p>
 <p>According to charging documents outlined in initial reports, Caruso faces multiple severe felony counts, including kidnapping, lewd or lascivious molestation, lewd or lascivious exhibition, luring or enticing a child, and child abuse causing mental injury. Hours after the arrest was announced, Florida Governor Ron DeSantis formally suspended Caruso from his elected office.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 <p>The Clerk's office released a statement noting that while the news was surprising to their 650 employees, internal operations would continue uninterrupted to serve the community. As authorities continue their investigation and additional details emerge, local families are left processing the sudden and disturbing nature of the headlines.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -60,13 +60,13 @@ Seagate Portable External Hard Drive
 <h2>A Parenting &amp; Family Perspective</h2>
 <p>Headlines involving trusted community figures committing offenses against children can deeply unsettle parents. It shatters the comforting illusion that danger only lurks in unfamiliar places or shadowy corners. When someone in a position of public trust is accused of such acts, parents often grapple with a difficult question: How do we teach our children to navigate a complex and sometimes dangerous world without living in a state of constant fear?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 <p>From a parenting and family wellness perspective, the goal is not to terrorize children with worst-case scenarios, but to equip them with clear, empowering tools. Fear-mongering makes children anxious and hesitant to speak up, whereas clear boundaries and open communication build resilience and confidence.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -74,7 +74,7 @@ Seagate Portable External Hard Drive
 <div class="pfc-quote-box">
 <p>&quot;True child safety is built on open communication and established family boundaries, not on fear and suspicion.&quot;</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -82,7 +82,7 @@ Seagate Portable External Hard Drive
 
 <p>Here are age-appropriate communication strategies to help guide conversations:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -102,13 +102,13 @@ Tactical Waterproof Backpack
 <h2>A Moment for Reflection</h2>
 <p>Incidents like this remind us of the brokenness present in our world and the heavy responsibility we carry as guardians of the next generation. One lesson is found in Proverbs 22:3, which advises, &quot;The prudent see danger and take refuge, but the simple keep going and pay the penalty.&quot; This invites us to be watchful and proactive rather than naive about the realities of human nature.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 <p>At the same time, we are reminded of the profound value and dignity placed upon every child. In Matthew 18:6, a stern warning is given regarding those who cause harm to the vulnerable: &quot;If anyone causes one of these little ones—those who believe in me—to stumble, it would be better for them to have a large millstone hung around their neck and to be drowned in the depths of the sea.&quot; This underscores how seriously moral accountability is viewed, offering both a sober warning to society and a comforting assurance that justice ultimately matters to the Creator.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -123,7 +123,7 @@ Tactical Waterproof Backpack
 <h2>How Should Parents Respond?</h2>
 <p>Rather than retreating into panic, parents can take concrete, constructive steps in their own households today:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -143,7 +143,7 @@ Tactical Waterproof Backpack
 <h2>Closing Takeaway</h2>
 <p>Disturbing community news can shake our confidence in the institutions around us, but it also serves as an important reminder to stay vigilant and close to our families. By fostering an environment of open communication, trust, and clear boundaries, we can help protect our children while building a resilient home foundation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

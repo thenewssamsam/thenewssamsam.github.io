@@ -37,7 +37,7 @@ source_url: 'https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-isr
 
 <p>The numbers released by UNIFIL paint a grim picture of escalating hostilities. Between August 5 and 16, peacekeepers recorded an average of 137 projectiles fired per day, culminating in spikes of 208 projectiles on Saturday and 185 on Sunday.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

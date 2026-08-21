@@ -52,7 +52,7 @@ source_url: "https://www.cnn.com/2026/08/18/economy/canada-tariffs-trump"
     </div>
     <p>To understand why this three-day pause matters for everyday budgets, we have to look past political headlines and examine the basic financial mechanics of import duties. A tariff is not a tax paid by the exporting country; it is a levy collected by customs authorities when foreign goods cross into the domestic market. Importers—wholesalers, distributors, and retail brands—pay these fees directly upon entry.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -61,7 +61,7 @@ Tactical Waterproof Backpack
     </div>
     <p>When an import tax spikes by 50% on categories like furniture, dairy, and household appliances, businesses face a difficult choice: absorb the higher cost into shrinking profit margins or pass the expense down the supply chain to retail consumers. In highly integrated manufacturing ecosystems like North America, where parts cross the border multiple times before final assembly, compounding tariffs can quickly inflate retail price tags.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -69,7 +69,7 @@ Tactical Waterproof Backpack
     <div class="ncg-shareable-quote">
       <p>"Tariffs are a tollbooth on the integrated supply chain—when the cost of raw materials and finished goods rises at the border, the final invoice is paid by the household at the register."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -80,7 +80,7 @@ Seagate Portable External Hard Drive
     </div>
     <p>Furthermore, the US Chamber of Commerce and various industry analysts noted that sweeping tariffs risk disrupting supply chains that support millions of jobs across North America. For consumers, general financial literacy in these moments means recognizing that macroeconomic negotiations directly influence household purchasing power, grocery bills, and discretionary spending long before policy details are fully codified.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -94,7 +94,7 @@ Tactical Waterproof Backpack
     <h2>A Quiet Reflection on Stewardship and Honesty in Commerce</h2>
     <p>Moments of sweeping economic uncertainty often make us reflect on how we manage our resources and the importance of fair dealing. In Scripture, honesty and transparent weights in commerce are consistently lifted up as foundational to a stable society. Proverbs 16:11 reminds us, <q>A honest scale and balance are the Lord's; all the weights in the bag are his work.</q></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -103,7 +103,7 @@ Tactical Waterproof Backpack
     </div>
     <p>When international trade policies shift abruptly, families are reminded of how fragile economic systems can be. This makes wise stewardship—living within our means, planning prudently for unexpected price fluctuations, and practicing patience—even more vital. Ecclesiastes 11:2 offers timeless practical advice for uncertain times: <q>Invest in seven ventures, yes, in eight; you do not know what disaster may come upon the land.</q> Diversification and careful preparation remain the best defense against macroeconomic volatility.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -117,7 +117,7 @@ Tactical Waterproof Backpack
     <h2>How Should Readers Respond? Navigating Economic Uncertainty</h2>
     <p>While individuals cannot control trade negotiations between Washington and Ottawa, proactive financial planning can mitigate the ripple effects of shifting import costs:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -131,7 +131,7 @@ Tactical Waterproof Backpack
     </div>
     <p><em>Disclaimer: This is general financial information, not personalized investment or financial advice. Consult a qualified professional regarding your specific financial situation.</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

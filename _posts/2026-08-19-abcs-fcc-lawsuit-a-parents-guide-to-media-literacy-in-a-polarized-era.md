@@ -20,7 +20,7 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/18/abc-sues-trump-fede
     <p>ABC has filed a lawsuit against the Federal Communications Commission (FCC) in the District of Columbia, alleging that the agency is engaging in a retaliatory campaign against the network. The dispute centers on the FCC’s demand for early television license renewals for ABC’s eight local stations. ABC argues this move is a "chilling" attempt by the Trump administration to punish the network for its editorial content and political coverage.</p>
     <p>The FCC, led by Brendan Carr, maintains that all broadcasters must operate in the "public interest." The agency is currently investigating claims of discriminatory hiring practices at Disney (ABC's parent company) and potential violations of "equal time" rules regarding the talk show <em>The View</em>. Meanwhile, the network warns that the potential for a formal hearing process could lead to years of litigation or the loss of their broadcast licenses entirely.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -30,7 +30,7 @@ Seagate Portable External Hard Drive
     <h2>Teaching Our Kids About Media and Power</h2>
     <p>When headlines involve high-stakes legal battles between massive media corporations and federal regulators, it is easy for parents to feel overwhelmed. However, this story offers a unique opportunity to talk to our children—especially teenagers—about the importance of a free press and how power works in our society.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -50,13 +50,13 @@ Seagate Portable External Hard Drive
     <h2>A Reflection on Truth and Integrity</h2>
     <p>Situations like this, where power and public perception collide, often make me think about the biblical call to pursue truth in an environment of noise. Proverbs 18:17 reminds us, <em>"The first to present his case seems right, till another comes forward and questions him."</em> This verse is a powerful tool for media literacy; it reminds us that we should never take a single report at face value, but rather be diligent in seeking the full picture.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>We are also reminded of the importance of integrity in leadership. <em>"Truthful lips endure forever, but a lying tongue lasts only a moment"</em> (Proverbs 12:19). Regardless of which side of this debate one stands on, these principles invite us to consider the burden of responsibility carried by those who inform the public and those who regulate that information.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -66,7 +66,7 @@ Seagate Portable External Hard Drive
     <h2>How Should Parents Respond?</h2>
     <p>Instead of shielding children from the news, use it as a "teachable moment."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -81,7 +81,7 @@ Seagate Portable External Hard Drive
     <h2>Closing Takeaway</h2>
     <p>The conflict between ABC and the FCC serves as a reminder that the health of our media landscape is not just a job for regulators or lawyers—it is a responsibility shared by every household. By teaching our children to be discerning consumers of information, we empower them to be citizens who value truth above partisan noise.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

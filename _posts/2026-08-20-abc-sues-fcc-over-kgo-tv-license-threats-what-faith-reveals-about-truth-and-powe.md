@@ -32,14 +32,14 @@ source_url: "https://www.sfgate.com/sf-culture/article/abc-sues-fcc-22393619.php
         <h2 style="font-size: 1.5em; color: #2d3748; border-left: 4px solid #3182ce; padding-left: 10px; margin-bottom: 15px;">What Actually Happened: The Facts of the Case</h2>
         <p>To understand the gravity of the dispute, it helps to review the sequence of events as outlined in court filings and public reports. In late April, the FCC directed several ABC-owned stations to file their license renewal applications far ahead of their official expiration dates—such as KGO-TV's, which was not scheduled to expire until December 1, 2030. Stations were given a tight 30-day window to complete paperwork that typically demands months of administrative preparation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
         
         <p>The regulatory pressure followed sharp public criticism from administration figures regarding specific network broadcasts, including a segment on a late-night show and perceived imbalances in political interview coverage. In response, stations like KGO-TV mobilized local viewers for statements of support. Rather than quietly absorbing the pressure, ABC took the rare step of suing the federal agency, seeking a temporary restraining order and accusing regulators of attempting to force ideological compliance through administrative coercion.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -49,14 +49,14 @@ Tactical Waterproof Backpack
         <h2 style="font-size: 1.5em; color: #2d3748; border-left: 4px solid #3182ce; padding-left: 10px; margin-bottom: 15px;">A Biblical Lens on Power, Speech, and Integrity</h2>
         <p>When legal briefs and regulatory threats dominate the news cycle, it is easy to view the conflict purely as a political contest. Yet history and Scripture invite us to look deeper at the human heart, the nature of authority, and the enduring value of honesty. Power—whether held by government officials, corporate executives, or media conglomerates—has a way of testing character.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
         
         <p>Proverbs 16:12 reminds us, <em>"It is an abomination to kings to do evil, for the throne is established by righteousness."</em> This wisdom speaks directly to any institution wielding authority. When regulatory power is used not for the impartial administration of justice and public welfare, but as a tool for partisan pressure, it undermines the very foundation of public trust.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -67,7 +67,7 @@ Tactical Waterproof Backpack
 
         <p>At the same time, the media institutions caught in this struggle bear their own burden of stewardship. Communication is a profound trust. When broadcasters prioritize sensationalism or division, they erode the social fabric. Scripture frequently cautions against deceit and manipulation, calling instead for speech that builds up rather than tears down.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -78,7 +78,7 @@ Tactical Waterproof Backpack
 
         <p>This makes me think about how quickly ordinary citizens are caught in the crossfire of institutional friction. When giant entities battle for control over narratives, the individual viewer is left searching for honest, reliable truth. Colossians 4:6 offers timeless guidance for all participants in public discourse: <em>"Let your speech always be gracious, seasoned with salt, knowing how you ought to answer each person."</em> Whether in federal courtrooms, corporate boardrooms, or living rooms, the standard remains truth seasoned with grace.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -88,7 +88,7 @@ Tactical Waterproof Backpack
         <h2 style="font-size: 1.5em; color: #2d3748; border-left: 4px solid #3182ce; padding-left: 10px; margin-bottom: 15px;">How Should Christians Respond?</h2>
         <p>For believers observing this high-stakes standoff between a major network and federal regulators, the proper response is neither cynical detachment nor partisan outrage. Instead, Scripture points us toward active discernment, prayerful engagement, and a commitment to personal honesty.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

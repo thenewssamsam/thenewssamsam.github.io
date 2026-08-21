@@ -22,7 +22,7 @@ source_url: 'https://www.cbsnews.com/news/jared-kushner-hamas-netanyahu-gaza-pea
   <p>Jared Kushner, serving as a negotiator on Middle East affairs, traveled to Egypt on Sunday to meet directly with Hamas leaders, including Khalil al-Hayya. The rare, discreet meeting aimed to translate the U.S.-backed "Board of Peace" road map into concrete, verifiable steps. According to sources familiar with the discussions, the plan demands the complete disarmament of Hamas, the transfer of governing responsibilities to a new National Committee for the Administration of Gaza, and the eventual deployment of an international stabilizing force.</p>
   <p>Following the talks in Egypt, Kushner flew to Israel to confer with Prime Minister Benjamin Netanyahu and President Isaac Herzog. While Netanyahu’s office described the conversations as "deep and constructive," the diplomatic waters remain exceptionally rough. Just last week, Netanyahu openly defied elements of the U.S. peace plan, vowing there would be no full military withdrawal until Hamas is genuinely stripped of its military infrastructure. Meanwhile, regional powers like Saudi Arabia and the United Arab Emirates have publicly blamed Israel for obstructing the peace efforts, demanding immediate measures from Washington to keep the agreement on track.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

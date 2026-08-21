@@ -48,7 +48,7 @@ source_url: 'https://www.thedailybeast.com/trump-offers-explosive-new-reason-why
       While legal briefs emphasize national security needs—citing past threats and plots against leadership—the public revelation of deeply buried shelters beneath the so-called "People's House" highlights a timeless human preoccupation: physical preservation in the face of escalating danger.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -60,7 +60,7 @@ Seagate Portable External Hard Drive
       Throughout history, leaders, monarchs, and wealthy elites have sought physical sanctuaries. From ancient walled cities and subterranean fortresses to modern nuclear-grade bunkers poured with industrial concrete, the instinct to engineer an impregnable shelter is deeply ingrained in human nature. When external threats multiply—whether political instability, technological warfare, or personal security risks—building thick walls feels like a rational, prudent response.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -68,7 +68,7 @@ Tactical Waterproof Backpack
       Yet, the expansion of the White House project reveals a distinct tension between public openness and insulated protection. A building historically styled as the "People's House" now incorporates heavy fortifications designed to separate an elite few from the vulnerabilities shared by ordinary citizens. This physical separation mirrors a spiritual vulnerability: the temptation to place ultimate trust in steel, concrete, and defensive engineering rather than transcendent principles.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -84,7 +84,7 @@ Seagate Portable External Hard Drive
       When leaders turn to subterranean refuges, it highlights a sobering reality about our world: human power and prestige ultimately recognize their own fragility. No matter how thick the concrete is poured, earthly structures remain subject to the erosion of time and circumstance.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -102,7 +102,7 @@ Tactical Waterproof Backpack
       News of underground shelters and guarded estates naturally invites a moment of moral reflection. Human beings have always looked for secure hiding places when fear dictates the agenda. However, Scripture continually redirects our gaze from physical fortifications to spiritual anchoring. 
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -110,7 +110,7 @@ Seagate Portable External Hard Drive
       King David, who knew a great deal about military defense, political betrayal, and physical danger, wrote extensively about where true safety is found. In Psalm 46:1-2, we read: <em>"God is our refuge and strength, an ever-present help in trouble. Therefore we will not fear, though the earth give way and the mountains fall into the heart of the sea."</em> This passage reminds us that while practical preparation has its place, absolute security cannot be poured into concrete or guarded by armed details.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

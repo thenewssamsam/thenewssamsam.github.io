@@ -31,7 +31,7 @@ source_url: 'https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-
   <p>The electric vertical takeoff and landing (eVTOL) industry just experienced a seismic shift. In one of the most surprising twists in modern aviation history, Archer Aviation announced it has officially acquired its former rival, Wisk Aero, following a complex web of past intellectual property lawsuits and corporate restructuring.</p>
   <p>Under the terms of the deal, aerospace giant Boeing sold Wisk Aero—along with digital airspace company SkyGrid and drone maker Insitu—to Archer in exchange for a 16.5% ownership stake in the company. This consolidation comes on the heels of a winding history that began with Google co-founder Larry Page backing Sebastian Thrun's Kitty Hawk startup before transitioning into a joint venture with Boeing.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 KEOFID Classic Backpack 
 </a></p>
 

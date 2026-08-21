@@ -25,7 +25,7 @@ source_url: 'https://www.axios.com/2026/08/17/us-allies-pacific-aircraft-carrier
     <h2>What Happened?</h2>
     <p>The redeployment is a response to the exhaustion of crews and supply challenges currently facing U.S. forces in the Middle East. With the fleet stretched thin, the Navy is prioritizing the management of existing crises, effectively trading one strategic theater for another. However, security analysts warn that in the high-stakes environment of the Pacific, even a short-term absence of a carrier strike group can be interpreted by adversaries as a strategic withdrawal.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

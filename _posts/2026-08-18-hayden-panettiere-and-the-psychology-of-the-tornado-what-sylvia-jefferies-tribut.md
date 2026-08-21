@@ -38,7 +38,7 @@ source_url: 'https://people.com/hayden-panettiere-nashville-mom-sylvia-jefferies
   <h2 id="what-happened">What Happened: The Tragic Loss of Hayden Panettiere</h2>
   <p>On Sunday, August 16, 2026, emergency personnel responded to an unresponsive female at a residence in Greenville, South Carolina, where Hayden Panettiere was later pronounced dead at age 36. Local police and the Greenville County Coroner’s Office confirmed that an initial investigation showed no signs of foul play or trauma, with the exact cause and manner of death remaining pending further studies.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

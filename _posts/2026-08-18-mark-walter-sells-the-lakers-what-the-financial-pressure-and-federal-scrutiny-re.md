@@ -39,7 +39,7 @@ source_url: 'https://www.forbes.com/sites/tylerroush/2026/08/17/why-mark-walter-
 <h2>The Sudden  Billion Sale</h2>
 <p>Last week, billionaire investor Mark Walter sold the Los Angeles Lakers in a blockbuster deal valuing the NBA franchise at  billion—pocketing a cool  billion more than the  billion valuation when he bought into the team in June 2025. The buyers: a group led by Josh Kushner (brother of Jared Kushner) and former Disney CEO Bob Iger.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

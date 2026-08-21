@@ -121,21 +121,21 @@ source_url: "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine
 
 <p>The sudden diplomatic shift unfolded late Tuesday stateside. President Trump took to social media to state that the planned 50 percent tariffs on an array of Canadian goods—set to take effect at midnight under Section 338 of the Tariff Act of 1930—were being paused for three days based on the fact that the United States and Canada had reached a preliminary deal, pending final document review.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>The proposed tariffs would have covered roughly  billion worth of Canadian imports, impacting consumer goods such as wine, hockey sticks, and various manufactured items. Economists and business leaders had warned that the heavy 50 percent duty would make specific cross-border sales uneconomic, threatening supply chains and smaller enterprises. Alongside the trade discussions, President Trump also raised the prospect of reviving the Keystone XL pipeline project, originally authorized during his first term before permits were revoked in 2021.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>While government officials and trade representatives work to finalize the written agreements over the coming days, business owners and workers remain focused on the practical outcomes. The temporary pause gives both sides a crucial window to solidify terms and avert what could have been severe disruptions to bilateral commerce.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -148,14 +148,14 @@ Tactical Waterproof Backpack
 
 <p>When examining international trade talks, economic policy, and sudden shifts in diplomatic relations, Scripture offers enduring wisdom regarding how nations and leaders should interact. Human history is filled with moments of tension between neighbors, where the threat of economic hardship or conflict requires careful negotiation and a spirit of cooperation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>The Bible frequently emphasizes the value of honest scales, fair dealings, and the preservation of peace between neighboring communities. Proverbs 11:1 reminds us: <em>"The Lord detests dishonest scales, but accurate weights find favor with him."</em> In the context of modern trade agreements, this principle speaks directly to the foundational need for transparency, fairness, and mutual respect when nations establish the terms of their economic exchanges.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -166,7 +166,7 @@ Seagate Portable External Hard Drive
 
 <p>Furthermore, diplomacy and peaceful dialogue are consistently lifted up in Scripture as a superior path to conflict. Proverbs 12:20 notes: <em>"Deceit is in the hearts of those who plot evil, but those who promote peace have joy."</em> When leaders choose dialogue over immediate escalation, they practice a form of stewardship that protects families, preserves livelihoods, and fosters stability across borders.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -183,7 +183,7 @@ Tactical Waterproof Backpack
 
 <p>Trade policies are rarely abstract legal debates; they touch the daily bread of working people. Small business owners on both sides of the northern border have spent recent weeks calculating the potential fallout of steep tariffs on their inventory and customer relationships. When supply chains run smoothly, small enterprises can plan for the future, hire workers with confidence, and provide stable goods and services to their communities.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -198,7 +198,7 @@ Seagate Portable External Hard Drive
 
 <p>In moments where national news centers on economic disputes and sudden policy turns, believers are called to respond with grounded discernment, prayer, rather than anxiety or partisan hostility.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -207,7 +207,7 @@ Tactical Waterproof Backpack
 
 <p>Second, we can practice patience and empathy toward those whose livelihoods are directly impacted by these economic shifts. Whether a small business owner in Canada facing potential supply disruptions or an American consumer watching prices fluctuate, recognizing our shared human dignity encourages us to extend grace and support within our local communities.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -223,7 +223,7 @@ Tactical Waterproof Backpack
     <summary>Why did President Trump pause the 50 percent tariffs on Canada?</summary>
     <p>President Trump paused the scheduled tariffs for three days after announcing that the United States and Canada had reached a framework for a trade deal, subject to the finalization of official documents following talks with Prime Minister Mark Carney.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -232,7 +232,7 @@ Seagate Portable External Hard Drive
     <summary>What specific goods were targeted by the proposed Section 338 tariffs?</summary>
     <p>The proposed tariffs covered roughly  billion worth of Canadian imports, including consumer goods such as wine, hockey sticks, and various manufactured products originating from Canadian industries.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

@@ -20,7 +20,7 @@ source_url: 'https://www.nbcwashington.com/news/local/judge-blocks-plan-to-scrap
   <section id="introduction">
     <p>A federal judge has issued a significant ruling blocking efforts to abandon the long-planned relocation of the FBI headquarters to Greenbelt, Maryland. The decision, which halts the Trump administration's attempt to keep the bureau at the Ronald Reagan Building in Washington, D.C., brings a momentary end to a high-stakes legal battle over the use of congressionally approved funds and administrative authority.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

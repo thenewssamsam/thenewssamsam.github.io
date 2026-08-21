@@ -32,7 +32,7 @@ source_url: 'https://www.mlive.com/news/2026/08/i-hope-hell-gives-him-his-due-ne
 <p>In mid-August 2026, a wave of horrific violence swept across rural Missaukee County, Michigan. Michigan State Police identified 39-year-old Chad Hickman as the gunman behind a multi-location killing spree that left five people dead before Hickman was found dead alongside his final victim near Whitlock Lake.</p>
 <p>The timeline reconstructed by investigators spans multiple addresses in Lake Township and surrounding areas. Authorities were first alerted late Friday morning when a frantic 911 call came from a home on South LaChance Road. Inside, troopers discovered a gruesome scene: three deceased individuals—a 45-year-old man, a 40-year-old woman, and a 16-year-old boy. A fourth victim, a 13-year-old girl, was critically injured but alive.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

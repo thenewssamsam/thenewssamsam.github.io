@@ -101,7 +101,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/gold-prices-jeff-currie-gold.html'
 
 <p>Yet, this bullish stance comes against a backdrop of severe turbulence. Gold prices recently suffered their worst quarter in 13 years during the period ending in June, driven by emergency selling waves across global markets. For everyday observers watching wild price swings, the disconnect between short-term pain and long-term optimism can be confusing. To understand why Currie is betting on higher lows, we have to look past the day-to-day noise and examine the underlying financial plumbing driving modern reserve management.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

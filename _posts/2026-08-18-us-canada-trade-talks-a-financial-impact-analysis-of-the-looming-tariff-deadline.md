@@ -24,7 +24,7 @@ source_url: 'https://www.bbc.com/news/articles/crl7600rpnko'
     <h2>The Financial Stakes: Who Pays the Price?</h2>
     <p>When governments impose tariffs, the immediate financial impact is often felt by the businesses importing the goods, but these costs almost inevitably trickle down. With 50% tariffs on the table, sectors such as steel, aluminum, automotive, and forestry are bracing for significant volatility.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

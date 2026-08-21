@@ -41,7 +41,7 @@ source_url: "https://www.foxnews.com/politics/trumps-support-doesnt-save-scandal
 
 <p>For voters and political observers, the race raises urgent questions about the intersection of electoral politics, institutional ethics rules, and the legal rights of public officials when misconduct allegations surface. When a lawmaker faces simultaneous internal congressional probes and public accusations, how do legislative rules function, and what legal frameworks govern the fallout?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -51,14 +51,14 @@ Tactical Waterproof Backpack
 <h2>The Anatomy of a House Ethics Investigation</h2>
 <p>To understand why a scandal-plagued incumbent can stumble at the ballot box, one must examine how the U.S. House of Representatives polices its own members. The House Ethics Committee operates independently of federal criminal prosecutors, serving as the chamber's internal disciplinary body. Unlike a court of law, where guilt must be proven beyond a reasonable doubt, an ethics investigation is an administrative inquiry focused on whether a member violated House rules, federal laws, or standards of conduct.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>When an ethics probe is announced or leaked, it triggers a cascade of political and legal consequences:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -83,14 +83,14 @@ Tactical Waterproof Backpack
 <h2>Defamation, Denials, and Public Claims</h2>
 <p>When public officials face explosive allegations—such as Mills' denial of a Department of Justice investigation and his claim that a primary opponent fabricated the rumors—legal questions regarding defamation and political speech frequently arise. In the American legal system, public figures face a notoriously high bar when filing defamation lawsuits, requiring them to prove "actual malice" (that the speaker knew the statement was false or acted with reckless disregard for the truth).</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>However, the court of public opinion operates under very different rules than a court of law. Legal rights protect politicians from demonstrably false, defamatory attacks that cross the line into illegality, but aggressive political rhetoric, opposition research, and public accusations are heavily protected under the First Amendment. This creates a difficult tightrope for embattled lawmakers:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -109,14 +109,14 @@ Seagate Portable External Hard Drive
 <h2>A Moment for Reflection on Truth and Integrity</h2>
 <p>When political power clashes with moral accountability, it often forces observers to reflect on timeless principles of honesty and leadership. In biblical literature, integrity is framed not merely as a political asset, but as the foundational bedrock of a stable community. Proverbs 10:9 reminds us: "Whoever walks in integrity walks securely, but he who makes his ways crooked will be found out."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>This incident invites us to consider how easily the pursuit of influence can cloud moral judgment. Whether in Washington boardrooms or local primary races, Scripture reminds leaders that transparency and truth-telling carry enduring value. "An honest witness tells the truth, but a false witness tells lies" (Proverbs 12:17). While political campaigns are inherently combative, the underlying human desire for trustworthy leadership remains a universal constant that no endorsement can manufacture.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

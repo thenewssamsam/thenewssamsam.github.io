@@ -20,7 +20,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/17/trump-oval-office-c
   <section id="introduction">
     <p>When 16-year-old Ryder Williams plunged into the crashing waves at Seabright Beach to save 10-year-old Nathanial Rai, he likely wasn't thinking about bureaucracy or legislative titles. He was thinking about a life in danger. Yet, that split-second decision has rippled far beyond the Santa Cruz coastline, reaching the Oval Office and sparking a serious debate about how we define and support those who protect us.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

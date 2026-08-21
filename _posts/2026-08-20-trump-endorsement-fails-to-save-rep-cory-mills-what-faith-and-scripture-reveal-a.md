@@ -48,14 +48,14 @@ source_url: "https://www.foxnews.com/politics/trumps-support-doesnt-save-scandal
     <h2>The Weight of Scandal and House Ethics Probes</h2>
     <p>Mills is far from the only Republican lawmaker facing steep political consequences amid personal scandals. In recent months, several high-profile congressional figures have stepped back from re-election bids or faced intense bipartisan backlash. For instance, Rep. Chuck Edwards of North Carolina dropped his re-election campaign after a devastating House Ethics Committee report accused him of workplace harassment.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>Furthermore, fellow Republicans such as Rep. Nancy Mace led vocal efforts to censure Mills and even threatened expulsion proceedings, while Florida colleagues like Rep. Mike Haridopolos and Rep. Anna Paulina Luna ultimately threw their support behind Elijah. Democratic strategists had increasingly eyed Mills' seat as a vulnerability for the GOP in the upcoming midterms, adding external pressure to an already fractured local base.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -67,7 +67,7 @@ Seagate Portable External Hard Drive
 
     <p>The situation highlights a fundamental reality of modern governance: while party endorsements, campaign war chests, and powerful allies carry immense weight, they cannot completely shield a public servant from the loss of local trust.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -77,7 +77,7 @@ Seagate Portable External Hard Drive
     <h2>A Biblical Look at Power, Character, and Accountability</h2>
     <p>When high-profile leaders fall or face rejection from the very people who once championed them, observers of faith are naturally drawn to timeless spiritual principles. Power in the political arena is often viewed as the ultimate currency, but Scripture reminds us that human influence is fleeting and secondary to moral integrity.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -89,7 +89,7 @@ Tactical Waterproof Backpack
 
     <p>This political unfolding brings to mind the wisdom found in Proverbs 22:1, which tells us: <em>"A good name is to be chosen rather than great riches, and favour is better than silver and gold."</em> No amount of political backing or high-level endorsement can substitute for a pristine reputation rooted in honesty and integrity. When a leader's character is brought into question, external alliances often crumble under the weight of public scrutiny.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -101,7 +101,7 @@ Tactical Waterproof Backpack
 
     <p>Similarly, the Apostle Paul instructs believers in Galatians 6:7 with a principle that transcends pulpits and applies directly to civic life: <em>"Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap."</em> Actions have consequences, and public office demands a high standard of accountability. When leaders stumble, it serves as a sobering reminder that earthly positions of authority do not exempt anyone from moral law.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -113,7 +113,7 @@ Seagate Portable External Hard Drive
 
     <p>These biblical truths do not dictate partisan outcomes; rather, they invite believers to look deeper than political loyalties and evaluate leadership through the lens of stewardship, truth, and humility.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -123,7 +123,7 @@ Tactical Waterproof Backpack
     <h2>How Christians Should Respond to Political Upheavals</h2>
     <p>News cycles filled with congressional scandals and primary upsets can easily produce cynicism or anxiety among everyday voters. However, a faithful response involves several constructive steps:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

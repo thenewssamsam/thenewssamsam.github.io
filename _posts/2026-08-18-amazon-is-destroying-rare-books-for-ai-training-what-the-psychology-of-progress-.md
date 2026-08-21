@@ -136,7 +136,7 @@ p {
 <h2 id="what-happened">What Happened: The Spine-Cutting Facilities</h2>
 <p>The story broke after 404 Media placed a tracking device inside a rare book and watched its digital footprint travel straight to an Amazon facility in Las Vegas designated as VGT3—a building marked with a dinosaur holding a book in its claws. When questioned, Amazon issued a statement confirming that it purchases books through commercial channels to improve the products and services customers use.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

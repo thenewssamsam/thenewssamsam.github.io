@@ -29,7 +29,7 @@ source_url: 'https://www.cnn.com/2026/08/19/politics/kennedy-center-trump-name-s
   <div class="ncg-quote-box">
     <p>“This Court should not permit defendants to effectuate this latest gambit, in direct contravention of its earlier decision and in naked defiance of the law.” — Lawyers for Rep. Joyce Beatty</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -38,7 +38,7 @@ Seagate Portable External Hard Drive
   <h2 id="psychology-perspective">The Psychology of Landmarks and Legacy</h2>
   <p>Why does placing a name on a building evoke such intense, visceral reactions from both supporters and detractors? To understand the fierce tug-of-war over the Kennedy Center, we must look past partisan politics and examine fundamental principles of environmental psychology and identity theory.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -46,14 +46,14 @@ Seagate Portable External Hard Drive
   <h3 id="symbolic-territory">Symbolic Territory and Identity Protection</h3>
   <p>Human beings are intensely territorial, but our territory extends far beyond physical property into the realm of shared symbolic spaces. Public monuments, cultural centers, and national memorials act as collective anchor points for cultural identity. When a prominent name is added to or removed from a national landmark, citizens do not just see a change in signage; they perceive a shifting of cultural ownership.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
   
   <p>Psychologists note that shared landmarks represent a form of extended self. When an institution heavily tied to the memory of a beloved slain president is associated with a living political figure, critics experience cognitive dissonance and a sense of symbolic trespassing. Conversely, leaders seeking to leave an indelible mark on the capital are often driven by a deep-seated human desire for legacy—a psychological shield against mortality and transience.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -67,14 +67,14 @@ Seagate Portable External Hard Drive
   <h3 id="normalcy-bias-tarp">The Normalcy Bias and the Mystery of the Tarps</h3>
   <p>The ongoing presence of the white tarps offers a textbook example of behavioral friction. While the board insists the scaffolding is necessary for engineering repairs to the overhead soffits—located some twenty feet above—critics argue the structures are a visible manifestation of passive resistance. In behavioral psychology, when official explanations fail to align with observable outcomes, it triggers immediate suspicion and heightens public scrutiny.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
   
   <p>The tarps effectively create a visual vacuum. By obscuring the physical reality of the building's name, the structure forces observers to project their own assumptions onto the blank space, turning a simple architectural cover into a lightning rod for speculation and distrust.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -82,14 +82,14 @@ Seagate Portable External Hard Drive
   <h2 id="scripture-perspective">A Moment for Reflection</h2>
   <p>This fierce struggle over monuments and human names invites a deeper moral reflection on the transient nature of earthly accomplishments. Throughout history, humanity has repeatedly sought to etch its achievements into stone, hoping to conquer time itself.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
   
   <p>Scripture reminds us of the quiet wisdom found in humility and the fleeting nature of human pride. As the proverb notes, <q>“Let another praise you, and not your own mouth; a stranger, and not your own lips”</q> (Proverbs 27:2). When we look at the efforts expended to secure a temporary place in history, we are gently reminded that true character and lasting impact are built not on marble facades or bronze plaques, but on quiet integrity and service to others that outlasts any building.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -97,7 +97,7 @@ Tactical Waterproof Backpack
   <h2 id="how-readers-respond">How Should Readers Respond?</h2>
   <p>Instead of viewing architectural disputes purely through an all-or-nothing partisan lens, we can approach these cultural flashpoints with healthy psychological awareness:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -113,7 +113,7 @@ Seagate Portable External Hard Drive
       <summary>Why is Trump's name being added back to the Kennedy Center?</summary>
       <p>The Kennedy Center board voted to include an inscription reading “Restored and Renovated by President Donald J. Trump” following a protracted legal and administrative debate over the building's historical identity and recent renovations.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -122,7 +122,7 @@ Seagate Portable External Hard Drive
       <summary>What did the federal judge rule regarding the naming dispute?</summary>
       <p>US District Judge Christopher Cooper previously ruled that the arts center could only legally be named in honor of President John F. Kennedy, prompting ongoing legal challenges against subsequent board actions.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 

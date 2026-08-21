@@ -166,7 +166,7 @@ source_url: 'https://www.pravda.com.ua/eng/news/2026/08/16/8048902/'
     <p>Reports emerging from British and Ukrainian outlets indicate that over the past six months, Ukraine has quietly integrated British-made drones into its repertoire for long-range strikes inside Russian territory. Citing sources within Ukraine's Armed Forces, reports highlight the use of the jet-powered "Nyan" drone manufactured by BAE Systems, alongside another classified British unmanned aerial vehicle whose specifications remain undisclosed for security reasons.</p>
     <p>The operational footprint of these systems is broadening. The Nyan—designed specifically for long-range operations in heavily contested environments and previously tested during exercises in Estonia and from the Royal Navy experimentation ship XV Patrick Blackett—has reportedly been deployed in strikes near Belgorod. Furthermore, British-made platforms have been tied to operations targeting oil refineries near Moscow, Yaroslavl, and Volgograd. While Ukrainian forces continue to rely primarily on domestically produced long-range drones for the bulk of their missions, the successful incorporation of British hardware marks a notable tactical evolution.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

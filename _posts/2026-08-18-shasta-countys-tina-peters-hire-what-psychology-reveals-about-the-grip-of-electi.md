@@ -37,7 +37,7 @@ source_url: ''
 
 <p>The announcement came from Clint Curtis, the embattled top election official in Shasta County, a conservative northern California region of 182,000 residents that has spent years at the center of the American election-denial movement. Curtis told the Guardian he plans to bring in Peters to replace his top deputy while on medical leave. Although Curtis maintained that Peters would not have direct access to the county voting systems, the decision immediately triggered alarms from election security experts and state officials.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

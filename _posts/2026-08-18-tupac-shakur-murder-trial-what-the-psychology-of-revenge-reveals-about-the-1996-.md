@@ -33,7 +33,7 @@ source_url: ''
 <p>Nearly thirty years after the world lost one of its most influential musical voices, a Las Vegas courtroom is stepping back into the tense, neon-lit nights of September 1996. The long-dormant murder case of Tupac Shakur has officially reached trial, with prosecutors pointing squarely at former gang leader Duane "Keffe D" Davis as the orchestrator of a retaliatory drive-by shooting.</p>
 <p>Shakur was just 25 years old when he was fatally shot following a Mike Tyson boxing match on September 7, 1996. He died six days later. For decades, the case remained one of modern music's most infamous unsolved mysteries, bogged down by distrust in law enforcement, a pervasive street code of silence, and institutional dead ends.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

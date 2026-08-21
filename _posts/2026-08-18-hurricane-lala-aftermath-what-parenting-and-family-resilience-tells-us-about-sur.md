@@ -38,7 +38,7 @@ source_url: 'https://www.staradvertiser.com/2026/08/16/breaking-news/heco-over-4
     <p>Tropical Storm and Hurricane Lala struck the Hawaiian Islands with destructive high winds and heavy rainfall, leaving hundreds of thousands of residents without electricity. According to Hawaiian Electric Company (HECO) updates, approximately 178,400 customers remained without power deep into the evening, spanning Hawaii Island, Maui County, and Oahu.</p>
     <p>The hardest-hit rural areas of Hawaii Island, including Puna, North Kona, and South Kohala, face extended outages as repair teams tackle damaged transmission lines traversing remote and mountainous terrain. Meanwhile, Oahu residents—particularly across Leeward Oahu, Honolulu, and Windward Oahu—were urged to practice strict energy conservation as grid operators worked around the clock to stabilize generation capacity. With mainland mutual assistance crews en route, the islands are settling in for a challenging restoration window.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

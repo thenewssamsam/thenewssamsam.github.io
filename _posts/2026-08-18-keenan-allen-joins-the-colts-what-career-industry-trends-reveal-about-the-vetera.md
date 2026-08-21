@@ -26,7 +26,7 @@ source_url: ''
     <p>Veteran wide receiver Keenan Allen is returning to the NFL for a 14th professional season, agreeing to a one-year contract worth up to  million with the Indianapolis Colts, according to NFL insider Jordan Schultz. The move comes as the Colts look to stabilize their offensive weapon room following an injury to deep threat Alec Pierce and the offseason departure of Michael Pittman Jr. to the Pittsburgh Steelers.</p>
     <p>Allen spent the 2025 season back home with the Los Angeles Chargers following a one-year stint with the Chicago Bears, anchoring the first 12 years of his career in powder blue after being drafted in the third round out of California in 2013. Last season, Allen appeared in every regular-season game for the first time since 2019, utilizing a strategic, situational snap count where he played 55.1 percent of the total offensive plays. Despite that limited workload, he still led the Chargers in receptions (81) and ranked second in receiving yards (777) alongside four touchdowns.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Backpack USB Charging Port 
 </a></p>
 

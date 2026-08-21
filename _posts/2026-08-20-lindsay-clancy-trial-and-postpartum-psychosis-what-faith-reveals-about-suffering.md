@@ -44,14 +44,14 @@ source_url: 'https://www.bbc.com/news/articles/c5yedy98j7po'
   <h2 id="a-faith-perspective">A Faith Perspective on Mental Suffering</h2>
   <p>When a tragedy of this magnitude occurs, human nature immediately seeks to assign blame, categorize guilt, and find simple explanations for complex horrors. Yet a biblical worldview invites us to pause, lament, and recognize the profound brokenness of a fallen world. Postpartum psychosis is not a moral failing; it is a physical and neurological breakdown that affects the seat of human consciousness and emotion.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
   <p>Scripture does not shy away from the reality of deep mental and emotional anguish. Throughout the Psalms and the narratives of the prophets, we see faithful individuals whose minds and spirits were overwhelmed by darkness, fear, and confusion. God does not stand distant from human frailty; rather, He draws near to the brokenhearted and understands the physiological and psychological limits of His creation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -62,7 +62,7 @@ Seagate Portable External Hard Drive
 
   <p>In moments where medical science categorizes conditions like postpartum psychosis—noting its current absence from the DSM-5 handbook—we see the ongoing human effort to name, understand, and treat the invisible afflictions that plague mankind. Theological humility requires us to avoid simplistic spiritualizing. We must recognize that brain chemistry, hormonal shifts, and severe trauma are part of living in a world groaning under the weight of imperfection, requiring both fervent prayer and advanced medical intervention.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -74,14 +74,14 @@ Seagate Portable External Hard Drive
   <h2 id="scripture-and-reflection">A Reflection on Grace and Human Frailty</h2>
   <p>Cases like this often stir up deep anxiety, prompting us to reflect on our own vulnerability and the fragile nature of human stability. One cannot read about mothers like Meghan Cliffel—who experienced terrifying hallucinations before receiving proper psychiatric care—without recognizing how desperately our communities need proactive systems of support, grace, and open dialogue.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
   
   <p>This situation makes me think about the profound empathy demonstrated in Scripture toward those who suffer without understanding. Psalm 34:18 reminds us, "The Lord is close to the brokenhearted and saves those who are crushed in spirit." This truth challenges us to look past harsh judgment and cultivate communities of refuge where families can seek help for mental health challenges without shame or fear of isolation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -93,7 +93,7 @@ Seagate Portable External Hard Drive
   <h2 id="how-should-christians-respond">How Should Christians Respond?</h2>
   <p>Responding to maternal mental health crises requires a blend of spiritual grace and practical vigilance. Here are three concrete ways individuals and faith communities can respond:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -110,7 +110,7 @@ Seagate Portable External Hard Drive
   <h2 id="closing-takeaway">Closing Takeaway</h2>
   <p>The tragedy surrounding the Lindsay Clancy trial is a sorrowful reminder of how fragile human health can be. As legal arguments unfold and medical professionals push for better classification and treatment of postpartum psychosis, our greatest calling is to meet suffering with profound compassion, prayer, and a relentless commitment to supporting mothers in need.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

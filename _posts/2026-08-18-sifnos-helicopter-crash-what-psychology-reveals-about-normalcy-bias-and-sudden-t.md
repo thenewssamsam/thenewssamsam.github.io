@@ -18,7 +18,7 @@ source_url: 'https://www.euronews.com/my-europe/2026/08/17/three-killed-after-pr
 
 <p>A routine summer evening on a peaceful Greek island transformed into an unimaginable nightmare when a private helicopter went down near residential homes, claiming three lives. While investigators search for answers in the wreckage on the hillside of Sifnos, those watching from afar are left with a familiar, chilling reminder of how instantly the ordinary world can fracture.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

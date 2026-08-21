@@ -155,7 +155,7 @@ source_url: 'https://www.nbcsports.com/college-football/news/ohio-state-and-oreg
 
 <p>The latest rankings feature the Buckeyes pulling in 40 first-place votes, while the Ducks secure 14 following a historic ascent to their highest preseason ranking in program history. Behind them, heavyweights like Georgia, Notre Dame, and Texas round out a formidable top five, while the Southeastern Conference continues its sheer numerical dominance with nine total ranked teams. Yet, all eyes remain fixed on the top two. When conferences concentrate power at this level, history shows that the entire ecosystem of college athletics shifts in response.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

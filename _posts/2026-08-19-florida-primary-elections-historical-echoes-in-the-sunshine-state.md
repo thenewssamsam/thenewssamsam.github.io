@@ -23,7 +23,7 @@ source_url: "https://www.fox35orlando.com/news/florida-primary-election-result-2
     <h2>The Results at a Glance</h2>
     <p>Florida voters turned out to select candidates for U.S. Senate, the U.S. House of Representatives, the Florida Governorship, and various state legislative seats. According to the Associated Press and the Florida Division of Elections, these results now set the stage for the general election in November. From Brevard to Volusia, the county-by-county data highlights shifting demographics and voter engagement levels that typically define the state's political landscape.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -33,7 +33,7 @@ Tactical Waterproof Backpack
     <h2>History as a Mirror</h2>
     <p>Florida has long been a bellwether state, but its primary cycles often mirror broader national shifts. When we examine the 2026 results, two historical parallels stand out.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -41,7 +41,7 @@ Tactical Waterproof Backpack
     <h3>The Pendulum Effect</h3>
     <p>Historically, Florida often experiences a "pendulum effect" in mid-cycle elections. Much like the political shifts seen in the late 20th century, the surge in voter energy during this primary reflects a state eager to re-evaluate its leadership after periods of rapid growth. Just as in the mid-1990s, when Florida saw a major realignment in legislative power, today’s results indicate that voters are prioritizing local economic stability over national party platforms.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -53,7 +53,7 @@ Tactical Waterproof Backpack
     <h3>Shifting Demographics</h3>
     <p>Another historical parallel is the influence of migration. Historically, Florida’s political character has been reshaped by mass migration from the North and abroad. The 2026 data shows patterns reminiscent of the 1970s, where new arrivals significantly altered the voting behavior of once-predictable counties. Today's primary results confirm that the "Sunshine State" is once again in a period of intense demographic transition.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -63,13 +63,13 @@ Tactical Waterproof Backpack
     <h2>A Time for Reflection</h2>
     <p>When we look at the intensity of political races, it is easy to become caught up in the anxiety of the moment. However, I am reminded of the wisdom in <strong>Proverbs 21:1</strong>, which says, <em>"The king's heart is in the hand of the Lord, as the rivers of water: he turneth it whithersoever he will."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>This verse offers a profound perspective: regardless of the outcome of a primary or the noise of a campaign, there is a higher sovereignty at work. It invites us to consider that our role as citizens is to act with integrity and wisdom, even when the political waters feel turbulent. We are called to be faithful stewards of our civic duties, trusting that the ultimate direction of our nation remains under God's guidance, not just the results on a tally sheet.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

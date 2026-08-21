@@ -34,7 +34,7 @@ source_url: 'https://www.fool.com/investing/2026/08/17/sandisk-just-gave-micron-
 <p>Over the past year, memory stocks have experienced a historic surge. Sandisk shares soared by a staggering 3,400%, while Micron Technology climbed close to 700%. This massive rally was fueled by a persistent memory shortage across the tech sector, allowing both companies to capitalize on surging pricing power and robust customer demand.</p>
 <p>However, markets are forward-looking mechanisms. Many investors began unloading their holdings out of fear that the cyclical memory shortage was coming to an end. Furthermore, Micron's explosive growth pushed its market cap past the coveted  trillion threshold, triggering normal profit-taking impulses.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -44,14 +44,14 @@ source_url: 'https://www.cbsnews.com/news/north-korea-missile-launch-trump-kim-j
 
     <p>Almost immediately, South Korea's military reported that Pyongyang fired roughly ten short-range ballistic missiles from the Pyongyang area, while Japanese officials confirmed that a suspected ballistic missile had already fallen into waters off the coast. While the Pentagon insisted the reduced drills caused "no degradation to U.S. training objectives," Asian allies expressed deep alarm. Compounding the friction, President Trump pointed to South Korea's lack of assistance in the ongoing conflict with Iran as an additional factor in his decision to scale back the war games.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
     
     <p>Official estimates from Seoul place North Korea's nuclear arsenal between 80 and 120 warheads, while President Trump recently claimed the regime possesses 57 "very powerful" weapons. Regardless of the exact count, the regime's nuclear capabilities have steadily advanced through past rounds of high-profile summit diplomacy, leaving regional defenders wary of repeating history.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -61,7 +61,7 @@ Tactical Waterproof Backpack
     <h2>A Historical Parallel: The Dance of Summit Diplomacy</h2>
     <p>When leaders reach for personal rapport to bypass traditional diplomatic channels, history offers a repeating script. The closest verifiable historical parallel to the Trump-Kim dynamic can be found in the 1938 Munich Agreement or, more pertinently for modern nuclear proliferation, the 1994 Agreed Framework between the United States and North Korea under the Clinton administration.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -72,7 +72,7 @@ Tactical Waterproof Backpack
 
     <p>During the 1994 negotiations, Washington offered fuel oil and diplomatic recognition in exchange for a freeze on Pyongyang's nuclear facilities. Critics at the time hailed it as a breakthrough. Yet, the agreement ultimately collapsed as clandestine uranium enrichment programs continued beneath the surface. Each time sanctions are eased or defensive exercises are curtailed in exchange for promises of future talks, authoritarian regimes learn a predictable lesson: missile tests create leverage, and leverage brings superpowers back to the negotiating table.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -83,7 +83,7 @@ Seagate Portable External Hard Drive
 
     <p>The historical limit of this comparison, of course, is that modern intercontinental ballistic missiles and miniaturized warheads present a vastly more lethal technological threat than the plutonium reactors of the 1990s. Furthermore, Kim Jong Un operates with a level of dynastic insulation that previous negotiators struggled to penetrate. Friendly letters from a sister or fond memories of past summits do not equate to dismantlement.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -93,7 +93,7 @@ Seagate Portable External Hard Drive
     <h2>A Time for Discernment and Peace</h2>
     <p>In moments of high-stakes international posturing, it is easy to become entirely consumed by the maneuvers of political leaders. Yet, Scripture reminds us that true security does not rest in the shifting alliances of earthly powers or the scaling back of military deterrents. As Proverbs 21:31 reminds us, <em>"The horse is made ready for the day of battle, but victory belongs to the Lord."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 

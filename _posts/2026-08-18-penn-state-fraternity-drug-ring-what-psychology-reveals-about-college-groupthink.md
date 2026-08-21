@@ -35,7 +35,7 @@ source_url: 'https://www.usatoday.com/story/news/nation/2026/08/18/penn-state-st
 <h2>What Happened at Penn State?</h2>
 <p>According to the Pennsylvania Attorney General's Office, the alleged drug ring operated between 2023 and 2024, utilizing off-campus houses tied to the Delta Upsilon and Sigma Chi fraternities. Prosecutors state that senior members Agostino Abbatiello and Thomas Robinson functioned as the primary suppliers, allegedly making regular runs to Philadelphia and New York to transport large quantities of cocaine back to State College.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

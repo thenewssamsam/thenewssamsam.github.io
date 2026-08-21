@@ -23,7 +23,7 @@ source_url: "https://www.foxnews.com/politics/trumps-handpicked-desantis-success
     <h2>What Happened?</h2>
     <p>In a decisive result for the Florida Republican primary, Rep. Byron Donalds defeated a field of candidates, including current Lt. Gov. Jay Collins. Donalds, a three-term congressman, campaigned on a platform of enacting the "Trump agenda" in Florida. He will now face former Republican congressman David Jolly, who is running as a Democrat, in the general election to succeed the term-limited Gov. Ron DeSantis.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -33,7 +33,7 @@ Seagate Portable External Hard Drive
     <h2>Myth vs. Fact: Sorting the Narrative</h2>
     <p>In high-stakes political primaries, narratives often outpace the technical reality of the candidates' positions. Here is a breakdown of the claims currently circulating.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -41,7 +41,7 @@ Tactical Waterproof Backpack
     <h3>Myth: The "DeSantis Legacy" candidate was officially endorsed by the Governor.</h3>
     <p><strong>Fact:</strong> While Lt. Gov. Jay Collins ran on a platform explicitly designed to "protect the DeSantis legacy" and emphasized his appointment by the governor, Gov. Ron DeSantis did not issue a formal endorsement in this primary contest.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -49,7 +49,7 @@ Seagate Portable External Hard Drive
     <h3>Myth: Donalds’ endorsement from Trump was a reaction to his primary performance.</h3>
     <p><strong>Fact:</strong> The endorsement was preemptive. President Trump issued his support for Donalds in February 2025, well before the congressman formally announced his candidacy, signaling a long-planned alignment between the two figures.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -57,7 +57,7 @@ Tactical Waterproof Backpack
     <div class="ncg-quote-box" style="border-left: 5px solid #6a0dad; background-color: #f9f4ff; padding: 15px; margin: 20px 0;">
       <p><strong>"Political endorsements often carry immense weight, but voters must distinguish between a candidate's stated alignment with a national figure and the specific, local policy impacts of their proposed agenda."</strong></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -68,13 +68,13 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Truth and Stewardship</h2>
     <p>As we watch the political process unfold, it is easy to become caught up in the noise of campaign rhetoric. The Bible reminds us of the importance of discernment and truth-seeking. Proverbs 14:15 tells us, <em>"The simple believes everything, but the prudent gives thought to his steps."</em> This is a vital reminder for citizens in a democracy: our responsibility is to look past the surface-level slogans and seek to understand the actual substance of those who seek leadership.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>Furthermore, the stewardship of our communities is a serious matter. 1 Peter 4:10 encourages us to use our gifts to serve others, faithfully administering God’s grace in its various forms. When we cast our votes or evaluate candidates, we are participating in the stewardship of our society. It invites us to consider whether our choices are guided by a desire for justice, truth, and the common good, rather than just the intensity of political allegiance.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

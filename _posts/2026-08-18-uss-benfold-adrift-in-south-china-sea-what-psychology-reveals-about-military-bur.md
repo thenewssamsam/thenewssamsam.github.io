@@ -39,7 +39,7 @@ source_url: ''
 <h2 id="what-happened">What Happened in the South China Sea?</h2>
 <p>In late July, the 10,000-ton Arleigh Burke-class destroyer USS Benfold experienced a severe engineering casualty involving its generators while sailing alongside the George Washington carrier strike group. The resulting total power loss left sailors without air conditioning, functioning toilets, or galley services in tropical heat for four consecutive days until a tow could be arranged to Subic Bay in the Philippines.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

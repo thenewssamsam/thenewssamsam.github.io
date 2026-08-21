@@ -100,7 +100,7 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-r
 <p>The standoff centers on the village of Qusra in the occupied West Bank, where groups of Israeli settlers have surrounded several Palestinian homes, effectively trapping residents inside and preventing them from leaving. Ridi's brother and teenage son remained inside the house to defend the property, while Ridi rushed back from the United States after watching the siege unfold on his cameras.</p>
 <p>This localized standoff is part of a broader, alarming surge in West Bank violence. According to Palestinian health officials, Israeli soldiers and settlers have killed 87 Palestinians so far this year, while Palestinian attacks have killed three Israelis. Human rights observers note that settlements and settler movements have experienced heightened tensions amid a political climate that has emboldened right-wing groups to ramp up raids, harassment, and property destruction across Palestinian towns and villages.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -108,13 +108,13 @@ Tactical Waterproof Backpack
 <h2 id="human-cost">The Human Cost and the Search for Safety</h2>
 <p>For ordinary families caught in the middle of these geopolitical fault lines, the daily reality is one of profound vulnerability. Ridi expressed the agonizing helplessness of watching his home threatened from afar, stating at Israel's main international airport before heading to Qusra, "I've been watching this live for many days and now this is the second week. I can't sleep. I can't let the settlers steal my house while I was watching."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 <p>Though the Israeli military declared the neighborhood a closed military zone and deployed troops, video footage taken by family members showed soldiers interacting amicably with settlers who continued to roam the area. For a family simply trying to live in peace on their own land, the feeling of institutional abandonment is staggering.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -126,33 +126,33 @@ Tactical Waterproof Backpack
 <h2 id="scripture-perspective">A Biblical Reflection on Land, Justice, and Neighborly Love</h2>
 <p>Stories like the one unfolding in Qusra force us to confront deep questions about stewardship, justice, and how we treat our neighbors. Throughout Scripture, the concept of home, land, and the protection of the vulnerable is a recurring theme that speaks directly to the human heart.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 <p>When we look at the displacement and intimidation of families from their ancestral or rightful properties, passages addressing justice and oppression come to mind. In the book of Micah, we are reminded of what God truly requires of humanity:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 <blockquote>"He has told you, O man, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?" — Micah 6:8 (ESV)</blockquote>
 <p>This verse challenges us to look beyond national or ethnic lines and ask a harder question: Are our actions characterized by justice and kindness, or by the grasping of power at the expense of our neighbors? When the strong intimidate the weak, it creates a moral wound that ripples through an entire society.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 <p>Furthermore, Scripture frequently warns against the coveting of property and the abuse of power:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 <blockquote>"Woe to those who devise wickedness and work evil on their beds! When the morning dawns, they perform it, because it is in the power of their hand. They covet fields and seize them, and houses, and take them away..." — Micah 2:1-2 (ESV)</blockquote>
 <p>This ancient warning reminds us that whenever institutional power or mob action is used to dispossess ordinary people of their shelter and safety, it stands in direct opposition to divine justice. These texts invite us to consider how easily human pride and territorial ambition blind us to the inherent dignity of our fellow human beings.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -160,7 +160,7 @@ Tactical Waterproof Backpack
 <div class="ncg-share-quote">
     <p>True peace in any land cannot be built on the displacement of the vulnerable; it requires the courage to practice justice and mercy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

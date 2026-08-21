@@ -18,7 +18,7 @@ source_url: 'https://www.bbc.com/news/articles/c5y6j4jl03xo'
 
 <p>Zambian President Hakainde Hichilema has secured a resounding second five-year term, capturing 60% of the valid votes cast in a closely watched national election. While the decisive first-round victory avoids a runoff and keeps the incumbent safely in power, the aftermath is underscored by contested claims, opposition arrests, and international observer warnings about media access and uneven campaign conditions. For a nation long celebrated as a stable beacon of peaceful democratic transitions in Southern Africa, the 2026 vote offers a vital moment to examine how modern African political landscapes balance incumbent strength with institutional resilience.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

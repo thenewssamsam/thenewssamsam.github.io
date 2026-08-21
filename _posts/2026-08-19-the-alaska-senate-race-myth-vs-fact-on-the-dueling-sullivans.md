@@ -26,7 +26,7 @@ source_url: "https://apnews.com/article/alaska-primary-senate-sullivan-peltola-c
       <summary><strong>Myth: The second Dan Sullivan is a "sham" candidate planted by Democrats.</strong></summary>
       <p><strong>Fact:</strong> While the incumbent senator and his allies have alleged that Daniel J. Sullivan Jr. is a "sham" candidate intended to cause voter confusion, there is no evidence provided to support that he is a puppet of any political party. The candidate, a retired teacher from Petersburg, has publicly stated that his run is motivated by personal frustration with the incumbent's performance.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -36,7 +36,7 @@ Tactical Waterproof Backpack
       <summary><strong>Myth: Voters will be unable to distinguish between the two candidates on the ballot.</strong></summary>
       <p><strong>Fact:</strong> To mitigate confusion, state election officials implemented specific labeling. The incumbent is listed as "Dan S. Sullivan, Republican," and he is the only candidate permitted to use the "incumbent" label. The challenger appears as "Daniel J. Sullivan Jr." with no party affiliation, making the distinction clear for any voter paying attention to the ballot text.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -47,13 +47,13 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Truth and Clarity</h2>
     <p>In times of political noise and confusion, it is easy to become cynical or to let our frustration dictate our perceptions. The Bible reminds us that "the truth will set you free" (John 8:32, ESV). This principle applies even to our civic lives; seeking the truth behind headlines—rather than accepting rumors or fear-based narratives—is a form of stewardship over the information we consume.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Furthermore, we are encouraged to approach our neighbors and our leaders with wisdom. Proverbs 14:15 tells us, "The simple believes everything, but the prudent gives thought to his steps" (ESV). Whether we are analyzing a ballot or navigating daily conflicts, we are called to be thoughtful, discerning people who prioritize clarity over chaos.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -67,7 +67,7 @@ Seagate Portable External Hard Drive
     <h2>The Broader Political Climate</h2>
     <p>Beyond the "dueling Sullivans," the primary ballot includes a significant initiative aimed at reimposing campaign contribution limits. Proponents argue these limits are essential to curbing the influence of wealthy special interests, while opponents suggest they restrict free speech and favor established politicians. As Alaska continues to navigate its open primary system, these issues of transparency and influence remain central to the discourse.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

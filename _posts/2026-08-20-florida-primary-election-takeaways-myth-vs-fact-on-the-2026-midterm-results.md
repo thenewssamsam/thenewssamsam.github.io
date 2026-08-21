@@ -23,7 +23,7 @@ source_url: "https://apnews.com/article/florida-wyoming-alaska-primaries-democra
   
   <p>Across the country in Alaska, Wyoming, and California, voters weighed in on competitive legislative races featuring unique ballot challenges, crowded fields of political transplants, and incumbent battles. With the balance of power in Congress hanging on a razor-thin Republican edge, these primaries provide a vital roadmap for the autumn showdown.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -31,7 +31,7 @@ Seagate Portable External Hard Drive
   <h2 id="myth-vs-fact">Myth vs. Fact: Sorting Reality from Political Spin</h2>
   <p>Whenever a high-profile primary concludes, a flurry of narratives emerges about what the results supposedly prove about the American electorate. Let us examine some of the common claims circulating from this cycle against the actual facts reported by credible news organizations.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -40,7 +40,7 @@ Seagate Portable External Hard Drive
     <h3>Myth 1: Money Always Buys Elections in Modern Primaries</h3>
     <p><strong>The Fact:</strong> Financial advantage remains a powerful tool, but it is far from a guarantee of victory. In the Florida Democratic Senate primary, retired Army Lt. Col. Alex Vindman out-fundraised progressive state lawmaker Angie Nixon by more than 16-to-1, with Vindman commanding massive resources while Nixon brought in less than  million. Despite that staggering financial disparity, Nixon secured a decisive upset victory, proving that grassroots organization and direct voter connection can still overcome a massive campaign war chest.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -50,7 +50,7 @@ Seagate Portable External Hard Drive
     <h3>Myth 2: Incumbents and Established Party Figures Are Untouchable</h3>
     <p><strong>The Fact:</strong> The 2026 primary cycle has proven to be a mixed bag for incumbents, particularly where redistricting and local scandals scramble political dynamics. Republican Rep. Cory Mills lost his bid for a third term to former television reporter Ryan Elijah after facing a series of local scandals and losing backing from key state officials. Conversely, veteran Democratic incumbent Debbie Wasserman Schultz successfully defended her seat in a contentious, newly configured district despite fierce challenges from multiple opponents.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -60,7 +60,7 @@ Tactical Waterproof Backpack
     <h3>Myth 3: Every Candidate in Crowded Fields Is a Local Grassroots Figure</h3>
     <p><strong>The Fact:</strong> Several congressional races attracted a cast of characters resembling a reality TV reunion, featuring numerous political transplants and candidates with controversial pasts. For example, the race to fill the seat vacated by Donalds featured former members of Congress attempting political comebacks after past scandals, candidates who had previously run for office in entirely different states, and even former public figures who served prison time following the January 6, 2021 Capitol assault. Voters across these districts had to carefully parse candidate backgrounds beyond the standard campaign talking points.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -78,14 +78,14 @@ Seagate Portable External Hard Drive
   <h2 id="spiritual-reflection">A Moment for Reflection</h2>
   <p>Elections and political campaigns often stir up deep passions, anxieties, and divisions among neighbors. When the dust settles on primary night, it is worth pausing to reflect on how we engage with public life and one another. Scripture encourages believers to approach governance and community stewardship with humility, seeking peace and justice rather than division.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
   <p>The Apostle Paul writes in 1 Timothy 2:1-2: <em>"First of all, then, I urge that supplications, prayers, intercessions, and thanksgivings be made for all people, for kings and all who are in high positions, that we may lead a peaceful and quiet life, godly and dignified in every way."</em> This reminder invites us to look past the political theater and remember that civic engagement is ultimately about serving communities and caring for our neighbors with integrity.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -93,7 +93,7 @@ Tactical Waterproof Backpack
   <h2 id="how-to-respond">How Should Readers Respond?</h2>
   <p>Rather than reacting to election night headlines with panic or uncritical acceptance of viral claims, thoughtful citizens can take practical steps:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

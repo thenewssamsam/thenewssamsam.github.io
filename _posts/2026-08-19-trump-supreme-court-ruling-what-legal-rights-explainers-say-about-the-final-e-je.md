@@ -40,7 +40,7 @@ source_url: "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.
     <p>On Monday, the United States Supreme Court issued an order list declining to hear President Donald Trump's petition for a rehearing in his high-profile legal battle with writer E. Jean Carroll. The high court offered no written explanation for its refusal, which was anticipated by legal observers following an earlier denial in late June.</p>
     <p>With this latest refusal, Carroll's attorney, Roberta Kaplan, confirmed that the litigation has reached its absolute end. The unanimous civil jury verdict finding Trump liable for sexual abuse and subsequent defamation in the 1990s and 2019 respectively is now final and insulated from any further appeals. Carroll has already collected more than  million covering the initial damages award plus post-judgment interest, according to online court dockets.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -50,13 +50,13 @@ Seagate Portable External Hard Drive
     <h2 id="legal-perspective">A Legal Rights Perspective: Understanding Civil Finality</h2>
     <p>When high-profile civil litigation intersects with executive power, the public often hears terms like "immunity," "rehearings," and "Hail Mary petitions." But from a mechanical legal standpoint, Monday's Supreme Court order illustrates a fundamental principle of civil procedure: litigation must eventually end.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Trump's legal team had pinned their petition for reconsideration on an argument involving presidential immunity. Specifically, they asserted that the court needed to weigh whether statements made while in office were improperly introduced, arguing that this question would naturally bear on a separate, pending appeal regarding an  million defamation verdict.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -75,19 +75,19 @@ Seagate Portable External Hard Drive
     <h2 id="scripture-reflection">Reflecting on Truth, Accountability, and Justice</h2>
     <p>Legal battles of this magnitude inevitably draw public attention to deeper questions of accountability, truth-seeking, and the human desire for vindication. When controversies ripple across the public square for years, it is easy to become weary of conflict and cynical about whether truth ultimately prevails in human systems.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>Scripture frequently speaks to the importance of honest weights, truthful testimony, and the pursuit of justice that transcends earthly status. Proverbs 21:15 reminds us, <q>When justice is done, it brings joy to the righteous but terror to evildoers.</q> At the same time, the human heart is complex, and earthly verdicts rarely heal every relational or societal wound.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>This moment invites us to consider our own relationship with truth and accountability. Whether examining high-stakes courtroom drama or our day-to-day interactions, integrity matters. As the Apostle Paul writes in Ephesians 4:25, <q>Therefore each of you must put off falsehood and speak truthfully to your neighbor, for we are all members of one body.</q> True moral standing does not rest merely on legal technicalities or appellate outcomes, but on a steadfast commitment to honesty, humility, and the quiet pursuit of what is right before both God and our communities.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

@@ -46,14 +46,14 @@ source_url: "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine
 
 <p>To understand the real financial impact of this near-miss, we have to look past the political rhetoric and examine how tariffs actually work in practice. A common misconception is that a tariff is a tax paid directly by the exporting country. In reality, tariffs are import taxes levied by the U.S. government and paid directly by the American importer of record—the domestic distributor, wholesaler, or retailer bringing the goods across the border.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>When a 50% levy hits consumer-oriented goods like Canadian wine, lumber, or specialized equipment, that sudden cost spike ripples down the supply chain:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -66,7 +66,7 @@ Seagate Portable External Hard Drive
 
 <p>As Dan Kelly, president of the Canadian Federation of Independent Business, noted to CNBC, “A 50% tariff essentially makes a product uneconomic to sell into a particular market.” When margins evaporate overnight, commercial activity grinds to a halt—a dynamic that American buyers were already anticipating by holding off on future orders.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -79,14 +79,14 @@ Tactical Waterproof Backpack
 
 <p>While multi-billion-dollar corporations often possess the supply-chain flexibility to absorb or reroute around trade disputes, small and mid-sized enterprises (SMEs) bear the brunt of sudden tariff announcements. The Section 338 duties targeted consumer-facing items that form the lifeblood of cross-border small businesses.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>When trade rules shift unpredictably, business planning becomes an exercise in guesswork. Inventory management, pricing models, and long-term capital investments all stall. Neil Herrington of the U.S. Chamber of Commerce pointed out that sweeping trade barriers risk disrupting critical supply chains and threatening the millions of American jobs tied to the United States-Mexico-Canada Agreement (USMCA). Even with a three-day pause in place, the underlying uncertainty reminds CFOs, procurement officers, and small business owners why diversifying supplier networks remains a critical financial strategy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -103,7 +103,7 @@ Seagate Portable External Hard Drive
 
 <p>When economic news shakes markets and worries business owners, it naturally prompts deeper questions about honesty, stewardship, and the health of our communities. Proverbs 11:1 tells us, "False scales are an abomination to the Lord, but an honest weight is his delight." Throughout history, fair and transparent commerce has been foundational to peaceful human flourishing.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

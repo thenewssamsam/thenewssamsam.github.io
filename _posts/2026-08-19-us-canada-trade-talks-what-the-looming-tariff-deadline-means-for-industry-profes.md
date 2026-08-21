@@ -24,7 +24,7 @@ source_url: "https://www.bbc.com/news/articles/crl7600rpnko"
     <p>Prime Minister Mark Carney and his team are currently engaged in what has been described as "intense" and "delicate" negotiations with the Trump administration. The core of the tension lies in the US demand for concessions, including the removal of retaliatory tariffs on American autos, adjustments to Canadian dairy quotas, and the lifting of provincial bans on US alcohol sales.</p>
     <p>While the goal is to avoid the implementation of 50% tariffs on specific Canadian goods, both sides remain at an impasse. Minister Dominic LeBlanc has emphasized that the work is not yet done, underscoring the precarious nature of the next 48 hours.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 abshoo College Bookbag 
 </a></div>
 
@@ -34,7 +34,7 @@ abshoo College Bookbag
     <h2>Career & Industry Impact: Navigating the Uncertainty</h2>
     <p>For those working in manufacturing, logistics, and international trade, the current climate creates a "wait-and-see" environment that complicates operational forecasting. When tariffs are used as a primary lever in trade diplomacy, the ripple effects are felt most acutely in sectors with tight margins and integrated cross-border supply chains.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -42,7 +42,7 @@ Seagate Portable External Hard Drive
     <h3>The Supply Chain Conundrum</h3>
     <p>Industries like automotive and steel rely on a seamless flow of goods between the US and Canada. A 50% tariff would fundamentally alter the cost structure for manufacturers. Professionals in these fields should be preparing for potential price volatility and supply chain rerouting. In times like these, the ability to pivot—or at least have a robust contingency plan—becomes a core competency.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Backpack USB Charging Port 
 </a></div>
 
@@ -54,7 +54,7 @@ Backpack USB Charging Port
     <h3>Sector-Specific Pressures</h3>
     <p>The dairy and forestry sectors are facing unique pressures. For dairy, the conflict over supply management represents a fundamental clash between different agricultural philosophies. Industry leaders in these areas are currently navigating high levels of anxiety as political leaders, such as Quebec’s Christine Fréchette, maintain that certain systems are non-negotiable. For professionals in these sectors, monitoring provincial policy as closely as federal negotiations is essential.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -64,13 +64,13 @@ Seagate Portable External Hard Drive
     <h2>A Reflection on Stewardship and Wisdom</h2>
     <p>In the midst of these complex negotiations, one is reminded of the biblical wisdom regarding the value of patience and the weight of leadership. Proverbs 11:14 (ESV) notes, "Where there is no guidance, a people falls, but in an abundance of counselors there is safety." This underscores the importance of the collaborative, albeit difficult, work being done by the negotiating teams.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 KEOFID Classic Backpack 
 </a></div>
 
     <p>Furthermore, Matthew 5:9 (NIV) reminds us: "Blessed are the peacemakers, for they will be called children of God." While trade negotiations are transactional, the pursuit of stability and the avoidance of unnecessary economic pain for families—who are clearly feeling the strain, as indicated by recent polling—is a pursuit of the common good. We are called to be stewards of our resources and our communities, and this includes managing our professional affairs with both integrity and a heart for the stability of our neighbors.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 GAZELLE External Hard Drive 
 </a></div>
 
@@ -89,7 +89,7 @@ GAZELLE External Hard Drive
     <h2>Closing Takeaway</h2>
     <p>The next few days will likely define the trade environment for the foreseeable future. Whether a deal is struck or the tariffs go into effect, the most successful professionals will be those who remain informed and agile, refusing to let political volatility dictate their long-term professional strategy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Backpack USB Charging Port 
 </a></div>
 

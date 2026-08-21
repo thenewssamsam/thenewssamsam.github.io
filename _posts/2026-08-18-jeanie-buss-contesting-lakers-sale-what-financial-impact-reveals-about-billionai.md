@@ -37,7 +37,7 @@ source_url: 'https://abc7.com/post/jeanie-buss-contending-familys-sale-stake-lak
 <h2 id="what-happened">What Happened: The Battle for Lakers Control</h2>
 <p>The latest twist in the Lakers' ownership saga erupted when ESPN reported that five Buss siblings voted to sell their remaining 17.8% share of the team. The buyers, Josh Kushner and Bob Iger, stepped in following a federal investigation into billionaire Mark Walter regarding alleged tax fraud by companies tied to him—a development that triggered a secondary wave of exits among the family trust.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

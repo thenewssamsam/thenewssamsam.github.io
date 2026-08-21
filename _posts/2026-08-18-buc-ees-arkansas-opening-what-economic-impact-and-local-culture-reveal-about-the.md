@@ -40,7 +40,7 @@ source_url: 'https://www.foxbusiness.com/retail/buc-ees-arkansas-benton-opening'
   
   <p>According to company announcements, the Benton location has created more than 200 permanent jobs for the local community. This debut brings Buc-ee's to a total of 58 locations nationwide, continuing a rapid multi-state rollout that has transformed a beloved Texas roadside institution into a cross-country phenomenon.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

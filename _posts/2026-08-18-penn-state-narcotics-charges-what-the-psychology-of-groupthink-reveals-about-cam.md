@@ -24,7 +24,7 @@ source_url: 'https://www.psu.edu/news/campus-life/story/penn-state-responds-seri
     <h2>What Happened?</h2>
     <p>Pennsylvania Attorney General Dave Sunday recently unveiled charges against 14 individuals—mostly current or former Penn State students—accusing them of running a criminal narcotics operation throughout 2023 and 2024. The investigation centers on activities linked to two off-campus organizations: Sigma Chi and Delta Upsilon.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

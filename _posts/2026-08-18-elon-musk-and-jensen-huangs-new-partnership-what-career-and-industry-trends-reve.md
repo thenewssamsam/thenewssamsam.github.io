@@ -34,7 +34,7 @@ source_url: 'https://247wallst.com/investing/2026/08/16/elon-musk-and-jensen-hua
     <h2>The Anatomy of a Megadeal</h2>
     <p>Over a span of just two weeks in August 2026, a series of seemingly disparate corporate announcements revealed a coordinated strategy between Elon Musk's SpaceX and Jensen Huang's NVIDIA. First, Musk committed SpaceX exclusively to NVIDIA graphics processing units during an August 4th conference call, laying out a staggering target of 10 gigawatts of AI compute by the end of 2027—a target requiring an estimated  billion investment.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 QT-QY Military Tactical Backpack 
 </a></p>
 

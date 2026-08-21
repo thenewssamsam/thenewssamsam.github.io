@@ -54,7 +54,7 @@ source_url: "https://www.cnn.com/2026/08/18/asia/trump-us-south-korea-military-e
     <h3>The 1972 Nixon-Brezhnev Detente</h3>
     <p>Consider the 1972 summit between President Richard Nixon and Soviet leader Leonid Brezhnev. The era of detente was marked by a conscious effort to lower the geopolitical temperature through high-level personal summits and arms control treaties. While detente successfully averted immediate escalation, historians note that it also created friction with traditional allies in Western Europe who worried that superpower bargains would be struck at their expense. Much like modern Seoul, capitals in Europe had to navigate the reality that American political priorities could shift overnight based on personal rapport between leaders.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -62,7 +62,7 @@ Tactical Waterproof Backpack
     <h3>The 1986 Reykjavik Summit</h3>
     <p>Another striking parallel is the 1986 summit in Reykjavik, Iceland, between Ronald Reagan and Mikhail Gorbachev. President Reagan’s willingness to bypass traditional bureaucratic channels and engage in visionary, high-risk personal diplomacy startled his own advisors and NATO allies alike. While Reagan's gamble ultimately contributed to the end of the Cold War, it temporarily alarmed allies who depended on visible, unwavering deterrence to feel secure against a heavily armed neighbor. History teaches us that personal chemistry between heads of state is a powerful catalyst—but it can introduce profound unpredictability into foundational security architectures.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -70,7 +70,7 @@ Tactical Waterproof Backpack
     <div class="ncg-quote-box">
       <p>"History suggests that while summit diplomacy can open doors that deterrence keeps closed, it often leaves allies questioning whether the foundation of their security rests on enduring treaties or fleeting personal rapport."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -81,14 +81,14 @@ Seagate Portable External Hard Drive
     <h2>The Cost of Personal Diplomacy on Alliances</h2>
     <p>For over seven decades, the US-South Korea mutual defense treaty has served as the bedrock of stability in East Asia. South Korea hosts tens of thousands of American service members and the largest overseas US military installation, Camp Humphreys. When major joint exercises—designed to counter evolving nuclear, cyber, and drone threats—are abruptly curtailed, it sends ripples of uncertainty through the alliance.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>While President Lee Jae Myung has opted for a cooperative public stance, emphasizing Seoul's willingness to support broader global security initiatives like the Strait of Hormuz in exchange for greater self-reliance, the underlying dilemma remains. Alliances are built on predictability. When defense posture becomes subject to sudden diplomatic realignments, partner nations are forced to rapidly re-evaluate their long-term strategic calculations.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -98,7 +98,7 @@ Tactical Waterproof Backpack
     <h2>A Moment for Reflection</h2>
     <p>Times of international friction and shifting alliances often remind us of the enduring fragility of human security. Throughout history, leaders have consistently placed their trust in political pacts, military might, and personal charisma to secure peace. Yet, ancient wisdom offers a timeless caution regarding where ultimate trust should rest.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -107,7 +107,7 @@ Seagate Portable External Hard Drive
     
     <p>This verse invites us to reflect with humility on the limits of human diplomacy. While leaders must strive for peace and negotiate wisely, lasting stability cannot be manufactured by political maneuvering alone. It requires justice, integrity, and a sober recognition of human limitations. Watching nations navigate these complex geopolitical shifts encourages us to pray for wisdom for those in authority, recognizing that true peace runs deeper than any temporary suspension of military drills.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -127,7 +127,7 @@ Tactical Waterproof Backpack
       <h4><a href="https://www.amazon.com/dp/0393356256?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The World: A Brief Introduction by Richard Haass</a></h4>
       <p>An essential guide for understanding how global events, treaties, and international alliances shape our daily lives.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -141,7 +141,7 @@ Tactical Waterproof Backpack
       <summary>What are the Ulchi Freedom Shield (UFS) exercises?</summary>
       <p>UFS is an annual joint military command post and field training exercise conducted by the United States and South Korea, designed to enhance combined defense readiness against regional threats.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -150,7 +150,7 @@ Tactical Waterproof Backpack
       <summary>Why were the 2026 drills cut short?</summary>
       <p>The drills were halved at the request of Washington, following statements from President Trump emphasizing his personal relationship with North Korean leader Kim Jong Un and citing financial considerations.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -159,7 +159,7 @@ Seagate Portable External Hard Drive
       <summary>How has South Korea responded to the decision?</summary>
       <p>South Korean President Lee Jae Myung expressed support for efforts to encourage dialogue and peace on the peninsula, while agreeing that South Korea should boost its own defense spending.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

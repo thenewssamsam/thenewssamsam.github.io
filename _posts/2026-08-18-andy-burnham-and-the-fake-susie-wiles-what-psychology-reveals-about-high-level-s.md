@@ -23,7 +23,7 @@ source_url: 'https://www.cbsnews.com/news/uk-prime-minister-andy-burnham-susie-w
 <h2>What Actually Happened?</h2>
 <p>According to reports from POLITICO and CBS News partner BBC News, the unusual exchange occurred when an unidentified prankster reached out to Burnham pretending to be Susie Wiles, top aide to Donald Trump. Burnham exchanged a "few messages" described as being "of no significance" before his internal alarms went off and he suspected he was not talking to the real Wiles. </p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

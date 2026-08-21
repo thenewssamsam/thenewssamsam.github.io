@@ -24,7 +24,7 @@ source_url: 'https://6abc.com/post/masked-suspect-accused-terrorizing-women-cent
 <h2>What Happened in Center City</h2>
 <p>According to Philadelphia police, the string of alarming incidents unfolded during morning commuting hours in the heart of Center City. Surveillance video released by investigators captures a masked man relentlessly chasing a woman jogging near City Hall at approximately 5:30 a.m. on a Wednesday.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

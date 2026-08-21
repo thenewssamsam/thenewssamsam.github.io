@@ -43,7 +43,7 @@ source_url: 'https://abcnews.com/US/trial-judge-recused-karmelo-anthony-case-tee
         
         <p>The defense argued successfully that Judge Roach's post-trial public comments and media interviews—in which he defended his strict courtroom rules and appeared to endorse the jury's guilty verdict while a motion for a new trial was still pending—created a reasonable question regarding his judicial impartiality. When Judge Harle delivered his ruling, supporters in the courtroom reacted with audible cheers and tears, highlighting the deep emotional currents surrounding the case.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -57,21 +57,21 @@ Seagate Portable External Hard Drive
         <h2 style="font-size: 1.6rem; color: #222; margin-top: 30px; border-bottom: 1px solid #eee; padding-bottom: 8px;">The Background: A Tragic Track Meet Altercation</h2>
         <p>To understand the weight of these legal maneuvers, we must look back at the tragedy that sparked them. On April 2, 2025, a rainy track and field event at a Frisco Independent School District stadium turned fatal. What began as a verbal dispute under a school tent—reportedly over Anthony being in an unauthorized area—escalated rapidly.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
         
         <p>Witnesses testified that an argument ensued, leading to a physical push or nudge before Anthony drew a pocket knife. The single blow proved fatal to Metcalf, striking his heart. While prosecutors argued the killing was an unjustified, deliberate murder, the defense maintained that Anthony acted in self-defense. After four days of testimony and hours of deliberation, the jury rejected lesser options like manslaughter or "sudden passion," handing down a 35-year sentence.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
         
         <p>Now, Anthony's new legal team is fighting for a retrial, contending that strict courtroom restrictions—including a ban on electronics and a gag order—alongside alleged improper jury instructions, compromised the fairness of the original trial.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -85,21 +85,21 @@ Seagate Portable External Hard Drive
         <h2 style="font-size: 1.6rem; color: #222; margin-top: 30px; border-bottom: 1px solid #eee; padding-bottom: 8px;">A Biblical Perspective on Impartiality and Judgment</h2>
         <p>The recusal of a judge touches on one of the most fundamental pillars of biblical ethics: the absolute demand for unbiased, honest justice. Throughout Scripture, God places an immense weight on how earthly courts operate. Human beings are inherently flawed, prone to confirmation bias, pride, and the temptation to defend their own past decisions rather than seek pure truth.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
         
         <p>When legal systems stumble or face questions of partiality, it serves as a stark reminder of human frailty. This makes me think about the timeless wisdom found in <span style="font-style: italic;">Deuteronomy 16:19</span>, which commands: <q style="quotes: '“' '”' '‘' '’';">Do not pervert justice or show partiality. Do not accept a bribe, for a bribe blinds the eyes of the wise and twists the words of the innocent.</q></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
         
         <p>While no one is alleging bribery here, the underlying principle remains identical: any factor—whether public pressure, social media outrage, or a judge's personal defensiveness—that clouds a clear, unbiased view of the facts threatens the integrity of the process.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -111,14 +111,14 @@ Seagate Portable External Hard Drive
 
         <p>Furthermore, Scripture invites us to examine our own hearts when we rush to judgment. In a digital age where cases are tried on social media long before they reach a jury, we are often tempted to harden our stances instantly. Yet <span style="font-style: italic;">Proverbs 18:13</span> offers a sobering caution: <q style="quotes: '“' '”' '‘' '’';">To answer before listening—that is folly and shame.</q></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
         
         <p>Whether looking at the tragic loss of Austin Metcalf’s young life or evaluating the legal arguments surrounding Karmelo Anthony’s right to a fair hearing, the biblical mandate is patience, rigorous truth-seeking, and a profound respect for due process.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

@@ -40,7 +40,7 @@ source_url: 'https://www.cnn.com/2026/08/17/politics/karoline-leavitt-replacemen
 <h2>What Happened: The Impending Vacancy</h2>
 <p>According to reports from CNN and Semafor, President Trump is weighing a tentative plan to rely on a rotating group of Cabinet officials to handle press briefings for an indefinite period following Leavitt’s departure. Sources indicate that Trump is in the earliest stages of deciding on a replacement, expressing zero urgency and noting that he "genuinely doesn’t know who to pick."</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

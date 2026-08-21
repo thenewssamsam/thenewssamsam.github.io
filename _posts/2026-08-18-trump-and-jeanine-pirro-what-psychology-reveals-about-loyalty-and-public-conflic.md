@@ -33,7 +33,7 @@ source_url: 'https://www.thedailybeast.com/trump-80-insults-his-own-goon-in-unhi
 <h2 id="what-happened">What Happened</h2>
 <p>The friction centers around a dropped case involving alleged vandalism at the Lincoln Memorial Reflecting Pool and a subsequent social media post from Donald Trump targeting U.S. Attorney for the District of Columbia Jeanine Pirro. Initially, Pirro's office pursued charges against former Olympian David Hearn for damaging the pool's lining during a high-profile renovation. However, after reviewing the evidence, prosecutors concluded the damage stemmed from a botched job by a contractor rather than intentional vandalism, leading the office to drop the case.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

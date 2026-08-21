@@ -38,7 +38,7 @@ source_url: 'https://www.tmz.com/2026/08/16/surrogate-mckenna-west-fundraiser-dr
     <h2>What Happened in the McKenna West Surrogacy Dispute?</h2>
     <p>The controversy stems from a surrogacy arrangement that took an unexpected turn when doctors discovered that the developing baby had hypoplastic left heart syndrome (HLHS), a severe congenital heart defect. According to a GiveSendGo fundraiser launched by West's friend Ellen Fisher, West was allegedly advised to schedule a termination following the diagnosis. Fisher claims West felt terrified of potential legal and financial repercussions if she refused.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

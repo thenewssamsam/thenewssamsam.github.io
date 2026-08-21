@@ -36,7 +36,7 @@ source_url: 'https://www.bbc.com/news/articles/clyqpx6xk69o'
     <p>A high-stakes legal battle is unfolding before Chief Federal Judge Yvonne Gonzalez Rogers in California, bringing together attorneys general from 30 states representing nearly two-thirds of the American population. The lawsuit accuses Meta of designing its platforms—specifically Instagram and Facebook—to hook children and teenagers through features that encourage compulsive engagement.</p>
     <p>The plaintiffs are demanding sweeping operational changes. They want Meta to implement strict parental verification processes, strip out dopamine-manipulating recommendation algorithms, remove appearance-altering photo filters, end video autoplay, prohibit multiple accounts, and eliminate disappearing posts like Instagram Stories.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

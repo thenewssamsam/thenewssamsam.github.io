@@ -42,7 +42,7 @@ source_url: "https://www.nbcnews.com/business/economy/trump-pauses-canada-tariff
 
     <p>While trade representatives hash out details regarding automobile duties and the potential revival of the Keystone XL pipeline, business owners and consumers are left navigating a high-stakes waiting game.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -52,7 +52,7 @@ Tactical Waterproof Backpack
     <h2>The Wellness Perspective: Navigating Economic Whiplash</h2>
     <p>When major trade policies pivot overnight, economists measure the impact in billions of dollars and supply chain disruptions. But human beings measure the impact in elevated cortisol levels, disrupted sleep, and a persistent, low-grade sense of instability. This phenomenon—often described as chronic news-induced anxiety—flares up precisely during sudden political and economic standoffs.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -60,7 +60,7 @@ Seagate Portable External Hard Drive
     <div class="ncg-quote-box">
       <p>"When macro-level trade policies shift on a three-day deadline, our nervous systems respond as though we are facing immediate, unpredictable physical threats."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -69,7 +69,7 @@ Tactical Waterproof Backpack
     <h3 class="ncg-subheading">The Body's Response to Financial Uncertainty</h3>
     <p>Human psychology relies heavily on predictability. When the rules of commerce, prices of goods, or job security hang in the balance of late-night social media posts and tense international talks, the brain's threat-detection center stays on high alert. Even if an individual does not work directly in Canadian import-export supply chains, the pervasive fear of rising inflation and disrupted markets creates a generalized state of stress.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -81,7 +81,7 @@ Tactical Waterproof Backpack
     <h3 class="ncg-subheading">The Trap of Hyper-Vigilance</h3>
     <p>Constantly refreshing news feeds to see whether a 72-hour deadline resulted in a deal or a renewed tariff war traps the mind in a loop of anticipatory grief and adrenaline. Over time, this emotional fatigue impairs decision-making, saps creativity, and strains personal relationships. Recognizing that you cannot control international trade negotiations is the first step toward reclaiming your mental bandwidth.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -92,7 +92,7 @@ Seagate Portable External Hard Drive
 
     <p>Scripture offers a timeless reminder about the limits of human worry: <span style="font-style: italic;">"Can any one of you by worrying add a single hour to your life?" (Matthew 6:27, NIV)</span>. While economic policy matters profoundly, letting the daily turbulence of global politics dictate your internal peace is a heavy burden to carry alone.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -102,7 +102,7 @@ Seagate Portable External Hard Drive
     <h2>How to Protect Your Peace During Policy Uncertainty</h2>
     <p>You cannot stop trade negotiations between Washington and Ottawa, but you can control how much psychological real estate you lease to breaking news alerts. Here are practical steps to safeguard your mental and emotional wellness:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

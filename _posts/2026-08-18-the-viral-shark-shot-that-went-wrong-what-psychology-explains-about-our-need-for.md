@@ -30,7 +30,7 @@ source_url: 'https://www.cleveland.com/news/2026/08/they-wanted-the-perfect-shar
 <h2>What Happened Off the Coast of Brazil</h2>
 <p>The pursuit of digital validation has taken a dangerous turn beneath the waves. A growing number of social media creators and influencers are experiencing shark bites while attempting to capture dramatic underwater footage for their online audiences. Marine scientists are raising urgent alarms, noting that viral aesthetics are subtly shifting how ordinary people view wild marine life.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

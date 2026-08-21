@@ -23,13 +23,13 @@ source_url: "https://www.wbur.org/news/2026/08/17/prosecution-rests-murder-trial
     <h2>The Facts of the Case</h2>
     <p>Lindsay Clancy is charged with three counts of first-degree murder. The defense argues that her postpartum mental health issues, potentially exacerbated by psychiatric medications, constitute an "insanity defense." Prosecutors, however, suggest that the killings were a calculated decision made by a woman who intended to take her children's lives before attempting to end her own.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>Testimony has included digital forensic data showing Clancy’s activity in the weeks leading up to the tragedy, as well as harrowing accounts from her then-husband, Patrick Clancy, regarding her struggles with depression, anxiety, and insomnia. The trial now moves to the defense's presentation, which aims to provide further clinical context for the state of Clancy’s mind during that period.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive
     <h2>The Psychology of Postpartum Crisis</h2>
     <p>From a behavioral psychology perspective, the Clancy case highlights the complexity of <strong>cognitive dissonance</strong> and the <strong>normalization bias</strong> that can occur within families experiencing mental health crises. Patrick Clancy’s testimony—that Lindsay could be expressing dark thoughts one minute and then calmly preparing lunch for the children the next—is a classic example of how high-functioning individuals can mask severe internal distress.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -51,7 +51,7 @@ Tactical Waterproof Backpack
     <h3>The Mask of Competence</h3>
     <p>In cases of severe postpartum depression or psychosis, the "mask of competence" often prevents timely intervention. When a parent appears to be performing "normal" tasks, family members and even clinicians may underestimate the severity of the underlying condition. This is not necessarily a failure of love or observation, but a psychological phenomenon where we tend to trust visible behavior over whispered fears.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -59,7 +59,7 @@ Tactical Waterproof Backpack
     <div style="border: 1px solid #ddd; padding: 10px; background: #f9f9f9; border-radius: 5px;">
       <p><strong>Recommended Resource:</strong> <em>The Postpartum Depression Workbook</em> for understanding emotional regulation. <a href="#">Check Price on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -68,7 +68,7 @@ Seagate Portable External Hard Drive
     <h3>Cognitive Distortions in Crisis</h3>
     <p>The defense’s argument hinges on the idea that Clancy’s perception of reality was fundamentally altered. In psychological terms, this involves deep cognitive distortions where the brain, struggling under the weight of trauma or neurochemical imbalance, may formulate "solutions" that are objectively catastrophic. The prosecution’s focus on the "deliberate" nature of the act—such as her internet searches—attempts to frame these actions as rational, whereas the defense seeks to frame them as the product of an altered, distorted state of consciousness.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -77,13 +77,13 @@ Tactical Waterproof Backpack
   <section id="spiritual-reflection">
     <p>This case forces us to sit with the fragility of the human mind and the weight of our shared brokenness. It reminds me of the words of Psalm 34:18: <em>"The Lord is close to the brokenhearted and saves those who are crushed in spirit."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>When we witness such immense tragedy, it is easy to demand simple answers or quick judgments. Yet, the reality of human suffering is often messy and deeply painful. We are invited to consider that while we are responsible for our actions, we live in a fallen world where the mind can be ravaged by illness and despair. This does not excuse the horror of the loss, but it calls us to approach those suffering in silence with greater vigilance, humility, and compassion, remembering that even in our darkest moments, we are not beyond the need for grace.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

@@ -38,7 +38,7 @@ source_url: ''
 <p>In a packed Las Vegas courtroom, opening statements launched a trial that many thought would never happen. Prosecutors laid out a direct and striking case against Duane "Keffe D" Davis, alleging that he orchestrated Shakur's killing as retaliation for an earlier altercation involving his nephew that same night.</p>
 <p>The state's most compelling piece of evidence may not come from forensic labs or eyewitnesses from three decades ago, but from the defendant's own hand. Prosecutors told the jury they will hear from Davis himself through the pages of his memoir, <em>Compton Street Legend</em>. In the book, Davis describes sitting inside the white Cadillac from which the fatal shots were fired and supplying the weapon.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

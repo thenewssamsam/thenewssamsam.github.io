@@ -37,14 +37,14 @@ source_url: "https://www.bostonglobe.com/2026/08/18/metro/lindsay-clancy-said-th
 
   <p>Zeizel recounted listening in on a phone call between Clancy and her then-husband, Patrick, during which she stated she heard a male voice telling her she had no choice and had to kill her children and herself. Defense attorneys presented testimony from four witnesses total, aiming to establish that Clancy was suffering from severe postpartum psychosis and should not be held criminally responsible for her actions.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
   <p>Prosecutors, meanwhile, argue that the killings were premeditated, contending that Clancy was depressed, wanted to end her own life, and chose to take her children with her because she distrusted others to care for them. The stark contrast between these two narratives forms the core of a grueling legal debate over mental state and accountability.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -58,14 +58,14 @@ Seagate Portable External Hard Drive
 
   <p>From a legal standpoint, the defense of "not guilty by reason of insanity"—or lack of criminal responsibility, as it is formally structured in many jurisdictions—is one of the most misunderstood concepts in American jurisprudence. It is not a legal "loophole" or a simple get-out-of-jail-free card; rather, it is a foundational acknowledgment that criminal punishment requires a concurrence of a guilty act and a culpable, functioning mind.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
   <p>In general criminal law, the prosecution must prove beyond a reasonable doubt not only that a defendant committed the physical act (the <em>actus reus</em>), but also that they possessed the necessary mental state or intent (the <em>mens rea</em>) at that exact moment. When a defendant asserts a lack of criminal responsibility due to mental disease or defect, the legal inquiry centers on whether that illness was so severe that the individual was rendered unable to appreciate the wrongfulness of their conduct or conform their behavior to the requirements of the law.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -76,7 +76,7 @@ Seagate Portable External Hard Drive
 
   <p>Furthermore, navigating the legal rights of defendants in high-stakes capital or murder trials involves rigorous medical scrutiny. Psychologists like Zeizel, along with forensic psychiatrists, are tasked with reconstructing a defendant's psychological state retrospectively. This process relies heavily on medical records, contemporaneous communications, and behavioral patterns leading up to the tragedy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -88,7 +88,7 @@ Seagate Portable External Hard Drive
 
   <p><em>Disclaimer: This is general information, not legal advice. Consult a licensed attorney for your specific situation or legal inquiries regarding criminal procedure.</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -97,21 +97,21 @@ Seagate Portable External Hard Drive
 
   <p>A critical element in any insanity defense trial is the burden of proof. While the state always carries the ultimate burden of proving every element of the crime beyond a reasonable doubt, jurisdictions vary on how the insanity defense is raised and proven. Typically, the defense must present sufficient credible evidence—such as expert psychological testimony and extensive medical histories—to put the defendant's sanity genuinely in issue.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
   <p>In Clancy's case, the courtroom testimony has highlighted a central evidentiary tension: the gap between documented severe postpartum depression, anxiety, and suicidal ideation, and the reporting of overt psychotic symptoms like auditory hallucinations. Expert witnesses for the defense testified that patients often mask or minimize severe psychotic symptoms out of fear—such as the expressed worry that child protective services might remove their children if their condition were fully disclosed.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
   <p>This dynamic illustrates the complex evidentiary hurdles inherent in mental health defenses. Jurors are asked to weigh competing expert interpretations of medical records, evaluate the credibility of timeline disclosures, and determine whether a tragic breakdown in mental health crossed the threshold into legal insanity.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -125,7 +125,7 @@ Seagate Portable External Hard Drive
 
   <p>High-profile criminal trials involving severe mental illness often provoke intense public emotion, moral debate, and concern over public health systems. Readers engaging with these complex news reports can take several constructive steps:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -146,7 +146,7 @@ Tactical Waterproof Backpack
 
   <p>The Lindsay Clancy trial serves as a profound and heartbreaking reminder of the intersection between severe medical crisis and the criminal justice system. As courts grapple with evaluating mental state and criminal responsibility, the broader society is left to reflect on how better support systems might intercept mental health crises long before they reach a courtroom. True justice requires both accountability and a compassionate understanding of human vulnerability.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

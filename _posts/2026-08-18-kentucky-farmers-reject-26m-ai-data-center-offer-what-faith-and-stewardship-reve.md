@@ -26,7 +26,7 @@ source_url: 'https://nypost.com/2026/08/16/us-news/country-hick-kentucky-farmers
   
   <p>The company offered Bare ,000 per acre and Huddleston ,000 per acre, totaling a combined  million—a figure far exceeding market rate. Initially, the family agreed to the sale. But when they learned the buyer intended to pave over the historic acreage to construct massive data centers powering AI bots, they swiftly backed out.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -125,7 +125,7 @@ source_url: "https://www.straitstimes.com/world/united-states/white-house-attack
 <p>CNN reporter Kristen Holmes stepped forward to ask the President for a response to comments made by Democratic Senator Jon Ossoff regarding presidential executive assistant Natalie Harp. Ossoff had criticized travel arrangements involving Trump and Harp during a recent campaign speech. The inquiry triggered an immediate backlash.</p>
 <p>The White House Rapid Response team took to social media platform X to condemn Holmes, writing, "Some day, your children will come across your disgusting and inhumane question," while calling the journalists "the lowest of the low." Later in the session, when Holmes attempted to ask a separate question regarding North Korea, President Trump berated her directly, calling her a "loud, boisterous person" and telling her to "be quiet." CNN subsequently issued a strong statement defending Holmes and characterizing the attacks as "beneath the office."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -133,19 +133,19 @@ Seagate Portable External Hard Drive
 <h2 id="psychology-perspective">The Psychology of Press Room Confrontation</h2>
 <p>To understand why a simple policy or personnel question can trigger such an explosive, deeply personal retaliation, we have to look past the political posturing and examine human behavioral patterns under stress.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 <p>In high-stakes environments like the modern executive branch, political figures operate within a state of constant defensive hyper-vigilance. When reporters bring up personnel or internal operations—such as the recent public scrutiny surrounding aide Natalie Harp, often dubbed the human printer for her role in supplying the President with daily printouts—it touches directly on themes of loyalty, control, and narrative management.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 <p>From a behavioral standpoint, leaders often view external questioning not merely as a request for information, but as a direct challenge to their domain. When that challenge occurs during an event meant to highlight a positive, feel-good moment—like honoring a heroic lifeguard—the cognitive dissonance is jarring. The administration's aggressive pushback serves a dual psychological purpose: it acts as a protective shield for the inner circle and rallies loyal supporters by framing the questioner as an antagonist acting in bad faith.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -156,7 +156,7 @@ Tactical Waterproof Backpack
 
 <p>Furthermore, social media acceleration transforms these momentary press room clashes into instant digital spectacles. The language used by both sides—ranging from internet slang employed by communications directors to severe rebukes from official accounts—reflects an era where emotional escalation performs exceptionally well online, rewarding hostility with immediate attention.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -164,13 +164,13 @@ Seagate Portable External Hard Drive
 <div class="ncg-verse-box">
 <p><strong>Proverbs 18:21 (ESV):</strong> "Death and life are in the power of the tongue, and those who love it will eat its fruits."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 <p>This timeless observation reminds us that words carry real weight, especially in public spaces where inflammatory rhetoric can quickly spiral out of control and damage civil discourse.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -179,14 +179,14 @@ Seagate Portable External Hard Drive
 <h2 id="moral-dimension">A Reflection on Truth, Words, and Humility</h2>
 <p>Incidents like this make me think carefully about the tone we set in our daily communication. When public figures and media representatives trade sharp insults, it filters down into the wider culture, encouraging cynicism and harshness in everyday conversations.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 <p>Scripture invites us to examine how we speak to one another, particularly when tensions run high. James 3:5-6 reminds us how a small spark can set a great forest ablaze, noting that the tongue is a restless evil full of deadly poison. While accountability and hard questions are necessary parts of a free society, the escalation of personal attacks invites us to consider whether our public discourse is serving truth or simply feeding division.</p>
 <p>Humility requires recognizing that behind every microphone, press release, and podium is a human being prone to frustration, pride, and defensiveness. Stepping back from the noise encourages us to seek understanding rather than victory in every heated exchange.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -194,7 +194,7 @@ Tactical Waterproof Backpack
 <h2 id="reader-response">How Should Readers Respond?</h2>
 <p>It is easy to get swept up in the daily theater of political combat, choosing sides in every verbal skirmish. Here are a few grounded ways to consume news without losing your own sense of balance:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -208,7 +208,7 @@ Tactical Waterproof Backpack
 <h2>One Last Thought</h2>
 <p>The shouting matches captured in press rooms across Washington are a symptom of a culture that frequently prioritizes winning an argument over seeking genuine truth. True clarity rarely arrives through insults or defensive walls; it requires patience, listening, and the humility to look past the spectacle.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

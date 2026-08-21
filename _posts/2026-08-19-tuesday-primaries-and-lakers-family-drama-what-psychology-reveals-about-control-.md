@@ -33,7 +33,7 @@ source_url: "https://www.nbcnews.com/news/us-news/tuesday-primaries-buss-family-
 <p>The latest morning rundown brings together several disparate yet compelling stories from across the United States. Voters are heading to the polls for crucial primary elections in states like Florida, Alaska, and Wyoming, testing political loyalties, redistricting efforts, and even ballot logistics—such as an Alaska Senate race featuring two candidates with the exact same name.</p>
 <p>Meanwhile, in the world of professional sports and entertainment, family dynamics have taken center stage. Controlling owner Jeanie Buss pushed back sharply against reports suggesting her family had agreed to sell its remaining stake in the Los Angeles Lakers to new majority investors. This unfolding disagreement highlights the complex friction that often arises when generational legacy, immense wealth, and modern business strategy intersect.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

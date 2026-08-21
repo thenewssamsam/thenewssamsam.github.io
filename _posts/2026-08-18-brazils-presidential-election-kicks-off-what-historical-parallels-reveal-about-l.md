@@ -36,7 +36,7 @@ source_url: 'https://apnews.com/article/brazil-lula-flavio-bolsonaro-campaign-op
   <p>Brazil's political landscape shifted into high gear as the country's two primary presidential contenders officially launched their campaigns. Incumbent President Luiz Inácio Lula da Silva rallied over 10,000 supporters at the Vila Euclides Stadium in Sao Bernardo do Campo—the very working-class crucible where his political journey began nearly five decades ago during Brazil's military dictatorship. Meanwhile, Senator Flávio Bolsonaro, standing in for his legally restricted father, former President Jair Bolsonaro, gathered thousands on Copacabana Beach in Rio de Janeiro.</p>
   <p>With 13 candidates ultimately entering the fray, the initial rallies underscore a polarized nation bracing for a narrow October contest. Yet, beneath the immediate spectacle of beachside speeches and stadium chants lies a deeper political script. History suggests that when nations divide along populist and establishment lines, the battle is rarely just about candidates—it is a referendum on national identity, economic sovereignty, and political lineage.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

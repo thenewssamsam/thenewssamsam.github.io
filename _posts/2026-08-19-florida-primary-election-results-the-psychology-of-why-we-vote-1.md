@@ -24,7 +24,7 @@ source_url: "https://www.fox35orlando.com/news/florida-primary-election-result-2
     <h2>The Psychology of the Ballot Box</h2>
     <p>Why do we participate in primaries? From a behavioral standpoint, voting is often driven by <strong>social identity theory</strong>. We don't just vote for policies; we vote to reinforce our membership in a specific "in-group." When we cast a ballot in a primary, we are signaling our alignment with a particular ideological tribe.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -36,14 +36,14 @@ Seagate Portable External Hard Drive
     <h3>Normalcy Bias and Election Cycles</h3>
     <p>Many voters exhibit <strong>normalcy bias</strong> during election cycles, assuming that the political landscape will function as it always has. This can lead to lower turnout in primaries compared to general elections, as voters underestimate the impact of these early contests on the final ballot. However, those who do show up are often driven by <strong>loss aversion</strong>—the psychological phenomenon where the fear of a "wrong" candidate winning is a more powerful motivator than the hope of a "right" one succeeding.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p><em>Looking for a way to stay organized during election season? Check out this <a href="https://www.amazon.com/dp/B08XJ2K3S7" target="_blank">Desktop Planner & Calendar</a> - .</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -53,14 +53,14 @@ Seagate Portable External Hard Drive
     <h2>A Reflection on Stewardship</h2>
     <p>The intensity of an election season can often bring out anxiety and division, yet it invites us to pause and consider our role in the community. Scripture reminds us that while we participate in earthly systems, our ultimate hope remains elsewhere. <em>"Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been instituted by God"</em> (Romans 13:1, ESV). This verse encourages a posture of respect and active, thoughtful participation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>It also brings to mind the call to seek the welfare of the place where we dwell: <em>"But seek the welfare of the city where I have sent you into exile, and pray to the Lord on its behalf, for in its welfare you will find your welfare"</em> (Jeremiah 29:7, ESV). Voting, at its heart, is a form of civic stewardship—an opportunity to seek the good of our neighbors and our state, even when we disagree on the path forward.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

@@ -22,7 +22,7 @@ source_url: ''
 <h2 id="what-happened">What Happened Behind the Scenes</h2>
 <p>According to reports by the <em>Wall Street Journal</em> and Bloomberg, federal prosecutors and the Securities and Exchange Commission are actively investigating whether insurers controlled by Walter improperly funneled billions in loans to related firms through four intermediary companies. While corporate lending between affiliated entities is legal under specific disclosure rules, federal investigators are probing whether those ties were adequately reported to protect policyholders.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -28,7 +28,7 @@ source_url: "https://apnews.com/article/florida-primaries-donald-trump-wasserman
     <h2>The Psychology of Political Choice</h2>
     <p>When we look at why voters support specific candidates, we often ignore the underlying behavioral drivers. In Florida, these dynamics are on full display.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -36,7 +36,7 @@ Seagate Portable External Hard Drive
     <h3>The "Enemy of My Enemy" Heuristic</h3>
     <p>One voter, Rich Chamberlin, noted he supported Jolly specifically because he saw anti-Jolly attack ads. Psychologically, this is an example of <strong>reactance</strong>. When voters feel their agency is being challenged by aggressive messaging, they often pivot to the opposite of what the "aggressor" wants. It is a simple, effective heuristic: if a group I distrust dislikes someone, that someone must be worthy of my support.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -48,7 +48,7 @@ Tactical Waterproof Backpack
     <h3>Identity and Cognitive Dissonance</h3>
     <p>The Democratic party’s decision to nominate a former Republican (Jolly) for the second time reveals an interesting management of <strong>cognitive dissonance</strong>. For voters who value "old-school" principles but feel alienated by modern polarization, supporting a candidate who bridges the gap allows them to maintain their partisan identity while rejecting the extremes of their own party. It is a strategy of "identity-preservation" that seeks to reduce the discomfort of conflicting political values.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -56,7 +56,7 @@ Tactical Waterproof Backpack
     <h3>The Power of Familiarity</h3>
     <p>In Wasserman Schultz’s primary victory, we see the <strong>mere-exposure effect</strong> and the comfort of the status quo. Voters, even in a redrawn district, leaned toward the candidate with a long track record. When faced with the uncertainty of a new representative, the human brain instinctively prefers the known quantity, viewing "experience" as a proxy for safety.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -66,13 +66,13 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Truth and Wisdom</h2>
     <p>As we navigate these shifting political tides, I am reminded of the importance of discernment. It is easy to be swept up in the reactionary nature of political discourse, where our choices are often dictated by what we oppose rather than what we truly believe. Proverbs 14:15 tells us, <em>"The simple believes everything, but the prudent gives thought to his steps."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>This verse invites us to consider our own motivations. Are we acting out of fear, anger, or tribal loyalty, or are we giving careful thought to the values that actually matter? When we allow ourselves to be manipulated by attack ads or the pressure to pick a side instantly, we lose our ability to act with wisdom. True peace comes not from winning a political argument, but from anchoring our identity in something far more permanent than a ballot.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

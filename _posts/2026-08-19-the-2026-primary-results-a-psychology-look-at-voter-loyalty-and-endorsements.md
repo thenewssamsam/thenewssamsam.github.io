@@ -22,7 +22,7 @@ source_url: "https://www.cnn.com/2026/08/18/politics/live-news/florida-primary-e
     <h2>What Happened at the Polls?</h2>
     <p>The latest election cycle has seen significant shifts. In Florida, democratic socialist Angie Nixon secured a victory over Alex Vindman, setting the stage for a general election showdown against GOP Sen. Ashley Moody. Meanwhile, Rep. Byron Donalds won the GOP gubernatorial nomination despite a lack of support from outgoing Governor Ron DeSantis. In Wyoming, the political landscape shifted as State Sen. Eric Barlow defeated a Trump-backed candidate for governor, while Rep. Harriet Hageman secured the GOP nomination for the Senate.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -32,7 +32,7 @@ Seagate Portable External Hard Drive
     <h2>The Psychology of Political Loyalty</h2>
     <p>When we look at these results, we aren't just seeing numbers; we are seeing the manifestation of cognitive biases. One of the most prominent is <strong>identity-protective cognition</strong>. Voters often form a strong psychological attachment to a candidate who mirrors their own perceived group identity. When an endorsement comes from a party leader, it is filtered through this lens of identity. If the endorsement aligns with the voter’s personal narrative, it reinforces their choice; if it clashes, it is often ignored or rationalized away.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -44,7 +44,7 @@ Seagate Portable External Hard Drive
     <h3>The Diminishing Power of the "Seal of Approval"</h3>
     <p>The defeat of several high-profile endorsed candidates suggests a phenomenon known as <strong>reactance</strong>. When voters feel that an outside influence—even one they generally support—is trying to dictate their choice, they may experience a psychological urge to re-assert their independence. This "anti-establishment" sentiment acts as a buffer against top-down influence, explaining why even powerful endorsements can fail to move the needle in a primary.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -54,13 +54,13 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Truth and Discernment</h2>
     <p>As we observe the shifting sands of political influence, it is worth pausing to consider the nature of our own loyalties. The Bible reminds us of the value of independent, prayerful discernment over the pressure of the crowd. Proverbs 14:15 tells us, <em>"The simple believes everything, but the prudent gives thought to his steps."</em> This is a challenge to all of us: are we making decisions based on careful, thoughtful investigation, or are we simply following the loudest voice in the room?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>Similarly, we are called to prioritize truth above tribalism. In Ephesians 4:25, we are reminded, <em>"Therefore, having put away falsehood, let each one of you speak the truth with his neighbor, for we are members one of another."</em> In a political climate that often encourages us to view those with different perspectives as enemies, these words invite us to remember our shared humanity. True wisdom in any season—political or personal—comes from seeking the quiet, persistent truth rather than the fleeting comfort of belonging to a specific camp.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

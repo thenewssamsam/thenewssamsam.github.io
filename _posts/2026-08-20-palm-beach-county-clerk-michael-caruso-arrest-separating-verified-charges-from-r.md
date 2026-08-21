@@ -34,7 +34,7 @@ source_url: "https://cbs12.com/news/local/palm-beach-county-clerk-of-court-micha
 
 <p>Following the arrest, Florida Governor Ron DeSantis immediately suspended Caruso from his elected post as Palm Beach County Clerk of Court and Comptroller. Under Florida executive order provisions, Caruso is strictly prohibited from performing official duties, collecting pay, or utilizing the privileges of his office while the suspension remains active. Additionally, state authorities directed the FDLE to oversee the secure transition of records and IT equipment from the clerk's office to protect public files.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -46,7 +46,7 @@ Seagate Portable External Hard Drive
 <h2 id="fact-check">Fact-Checking the Claims and Affidavit</h2>
 <p>Because sensational news stories often spawn inaccurate rumors online, applying a strict fact-check lens to the available public record is crucial. Let us separate what has been officially established by investigators from what remains unproven or speculative.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -56,7 +56,7 @@ Seagate Portable External Hard Drive
 <p><strong>MYTH:</strong> A conviction has already been secured and prison time is guaranteed because an arrest was made.<br>
 <strong>FACT:</strong> An arrest is based on probable cause determined by an affidavit, not a final judicial verdict. As legal experts like former State Attorney Dave Aronberg have noted, probable cause is an investigative threshold, and prosecutors must still prove every charge beyond a reasonable doubt in a court of law.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -64,7 +64,7 @@ Seagate Portable External Hard Drive
 <p><strong>MYTH:</strong> The governor's suspension permanently removes Caruso from office immediately.<br>
 <strong>FACT:</strong> Governor DeSantis issued an immediate executive suspension permitted under Florida law upon the filing of felony charges. However, this is a suspension pending legal proceedings, not a final removal resulting from an impeachment trial or criminal conviction.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -72,7 +72,7 @@ Seagate Portable External Hard Drive
 <p><strong>MYTH:</strong> All details circulating on social media regarding the timeline and locations are officially confirmed.<br>
 <strong>FACT:</strong> While the FDLE affidavit outlines specific allegations spanning 2024 through a family cruise in August 2025 aboard a Royal Caribbean ship, these details represent investigator summaries and witness statements that will be thoroughly tested and challenged during formal courtroom discovery and trial.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -84,7 +84,7 @@ Tactical Waterproof Backpack
 
 <p>The investigation itself began following observations by family members and subsequent therapeutic evaluations in early 2026. Special prosecutors from the Office of Statewide Prosecution are handling the case, and authorities have indicated that the inquiry remains active.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -96,14 +96,14 @@ Tactical Waterproof Backpack
 <h2 id="biblical-reflection">A Reflection on Truth and Accountability</h2>
 <p>When disturbing allegations surface involving individuals entrusted with civic authority, it naturally prompts deep reflection on human frailty and the universal standard of justice. Proverbs 21:15 reminds us, "When justice is done, it brings joy to the evildoers but terror to evildoers" — highlighting that righteous systems exist to protect the vulnerable and uncover hidden wrongs.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>At the same time, Proverbs 18:13 cautions against premature judgment: "To answer before listening—that is folly and shame." This ancient wisdom speaks directly to our modern information environment, where unverified rumors often outpace verified facts. Striving for truth requires both a commitment to protecting the innocent and a disciplined patience that respects due process.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -111,7 +111,7 @@ Tactical Waterproof Backpack
 <h2 id="reader-response">How Should Readers Respond?</h2>
 <p>Navigating news stories of this gravity involves responsible civic engagement and personal discernment:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

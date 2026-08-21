@@ -42,13 +42,13 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-r
 
 <p>The defeat follows an intense wave of scrutiny surrounding Mills. The House Ethics Committee opened an investigation earlier this year into allegations that Mills assaulted a former girlfriend and violated campaign finance laws. While Mills has consistently denied any wrongdoing and maintained support from a dozen House Republicans, his campaign lost vital momentum at the top.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 <p>Although President Donald Trump endorsed Mills back in February, he notably omitted Mills from subsequent social media endorsement lists leading up to the primary. Furthermore, Florida Governor Ron DeSantis publicly stated he neither endorsed nor supported Mills. Voters like Tiffany Davis expressed concern that Mills' "baggage" would make him vulnerable to Democratic challenger Bale Dalton in the general election, prompting a pivot toward fresh leadership.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -59,7 +59,7 @@ Tactical Waterproof Backpack
 <h2>A Historical Parallel: Incumbents, Scandals, and Primary Downfalls</h2>
 <p>From a historical standpoint, Cory Mills' primary defeat fits into a long, recurring pattern in American politics: when personal controversies cloud an incumbent's record, voters and party leaders often execute a swift course correction to protect the seat.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -72,7 +72,7 @@ Tactical Waterproof Backpack
 
 <p>Looking back through the annals of congressional history, primary challenges fueled by ethical controversies rarely end well for the sitting member of Congress. Whether examining mid-20th-century primary upsets or modern primary battles, two major historical dynamics consistently emerge:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -88,7 +88,7 @@ Seagate Portable External Hard Drive
 
 <p>Of course, historical comparisons have their limits. Every era possesses unique media ecosystems, primary turnout dynamics, and local district nuances. However, the fundamental human impulse remains constant: when trust is repeatedly tested by ethics investigations, the political gravity catches up.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -99,7 +99,7 @@ Seagate Portable External Hard Drive
 <h2>Weighing Character and Accountability</h2>
 <p>Developments like a primary defeat over personal conduct naturally invite reflection on the timeless importance of character in public leadership. Proverbs 22:1 reminds us, "A good name is to be chosen rather than great riches, and favour is better than silver and gold."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -111,7 +111,7 @@ Seagate Portable External Hard Drive
 
 <p>This event underscores how fragile public trust can be when ethical boundaries are blurred. Scripture frequently emphasizes that those who serve in positions of influence carry a high standard of personal accountability. Galatians 6:7 adds, "Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap." While voters ultimately made a ballot box decision based on electability and integrity, these moments serve as a reminder that moral stewardship matters just as much as legislative output.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -122,7 +122,7 @@ Tactical Waterproof Backpack
 <h2>How Should Readers Respond?</h2>
 <p>Elections and primary upsets offer everyday citizens an opportunity to engage thoughtfully rather than reactively. Here are a few concrete steps:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

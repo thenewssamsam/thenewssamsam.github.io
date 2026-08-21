@@ -25,7 +25,7 @@ source_url: "https://www.foxnews.com/politics/iran-fails-strike-deal-us-deadline
     <p>The 60-day window established under a June memorandum of understanding has officially expired without a final deal. Designed to halt hostilities, reopen the vital Strait of Hormuz, and establish a framework addressing Iran's nuclear program and regional sanctions, the arrangement collapsed amid mutual accusations of violations and renewed military engagements.</p>
     <p>At the center of the dispute lies the Strait of Hormuz, a critical maritime chokepoint through which roughly a fifth of the world's oil transits. Tehran insists on retaining authority over shipping traffic and demands the lifting of the U.S. naval blockade, the release of frozen assets, and the termination of oil sanctions. Meanwhile, Washington demands unrestricted commercial navigation and has made preventing Iran from acquiring a nuclear weapon its central objective. President Trump stated in the Oval Office that while Tehran wants a deal, they refuse necessary terms, remarking that Iran should "put up the white flag of surrender."</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

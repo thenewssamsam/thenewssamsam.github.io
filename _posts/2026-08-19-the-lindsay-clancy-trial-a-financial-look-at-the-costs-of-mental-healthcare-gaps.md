@@ -27,7 +27,7 @@ source_url: "https://www.bostonglobe.com/2026/08/17/metro/lindsay-clancy-trial-p
 <h2>The High Cost of Systemic Fragmentation</h2>
 <p>From a financial and operational perspective, the Clancy case highlights the inefficiencies of a "siloed" healthcare model. When medical providers fail to communicate, the cost isn't just measured in dollars; it is measured in human lives and the immense public expenditure of high-profile criminal trials.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -35,7 +35,7 @@ Seagate Portable External Hard Drive
 <div class="ncg-quote-box" style="border-left: 5px solid #2c3e50; background: #f4f4f4; padding: 15px; margin: 20px 0;">
 <p><strong>"The lack of interoperability between mental health providers is not just a technological failure; it is a financial one that shifts the burden of care from proactive prevention to reactive litigation."</strong></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -44,7 +44,7 @@ Tactical Waterproof Backpack
 <h3>The Hidden Price of "Siloed" Care</h3>
 <p>In the modern medical landscape, fragmentation is a major driver of cost. When providers operate without a unified electronic health record (EHR) or a shared care plan, duplication of services and missed diagnoses become inevitable. For the average family, this means paying for multiple consultations that fail to address the root cause, leading to long-term economic instability and personal tragedy. The testimony in this trial suggests that Clancy's providers were essentially working in the dark, unable to see the full trajectory of her deterioration.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -52,7 +52,7 @@ Tactical Waterproof Backpack
 <h3>Liability and the Cost of Misdiagnosis</h3>
 <p>The defense’s strategy of "giving the jury someone else to blame" highlights the legal and financial liability of the healthcare industry. When systems fail to document or share critical risk indicators, the result is a massive drain on public resources. The cost of a first-degree murder trial, including the involvement of dozens of expert witnesses and psychiatric specialists, far exceeds the cost of a coordinated, integrated postpartum mental health program.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -61,13 +61,13 @@ Seagate Portable External Hard Drive
 <section id="scripture-reflection">
 <p>This situation invites us to consider the value of stewardship and truth. In a world of complex systems, we are reminded of the importance of looking out for one another's well-being with genuine care. Proverbs 11:14 (ESV) tells us, <em>"Where there is no guidance, a people falls, but in an abundance of counselors there is safety."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 <p>While the verse speaks to wisdom, it also highlights the danger of fragmented counsel. In the case of Lindsay Clancy, the "abundance of counselors" actually became a point of failure because those voices were not aligned. This makes me think about our own responsibilities to be transparent and to seek integrated care—not just medically, but in how we support those around us who are struggling. We are called to be our brother's keeper, which means advocating for integrity and clarity in the systems we rely upon.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

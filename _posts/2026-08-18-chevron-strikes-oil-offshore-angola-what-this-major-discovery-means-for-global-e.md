@@ -23,7 +23,7 @@ source_url: 'https://oilprice.com/Latest-Energy-News/World-News/Chevron-Strikes-
 <section id="introduction">
 <p>When an energy giant like Chevron announces it has tapped more than 2,000 feet of total hydrocarbons in a single exploration well, the financial markets take notice. Behind the technical jargon of the Lower Congo Basin lies a simple economic reality: established oil basins are far from dead, provided the infrastructure is already there to capture the windfall.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

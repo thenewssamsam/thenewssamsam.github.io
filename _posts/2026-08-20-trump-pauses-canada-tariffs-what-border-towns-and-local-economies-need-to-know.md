@@ -45,7 +45,7 @@ source_url: "https://www.nbcnews.com/business/economy/trump-pauses-canada-tariff
     <h2>The Local and Community Impact on the Ground</h2>
     <p>To understand the gravity of these shifting trade policies, you have to look past national television broadcasts and examine towns where the international boundary is just another part of the neighborhood. In regions stretching from Maine and upstate New York to Michigan, Minnesota, and the Pacific Northwest, local economies function as single, integrated ecosystems.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -56,14 +56,14 @@ Seagate Portable External Hard Drive
 
     <p>When a 50% tariff is threatened—even for a few days—local manufacturers who source raw aluminum or specialized components from across the border face immediate panic. Small business owners cannot simply absorb a sudden 50% cost spike on inventory without either passing those price hikes directly onto local consumers or halting production lines altogether.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>Furthermore, the U.S. Chamber of Commerce recently pointed out that roughly 13 million American jobs depend directly on the stability of the North American trade pact. In many localized economies, a disruption in these supply chains does not just show up as a corporate quarterly loss; it shows up as delayed municipal projects due to expensive building materials, or reduced hours for local warehouse workers whose families buy groceries at the local market.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -73,7 +73,7 @@ Seagate Portable External Hard Drive
     <h2>Beyond the Headlines: Supply Chains and Small Business</h2>
     <p>The negotiations touched on several complex friction points, including automobile duties, digital trade alignment, and the potential resurrection of the Keystone XL pipeline, which Trump suggested "may be awoken from the grave." Yet for local stakeholders, the immediate concern has always been predictability.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -81,7 +81,7 @@ Seagate Portable External Hard Drive
     <div class="ncg-quote-box">
       <p>"The deal will include comprehensive market access for all American goods, economic security commitments, digital trade alignment, and many important provisions that will continue to protect our market and American workers, along with our Canadian partners."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -90,7 +90,7 @@ Seagate Portable External Hard Drive
 
     <p>Business owners in border regions operate on tight margins. Uncertainty breeds hesitation. When trade policy shifts rapidly between severe escalation and sudden temporary pauses, local entrepreneurs find it nearly impossible to plan hiring schedules, capital investments, or inventory orders for the upcoming season. While the three-day extension provides a welcome window for diplomats to finalize documentation, local leaders know that permanent stability is what is truly required to keep community economies thriving.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -104,21 +104,21 @@ Seagate Portable External Hard Drive
     <h2>A Moment for Reflection and Stewardship</h2>
     <p>Economic news can easily feel cold and impersonal, dominated by acronyms, tariffs, and trade deficits. Yet every headline about supply chains and commerce ultimately traces back to human labor, community well-being, and the stewardship of resources that affect real families.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>Scripture invites us to consider the value of honest labor and fair dealings among neighbors: <em>"The Lord detests dishonest scales, but accurate weights find favor with him"</em> (Proverbs 11:1). This ancient wisdom reminds us that trade, commerce, and governance carry a profound moral weight. When policies shift abruptly, the burden often falls on ordinary workers who simply want to provide an honest day's labor for their families.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>As we navigate an interconnected world where decisions made in distant capitals ripple directly onto local main streets, we are reminded of the importance of patience, clear communication, and looking out for our neighbors—whether they live across the street or across an international border.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -142,7 +142,7 @@ Tactical Waterproof Backpack
     <h2>One Last Thought</h2>
     <p>Trade agreements and tariff deadlines will continue to dominate news cycles, but the true strength of any nation is found in the resilience of its local communities and the dedication of its workers. As this 72-hour pause plays out, the hope remains that cooler heads and constructive dialogue will prevail, securing a stable future for workers and families on both sides of the border.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

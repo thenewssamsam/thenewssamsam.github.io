@@ -22,7 +22,7 @@ source_url: 'https://nypost.com/2026/08/16/science/super-el-nino-odds-for-califo
 <p>According to OpenSnow's early preview for the upcoming winter, a strengthening El Nino pattern is setting the stage for an above-average snowfall season across California and Nevada. Meteorologists indicate that the heaviest storm cycles are expected to ramp up after the new year.</p>
 <p>While nearly every California mountain range stands to benefit from a more active storm track, data highlights the Central Sierra as holding the highest statistical probability for significant snow accumulation. Famous destinations like Mammoth Mountain and China Peak sit squarely in the bullseye of these early meteorological models.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -26,7 +26,7 @@ source_url: 'https://www.wired.com/review/google-pixel-11-pro-and-pixel-11-pro-x
   <h2 id="what-happened">What Happened with the Pixel 11 Pro?</h2>
   <p>The Pixel 11 Pro and Pro XL are the newest flagships from Google, featuring the Tensor G6 chip and a heavy focus on "Proactive Assistance" via Gemini. The standout feature is "Rambler," which uses AI to distill spoken thoughts into clear, formatted text. While the hardware offers elegant design and impressive zoom capabilities, it faces criticism regarding gaming performance and battery longevity.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -34,7 +34,7 @@ Seagate Portable External Hard Drive
   <h2 id="a-faith-perspective">A Faith Perspective: The Stewardship of Our Words</h2>
   <p>In our fast-paced world, tools like Rambler offer efficiency. They help us communicate across language barriers—even romanizing languages like Malayalam for families to stay connected. Yet, Scripture reminds us that our words are a reflection of the heart. Proverbs 16:23 tells us, <em>"The heart of the wise makes his speech judicious and adds persuasiveness to his lips."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -45,7 +45,7 @@ Seagate Portable External Hard Drive
 
   <p>AI-driven editing tools can be a blessing when they foster understanding, but we must be wary of "polishing" our thoughts so much that we lose the genuine vulnerability of human connection. When we allow an algorithm to decide which parts of our speech are "worth conveying," we are essentially outsourcing a measure of our personal integrity.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -53,7 +53,7 @@ Seagate Portable External Hard Drive
   <div class="ncg-amazon-product" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
     <p><strong>Protective Case for Google Pixel 11 Pro</strong> -  <a href="#">View on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -62,7 +62,7 @@ Seagate Portable External Hard Drive
   <h2 id="the-pursuit-of-truth">The Pursuit of Truth in a Digital Age</h2>
   <p>We are often tempted to present a curated version of ourselves to the world. The Pixel 11 Pro’s software features, like Gemini’s proactive suggestions, aim to make our lives smoother, but they also nudge us toward a reality where technology mediates our relationships. We must ask: are we using these tools to serve our neighbor, or simply to curate a more efficient, less authentic image of ourselves?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -70,7 +70,7 @@ Tactical Waterproof Backpack
   <div class="ncg-amazon-product" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
     <p><strong>Qi2 Wireless Charging Pad</strong> -  <a href="#">View on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -78,7 +78,7 @@ Seagate Portable External Hard Drive
 
   <p>Ephesians 4:29 encourages us: <em>"Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen."</em> This verse invites us to consider that the value of our words lies in their ability to build others up, not just in their grammatical perfection or AI-assisted brevity.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -93,7 +93,7 @@ Seagate Portable External Hard Drive
   <div class="ncg-amazon-product" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
     <p><strong>Portable Power Bank (10,000mAh)</strong> -  <a href="#">View on Amazon</a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

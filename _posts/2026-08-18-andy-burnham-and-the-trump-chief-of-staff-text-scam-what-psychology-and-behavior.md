@@ -34,7 +34,7 @@ source_url: ''
 <p>In a security lapse that has reverberated through Whitehall, Prime Minister Andy Burnham recently exchanged text messages with an individual falsely claiming to be Susie Wiles, chief of staff to US President Donald Trump. According to reports first detailed by Politico and confirmed by British officials, Burnham engaged in a brief text exchange before growing suspicious that the contact was illegitimate.</p>
 <p>Downing Street has declined to comment extensively on the national security breach, maintaining its standard policy of not discussing sensitive security matters. However, government sources have clarified that only a few messages of no significant substance were exchanged, and the incident was reported to appropriate authorities once doubts arose. Crucially, White House officials confirmed the incident was unrelated to a separate breach involving Wiles' personal phone, which was targeted by an impersonator using her contact list to message US senators, governors, and business executives.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

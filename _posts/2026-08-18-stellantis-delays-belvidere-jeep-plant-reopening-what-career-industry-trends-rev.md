@@ -37,7 +37,7 @@ source_url: 'https://www.caranddriver.com/news/a73453603/stellantis-jeep-cheroke
     <p>For workers, suppliers, and automotive enthusiasts in northern Illinois, the saga of the Belvidere Assembly Plant has been a bumpy ride. Stellantis indefinitely idled the factory back in February 2023, shifting fifth-generation Jeep Cherokee production down to Toluca, Mexico. The closure left a massive economic vacuum in the local community.</p>
     <p>Hope flickered back online in October 2025 when executives announced the Cherokee would return to Belvidere starting in 2027. But fresh announcements from the automaker reveal a revised timeline: pilot production of a next-generation Cherokee is now slated for the first half of 2028, with full retail production targeted for the second half of 2029.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0D3XCVS2R?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 GAZELLE External Hard Drive 
 </a></p>
 

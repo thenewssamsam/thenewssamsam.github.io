@@ -35,7 +35,7 @@ source_url: "https://apnews.com/article/alaska-primary-senate-sullivan-peltola-c
 <p>Under Alaska's unique open primary system, all candidates appear on a single ballot, and the top four vote-getters advance to a ranked-choice general election. The presence of two Dan Sullivans—listed on the ballot as the incumbent "Dan S. Sullivan, Republican" and the independent "Daniel J. Sullivan Jr."&mdash;turned a standard political contest into a masterclass in ballot friction. While the incumbent and his allies argued that the second Dan Sullivan was a sham candidate designed to siphon votes and create confusion, the candidate himself insisted he was simply motivated by frustration with current leadership.</p>
 <p>This unusual setup offers a fascinating look at how human cognition handles choices, confusion, and political stress in the modern voting booth.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -45,13 +45,13 @@ Tactical Waterproof Backpack
 <h2>The Psychology of the Ballot Box</h2>
 <p>When voters encounter a ballot crowded with over a dozen contenders—let alone two people with identical names—their brains immediately slam into what psychologists call <strong>choice overload</strong> and <strong>cognitive friction</strong>. Humans rely on mental shortcuts, or heuristics, to make decisions when faced with complex information. Normally, seeing a familiar candidate name is a reliable shortcut. But when that shortcut is deliberately scrambled, the brain experiences cognitive dissonance.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 <p>Consider two major psychological principles at play in the Alaska primary:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -63,7 +63,7 @@ Tactical Waterproof Backpack
 <div class="ncg-quote-box">
 <p>&ldquo;When our mental shortcuts fail us at the ballot box, friction turns into frustration, and voters are forced to consciously untangle details they would rather take for granted.&rdquo;</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -71,7 +71,7 @@ Tactical Waterproof Backpack
 
 <p>This psychological friction is precisely why high-stakes races draw outside intervention. Campaigns know that when voters feel confused, they either pay closer attention or disengage entirely. In a ranked-choice system, keeping voters clear-headed is paramount.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -81,19 +81,19 @@ Tactical Waterproof Backpack
 <h2>A Moment for Reflection</h2>
 <p>Situations filled with strategic maneuvering, confusion, and rivalries make me think about how easily human systems get tangled in friction and distraction. It is easy to look at political chaos and feel a sense of cynicism or exhaustion settle in.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 <p>Yet Scripture offers a steady counter-perspective on clarity and honesty. Proverbs 4:25 reminds us: <em>&ldquo;Let your eyes look straight ahead; fix your gaze directly before you.&rdquo;</em> When noise and confusion surround us, maintaining integrity and clear vision becomes a deliberate choice rather than an accident.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 <p>Similarly, James 1:5 encourages us to seek discernment when navigating tangled circumstances: <em>&ldquo;If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.&rdquo;</em> Whether in politics, community life, or personal decisions, taking a breath to look past surface confusion helps us make grounded, thoughtful choices.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -103,7 +103,7 @@ Seagate Portable External Hard Drive
 <h2>How Voters Can Navigate the Chaos</h2>
 <p>Dealing with complex electoral systems requires proactive awareness. Here are a few practical ways voters can cut through the noise during chaotic primary and general election seasons:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

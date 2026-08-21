@@ -68,7 +68,7 @@ source_url: 'https://www.latimes.com/california/story/2026-08-16/27-suspected-of
 
 <p>Investigators with the Los Angeles County Sheriff’s Department have taken the unusual step of circulating photos of 27 individuals suspected in a pair of brazen, back-to-back burglaries. The target was an AutoZone store situated at Atlantic and Olympic boulevards in East Los Angeles.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

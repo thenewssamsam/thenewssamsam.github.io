@@ -32,7 +32,7 @@ source_url: 'https://www.cnn.com/2026/08/17/asia/us-north-korea-military-exercis
 <h2 id="what-happened">What Happened: The Scaling Back of Ulchi Freedom Shield</h2>
 <p>The announcement arrived via Truth Social over the weekend, catching military planners and regional experts off guard. Trump argued that the exercises are costly—with much of the financial burden traditionally borne by the United States—and send a signal he considers "totally inappropriate and hostile" while Pyongyang remains outwardly conciliatory.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

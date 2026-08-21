@@ -20,7 +20,7 @@ source_url: 'https://apnews.com/article/hawaii-lala-hurricane-tropical-storm-dam
   <section id="introduction">
     <p>As Tropical Storm Lala moves westward away from the Hawaiian Islands, the state is beginning the difficult process of recovery. With over 100,000 residents left without power and isolated rural communities grappling with the aftermath of intense flash flooding, the storm serves as a sobering reminder of the fragility of modern infrastructure and the profound strength found in community bonds.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

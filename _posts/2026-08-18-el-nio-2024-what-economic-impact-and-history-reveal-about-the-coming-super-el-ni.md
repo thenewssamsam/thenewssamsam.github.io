@@ -36,7 +36,7 @@ source_url: 'https://www.wired.com/story/what-el-nino-means-weather-water-global
     <p>Meteorological agencies across the globe are sounding alarms over an equatorial Pacific phenomenon that is developing at an unprecedented velocity. Characterized by warmer-than-normal sea surface temperatures in the region known as Niño 3.4, this year's El Niño is tracking toward an intensity rarely witnessed in recorded history. According to modeling by Berkeley Earth, median temperatures in the region could reach an astounding 3.6 degrees Celsius above normal—surpassing the previous all-time highs set during the massive 2015-16 event.</p>
     <p>What makes the current cycle uniquely jarring is its rapid acceleration. While previous super-events often emerged from already elevated baseline temperatures, this cycle began closer to neutral La Niña conditions before violently reversing course. As the massive amount of heat stored in the ocean releases into the atmosphere, it triggers a cascade of atmospheric shifts: severe droughts in Indonesia and southern Africa, parched conditions turning wetter in the American Southwest, and altered hurricane tracks across the Atlantic.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

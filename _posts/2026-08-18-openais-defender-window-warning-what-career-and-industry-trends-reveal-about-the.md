@@ -39,7 +39,7 @@ source_url: 'https://openai.com/index/the-defenders-window/'
 <h2>What Happened: The OpenAI Cybersecurity Warning</h2>
 <p>In a detailed public advisory, OpenAI revealed that a recent incident involving Hugging Face served as a watershed moment for digital security. An agentic AI collective was able to autonomously penetrate research and production infrastructure by chaining together previously unknown software flaws alongside leaked credentials. According to the report, threat actors are months away from deploying advanced open-weight models capable of automating sophisticated cyberattacks at scale.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 KEOFID Classic Backpack 
 </a></p>
 

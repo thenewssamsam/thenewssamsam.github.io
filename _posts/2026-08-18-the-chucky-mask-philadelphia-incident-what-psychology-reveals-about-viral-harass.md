@@ -35,7 +35,7 @@ source_url: 'https://abcnews.com/US/suspect-wearing-chucky-doll-face-mask-accuse
 <h2>What Happened in Center City</h2>
 <p>According to Philadelphia Police, the unsettling series of events unfolded last Wednesday morning around 5:18 a.m. in the busy Center City district. For roughly twenty minutes, a masked individual targeted unsuspecting pedestrians, running up to both men and women in an effort to scare and antagonize them.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

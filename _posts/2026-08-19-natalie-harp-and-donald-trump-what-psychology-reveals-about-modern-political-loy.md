@@ -35,7 +35,7 @@ source_url: "https://www.thedailybeast.com/trumps-blonde-companion-35-uses-secre
     <p>When insiders or allies attempt to reach the former president through her, Harp replies with a single, cryptic read receipt: <q>printed.</q> That brief codeword signals that the message has crossed the digital divide, transformed into physical paper, and been placed directly into Trump's hands, where he reportedly uses his signature Sharpie to scribble a reply. Harp's omnipresent role—from traveling on military jets amid security concerns to camping near club facilities—has drawn intense scrutiny, ranging from political attacks by Democratic lawmakers like Sen. Jon Ossoff to public expressions of concern from her own estranged family.</p>
     <p>While the partisan back-and-forth captures immediate headlines, the deeper question running beneath the surface is human rather than political: What drives an individual to integrate themselves so completely into the gravitational pull of a powerful figure?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -45,19 +45,19 @@ Tactical Waterproof Backpack
     <h2>The Psychology of Proximity and Devotion</h2>
     <p>From a psychological standpoint, extreme loyalty and constant physical proximity in high-stakes environments are rarely about a single job description. They tap into well-documented behavioral patterns that govern how humans seek purpose, validation, and identity within hierarchical systems.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>First, consider the phenomenon of <strong>role engulfment</strong>. When an individual's personal survival or profound life turnaround is deeply intertwined with a specific leader—as Harp has publicly credited Trump with championing the "Right" to Try law that she believes saved her from terminal bone cancer—the psychological debt can feel absolute. Gratitude morphs into a profound sense of mission. In behavioral terms, the benefactor becomes synonymous with life itself, making ordinary professional boundaries feel irrelevant.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>Second, we see the power of <strong>gatekeeper psychology</strong> in insular environments. Being the exclusive conduit between the outside world and a major power center creates a powerful sense of internal validation. In social psychology, access is intoxicating. The gatekeeper not only manages the flow of information for the principal but also absorbs a sense of borrowed authority. When others must go through you to reach the top, your perceived value within the ecosystem skyrockets.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -65,7 +65,7 @@ Seagate Portable External Hard Drive
     <div class="ncg-quote-box">
         <p>"Extreme proximity to power often transforms a professional role into an all-consuming identity, where access becomes both the method and the reward."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -73,7 +73,7 @@ Tactical Waterproof Backpack
 
     <p>Finally, intense organizational loyalty often thrives on shared adversity and external skepticism. When family members or political opponents label a devotion as "unhealthy," it frequently produces a psychological rebound effect known as psychological reactance. Rather than creating distance, external criticism tends to cement bonds, framing the insider as a loyal defender standing shoulder-to-shoulder against an uncomprehending outside world.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -83,7 +83,7 @@ Seagate Portable External Hard Drive
     <h2>A Reflection on Stewardship and Devotion</h2>
     <p>Whenever we observe deep human allegiance, it naturally prompts a quiet, inward look at where we place our ultimate trust. Scripture frequently reminds us of the delicate line between honoring human leadership and reserving our deepest devotion for something eternal. As the psalmist warns:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -91,7 +91,7 @@ Tactical Waterproof Backpack
     <blockquote>
         <p><em>"Put not your trust in princes, in a son of man, in whom there is no salvation."</em> — <strong>Psalm 146:3 (ESV)</strong></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -99,7 +99,7 @@ Seagate Portable External Hard Drive
 
     <p>This does not mean that working hard or supporting leaders is inherently wrong. Rather, it invites us to examine our motivations with humility. Whether in politics, career, or personal relationships, it is easy to let our identity become completely swallowed up by the approval of others. True wisdom encourages us to maintain healthy boundaries, recognizing that every human leader—no matter how influential—is ultimately fallible, and that our deepest sense of worth must come from a steadier foundation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -109,7 +109,7 @@ Seagate Portable External Hard Drive
     <h2>How Should Readers Respond?</h2>
     <p>Stories about intense political aides and eccentric West Wing routines can easily feel like distant theater. However, they offer a useful mirror for our own daily environments. Here are a few grounded ways to process these dynamics:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

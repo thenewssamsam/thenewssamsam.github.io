@@ -26,7 +26,7 @@ source_url: 'https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-w
     <h2>What Happened?</h2>
     <p>The White House confirmed the new sanctions regime via a Truth Social post, citing the failure of previous diplomatic attempts to reach a nuclear deal. The strategy targets oil smuggling, currency swaps, and front companies, with the explicit threat of secondary sanctions against any global entity providing a "lifeline" to the Iranian regime. This follows the UAE's decision to suspend all trade with Iran, a massive blow to Tehran's import capacity.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 CeraVe Skin Renewing Night Cream 
 </a></div>
 
@@ -36,7 +36,7 @@ CeraVe Skin Renewing Night Cream
     <h2>The Historical Parallel: Sanctions as Statecraft</h2>
     <p>Throughout history, states have utilized economic isolation as a weapon of war. From the Continental System implemented by Napoleon to the extensive blockades of the 20th century, the goal remains the same: to coerce a regime into submission by stripping it of the resources required to maintain its apparatus of power.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Lenovo Legion Tower Gaming PC 
 </a></div>
 
@@ -48,7 +48,7 @@ Lenovo Legion Tower Gaming PC
     <h3>The Lesson of Resilience</h3>
     <p>Historical parallels suggest that the effectiveness of such "crushing" sanctions relies heavily on the cooperation of third-party nations. In the 1940s, the U.S. oil embargo on Imperial Japan was a catalyst for conflict because Japan perceived it as an existential threat. Today, the focus on China—Iran's primary economic partner—mirrors the complexities of past global trade dependencies.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 CeraVe Skin Renewing Night Cream 
 </a></div>
 
@@ -56,7 +56,7 @@ CeraVe Skin Renewing Night Cream
     <div class="ncg-product" style="border-left: 5px solid #ffd700; background: #f9f9f9; padding: 15px; margin: 15px 0;">
       <p><strong>Recommended Reading:</strong> <em>The Economic Weapon: The Rise of Sanctions as a Tool of Modern War</em> by Nicholas Mulder. Essential for understanding how we arrived here. <a href="#">Check Price on Amazon </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 CeraVe Vitamin C Brightening Serum 
 </a></div>
 
@@ -65,7 +65,7 @@ CeraVe Vitamin C Brightening Serum
     <h3>The Risk of Escalation</h3>
     <p>Historians often point to the "Thucydides Trap" or similar feedback loops where economic pressure leads to military miscalculation. When a nation feels it is "hanging by a thread," the threshold for a desperate military response—such as closing the Strait of Hormuz—lowers significantly.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Lenovo Legion Tower Gaming PC 
 </a></div>
 
@@ -75,13 +75,13 @@ Lenovo Legion Tower Gaming PC
     <h2>A Reflection on Power and Stewardship</h2>
     <p>In the midst of such profound geopolitical instability, one is reminded of the wisdom found in Proverbs 21:1: "The king's heart is a stream of water in the hand of the Lord; he turns it wherever he will." This passage invites us to consider that even the most powerful leaders and the most complex economic strategies are subject to a higher sovereignty.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 CeraVe Skin Renewing Night Cream 
 </a></div>
 
     <p>Furthermore, in Matthew 5:9, we are called to be "peacemakers," a challenging mandate in an era of "economic warfare." It encourages us to look beyond immediate political headlines and recognize the fragility of human power. We are reminded that true security does not rest in the strength of sanctions or the wealth of nations, but in the pursuit of justice and the humility to seek reconciliation even when the path seems closed.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 CeraVe Vitamin C Brightening Serum 
 </a></div>
 

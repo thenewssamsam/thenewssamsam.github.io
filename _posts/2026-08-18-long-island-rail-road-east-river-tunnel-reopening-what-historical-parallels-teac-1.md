@@ -37,7 +37,7 @@ source_url: 'https://www.newsday.com/long-island/transportation/east-river-tunne
     
     <p>Spearheaded by Amtrak and backed by federal funding secured by U.S. Sen. Chuck Schumer (D-N.Y.), the reopening marks the culmination of more than a decade of planning, political friction, and grueling engineering work. Both Line 1 and Line 2 were originally inundated with millions of gallons of corrosive saltwater during Superstorm Sandy in 2012. The lingering salt residue slowly degraded the tracks, cables, and concrete, compounding daily delays for thousands of riders across the LIRR, Amtrak, and New Jersey Transit networks.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

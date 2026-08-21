@@ -163,7 +163,7 @@ source_url: 'https://www.independent.co.uk/news/world/europe/ukraine-russia-war-
 <h2 id="what-happened">What Happened: The 800-Drone Assault</h2>
 <p>In what Russian authorities described as the largest-scale drone attack of the year, Ukrainian forces executed a coordinated, multi-pronged strike utilizing more than 800 unmanned aerial vehicles. The primary targets included the Kamensk-Shakhtinsky plant in Russia's bordering Rostov region—a critical facility producing solid rocket fuel for multiple-launch rocket systems (MLRS) and other munitions—and a sprawling logistics distribution center operated by online retailer Wildberries in Podolsk, near Moscow.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

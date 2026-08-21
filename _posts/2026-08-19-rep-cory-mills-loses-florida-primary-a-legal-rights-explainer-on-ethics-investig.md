@@ -23,13 +23,13 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-r
     <h2>The Primary Results and Context</h2>
     <p>The Associated Press called the race for Ryan Elijah, a former television news anchor, on Tuesday. Mills, who has consistently denied all allegations of wrongdoing, faced mounting pressure from within his own party. While Mills previously secured endorsements from high-profile figures, prominent Republicans—including Governor Ron DeSantis—withdrew or withheld support as the ethics investigation gained public attention.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Voters expressed a divide: some pointed to Mills' record of securing federal funding for the district, while others, like local voter Tiffany Davis, cited the "baggage" of the ongoing investigations as a disqualifying factor for a general election candidate.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -39,7 +39,7 @@ Seagate Portable External Hard Drive
     <h2>Understanding Congressional Ethics Investigations</h2>
     <p>When a member of Congress is accused of misconduct, the process is governed by the House Ethics Committee. <strong>This is general information, not legal advice. Consult a licensed attorney about your specific situation.</strong></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -47,7 +47,7 @@ Tactical Waterproof Backpack
     <h3>The Role of the Ethics Committee</h3>
     <p>The Committee on Ethics is the only standing committee in the House with an equal number of members from both parties. Its primary function is to investigate potential violations of the Code of Official Conduct. An investigation does not equate to a criminal conviction; it is an internal administrative process designed to uphold the integrity of the institution.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -55,7 +55,7 @@ Seagate Portable External Hard Drive
     <h3>Due Process in the House</h3>
     <p>Members facing investigations retain the right to due process, including the ability to respond to allegations and present evidence. However, because this is a legislative body, the "punishment" is generally limited to reprimand, censure, or, in extreme cases, expulsion—which requires a two-thirds vote of the House. Unlike a court of law, the Ethics Committee cannot impose jail time or fines, though it may refer matters to the Department of Justice if evidence of criminal activity is discovered.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -69,13 +69,13 @@ Seagate Portable External Hard Drive
     <h2>A Reflection on Truth and Integrity</h2>
     <p>The unfolding events in Florida serve as a reminder of the weight carried by those in public office. Scripture encourages us to hold those in positions of authority to a standard of transparency and honesty. Proverbs 11:3 (ESV) tells us, <em>"The integrity of the upright guides them, but the crookedness of the treacherous destroys them."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>This verse speaks to the foundational necessity of character in leadership. When we face times of public scandal or uncertainty, it is an invitation to pray for wisdom—not just for our leaders, but for our communities as we discern how to exercise our own responsibilities. We are reminded that while human systems of ethics are essential for order, our ultimate standard of truth remains rooted in a higher calling. As we navigate political seasons, let us seek to be people who value truth above partisan loyalty.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

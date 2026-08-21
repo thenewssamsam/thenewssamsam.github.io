@@ -27,7 +27,7 @@ source_url: "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceas
     <h2>The Psychology of Brinkmanship and Narrative Control</h2>
     <p>From a behavioral standpoint, the current standoff is a classic study in <strong>cognitive dissonance</strong> and <strong>signaling theory</strong>. When leaders project conflicting narratives—such as claiming a blockade is "open" while simultaneously needing to justify a "territorial" takeover—they are often managing the psychological perceptions of multiple audiences: their domestic base, international adversaries, and internal stakeholders.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -35,7 +35,7 @@ Tactical Waterproof Backpack
     <h3>The Trap of Escalation Commitment</h3>
     <p>The "sunk cost fallacy" often prevents parties in a long-standing conflict from walking back their positions. Having invested significant political capital into a specific strategy, leaders may feel that any concession, or even an admission that a diplomatic path was never viable, would be perceived as a failure. This leads to "doubling down" behavior, where the rhetoric becomes more extreme to match the perceived stakes of the conflict.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -43,7 +43,7 @@ Tactical Waterproof Backpack
     <div class="ncg-quote-box" style="border-left: 5px solid #8e44ad; background: #f9f4fb; padding: 15px; margin: 20px 0;">
       <p><strong>"In high-stakes geopolitical standoffs, rhetoric often functions as a psychological shield, protecting leaders from the admission that their initial strategies have reached a dead end."</strong></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -52,7 +52,7 @@ Tactical Waterproof Backpack
     <h3>Normalcy Bias in Global Markets</h3>
     <p>The Eurasia Group notes that the global economy has adapted to the closure of the strait, exhibiting what psychologists call <em>normalcy bias</em>. Because the immediate catastrophe predicted at the war’s onset did not fully materialize, both the U.S. and Iran have found "room to wait," effectively lowering the perceived urgency of a negotiated settlement.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -62,13 +62,13 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Truth and Humility</h2>
     <p>In the midst of such volatile political maneuvering, I am reminded of the weight of our words. Proverbs 12:22 tells us, "The Lord detests lying lips, but he delights in people who are trustworthy." When leaders prioritize narrative control over transparency, it creates a fog that obscures the truth for everyone involved. It makes me think about the fragility of peace when it is built on shifting sand rather than a foundation of honesty.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>One lesson here is the importance of seeking discernment. Psalm 119:105 says, "Your word is a lamp for my feet, a light on my path." In a world of conflicting claims and high-stakes bluster, we are invited to look past the surface noise and pray for leaders to seek wisdom that values human life and stability over the temporary gains of posturing.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

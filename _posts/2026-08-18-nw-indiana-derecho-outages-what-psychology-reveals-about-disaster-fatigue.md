@@ -37,7 +37,7 @@ source_url: 'https://www.nbcchicago.com/news/local/frustration-grows-as-125k-rem
     <p>There is a specific kind of exhaustion that settles in when the lights refuse to turn back on. By Sunday, as outages stretched into a sixth agonizing day across Northwest Indiana following a destructive derecho, patience had worn paper-thin. For more than 125,000 residents, daily life had been reduced to the hum of backup generators, spoiled groceries, and the quiet dread of flooded basements.</p>
     <p>In towns like Dyer and Munster, local leaders reported that frustration had officially reached a boiling point. But beyond the physical disruption of downed power lines and powerless wastewater treatment facilities, a deeper human crisis was unfolding: the psychological strain of prolonged uncertainty.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -42,7 +42,7 @@ source_url: 'https://www.adn.com/nation-world/2026/08/19/forecasters-warn-anothe
 
 <p>The physical devastation is staggering. In Laupahoehoe on the Big Island's northeast coast, the National Weather Service recorded a staggering 43.54 inches of rain. Torrents of water washed dozens of homes from their foundations, sheared roofs off buildings, damaged vital bridges, and isolated rural communities like Pahala. While utility crews have made remarkable progress reducing power outages from roughly 104,000 down to 19,000 customers, the threat is far from over as federal forecasters monitor a new tropical depression forming to the east-southeast.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -57,7 +57,7 @@ Seagate Portable External Hard Drive
 <h2>A Faith Perspective on Natural Disasters</h2>
 <p>When natural disasters strike, they strip away our modern illusions of total control. Modern infrastructure, advanced radar, and emergency alerts give us a sense of mastery over our environment, yet an afternoon of torrential rain can wash away roads and humble entire communities. From a biblical perspective, creation itself groans, and humanity often finds itself navigating a fragile world where nature operates outside our comfort and command.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -65,7 +65,7 @@ Tactical Waterproof Backpack
 <div class="ncg-quote-box">
 <p>"When storms test the foundations of our homes and our patience, our ultimate refuge is found not in the strength of our concrete, but in the steadfastness of God's grace."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -73,7 +73,7 @@ Seagate Portable External Hard Drive
 
 <p>The theological humility rule requires us to avoid cheap dogmatism. We must be exceptionally careful not to label sudden storms as direct acts of divine judgment or specific punishments. Jesus explicitly rejected the idea that sudden tragedies are simple scorekeeping by God against specific individuals. Instead, events like Hurricane Lala remind us of the biblical truth that we live in a fallen, volatile world where comfort is never guaranteed, and every single day is a gift of grace.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -88,14 +88,14 @@ Tactical Waterproof Backpack
 <h2>Finding Strength in Times of Uncertainty</h2>
 <p>As Hawaii prepares for a potential second tropical system, the emotional fatigue weighing on residents is immense. This makes me think of the quiet moments when fear threatens to overshadow faith. I am reminded of the reassurance found in Psalm 46:1-2: "God is our refuge and strength, an ever-present help in trouble. Therefore we will not fear, though the earth give way and the mountains fall into the heart of the sea."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Scripture does not promise that believers will be magically shielded from every physical storm or earthly hardship. Rather, it promises a profound, unshakeable presence *within* the storm. When the roads wash out and power lines fall, the call is to anchor our hope in something far more permanent than temporary infrastructure.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -110,7 +110,7 @@ Seagate Portable External Hard Drive
 <h2>How Should Christians Respond?</h2>
 <p>Faith without tangible action is incomplete. In the wake of Hurricane Lala, the Christian calling is expressed through active, compassionate stewardship and neighborly love. Here are concrete ways to respond:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

@@ -23,7 +23,7 @@ source_url: "https://www.bbc.com/news/articles/crl7600rpnko"
     <h2>The Current Standoff</h2>
     <p>Canadian negotiators have been in Washington for a week, attempting to secure a deal that avoids a fresh round of 50% tariffs on bn worth of imports. The Trump administration’s proposed levies target key sectors including lumber, auto, and steel. Despite meetings between Canadian officials and US Trade Representative Jamieson Greer, a final agreement remains elusive, leaving both nations on the precipice of a significant trade escalation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -32,7 +32,7 @@ Seagate Portable External Hard Drive
   <div style="border-left: 5px solid #8e44ad; background-color: #f9f4fb; padding: 15px; margin: 20px 0;">
     <p><strong>"When nations negotiate under the shadow of a ticking clock, the primary barrier to progress is often not the math of the deal, but the psychology of the negotiators who fear being perceived as 'weak' by their domestic audiences."</strong></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -42,7 +42,7 @@ Seagate Portable External Hard Drive
     <h2>The Psychology of Brinkmanship</h2>
     <p>From a behavioral perspective, these trade talks are a masterclass in <strong>Loss Aversion</strong>—the tendency for people to prefer avoiding losses to acquiring equivalent gains. For Canadian citizens, the threat of tariffs feels like a direct assault on their household stability. Polls show that 74% of Canadians feel the trade dispute impacting their lives, which creates a "rally-around-the-flag" effect that makes it politically dangerous for leadership to concede on items like provincial alcohol bans or dairy quotas.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -50,7 +50,7 @@ Seagate Portable External Hard Drive
     <h3>The Trap of Groupthink</h3>
     <p>In high-pressure environments, <strong>Groupthink</strong> can take root. When negotiators are "camped out" in a foreign capital for a week, they risk becoming insulated from broader perspectives, focusing entirely on the immediate goal of avoiding a breakdown. This tunnel vision can make alternative, creative solutions harder to visualize.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -58,7 +58,7 @@ Seagate Portable External Hard Drive
     <h3>The Normalcy Bias</h3>
     <p>There is also a risk of <strong>Normalcy Bias</strong>—the assumption that because trade relations have historically been stable, the current deterioration is a temporary aberration. This can lead to a dangerous delay in planning for the "worst-case scenario" that Prime Minister Carney claims his team has prepared for.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -68,13 +68,13 @@ Seagate Portable External Hard Drive
     <h2>A Reflection on Wisdom and Patience</h2>
     <p>In times of intense conflict, the pressure to react with immediate retaliation is immense. We are often tempted to "get tougher" as a way to reclaim a sense of control, yet the Bible reminds us of the value of measured, wise responses. Proverbs 15:1 tells us, <em>"A gentle answer turns away wrath, but a harsh word stirs up anger."</em> This isn't just a suggestion for personal relationships; it is a fundamental truth about human interaction. When we feel pushed, our instinct is to push back, but that often only deepens the cycle of conflict.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>I am reminded that <em>"The wisdom of the prudent is to give thought to their ways" (Proverbs 14:8)</em>. As we watch these leaders navigate these difficult negotiations, it serves as a reminder to us that true strength is found not in the loudest threats, but in the quiet confidence of those who seek a path that serves the greater good, even when the pressure to act out of fear is overwhelming.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

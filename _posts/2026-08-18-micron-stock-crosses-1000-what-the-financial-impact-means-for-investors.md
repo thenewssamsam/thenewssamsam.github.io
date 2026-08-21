@@ -26,7 +26,7 @@ source_url: 'https://finance.yahoo.com/markets/stocks/article/micron-stock-heats
   <p>Momentum has roared back to one of the standout trades of 2026. Micron (MU) crossed the ,000 threshold in premarket trading on Monday—a price level the stock hadn't touched since July 6, according to Yahoo Finance AlphaSpace data.</p>
   <p>The journey back to four digits has been a volatile one. Following that July peak, shares endured a 25% pullback through July 29 as investors grew jittery over overvaluation fears and a broader cooling period for momentum AI plays. Since hitting those lows, however, the stock has mounted an impressive 36% recovery, bringing its year-to-date gains to a staggering 240%.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

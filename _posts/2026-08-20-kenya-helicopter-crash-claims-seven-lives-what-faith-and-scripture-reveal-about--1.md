@@ -49,7 +49,7 @@ source_url: 'https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safa
       For families across Florida, Ecuador, and beyond, an ordinary vacation or business journey transformed instantly into an unimaginable void. Aviation accidents in tourist-dependent regions like Kenya highlight the complex logistics of remote travel, but for those left behind, statistics matter very little compared to the heavy, immediate reality of personal grief.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -63,7 +63,7 @@ Seagate Portable External Hard Drive
       News of sudden, catastrophic accidents always carries a jarring weight. It reminds us of how fragile our daily routines truly are. We make plans, book flights, schedule meetings, and map out our futures with an unspoken assumption of tomorrow. Yet, history and scripture continually remind us that human life is remarkably brief and uncertain.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -79,7 +79,7 @@ Tactical Waterproof Backpack
       This passage from the book of James does not aim to fill us with paralyzing fear, but rather with profound sobriety. The passengers boarding that helicopter in Kenya had lives full of influence, families who loved them, and future plans. Their sudden passing underscores the biblical truth that our times are ultimately in God's hands, not our own. When earthly anchors are suddenly cut loose, we are forced to look beyond the temporary structures of this world.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -95,7 +95,7 @@ Tactical Waterproof Backpack
       Why do sudden accidents happen to people in the prime of life? It is a question that echoes through every generation. Scripture does not offer glib, overly simplistic answers to human suffering, but it does assure us that God is near to the brokenhearted. The tragedy in Samburu county reminds us that creation itself lives under the weight of a fallen world, where mechanical failures, sudden weather shifts, and human frailty intersect with devastating results.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

@@ -23,7 +23,7 @@ source_url: 'https://www.abc.net.au/news/health/2026-08-18/heat-stress-older-aus
   <h2 id="what-happened">What Happened: New Insights on Age and Heat Tolerance</h2>
   <p>Led by researchers at Stanford University, a comprehensive global study examined how different age groups tolerate extreme heat under various climate warming scenarios. Traditionally, public health models applied the heat limits of healthy young adults to entire populations. However, lead author Dr. Qinqin Kong and his team found that this approach drastically underestimated the vulnerability of older demographics.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

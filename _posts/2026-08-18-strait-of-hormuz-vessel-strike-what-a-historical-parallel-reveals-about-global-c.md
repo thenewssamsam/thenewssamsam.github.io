@@ -169,7 +169,7 @@ source_url: 'https://www.thehindu.com/news/international/iran-us-west-asia-war-s
       <h2>What Happened in the Strait of Hormuz?</h2>
       <p>On Tuesday, August 18, 2026, the United Kingdom Maritime Trade Operations (UKMTO) issued an urgent alert. A vessel transiting outbound through the Strait of Hormuz had been struck by an unknown projectile. The impact resulted in direct damage to the engine room and reported crew casualties, with the remaining crew subsequently receiving assistance from the Omani Coast Guard.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -24,7 +24,7 @@ source_url: "https://www.wbur.org/news/2026/08/17/prosecution-rests-murder-trial
   <p>After 14 days of testimony, the prosecution officially rested its case in the trial of Lindsay Clancy. Clancy has admitted to killing her three children—5-year-old Cora, 3-year-old Dawson, and 8-month-old Callan—in January 2023 before attempting to take her own life by jumping from a second-story window, an act that left her paralyzed from the waist down.</p>
   <p>The core legal battle centers on intent and mental state. The defense argues for an insanity defense, maintaining that Clancy was suffering from severe, unmanaged postpartum psychiatric illness exacerbated by a rapid succession of prescribed medications. Prosecutors, conversely, contend that her actions were deliberate, pointing to digital footprint evidence including health data and internet searches in the weeks leading up to the tragedy.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

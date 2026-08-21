@@ -33,7 +33,7 @@ source_url: ''
 <p>The sports world paused to mourn this week following the announcement by the Baltimore Ravens that O.J. Brigance had died at age 56 (turning 57 shortly before) after nearly two decades living with amyotrophic lateral sclerosis (ALS). Diagnosed in May 2007, Brigance defied medical expectations, surviving 19 years with a neurodegenerative condition that typically claims lives within two to five years.</p>
 <p>Brigance's journey was defined by defying the odds from day one. An undersized 195-pound center at Houston's Willowridge High School, he received only one Division I scholarship offer—from Rice University, where he wanted him to play linebacker. He responded by becoming a three-year starter, earning All-Southwest Conference honors twice, and setting the Owls' career tackle record with 367. After stops in the Canadian Football League—winning a Grey Cup with the Baltimore Stallions in 1995—he carved out a gritty seven-season NFL career, earning captain honors in Miami and capturing a Super Bowl ring with the Ravens in 2000.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -39,14 +39,14 @@ source_url: "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-d
     <h2>What Happened: The 11th-Hour Reprieve</h2>
     <p>According to reports from Al Jazeera, the dramatic breakthrough came just hours before sweeping tariffs—invoked via Section 338 of the Tariff Act of 1930—were set to take effect. President Trump linked the temporary delay to ongoing discussions regarding the revival of the Keystone XL Pipeline, a cross-border energy project initially proposed in 2008 and later halted by the Biden administration in 2021. Trump touted the potential resurrection of the pipeline on social media, while Canadian officials, including Prime Minister Carney, acknowledged that substantial progress has been made even as complex negotiations continue.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>Behind the trade jargon and political maneuvering lies a tense backdrop. Eight of Canada's ten provinces have maintained bans on US alcoholic beverages following earlier trade salvos, and public polling indicates a notable hardening of consumer sentiment and national pride on both sides of the border. Andreas Schotter, a professor of international business at Ivey Business School, described the unfolding situation as a recurring "Groundhog Day moment," highlighting the sheer unpredictability that defines modern international commerce.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -61,7 +61,7 @@ Seagate Portable External Hard Drive
     <h2>A Health &amp; Wellness Perspective: The Biology of Economic Anxiety</h2>
     <p>When news outlets flash warnings of looming trade wars, supply chain disruptions, and sudden price hikes, our brains do not categorize these macroeconomic events as distant political theater. Instead, the primitive parts of our central nervous system process uncertainty as a direct survival threat. This triggers the classic fight-or-flight response, flooding our bodies with cortisol and adrenaline even if we are sitting safely at our kitchen tables.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -69,7 +69,7 @@ Tactical Waterproof Backpack
     <div class="ncg-quote-box">
       <p>"Macroeconomic volatility acts as a slow-drip stressor, keeping our nervous systems in a state of hyper-vigilance long after the evening news broadcast ends."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -77,7 +77,7 @@ Tactical Waterproof Backpack
 
     <p>Constant exposure to high-stakes negotiations and trade threats can manifest physically in surprising ways: chronic muscle tension, disrupted sleep cycles, digestive issues, and a pervasive sense of mental fatigue. When national leaders describe negotiations as "nasty," "delicate," and "intense," ordinary citizens absorb that emotional contagion. Recognizing that your physical stress is a normal biological reaction to abnormal external inputs is the crucial first step toward reclaiming your peace of mind.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -92,14 +92,14 @@ Tactical Waterproof Backpack
     <h2>Finding Stillness Amid Uncertainty</h2>
     <p>One of the quietest traps of modern life is our relentless consumption of rolling news updates, which often leaves us feeling helpless and spiritually weary. When anxiety over shifting trade policies, inflation, and international friction begins to crowd out our inner peace, it helps to return to timeless anchors of wisdom. Scripture invites us to consider the lilies of the field, reminding us that worry cannot add a single hour to our lives. While earthly governments negotiate pipelines and tariffs, we are reminded to anchor our security not in fluctuating markets, but in enduring stewardship and presence. As Proverbs 12:25 notes, anxiety weighs down the heart, but a kind word brings cheer. In times of collective stress, extending grace to one another—and guarding our own mental boundaries—becomes a profound act of emotional and spiritual health.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>As Matthew 6:34 gently reminds us, do not worry about tomorrow, for tomorrow will worry about itself. Focusing our energy on what is immediately within our control—our homes, our families, and our local communities—helps quiet the internal noise generated by distant political storms.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -114,7 +114,7 @@ Tactical Waterproof Backpack
     <h2>How Should Readers Respond?</h2>
     <p>You cannot control whether Washington and Ottawa reach a permanent trade agreement by Friday, nor can you single-handedly resolve tensions over dairy quotas or pipeline permits. However, you can actively manage how much space these external anxieties occupy in your daily life:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

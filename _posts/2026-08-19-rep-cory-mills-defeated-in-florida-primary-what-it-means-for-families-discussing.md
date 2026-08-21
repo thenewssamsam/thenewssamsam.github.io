@@ -24,7 +24,7 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-r
         <h2>A Parenting Perspective: Navigating the News with Your Kids</h2>
         <p>When headlines are dominated by stories of scandal and public investigations, parents often find themselves in a difficult position: how do you explain the complexities of political fallouts to children without fostering cynicism? In the case of the Cory Mills primary, the core issue is the weight of accountability and the impact of one's personal choices on their professional life.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -36,7 +36,7 @@ Tactical Waterproof Backpack
         <h3>Teaching Accountability</h3>
         <p>For younger children, the takeaway isn't the political maneuvering, but the simple concept that actions have consequences. When a public figure loses a job because of their behavior, it provides a concrete example that status or position does not exempt someone from the standards of their community.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -52,13 +52,13 @@ Seagate Portable External Hard Drive
         <h2>A Moment of Reflection</h2>
         <p>As we process these events, I’m reminded of the wisdom found in <strong>Proverbs 22:1</strong>: "A good name is to be chosen rather than great riches, and favor is better than silver or gold." This serves as a humbling reminder that our reputation—the character we build day by day—is far more enduring than any temporary success or political title.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
         <p>It’s easy to get caught up in the noise of headlines, but this situation invites us to consider our own lives. Are we cultivating a "good name" in our homes and communities? When we stumble, do we take responsibility, or do we deflect? <strong>Colossians 3:23</strong> encourages us: "Whatever you do, work heartily, as for the Lord and not for men." This is a call to integrity in every sphere, reminding us that even when the world is watching, our ultimate aim should be to live in a way that reflects truth and humility.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -68,7 +68,7 @@ Tactical Waterproof Backpack
         <h2>How Should Families Respond?</h2>
         <p>Instead of shielding children from the news, use it as a bridge to discuss values:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

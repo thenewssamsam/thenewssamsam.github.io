@@ -27,7 +27,7 @@ source_url: 'https://www.astrazeneca.com/media-centre/press-releases/2026/update
 <p>AstraZeneca announced it is officially discontinuing the eVOLVE-Lung02 Phase III clinical trial, which had been testing the investigational dual checkpoint inhibitor bispecific antibody <strong>volrustomig</strong> in combination with chemotherapy as a first-line treatment for mNSCLC. The trial specifically focused on patients whose tumors expressed PD-L1 levels below 50%.</p>
 <p>The decision was not made lightly. It followed a recommendation from the Independent Data Monitoring Committee (IDMC) after a routine, planned review of trial data. The IDMC concluded that the volrustomig combination was unlikely to meet either of the trial's dual primary endpoints—progression-free survival (PFS) or overall survival (OS)—when compared directly against the current standard benchmark arm of pembrolizumab plus chemotherapy in patients with PD-L1 negative tumors.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

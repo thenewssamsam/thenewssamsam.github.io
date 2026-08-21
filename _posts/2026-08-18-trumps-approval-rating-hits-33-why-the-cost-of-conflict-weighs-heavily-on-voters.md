@@ -24,7 +24,7 @@ source_url: 'https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-
     <h2>The Current Landscape</h2>
     <p>The 33 percent approval figure marks a nadir for the current administration, matching the lows seen in late 2017. The polling data, collected over four days, reveals that 64 percent of Americans now disapprove of the President's job performance. Central to this dissatisfaction is the ongoing war with Iran, which a vast majority of the public—80 percent—expects to continue for an extended period.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

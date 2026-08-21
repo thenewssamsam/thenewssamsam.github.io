@@ -21,7 +21,7 @@ source_url: ''
 <h2 id="what-happened">What Happened in the 2026 Preseason AP Top 25</h2>
 <p>The Associated Press released its initial 2026 college football rankings, setting off the final fortnight of anticipation before the regular season begins. Ohio State opens at No. 1, followed by Oregon at No. 2, Georgia at No. 3, Notre Dame at No. 4, and Texas rounding out the top five. Further down the list, programs like Alabama sit at No. 13, USC and BYU tie at No. 14, and traditional powerhouses like Clemson found themselves on the outside looking in, landing as the first team receiving votes just outside the top 25. Analysts have already zeroed in on high-stakes early matchups, such as Texas hosting Ohio State in Week 2, while coaches and athletic departments brace for the intense scrutiny that comes with early-season expectations. Yet, as history proves year after year, preseason lists are notoriously inaccurate predictors of December reality. Last year alone, nearly half of the preseason top 25—twelve teams in total—failed to even make the final poll.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

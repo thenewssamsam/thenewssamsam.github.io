@@ -26,7 +26,7 @@ source_url: 'https://finance.yahoo.com/markets/stocks/articles/ai-money-moves-pu
     <p>The past week reshaped the financial landscape for several major semiconductor and cloud computing giants. Nvidia Corp. (NVDA) moved to decentralize AI project funding by partnering with six major financial institutions on a  billion initiative, easing its own balance sheet exposure while keeping massive infrastructure projects alive, including a recalibrated footprint for OpenAI's Ohio data center.</p>
     <p>At the same time, Intel (INTC) capitalized on overwhelming institutional demand—exceeding  billion—to upsize its stock offering to  billion. These funds are earmarked directly for its crucial 14A manufacturing ramp. Meanwhile, SanDisk shares surged nearly 33% following an investor day that projected stellar long-term growth through fiscal 2030, and AMD solidified its competitive positioning against Nvidia through a record  billion bond sale aimed at funding massive AI infrastructure commitments.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

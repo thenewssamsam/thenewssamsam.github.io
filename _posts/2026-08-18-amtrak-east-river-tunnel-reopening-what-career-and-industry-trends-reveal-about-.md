@@ -33,7 +33,7 @@ source_url: 'https://media.amtrak.com/2026/08/amtrak-completes-first-phase-of-ea
 <h2 id="what-happened">What Happened</h2>
 <p>The East River Tunnel, originally opened in 1910, serves as one of the busiest passenger rail corridors in the Western Hemisphere. Following severe saltwater corrosion during Superstorm Sandy in 2012, two of its four tubes required comprehensive reconstruction. Over the past year, engineering crews gutted and rebuilt the interior systems of the Line 2 tube.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

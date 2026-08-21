@@ -68,7 +68,7 @@ source_url: 'https://ca.finance.yahoo.com/news/nike-shares-hit-11-low-174500075.
     <p>Nike Inc. shares tumbled 4.3% on Monday, bringing the stock down to its lowest level since September 2014. This latest slide extends a punishing downward trajectory that has wiped out over  billion in total market capitalization—a staggering 78% drop from the stock's record highs set back in 2021.</p>
     <p>The immediate catalysts behind Monday's decline were soft direct-to-consumer sales figures and a fresh analyst downgrade. Wall Street analysts are projecting that revenue will remain muted next quarter as management continues grinding through a structural reset of its retail business. But beneath the headline percentages lies a deeper story about shifting brand momentum, changing consumer habits, and the difficult math of corporate turnarounds.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

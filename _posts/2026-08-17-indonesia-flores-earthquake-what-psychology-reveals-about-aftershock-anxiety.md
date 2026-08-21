@@ -36,7 +36,7 @@ source_url: 'https://apnews.com/article/indonesia-flores-earthquake-landslide-bf
     <h2>What Happened in Flores</h2>
     <p>Rescue teams in eastern Indonesia recently recovered six more bodies following a powerful magnitude 7.7 earthquake, bringing the confirmed death toll to at least 53. The disaster struck shortly before 6 a.m., centered at a shallow depth of 10 kilometers across six regencies on Flores, a predominantly Catholic island within Indonesia.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

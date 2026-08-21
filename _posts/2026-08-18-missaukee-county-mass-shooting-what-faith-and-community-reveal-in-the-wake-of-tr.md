@@ -24,7 +24,7 @@ source_url: 'https://www.detroitnews.com/story/news/local/michigan/2026/08/16/mi
 <p>In a small lakefront town where everyone usually knows their neighbors, a Friday morning in August changed everything. On August 15, 2026, a mass shooting across multiple locations in Missaukee County, Michigan, left six people dead, including the suspected gunman. For Jennings, a community of just 250 residents, the shock has reverberated far beyond the hemlock-lined roads and quiet waters of Lake Township.</p>
 <p>When violence strikes a densely populated city, it is absorbed by the sheer scale of urban life. But when tragedy hits a hamlet like Jennings, the loss is immediate, intimate, and felt by nearly everyone. Two days after the tragedy, as state police continued piecing together an active investigation, the Jennings Community Church did what small towns have done for generations: they opened the doors, put out the coffee, and invited grieving neighbors in to pray.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

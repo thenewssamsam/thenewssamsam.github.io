@@ -188,7 +188,7 @@ source_url: 'https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-sur
 <h2 id="what-happened">What Happened: Inside Anthropic's Surge</h2>
 <p>According to reports from Bloomberg and the Financial Times, model maker Anthropic closed out July with an annualized revenue run rate surpassing  billion. To put this explosive trajectory into perspective, the company stood at just  billion at the close of last year and sat at  billion as recently as May. This means revenue has grown by more than sevenfold in roughly seven months.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

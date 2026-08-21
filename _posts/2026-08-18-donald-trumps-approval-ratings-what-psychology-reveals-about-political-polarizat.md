@@ -24,7 +24,7 @@ source_url: 'https://nymag.com/intelligencer/article/polls-show-trumps-maga-base
     <h2>The Current Polling Landscape</h2>
     <p>According to recent averages from Silver Bulletin and RealClearPolitics, President Trump’s job-approval rating is stuck between 38% and 39%, with disapproval hovering near 58%. These figures are particularly notable because they remain lower than the numbers recorded following the January 6, 2021, Capitol riot. The data shows a deep intensity of sentiment: while roughly 20% of the electorate strongly approves of his performance, nearly 47% strongly disapproves.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

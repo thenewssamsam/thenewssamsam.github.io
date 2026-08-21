@@ -28,7 +28,7 @@ source_url: 'https://gizmodo.com/scientists-say-this-obliterated-700-year-old-sk
 
 <p>During that year, King Edward I of England was determined to crush the last major stronghold of Scottish resistance. To breach the fortress walls, the English monarch commissioned five master carpenters and 50 laborers to spend three months building the War Wolf—widely considered the largest trebuchet ever constructed. Historical chronicles claimed the machine could hurl massive stones with devastating velocity.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

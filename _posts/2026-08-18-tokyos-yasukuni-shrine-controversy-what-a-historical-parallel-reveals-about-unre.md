@@ -35,7 +35,7 @@ source_url: 'https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-sh
 
 <p>The visits immediately drew sharp rebukes from Beijing and Seoul. China&rsquo;s Ministry of Foreign Affairs issued strong protests, while South Korea expressed deep regret, condemning the actions as anachronistic. For these neighboring nations, the shrine is not merely a memorial for ordinary soldiers; it is viewed as a persistent symbol of Tokyo&rsquo;s failure to fully atone for colonial-era atrocities.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

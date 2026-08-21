@@ -37,7 +37,7 @@ source_url: 'https://www.waka.com/2026/08/17/elmore-county-ema-opening-cooling-s
 <h2 style="font-size:1.5rem; color:#1e293b; margin-bottom:12px; border-bottom:2px solid #e2e8f0; padding-bottom:6px;">What Happened: Elmore County EMA Responds to Heat Warning</h2>
 <p>On Monday, the Elmore County Emergency Management Agency activated emergency protocols, opening temporary cooling stations across several towns and cities in anticipation of dangerous heat conditions. As temperatures climb to levels that pose immediate health risks, local officials are stepping in to provide safe, air-conditioned havens for residents who may lack reliable cooling at home.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0GVH72LRS?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0GVH72LRS?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 KewLitz Insulated Stainless Steel Bottle 
 </a></p>
 

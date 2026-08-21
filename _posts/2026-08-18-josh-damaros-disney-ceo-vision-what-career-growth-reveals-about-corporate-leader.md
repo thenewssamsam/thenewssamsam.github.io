@@ -35,7 +35,7 @@ source_url: 'https://deadline.com/2026/08/disney-josh-damaro-ceo-opportunities-d
     <p>Stepping onto the stage at D23: The Ultimate Disney Fan Event, Josh D'Amaro faced a crowd of thousands not merely as a corporate officer, but as the newly minted Chief Executive Officer of the Walt Disney Company. Having taken over the reins from Bob Iger five months prior, D'Amaro used his conversation with Ginnifer Goodwin on Day 3 of the fan convention to reflect on his journey, the current state of entertainment, and his strategic vision for the global giant.</p>
     <p>For an executive who began his career at an entry-level position at Disneyland back in 1998, the milestone carried profound personal weight. "It is still strange for people to refer to me as CEO because I've been here for 30 years," D'Amaro admitted during the sit-down. Rather than leaning into corporate jargon, his public remarks highlighted the grassroots operational experience that shaped his perspective on fandom, theme parks, and media production.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 KEOFID Classic Backpack 
 </a></p>
 

@@ -37,7 +37,7 @@ source_url: 'https://www.npr.org/2026/08/17/nx-s1-5910496/elon-musk-starbase-tex
   <p>On a hot August afternoon in south Texas, the contrast along Highway 4 toward Boca Chica Beach is stark. Semi-trucks and silver Cybertrucks rumble down roads that local residents say are in a perpetual state of construction. At the center of this transformation is Starbase, the municipality established in 2025 to support Elon Musk's SpaceX workforce, rocket manufacturing, and launch operations.</p>
   <p>Having secured approval from the Federal Aviation Administration in 2025 for up to 25 annual Starship/Super Heavy orbital launches and landings, the corporate-tied city is now pushing to expand its footprint. Starbase has asked neighboring landowners to consider annexing roughly 7,100 acres of surrounding private and state property. According to city documents, the annexation is designed to foster more efficient coordination with state and federal agencies like the Texas Department of Public Safety and U.S. Customs and Border Protection.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></p>
 

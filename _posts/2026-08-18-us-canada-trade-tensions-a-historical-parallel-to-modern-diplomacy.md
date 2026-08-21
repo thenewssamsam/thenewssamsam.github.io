@@ -25,7 +25,7 @@ source_url: 'https://www.bostonglobe.com/2026/08/18/nation/trump-presidency-live
     <h2>The Current Standoff</h2>
     <p>According to recent reports, the Trump administration’s aggressive tariff strategy—aimed at domestic manufacturing revitalization—has brought US-Canada relations to a breaking point. While the two nations have historically managed disputes over softwood lumber and dairy through diplomatic channels, the current rhetoric and proposed 50 percent tariff represent an unprecedented departure from the status quo.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

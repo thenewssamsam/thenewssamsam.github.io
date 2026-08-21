@@ -25,7 +25,7 @@ source_url: 'https://apnews.com/article/iran-us-israel-lebanon-gaza-hormuz-augus
     <h2>The Current Flashpoint</h2>
     <p>Tensions reached a new peak this Monday as Iran announced it had reached an understanding with Oman regarding a transit route through the Strait of Hormuz. The proposed plan would allow ships to navigate the strait without fees, utilizing routes close to both nations. However, the United States, which has maintained a blockade on Iranian ports since the conflict began following the February 28 attacks, remains hostile to any deal that does not meet its specific terms.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

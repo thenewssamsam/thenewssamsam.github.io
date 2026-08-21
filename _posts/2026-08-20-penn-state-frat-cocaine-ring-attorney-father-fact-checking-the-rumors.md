@@ -39,7 +39,7 @@ source_url: "https://triblive.com/local/regional/father-charged-in-suspected-coc
     <p>According to investigators, 23-year-old Thomas Michael Robinson of Churchill was identified as a suspected leader of the cocaine operation. Authorities state that drugs were primarily packaged at off-campus fraternity houses connected to the Delta Upsilon and Sigma Chi chapters. Even more troubling, prosecutors revealed that cutting and bagging the narcotics served as an indoctrination process for some fraternity pledges.</p>
     <p>However, what truly captured public attention was the involvement of the younger Robinson's father: 59-year-old Paul R. Robinson, an equity member and managing attorney at the Pittsburgh-based law firm Meyer, Darragh, Buckler, Bebenek & Eck, PLLC. The elder Robinson faces felony charges of tampering with evidence—specifically involving a safe containing drugs and cash—along with hindering apprehension and obstructing the investigation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -49,7 +49,7 @@ Tactical Waterproof Backpack
     <h2>Myth vs. Fact: Sorting the Rumors From Reality</h2>
     <p>Whenever a high-profile case involves elite universities, Greek life, and legal professionals, speculation spreads faster than verified reporting. Let us look at what the official police complaint and Attorney General statements actually verify, contrasted against common misconceptions.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -59,7 +59,7 @@ Tactical Waterproof Backpack
         <h3>Myth: Multiple attorneys from the Meyer Darragh law firm were involved in the drug ring.</h3>
         <p><strong>Fact:</strong> Only one attorney from the firm—Paul Robinson—has been charged. According to investigators, he is the sole nonstudent charged in the entire cocaine trafficking ring. The firm itself has not been implicated as an institution, though Paul Robinson serves as an equity member and chair of the firm's product liability and transportation groups.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -69,7 +69,7 @@ Seagate Portable External Hard Drive
         <h3>Myth: The father was running the drug distribution network directly on campus.</h3>
         <p><strong>Fact:</strong> Investigators state that Thomas Robinson was the suspected leader of the student operation, while his father's alleged involvement centered on post-arrest actions. Specifically, Paul Robinson is accused of taking steps to conceal evidence, including a safe containing drugs and cash, and obstructing the ongoing investigation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -86,7 +86,7 @@ Seagate Portable External Hard Drive
         <h3>Myth: The fraternities as official university organizations orchestrated the drug ring.</h3>
         <p><strong>Fact:</strong> While Attorney General Dave Sunday noted that packaging occurred inside off-campus fraternity houses and involved pledges as part of an indoctrination pattern within Delta Upsilon and Sigma Chi, charges target specific individuals rather than dissolving the national organizations automatically through this initial complaint.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -96,7 +96,7 @@ Seagate Portable External Hard Drive
         <h3>Myth: The investigation stalled because suspects refused to cooperate.</h3>
         <p><strong>Fact:</strong> Court documents show that cooperation played a major role in expanding the case. Following an earlier December 2024 arrest, Thomas Robinson cooperated with authorities and provided the name of his alleged supplier, 24-year-old Agostino Abbatiello of Westbury, New York, whom students identified as the university's largest cocaine distributor.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -112,13 +112,13 @@ Tactical Waterproof Backpack
     <h2>A Moment for Reflection</h2>
     <p>Stories like this one make me think about how easily personal judgment can become clouded by familial bonds or the desire to protect what we have built. Proverbs 15:27 reminds us, "The greedy bring ruin to their households, but the one who hates bribes will live." When integrity is compromised, even a lifetime of professional achievement can unravel in a single moment.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>I'm also reminded of Proverbs 28:13, which tells us, "Whoever conceals their sins does not prosper, but the one who confesses and renounces them finds mercy." True accountability requires facing the truth rather than attempting to hide it.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -128,7 +128,7 @@ Seagate Portable External Hard Drive
     <h2>How Should Readers Respond?</h2>
     <p>Instead of treating sensational news purely as entertainment or gossip, readers can take away several practical lessons from this ongoing legal case:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

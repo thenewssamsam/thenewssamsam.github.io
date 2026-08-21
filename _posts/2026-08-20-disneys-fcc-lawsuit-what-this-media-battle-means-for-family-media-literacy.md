@@ -38,7 +38,7 @@ source_url: "https://www.cnn.com/2026/08/18/media/disney-abc-fcc-trump-lawsuit-t
 
 <p>The FCC has defended its actions by pointing to ongoing examinations regarding diversity, equity, and inclusion (DEI) compliance and equal-time rules for political programming. Meanwhile, Disney’s leadership maintains that the regulatory pressure is an extraordinary assault on the First Amendment designed to chill free expression across the entire broadcasting industry. As this legal battle plays out, ordinary viewers are left watching a profound struggle over the boundaries of government oversight and media independence.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -55,14 +55,14 @@ Seagate Portable External Hard Drive
 <h2 id="parenting-perspective">A Parenting Perspective: Teaching Media Literacy in a Polarized World</h2>
 <p>For parents, news stories about government regulators, corporate pushback, and broadcast controversies can feel distant—until we realize that these same broadcasts enter our living rooms every single day. When institutions clash over what is permitted on the airwaves, it highlights a crucial reality: the media we consume is never purely neutral. Every talk show, news segment, and late-night joke carries a perspective, an assumption, and a worldview.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Guiding children and teenagers through this environment requires intentionality rather than fear. Instead of reacting with alarm to headlines about media censorship or political pressure, parents can use these moments to teach age-appropriate media literacy:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -81,14 +81,14 @@ Seagate Portable External Hard Drive
 <h2 id="biblical-reflection">A Quiet Reflection on Truth and Integrity</h2>
 <p>headlines about lawsuits, political leverage, and cultural friction often leave us feeling unsettled. It makes me think about the enduring wisdom found in Scripture regarding truth, honesty, and the way we communicate with one another. Proverbs 12:17 reminds us, "An honest witness tells the truth, but a false witness tells lies." In a world flooded with competing spin, corporate PR statements, and political maneuvering, discerning genuine truth requires patience, discernment, and a commitment to fairness.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Similarly, Ephesians 4:15 encourages believers to speak "the truth in love." This balance is essential not only in public policy and media production but also around our own family dinner tables. When cultural institutions argue over public airwaves, we are reminded that true integrity is rare and precious. We are invited to examine our own hearts—ensuring that the information we share, believe, and pass along to our children is grounded in honesty and fairness rather than reactionary outrage.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -96,7 +96,7 @@ Seagate Portable External Hard Drive
 <h2 id="how-families-respond">How Families Can Respond Constructively</h2>
 <p>Rather than feeling overwhelmed by complex federal lawsuits and media disputes, families can take practical steps to cultivate a healthy relationship with media:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

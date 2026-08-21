@@ -36,7 +36,7 @@ source_url: 'https://katu.com/news/local/pearl-district-braces-for-centennial-mi
 
 <p>Yet, as the smoke clears and city officials begin the painstaking weeks-long process of dismantling the rest of the unstable structure, the demolition represents far more than a morning spectacle. It marks a critical test for local emergency response, environmental protection, and neighborhood resilience in Oregon's largest city.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

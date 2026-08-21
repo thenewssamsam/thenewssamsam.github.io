@@ -23,7 +23,7 @@ source_url: 'https://www.ibtimes.co.uk/oracle-ai-expansion-high-stakes-gamble-18
 
 <p>For everyday readers and market watchers, this story is much more than a billionaire wealth update. It serves as a masterclass in how massive capital expenditure, long-term leasing commitments, and credit ratings collide when a legacy company attempts to outrun its competitors in a gold rush. Let us break down the actual financial mechanics of Oracle's high-stakes gamble.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

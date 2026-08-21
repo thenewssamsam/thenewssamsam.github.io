@@ -42,14 +42,14 @@ source_url: 'https://apnews.com/article/redistricting-congress-missouri-trump-ge
 
     <p>The revised map stretches Cleaver's district eastward into deep rural, Republican-heavy counties, leaving roughly 59% of its voters entirely new to the district. Although the new boundaries were already utilized during the August primary elections, a coalition of grassroots organizers operating under the banner "People Not Politicians" gathered thousands of signatures to place a referendum on the November ballot, hoping to overturn the map.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
     
     <p>However, Republican Secretary of State Denny Hoskins rejected the petition on the day of the primary, asserting that the Missouri Constitution provides no mechanism for a public referendum on congressional redistricting. Cole County Circuit Judge Daniel Green agreed, ruling that the state's foundational document does not reallocate redistricting authority away from the General Assembly.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -59,7 +59,7 @@ Seagate Portable External Hard Drive
     <h2>A Legal Rights Explainer: Can Voters Challenge Redistricting?</h2>
     <p>For everyday citizens, watching politicians redraw the very districts they vote in can feel profoundly frustrating. It naturally raises questions about where public power ends and legislative authority begins. From a legal standpoint, the Missouri case exposes a tension between representative governance and direct democracy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -72,7 +72,7 @@ Tactical Waterproof Backpack
 
     <p>Furthermore, attorneys representing national and state Republican committees successfully argued that swapping district boundaries after the primary elections had already concluded would create "widespread voter confusion" and violate federal election timing protections. Changing the rules midstream, the defense argued, threatens the logistical integrity of the election.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -83,7 +83,7 @@ Seagate Portable External Hard Drive
 
     <p>Opponents, led by Richard von Glahn of People Not Politicians, immediately announced plans to take the fight to the Missouri Supreme Court. They argue that citizens retain fundamental constitutional rights to challenge legislative overreach through the ballot box, pointing out that it has been over a century since Missouri voters last utilized a referendum to reject a congressional map in 1922.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -97,7 +97,7 @@ Tactical Waterproof Backpack
     <h2>The Broader National Redistricting Battle</h2>
     <p>Missouri is hardly an isolated battleground. Across the United States, mid-decade redistricting efforts have triggered roughly a dozen major lawsuits over the past year. Following President Trump's call for GOP-led states to maximize their legislative advantage, states like Texas, North Carolina, Ohio, Florida, Tennessee, Louisiana, and Alabama have all engaged in aggressive map-redrawing.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -113,21 +113,21 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Justice, Authority, and Integrity</h2>
     <p>Disputes over authority, fairness, and the division of power touch on deep moral questions that have accompanied human governance for millennia. When laws and systems are perceived as tilted to favor the powerful, it naturally stirs a longing for equity and transparency.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
     
     <p>Scripture frequently speaks to the weight of leadership and the importance of honest scales. Proverbs 16:12 reminds us, <q>It is an abomination to kings to do evil, for the throne is established by righteousness.</q> This principle invites us to consider that true stability in any society relies not merely on legal technicalities or strategic maneuvers, but on a genuine commitment to justice and the dignity of every citizen.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
     
     <p>When the rules of engagement shift, it is easy for cynicism to take root. Yet, wisdom encourages patience, active civic engagement, and a steadfast commitment to doing what is right within whatever framework we are given. As Colossians 3:23 advises, whatever we do, we should work at it with all our heart, remembering that integrity matters far beyond the immediate political scoreboard.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -137,7 +137,7 @@ Tactical Waterproof Backpack
     <h2>How Should Readers Respond?</h2>
     <p>For citizens watching these legal maneuvers unfold, feeling powerless is a common reaction. However, civic participation extends far beyond casting a single ballot:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 

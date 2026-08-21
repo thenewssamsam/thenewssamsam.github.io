@@ -26,7 +26,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/17/first-thing-trump-c
     <p>When Donald Trump announced an order to substantially reduce joint military drills with South Korea, citing his warm personal rapport with North Korean leader Kim Jong-un, it marked yet another sharp pivot in modern American foreign policy. While military officials in both Washington and Seoul immediately raised alarms—pointing out that Pyongyang's forces are actively absorbing tactical lessons from the ongoing war in Ukraine—the administration pressed forward, branding traditional deterrence exercises as "inappropriate and hostile."</p>
     <p>For everyday observers, the policy shift raises a pressing question: What happens when a superpower sidelines defensive readiness to prioritize personal statecraft? To understand the gravity of this decision, we don't have to guess in a vacuum. We can look back at how shifting alliances and unilateral drawdowns have played out across the ledger of modern history.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

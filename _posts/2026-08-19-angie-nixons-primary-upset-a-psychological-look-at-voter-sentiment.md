@@ -22,7 +22,7 @@ source_url: "https://www.foxnews.com/politics/progressive-florida-lawmaker-angie
     <div class="ncg-amazon-product" style="border: 1px solid #ffd700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Recommended Reading:</strong> <em>The Righteous Mind: Why Good People Are Divided by Politics and Religion</em> by Jonathan Haidt. <a href="https://www.amazon.com/dp/0307455777?tag=thenewssam-20" target="_blank">View on Amazon </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -30,7 +30,7 @@ Tactical Waterproof Backpack
 
     <p>Nixon, who has deep roots in labor organizing, will now face Republican Sen. Ashley Moody in November. This race is for the seat vacated by Marco Rubio, and it serves as a critical test for Democrats in a state where they have not won a U.S. Senate election since 2012.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -40,7 +40,7 @@ Tactical Waterproof Backpack
     <h2>The Psychology of the "Underdog" Effect</h2>
     <p>From a behavioral standpoint, Nixon’s victory offers a fascinating case study in how voters perceive "national profiles" versus "local connection." In psychology, we often see the <strong>"Underdog Effect,"</strong> where individuals perceive a candidate with fewer resources as more authentic, particularly when the opponent is perceived as being backed by institutional power or national celebrity.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -52,7 +52,7 @@ Tactical Waterproof Backpack
     <h3>Cognitive Dissonance and Candidate Choice</h3>
     <p>Voters often experience <strong>cognitive dissonance</strong> when a high-profile candidate—like Vindman, who gained fame during the 2019 impeachment—fails to address the specific, granular economic anxieties of local constituents. When a candidate's identity is tied to a national controversy, local voters may feel that their own daily struggles, such as rising insurance costs or rent, are being sidelined. Nixon’s focus on "everyday people" created a psychological bridge that resonated more strongly than the nationalized platform of her opponent.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -60,7 +60,7 @@ Tactical Waterproof Backpack
     <div class="ncg-amazon-product" style="border: 1px solid #ffd700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Stay Organized:</strong> Moleskine Classic Notebook for tracking local political events. <a href="https://www.amazon.com/dp/8883701127?tag=thenewssam-20" target="_blank">View on Amazon </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -69,7 +69,7 @@ Tactical Waterproof Backpack
     <h3>The Power of Group Identity</h3>
     <p>Nixon’s background in union organizing provided her with a pre-existing <strong>ingroup affiliation</strong>. Psychology tells us that voters are more likely to support a candidate who shares their social or professional identity. By positioning herself as a labor advocate, Nixon tapped into a sense of solidarity that proved more potent than the sheer financial spending power seen in the opposition campaign.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -79,13 +79,13 @@ Tactical Waterproof Backpack
     <h2>A Lesson in Humility and Stewardship</h2>
     <p>The sudden shift in this primary outcome reminds us that human plans and earthly resources are not the final arbiters of success. In a world where money often seems to dictate the trajectory of power, this result invites us to consider the value of humble service and the importance of listening to the concerns of those who feel overlooked. As Proverbs 16:9 notes, <em>"In their hearts humans plan their course, but the Lord establishes their steps."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>It is a healthy practice to remember that leadership is not about the loudest voice or the biggest budget, but about the integrity of one's character and the sincerity of their service to their neighbors. When we see such upsets, we are reminded that individuals have agency and that change, while often unexpected, is a constant part of our human experience. <em>"Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves"</em> (Philippians 2:3). This perspective encourages us to view political outcomes not just as wins or losses, but as moments to reflect on how we can better support and serve our community members.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

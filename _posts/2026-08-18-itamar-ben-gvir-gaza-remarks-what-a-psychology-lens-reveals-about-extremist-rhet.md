@@ -36,7 +36,7 @@ source_url: 'https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for
   <p>Israel's far-right National Security Minister, Itamar Ben-Gvir, recently made headlines during a podcast appearance with Rom Braslavski, a former Israeli captive held in Gaza. In the conversation, which surfaced across regional media outlets, Ben-Gvir argued that Israeli forces should carry out nightly killings of 30 to 40 people in Gaza, going far beyond active combatants who pose an immediate threat.</p>
   <p>During the discussion, Ben-Gvir used explicit dehumanizing language regarding Palestinians in Gaza. The remarks arrive as Israel approaches national elections scheduled for October 27, highlighting how hardline security rhetoric continues to play a prominent role in domestic political maneuvering. While Ben-Gvir does not command the military directly, his position on Israel’s security cabinet gives him significant influence over national policy and domestic security apparatuses.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

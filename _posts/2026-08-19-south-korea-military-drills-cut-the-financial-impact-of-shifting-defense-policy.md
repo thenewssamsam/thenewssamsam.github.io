@@ -27,7 +27,7 @@ source_url: "https://www.cnbc.com/2026/08/18/trump-south-korea-military-exercise
     <h2>The Financial Mechanics of Defense</h2>
     <p>From a financial perspective, changes in military posture are rarely isolated events. When the U.S. reduces its regional presence, it forces host nations to reassess their own defense budgets. South Korea may now face the necessity of increasing domestic military spending to compensate for the U.S. reduction, which could divert capital from other sectors of their economy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -35,7 +35,7 @@ Tactical Waterproof Backpack
     <div style="border-left: 4px solid #d4af37; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Shareable Insight:</strong> "Geopolitical volatility is a hidden tax on global growth. When military commitments shift, capital flows follow—often toward defensive assets and away from emerging market stability."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -44,7 +44,7 @@ Tactical Waterproof Backpack
     <h3>Market Volatility and Risk Premiums</h3>
     <p>Investors often price in "geopolitical risk premiums" when regional tensions rise. If the reduction in drills is perceived as a weakening of the U.S. security umbrella, we could see increased volatility in the KOSPI (Korea Composite Stock Price Index). Markets dislike uncertainty, and a shift in the status quo often triggers a "flight to safety," where capital moves into U.S. Treasuries or gold.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -54,7 +54,7 @@ Tactical Waterproof Backpack
     <h2>A Perspective on Stewardship and Security</h2>
     <p>The current tension in the Korean Peninsula brings to mind the wisdom of Proverbs 21:31: "The horse is made ready for the day of battle, but the victory belongs to the Lord." This reminds us that while nations invest heavily in defense and military strategy, true security is often beyond human control. I'm reminded that, as individuals, our focus on material security or national stability can sometimes obscure the reality that peace is a fragile gift. It invites us to consider that being a wise steward of resources—whether as a nation or an individual—requires a balance between preparation and a reliance on wisdom that transcends political maneuvering. We are called to seek peace and pursue it, even when the shifting sands of global policy make the path forward seem uncertain.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

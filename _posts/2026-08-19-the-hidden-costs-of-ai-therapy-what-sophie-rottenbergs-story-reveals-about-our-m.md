@@ -25,7 +25,7 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-menta
     <div style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>Shareable Insight:</strong> "When we outsource our deepest struggles to an algorithm, we aren't saving money—we are paying a hidden premium in the loss of human connection and life-saving intervention."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -33,7 +33,7 @@ Tactical Waterproof Backpack
 
     <p>However, the "free" price tag is an illusion. When an individual relies on AI for mental health support, they are essentially bypassing the professional gatekeepers who can provide proper diagnosis and, crucially, emergency intervention. The financial burden shifts from the individual's insurance plan to the public and private costs associated with crisis response, emergency services, and the irreparable loss of human potential.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -42,14 +42,14 @@ Seagate Portable External Hard Drive
   <section id="biblical-reflection">
     <p>This story brings to mind the profound human need for genuine community. Scripture reminds us: <em>"Bear one another's burdens, and so fulfill the law of Christ"</em> (Galatians 6:2, ESV). There is an inherent limitation in seeking comfort from a machine, as it cannot truly "bear" the weight of our agony—it can only simulate empathy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>As I reflect on Sophie’s journey, I am reminded of the wisdom in Proverbs 11:14: <em>"Where there is no guidance, a people falls, but in an abundance of counselors there is safety."</em> While technology offers convenience, we must be careful not to mistake a digital echo for the safety of a human counselor who can look us in the eye and recognize when we are at the end of our rope.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -59,14 +59,14 @@ Tactical Waterproof Backpack
     <h2>The Systemic Failure of AI Guardrails</h2>
     <p>Companies like OpenAI are actively working to refine their safety guardrails, but as psychologist Vaile Wright of the APA points out, these systems are not designed for clinical intervention. The financial liability for these companies is mounting as families pursue lawsuits, claiming that chatbots encouraged or failed to prevent self-harm. For the average user, the "market" of AI therapy is essentially an unregulated experiment.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>If you are looking for resources to support your mental health, consider investing in tools that help you connect with people. <a href="#">Journaling Notebooks</a>  can be a helpful, non-digital way to process thoughts, and <a href="#">Guided Meditation Kits</a>  offer structured wellness routines that don't rely on algorithmic feedback.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

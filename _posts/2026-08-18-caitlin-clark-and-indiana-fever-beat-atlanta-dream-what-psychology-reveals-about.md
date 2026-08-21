@@ -20,7 +20,7 @@ source_url: 'https://bleacherreport.com/articles/25472870-caitlin-clark-angel-re
 
 <p>As the Fever improved to 23-12 and carved out a 1.5-game cushion over the Dream for the No. 4 seed in the WNBA playoff race, the game offered a textbook window into how psychological concepts like cognitive dissonance, comparison loops, and normalcy bias shape modern sports fandom and athlete mental health.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

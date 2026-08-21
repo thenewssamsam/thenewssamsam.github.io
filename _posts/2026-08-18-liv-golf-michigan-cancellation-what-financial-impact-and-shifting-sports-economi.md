@@ -25,7 +25,7 @@ source_url: 'https://www.skysports.com/golf/news/12176/13574162/liv-golf-confirm
   <h2 id="what-happened">What Happened: The Michigan Cancellation Explained</h2>
   <p>Speculation had swirled for days before LIV Golf’s official Monday confirmation. Ticket sales for the Michigan event had quietly vanished from the league’s website, and early player movements—such as star player Tyrrell Hatton entering the DP World Tour's British Masters for those exact dates alongside fellow LIV competitors Tom McKibbin and Adrian Meronk—offered a clear signal that change was afoot.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

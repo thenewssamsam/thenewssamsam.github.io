@@ -40,7 +40,7 @@ source_url: 'https://finance.yahoo.com/markets/stocks/article/nikes-stock-plunge
     <h2>What Happened: The Numbers Behind the Drop</h2>
     <p>The latest wave of selling pressure follows a stretch of weak financial quarters that have consistently disappointed market expectations. In late June, Nike reported fiscal fourth-quarter revenue of  billion, reflecting a 1 percent decline on a reported basis and a 4 percent drop when adjusted for currency fluctuations.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

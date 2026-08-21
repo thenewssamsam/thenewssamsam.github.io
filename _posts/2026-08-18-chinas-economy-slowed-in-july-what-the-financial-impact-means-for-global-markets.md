@@ -171,7 +171,7 @@ source_url: 'https://www.wsj.com/economy/chinas-economic-activity-weakened-in-ju
 
 <p>The latest economic indicators point to broad-based cooling across several vital sectors of the Chinese economy. Rather than a single isolated hiccup, the July data highlights persistent structural headwinds that have dogged Beijing's policymakers for months.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

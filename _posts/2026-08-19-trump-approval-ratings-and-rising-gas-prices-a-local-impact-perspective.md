@@ -32,7 +32,7 @@ source_url: "https://www.usatoday.com/story/news/politics/2026/08/17/president-t
     <h2>The Local Ripple Effect</h2>
     <p>When the national average for a gallon of gas hits —a significant jump from  just a year ago—the impact is not felt equally. For rural communities where long commutes are a necessity, this  per gallon increase is a direct tax on household income. Local businesses, particularly those reliant on shipping or delivery services, are also forced to absorb these costs or pass them on to consumers, tightening the discretionary spending power in our towns and cities.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -40,7 +40,7 @@ Crevice Cleaning Brush Set
     <div style="border-left: 4px solid #d4af37; background: #fdfaf0; padding: 10px; margin: 15px 0;">
       <p><strong>Recommended:</strong> <a href="#">Fuel Efficiency Tracker - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -49,7 +49,7 @@ Crevice Cleaning Brush Set
     <h3>Community Resilience</h3>
     <p>In many regions, this economic pressure is leading to a resurgence of local carpooling initiatives and a renewed focus on community-based commerce. When national policy creates economic friction, the strength of a local community is often tested by how it adapts to these rising costs.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -59,7 +59,7 @@ Crevice Cleaning Brush Set
     <h2>A Perspective on Stewardship</h2>
     <p>As we navigate times of uncertainty and economic strain, it is easy to become overwhelmed by the news cycle. Yet, I am reminded of the call to faithful stewardship and trust. Scripture invites us to consider our anxieties: <em>"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God."</em> (Philippians 4:6). This does not mean we ignore the very real burdens of rising costs or global conflict; rather, it suggests that our peace should be anchored in something deeper than the fluctuations of a polling number or the price of oil. Another truth that comes to mind is: <em>"Better a little with righteousness than great revenues with injustice."</em> (Proverbs 16:8). This encourages us to look at our own communities and ensure that even when the national economy feels shaky, we are practicing kindness and fairness toward our neighbors who may be struggling more than we are.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 

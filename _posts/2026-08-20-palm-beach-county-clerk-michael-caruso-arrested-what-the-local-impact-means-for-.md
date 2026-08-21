@@ -34,21 +34,21 @@ source_url: "https://cbs12.com/news/local/palm-beach-county-clerk-of-court-micha
   <h2 id="local-impact">A Community Shaken: The Local and Regional Impact</h2>
   <p>For residents living and working in Palm Beach County, news of Caruso's arrest delivered a jarring blow. Local taxpaying citizens expressed a mixture of disbelief, disgust, and betrayal outside the Palm Beach County Courthouse. When individuals are elected to high positions of public stewardship, the community places an implicit trust in their moral integrity.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
   <p>Local resident Troy Applegate voiced the frustration felt by many taxpayers: "It's disgusting, absolutely, because, you know, I pay taxes, and you know, you trust these people." At the same time, community members like Libby Sullivan emphasized the importance of due process while condemning the alleged victimization of a child, noting, "I'm a mother and grandmother and never think a child should be victimized."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
   <p>This localized scandal creates immediate administrative challenges for Palm Beach County. The Clerk of Court and Comptroller's office manages crucial financial records, court filings, and county finances. The FDLE's direct intervention to secure office files and prevent unauthorized removal of records underscores the state-level urgency in maintaining governmental continuity while safeguarding sensitive institutional data.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -68,14 +68,14 @@ Tactical Waterproof Backpack
   <h2 id="moral-reflection">A Personal Reflection on Truth and Accountability</h2>
   <p>News like this makes me think about how easily hidden behaviors can lurk behind a veneer of public success and respectability. We often judge a person by their title or their standing in the community, forgetting that character is proven in secret moments when no one else is watching.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
   <p>Scripture reminds us in Luke 12:2: "There is nothing concealed that will not be disclosed, or hidden that will not be made known." This truth challenges all of us to pursue genuine integrity, reminding our communities that accountability is a universal standard, and that protecting the vulnerable must always outweigh the protection of reputations.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -83,7 +83,7 @@ Seagate Portable External Hard Drive
   <h2 id="how-residents-respond">How Should Local Communities Respond?</h2>
   <p>When high-profile arrests disrupt a local municipality, residents can take constructive steps to ensure community health and institutional transparency:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -102,7 +102,7 @@ Tactical Waterproof Backpack
   <h2 id="closing-takeaway">One Last Thought</h2>
   <p>The arrest of Michael Caruso is a sobering reminder that public titles offer no immunity against moral failure or criminal accountability. As Palm Beach County navigates this legal and administrative crisis, the true measure of our local community will be found in how fiercely we protect our most vulnerable and demand unwavering integrity from those entrusted with power.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

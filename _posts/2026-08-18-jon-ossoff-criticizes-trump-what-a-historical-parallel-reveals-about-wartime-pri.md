@@ -30,7 +30,7 @@ source_url: 'https://www.independent.co.uk/bulletin/news/trump-jon-ossoff-iran-n
     <h2>What Happened</h2>
     <p>Democratic Senator Jon Ossoff recently delivered a sharp critique of Donald Trump's leadership priorities in Atlanta, arguing that the administration is neglecting urgent national security duties while American service members face heightened risks overseas. Ossoff specifically pointed to reported presidential focus on personal projects, frequent golf outings, and travel arrangements involving aide Natalie Harp, contrasting these activities with the ongoing management of tensions involving Iran.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

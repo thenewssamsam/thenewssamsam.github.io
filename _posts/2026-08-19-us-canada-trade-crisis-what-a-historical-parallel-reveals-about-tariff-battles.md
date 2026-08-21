@@ -25,7 +25,7 @@ source_url: "https://apnews.com/article/tariffs-trump-canada-usmca-trade-aae597c
     <p>For decades, the 5,525-mile border dividing the United States and Canada has stood as a quiet monument to peaceful coexistence. Nearly 330,000 people and  billion in goods cross it every single day without the threat of armed guards or hostile friction. But that long-standing neighborhood harmony is currently running headfirst into a high-stakes economic collision. With a midnight deadline looming, U.S. and Canadian officials are locked in intense last-minute negotiations to prevent the White House from slapping punishing 50% tariffs on  billion worth of Canadian products.</p>
     <p>While the immediate headlines focus on the frantic diplomacy between U.S. Trade Representative Jamieson Greer and Canadian trade officials, the roots of this fight reach deep into economic history. To truly understand why a dispute over everyday items like hockey sticks and tongue depressors matters so much right now, we have to look past the political posturing and examine the historical parallels of economic nationalism.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

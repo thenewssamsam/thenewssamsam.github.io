@@ -38,7 +38,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-cente
     <p>Artificial intelligence infrastructure has officially crossed from software-adjacent spending into heavy industrial-scale nation-building. According to a securities filing revealed on Monday, <strong>Nvidia</strong> is stepping up to provide up to  billion in financing for a sprawling new AI data center for <strong>OpenAI</strong> in Pike County, Ohio.</p>
     <p>The numbers attached to this project read like a federal defense budget rather than a corporate tech lease. The credit facility will support an initial 4.25 gigawatts of computing capacity, with an option to expand by an additional 3.75 gigawatts. SB Energy will construct and manage the facility at the PORTS-Pike Technology Campus through a 20-year lease agreement with OpenAI. Capacity is expected to come online in phases starting in 2028.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

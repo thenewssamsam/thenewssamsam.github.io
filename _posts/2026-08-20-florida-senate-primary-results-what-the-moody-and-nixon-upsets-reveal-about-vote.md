@@ -40,7 +40,7 @@ source_url: "https://www.nbcnews.com/politics/2026-primary-special-elections/flo
 <h2>The Psychology of the Ballot Box: Familiarity and Upheaval</h2>
 <p>When voters step into a voting booth or fill out a mail-in ballot, they are rarely operating as purely rational economic actors. Instead, cognitive shortcuts and emotional frameworks heavily dictate their choices. The Republican and Democratic primaries in Florida showcase two distinct behavioral phenomena at play in modern American politics.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -71,13 +71,13 @@ Tactical Waterproof Backpack
 <h2>A Reflection on Discernment and Leadership</h2>
 <p>When watching political landscapes shift rapidly through primary upsets and high-profile races, it is easy to become swept up in anxiety or partisan fervor. Yet, ancient wisdom invites us to look deeper than surface-level power struggles. Proverbs 14:15 reminds us, <q>The simple believes anything, but the prudent gives thought to his steps.</q></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 <p>This verse offers a timely perspective for citizens navigating modern media cycles. It encourages us to pause, look past charismatic appeals or alarming headlines, and exercise genuine discernment. Furthermore, Proverbs 29:2 notes, <q>When the righteous thrive, the people rejoice; when the wicked rule, the people groan.</q> While human politicians will always fall short of perfection, this reflection reminds us that civic participation is a moral stewardship requiring thoughtfulness, patience, and a constant commitment to truth rather than mere emotional reaction.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -92,7 +92,7 @@ Seagate Portable External Hard Drive
 <h2>How Voters Can Process Political Shifts Constructively</h2>
 <p>Elections like the Florida Senate primary can trigger feelings of polarization or disillusionment. To maintain mental well-being and civic health, consider these constructive steps:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

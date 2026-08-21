@@ -139,7 +139,7 @@ source_url: ''
   <h2 id="what-happened">What Happened on the Western Leg?</h2>
   <p>The Pro Farmer Crop Tour is designed to cut through market speculation by putting boots on the ground to physically count corn kernels and soybean pods. As the western leg kicked off across South Dakota and Nebraska, scouts encountered a growing season defined by sharp contrasts. A cold snap right after emergence, followed by persistent hot and dry conditions through June and July, left deep marks on the crop.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

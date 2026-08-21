@@ -122,7 +122,7 @@ source_url: "https://www.nbcnews.com/news/us-news/penn-state-agostino-abbatiello
 
 <p>While investigations continue and legal proceedings unfold, the sheer scale of the alleged operation has stunned administrators and parents alike. It highlights how seamlessly illicit enterprises can embed themselves within standard student life, utilizing familiar campus networks, social circles, and digital communication tools to facilitate dangerous activities right under our noses.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -135,14 +135,14 @@ Tactical Waterproof Backpack
 
 <p>As parents, seeing a bright college student with a seemingly normal academic and social profile accused of leading a major criminal enterprise naturally triggers profound anxiety. How does a young adult move from studying debits and credits to orchestrating a campus drug network? Psychologists and parenting experts remind us that sudden shifts in behavior often stem from a complex mix of peer pressure, financial stress, the illusion of invincibility, and the rapid expansion of modern digital marketplaces.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>College is a time of immense transition. Young adults are experimenting with independence, often while managing unprecedented academic loads and complex social dynamics within fraternities and peer groups. When oversight drops away, vulnerable or ambitious students can easily rationalize high-risk behaviors.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -159,7 +159,7 @@ Seagate Portable External Hard Drive
 
 <p>Incidents like this also prompt a deeper moral reflection on the paths young people choose when temptation and opportunity intersect. In moments of immense pressure, the choices we make ripple far beyond our immediate circle. One timeless proverb reminds us of the hidden dangers of walking down compromised paths: <em>"The integrity of the upright guides them, but the unfaithfulness of the crooked destroys them"</em> (Proverbs 11:3). This serves as a gentle reminder to encourage our children to anchor their decisions in strong core values, even when the temptations of independence and peer approval loom large.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -172,7 +172,7 @@ Seagate Portable External Hard Drive
 
 <p>Rather than reacting with panic or draconian surveillance, parents can use news events like this to open constructive, non-judgmental dialogues with their college-aged children:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -195,7 +195,7 @@ Tactical Waterproof Backpack
         <summary>What are the legal implications for students involved in major drug distribution?</summary>
         <p>Involved individuals face severe felony charges, including drug trafficking, conspiracy, and intent to distribute, which carry lengthy prison sentences and permanent criminal records that end professional careers.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -204,7 +204,7 @@ Seagate Portable External Hard Drive
         <summary>How can parents spot warning signs of trouble in college students?</summary>
         <p>Warning signs include sudden, unexplained financial windfalls, secretive behavior, drastic changes in academic performance, withdrawal from family communication, and new associations with high-risk peer groups.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

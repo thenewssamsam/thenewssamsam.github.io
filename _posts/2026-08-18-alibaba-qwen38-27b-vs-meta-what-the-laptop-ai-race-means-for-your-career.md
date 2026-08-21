@@ -37,7 +37,7 @@ source_url: 'https://qz.com/alibaba-qwen-open-weight-laptop-ai-model-meta-081726
     
     <p>This release arrives hot on the heels of Meta's introduction of Muse Glimmer, its own 30-billion-parameter open-weight model built for Macs and PCs. The timing is hardly a coincidence. Industry analysts note that competition in the on-device AI space is intensifying rapidly as tech giants pivot toward local execution. Alongside its laptop-ready model, Alibaba also dropped the weights of Qwen3.8-Max—its flagship model scaling up to 2.4 trillion total parameters—making it freely available for download under commercial frameworks.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Toshiba 5400RPM Hard Drive 
 </a></p>
 

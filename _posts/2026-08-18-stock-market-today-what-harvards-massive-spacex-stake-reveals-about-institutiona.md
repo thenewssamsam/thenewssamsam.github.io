@@ -38,7 +38,7 @@ source_url: 'https://www.investopedia.com/5-things-to-know-before-the-stock-mark
     <p>Wall Street is kicking off a busy economic week with a divided dashboard. Stock futures were mixed ahead of the opening bell on Monday, with tech-heavy Nasdaq futures edging up 0.4% on ongoing enthusiasm for artificial intelligence hardware. Meanwhile, S&P 500 futures added a modest 0.1%, and Dow Jones Industrial Average futures slipped 0.2%.</p>
     <p>The morning's hesitation follows a late-week pullback on Friday that closed out the major indexes in the red, though both the Nasdaq and S&P 500 managed to secure their third consecutive week of gains. Beyond equities, commodity and currency markets are reacting to multiple overlapping geopolitical and monetary crosscurrents. WTI crude oil held steady near  per barrel as the U.S. and Iran approach a crucial 60-day deadline regarding regional conflict negotiations. Gold futures rose 0.5% to ,450 an ounce, bitcoin hovered near ,600 after finding a floor around ,500 on Friday, and the benchmark 10-year Treasury yield ticked down to 4.69%.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

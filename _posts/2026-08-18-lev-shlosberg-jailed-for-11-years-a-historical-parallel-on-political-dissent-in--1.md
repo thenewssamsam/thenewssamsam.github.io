@@ -35,7 +35,7 @@ source_url: ''
     <h2>What Happened</h2>
     <p>On Monday, a court in the northwestern Russian city of Pskov delivered an 11-year-and-one-month prison sentence to Lev Shlosberg, deputy head of the liberal Yabloko party. Shlosberg was convicted of "discrediting" the armed forces and "spreading false information" under wartime censorship laws introduced following Russia's full-scale invasion of Ukraine in 2022. State prosecutors had originally demanded a 12-year sentence over comments published on social media.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

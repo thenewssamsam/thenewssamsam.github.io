@@ -26,7 +26,7 @@ source_url: 'https://6abc.com/post/lindsay-clancy-trial-day-16-defense-expert-su
     <h2>The Current State of the Trial</h2>
     <p>Lindsay Clancy stands accused of the first-degree murders of her three children—Cora, 5, Dawson, 3, and infant Callan—in January 2023. While the defense does not contest that Clancy caused the deaths, they argue that she was suffering from severe postpartum psychosis and was unable to appreciate the wrongfulness of her actions. Recent testimony has focused on the "downward spiral" described by forensic psychologist Paul Zeizel, who claims Clancy's mental state was characterized by derealization and unrelenting intrusive thoughts.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -36,7 +36,7 @@ Tactical Waterproof Backpack
     <h2>A Psychological Lens: Intrusive Thoughts and Psychosis</h2>
     <p>From a psychological standpoint, the testimony highlights the distinction between "ego-dystonic" intrusive thoughts—which the individual finds distressing and unwanted—and the onset of full-blown psychosis. Dr. Zeizel described Clancy’s experience as a loss of the ability to distinguish right from wrong, a hallmark of the insanity defense in many jurisdictions.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -44,7 +44,7 @@ Tactical Waterproof Backpack
     <div style="border-left: 5px solid #6a5acd; background-color: #f4f0ff; padding: 15px; margin: 20px 0;">
       <p><strong>"Postpartum psychosis is not merely 'the blues' or even standard depression; it is a clinical emergency where the sufferer loses touch with reality, often experiencing auditory hallucinations that can command dangerous behavior."</strong></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -53,7 +53,7 @@ Tactical Waterproof Backpack
     <h3>Understanding the Psychological Context</h3>
     <p>When analyzing high-profile cases involving mental health, psychologists often point to "normalcy bias"—our tendency to assume that because someone appeared functional one day, they could not have been experiencing a break from reality the next. Dr. Zeizel’s testimony emphasized that symptoms of psychosis are often intermittent, "like waves at the beach," which can complicate the ability of family members and even medical providers to intervene before a tragedy occurs.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -61,7 +61,7 @@ Tactical Waterproof Backpack
     <div style="border-left: 5px solid #FFD700; background-color: #FFFDF0; padding: 10px; margin: 15px 0;">
       <p>Need support for mental health? Check out these resources: <a href="https://www.amazon.com/dp/B08P1Q41K4" target="_blank">Journaling for Mental Clarity </a> or <a href="https://www.amazon.com/dp/B07B6Q9V2S" target="_blank">Stress Relief Weighted Blanket </a>.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -72,14 +72,14 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Suffering and Truth</h2>
     <p>In the midst of such profound tragedy, we are reminded of the fragility of the human mind and the weight of our broken world. Scripture offers a perspective on those who are suffering in ways others cannot see. Psalm 34:18 tells us, <em>"The Lord is close to the brokenhearted and saves those who are crushed in spirit."</em> This verse invites us to consider the depth of human pain that exists beyond our immediate observation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>Furthermore, we are reminded of the necessity of compassion when considering the complexities of human frailty. Galatians 6:2 instructs us to, <em>"Carry each other’s burdens, and in this way you will fulfill the law of Christ."</em> These words encourage us to approach such difficult news not with quick judgment, but with an awareness of our shared humanity and the desperate need for healing in a world where many face internal battles that are often misunderstood or overlooked.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

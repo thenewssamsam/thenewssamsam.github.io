@@ -24,7 +24,7 @@ source_url: 'https://www.motor1.com/news/805168/herbie-wertheim-40-million-ferra
   <h2 id="what-happened">What Happened at Monterey?</h2>
   <p>During the high-stakes Monterey Car Week, RM Sotheby's auctioned off a truly unique piece of automotive history: Ferrari Luce Chassis 0. As the very first production chassis of Maranello's eagerly anticipated battery-electric model, the car was finished by Ferrari’s exclusive Tailor Made team as a bespoke one-off masterpiece.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

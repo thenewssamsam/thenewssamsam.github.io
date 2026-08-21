@@ -23,7 +23,7 @@ source_url: 'https://nypost.com/2026/08/17/us-news/mamdani-admin-will-skip-overs
 
 <p>Instead of appearing before the City Council to answer hard questions from both opposition Republicans and allied Democrats, administration officials announced they would submit written testimony instead. Citing ongoing litigation as a shield, the no-show has drawn sharp rebukes from across the political spectrum—raising deeper questions about executive accountability when administrative machinery breaks down.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

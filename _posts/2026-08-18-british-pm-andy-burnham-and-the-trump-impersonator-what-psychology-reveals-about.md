@@ -35,7 +35,7 @@ source_url: ''
     <p>When high-ranking government officials communicate across international borders, they expect secure channels and verified identities. But digital trickery cares little for diplomatic protocols. Recently, newly installed British Prime Minister Andy Burnham found himself exchanging messages with an individual pretending to be Susie Wiles, the powerful White House chief of staff and one of US President Donald Trump's closest advisers.</p>
     <p>According to reports breaking from CNN and Politico, the digital breach prompted immediate concern within the British embassy in Washington, leading officials to quietly raise the alarm with the White House. Downing Street has maintained its standard policy of not commenting on active national security matters. Fortunately, Downing Street and US sources confirmed that "no messages of significance" were handed over. Burnham quickly grew suspicious of the exchange, and the incident was formally reported to the appropriate authorities.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

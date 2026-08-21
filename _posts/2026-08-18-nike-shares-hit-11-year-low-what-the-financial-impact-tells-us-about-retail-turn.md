@@ -152,7 +152,7 @@ source_url: 'https://ca.finance.yahoo.com/news/nike-shares-hit-11-low-174500075.
 <h2 id="what-happened">What Happened: The Anatomy of Nike's Drop</h2>
 <p>Nike’s latest stumble was triggered by a combination of soft direct-to-consumer (DTC) sales and a fresh analyst downgrade that rattled Wall Street. As the company works through a fundamental restructuring of its retail business, analysts are projecting muted revenue growth for the upcoming quarter.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -39,7 +39,7 @@ source_url: ''
     <p>In a unanimous vote on Monday, the California Energy Commission (CEC) adopted unprecedented new rules that establish strict rolling-resistance standards for replacement tires. Stemming from a nearly forgotten 2003 legislative directive (AB 844), California has officially become the first state in the nation to regulate replacement tire efficiency.</p>
     <p>Rolling resistance measures how much energy a tire expends as it rolls down the pavement. Lower rolling resistance translates directly to better fuel economy for gas-powered vehicles and extended driving range for electric vehicles (EVs). While brand-new cars typically roll off dealership lots equipped with highly efficient low-resistance tires, consumers historically replace worn tires with aftermarket options that prioritize grip, tread life, or lower upfront price tags regardless of rolling resistance.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -36,7 +36,7 @@ source_url: 'https://www.aljazeera.com/news/2026/8/17/trump-hails-mecca-pact-can
 <h2 id="what-happened">What Happened: The Mecca Pact Takes Shape</h2>
 <p>The Mecca Joint Defence Agreement binds Saudi Arabia, Turkiye, and Pakistan in a mutual defense framework modeled loosely on NATO’s Article 5, stating that an armed attack on one member shall be regarded as an attack against all. However, analysts point out that the agreement maintains significant national sovereignty over military responses. Member states retain the discretion to determine whether, when, and how to assist an ally under attack, ensuring that signatories are not automatically dragged into unwanted conflicts.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

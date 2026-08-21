@@ -22,7 +22,7 @@ source_url: 'https://apnews.com/article/florida-primaries-donald-trump-wasserman
     Florida voters headed to the polls Tuesday for a slate of high-stakes primary elections for governor and Congress that serve as a major stress test for Donald Trump's enduring political influence in his adopted home state. With longtime Gov. Ron DeSantis barred from seeking a third consecutive term, both major parties are navigating fierce internal battles, shifting demographic boundaries, and a newly redrawn electoral map that could redefine Florida politics for years to come.
   </p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -36,7 +36,7 @@ source_url: 'https://www.npr.org/2026/08/17/nx-s1-5928263/cialis-viagra-tadalafi
 <h2 id="the-longevity-buzz">The Longevity Buzz Around Tadalafil</h2>
 <p>Tadalafil—better known by its brand name Cialis—belongs to a class of medications called phosphodiesterase-5 (PDE-5) inhibitors. Originally developed to help relax smooth muscle cells and dilate blood vessels, these drugs were famously discovered when early clinical trials for chest pain revealed a distinct, highly marketable side effect.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 CeraVe Skin Renewing Night Cream 
 </a></p>
 

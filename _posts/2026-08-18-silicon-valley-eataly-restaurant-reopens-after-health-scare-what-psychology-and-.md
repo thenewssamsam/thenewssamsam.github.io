@@ -35,7 +35,7 @@ source_url: 'https://www.sfgate.com/food/article/eataly-health-inspection-223903
   
   <p>According to the official inspection report, the inspector discovered a live cockroach crawling on the wall above a kitchen hand-wash sink. Because vermin present an immediate contamination risk, health authorities ordered the restaurant to close its doors on the spot.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

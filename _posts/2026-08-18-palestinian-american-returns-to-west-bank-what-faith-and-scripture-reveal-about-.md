@@ -61,7 +61,7 @@ source_url: 'https://apnews.com/article/israel-west-bank-palestinian-american-is
 <p>For more than a week, live security camera feeds from an occupied West Bank village played out like a slow-motion nightmare on a screen thousands of miles away in Ohio. Loui Ridi watched helplessly as groups of Israeli settlers surrounded his family's property in Qusra, blocking exits and intimidating residents. Knowing he could no longer sit idly by while his property and family came under threat, Ridi packed a bag, boarded a flight, and returned.</p>
 <p>According to Associated Press reporting, Ridi landed in Israel and made his way to Qusra, where his brother and teenage son had been holding down the fort inside the besieged home. Despite the Israeli military declaring the neighborhood a closed military zone, video footage showed settlers continuing to roam freely, interacting with soldiers while local Palestinian families remained effectively trapped. Ridi’s journey underscores a tense reality: ordinary people caught in escalating territorial friction, trying simply to protect the roof over their heads.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

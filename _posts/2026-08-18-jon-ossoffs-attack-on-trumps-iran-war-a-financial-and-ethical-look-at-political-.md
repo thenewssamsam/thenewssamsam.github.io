@@ -36,7 +36,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/17/jon-ossoff-trump-ir
     
     <p>The speech touched on several explosive allegations, including presidential stock trades around tariff announcements, the monetization of early-access policy statements on Truth Social, and the deeper mechanics of a "coin-operated" political system. As speculation mounts that Ossoff is using these high-profile national critiques to lay the groundwork for a 2028 presidential bid, his remarks offer a stark lens through which to examine the intersection of foreign policy, executive power, and personal wealth.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

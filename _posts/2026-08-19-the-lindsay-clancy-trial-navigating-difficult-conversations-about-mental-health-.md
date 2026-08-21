@@ -23,7 +23,7 @@ source_url: "https://turnto10.com/news/local/testimony-in-lindsay-clancy-murder-
     <h2>Understanding the Current Proceedings</h2>
     <p>The trial centers on the 2023 tragedy in which Lindsay Clancy killed her children using exercise bands. Defense attorneys are currently presenting testimony from psychologists to argue that Clancy was suffering from severe mental health struggles, which they contend rendered her not criminally responsible. Recent court sessions included graphic testimony from medical experts regarding the mechanics of the incident, leading to intense moments in the courtroom as the jury processes the evidence.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -33,7 +33,7 @@ Tactical Waterproof Backpack
     <h2>Navigating Heavy News as a Family</h2>
     <p>When news of such magnitude breaks, children—especially teens and pre-teens—often pick up fragments of information from social media or peer discussions. As parents, the goal is to provide a safe space for them to process their confusion without exposing them to unnecessary trauma.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -50,7 +50,7 @@ Tactical Waterproof Backpack
 
     <p>It is important to emphasize that mental health treatment is a medical necessity, much like physical healthcare. Using this story as a springboard to talk about the importance of checking in on friends and family can turn a dark news cycle into a moment of positive connection.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -60,7 +60,7 @@ Tactical Waterproof Backpack
     <h2>A Moment of Reflection</h2>
     <p>In moments of deep sorrow and confusion, we are reminded of the fragility of human life and the weight of the burdens some carry in silence. As we witness the pain unfolding in this trial, it invites us to consider the call to be our brother's keeper, offering support and grace to those struggling with invisible battles. The Apostle Paul writes in <strong>Galatians 6:2</strong>, "Carry each other’s burdens, and in this way you will fulfill the law of Christ." This teaches us that we are not meant to navigate life's darkest seasons in isolation. Furthermore, <strong>Psalm 34:18</strong> reminds us, "The Lord is close to the brokenhearted and saves those who are crushed in spirit." These verses encourage us to approach others with empathy, recognizing that mental health is a journey that often requires the strength of a community to endure.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

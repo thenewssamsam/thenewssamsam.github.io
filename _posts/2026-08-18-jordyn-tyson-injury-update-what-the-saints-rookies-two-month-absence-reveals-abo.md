@@ -40,7 +40,7 @@ source_url: 'https://www.nfl.com/news/saints-rookie-wr-jordyn-tyson-hamstring-ex
   <h2 id="what-happened">What Happened in New Orleans</h2>
   <p>According to NFL Network Insiders Mike Garafolo and Ian Rapoport, Jordyn Tyson suffered a hamstring injury during practice last week. Before arriving at Monday's prognosis, the rookie sought multiple medical opinions to ensure the diagnosis was accurate. Head coach Kellen Moore confirmed that the issue is entirely separate from the hamstring ailments that affected Tyson back in the spring.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -23,13 +23,13 @@ source_url: "https://www.azfamily.com/2026/08/18/lake-powell-lake-mead-hit-recor
     <h2>The Current Situation: A Basin in Transition</h2>
     <p>The two largest reservoirs in the United States, Lake Powell and Lake Mead, are at their lowest points in recorded history. This decline is the culmination of three decades of drought, increased demand, and the shifting patterns of climate change. For those living in Arizona, Nevada, and California, these lakes are the primary source of both water and hydroelectric power.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Lake Powell has dropped over 20 feet since the beginning of 2026, nearing a critical threshold where its turbines may stop producing power. Lake Mead, downstream, is facing similar pressures. While experts like Sarah Porter of the Kyl Center for Water Policy note that cities have been planning for this for years, the reality of rising water rates and grid instability is becoming impossible to ignore.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -39,7 +39,7 @@ Seagate Portable External Hard Drive
     <h2>Talking to Your Kids About Water Scarcity</h2>
     <p>When major environmental news hits, children often sense the underlying tension. Depending on their age, they may feel anxiety about "running out" of water. Our role as parents is to pivot from fear to action.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -51,7 +51,7 @@ Seagate Portable External Hard Drive
     <h3>For Young Children (Ages 4-8)</h3>
     <p>Keep it simple. Focus on the concept of a "shared bucket." Explain that we all drink from the same giant bucket, and when there is less rain, we just have to be more careful about how we use what is inside. Make it a game: "Can we be water detectives today and find one place where we are wasting water?"</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -59,7 +59,7 @@ Tactical Waterproof Backpack
     <h3>For Teens (Ages 13+)</h3>
     <p>Teens are ready for the bigger picture. Discuss the relationship between water and energy. Explain that the water in these lakes powers our lights and air conditioning. This connects the "water crisis" to their daily lives, moving the conversation from a distant environmental issue to a tangible reality of how their home operates.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -69,13 +69,13 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Stewardship</h2>
     <p>This situation invites us to consider our role as caretakers of the earth. We are reminded that every resource we enjoy is a gift, and with that gift comes a responsibility to manage it with wisdom and gratitude. As it says in <strong>1 Corinthians 4:2</strong>, "Now it is required that those who have been given a trust must prove faithful."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>This verse reminds me that our water supply is a trust. When we teach our children to turn off the faucet while brushing their teeth or to be mindful of their consumption, we are not just saving pennies on a water bill—we are instilling a spirit of faithfulness. We are choosing to honor the resources God has provided rather than taking them for granted. It is a humble reminder that even in the midst of a drought, we are called to be people of hope and careful action.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

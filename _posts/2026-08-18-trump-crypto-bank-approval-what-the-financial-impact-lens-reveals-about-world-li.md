@@ -26,7 +26,7 @@ source_url: 'https://www.cnn.com/2026/08/17/investing/trump-crypto-bank-world-li
 
   <p>To understand why this regulatory green light matters, we need to look past the political noise and examine the cold, hard financial mechanics of what a trust bank charter actually changes for World Liberty, its stablecoin, and the broader financial ecosystem.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

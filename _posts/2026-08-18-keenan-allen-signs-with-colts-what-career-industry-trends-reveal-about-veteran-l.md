@@ -26,7 +26,7 @@ source_url: ''
 
 <p>This move isn't merely about filling a roster spot left by roster adjustments or covering for injuries; it is a fascinating case study in how veteran capital, specialized route-running intelligence, and pre-existing institutional trust can extend a professional career far past its expected expiration date.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 KEOFID Classic Backpack 
 </a></p>
 

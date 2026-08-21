@@ -36,7 +36,7 @@ source_url: "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-
     <p>United States President Donald Trump has seen his approval rating slide to 33 percent—matching the lowest point of his entire political career, according to a newly released Reuters/Ipsos poll. Conducted over four days, the survey reveals that an overwhelming 64 percent of Americans disapprove of his job performance, driven largely by public anxiety over the ongoing US-Israel war on Iran and its heavy economic toll.</p>
     <p>The conflict, which began in February with promises of a swift resolution to prevent Iran from developing a nuclear weapon, has instead settled into a resilient stalemate. While the administration initially framed the intervention as a short-term necessity, consumers nationwide are feeling the pinch at the pump. According to the American Automobile Association (AAA), gasoline prices are up nearly a third compared to this time last year. Even within his core political base—including self-identified Make America Great Again (MAGA) voters—polling indicates that only about a third believe the economic sacrifices of the war are worth the cost.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

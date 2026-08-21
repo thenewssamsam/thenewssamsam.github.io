@@ -37,7 +37,7 @@ source_url: 'https://www.dw.com/en/russia-prison-for-opposition-leader-over-war-
     <p>On Monday, in a regional court in Pskov, Lev Shlosberg learned his fate. A senior figure in Russia's liberal opposition party Yabloko, Shlosberg was convicted of "public actions aimed at discrediting the use of the Armed Forces of the Russian Federation." The penalty was steep: 11 years and 1 month in a penal colony.</p>
     <p>Shlosberg’s crime was simple in the eyes of the state, yet profound in its defiance. He had publicly described the ongoing war in Ukraine as a catastrophe and a "bloody game of chess," later reposting his remarks on Telegram. Days before his sentencing, Russia’s Supreme Court upheld a ban on Yabloko—the country's last registered political party calling for an end to the invasion—effectively locking them out of upcoming parliamentary elections.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

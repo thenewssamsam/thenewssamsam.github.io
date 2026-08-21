@@ -35,7 +35,7 @@ source_url: 'https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-unde
 
 <p>As commercial shipping lanes through the Persian Gulf once again became flashpoints and renewed strikes flared along Iranian coastal facilities and regional US assets, the collapse offers a stark reminder of how fragile high-level diplomatic paper agreements can be when fundamental terms are left undefined. To understand why this agreement disintegrated so rapidly, we have to look past the immediate political fallout and examine how similar diplomatic architecture has fared throughout modern history.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

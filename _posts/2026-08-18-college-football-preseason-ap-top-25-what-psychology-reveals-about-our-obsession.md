@@ -25,7 +25,7 @@ source_url: 'https://www.cbssports.com/college-football/news/top-25-preseason-ra
   <p>CBS Sports recently outlined projections for the upcoming 2026 AP Top 25 preseason poll, highlighting a distinct shift toward Big Ten and SEC heavyweights controlling the top of the board. Programs like Ohio State, anchored by returning star power under center, project to claim the top spot. Meanwhile, traditional contenders like Oregon, Texas, Indiana, and Notre Dame round out a crowded and heavily debated top five.</p>
   <p>Unlike the College Playoff selection committee's eventual bracket, the AP Top 25 poll carries nearly a century of historical weight, dating back to 1936. Yet, preseason ballots are uniquely speculative. Writers and voters are forced to rank teams not on what they have accomplished on the field in 2026, but on residual impressions from the previous winter, roster turnover, transfer portal additions, and sheer narrative momentum.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

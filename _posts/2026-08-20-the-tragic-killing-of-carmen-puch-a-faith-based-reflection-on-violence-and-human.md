@@ -26,13 +26,13 @@ source_url: 'https://abcnews.com/US/woman-found-stabbed-death-parking-area-virgi
         <h2 style="color: #2c3e50;">The Facts of a Senseless Tragedy</h2>
         <p>According to Fairfax County Police, Carmen Puch, described as a "loving mother" to a 3-year-old daughter, was murdered early Monday near Difficult Run Park. The suspect, 19-year-old Alexis Antonio Cedillos-Campos, was a coworker with whom Puch was reportedly in an intimate relationship. Authorities describe a chilling level of premeditation: police allege the suspect armed himself with a knife, gloves, and gasoline, intending to take her life.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
         <p>While the investigation into the specific motives behind this act continues, the violence inflicted upon Puch was described by Chief Kevin Davis as "reprehensible." The suspect has been taken into custody in Maryland and is reportedly cooperating with investigators. This event is not merely a police report; it is a profound human tragedy that leaves a young child without her mother and a community grappling with the reality of evil in their midst.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -41,7 +41,7 @@ Seagate Portable External Hard Drive
     <div style="border-left: 5px solid #d4af37; background-color: #fffaf0; padding: 15px; margin: 20px 0;">
         <p><em>"Every life is a gift from God, and the destruction of that gift is a wound not just to the victim, but to the fabric of our humanity."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -51,19 +51,19 @@ Seagate Portable External Hard Drive
         <h2 style="color: #2c3e50;">A Perspective on the Sanctity of Life</h2>
         <p>When we encounter such egregious acts of violence, our hearts naturally cry out for justice. From a biblical perspective, we are reminded that every human being is created in the image of God (Genesis 1:27). This fundamental truth serves as the basis for the inherent dignity of all people. When that image is violated through murder, it is a defiance of the divine order.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
         <p>I am reminded of the words of the Apostle John in 1 John 3:15: <em>"Anyone who hates a brother or sister is a murderer, and you know that no murderer has eternal life residing in him."</em> This verse invites us to consider the roots of such violence—the unchecked anger, the betrayal of trust, and the dehumanization that can escalate into physical destruction. It forces us to examine our own hearts and the importance of fostering relationships built on respect and truth rather than manipulation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
         <p>Furthermore, Proverbs 24:11-12 instructs us: <em>"Rescue those being led away to death; hold back those staggering toward slaughter."</em> While we cannot always intervene in the hidden, premeditated actions of others, this scripture challenges us to be a people who value life and work toward the protection of the vulnerable. It calls us to be vigilant in our communities, not out of fear, but out of a genuine love for our neighbors.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -73,13 +73,13 @@ Seagate Portable External Hard Drive
         <h2 style="color: #2c3e50;">How Should We Respond?</h2>
         <p>In the wake of this tragedy, how can we as individuals move forward with purpose? First, we must offer our prayers for the family of Carmen Puch, especially her young daughter who now faces a future without her mother. Second, we are called to prioritize healthy, transparent relationships in our own lives, recognizing the warning signs when someone’s behavior shifts from affection to control or malice.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
         <p>If you or someone you know is in an intimate relationship that feels unsafe or controlling, do not wait for the situation to escalate. Reach out to local resources, trusted family members, or community support groups. Protecting life is a communal responsibility, and speaking up can be a life-saving action.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -88,7 +88,7 @@ Seagate Portable External Hard Drive
     <div style="border: 1px solid #ddd; padding: 15px; background: #f9f9f9; margin: 20px 0;">
         <p><strong>Recommended Resource:</strong> <a href="#">Safety Planning Guide for Domestic Situations</a> -  (Free Resource)</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

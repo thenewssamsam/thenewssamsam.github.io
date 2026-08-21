@@ -50,7 +50,7 @@ source_url: "https://www.psu.edu/news/campus-life/story/penn-state-responds-seri
 <p>According to the official announcement by Pennsylvania Attorney General Dave Sunday, 14 individuals face serious criminal charges following an investigation into a narcotics operation spanning 2023 and 2024. The alleged criminal activity was tied to two off-campus Greek organizations: Delta Upsilon and Sigma Chi.</p>
 <p>In response, Penn State Vice President for Student Affairs Andrea Dowhower expressed deep dismay, stating that criminal activity and hazing have no place at the institution. The university immediately placed Delta Upsilon on interim suspension pending an internal investigation by the Office of Student Accountability and Conflict Response. Sigma Chi, operating as an unrecognized entity outside university support and oversight, faces separate scrutiny. Alongside legal proceedings, university officials are accelerating anti-hazing and health-and-safety education programs as a new semester begins.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -60,13 +60,13 @@ Seagate Portable External Hard Drive
 <h2>The Psychology of Greek Life: Groupthink and Normalization of Deviance</h2>
 <p>When high-profile scandals hit campus organizations, observers often ask a bewildered question: How could smart, capable university students participate in illegal drug networks and dangerous hazing? From a psychological perspective, these behaviors are rarely the result of sudden, malicious intent. Instead, they reflect powerful social mechanisms like groupthink, diffusion of responsibility, and the gradual normalization of deviance.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 <p>Groupthink occurs when the desire for harmony and conformity within a tight-knit group results in an irrational or dysfunctional decision-making outcome. In insular environments like collegiate fraternities, social cohesion often trumps critical thinking. Dissenting voices are quieted or ostracized, while risk-taking behaviors become normalized through peer validation. Over time, actions that an individual would find unthinkable on their own become standard practice simply because "everyone else is doing it."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -77,7 +77,7 @@ Seagate Portable External Hard Drive
 
 <p>Furthermore, diffusion of responsibility plays a critical role. When illegal or harmful acts are shared among a collective, individual accountability feels diluted. Students convince themselves that if leadership or older peers condone the behavior, it must be acceptable, effectively transferring their internal moral compass to the collective identity of the organization.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -87,13 +87,13 @@ Tactical Waterproof Backpack
 <h2>Wisdom, Conscience, and Human Vulnerability</h2>
 <p>This situation invites a deeper reflection on human nature and the quiet compromises that precede moral failure. Throughout history, thoughtful observers have noted how easily people surrender their personal integrity to fit into powerful social structures. Proverbs 13:20 reminds us, "Walk with the wise and become wise, for a companion of fools suffers harm." </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 <p>When young adults enter environments driven by status, peer pressure, and exclusivity, the temptation to abandon discernment in pursuit of belonging can be overwhelming. True character is often tested not in moments of grand solitude, but in the subtle, daily choice of whom we choose to follow and what lines we refuse to cross for the sake of acceptance.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -103,7 +103,7 @@ Seagate Portable External Hard Drive
 <h2>How Should Readers and Campuses Respond?</h2>
 <p>Scandals like the one unfolding at Penn State demand more than temporary administrative crackdowns; they require a cultural shift in how university communities approach accountability:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -121,7 +121,7 @@ Tactical Waterproof Backpack
 <summary>What specific organizations are involved in the Penn State charges?</summary>
 <p>The Pennsylvania Attorney General announced charges against 14 individuals linked to criminal narcotics operations involving two off-campus Greek organizations: Delta Upsilon and Sigma Chi.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -130,7 +130,7 @@ Tactical Waterproof Backpack
 <summary>What is Penn State's official administrative response?</summary>
 <p>Penn State placed Delta Upsilon on interim suspension pending a full university investigation. Sigma Chi operates as an unrecognized organization outside university oversight, while current students involved face individual disciplinary hearings.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -139,7 +139,7 @@ Seagate Portable External Hard Drive
 <summary>How does the university handle criminal charges against students?</summary>
 <p>The Office of Student Accountability and Conflict Response initiates independent university investigations, holding students and organizations accountable through disciplinary processes that can include permanent separation from the institution.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

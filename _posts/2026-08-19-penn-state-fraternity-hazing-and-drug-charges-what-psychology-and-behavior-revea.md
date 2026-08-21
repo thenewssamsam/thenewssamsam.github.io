@@ -127,7 +127,7 @@ source_url: "https://www.post-gazette.com/news/education/2026/08/17/drug-hazing-
 
 <p>According to reports from the Pittsburgh Post-Gazette, the new academic year is opening under a cloud of legal scrutiny as law enforcement and university officials address multiple drug and hazing accusations tied to campus fraternities. While investigations remain active and specific legal proceedings unfold, the core allegations point to systemic issues within specific student chapters. These incidents underscore the persistent challenge universities face in regulating underground social behaviors that thrive away from the immediate gaze of faculty and administrators.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

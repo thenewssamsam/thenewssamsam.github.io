@@ -146,7 +146,7 @@ source_url: ''
 <h2 id="what-happened">What Happened: The Multi-Billion Dollar Deal</h2>
 <p>Back in May, OpenRouter CEO Alex Atallah casually described his company as "the Stripe for AI." Just months later, reports from Bloomberg and Axios indicate that Stripe decided he was right—to the tune of billions of dollars. Stripe has reportedly agreed to acquire OpenRouter for  billion, with some reports pegging the potential price closer to  billion.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

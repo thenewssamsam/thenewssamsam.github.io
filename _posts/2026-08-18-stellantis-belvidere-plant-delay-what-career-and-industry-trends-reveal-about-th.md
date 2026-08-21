@@ -36,7 +36,7 @@ source_url: 'https://www.caranddriver.com/news/a73453603/stellantis-jeep-cheroke
     <p>Automotive enthusiasts and industry watchers tracking the fate of the historic Belvidere Assembly Plant received a mix of caution and commitment from Stellantis. Originally idled indefinitely in February 2023—a move that shifted fifth-generation Jeep Cherokee production down to Toluca, Mexico—the Illinois facility was promised a second life in October 2025 with an announced 2027 restart.</p>
     <p>Now, that timeline has shifted. Stellantis announced that pilot production for the next-generation Cherokee will begin in the first half of 2028, with retail units targeted for the second half of 2029. Crucially, however, the delay is accompanied by an upgraded financial commitment: total retooling investments have jumped from  million to  million. The company reports it has already poured over  million into foundational prep work covering body, paint, stamping, and assembly shops since October, with plans to support all powertrain variants across two shifts once fully operational.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

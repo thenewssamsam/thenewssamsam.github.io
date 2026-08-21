@@ -21,7 +21,7 @@ source_url: 'https://www.foxnews.com/media/former-abc-news-correspondent-admits-
 
   <p>Yet beyond the immediate media-industry posturing lies a quieter, more universal human dynamic. Why do intelligent, dedicated professionals in elite newsrooms, corporate boardrooms, and academic institutions often find themselves completely blindsided by major cultural shifts? The answer isn't necessarily malicious intent; rather, it is a well-documented psychological phenomenon that affects every group of human beings who work too closely together for too long.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

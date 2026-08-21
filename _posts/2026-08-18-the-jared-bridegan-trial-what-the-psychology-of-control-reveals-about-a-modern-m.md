@@ -43,7 +43,7 @@ source_url: 'https://apnews.com/article/microsoft-manager-murder-trial-florida-e
 
 <p>Four years later, the legal reckoning has finally arrived in a Duval County courtroom. Mario Fernandez Saldana, Gardner's current husband, stands trial for first-degree murder and solicitation of murder, accused of hiring a gunman to carry out the killing. Gardner faces her own trial later this year. As prosecutors lay out their case—pointing to a discarded tire, matching DNA, and a mysterious ,000 payment—observers across the country are left grappling with a chilling question: How does ordinary domestic bitterness curdle into cold-blooded conspiracy?</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

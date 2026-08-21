@@ -25,7 +25,7 @@ source_url: 'https://www.wbur.org/news/2026/08/17/prosecution-rests-murder-trial
     <h2>The Facts of the Case</h2>
     <p>Lindsay Clancy faces three counts of first-degree murder. The prosecution’s case, which spanned 14 days, centered on the argument that Clancy’s actions were a deliberate choice to end her children’s lives before attempting suicide. Testimony included digital forensic evidence, 911 recordings, and harrowing accounts from the children's father, Patrick Clancy.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -38,7 +38,7 @@ source_url: "https://www.nbcboston.com/news/local/lindsay-clancy-trial-day-15-li
 <p>On Tuesday, August 18, 2026, the Lindsay Clancy trial entered its fifteenth day of proceedings in Massachusetts. Following the prosecution resting its case earlier in the week, the defense continued presenting expert testimony and witness accounts to support their argument that Clancy was in the grip of severe bipolar disorder and postpartum psychosis when she strangled her three young children—Cora, Dawson, and Callan—on January 24, 2023, before jumping from a second-story window.</p>
 <p>Day 15 featured testimony from a forensic pathologist who presented a physical reconstruction of the Duxbury home, detailing how Clancy was injured during her fall. The jury also heard from a medical doctor who assisted Clancy in contacting her husband from the hospital, as well as testimony from Clancy's former mother-in-law. Notably, proceedings drew intense public scrutiny following a contentious prosecutor's question regarding a "mortal sin" directed at a witness, which was swiftly struck from the record by the judge. As defense experts unpack complex psychiatric layers, the trial continues to illuminate the profound intersection of severe mental illness and family tragedy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -52,7 +52,7 @@ Seagate Portable External Hard Drive
 <h2>A Parenting &amp; Family Perspective: Seeing Beyond the Surface</h2>
 <p>It is almost impossible for parents to read about the Duxbury tragedy without feeling a deep, chilling sense of sorrow. Modern parenting culture often places an impossible burden on mothers and fathers to project an image of effortless competence. We celebrate the glowing newborn photos while missing the silent, exhausting isolation happening behind closed doors.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -64,7 +64,7 @@ Tactical Waterproof Backpack
 <h3>Recognizing the Invisible Weight of Postpartum Distress</h3>
 <p>Postpartum depression and psychosis are vastly different from ordinary parenting fatigue. While every parent knows exhaustion, clinical conditions involving psychosis feature profound detachment from reality, severe insomnia, intrusive thoughts, and overwhelming terror that can paralyze rational thought. When friends, family members, and colleagues take the stand to testify about a mother's loving nature prior to a sudden psychiatric collapse, it reminds us how deeply invisible mental health struggles can remain until a crisis erupts.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -81,7 +81,7 @@ Tactical Waterproof Backpack
   <li><strong>For partners:</strong> Actively monitor emotional well-being, share night-time caregiving duties, and normalize asking for professional help early.</li>
 </ul></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -95,13 +95,13 @@ Tactical Waterproof Backpack
 <h2>Finding Compassion and Grace in Broken Places</h2>
 <p>Situations of immense brokenness often leave us searching for spiritual grounding. When human systems fail and earthly trials lay bare our deepest vulnerabilities, scripture reminds us of the tender mercy extended to the weary and heavy-laden.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 <p>This situation reminds me of how easily human judgment rushes in where gentle compassion is needed. Psalm 34:18 tells us, <em>"The Lord is close to the brokenhearted and saves those who are crushed in spirit."</em> It is a humbling reminder that God sees the secret torments and invisible battles that no courtroom witness can fully articulate.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -112,7 +112,7 @@ Seagate Portable External Hard Drive
 
 <p>Furthermore, I am reminded of the counsel in Galatians 6:2: <em>"Carry each other’s burdens, and in this way you will fulfill the law of Christ."</em> True community support means stepping in before a crisis hits, offering practical help to new parents without waiting for them to ask.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -126,7 +126,7 @@ Tactical Waterproof Backpack
 <h2>How Should Readers Respond?</h2>
 <p>We cannot change the tragic events of Duxbury, but we can honor the lives lost by transforming how we approach family support and mental health:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -149,7 +149,7 @@ Tactical Waterproof Backpack
 <h2>One Last Thought</h2>
 <p>Trials like the one unfolding in Massachusetts lay bare the terrifying fragility of the human mind under extreme stress. While legal arguments debate responsibility in a courtroom, the rest of us are called to foster communities marked by radical vigilance, non-judgmental listening, and profound grace for those walking through the darkest seasons of family life. No parent should ever have to suffer in silence.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

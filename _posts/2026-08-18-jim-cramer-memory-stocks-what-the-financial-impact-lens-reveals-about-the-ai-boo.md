@@ -36,7 +36,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/cramer-buy-soaring-memory-stocks.ht
 <p>When a stock doubles, triples, or in rare cases quadruples in a matter of months, most investors instinctively pull back. They worry they have missed the boat, arriving just in time to catch the inevitable drop. But CNBC host Jim Cramer argues that the artificial intelligence boom has fundamentally rewritten the rules for semiconductor memory manufacturers—and that the massive rallies in companies like Sandisk, Seagate, Micron, and Western Digital may still have room to run.</p>
 <p>For everyday investors watching the AI infrastructure trade evolve, the question is no longer just whether these companies are overvalued. It is whether traditional market cycles still apply when the underlying demand driver is an unprecedented global race for data center capacity.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

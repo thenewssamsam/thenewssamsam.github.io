@@ -34,7 +34,7 @@ source_url: 'https://www.cnn.com/2026/08/19/politics/kennedy-center-trump-name-s
 
 <p>The controversy centers on the board's decision to close the arts venue for a multi-year renovation and to re-add an inscription reading "Restored and Renovated by President Donald J. Trump" beneath the main sign. This follows an earlier legal challenge brought by Democratic Rep. Joyce Beatty, which led U.S. District Judge Christopher Cooper to rule that the facility could legally be dedicated only to the 35th president, John F. Kennedy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -45,7 +45,7 @@ Tactical Waterproof Backpack
 
 <p>Despite the previous judicial setback, the board voted once more to proceed with the inscription, alongside plans to rename the physical grounds and potentially add further recognitions should an endowment reach  million. Meanwhile, white tarps remain draped over the facade, sparking skepticism from critics who argue the scaffolding serves more to defy the court than to repair overhead soffits. As legal briefs fly and judges weigh the bounds of executive authority over national memorials, the public watches a very modern drama unfold about who gets to write history.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -54,7 +54,7 @@ Tactical Waterproof Backpack
 
 <p>Whenever public figures strive to etch their names into monumental architecture, Scripture invites us to reflect on the nature of human achievement. Long before modern political disputes, humanity possessed an instinct to build towers and monuments to immortalize our own strength. The Book of Proverbs offers a timeless caution regarding the human heart:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -63,7 +63,7 @@ Seagate Portable External Hard Drive
 
 <p>This verse does not suggest that all restoration work or historical acknowledgment is inherently sinful; rather, it speaks to the spiritual danger of anchoring our identity entirely in temporal praise. When leaders focus heavily on personal legacy, they often risk stepping into the trap of self-exaltation. Scripture gently reminds us that human monuments are fleeting:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -72,7 +72,7 @@ Tactical Waterproof Backpack
 
 <p>Whether applied to wealth, political influence, or architectural inscriptions, earthly memorials eventually weather away. The unfolding debate at the Kennedy Center is a vivid reminder of how fragile human prestige truly is.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -81,14 +81,14 @@ Seagate Portable External Hard Drive
 
 <p>It is easy for observers to look at political tussles in Washington and shake their heads at the vanity involved. However, the temptation to seek validation through visible markers of success is universal. We all desire to be remembered, to matter, and to leave proof that our lives made a difference.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Yet, viewing these events through a spiritual lens helps recalibrate our priorities. True significance is not found in whether a name appears on a marble facade or a bronze plaque, but in character, integrity, and quiet acts of service that require no public applause. When cultural institutions become battlegrounds for personal prestige, the noise often drowns out the very purpose those spaces were designed to serve—in this case, the celebration of the arts.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -97,7 +97,7 @@ Seagate Portable External Hard Drive
 
 <p>As believers observe these ongoing cultural and political disputes, our reaction should be marked by discernment rather than partisan outrage:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

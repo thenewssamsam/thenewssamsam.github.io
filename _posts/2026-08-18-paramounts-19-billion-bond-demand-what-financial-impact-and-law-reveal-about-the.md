@@ -37,7 +37,7 @@ source_url: 'https://www.cnn.com/2026/08/17/media/paramount-wbd-bond-state-attor
     <p>Corporate mergers rarely move in a straight line, but the high-stakes legal battle over the planned combination of Paramount and Warner Bros. Discovery (WBD) has taken an extraordinary turn. Paramount has officially asked a federal court to require a staggering  billion bond from a coalition of state attorneys general and the Writers Guild of America who are suing to block the transaction.</p>
     <p>The state plaintiffs, led by California Attorney General Rob Bonta, have scoffed at the motion, characterizing it as heavy-handed desperation. Yet beneath the sharp rhetoric lies a hard truth about modern corporate finance: time is money, and in major media acquisitions, delayed timelines carry a multi-million-dollar price tag every single day.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

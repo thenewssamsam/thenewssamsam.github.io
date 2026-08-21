@@ -19,7 +19,7 @@ source_url: 'https://apnews.com/article/europe-wildfires-belgium-66c6fb6801f5574
 
   <p>As historic heat waves sweep across the continent, major wildfires are tearing through nature reserves in Belgium, claiming lives on a Greek island near Athens, and forcing hundreds of thousands from their homes from France to the UK. While emergency crews battle the physical flames, a parallel crisis unfolds inside the human mind: the struggle to process escalating environmental threats in real time.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

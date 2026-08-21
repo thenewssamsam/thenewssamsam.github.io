@@ -38,7 +38,7 @@ source_url: "https://www.axios.com/2026/08/17/trump-big-bend-border-wall-constru
 <h2 id="what-happened">What Happened at Big Bend National Park?</h2>
 <p>According to reports from Axios and announcements shared by officials on Monday, the Trump administration has temporarily halted all border wall construction activity within Big Bend National Park. The pause was instituted by CBP Commissioner Rodney Scott ahead of a planned personal visit to evaluate the site firsthand, listen to local law enforcement, and engage with regional stakeholders. Scott noted in a video update posted to social media that more information will follow later this week.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

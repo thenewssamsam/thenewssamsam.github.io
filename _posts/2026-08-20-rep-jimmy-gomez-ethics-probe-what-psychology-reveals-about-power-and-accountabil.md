@@ -33,7 +33,7 @@ source_url: 'https://www.cnn.com/2026/08/19/politics/jimmy-gomez-house-ethics-se
 
     <p>House Democratic leadership—including Reps. Hakeem Jeffries, Katherine Clark, and Pete Aguilar—issued a joint statement calling the allegations serious and disturbing while encouraging a swift, thorough investigation. The ethics panel has emphasized that opening an inquiry does not automatically indicate a rule violation has occurred, as the investigation remains ongoing.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive
     <h2>A Psychology &amp; Behavior Perspective: The Blind Spots of Power</h2>
     <p>When high-profile figures face sudden reckonings, observers often scratch their heads, wondering how seemingly intelligent individuals could take such profound risks. Behavioral science offers clear, sobering insights into how positions of institutional authority alter perception, decision-making, and self-monitoring.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -51,7 +51,7 @@ Tactical Waterproof Backpack
     <h3 class="ncg-h3">The Asymmetry of Power and Empathy Deficits</h3>
     <p>Decades of psychological research into power dynamics—often summarized through the lens of power dynamics theory—demonstrate that holding authority can subtly erode an individual's capacity to perspective-take. When someone operates in a high-status environment where subordinates defer to them daily, their brain can slowly recalibrate baseline social boundaries. The guardrails that keep ordinary interactions respectful start to blur, replaced by a dangerous sense of invulnerability.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -68,7 +68,7 @@ Tactical Waterproof Backpack
     <h3 class="ncg-h3">Cognitive Dissonance and Rationalization</h3>
     <p>In his initial statement, Representative Gomez defended his actions as personal mistakes that were consensual in nature. From a psychological standpoint, this highlights the mechanism of cognitive dissonance and self-rationalization. When our behavior clashes sharply with our self-image as ethical, good people, the human mind works overtime to reframe the narrative. We rationalize crossing boundaries by convincing ourselves that the other person understood, that the stakes were low, or that the rules were flexible. It takes immense psychological self-awareness to break through those self-deceptions—an awareness that rarely surfaces until external structures, like an ethics committee, force the issue.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -78,14 +78,14 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Truth, Integrity, and Hidden Things</h2>
     <p>When public scandals unfold, they inevitably point back to timeless human truths about the nature of character and accountability. There is a quiet gravity in watching powerful figures grapple with the exposure of actions they hoped would remain hidden in the shadows.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
     
     <p>This situation brings to mind the wisdom found in Scripture regarding the exposure of hidden actions. As the Apostle Luke noted in Luke 12:2-3, <em>"There is nothing concealed that will not be disclosed, or hidden that will not be made known. What you have said in the dark will be heard in the daylight..."</em> This reminder cuts through the polished PR statements and legal defenses that invariably accompany political scandals. It suggests that accountability is not merely an institutional process, but a fundamental law of human existence: truth has a way of pressing toward the light, regardless of how long it takes.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -97,7 +97,7 @@ Seagate Portable External Hard Drive
 
     <p>At the same time, Proverbs 16:18 offers a sobering psychological and spiritual observation: <em>"Pride goes before destruction, a haughty spirit before a fall."</em> Long before behavioral psychologists mapped out the cognitive blind spots of power, ancient writers understood that self-deception and unchecked authority create a slippery slope. For everyday observers, stories like this serve not just as political theater, but as a personal invitation to examine our own integrity in the small, unmonitored corners of our lives.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -107,7 +107,7 @@ Seagate Portable External Hard Drive
     <h2>How Should Readers Respond?</h2>
     <p>It is easy to watch Washington scandals unfold with cynical detachment, treating them like a daily soap opera. However, processing these events constructively requires a different approach:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -129,7 +129,7 @@ Seagate Portable External Hard Drive
       <summary>What triggered the House Ethics Committee investigation into Rep. Jimmy Gomez?</summary>
       <p>The investigation initially began following inquiries into allegations stemming from a New York Post report regarding an aide in 2023. During its look into those claims, the panel uncovered additional allegations of sexual misconduct.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -138,7 +138,7 @@ Seagate Portable External Hard Drive
       <summary>Has Rep. Jimmy Gomez admitted to the allegations?</summary>
       <p>Gomez has acknowledged making personal mistakes outside his marriage but maintained that his actions were consensual and did not violate House ethics rules or the law. However, his accuser's attorneys have explicitly stated that the interaction was not consensual.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -147,7 +147,7 @@ Seagate Portable External Hard Drive
       <summary>Does an ethics probe mean a lawmaker is guilty?</summary>
       <p>No. The House Ethics Committee has explicitly stated that the public disclosure and existence of an investigation do not automatically indicate that any rules violation has occurred.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -158,7 +158,7 @@ Seagate Portable External Hard Drive
     <h2>One Last Thought</h2>
     <p>Political scandals come and go with the 24-hour news cycle, but the human realities beneath them linger. Whether we look at these events through the lens of political accountability, psychological defense mechanisms, or timeless moral principles, the core lesson remains constant: true character is measured by how we act when nobody is watching. Transparency and humility are not just political requirements; they are the bedrock of a healthy society.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 

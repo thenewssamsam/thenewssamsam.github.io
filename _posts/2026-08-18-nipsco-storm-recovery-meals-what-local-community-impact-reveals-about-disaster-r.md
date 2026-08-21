@@ -25,7 +25,7 @@ source_url: 'https://wsbt.com/news/local/storm-damage-recovery-cleanup-power-out
 <p>Severe storms recently tore through northwest Indiana, leaving behind a trail of significant property damage, tangled debris, and frustratingly lengthy power outages. For thousands of residents, the immediate aftermath meant spoiled groceries, dark homes, and disrupted daily routines.</p>
 <p>Amid the ongoing cleanup—which even brought the National Guard to places like LaPorte County—utility provider NIPSCO has stepped beyond traditional infrastructure repair. The company is actively coordinating free hot meal distributions across multiple regional hubs, offering both lunch and dinner to community members who need a helping hand while power is restored.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></p>
 

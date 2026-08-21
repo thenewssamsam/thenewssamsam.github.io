@@ -27,7 +27,7 @@ source_url: "https://www.cnn.com/2026/08/18/politics/florida-alaska-wyoming-prim
     <h2>Lessons from Political History</h2>
     <p>History shows us that intra-party feuds often precede major realignments. Just as the Republican Party of the late 19th century navigated the tension between "Stalwarts" and "Half-Breeds," modern parties frequently experience friction when a dominant figure—like DeSantis or Trump—leaves a leadership void or creates conflicting loyalties. This is not necessarily a sign of collapse, but rather a standard, if messy, phase of institutional transition.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -39,7 +39,7 @@ Tactical Waterproof Backpack
     <h3>The "Vacuum" Effect</h3>
     <p>When a powerful executive steps back, the resulting power vacuum inevitably draws in diverse challengers. We saw this in the early 20th century, where localized factions often used anti-establishment rhetoric to challenge the status quo. Today's rise of fringe voices in the Florida GOP is a recurring historical theme: when the primary path is unclear, the most extreme voices often gain the most temporary volume.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -49,13 +49,13 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Order and Stewardship</h2>
     <p>Watching the political maneuvering, I am reminded of the wisdom found in 1 Corinthians 14:33: "For God is not a God of confusion but of peace, as in all the churches of the saints." While this verse is written in the context of community life, it serves as a sobering reminder of the standard we should hold for our public discourse. The chaos of political infighting often prioritizes personal ambition over the common good.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Furthermore, Proverbs 29:2 reminds us: "When the righteous are in authority, the people rejoice; but when the wicked beareth rule, the people mourn." This invites us to consider that our responsibility as citizens goes beyond choosing a side; it involves discerning the character and the fruit of those who seek to lead. History teaches us that platforms change, but the need for integrity remains constant.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

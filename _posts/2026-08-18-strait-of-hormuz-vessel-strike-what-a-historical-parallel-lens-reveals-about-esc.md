@@ -99,7 +99,7 @@ source_url: 'https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-tru
 <h2 id="what-happened">What Happened in the Strait of Hormuz?</h2>
 <p>According to the UK Maritime Trade Operations agency, a cargo vessel transiting the strategically vital Strait of Hormuz suffered significant engine room damage and a crew casualty after being struck by an unknown projectile. The incident marks a dangerous escalation in a region already grappling with severe geopolitical friction.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

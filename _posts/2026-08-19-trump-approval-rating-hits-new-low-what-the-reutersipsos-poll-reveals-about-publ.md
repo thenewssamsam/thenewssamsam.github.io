@@ -152,7 +152,7 @@ source_url: "https://www.usatoday.com/story/news/politics/2026/08/17/president-t
             <p>Times of national anxiety often bring to mind the timeless wisdom found in Scripture. When economic pressures mount and international conflicts feel entirely outside our personal control, it is easy to let worry dictate our daily outlook. One verse that often comes to mind in moments of societal tension is Proverbs 3:5-6, which reminds us: <em>&ldquo;Trust in the Lord with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths.&rdquo;</em></p>
             <p>Similarly, the Apostle Paul offers guidance on guarding our internal peace when external circumstances threaten to overwhelm us: <em>&ldquo;Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God.&rdquo;</em> (Philippians 4:6). These passages invite us to practice good stewardship over our mental and spiritual energy, recognizing that while leaders and policies will fluctuate, our foundational security should rest on something far more enduring than political approval numbers or fluctuating gas prices.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -174,7 +174,7 @@ Tactical Waterproof Backpack
         <div class="ncg-closing">
             <p>Poll numbers and political fortunes rise and fall with the tides of public sentiment and economic reality, but the strength of a community is measured by how its people treat one another during times of strain. As we navigate a turbulent political and economic landscape, maintaining perspective and calm resilience is our best path forward.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

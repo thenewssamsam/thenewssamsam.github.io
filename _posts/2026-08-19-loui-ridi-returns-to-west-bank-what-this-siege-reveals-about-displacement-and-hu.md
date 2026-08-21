@@ -113,14 +113,14 @@ source_url: "https://www.nbcnews.com/world/israel/return-palestinian-american-ho
       <h2>The Reality on the Ground</h2>
       <p>While the broader geopolitical conflict in the Middle East often dominates international broadcasts, stories like Loui Ridi's bring the crisis down to a deeply personal scale. Reports indicate that localized disputes and aggressive actions by settlers have increasingly targeted Palestinian homes in various West Bank villages, trapping residents inside their properties, restricting access to food and medical care, and turning everyday residential streets into zones of high-stakes confrontation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
       <p>For a family with ties to both the United States and the West Bank, the psychological toll is immense. Being thousands of miles away while a sibling is barricaded inside a home under threat creates a unique kind of helplessness—one that ultimately drove Loui to board a trans-global flight simply to stand beside his brother.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -130,7 +130,7 @@ Tactical Waterproof Backpack
       <h2>A Lens of Faith: Home, Justice, and Human Dignity</h2>
       <p>Situations like the siege on the Ridi family home inevitably invite us to look beneath the surface headlines and examine the moral and spiritual fabric of our world. Scripture has a great deal to say about the sanctity of the home, the plight of the displaced, and the fundamental dignity of every human being created in God's image.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -139,7 +139,7 @@ Tactical Waterproof Backpack
         <h3>A Reflection on Justice and Shelter</h3>
         <p><em>"He defends the cause of the fatherless and the widow, and loves the foreigner residing among you, giving them food and clothing."</em> — Deuteronomy 10:18</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -148,7 +148,7 @@ Tactical Waterproof Backpack
 
       <p>Furthermore, Proverbs 21:15 notes: <em>"When justice is done, it brings joy to the righteous but terror to evildoers."</em> True justice is not merely a political abstract; it is measured by whether ordinary people—whether in Ohio, Jerusalem, or a West Bank village—can sleep in their beds without fear of harassment, intimidation, or siege.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -156,7 +156,7 @@ Tactical Waterproof Backpack
       <div class="ncg-quote-box">
         <p>"A home is more than mortar and stone; it is the sanctuary where human dignity takes root. When homes are placed under siege, our shared humanity is tested."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -164,7 +164,7 @@ Tactical Waterproof Backpack
 
       <p>I find myself reflecting on the courage it takes simply to return to a place of danger out of love for family. In many ways, Loui Ridi's journey mirrors a timeless human instinct: stepping into the fire to protect those we love, echoing the sacrificial love that Scripture calls us to demonstrate toward one another.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -174,7 +174,7 @@ Seagate Portable External Hard Drive
       <h2>How Should Christians Respond?</h2>
       <p>When we read about distant conflicts involving blockades, intimidation, and family separation, it can be easy to feel detached or overwhelmed. However, a thoughtful Christian response involves concrete actions rooted in prayer and compassion:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

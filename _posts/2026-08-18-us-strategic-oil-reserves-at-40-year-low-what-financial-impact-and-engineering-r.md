@@ -37,7 +37,7 @@ source_url: 'https://fortune.com/2026/08/17/depleted-us-strategic-oil-reserves-r
     <p>For the first time since the 1980s, the U.S. Strategic Petroleum Reserve (SPR) has plunged below 300 million barrels. Driven by ongoing supply disruptions and surging energy costs tied to the war involving Iran, the federal government is releasing 172 million barrels from the emergency stockpile, pushing projected inventories down to 243 million barrels.</p>
     <p>Stored across 60 deep underground salt caverns in Texas and Louisiana, the reserve has a total design capacity of 714 million barrels. While the Department of Energy (DOE) maintains that the facilities are being responsibly managed as critical national security assets, petroleum engineers and former energy officials are sounding alarms. Beyond the immediate political finger-pointing between administrations over past drawdowns, a more fundamental, physical constraint is coming to light: the very act of draining the caverns may be pushing their geological limits.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

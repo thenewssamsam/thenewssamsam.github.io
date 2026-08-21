@@ -28,7 +28,7 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5936435/mills-elijah-florida-r
     <h2>Integrity as the Foundation of Authority</h2>
     <p>From a biblical perspective, the office of a leader is not merely about achieving policy goals or securing funding for a district; it is a position of stewardship that requires moral clarity. Scripture consistently emphasizes that a leader’s private character must align with their public responsibilities.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -39,7 +39,7 @@ Tactical Waterproof Backpack
 
     <p>When voters express concern over a candidate's "baggage," they are often sensing a breach of this foundational integrity. In the biblical tradition, leaders are held to a higher standard because they act as representatives, not just of their constituents, but of the values they claim to uphold. When those values are compromised by scandal, the trust that is essential for effective governance is irreparably damaged.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -49,13 +49,13 @@ Tactical Waterproof Backpack
     <h2>A Call to Discernment</h2>
     <p>This situation reminds me of the importance of testing the fruits of a leader’s life. Jesus taught us that "by their fruit you will recognize them" (Matthew 7:16). While we often prioritize political alignment, the heart and conduct of a person are the true measures of their fitness to serve. This is a challenging reminder that when we choose leaders, we are not just choosing a platform; we are choosing a character that will influence the moral fabric of our communities.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>It is easy to focus only on the political "win," but the loss of trust is a far greater defeat for any community. We are invited to consider whether we are as diligent in vetting the integrity of our leaders as we are in vetting their voting records.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -74,7 +74,7 @@ Seagate Portable External Hard Drive
     <h2>One Last Thought</h2>
     <p>The defeat of Rep. Cory Mills is a stark reminder that political power is fleeting, but the reputation of one's character is enduring. As we look toward the general election, let this serve as a catalyst for deeper reflection on what we truly value in those who lead us. May we seek leaders whose public promises are matched by their private conduct, ensuring that the trust placed in them is well-founded.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

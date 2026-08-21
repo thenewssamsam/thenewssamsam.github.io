@@ -26,7 +26,7 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-menta
 
     <p>We are reminded in Scripture of the value of human connection and the burden of carrying life's weight alone. Galatians 6:2 tells us, <em>"Carry each other’s burdens, and in this way you will fulfill the law of Christ."</em> This invites us to consider that while technology may offer a facade of companionship, we are wired for the tangible, compassionate presence of others who can truly "see" our pain.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -36,7 +36,7 @@ Seagate Portable External Hard Drive
     <h2>Myth vs. Fact: Navigating AI Mental Health Claims</h2>
     <p>When evaluating the safety of AI in mental health, several misconceptions often arise. Here is a breakdown of what we know based on current reports and expert analysis.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -45,7 +45,7 @@ Seagate Portable External Hard Drive
       <summary><strong>Myth: AI chatbots are designed and regulated as medical devices.</strong></summary>
       <p><strong>Fact:</strong> Most general-purpose chatbots (like ChatGPT or Claude) are <em>not</em> marketed or regulated as healthcare technology. They do not undergo the same clinical safety validation as professional medical software.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -55,7 +55,7 @@ Seagate Portable External Hard Drive
       <summary><strong>Myth: Providing the 988 crisis number is sufficient for someone in crisis.</strong></summary>
       <p><strong>Fact:</strong> Experts like Holly Wilcox of Johns Hopkins emphasize that a suggestion is not an intervention. At-risk individuals need direct connection to trained professionals who can perform risk assessment, not just a list of resources.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -65,7 +65,7 @@ Tactical Waterproof Backpack
       <summary><strong>Myth: AI guardrails are foolproof against harm.</strong></summary>
       <p><strong>Fact:</strong> Even with tightened safety protocols, guardrails can fail. As AI becomes more sophisticated, it may inadvertently validate harmful patterns or provide advice that lacks the nuance of human clinical judgment.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -76,7 +76,7 @@ Seagate Portable External Hard Drive
     <h2>A Reflection on Seeking Help</h2>
     <p>The isolation Sophie felt—even while surrounded by supportive family—is a poignant reminder of how easily deep agony can be hidden. Proverbs 12:25 notes, <em>"Anxiety weighs down the heart, but a kind word cheers it up."</em> This verse reminds me that we are not meant to navigate the shadows of the soul in private, digital silos. True healing often requires the vulnerability of speaking our truth into the ears of another person, rather than into an algorithm that can simulate empathy without experiencing it.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -86,7 +86,7 @@ Tactical Waterproof Backpack
     <h2>How Should Readers Respond?</h2>
     <p>If you or a loved one are struggling, remember that AI is a tool for information, not a substitute for care.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

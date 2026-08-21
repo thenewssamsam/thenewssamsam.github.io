@@ -20,7 +20,7 @@ source_url: 'https://www.cnn.com/2026/08/16/middleeast/trump-south-korea-militar
 
 <p>For observers of international relations, this sudden pivot feels both startling and strangely familiar. It raises an urgent question: how do security alliances weather abrupt policy shifts, and what does history teach us about transactional diplomacy between superpowers and long-standing partners?</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

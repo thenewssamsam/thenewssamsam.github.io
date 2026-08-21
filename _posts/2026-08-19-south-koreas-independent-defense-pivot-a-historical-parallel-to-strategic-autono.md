@@ -27,7 +27,7 @@ source_url: "https://www.nbcnews.com/world/asia/south-korean-president-urges-str
     <h2>Historical Parallels: The Quest for Autonomy</h2>
     <p>Throughout history, nations under the "security umbrella" of a larger superpower have often faced similar crossroads when their protectors pivot toward diplomatic outreach with regional rivals. We can look to two specific historical parallels:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -35,7 +35,7 @@ Tactical Waterproof Backpack
     <h3>1. France and the Force de Frappe (1960s)</h3>
     <p>Under Charles de Gaulle, France grew concerned that the U.S. might not risk nuclear war to defend Europe during the Cold War. France developed its own independent nuclear deterrent—the <em>Force de Frappe</em>—to ensure its security was not entirely contingent on American decision-making. Much like President Lee's current focus on domestic submarine programs, de Gaulle argued that a nation cannot be truly sovereign if it relies entirely on another for its ultimate defense.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -47,7 +47,7 @@ Seagate Portable External Hard Drive
     <h3>2. Post-WWII West Germany</h3>
     <p>Following the war, West Germany had to navigate the tension between being a frontline NATO partner and rebuilding its own autonomous military structure. The lesson here is that military integration and independent capability are not mutually exclusive; rather, they are a delicate dance of political maturity. When South Korea signals its intent to manage its own wartime operational control, it is following a path of gradual maturation seen in other mid-sized powers that transitioned from protected states to active security partners.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -57,13 +57,13 @@ Seagate Portable External Hard Drive
     <h2>A Reflection on Wisdom and Preparation</h2>
     <p>Watching these shifting geopolitical tides, I am reminded of the biblical wisdom regarding preparation and stewardship. In <em>Luke 14:31</em>, Jesus poses a question: "Or what king, going out to encounter another king in war, will not sit down first and deliberate whether he is able with ten thousand to meet him who comes against him with twenty thousand?"</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>This does not necessarily advocate for aggression, but it does advocate for the wisdom of understanding one's own position. Stewardship isn't just about managing resources; it’s about acknowledging the reality of the world we live in. We are called to be wise as serpents and innocent as doves (<em>Matthew 10:16</em>). While we pray for peace and dialogue, the responsible leader—and the responsible citizen—recognizes that preparing for the "worst-case scenario" is a form of protecting the lives and dignity of the people entrusted to their care. It is a reminder that while our ultimate hope is not in military might, we are tasked with the practical work of securing the stability that allows families to thrive.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

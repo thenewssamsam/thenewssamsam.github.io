@@ -44,7 +44,7 @@ Investigators noted that 23-year-old Thomas Robinson was identified as a suspect
 While both men face serious legal scrutiny and have largely declined media comment, the community is left grappling with a painful question: How does a successful, educated parent arrive at the point of allegedly shielding an adult child from felony drug charges?
 </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -54,7 +54,7 @@ Tactical Waterproof Backpack
 From a developmental and family dynamics perspective, this case illustrates an extreme and tragic manifestation of parental rescue syndrome. Parents are biologically and emotionally wired to protect their offspring. From toddlerhood scrapes to teenage driving mistakes, our instinct is to step in, soften the blow, and fix the problem. 
 </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -62,7 +62,7 @@ Tactical Waterproof Backpack
 However, as children transition into young adulthood, the nature of parental support must fundamentally evolve. Supporting an adult child means providing emotional encouragement, financial wisdom, and guidance—while steadfastly refusing to intercept natural, legal, or moral consequences. When parents step in to hide evidence, lie to authorities, or absorb the fallout of serious criminal behavior, they are no longer parenting; they are enabling. Worse, they are communicating to their adult child that the rules of society do not apply to them.
 </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -75,7 +75,7 @@ Seagate Portable External Hard Drive
 Psychologists often point out that when parents shield children from the full weight of their choices, they inadvertently rob them of the vital psychological friction required for genuine maturation. True accountability is painful, but it is also the only reliable catalyst for genuine behavioral change.
 </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -91,7 +91,7 @@ Seagate Portable External Hard Drive
 Incidents like the Penn State drug ring investigation provide difficult but necessary springboards for family conversations. How parents address these headlines depends heavily on the age and maturity of their children:
 </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -111,7 +111,7 @@ Seagate Portable External Hard Drive
 This situation naturally brings to mind timeless warnings about the burdens of misplaced loyalty and the necessity of walking in integrity. One is reminded of Proverbs 13:24, which notes, "Whoever spares the rod hates his son, but he who loves him is diligent to discipline him." In a modern context, discipline and love are not about harshness; they are about allowing our children to experience the rightful consequences of their actions so they might learn wisdom.
 </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -124,7 +124,7 @@ Seagate Portable External Hard Drive
 Furthermore, Galatians 6:5 reminds us that "each will have to bear his own load." When parents attempt to lift the legal and moral burdens earned by their adult children through illicit means, they often fracture their own foundation while failing to truly save their child. Scripture continually invites us to prioritize truth, justice, and righteousness above familial partiality, reminding us that true peace comes from honoring what is right before both God and society.
 </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

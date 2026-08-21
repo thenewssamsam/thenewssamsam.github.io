@@ -125,7 +125,7 @@ source_url: 'https://finance.yahoo.com/technology/ai/articles/amazon-once-online
     <h2 id="what-happened">What Happened</h2>
     <p>The story broke after journalists at 404 Media placed a hidden tracking device inside a rare book, watching as it ultimately made its way to an Amazon facility in Las Vegas designated as VGT3—a building marked with a dinosaur holding a book in its claws. When pressed for comment, Amazon acknowledged in a statement that it purchases books through commercial channels to improve the products and services that customers use.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

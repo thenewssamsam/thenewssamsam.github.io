@@ -34,14 +34,14 @@ source_url: "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-d
 <h2 id="what-happened">What Happened in the 11th-Hour Breakthrough?</h2>
 <p>The sudden diplomatic thaw occurred after weeks of escalating tension and retaliatory measures. Trump had invoked Section 338 of the Tariff Act of 1930, aiming punitive 50 percent duties at Canadian electronics, industrial machinery, dairy, wine, and furniture. In response, eight of Canada’s ten provinces had banned US alcoholic beverage sales, while public sentiment in Canada hardened noticeably against its southern neighbor.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Carney confirmed that while a temporary pause was secured until August 22, substantial work remains. Intriguingly, Trump linked the breakthrough directly to his ambitions to resurrect the Keystone XL Pipeline—a project originally proposed in 2008 and famously halted by the Biden administration in 2021. Analysts noted that tying a stalled energy infrastructure project into an unrelated trade tariff dispute was a masterclass in appealing to personal narrative and legacy, highlighting how psychological motivators often run parallel to hard economic policy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -49,14 +49,14 @@ Tactical Waterproof Backpack
 <h2 id="psychology-perspective">The Psychology of Brinkmanship and Loss Aversion</h2>
 <p>In behavioral psychology, the dance of brinkmanship is driven primarily by two powerful forces: <strong>loss aversion</strong> and the framing effect. Prospect theory, pioneered by Daniel Kahneman and Amos Tversky, demonstrates that human beings feel the pain of a potential loss roughly twice as intensely as the pleasure of an equivalent gain. In trade negotiations, this dynamic is amplified exponentially.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>By threatening a catastrophic 50 percent tariff, one party creates an artificial cliff. For Canadian exporters—who depend on the US market for roughly 70 percent of their outgoing goods—the threat represents an immediate, existential loss. This extreme pressure is intentionally designed to force concessions that might otherwise be politically impossible at home. Prime Minister Carney has had to navigate not only aggressive US tactics but also a domestic public mood that has grown remarkably defiant, with polls showing nearly half of Canadians holding unfavorable views of the US and widespread boycotts of American products.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -71,7 +71,7 @@ Seagate Portable External Hard Drive
 
 <p>Furthermore, international relations experts pointed out the strategic inclusion of the Keystone XL Pipeline. Andreas Schotter, a professor of international business at Ivey Business School, observed that invoking the pipeline pushed classic "ego buttons." In negotiations involving powerful leaders, narrative victories and personal legacy often serve as essential currency. Giving a counterpart a symbolic win allows them to step back from the ledge without experiencing public humiliation, converting a zero-sum standoff into a face-saving compromise.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -83,14 +83,14 @@ Tactical Waterproof Backpack
 <h2 id="scripture-perspective">A Moment for Reflection on Pride and Prudence</h2>
 <p>When nations clash over economic power and matters of pride, it is worth pausing to reflect on timeless human nature. Scriptural wisdom frequently cautions against the dangers of unbridled pride and the quiet destruction born from stubborn disputes. Proverbs 13:10 reminds us, <q>Pride breeds only quarrels, but wisdom is found in those who take advice.</q></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>This dynamic is rarely confined to grand geopolitical stages; it mirrors our own interpersonal conflicts. Whether in corporate boardrooms, community disputes, or family disagreements, the temptation to dig in our heels rather than seek common ground is a universal human failing. Yet the eleventh-hour pause between the US and Canada demonstrates that even amid intense friction, humility and a willingness to step back from ultimatums can preserve peace. Another ancient proverb offers a grounding reality check: <q>Starting a quarrel is like breaching a dam; so drop the matter before a dispute breaks out</q> (Proverbs 17:14). It is a reminder that de-escalation is not a sign of weakness, but an act of profound wisdom.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

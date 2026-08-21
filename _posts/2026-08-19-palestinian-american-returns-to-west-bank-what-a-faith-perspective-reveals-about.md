@@ -64,7 +64,7 @@ For over a week, Loui Ridi watched via home security cameras from Ohio as Israel
 <p>While Ridi's brother and teenage son remained inside the home to hold the ground, Ridi felt he had no choice but to board a flight. As he landed at Israel's main international airport, reports and video footage indicated that settlers were still roaming near Qusra, driving ATVs, and interacting with military personnel—even in areas ostensibly declared closed military zones.</p>
 <p>This tense local confrontation unfolds against a broader backdrop of escalating violence across the occupied West Bank. Health officials report that Israeli soldiers and settlers have killed 87 Palestinians so far this year, while Palestinian attackers have killed three Israelis during the same period. Amid government shifts and emboldened nationalist movements on the ground, ordinary families are finding themselves caught in the middle of a grinding geopolitical conflict.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -72,19 +72,19 @@ Seagate Portable External Hard Drive
 <h2 id="the-human-cost">The Human Cost and the Long-Distance Nightmare</h2>
 <p>It is easy when consuming international news to view conflicts through the lens of abstract statistics, casualty counts, and political maneuvering. But Ridi’s brief statement at the airport strips away the abstraction: <em>“I’ve been watching this live for many days and now this is the second week. I can’t sleep. I can’t let the settlers steal my house while I was watching.”</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 <p>Imagine the surreal helplessness of watching your living room, your driveway, and your family's front door through a smartphone lens thousands of miles away while armed groups encircle the perimeter. It touches on a primal human fear: the threat of losing one's home, the place of safety and heritage, without any meaningful recourse.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 <p>When the Israeli military declared the neighborhood a closed military zone, residents hoped for order and impartiality. Instead, footage showed continued fraternization between armed settlers and soldiers, leaving families like Ridi’s feeling utterly abandoned to a nightmare of bureaucratic walls and physical intimidation. "I should be able to go to my house freely, anytime I want," Ridi noted, capturing the fundamental frustration of having basic human freedom abruptly stripped away.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -92,13 +92,13 @@ Tactical Waterproof Backpack
 <h2 id="a-faith-perspective">A Faith Perspective on Justice, Land, and Neighbor</h2>
 <p>When we bring a biblical worldview to a story like the siege in Qusra, we are immediately confronted by Scripture’s persistent concern for the vulnerable, the displaced, and the pursuit of honest justice.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 <p>Throughout the Hebrew Scriptures and the New Testament, property, home, and inheritance are treated not merely as commodities to be seized by strength, but as God-given provisions meant to be stewarded with integrity. Micah 2:2 offers a stark warning against the abuse of power:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -107,7 +107,7 @@ Tactical Waterproof Backpack
 </blockquote>
 <p>This passage reminds us that the instinct to use leverage, majority status, or physical intimidation to dispossess others of their homes is an ancient evil that grieves the heart of God. Justice in the biblical sense is not about tribal victory; it is about impartial scales and the protection of the defenseless.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -117,7 +117,7 @@ Seagate Portable External Hard Drive
 </blockquote>
 <p>True security in any land will never be achieved by enclosing neighbors, burning fields, or intimidating families into flight. It comes only when human dignity is respected across the dividing lines of nationality and religion.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -131,7 +131,7 @@ Tactical Waterproof Backpack
 <h2 id="how-should-christians-respond">How Should Christians Respond?</h2>
 <p>When distressing international news lands on our screens, it can easily provoke either defensive apathy or partisan anger. But a thoughtful, Christ-centered response requires something deeper:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -152,7 +152,7 @@ Seagate Portable External Hard Drive
 <summary>Who is Loui Ridi?</summary>
 <p>Loui Ridi is a Palestinian American resident of Ohio who co-owns one of the besieged homes in Qusra. After watching the siege unfold live for over a week via his home security cameras, he flew to Israel and traveled to the village to help defend his property alongside his family.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

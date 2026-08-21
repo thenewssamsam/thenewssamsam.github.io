@@ -27,7 +27,7 @@ source_url: "https://www.nbcnews.com/world/asia/south-korean-president-urges-str
     <h2>Myth vs. Fact: Decoding the Headlines</h2>
     <p>In the wake of shifting defense policies, several narratives have emerged. Let’s look at the reality of the situation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -36,7 +36,7 @@ Tactical Waterproof Backpack
       <summary><strong>Myth: South Korean civil defense drills are aggressive maneuvers designed to provoke North Korea.</strong></summary>
       <p><strong>Fact:</strong> According to statements from the Blue House, these exercises are strictly defensive. Their primary purpose is to protect citizens' daily lives and ensure emergency preparedness, not to target any specific party as an enemy or initiate an attack.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -46,7 +46,7 @@ Tactical Waterproof Backpack
       <summary><strong>Myth: Seeking independent defense capabilities signals a breakdown in the U.S.-South Korea alliance.</strong></summary>
       <p><strong>Fact:</strong> President Lee explicitly framed independent defense and the U.S. alliance as "mutually reinforcing." The goal is not to replace the alliance, but to increase South Korea's value as a partner by ensuring it can contribute more effectively to regional security.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -61,13 +61,13 @@ Seagate Portable External Hard Drive
     <h2>A Perspective on Preparedness and Peace</h2>
     <p>In navigating these complex political waters, one is reminded of the biblical principle of wise stewardship. Proverbs 21:31 (ESV) tells us, "The horse is made ready for the day of battle, but the victory belongs to the Lord." This passage invites us to consider that while preparation and diligence in our responsibilities are necessary, our ultimate security rests in a providence higher than human planning.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>Similarly, 1 Peter 3:15 calls us to always be prepared to give an answer for the hope that is within us, yet to do so with gentleness and respect. In the context of international relations, this reflects a balanced approach: being diligent in protecting one's nation while maintaining a posture of peace and openness to dialogue. It reminds us that preparation for the "worst-case scenario" does not have to come at the expense of seeking reconciliation and stability for our neighbors.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

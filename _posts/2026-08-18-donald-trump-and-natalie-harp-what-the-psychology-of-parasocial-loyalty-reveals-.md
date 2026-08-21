@@ -57,7 +57,7 @@ source_url: 'https://www.thedailybeast.com/trump-80-cornered-on-relationship-wit
   
   <p>The controversy broke into the open after Democratic Senate candidate Jon Ossoff publicly questioned President Donald Trump's closeness with Natalie Harp during a weekend rally. Ossoff criticized the administration's priorities, pointing to Harp's frequent presence alongside the 80-year-old president at Camp David, Bedminister, and international trips.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

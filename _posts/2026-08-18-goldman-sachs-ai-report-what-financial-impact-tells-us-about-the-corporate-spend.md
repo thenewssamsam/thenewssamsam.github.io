@@ -37,7 +37,7 @@ source_url: 'https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sa
     <p>The artificial intelligence boom has a quiet problem hidden inside corporate balance sheets: money is moving out faster than profits are moving in.</p>
     <p>According to a report by Seeking Alpha highlighting a fresh analysis from Goldman Sachs, just 2% of S&P 500 companies quantified the concrete financial effects of artificial intelligence in their second-quarter earnings reports. Among that small group, only 11% reported measurable productivity gains—such as faster software coding or more efficient customer support.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

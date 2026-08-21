@@ -24,7 +24,7 @@ source_url: "https://abcnews.com/Politics/florida-holds-1st-major-primaries-afte
 
     <p>The new map has introduced a ripple effect across the state, creating new challenges for incumbents and forcing candidates into unfamiliar territories. From the potential for Republicans to flip four key seats to the internal tensions among Democrats in redrawn districts, the impact is being felt at the local level across several Florida communities.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -34,7 +34,7 @@ Crevice Cleaning Brush Set
     <h2>The Local Cost of Redistricting</h2>
     <p>When district lines move, the connection between a representative and their constituents is often tested. In the 20th Congressional District, for example, the entry of Rep. Debbie Wasserman Schultz has sparked tension with local Black community leaders who feel their representation is being diluted by these mid-decade changes.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -42,7 +42,7 @@ Crevice Cleaning Brush Set
     <div class="ncg-amazon-box" style="border: 1px solid #ffd700; background: #f9f9f9; padding: 10px; margin: 15px 0;">
       <p><strong>Recommended:</strong> <a href="#">Community Organizing Guide: Advocacy in Local Politics </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -50,7 +50,7 @@ Crevice Cleaning Brush Set
 
     <p>For voters in Tampa and St. Petersburg, the split of the 14th District means that local issues which were once handled under one unified voice may now require more complex advocacy. Meanwhile, Rep. Jared Moskowitz faces a spirited primary in the 25th District, highlighting how even established politicians must now work harder to prove their relevance in these newly defined boundaries.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -64,7 +64,7 @@ Crevice Cleaning Brush Set
     <h2>A Reflection on Integrity and Stewardship</h2>
     <p>Watching these political shifts, I am reminded that our true security does not rest in the boundaries of a district or the outcome of an election. In <strong>Proverbs 29:2</strong>, we are told, "When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn." This invites us to consider that regardless of how lines are drawn on a map, our primary responsibility is to seek leaders who act with integrity and a genuine heart for the common good.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -72,7 +72,7 @@ Crevice Cleaning Brush Set
     <div class="ncg-amazon-box" style="border: 1px solid #ffd700; background: #f9f9f9; padding: 10px; margin: 15px 0;">
       <p><strong>Recommended:</strong> <a href="#">Journaling for Clarity: Reflective Thought Prompts </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -80,7 +80,7 @@ Crevice Cleaning Brush Set
 
     <p>We see in the current scandals, such as the investigation into Rep. Cory Mills, a reminder of the fragility of public trust. It makes me think about <strong>1 Peter 2:17</strong>: "Show proper respect to everyone, love the family of believers, fear God, honor the emperor." Our call is to engage with our communities with a spirit of grace, even in the heat of political tension, remembering that every neighbor—regardless of their political stance—is made in the image of God.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -97,7 +97,7 @@ Crevice Cleaning Brush Set
     <div class="ncg-amazon-box" style="border: 1px solid #ffd700; background: #f9f9f9; padding: 10px; margin: 15px 0;">
       <p><strong>Recommended:</strong> <a href="#">Voter's Guide: Understanding Local Government </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 

@@ -155,7 +155,7 @@ source_url: 'https://www.the-sun.com/news/16856383/putin-warships-hypersonic-mis
     Spotted near the German island of Fehmarn, these warships are operating within plain sight of German, Danish, and allied surveillance networks. Their geographic position places them near the Danish straits—the critical passageway connecting the Baltic Sea to the North Sea and the broader Atlantic. Intelligence assessments from Western agencies suggest that the Kremlin's willingness to project naval power into these contested corridors points to an evolving posture toward NATO, matching recent threats of retaliation over maritime trade enforcement and shadow fleet oil tanker seizures.
   </p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

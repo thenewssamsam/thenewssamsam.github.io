@@ -37,7 +37,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fom
   
   <p>While the Federal Reserve has kept its short-term interest rate target steady between 3.5% and 3.75%, the broader bond market is moving to the beat of a different drum. Fueled by rising global oil prices, growing national deficits, and mounting concerns over government debt issuance, the long end of the Treasury curve is demonstrating that market forces often override short-term monetary policy.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

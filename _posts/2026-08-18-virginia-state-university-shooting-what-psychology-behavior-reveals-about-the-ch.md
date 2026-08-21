@@ -56,7 +56,7 @@ source_url: 'https://www.nbcwashington.com/news/local/police-looking-for-additio
 <h2 id="what-happened">What Happened at VSU?</h2>
 <p>The shooting unfolded at approximately 1:30 a.m. Saturday near the Quad Annexes at Virginia State University (VSU), a historically Black university in Ettrick, Virginia. According to Chesterfield County Police, officers responding to the scene discovered five individuals suffering from gunshot wounds outside campus residential buildings. The victims ranged in age from 17 to 23, and authorities confirmed that only one of them was enrolled as a student at the university.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -25,7 +25,7 @@ source_url: 'https://www.thedrive.com/news/the-jeep-cherokee-just-returned-only-
   <h2 id="what-happened">What Happened: A Short-Lived Debut and a 2029 Pivot</h2>
   <p>According to recent industry reports from automotive intelligence roundups, the newly launched sixth-generation Jeep Cherokee is already slated for a successor by 2029. Under the current production plan, the vehicle is built in Mexico. However, the planned 2029 replacement will shift production domestically to Stellantis's Belvidere Assembly plant in Illinois, while simultaneously transitioning the model onto the automaker newer STLA One vehicle architecture.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

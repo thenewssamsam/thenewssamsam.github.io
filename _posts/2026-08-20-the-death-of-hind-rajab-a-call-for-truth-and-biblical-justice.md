@@ -26,7 +26,7 @@ source_url: 'https://www.bbc.com/news/articles/crl7yjlpx2po'
     <p>In early 2024, five-year-old Hind Rajab was trapped in a vehicle in Gaza City, surrounded by the bodies of her family. In a series of desperate telephone calls to the Palestinian Red Crescent Society (PRCS), she pleaded for rescue while describing the approach of Israeli tanks. The tragedy deepened when an ambulance, sent with prior coordination, was also struck, killing both the child and the two paramedics, Yusuf al-Zeino and Ahmed al-Madhoun.</p>
     <p>For months, the IDF suggested no troops were in the immediate vicinity. However, the recent military statement confirms that troops were indeed operating in the Tel al-Hawa neighborhood and that soldiers fired upon the vehicle. The decision to open a criminal investigation—a rare move—comes as the IDF faces mounting pressure from international bodies and human rights organizations regarding its conduct during the ongoing war.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -36,7 +36,7 @@ Seagate Portable External Hard Drive
     <h2>A Faith Perspective: The Weight of Justice</h2>
     <p>When we look at such profound suffering, our hearts are naturally drawn to the concept of justice. In a world of conflict, the cry of the innocent is a sound that echoes loudly in the ears of the Creator. Scripture offers us a framework for understanding our duty when confronted with the loss of the defenseless.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -47,14 +47,14 @@ Tactical Waterproof Backpack
 
     <p>The call to "seek justice" is not merely a political slogan; it is a spiritual mandate. In the case of Hind Rajab, the search for truth—regardless of the outcome of a military probe—is an act of honoring the dignity of a life created in the image of God. When we see the vulnerable discarded or ignored, we are reminded of the heavy responsibility placed upon those in power.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
     <p>Reflecting on this tragedy, I am struck by the helplessness felt by the operators who stayed on the line with Hind. It is a mirror of our own limitations as human beings. We cannot always reach the suffering, but we are commanded to bear witness. As Psalm 34:18 reminds us: <em>"The Lord is near to the brokenhearted and saves the crushed in spirit."</em> This verse invites us to consider that even when human systems fail to provide justice, there is a divine presence that holds the brokenhearted in their final moments.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -77,7 +77,7 @@ Seagate Portable External Hard Drive
     <h2>Closing Takeaway</h2>
     <p>The investigation into Hind Rajab’s death is a necessary step, yet history suggests that accountability is never guaranteed by a military report alone. For the rest of us, the lesson is clear: we must refuse to let the stories of the innocent fade into the background noise of war. We are called to be people who remember, who mourn, and who persistently demand that the sanctity of human life remains the highest priority.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

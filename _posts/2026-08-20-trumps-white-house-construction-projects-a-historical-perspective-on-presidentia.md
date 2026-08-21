@@ -31,7 +31,7 @@ source_url: 'https://apnews.com/article/trump-white-house-construction-ballroom-
     <h2>The Builder-in-Chief: A Historical Echo</h2>
     <p>Throughout history, the White House has served as a canvas for the presidents who inhabit it. Trump’s focus on large-scale structural changes finds echoes in past administrations, though the scale and nature of these projects differ significantly.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 CeraVe Skin Renewing Night Cream 
 </a></div>
 
@@ -39,7 +39,7 @@ CeraVe Skin Renewing Night Cream
     <h3>The Legacy of Modification</h3>
     <p>The White House has undergone constant evolution since it was first occupied by John Adams. Perhaps the most famous structural overhaul occurred under Theodore Roosevelt in 1902, when he oversaw a massive renovation that moved the executive offices into what would become the West Wing. Like Trump, Roosevelt was driven by a desire to modernize the residence to suit a growing, more powerful presidency.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Lenovo Legion Tower Gaming PC 
 </a></div>
 
@@ -47,7 +47,7 @@ Lenovo Legion Tower Gaming PC
     <h3>Limits of Permanence</h3>
     <p>History also suggests that presidential physical legacies are often more fragile than they appear. While Trump predicts his granite work will last for millions of years, past projects—such as the recent issues with the Lincoln Memorial Reflecting Pool—serve as reminders that environmental and political realities often outlast the intent of the builder. The tension between a president’s desire to "build" and the reality of historic preservation is a constant in Washington.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Lenovo Legion Tower Gaming PC 
 </a></div>
 
@@ -55,7 +55,7 @@ Lenovo Legion Tower Gaming PC
     <div class="ncg-quote-box" style="border-left: 5px solid #6c757d; background: #f8f9fa; padding: 15px; margin: 20px 0;">
       <p><strong>"Every generation of leadership seeks to leave a physical mark on the capital, yet history often reminds us that the true measure of a presidency is found in policy, not masonry."</strong></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Lenovo Legion Tower Gaming PC 
 </a></div>
 
@@ -66,14 +66,14 @@ Lenovo Legion Tower Gaming PC
     <h2>A Reflection on Stewardship</h2>
     <p>Watching the president focus so intently on the durability of granite and the grandiosity of a new ballroom brings to mind the words of the Apostle Matthew: <em>"Do not store up for yourselves treasures on earth, where moths and vermin destroy, and where thieves break in and steal"</em> (Matthew 6:19). This is not to say that maintenance or improvement is wrong, but it invites us to consider where we place our confidence for the future.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Lenovo Legion Tower Gaming PC 
 </a></div>
 
     
     <p>We often strive to create things that we believe will stand "long after we are gone," as the president noted. Yet, the Psalmist reminds us, <em>"Unless the Lord builds the house, the builders labor in vain"</em> (Psalm 127:1). This perspective encourages us to focus our energy on building lives and communities that reflect eternal values, rather than just physical structures that are subject to the wear and tear of time and changing political tides.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 CeraVe Skin Renewing Night Cream 
 </a></div>
 
@@ -82,7 +82,7 @@ CeraVe Skin Renewing Night Cream
   <div class="ncg-product" style="border-left: 5px solid #ff9900; background: #fdfdfd; padding: 15px; margin: 20px 0;">
     <p><strong>Recommended Reading:</strong> <a href="#">The White House: An Architectural History</a> - </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 CeraVe Vitamin C Brightening Serum 
 </a></div>
 
@@ -92,7 +92,7 @@ CeraVe Vitamin C Brightening Serum
     <h2>How Should Readers Respond?</h2>
     <p>For the average citizen, these developments serve as a reminder to look past the "construction manager" image of political figures. When evaluating a president's success, consider:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Lenovo Legion Tower Gaming PC 
 </a></div>
 

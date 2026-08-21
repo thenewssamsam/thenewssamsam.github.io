@@ -39,7 +39,7 @@ source_url: 'https://www.tallahassee.com/story/news/politics/elections/2026/08/1
     <h2>What Is Happening Today in Florida?</h2>
     <p>Millions of Floridians have already participated through early voting and vote-by-mail ballots, with state records showing nearly 1.8 million ballots returned ahead of Tuesday. Today marks the final window for in-person voting, as polls open across the state at 7:00 a.m. local time and close at 7:00 p.m.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

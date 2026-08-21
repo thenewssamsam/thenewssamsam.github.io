@@ -28,7 +28,7 @@ source_url: 'https://www.fox5dc.com/news/woman-found-dead-upper-body-trauma-fair
   <p>Early Monday morning, Fairfax County police responded to the 8800 block of Georgetown Pike in McLean, Virginia, after a runner discovered an unconscious woman lying next to a dark red car in a parking area near local hiking trails. The victim, who suffered trauma to her upper body, was pronounced dead at the scene. Authorities, aided by the U.S. Park Police, immediately closed a one-mile stretch of Georgetown Pike between Old Dominion Drive and Towlston Road to process evidence.</p>
   <p>At a press briefing, Fairfax County Police Captain Jason Chandler confirmed that detectives are treating the case as a homicide. While the victim's identity and age remain unconfirmed pending notification and further investigation, police stated there is no immediate indication that the incident was a random act. Investigators are actively canvassing the area for surveillance footage and urging anyone who was near the 7 a.m. hour to come forward.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -23,7 +23,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/angie-nixon-winner-f
     <h2>The Primary Results</h2>
     <p>Angie Nixon, a member of the Democratic Socialists of America, triumphed over Alex Vindman in Tuesday's primary election. Despite Vindman’s significant fundraising advantage—bringing in over  million compared to Nixon’s sub- million war chest—voters opted for the Jacksonville native and former union organizer. Nixon will now face Republican Senator Ashley Moody in the November general election.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -32,7 +32,7 @@ Crevice Cleaning Brush Set
   <div class="ncg-product-box" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
     <p><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/B000000000" target="_blank" rel="noopener noreferrer">The History of Florida Politics - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -42,7 +42,7 @@ Crevice Cleaning Brush Set
     <h2>What This Means for Florida Communities</h2>
     <p>For the average Floridian, this race represents a stark choice between two distinct visions for the state. Nixon’s platform focuses heavily on universal child care, affordable housing, and Medicare for all. Her victory suggests that local voters are increasingly responsive to messaging centered on economic survival and public services.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -53,7 +53,7 @@ Crevice Cleaning Brush Set
 
     <p>The local impact of this race cannot be overstated. With the seat currently held by appointment, the upcoming general election will determine who represents Florida's interests in the Senate for the remainder of the term. For voters in Jacksonville and beyond, the shift from a nationally recruited candidate like Vindman to a grassroots-focused legislator like Nixon indicates a desire for localized, ground-up political engagement.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -62,7 +62,7 @@ Crevice Cleaning Brush Set
   <div class="ncg-product-box" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
     <p><strong>Stay Organized:</strong> <a href="https://www.amazon.com/dp/B000000001" target="_blank" rel="noopener noreferrer">Professional Planner for Community Leaders - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -72,13 +72,13 @@ Crevice Cleaning Brush Set
     <h2>A Moment of Reflection</h2>
     <p>Watching the political landscape shift, I am reminded of the importance of serving with integrity and wisdom. Scripture often points us toward the value of the humble and the diligent. Proverbs 29:2 reminds us, "When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
     <p>This verse invites us to consider that our focus should be on the character of those who represent us and their commitment to the well-being of the vulnerable. Whether in a local city council or the U.S. Senate, the call to seek justice and love mercy remains a constant standard for those navigating the complexities of public life.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -101,7 +101,7 @@ Crevice Cleaning Brush Set
     <h2>Closing Takeaway</h2>
     <p>The primary result serves as a reminder that political momentum is often determined by the energy on the ground. As Florida heads toward the general election, voters will decide which path best reflects their needs and values. Regardless of the outcome, the high level of engagement in this primary shows that Floridians are deeply invested in their state's future.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 

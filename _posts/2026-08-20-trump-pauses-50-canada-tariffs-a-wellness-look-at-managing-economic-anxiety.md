@@ -45,7 +45,7 @@ source_url: "https://www.cnn.com/2026/08/18/economy/canada-tariffs-trump"
 
     <p>While business groups like the U.S. Chamber of Commerce warned that such tariffs could disrupt critical supply chains, raise costs for families, and threaten millions of jobs tied to the US-Mexico-Canada Agreement, the immediate economic shock has been temporarily stayed. Yet, even in a temporary pause, the psychological ripple effects of these high-stakes negotiations linger for everyday people trying to plan their financial futures.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -55,7 +55,7 @@ Seagate Portable External Hard Drive
     <h2>The Wellness Perspective: The Heavy Toll of Economic Uncertainty</h2>
     <p>When major trade disputes flare up, headlines flash across our screens warning of price spikes, disrupted supply chains, and political friction. For many of us, reading these updates triggers an immediate physical response: a tightening in the chest, a racing mind, or a quiet hum of background anxiety about the cost of living. From a health and wellness standpoint, macroeconomic volatility is not just a financial issue—it is a physiological one.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -69,7 +69,7 @@ Tactical Waterproof Backpack
     <div class="ncg-shareable-quote">
         <p>"Macroeconomic policy moves at the speed of negotiation, but our nervous systems register every shift as an immediate, personal threat."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -77,7 +77,7 @@ Tactical Waterproof Backpack
 
     <p>Human brains are wired to scan for danger. When news outlets report on sudden tariff threats, potential trade wars, and looming deadlines, our primal fight-or-flight response cannot always distinguish between a physical predator and a fluctuating trade policy. We internalize the uncertainty. We wonder how grocery prices, housing markets, and job security might shift overnight. Recognizing this stress is the first step toward reclaiming our mental equilibrium.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -90,7 +90,7 @@ Tactical Waterproof Backpack
 
     <p>Furthermore, this dynamic reminds us of the delicate balance of patience and trust in human relationships—even on an international scale. When leaders from the U.S. and Canada step back from the brink of a trade dispute to talk things through, it mirrors the relational grace required in our everyday lives. As Proverbs 15:1 notes, "A gentle answer turns away wrath, but a harsh word stirs up anger." Stepping away from brinkmanship to pursue dialogue creates breathing room not just for economies, but for human hearts.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -100,7 +100,7 @@ Tactical Waterproof Backpack
     <h2>How to Protect Your Well-Being During Macroeconomic Volatility</h2>
     <p>You cannot control trade negotiations in Washington or Ottawa, but you can control how you consume information and manage your personal stress environment. Here are a few grounding practices to help maintain your mental health when the news cycle feels overwhelming:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

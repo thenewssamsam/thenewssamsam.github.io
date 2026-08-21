@@ -34,7 +34,7 @@ source_url: 'https://www.euronews.com/my-europe/2026/08/16/at-least-12-people-ki
     <h2>What Happened on the M3 Highway?</h2>
     <p>According to reports from Euronews and local authorities, the accident unfolded at approximately 1:00 AM on August 16, 2026, along the M3 highway near Mezőkeresztes, roughly 140 kilometers from Budapest. The bus was transporting 57 passengers and two drivers, returning a group of Polish pilgrims from Serbia.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

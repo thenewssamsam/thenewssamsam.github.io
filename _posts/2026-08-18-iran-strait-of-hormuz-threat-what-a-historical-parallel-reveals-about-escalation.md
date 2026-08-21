@@ -23,7 +23,7 @@ source_url: 'https://www.yahoo.com/news/articles/iran-threatens-offensive-strait
     <p>Hope for a lasting end to the U.S.-Iran conflict has hit a hard wall. According to reports from Reuters, a senior Iranian official stated on Monday that Tehran will transition to a "fully offensive" military posture after negotiations to finalize a permanent peace agreement broke down. Simultaneously, President Donald Trump ruled out extending the interim ceasefire agreement originally signed on June 17.</p>
     <p>The June memorandum of understanding had established a 60-day window to negotiate an end to hostilities that began with U.S. and Israel strikes on February 28. That fragile peace quickly unraveled over a bitter dispute regarding control of the Strait of Hormuz—the critical maritime passage through which roughly one-fifth of global oil and liquefied natural gas historically traveled.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

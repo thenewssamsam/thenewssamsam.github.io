@@ -62,7 +62,7 @@ Recommendation: <a href="https://www.amazon.com/dp/0316412353?tag=thenewssam-20"
 <p>On the evening of Monday, June 29, 2026, a powerful explosion ripped through the doorstep of Vadym Yermolaiev's luxury apartment in Monaco. The blast seriously injured Yermolaiev, his partner Anna Nasobina, and his 13-year-old son Ariel. The perpetrator had meticulously planned the attack, dropping a black backpack containing an explosive device just 20 seconds before detonation, and filming the aftermath with a hidden street camera to prove the job was done.</p>
 <p>Investigators quickly tracked the suspect across international borders, identifying her as 39-year-old Anastasiia Berezovska—a Ukrainian single mother living as a refugee in Germany who had no prior criminal record. Before authorities could close in for a full interrogation, Berezovska was found dead, buried in a shallow grave near Kyiv just a week after the bombing. For victims like Yermolaiev, who claims to have no enemies or major conflicts, the mystery is as agonizing as the physical recovery.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -74,13 +74,13 @@ Recommendation: <a href="https://www.amazon.com/dp/0143127748?tag=thenewssam-20"
 <h2 id="the-psychology-of-proxy">The Psychology of the Proxy Operative</h2>
 <p>From a psychological perspective, Berezovska’s profile presents a fascinating and tragic puzzle. Investigators lean toward the theory that she functioned as a "foot soldier" motivated by financial desperation. Having struggled as a single mother, divorced twice, and navigating the precarious life of a refugee in Germany, she represented a textbook example of extreme vulnerability.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 <p>In behavioral science, individuals experiencing chronic financial insecurity, social isolation, and a deep sense of powerlessness are exceptionally susceptible to manipulation by unseen orchestrators. When a person feels invisible to society, the sudden influx of financial promise combined with a distorted sense of purpose can bypass normal ethical restraints. Berezovska’s erratic blend of meticulous planning—such as wearing a disguise and a bucket hat—and glaring errors, like wearing her regular clothes with a prominent snake tattoo on her exposed arm, suggest a novice operating under intense psychological tunnel vision.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -96,13 +96,13 @@ Recommendation: <a href="https://www.amazon.com/dp/0062457713?tag=thenewssam-20"
 <h2 id="normalcy-bias">Normalcy Bias and the Illusion of Safety</h2>
 <p>Another striking element of the Monaco bombing is the stark violation of normalcy bias. Monaco is one of the most heavily surveilled and secure microstates in the world, cultivating a deep psychological sense of absolute safety for its affluent residents. Yermolaiev admitted he never expected conflict because he tried to avoid sharp confrontations.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 <p>Normalcy bias is the cognitive tendency for people to underestimate the possibility of disaster even when warning signs exist. When elite security environments are breached by someone hiding in plain sight—a refugee wearing a basic disguise—it shatters the psychological comfort of gated communities and high-end surveillance. It serves as a stark reminder that physical walls cannot protect against targeted human malice.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -114,13 +114,13 @@ Recommendation: <a href="https://www.amazon.com/dp/1400067537?tag=thenewssam-20"
 <h2 id="spiritual-reflection">A Reflection on Truth and Hidden Motives</h2>
 <p>Incidents driven by anonymous greed and sudden violence inevitably force us to examine the darker corners of the human heart. Scripture reminds us of the destructive power of hidden motives and the pursuit of dishonest gain: <em>"The getting of treasures by a lying tongue is a vanity tossed to and fro of them that seek death"</em> (Proverbs 21:6). Furthermore, the complex web of secrets and sudden tragedy brings to mind the sobering truth in Luke 8:17: <em>"For nothing is secret that shall not be made manifest; neither anything hid, that shall not be known and come to light."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 <p>These reflections invite us to consider how easily human beings can be lured into darkness when integrity is abandoned for temporary gain. While the mastermind behind the Monaco bombing may currently remain hidden behind layers of proxies and international borders, history and moral conscience suggest that hidden truths ultimately surface.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -132,7 +132,7 @@ Recommendation: <a href="https://www.amazon.com/dp/080241270X?tag=thenewssam-20"
 <h2 id="reader-response">How Should Readers Respond?</h2>
 <p>While most of us will never find ourselves at the center of an international contract bombing, the psychological dynamics of this case offer practical takeaways for everyday life:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

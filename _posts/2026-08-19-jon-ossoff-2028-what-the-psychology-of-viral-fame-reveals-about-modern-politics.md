@@ -33,7 +33,7 @@ source_url: "https://www.usatoday.com/story/news/state/georgia/2026/08/17/no-oss
 <h2>What Happened</h2>
 <p>According to reports by USA Today, Senator Jon Ossoff is currently locked in a critical reelection campaign in Georgia against Republican challenger Representative Mike Collins. While Ossoff keeps his focus squarely on local issues, the cost of living, and congressional oversight, national attention has found him anyway. An Emerson College poll released in late July 2026 placed Ossoff at 13 percent in a hypothetical 2028 Democratic presidential primary field, vaulting him into frontrunner status alongside figures like Pete Buttigieg and Gavin Newsom.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

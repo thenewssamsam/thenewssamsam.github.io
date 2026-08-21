@@ -39,7 +39,7 @@ source_url: 'https://finance.yahoo.com/markets/stocks/articles/heres-bull-bear-c
     <p>US stock markets have been trading near record levels, forcing a universal question across trading desks and household kitchen tables alike: should we buy into the rally, or is a correction right around the corner? Answering whether now is a good time to invest has proved particularly tricky this year. Markets have navigated a gauntlet of volatility, ranging from geopolitical tensions involving Iran to periodic rotations in the artificial intelligence trade and lingering fears over sticky inflation.</p>
     <p>Despite those hurdles, major indexes surged over the course of August, culminating in historic milestones. Most notably, the S&P 500 breached its prior ceilings for the first time ever, while the Dow Jones Industrial Average hovered within striking distance of its own all-time high. Yet, professional forecasters and everyday investors alike are keeping a watchful eye on seasonal headwinds and macro risks that threaten to complicate the second half of the year.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

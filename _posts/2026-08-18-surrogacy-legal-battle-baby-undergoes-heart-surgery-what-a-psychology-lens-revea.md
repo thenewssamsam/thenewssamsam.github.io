@@ -24,7 +24,7 @@ source_url: 'https://abc7.com/post/baby-center-surrogacy-legal-battle-undergoes-
 <p>When high-stakes legal drama collides with a fragile medical emergency, human emotions rarely follow a clean, predictable script. A Los Angeles couple locked in a bitter surrogacy dispute announced that their infant son, Rumi, has successfully undergone the first of three complex surgeries to treat a severe, life-threatening heart condition—proving that even in the midst of fierce public and private conflict, human vulnerability demands a stark confrontation with reality.</p>
 <p>The story has captured national attention not just because of the unusual legal maneuvering across state lines, but because it lays bare how people react under extreme pressure, grief, and moral disagreement. Behind the headlines, courtroom filings, and activist labels lies a complex human dynamic driven by psychological defense mechanisms, divergent worldviews, and the overwhelming weight of critical medical decisions.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

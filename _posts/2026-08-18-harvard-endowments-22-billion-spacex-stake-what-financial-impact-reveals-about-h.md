@@ -128,7 +128,7 @@ source_url: 'https://qz.com/harvard-endowment-spacex-stake-2-billion-081726'
     <h2 id="what-happened">What Happened: Inside the 13F Filing</h2>
     <p>According to a U.S. Securities and Exchange Commission 13F filing submitted last Friday, Harvard Management Co. disclosed its extensive holding in Space Exploration Technologies Corp. The filing, which tracks institutional stock managers controlling more than  million in U.S. equities, captures  billion in total domestic equity holdings for the university.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

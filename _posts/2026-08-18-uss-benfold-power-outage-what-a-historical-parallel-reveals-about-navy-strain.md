@@ -36,7 +36,7 @@ source_url: 'https://www.cnn.com/2026/08/17/asia/us-destroyer-benfold-loses-powe
 <h2 id="what-happened">What Happened Aboard the USS Benfold?</h2>
 <p>On July 24, during routine operations in the Indo-Pacific, the Arleigh Burke-class guided-missile destroyer USS Benfold suffered what the U.S. 7th Fleet described as an engineering casualty involving its generators. The power failure knocked out the ship's propulsion, air conditioning, galley services, potable water systems, and working toilets for four grueling days.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

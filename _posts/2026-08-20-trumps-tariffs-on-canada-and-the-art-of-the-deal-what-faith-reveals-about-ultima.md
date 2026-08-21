@@ -37,7 +37,7 @@ source_url: 'https://www.politico.com/news/2026/08/19/trump-backed-down-from-50-
   <div class="ncg-amazon-box">
     <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B07N38W8V1?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Understanding Global Economics and Trade: Principles for Everyday Stewardship</a> - . A helpful guide for examining how international policies trickle down to local communities.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -46,14 +46,14 @@ Seagate Portable External Hard Drive
   <h2 id="what-happened">What Happened in the U.S.-Canada Trade Talks</h2>
   <p>To understand the current friction, we have to look at the mechanics of the recent dispute. President Trump utilized Section 338 of the Tariff Act of 1930—a Great Depression-era statute never previously invoked—to threaten roughly  billion worth of Canadian goods, targeting beer, furs, hockey equipment, and other vital exports. Given that Canada sends approximately 72 percent of its exports to the United States, the threat of a 50 percent levy was nothing short of existential for the Canadian economy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
   <p>For months, trade discussions had stalled. Canadian officials felt reluctant to offer concessions without knowing what further demands might follow, while U.S. officials insisted that Canada address retaliatory measures on American liquor and automobiles first. However, the sheer shock value of the July tariff threat shattered the diplomatic gridlock. Canadian senators, chamber of commerce leaders, and trade experts conceded that while the threat felt outrageous, it provided the immense leverage required to force both sides into serious, accelerated negotiations.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -63,7 +63,7 @@ Tactical Waterproof Backpack
   <div class="ncg-amazon-box">
     <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B085V8Q1N2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Art of Negotiation: Strategies for Effective Communication</a> - . Explore classic negotiation frameworks and psychological dynamics used in high-stakes environments.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -80,7 +80,7 @@ Tactical Waterproof Backpack
 
   <p>Proverbs reminds us of the dangers woven into pride and unyielding self-reliance. When nations or leaders operate purely out of a posture of dominance, it invites friction and defensive posturing. While economic leverage can unstick a stubborn bureaucracy, true, lasting stability is rarely built on fear alone. It requires mutual respect, honest dialogue, and a recognition of shared responsibility.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -88,7 +88,7 @@ Seagate Portable External Hard Drive
   <div class="ncg-amazon-box">
     <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B07V5L6Z4X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Leadership and Self-Deception: Getting Out of the Box</a> - . Discover how underlying mindsets influence negotiations, conflicts, and interpersonal relationships.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -99,7 +99,7 @@ Tactical Waterproof Backpack
 
   <p>Scripture calls believers to approach governance and community life with discernment and a deep commitment to fairness. In the Book of Proverbs, we are repeatedly instructed that honest scales and fair dealings are foundational to a righteous society.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -110,7 +110,7 @@ Seagate Portable External Hard Drive
 
   <p>This verse speaks directly to the economic sphere. Trade agreements, tariffs, and cross-border commerce are ultimately about how nations value the labor and goods produced by their neighbors. While political maneuvering and strategic ultimatums are part of the secular world, Christians are reminded to look past the noise of partisan point-scoring and consider the human cost of economic friction. Every tariff adjustment ripples outward, affecting farmers, factory workers, and everyday consumers who simply want to provide for their households in peace.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -118,7 +118,7 @@ Seagate Portable External Hard Drive
   <div class="ncg-amazon-box">
     <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B07T43K98Q?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Faithful Economics: Stewardship in a Complex Global Market</a> - . A thoughtful exploration of how biblical ethics apply to modern trade, labor, and economic policies.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -127,21 +127,21 @@ Tactical Waterproof Backpack
   <h2 id="how-christians-respond">How Christians Should Respond</h2>
   <p>When headlines are dominated by threats of economic penalties and political standoffs, it is easy to become anxious or overly cynical about the state of global affairs. However, our response should be grounded in spiritual steadfastness rather than partisan agitation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
   <p>First, we are called to pray for our leaders and decision-makers. Political leaders operate in high-pressure environments where the temptation to rely on pride, manipulation, and intimidation is ever-present. Interceding for wisdom, humility, and justice in governance aligns with biblical instructions.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
   <p>Second, we must practice discernment. Not every political victory or tactical retreat deserves our emotional outrage or uncritical celebration. By viewing the news through an eternal framework, we recognize that earthly empires and trade deals rise and fall, but God's overarching purposes remain steady.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -149,7 +149,7 @@ Seagate Portable External Hard Drive
   <div class="ncg-amazon-box">
     <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/B081XX2M5F?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Peacemaker: A Biblical Guide to Resolving Personal and Public Conflict</a> - . Learn how biblical principles of communication and grace apply to disputes at every level.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -165,7 +165,7 @@ Seagate Portable External Hard Drive
       <summary>Did the tariff threat succeed in its immediate goal?</summary>
       <p>According to both administration allies and Canadian officials, the threat successfully forced Ottawa back to the negotiating table, resulting in accelerated talks and potential concessions just days before the deadline.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

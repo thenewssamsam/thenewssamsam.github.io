@@ -36,7 +36,7 @@ source_url: 'https://www.cbsnews.com/news/pete-hegseth-iowa-campaign-zach-nunn/'
     <p>Defense Secretary Pete Hegseth headed to Iowa to give remarks, meet with veterans, and campaign for vulnerable Republican incumbents, stepping into a role traditionally avoided by sitting heads of the Pentagon. As the Republican party battles to protect key congressional seats in battleground states, the Trump administration has deployed a steady stream of top officials to the Midwest.</p>
     <p>Among those visiting Iowa are Treasury Secretary Scott Bessent, U.S. Trade Representative Jamieson Greer, Small Business Association Administrator Kelly Loeffler, and VA Secretary Doug Collins. Hegseth's specific stop is designed to support Rep. Zach Nunn, an Air Force Reserve colonel defending a tightly contested seat in a district that Trump won by slim margins. Neighboring Rep. Mariannette Miller-Meeks is facing an equally narrow defensive battle against Democratic challenger Christine Bohannan.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

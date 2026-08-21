@@ -36,7 +36,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/17/alaska-senate-dan-s
 
 <p>While the identical names have grabbed headlines, political analysts point out that the real electoral battle is shaping up between Senator Sullivan and former Democratic Representative Mary Peltola. Peltola, who twice won election to the state's lone U.S. House seat before a narrow defeat in 2024, is running a moderate campaign focused on local economic issues, natural resource development, and fisheries.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -23,7 +23,7 @@ source_url: 'https://www.latimes.com/california/story/2026-08-17/tupac-trial-com
   <h2 id="what-happened">What Happened in Court</h2>
   <p>According to Nevada prosecutors, Duane Davis—a former Compton gang member now 63 years old—orchestrated the 1996 killing of Tupac Shakur as retaliation for an earlier altercation involving his nephew, Orlando Anderson. Hours before the fatal shooting near the Las Vegas Strip, Shakur and members of his entourage were captured on surveillance video confronting Anderson in the lobby of the MGM Grand hotel following a Mike Tyson boxing match.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

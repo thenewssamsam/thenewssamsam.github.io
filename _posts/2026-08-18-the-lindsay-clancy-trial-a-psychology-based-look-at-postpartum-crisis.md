@@ -20,7 +20,7 @@ source_url: 'https://www.bostonglobe.com/2026/08/17/metro/lindsay-clancy-trial-l
   <section id="introduction">
     <p>The trial of Lindsay Clancy, the Duxbury woman accused of killing her three children, has reached a pivotal turning point as the prosecution rests and the defense begins its case. While the legal proceedings focus on criminal responsibility, the trial has reignited a national conversation about the severe, often misunderstood reality of postpartum psychosis. Understanding the psychological mechanics at play is essential for separating the clinical reality of mental health crises from the legal definitions of intent.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

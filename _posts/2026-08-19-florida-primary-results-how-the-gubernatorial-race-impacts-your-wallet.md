@@ -27,7 +27,7 @@ source_url: "https://apnews.com/article/florida-primaries-donald-trump-wasserman
 <h2>Economic Visions: Two Paths for Florida</h2>
 <p>The financial impact of this election hinges on two very different philosophies regarding government intervention and private market regulation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -35,7 +35,7 @@ Tactical Waterproof Backpack
 <h3>The Case for Market-Led Growth</h3>
 <p>Byron Donalds has positioned himself as an advocate for aggressive tax cuts and structural deregulation. His stated focus is on overhauling Florida’s insurance regulations to lower consumer costs by fostering a more competitive market. For homeowners currently grappling with skyrocketing premiums, the promise of regulatory reform is the centerpiece of his financial appeal.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -47,7 +47,7 @@ Tactical Waterproof Backpack
 <h3>The Case for Targeted Intervention</h3>
 <p>David Jolly, conversely, argues for a "balanced" approach. While he identifies as a proponent of capitalism, he advocates for government intervention in specific gaps, particularly regarding housing and education. His argument is that the state must play a more active role in stabilizing markets that have failed to provide affordable options for the working and middle class.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -57,14 +57,14 @@ Seagate Portable External Hard Drive
 <h2>A Biblical Perspective on Stewardship</h2>
 <p>As we evaluate these competing economic visions, we are reminded of the principle of stewardship—the idea that resources are held in trust to provide for the well-being of the community. Proverbs 29:4 states, "By justice a king gives stability to the land, but he who exacts gifts tears it down." This serves as a timeless reminder that true economic stability is rooted in fairness and the protection of the vulnerable rather than just the efficiency of the market.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>I am often struck by the idea that our financial choices reflect our values. Whether we lean toward deregulation or targeted support, the ultimate goal should be the flourishing of our neighbors. Matthew 20:15 asks, "Am I not allowed to do what I choose with what belongs to me?" While this verse speaks to God’s sovereignty, it invites us to consider how we use our own influence and resources to ensure that our neighbors are not left behind in an expensive, shifting economy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

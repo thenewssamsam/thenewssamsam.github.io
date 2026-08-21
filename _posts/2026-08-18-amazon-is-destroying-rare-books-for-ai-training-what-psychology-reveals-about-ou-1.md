@@ -159,7 +159,7 @@ source_url: 'https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-
 
 <p>Recent investigative reporting by 404 Media uncovered a striking physical supply chain for digital intelligence. By placing a tracking device inside a rare book, journalists tracked the volume straight to an Amazon-linked facility in Las Vegas designated as VGT3.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

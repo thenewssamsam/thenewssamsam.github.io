@@ -25,7 +25,7 @@ source_url: 'https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-5
   <h2 id="what-happened">What Happened in the Markets Today?</h2>
   <p>Trading kicked off the week on a defensive note. The Dow Jones Industrial Average, S&P 500, and Nasdaq Composite dropped 0.5%, 0.5%, and 0.3% respectively. This downward pressure builds on late-week losses from Friday, which were catalyzed by a sharper-than-expected 0.6% decline in U.S. retail sales for July against economists' forecasts of a 0.1% rise.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

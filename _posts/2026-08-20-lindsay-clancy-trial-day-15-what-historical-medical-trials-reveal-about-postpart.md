@@ -34,7 +34,7 @@ source_url: "https://www.nbcboston.com/news/local/lindsay-clancy-trial-day-15-li
 
 <p>Tuesday's court session featured a forensic pathologist's detailed reconstruction of the Duxbury home, illustrating how Lindsay sustained her injuries during the fall. Jurors also heard testimony from a doctor who assisted Lindsay in calling her husband from the hospital immediately following the tragedy, as well as from her former mother-in-law, Susan Clancy. It was during the testimony of the former mother-in-law that a dramatic flashpoint occurred: a prosecutor's pointed inquiry regarding murder as a "mortal sin" shocked observers and was promptly struck from the record by the judge as being out of bounds, highlighting the delicate and volatile boundary between moral condemnation and clinical evaluation in the courtroom.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -47,14 +47,14 @@ Tactical Waterproof Backpack
 
 <p>To understand the profound friction present in the Clancy courtroom, one must look back at how legal and medical systems have historically struggled with maternal mental illness. For centuries, the law recognized physical violence primarily through the lens of malice aforethought, leaving little room for medical conditions that temporarily shattered a parent's perception of reality. </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>In 19th-century Britain and America, landmark cases involving infanticide and severe postpartum psychiatric breaks—often termed "puerperal insanity" at the time—forced early forensic medical experts to argue that childbirth could induce a total rupture from sanity. Just as medical pioneers in the 1800s fought to introduce clinical evidence of hormonal and neurological collapse into courts, modern defense teams grapple with the deep-seated cultural reluctance to accept that a loving mother's mind could be entirely overtaken by disease.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -65,7 +65,7 @@ Seagate Portable External Hard Drive
 
 <p>The parallel lies not in the specific details of the tragedies, but in the societal recoil: whenever medical science has attempted to name a profound psychological breakdown that defies ordinary human comprehension, legal systems have historically scrambled to balance moral accountability with clinical reality. The "mortal sin" flare-up in the Clancy trial echoes centuries-old courtroom debates where religious and moral frameworks clashed directly with emerging psychiatric understandings of altered mental states.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -78,7 +78,7 @@ Tactical Waterproof Backpack
 
 <p>Moments of immense public tragedy often force communities to grapple with the darkest aspects of human vulnerability. When we witness the shattering of families and the exposure of profound mental suffering, it invites a quiet, humble reflection on human brokenness and the limits of our own understanding. Scripture reminds us of the profound depth of human frailty, noting in Psalm 34:18 that "The Lord is close to the brokenhearted and saves those who are crushed in spirit."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -89,7 +89,7 @@ Seagate Portable External Hard Drive
 
 <p>This reality encourages a posture of profound discernment rather than hasty judgment. As human beings trying to make sense of incomprehensible pain, we are reminded of the wisdom in Proverbs 3:5-6: "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight." When navigating the complex intersections of mental illness, legal accountability, and community grief, approaching such profound suffering with humility allows us to recognize the desperate need for both rigorous truth and deep, unyielding compassion.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -102,7 +102,7 @@ Tactical Waterproof Backpack
 
 <p>Absorbing the daily updates of a complex trial like Lindsay Clancy's can take a heavy emotional toll. Readers can respond constructively through several intentional steps:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

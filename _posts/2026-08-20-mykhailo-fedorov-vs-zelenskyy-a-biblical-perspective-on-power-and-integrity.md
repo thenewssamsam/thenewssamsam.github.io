@@ -26,7 +26,7 @@ source_url: 'https://www.theguardian.com/world/2026/aug/19/mykhailo-fedorov-zele
     <h2>The Shifting Tides of Kyiv</h2>
     <p>The dismissal of Mykhailo Fedorov has sparked significant unrest. Despite his reputation as a reformer, Fedorov has been permanently sidelined by the Zelenskyy administration. In a recent video, Fedorov alleged a "systemic crisis of governance," citing corruption that hinders the war effort—specifically regarding procurement and the production of vital military technology. While the government moves forward with a new successor, the public outcry in Ivan Franko Square suggests that the underlying issues regarding transparency and accountability remain unresolved.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -36,7 +36,7 @@ Seagate Portable External Hard Drive
     <h2>A Biblical Lens on Leadership</h2>
     <p>In times of political upheaval, it is easy to focus solely on the strategies of men. However, Scripture provides a timeless framework for evaluating the health of any institution, whether it be a government or a community. The Bible consistently emphasizes that those in positions of authority are ultimately accountable to a higher standard.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -44,7 +44,7 @@ Tactical Waterproof Backpack
     <div class="ncg-quote-box" style="border-left: 5px solid #d4af37; background: #fdfaf0; padding: 15px; margin: 20px 0;">
       <p><strong>"But let justice roll on like a river, righteousness like a never-failing stream!"</strong> — <em>Amos 5:24</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -52,7 +52,7 @@ Tactical Waterproof Backpack
 
     <p>This verse reminds us that justice is not merely a suggestion but a requirement for the flourishing of any society. When Fedorov speaks of a system that "protects itself" rather than serving the people, he echoes a sentiment found throughout the prophetic books of the Bible: the danger of leadership becoming insulated from the needs of the vulnerable. When corruption stalls the distribution of resources—whether it be ammunition in a war or bread in a famine—it is fundamentally a violation of the stewardship entrusted to leaders.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -63,7 +63,7 @@ Seagate Portable External Hard Drive
 
     <p>Consider <em>Proverbs 29:2</em>: <strong>"When the righteous thrive, the people rejoice; when the wicked rule, the people groan."</strong> While we must be careful not to label individuals as "wicked" or "righteous" in the complexities of modern politics, the verse highlights a profound truth: the quality of a leader's character directly impacts the collective spirit of the nation. Transparency is the antidote to the "groaning" of a people who feel unheard or exploited.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

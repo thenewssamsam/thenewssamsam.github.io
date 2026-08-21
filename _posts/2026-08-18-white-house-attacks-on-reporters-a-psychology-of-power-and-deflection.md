@@ -25,7 +25,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/17/white-house-persona
     <h2>The Anatomy of the Confrontation</h2>
     <p>The conflict began during an Oval Office exchange where CNN correspondent Kristen Holmes asked President Trump to respond to comments made by Senator Jon Ossoff. The senator had criticized the president’s focus on his personal staff and travel arrangements. Instead of addressing the policy or political critique, the president dismissed the reporter as "disrespectful" and "fake news."</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

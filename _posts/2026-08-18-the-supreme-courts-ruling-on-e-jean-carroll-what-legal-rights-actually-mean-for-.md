@@ -21,7 +21,7 @@ source_url: 'https://www.cnn.com/2026/08/17/politics/supreme-court-trump-e-jean-
 <p>The Supreme Court on Monday officially closed the door on President Donald Trump’s effort to challenge a  million judgment awarded to writer E. Jean Carroll. By declining to grant a rehearing of his appeal, the justices have effectively cemented the lower court’s verdict, which found Trump liable for sexual abuse and defamation.</p>
 <p>For the average observer, this marks the end of a long-running procedural battle. While Trump’s legal team has characterized the proceedings as politically motivated "lawfare," the court's refusal to hear the case means the jury's unanimous verdict is now final and beyond further judicial challenge.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

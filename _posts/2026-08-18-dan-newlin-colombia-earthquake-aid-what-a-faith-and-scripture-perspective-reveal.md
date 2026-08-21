@@ -42,7 +42,7 @@ source_url: 'https://www.wesh.com/article/central-florida-aid-flight-colombia-ea
   <h2 id="what-happened">What Happened in Colombia?</h2>
   <p>Rescuers in Colombia are continuing their painstaking search through rubble one week after a powerful 7.4-magnitude earthquake rocked the country. As the death toll approaches 300 and countless others remain injured, the nation's healthcare infrastructure has been pushed to a breaking point.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

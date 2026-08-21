@@ -34,7 +34,7 @@ source_url: 'https://www.foxnews.com/outkick-sports/college-football-ap-top-25-w
     <p>College football fans across the country can finally exhale—or start screaming at their screens. The Associated Press released its official preseason Top 25 poll for the upcoming 2026 season, just two weeks away from official kickoff.</p>
     <p>At the very top of the list, Ohio State claims the coveted No. 1 spot, followed closely by Oregon at No. 2, Georgia at No. 3, Notre Dame at No. 4, and Texas rounding out the top five. Programs like Indiana at No. 6, Miami at No. 7, and Texas A&M at No. 8 inject plenty of intrigue into the early mix. Meanwhile, perennial heavyweights and expensive rosters find themselves scattered across the middle: LSU sits at No. 11, Alabama at No. 13, USC and BYU tie at No. 14, and Michigan lands at No. 16. Further down, traditional powerhouses like Clemson find themselves sitting entirely outside the Top 25, lingering just on the outside receiving votes alongside Florida and Boise State.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

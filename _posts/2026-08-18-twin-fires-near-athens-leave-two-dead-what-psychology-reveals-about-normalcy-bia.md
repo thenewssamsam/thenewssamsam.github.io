@@ -22,7 +22,7 @@ source_url: 'https://www.bbc.com/news/articles/c87nnwlpe5no'
   
   <p>Authorities deployed about 200 firefighters, 50 fire engines, water tankers, construction machinery, and specialized aircraft to keep the twin blazes from crossing a central mountain and merging into a single catastrophic wall of fire. By Sunday evening, around 500 people had been safely evacuated by sea using coast guard vessels, patrol boats, and private watercraft, while at least 10 individuals suffered burns or smoke inhalation.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

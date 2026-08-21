@@ -34,7 +34,7 @@ source_url: ''
       At the heart of the dispute is an upcoming March antitrust trial that threatens to stall Paramount's planned acquisition of Warner Bros. As the calendar pushes deeper into 2026, the financial meter is running—and someone has to pay for the ticking clock.
     </p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

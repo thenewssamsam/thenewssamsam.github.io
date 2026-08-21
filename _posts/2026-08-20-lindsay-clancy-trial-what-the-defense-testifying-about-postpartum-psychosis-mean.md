@@ -40,7 +40,7 @@ source_url: "https://www.bostonglobe.com/2026/08/18/metro/lindsay-clancy-said-th
     
     <p>While prosecutors argue that the tragedy was premeditated and driven by despair, the defense continues to center its case on the catastrophic collapse of maternal mental healthcare. For parents watching from the outside, the case is an agonizing reminder of how fragile family well-being can be when invisible illnesses go unrecognized or untreated.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -50,7 +50,7 @@ Seagate Portable External Hard Drive
     <h2>A Parenting & Family Perspective: Recognizing the Invisible Crisis</h2>
     <p>When society thinks of parenting struggles, we tend to picture sleep-deprived nights, toddler tantrums, and the logistical chaos of school drop-offs. We rarely talk about the silent, terrifying abyss of postpartum psychosis—a rare medical emergency that affects a small percentage of new mothers but carries devastating consequences.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -62,7 +62,7 @@ Seagate Portable External Hard Drive
 
     <p>The testimony in the Clancy trial highlights a harrowing paradox: mothers suffering from the deepest psychological distress often hide their symptoms out of fear. As expert witnesses noted, Clancy was terrified that her children would be taken away by the state if she admitted how severe her mental state had become. This fear of institutional judgment creates an invisible wall between struggling parents and the life-saving help they desperately need.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -70,7 +70,7 @@ Tactical Waterproof Backpack
     <h3>The Wave-Like Nature of Crisis</h3>
     <p>As psychologist Paul Zeizel described it, psychotic symptoms can fluctuate like "waves at the beach"—surging one day, receding just enough for a mother to appear functional the next. For families and partners, this unpredictability makes it agonizingly difficult to assess real danger. A parent might smile through breakfast, only to experience severe auditory hallucinations hours later.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -81,7 +81,7 @@ Seagate Portable External Hard Drive
 
     <p>Equipping families means shifting the culture from one of silent endurance to open, non-judgmental support. Partners, grandparents, and friends must be educated to look beyond the surface smile and recognize when normal postpartum exhaustion crosses into clinical danger.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -96,14 +96,14 @@ Seagate Portable External Hard Drive
     <h2>A Moment for Reflection</h2>
     <p>Stories of profound human suffering often leave us searching for moral or spiritual grounding. When human minds fracture and families shatter under invisible weights, we are reminded of our profound fragility. Psalm 34:18 reminds us, "The Lord is close to the brokenhearted and saves those who are crushed in spirit." This truth invites us to approach human tragedy not with stones of quick condemnation, but with deep, sorrowful compassion.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>We live in a world where internal battles are often fought entirely alone. Proverbs 12:25 observes, "Anxiety weighs down the heart, but a kind word cheers it up." This simple wisdom challenges communities and families to cultivate environments of radical grace, where struggling mothers and fathers feel safe enough to voice their darkest fears without the paralyzing dread of being stripped of their children or their dignity.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -113,7 +113,7 @@ Tactical Waterproof Backpack
     <h2>How Families Can Respond and Safe Harbor</h2>
     <p>While courtrooms debate legal culpability, everyday parents are left wondering how to protect their own households and support loved ones who may be quietly struggling. Here are practical, concrete steps families can take:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -137,7 +137,7 @@ Seagate Portable External Hard Drive
       <summary>What is postpartum psychosis?</summary>
       <p>Postpartum psychosis is a rare but severe mental health illness that can affect new mothers, involving symptoms such as hallucinations, delusions, severe confusion, and mood swings. It is a medical emergency requiring immediate psychiatric care.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -146,7 +146,7 @@ Tactical Waterproof Backpack
       <summary>How can I get immediate help for maternal mental health struggles?</summary>
       <p>You can call or text the National Maternal Mental Health Hotline at 1-833-TLC-MAMA, or dial 988 for the Suicide & Crisis Lifeline. Both are free, confidential, and available 24/7.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

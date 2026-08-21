@@ -35,7 +35,7 @@ source_url: 'https://www.usatoday.com/story/news/politics/2026/08/17/supreme-cou
   <p>On August 17, more than two dozen families backed by civil liberties groups filed an appeal with the Supreme Court asking the justices to overturn a lower court ruling. At the center of the dispute is Texas Senate Bill 10, enacted last year, which mandates that a poster of the Ten Commandments be displayed in a prominent spot in every public elementary and secondary school classroom across the state.</p>
   <p>The 5th U.S. Circuit Court of Appeals previously upheld the law by a 9-7 vote in April. The multifaith coalition—whose members include Jewish, Baha'i, Christian, Unitarian Universalist, and non-religious families—argues that the mandate intrudes upon their fundamental right to guide their children's religious education at home.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -211,7 +211,7 @@ source_url: 'https://finance.yahoo.com/technology/ai/articles/amazon-once-online
 <h3>Key Psychological Concepts at Play</h3>
 <p><strong>Normalcy Bias:</strong> The tendency to underestimate the disaster or radical shift unfolding right in front of us because familiar institutions (like Amazon or tech corporations) are managing the process.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

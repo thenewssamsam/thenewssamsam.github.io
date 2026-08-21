@@ -37,7 +37,7 @@ source_url: 'https://english.elpais.com/international/2026-08-17/germany-divided
     <h2>What Happened in Berlin</h2>
     <p>The debate over whether Berlin can or should declare the Alternative for Germany (AfD)—the Bundestag’s largest opposition force—unconstitutional has flared up once again. With regional elections looming in eastern states like Saxony-Anhalt, where polls suggest the far-right party could secure a historic governing majority, German politics is locked in an intense existential argument.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

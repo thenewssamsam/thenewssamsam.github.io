@@ -26,7 +26,7 @@ source_url: 'https://www.foxnews.com/us/penn-state-cocaine-bust-nets-14-arrests-
   <p>According to Pennsylvania Attorney General Dave Sunday, law enforcement dismantled a coordinated and highly profitable cocaine distribution network operating in and around Penn State University during 2023 and 2024. Investigators stated that the operation was anchored by primary suppliers Agostino Abbatiello of Westbury, New York—who remains at large—and Thomas Robinson. The duo allegedly made frequent trips to Philadelphia and New York City to secure large quantities of illegal narcotics.</p>
   <p>The drugs were then brought back to off-campus houses associated with the Delta Upsilon and Sigma Chi fraternities. There, members and pledges allegedly cut, packaged, and distributed the cocaine to students. Attorney General Sunday highlighted a particularly disturbing element during the announcement: "Cutting and packaging cocaine was, for some pledges, an indoctrination into the fraternities."</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

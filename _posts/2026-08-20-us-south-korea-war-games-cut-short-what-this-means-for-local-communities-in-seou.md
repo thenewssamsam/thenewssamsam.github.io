@@ -42,13 +42,13 @@ source_url: "https://www.bbc.com/news/articles/cnvn0j31qj8o"
   <h2 id="local-impact">The Local & Community Impact Perspective</h2>
   <p>When international defense pacts wobble, the impact is intensely local. In towns adjacent to major military bases, the rhythm of daily life is deeply intertwined with alliance readiness. Local business owners, families of service members, and civic leaders in South Korea view these joint exercises not merely as diplomatic maneuvers, but as a practical baseline for regional deterrence.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
   <p>When Washington abruptly curtails exercises as leverage in unrelated global disputes—such as negotiations involving Iran or potential summits with Pyongyang—it creates a palpable sense of uncertainty on the ground. Citizens living near the demilitarized zone and major urban centers rely on predictable, steadfast deterrence to maintain economic stability and community confidence. Sudden shifts signal vulnerability, forcing local municipalities to question whether their daily security is being weighed against distant, shifting political priorities.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -66,7 +66,7 @@ Tactical Waterproof Backpack
   <h2 id="spiritual-reflection">A Moment for Reflection</h2>
   <p>Navigating times of international tension and shifting alliances can easily stir anxiety in our local communities. This situation reminds us of the timeless wisdom found in Scripture regarding where we place our ultimate trust. Psalm 20:7 invites us to consider: <em>"Some trust in chariots and some in horses, but we trust in the name of the Lord our God."</em> While earthly alliances and defense pacts provide necessary order, true peace within our neighborhoods ultimately rests beyond the shifting whims of political leaders.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -80,7 +80,7 @@ Seagate Portable External Hard Drive
   <h2 id="how-residents-respond">How Should Communities Respond?</h2>
   <p>For residents and local leaders in regions affected by shifting geopolitical commitments, panic is neither productive nor warranted, but grounded awareness is essential. Communities can take several practical steps:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

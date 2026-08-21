@@ -66,7 +66,7 @@ source_url: 'https://www.foxnews.com/politics/federal-judge-clears-path-border-w
   
   <p>However, U.S. District Judge Richard Leon ruled decisively against the tribe's request to halt federal activity. Pointing to a combination of national security imperatives, foreign policy considerations, and historical federal proclamations, the court found that the government retains the legal authority to proceed with construction.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

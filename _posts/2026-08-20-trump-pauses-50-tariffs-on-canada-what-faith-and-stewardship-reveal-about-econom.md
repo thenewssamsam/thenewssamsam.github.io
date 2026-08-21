@@ -40,7 +40,7 @@ source_url: "https://www.nbcnews.com/business/economy/trump-pauses-canada-tariff
 
         <p>The threatened duties represented the first invocation of Section 338 of the Tariff Act of 1930, a law allowing steep penalties against trading partners deemed to discriminate against U.S. commerce. While business organizations like the U.S. Chamber of Commerce warned of supply chain disruptions and higher costs for families, the sudden pause demonstrates how quickly high-stakes geopolitical brinkmanship can pivot toward dialogue.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -50,7 +50,7 @@ Tactical Waterproof Backpack
         <h2 style="font-size: 1.5rem; color: #1a202c; border-bottom: 1px solid #edf2f7; padding-bottom: 8px; margin-bottom: 20px;">A Biblical Perspective on Economic Stewardship</h2>
         <p>When headlines are dominated by billions of dollars in threatened import taxes, retaliatory measures, and executive declarations, it is easy to view global economics purely as a chess match between political leaders. Yet, Scripture invites us to look deeper at the human heart, the nature of stewardship, and the profound importance of honest scales and relational peace.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -58,7 +58,7 @@ Tactical Waterproof Backpack
         <h3 style="font-size: 1.25rem; color: #2d3748; margin-top: 25px; margin-bottom: 15px;">The Principle of Honest Weights and Measures</h3>
         <p>Commerce and trade are ancient human endeavors designed to distribute God's creation across regions. The Bible frequently speaks to the ethical dimensions of trade, reminding leaders and merchants that fairness and integrity matter deeply to Creator God. When trade disputes escalate into punitive tariffs, ordinary citizens—farmers, factory workers, and families—often bear the immediate financial burden.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -72,7 +72,7 @@ Tactical Waterproof Backpack
         <h3 style="font-size: 1.25rem; color: #2d3748; margin-top: 25px; margin-bottom: 15px;">The Fragility of Peace and the Virtue of Patience</h3>
         <p>The intense negotiations between Washington and Ottawa, culminating in a precarious three-day pause, illustrate the constant friction between self-interest and cooperation. Prime Minister Carney noted that substantial progress was made, but important work remains. In our own lives, maintaining peace requires humility, active listening, and a willingness to step back from reactionary anger.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -88,7 +88,7 @@ Seagate Portable External Hard Drive
         <h2 style="font-size: 1.5rem; color: #1a202c; border-bottom: 1px solid #edf2f7; padding-bottom: 8px; margin-bottom: 20px;">Who Is Affected and Why It Matters</h2>
         <p>Behind the political maneuvering and trade declarations lie millions of real people whose daily livelihoods depend on stable cross-border commerce. The U.S. Chamber of Commerce highlighted that roughly 13 million American jobs rely on the North American trade framework, while Canadian families and businesses face uncertainty over prices for construction materials, consumer goods, and agricultural products.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -99,7 +99,7 @@ Tactical Waterproof Backpack
 
         <p>When trade barriers rise and fall on a three-day cycle, business owners cannot easily plan long-term investments, and everyday consumers face unpredictable price spikes. This instability underscores the biblical call for sober-minded planning and community resilience.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -109,7 +109,7 @@ Tactical Waterproof Backpack
         <h2 style="font-size: 1.5rem; color: #1a202c; border-bottom: 1px solid #edf2f7; padding-bottom: 8px; margin-bottom: 20px;">How Christians Should Respond</h2>
         <p>As believers observe these unfolding economic developments, our response should be grounded in prayerful discernment rather than anxiety or partisan division. Here are three concrete ways to approach such news:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

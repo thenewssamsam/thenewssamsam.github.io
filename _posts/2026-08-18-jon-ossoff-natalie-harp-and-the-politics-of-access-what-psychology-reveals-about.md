@@ -37,7 +37,7 @@ source_url: 'https://www.newsweek.com/jon-ossoff-turns-spotlight-on-donald-trump
   
   <p>The remarks immediately vaulted a staff member usually discussed in political biographies and media profiles directly into the nightly news cycle. White House officials fired back swiftly on social media, defending Harp as a hard-working member of the team, while President Trump dismissed the senator's barbs during an Oval Office exchange.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

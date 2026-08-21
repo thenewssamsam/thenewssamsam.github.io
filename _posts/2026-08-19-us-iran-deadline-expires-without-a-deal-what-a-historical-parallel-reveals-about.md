@@ -33,7 +33,7 @@ source_url: "https://www.foxnews.com/politics/iran-fails-strike-deal-us-deadline
 
 <p>At the center of the deadlock sits the Strait of Hormuz—a narrow maritime chokepoint through which roughly a fifth of the world's oil and liquefied natural gas traverses. Iran insists on retaining control over passage and demands the lifting of sanctions and frozen assets, while the United States demands unrestricted commercial navigation and the permanent abandonment of Iran's nuclear weapons ambitions. Amid stalled talks, military friction has persisted, with recent attacks on commercial vessels operated by the UAE and subsequent U.S. retaliatory strikes against dozens of military targets. Compounding the pressure, defense analysts note that prolonged operations have strained U.S. missile and interceptor inventories, leaving the White House weighing an intractable dilemma between expanded escalation or protracted economic strain.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

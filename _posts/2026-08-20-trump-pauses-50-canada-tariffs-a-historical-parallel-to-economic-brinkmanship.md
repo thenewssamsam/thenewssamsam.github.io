@@ -28,7 +28,7 @@ source_url: "https://www.cnn.com/2026/08/18/economy/canada-tariffs-trump"
 
     <p>Trump notably invoked a little-used 1930s statute—Section 338—which lacks the typical time limits found in other modern trade laws. The potential duties also ignored exemptions usually granted under the US-Mexico-Canada Agreement (USMCA). In the face of this immense pressure, Canadian officials, including Trade Minister Dominic LeBlanc, have continued collaborative efforts to reach a permanent resolution.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -43,7 +43,7 @@ Seagate Portable External Hard Drive
     <h2 style="font-size: 1.6rem; font-weight: 700; color: #1a1a1a; border-left: 4px solid #8B4513; padding-left: 12px; margin-bottom: 20px;">A Historical Parallel: The Echoes of 1930s Protectionism</h2>
     <p>When modern policymakers pull legislative levers from nearly a century ago, they inadvertently summon the ghosts of previous economic eras. The Trump administration's reliance on Section 338 draws an immediate historical parallel to the tumultuous protectionist era of the early 20th century, most notably the infamous Smoot-Hawley Tariff Act passed in 1930.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -55,13 +55,13 @@ Seagate Portable External Hard Drive
     <h3 style="font-size: 1.3rem; font-weight: 600; color: #333333; margin-top: 25px;">The Weaponization of Historic Statutes</h3>
     <p>In the 1930s, legislative tools designed to protect domestic industries from perceived foreign slights quickly devolved into retaliatory spirals. While today's temporary pause has averted an immediate trade war, the underlying strategy relies on the same psychological and economic brinkmanship: using the threat of severe, across-the-board border taxes to force bilateral concessions on entirely separate issues, such as pipeline infrastructure and trade pact reviews.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>However, history teaches us a critical limit to this comparison. Unlike the 1930s, when global supply chains were comparatively localized and tariffs permanently crippled international trade volumes, today's deeply integrated North American manufacturing ecosystem means that a 50% tariff acts almost like an internal tax on domestic companies relying on cross-border inputs.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -73,7 +73,7 @@ Seagate Portable External Hard Drive
     <h3 style="font-size: 1.3rem; font-weight: 600; color: #333333; margin-top: 25px;">The Limits of Brinkmanship</h3>
     <p>Another historical parallel is found in the recurring cycle of ultimatums followed by last-minute reprieves. Across decades of trade disputes, leaders have frequently utilized eleventh-hour deadlines to signal strength to domestic constituencies while maintaining enough flexibility to pull back before catastrophic damage occurs. The pivotal question is not whether a temporary deal can be struck, but whether the friction inflicted along the way permanently alters trust between long-standing allies.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -83,13 +83,13 @@ Seagate Portable External Hard Drive
     <h2 style="font-size: 1.6rem; font-weight: 700; color: #1a1a1a; border-left: 4px solid #8B4513; padding-left: 12px; margin-bottom: 20px;">Reflecting on Stewardship and Community Cohesion</h2>
     <p>When nations engage in high-stakes economic standoffs, the ripple effects are ultimately felt by ordinary families trying to navigate daily life and provision for their households. This dynamic brings to mind the timeless wisdom found in Proverbs 13:11, which reminds us that "Wealth gained hastily will dwindle, but whoever gathers little by little will increase it."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>In the context of global commerce and national borders, stability and patient cooperation are often far more sustainable than sudden economic shocks. Proverbs 22:7 also notes that "the borrower is the slave of the lender," highlighting how interconnected economic systems require mutual respect and steady stewardship rather than volatile ultimatums.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -99,7 +99,7 @@ Tactical Waterproof Backpack
     <h2 style="font-size: 1.6rem; font-weight: 700; color: #1a1a1a; border-left: 4px solid #8B4513; padding-left: 12px; margin-bottom: 20px;">How Should Readers Respond?</h2>
     <p>For ordinary consumers and business owners, watching trade policy bounce between threats of 50% tariffs and last-minute reprieves can feel exhausting. Here are three practical ways to respond:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

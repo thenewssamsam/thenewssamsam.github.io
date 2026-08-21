@@ -41,7 +41,7 @@ source_url: 'https://www.wcvb.com/article/lindsay-clancy-trial-live-updates-aug-
     <h2>What Happened: The Defense Takes the Stand</h2>
     <p>The murder trial of 36-year-old Lindsay Clancy entered a critical phase as her defense team began presenting evidence. Clancy is accused of the 2023 strangulation deaths of her three young children—Cora, Dawson, and Callan—before she jumped from a second-floor window, leaving her partially paralyzed. While the defense acknowledges she caused the deaths, they have entered a not-guilty plea, arguing she was not criminally responsible due to the throes of severe postpartum psychosis.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -36,7 +36,7 @@ source_url: 'https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-menta
     <p>For more than eight months, the aircraft carrier USS Lincoln has maintained a grueling deployment schedule in the Middle East, operating at the sharp edge of tensions involving U.S. forces and Iran. But behind the gray hull and flight deck operations, a human crisis has been quietly unfolding. Recent reports from outlets like the <em>Navy Times</em> and <em>Stars and Stripes</em> revealed that several sailors aboard the ship attempted to go overboard amid deteriorating mental health and plummeting morale.</p>
     <p>The situation came to a head when U.S. Central Command Commander Adm. Brad Cooper visited the ship and publicly acknowledged the mental health challenges facing the crew. While Cooper defended the ship’s internal metrics—pointing out that the Lincoln actually maintains some of the lowest mental health-related case numbers among the Navy's 11 active carriers—he candidly admitted a hard truth: <em>"Find any of the nearly 4 million Navy veterans in America today and they will likely tell you that service at sea for long periods isn't for everyone."</em></p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

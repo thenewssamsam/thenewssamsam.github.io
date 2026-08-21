@@ -39,7 +39,7 @@ source_url: 'https://apnews.com/article/stocks-markets-futures-rates-oil-japan-b
   <h2>What Happened in the Markets</h2>
   <p>U.S. equities edged lower on Monday, led by a 0.5% drop in the S&P 500 and a 272-point decline in the Dow Jones Industrial Average, while the Nasdaq composite slipped 0.3%. The catalyst for the afternoon sell-off was a sudden acceleration in oil prices, with Brent crude—the international standard—climbing 2.7% to  a barrel.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

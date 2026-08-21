@@ -24,7 +24,7 @@ source_url: 'https://www.rollingstone.com/culture/culture-news/luigi-mangione-fr
 <h2>The Reality of the Confession</h2>
 <p>Mangione’s guilty plea in federal court brings a formal end to the legal uncertainty surrounding the December 2024 shooting. During the proceedings, Mangione offered a stoic, methodical explanation, citing his own struggles with chronic back pain and a perceived systemic failure within the health insurance industry as the catalyst for his actions. While the Thompson family expressed a measure of relief that the justice system has held the perpetrator accountable, the legal process continues, with state-level proceedings regarding double jeopardy motions still pending.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -33,7 +33,7 @@ source_url: "https://www.foxnews.com/politics/mysterious-polling-firm-behind-fak
 
     <p>In reality, the actual election outcomes looked quite different. While Bass edged out her primary opponents, the margin was much tighter than the fabricated 12-point spread advertised by the fake firm. In Wisconsin, Francesca Hong ultimately lost a razor-thin race to David Crowley. Once the deception came to light, Median Strategies wiped its hands clean, shut down its website polling project, and refused further interviews.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -48,7 +48,7 @@ Seagate Portable External Hard Drive
     <h2>Fact-Checking the Hoax: Myth vs. Reality</h2>
     <p>Whenever a high-profile media scandal breaks, misinformation tends to cascade right alongside the actual facts. Let's break down what is verified and what remains unproven in the Median Strategies controversy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -70,13 +70,13 @@ Seagate Portable External Hard Drive
     <h2>The Real Danger: How Fake Data Erupts in the Information Ecosystem</h2>
     <p>The core issue highlighted by this stunt isn't just one bad actor; it's the fragile state of modern news aggregation. When local TV stations, online blogs, and social media aggregators chase fast-moving engagement metrics, verification standards often slip. A poll published on an obscure website with a clean interface can easily pass as legitimate authority.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>This incident reflects a broader psychological vulnerability known as confirmation bias. When people see data that supports their pre-existing political views, they are significantly less likely to pause and ask basic questions: <em>Who funded this? What was the exact methodology? Is this polling firm registered anywhere?</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -91,7 +91,7 @@ Seagate Portable External Hard Drive
     <h2>A Moment for Discernment</h2>
     <p>Incidents like this remind us how easily human perception can be manipulated by clever deception. Proverbs 14:15 wisely notes, "The simple believes everything, but the prudent gives thought to his steps." In an era dominated by digital noise and manufactured narratives, cultivating intellectual patience and discernment is more crucial than ever.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -122,7 +122,7 @@ Tactical Waterproof Backpack
     <h2>One Last Thought</h2>
     <p>The Median Strategies hoax should serve as a wake-up call for both media consumers and journalists alike. Truth is too precious a commodity to be treated as a lab rat's playground. When we demand rigorous transparency, the architects of deception lose their power to mislead.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

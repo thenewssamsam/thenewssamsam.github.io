@@ -37,7 +37,7 @@ source_url: 'https://www.bbc.com/news/articles/cj9dx03jrgjo'
 <h2>The Facts of the Case</h2>
 <p>In 2023, a family lunch in rural Leongatha, Victoria, turned into a tragedy when 51-year-old Erin Patterson served beef Wellington dishes containing lethal death cap mushrooms. Her in-laws, Don and Gail Patterson (both 70), and Gail's sister, Heather Wilkinson (66), died from the poisoning. Heather's husband, Ian Wilkinson, survived after weeks in the hospital.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

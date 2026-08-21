@@ -26,7 +26,7 @@ source_url: 'https://www.nbcsandiego.com/news/local/man-arrested-in-connection-w
   <p>The Sorrento Fire ignited on a Sunday afternoon around 3:15 p.m., quickly tearing through dry brush between Sorrento Valley Boulevard and Carmel Mountain Road. Fueled by dry conditions and terrain, the blaze expanded to roughly 130 acres within hours, ultimately scorching 138 acres before ground crews and a massive aerial response—including Cal Fire's new C-130 aircraft—halted its rapid spread.</p>
   <p>The San Diego Fire-Rescue Department and dozens of units pushed containment to 60% by Monday evening. Evacuation orders hit zone SDC-1444, sending residents toward a temporary shelter at 4161 Eastgate Mall, while several surrounding zones received temporary warnings that have since been lifted. Road closures choked major access points like Vista Sorrento Parkway and Sorrento Valley Boulevard as emergency crews secured the perimeter.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

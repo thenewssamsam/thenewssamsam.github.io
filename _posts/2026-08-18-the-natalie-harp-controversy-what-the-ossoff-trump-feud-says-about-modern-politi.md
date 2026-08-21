@@ -25,7 +25,7 @@ source_url: 'https://www.cnn.com/2026/08/17/politics/ossoff-natalie-harp-trump'
     <h2>The Clash in Atlanta</h2>
     <p>During a weekend rally in Atlanta, Senator Jon Ossoff, who is currently seeking reelection, took aim at President Trump’s work ethic and global leadership. However, the remarks took a sharp turn when Ossoff specifically mentioned Natalie Harp, the president’s executive assistant. Ossoff suggested the president prefers traveling with Harp on a "flying palace" over tending to his duties as commander-in-chief.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -38,7 +38,7 @@ source_url: 'https://www.euronews.com/my-europe/2026/08/17/eu-to-propose-tougher
     <h2>What Happened: The Autumn Sanctions Push</h2>
     <p>In a recent interview with German newspaper <em>Die Welt</em>, EU foreign policy chief Kaja Kallas outlined a fresh strategic push to ramp up economic pressure on Moscow. According to Kallas, the upcoming proposals slated for the autumn will represent the most aggressive expansion of restrictions since the full-scale invasion of Ukraine in 2022.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

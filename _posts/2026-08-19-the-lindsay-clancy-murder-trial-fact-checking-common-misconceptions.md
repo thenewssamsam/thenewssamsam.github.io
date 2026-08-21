@@ -28,7 +28,7 @@ source_url: "https://turnto10.com/news/local/testimony-in-lindsay-clancy-murder-
     <h2>Myth vs. Fact: Sorting Through the Noise</h2>
     <p>In high-profile cases, public discourse often drifts away from the courtroom reality. Here are the facts based on the current trial record.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -36,7 +36,7 @@ Seagate Portable External Hard Drive
     <h3>Myth: The defense is claiming she is "not guilty" because she didn't do it.</h3>
     <p><strong>Fact:</strong> This is a common misunderstanding of the legal plea. The defense is arguing that she is not <em>criminally responsible</em> due to mental illness. They are not disputing the physical act, but rather the defendant's capacity to understand the criminality of her actions or conform her conduct to the law at the time.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -44,7 +44,7 @@ Tactical Waterproof Backpack
     <h3>Myth: The court has already determined her religious beliefs are the motive.</h3>
     <p><strong>Fact:</strong> During a heated exchange, the prosecution questioned a witness about the defendant's Catholic faith and the concept of "mortal sin." However, the judge instructed the jury to disregard this line of questioning, meaning it is not considered evidence of motive in the eyes of the court.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -58,13 +58,13 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Truth and Suffering</h2>
     <p>Watching the unfolding tragedy of the Clancy family, I am reminded of the complexity of the human heart and the reality of mental suffering. It is easy to search for simple explanations or moral labels, but Scripture invites us to approach such profound brokenness with humility. As it says in <strong>Psalm 34:18</strong>, "The Lord is close to the brokenhearted and saves those who are crushed in spirit."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>This does not excuse the gravity of the acts committed, but it reminds us that we are not the final judges of a person's soul or their ultimate state of mind. We are called to seek truth in all things, as <strong>John 8:32</strong> reminds us: "Then you will know the truth, and the truth will set you free." In the context of a trial, this means relying on the evidence and the judicial process rather than speculation, while maintaining compassion for the immense loss suffered by the family.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

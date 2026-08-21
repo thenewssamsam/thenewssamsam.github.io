@@ -35,7 +35,7 @@ source_url: 'https://news.bloomberglaw.com/us-law-week/doj-fails-to-overturn-ord
 <h2 id="what-happened">What Happened in USA v. Jackson</h2>
 <p>The case revolves around a decision by Attorney General Pam Bondi to designate Sigal Chattah as the first assistant US attorney in Nevada, a procedural maneuver designed to install her as the acting top federal prosecutor for the district. A federal district court initially ruled last September that the appointment violated the Federal Vacancies Reform Act (FVRA), finding that the specific mechanism used "was never intended by Congress."</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -35,7 +35,7 @@ source_url: 'https://www.cbssports.com/nfl/news/saints-rookie-jordyn-tyson-out-t
 
 <p>For an organization, a sudden injury to a prized rookie is not merely an athletic setback; it is an industrial stress test. It forces a hard look at workforce depth, backup integration, and the fragile margin between a promising season and an uphill battle.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 KEOFID Classic Backpack 
 </a></p>
 

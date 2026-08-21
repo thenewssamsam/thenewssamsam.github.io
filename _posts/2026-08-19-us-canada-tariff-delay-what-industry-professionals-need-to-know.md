@@ -23,7 +23,7 @@ source_url: "https://apnews.com/article/tariffs-trump-canada-usmca-trade-aae597c
     <h2>The Current Trade Impasse</h2>
     <p>The tariffs were set to hit a wide array of goods, from industrial components to consumer products, just hours before the pause was announced. While Canadian Prime Minister Mark Carney noted "substantial progress," the underlying tension remains. At the heart of the dispute is the Trump administration's effort to leverage Section 338 of the 1930 Tariff Act to force concessions on Canadian trade policies regarding alcohol, dairy, and automotive exports.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -32,7 +32,7 @@ Seagate Portable External Hard Drive
   <div class="ncg-quote-box" style="border: 2px solid #555; padding: 15px; margin: 20px 0; background-color: #f9f9f9;">
     <p><strong>"The current trade environment demands that industry leaders shift from a 'just-in-time' mindset to a 'just-in-case' strategy, preparing for volatility in cross-border supply chains."</strong></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -42,7 +42,7 @@ Seagate Portable External Hard Drive
     <h2>Career and Industry Implications</h2>
     <p>For those in the supply chain and manufacturing sectors, this situation underscores the fragility of North American integration. When trade policy shifts rapidly, the ripple effects are felt by procurement managers, logistics coordinators, and plant operations directors.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -50,7 +50,7 @@ Tactical Waterproof Backpack
     <h3>The Cost of Uncertainty</h3>
     <p>As noted by the Canadian Chamber of Commerce, businesses thrive on predictability. When tariffs are threatened and then paused, companies cannot effectively forecast costs or manage inventory. For the average professional, this means increased pressure to build redundancy into supply networks and diversify suppliers to mitigate the risk of sudden 50% price spikes.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -58,7 +58,7 @@ Tactical Waterproof Backpack
     <div style="border-left: 5px solid #d4af37; background: #fdfaf0; padding: 15px; margin: 15px 0;">
       <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/Supply-Chain-Management-Strategy-Planning/dp/0134731858">Supply Chain Management: Strategy, Planning, and Operation</a> - . Understanding the fundamentals of supply chain strategy is essential for navigating today's volatile trade landscape.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -67,7 +67,7 @@ Tactical Waterproof Backpack
     <h3>Adapting to Regulatory Volatility</h3>
     <p>The use of the 1930 Tariff Act—a relic of the Great Depression—to enforce modern trade policy is a significant departure from standard diplomatic norms. Industry professionals must now factor in "policy risk" as a primary variable in their long-term project planning. This involves more than just monitoring trade news; it requires a deep understanding of the legal frameworks that presidents use to bypass traditional legislative hurdles.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -77,13 +77,13 @@ Seagate Portable External Hard Drive
     <h2>A Perspective on Stewardship</h2>
     <p>In the midst of these complex global negotiations, I am reminded of the biblical principle of stewardship. Proverbs 22:3 says, <em>"The prudent see danger and take refuge, but the simple keep going and pay the penalty."</em> This is a powerful reminder that wisdom involves looking ahead, anticipating challenges, and preparing accordingly—not out of fear, but out of a responsibility to those who depend on our decisions, whether they are our families or our colleagues.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>Furthermore, we are encouraged in 1 Timothy 2:1-2 to pray for those in authority, not because we agree with every policy, but because their decisions impact the stability of the communities where we work and live. This moment invites us to consider how we can act with integrity and foresight, even when the world around us feels like it is in a state of "limbo."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

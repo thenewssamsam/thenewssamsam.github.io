@@ -20,7 +20,7 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/17/storm-lala-hawaii-d
     <p>When <a href="https://www.theguardian.com/us-news/2026/aug/17/storm-lala-hawaii-damage" target="_blank" rel="noopener noreferrer">Tropical Storm Lala blew past Hawaii's Big Island</a>, it left behind more than just downed power lines and flooded roads—it shattered routines, cut off critical medical access, and plunged over 100,000 residents into darkness. Though downgraded from a hurricane before grazing the islands, Lala delivered over 3.5 feet of rainfall in some areas over a 48-hour span, transforming familiar local landscapes into disaster zones.</p>
     <p>For mainland observers, a tropical storm passing through the Pacific might look like a fleeting weather blip. But for the close-knit communities scattered across the Big Island and Oahu, a storm of this magnitude exposes the fragile realities of island infrastructure, geographic isolation, and the sheer grit required to rebuild when vital lifelines snap.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

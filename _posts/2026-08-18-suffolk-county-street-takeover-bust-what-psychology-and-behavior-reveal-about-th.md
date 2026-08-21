@@ -41,7 +41,7 @@ source_url: 'https://www.fox5ny.com/news/15-arrested-7-vehicles-impounded-during
 
     <p>This incident is part of a broader, troubling trend confronting suburban and urban communities alike. But beneath the flashing police cruisers, the rubber-burned asphalt, and the flashing smartphones recording donuts in the middle of an intersection lies a deeper question: What drives young people to risk their futures, their driver's licenses, and their lives for a few minutes of reckless performance?</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

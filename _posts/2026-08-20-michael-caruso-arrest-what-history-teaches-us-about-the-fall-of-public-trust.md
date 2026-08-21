@@ -27,7 +27,7 @@ source_url: "https://www.wptv.com/news/palm-beach-county/palm-beach-county-clerk
 
   <p>Following his arrest, state officials moved swiftly to protect public integrity. Shannon Ramsey-Chessman was sworn in as clerk ad interim to ensure continuity of operations for the 650 employees and residents relying on the office. Special prosecutors in the Ninth Judicial Circuit are handling the ongoing case, and Caruso is currently held without bond in the Orange County Jail.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -35,7 +35,7 @@ Seagate Portable External Hard Drive
   <div class="ncg-quote-box">
     <p>“When someone targets a child, they don’t just break the law — they shatter a community’s trust.” — Lisa Haba, Victim’s Attorney</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -44,7 +44,7 @@ Tactical Waterproof Backpack
   <h2 id="historical-parallel">A Historical Parallel: The Illusion of Public Virtue and Private Corruption</h2>
   <p>History is replete with grim reminders that high social standing has often served as a convenient cloak for moral decay. If we look back through the annals of political history—from the classic Roman corruption trials of Verres to nineteenth-century civic scandals—we see a recurring pattern: powerful individuals frequently assume that their public authority, social status, or community prestige places them above moral scrutiny.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -56,14 +56,14 @@ Seagate Portable External Hard Drive
 
   <p>In classical political philosophy, thinkers like Cicero argued that true public service requires absolute moral integrity, warning that civic power without personal virtue is merely tyranny in disguise. When Caruso reportedly attempted to dismiss the allegations by citing his personal attractions during a police interview, it mirrored a dangerous historical conceit: the belief that powerful actors are fundamentally exceptional, exempt from the basic ethical boundaries that govern ordinary human conscience.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
   <p>Furthermore, historical institutional breakdowns show us that corruption rarely stays hidden forever. Just as structural flaws in ancient administrations eventually brought down seemingly untouchable leaders, modern digital forensics, investigative diligence, and brave whistleblowers routinely dismantle the facades built by corrupt officials.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -71,21 +71,21 @@ Seagate Portable External Hard Drive
   <h2 id="scripture-perspective">A Moment for Moral Reflection</h2>
   <p>When monumental betrayals like this surface, it forces us to reflect deeply on the fragility of human institutions and the absolute necessity of guarding our hearts and communities. Scripture warns us repeatedly about the hidden deeds of darkness and the tragic pride that precedes a fall.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
   
   <p>As the Apostle Luke reminds us, truth has a way of coming to light, no matter how carefully it is concealed: <em>"For there is nothing hidden that will not be disclosed, and nothing concealed that will not be known or brought out into the open."</em> (Luke 8:17, NIV). This spiritual reality brings both solemn warning and eventual comfort to survivors seeking justice—that hidden wickedness cannot evade ultimate accountability.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
   <p>Yet, it also calls every community to exercise sober vigilance. Proverbs 4:23 advises us to <em>"Above all else, guard your heart, for everything you do flows from it."</em> This tragedy reminds us that titles, elections, and professional accolades do not purify a person's character; true integrity is measured by how one treats the most vulnerable among us when no one else is watching.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -98,7 +98,7 @@ Tactical Waterproof Backpack
   <h2 id="how-readers-respond">How Should Readers Respond?</h2>
   <p>News of this magnitude can leave citizens feeling disillusioned, angry, or anxious about the institutions in their own neighborhoods. Here are concrete ways to respond constructively:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

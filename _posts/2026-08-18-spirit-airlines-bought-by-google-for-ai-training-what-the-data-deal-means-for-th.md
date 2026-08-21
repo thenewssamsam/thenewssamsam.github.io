@@ -20,7 +20,7 @@ source_url: 'https://gizmodo.com/spirit-airlines-is-dead-but-its-data-will-haunt
 
   <p>When budget carrier Spirit Airlines folded its operations, most flyers assumed the story ended with grounded planes and canceled vacation plans. Instead, the airline's digital ghost has found a strange second life. Google has emerged victorious in a bankruptcy auction, laying down  million for a massive trove of internal Spirit corporate data with plans to feed it directly into its artificial intelligence models. While passenger profiles and loyalty records were explicitly excluded from the sale, the transaction opens up a fascinating and unsettling window into how dead companies live on as raw material for machine learning.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

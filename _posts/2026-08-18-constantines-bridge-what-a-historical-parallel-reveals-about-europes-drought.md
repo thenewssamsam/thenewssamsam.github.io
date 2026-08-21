@@ -25,7 +25,7 @@ source_url: 'https://thedebrief.org/a-mile-long-ancient-roman-engineering-marvel
     <p>In the shallow summer waters near the village of Gigen, Bulgaria, an extraordinary archaeological ghost story has made a rare public appearance. A severe and prolonged summer heatwave gripping Europe has caused major waterways, including the Rhine and the Danube, to experience dramatic drops in water levels. As the Danube receded, it exposed the ancient stone foundations of <strong>Constantine's Bridge</strong>—a monumental architectural feat first assembled nearly seventeen centuries ago.</p>
     <p>Archaeologists from the Pleven Regional Historical Museum, aided by drone technology operated by researcher Pavel Popov, successfully mapped the massive underwater structural bases. Built under the reign of Roman Emperor Constantine I and inaugurated on July 5, A.D. 328, the mile-long bridge once connected modern-day Romania (near Sucidava) with Bulgaria (near Pleven and the ancient city of Oescus). At the time of its completion, it stood as the single longest Roman-built bridge anywhere in the ancient world, an empire-spanning infrastructure project designed to project power and secure trade routes across a formidable natural barrier.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

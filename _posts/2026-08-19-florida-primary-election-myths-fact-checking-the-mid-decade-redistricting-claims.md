@@ -23,7 +23,7 @@ source_url: "https://abcnews.com/Politics/florida-holds-1st-major-primaries-afte
     <h2>Sorting Reality from Rhetoric</h2>
     <p>In the heat of an election cycle, claims about "guaranteed" outcomes or "stolen" districts often circulate. Here is a breakdown of the current situation based on the facts reported.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -32,7 +32,7 @@ Tactical Waterproof Backpack
       <h3>Myth: The new map makes every Democratic seat in Florida uncompetitive.</h3>
       <p><strong>Fact:</strong> While analysts suggest the new map could allow Republicans to flip up to four seats, this is a projection of possibility, not certainty. For instance, Rep. Kathy Castor’s 14th District remains a strong Democratic hold despite being redrawn to split Tampa and St. Petersburg. The political environment and turnout remain the ultimate arbiters of these outcomes.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -42,7 +42,7 @@ Seagate Portable External Hard Drive
       <h3>Myth: Byron Donalds is currently the Governor of Florida.</h3>
       <p><strong>Fact:</strong> Rep. Byron Donalds is currently a member of the U.S. Congress. He is the front-runner in the Republican gubernatorial primary, aiming to succeed term-limited Gov. Ron DeSantis. If he wins the nomination and the general election, he would be the first Black governor in Florida's history, but he does not hold that office today.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -52,7 +52,7 @@ Seagate Portable External Hard Drive
       <h3>Myth: All Republican incumbents are sailing to easy re-election.</h3>
       <p><strong>Fact:</strong> Not all GOP members are free of internal or external friction. Rep. Cory Mills faces significant headwinds, including a House ethics investigation and a primary challenge endorsed by fellow Republican representatives, despite maintaining support from former President Donald Trump.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -69,13 +69,13 @@ Seagate Portable External Hard Drive
     <h2>Truth and Integrity in Leadership</h2>
     <p>As we navigate the complexities of political systems and the often-contentious nature of elections, it is natural to feel a sense of unease or cynicism. I am reminded of the words in <strong>Proverbs 12:22</strong>: <em>"The Lord detests lying lips, but he delights in people who are trustworthy."</em> This serves as an important reminder that, regardless of the political party or the specific candidate, the core of public service should always be rooted in truth.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>When we see scandals or tension, it invites us to consider the character of those we entrust with authority. <strong>Psalm 15:1-2</strong> asks, <em>"Lord, who may dwell in your sacred tent? ... The one whose walk is blameless, who does what is righteous, who speaks the truth from their heart."</em> These verses call us to look beyond the headlines and seek leaders whose actions align with integrity, reminding us that our ultimate hope lies not in a map or a campaign, but in values that endure.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

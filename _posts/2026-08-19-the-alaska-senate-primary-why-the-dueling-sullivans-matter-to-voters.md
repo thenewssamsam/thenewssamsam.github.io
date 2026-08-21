@@ -25,7 +25,7 @@ source_url: "https://apnews.com/article/alaska-primary-senate-sullivan-peltola-c
     <div class="ncg-quote-box" style="border-left: 5px solid #6a5acd; background: #f9f7ff; padding: 15px; margin: 20px 0;">
         <p><strong>"The presence of two candidates with nearly identical names forces voters to shift from 'system 1' intuitive thinking to 'system 2' analytical processing, a shift that many voters find mentally taxing."</strong></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -36,7 +36,7 @@ Seagate Portable External Hard Drive
     <h2>The Psychology of Name Recognition</h2>
     <p>From a behavioral standpoint, the "Dueling Sullivans" phenomenon exploits the <em>mere-exposure effect</em>. Voters are psychologically predisposed to favor names that sound familiar or are already established in their memory. When a ballot presents two identical surnames, the brain’s natural tendency to rely on cognitive shortcuts is disrupted.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -44,7 +44,7 @@ Seagate Portable External Hard Drive
     <h3>The Burden of Choice</h3>
     <p>When voters encounter ambiguity, they often experience <em>decision fatigue</em>. In an open primary system where all candidates appear together, the mental energy required to distinguish between two "Sullivans" can lead to frustration. This frustration often manifests as a search for external cues—such as a party label or an "incumbent" designation—to reduce the cognitive load.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -52,7 +52,7 @@ Seagate Portable External Hard Drive
     <div class="ncg-product" style="border-left: 5px solid #FFD700; background: #fdfaf0; padding: 15px; margin: 20px 0;">
         <p><strong>Recommended:</strong> <em>Thinking, Fast and Slow</em> by Daniel Kahneman. Understand the cognitive biases that influence our daily decisions. <a href="#">Check Price</a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -61,7 +61,7 @@ Seagate Portable External Hard Drive
     <h3>The Power of Endorsements</h3>
     <p>The intervention of high-profile figures like Donald Trump serves as a <em>heuristic cue</em>. By explicitly urging followers to vote for "SULLIVAN, DAN S.," the endorsement acts as a shortcut that bypasses the need for the voter to analyze the ballot independently. It effectively reinforces the incumbent's brand identity against the "noise" created by the second candidate.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -71,13 +71,13 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Truth and Clarity</h2>
     <p>The confusion surrounding these ballots brings to mind the importance of discernment in all areas of life. Proverbs 4:25-26 (ESV) reminds us: <em>"Let your eyes look directly forward, and your gaze be straight before you. Ponder the path of your feet; then all your ways will be sure."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>In our modern age, we are bombarded with competing voices and confusing labels. Just as voters must look past the surface to identify the candidate that aligns with their values, we are often called to look past the "noise" of life to discern the truth. This makes me think about how easily we can be swayed by familiar names or popular opinions without doing the hard work of investigation. Being intentional—whether in the voting booth or in our personal choices—is an act of stewardship over the influence we hold.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -96,7 +96,7 @@ Seagate Portable External Hard Drive
     <h2>One Last Thought</h2>
     <p>The "Dueling Sullivans" saga is a reminder that the political process is as much about human perception as it is about policy. As Alaska moves toward the general election, voters will continue to navigate a system designed to be open, yet prone to the complexities of human nature. Clarity is not just a benefit of the system—it is a responsibility of the voter.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

@@ -26,7 +26,7 @@ source_url: ''
 <h2 id="what-happened">What Happened in Court</h2>
 <p>In opening statements before a Clark County jury, prosecutors laid out a narrative rooted in a bitter 1990s gang rivalry between the Southside Crips-Burris Street faction, led by Davis, and Mob Piru, a Compton street gang closely tied to Death Row Records and mogul Marion &ldquo;Suge&rdquo; Knight. Hours before the fatal shooting on September 7, 1996, members of Shakur's entourage were captured on surveillance video confronting and beating Orlando Anderson—Davis&rsquo;s nephew—in the lobby of the MGM Grand hotel following a Mike Tyson boxing match.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

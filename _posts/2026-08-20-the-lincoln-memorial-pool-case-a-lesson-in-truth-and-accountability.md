@@ -26,13 +26,13 @@ source_url: 'https://www.nbcnews.com/politics/justice-department/trump-administr
         <h2>What Really Happened at the Reflecting Pool?</h2>
         <p>In June 2026, the Lincoln Memorial Reflecting Pool became the center of a controversy when sections of its liner began to peel. President Donald Trump publicly accused individuals of "destroying" the pool, leading to the indictment of former Olympic canoeist David Hearn. However, new evidence reveals that a National Park Service engineer had warned the administration about the peeling issue nearly a month before the charges were filed.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
         <p>The engineer noted that the peeling was "overspray" from the installation process—a minor technical flaw rather than an act of vandalism. Prosecutors eventually acknowledged they were unaware of these documents when they initially brought charges, leading to the case against Hearn being dropped on July 31. Despite this, the path forward remains complex as defense attorneys seek to prevent the government from refiling charges.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -46,13 +46,13 @@ Tactical Waterproof Backpack
         <h2>Integrity and the Weight of Our Words</h2>
         <p>When we examine this situation through the lens of faith, we are reminded of the profound power of our words. Scripture frequently warns against the dangers of false witness and the importance of seeking the truth before passing judgment. Proverbs 18:17 (ESV) tells us, <em>"The one who states his case first seems right, until the other comes and examines him."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
         <p>This verse serves as a timeless warning for everyone, especially those in positions of authority. When accusations are leveled against a neighbor—or a citizen—without a full understanding of the facts, the damage done to that person's reputation and peace of mind is significant. The case of David Hearn highlights how quickly narratives can spiral when the desire for a "culprit" outweighs the patience required to uncover the truth.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -60,7 +60,7 @@ Tactical Waterproof Backpack
         <div style="border-left: 4px solid #b8860b; padding-left: 15px; margin: 20px 0; background: #f9f9f9; padding: 15px;">
             <p><strong>A Reflection on Stewardship:</strong> As Christians, we are called to be stewards of truth. Whether in our personal lives or our public discourse, we must be careful not to rush to judgment. Psalm 15:1-2 asks, <em>"O Lord, who shall sojourn in your tent? ... He who walks blamelessly and does what is right and speaks truth in his heart."</em> This speaks to a deeper character requirement: the internal commitment to truth that persists even when it is inconvenient or contradicts a popular narrative.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

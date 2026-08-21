@@ -22,7 +22,7 @@ source_url: 'https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-5
 
 <p>For everyday investors and households trying to make sense of shifting portfolios, headline drops can easily trigger anxiety. But looking past the daily ticker tape reveals a very specific set of financial mechanics driving the movement—from shipping chokepoints in the Middle East to multi-decade highs in government borrowing costs. Here is a clear-cut look at what is happening beneath the surface and what it means for your broader financial picture.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

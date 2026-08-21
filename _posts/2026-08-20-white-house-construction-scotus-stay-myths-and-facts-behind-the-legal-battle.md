@@ -42,7 +42,7 @@ source_url: "https://www.foxnews.com/opinion/morning-glory-scotus-should-urgentl
 
 <p>In response, the Department of Justice filed an emergency application with Supreme Court Chief Justice John Roberts, asking the high court to stay the lower court's order and allow construction to proceed without micromanagement from the judiciary. Supporters of the DOJ petition argue that the executive branch must maintain unimpeded authority to secure the executive mansion against rapidly evolving technological and physical threats.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -50,7 +50,7 @@ Seagate Portable External Hard Drive
 <h2 id="myths-and-facts">Myth vs. Fact: Sorting Out the Legal Claims</h2>
 <p>In any high-profile legal dispute involving the presidency, rumors and misconceptions quickly circulate in media commentary. A careful review of the public record and judicial filings helps clarify what is actually at stake:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -60,7 +60,7 @@ Tactical Waterproof Backpack
 <h3>Myth: The judiciary has unrestricted authority to micromanage any physical alteration on executive grounds.</h3>
 <p><strong>Fact:</strong> The separation of powers outlined in the U.S. Constitution creates distinct branches with specific domains. Critics of the lower court rulings, including dissenting D.C. Circuit Judge Neomi Rao, point out that commanding the executive branch on how to structure its command-and-control facilities infringes upon the President's constitutional role as Commander in Chief.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -75,7 +75,7 @@ Seagate Portable External Hard Drive
 <h3>Myth: Supreme Court intervention in construction disputes is unprecedented and purely political.</h3>
 <p><strong>Fact:</strong> The Supreme Court frequently evaluates emergency stay applications when lower court injunctions allegedly impair core executive functions or national security operations. The timing of the court's review reflects the urgent nature of the executive branch's national security responsibilities rather than partisan scheduling.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -90,7 +90,7 @@ Tactical Waterproof Backpack
 <h2 id="security-reality">The Modern Security Imperative</h2>
 <p>Beyond the legal arguments over statutory interpretation and standing, commentators emphasize the changing threat matrix facing modern American leadership. Security experts point to the rapid proliferation of sophisticated surveillance tools, drone swarms, and hypersonic capabilities over recent years. Facilities built during the mid-20th century were designed to withstand entirely different categories of conflict.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -98,7 +98,7 @@ Tactical Waterproof Backpack
 <div class="ncg-quote-box">
   <p>"To ignore the rapidly evolving threats to the White House and any facility used frequently by any president against this reality would be reckless beyond reason and defy common sense."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -106,7 +106,7 @@ Tactical Waterproof Backpack
 
 <p>When historic preservation statutes clash with the immediate necessity of safeguarding national leadership from state-sponsored threats or targeted violence, constitutional priorities must be weighed carefully by the highest court.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -114,14 +114,14 @@ Tactical Waterproof Backpack
 <h2 id="spiritual-perspective">A Moment for Reflection on Wisdom and Protection</h2>
 <p>As leaders navigate the complexities of national security, governance, and institutional preservation, history and scripture remind us of the enduring need for wisdom and prudent stewardship. Proverbs 21:31 reminds us, "The horse is made ready for the day of battle, but victory belongs to the Lord." This timeless principle suggests that while practical preparation, defensive measures, and careful planning are entirely necessary duties for earthly authorities, true peace ultimately rests upon a foundation of righteous governance and divine guidance.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Furthermore, the Apostle Paul instructs believers in 1 Timothy 2:1-2 to offer prayers and supplications for kings and all who are in high positions, "that we may lead a peaceful and quiet life, godly and dignified in every way." When we observe public controversies surrounding the safety and administration of national leaders, it serves as a quiet reminder to pray for wisdom, discernment, and integrity for those entrusted with the heavy burden of leadership.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -129,7 +129,7 @@ Tactical Waterproof Backpack
 <h2 id="reader-response">How Should Readers Respond?</h2>
 <p>For citizens observing these high-level legal and security debates, constructive engagement involves several thoughtful steps:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -147,7 +147,7 @@ Seagate Portable External Hard Drive
 <h2 id="conclusion">Closing Takeaway &amp; One Last Thought</h2>
 <p>The Supreme Court's impending decision on the White House East Wing construction stay highlights the perennial challenge of balancing historic preservation with twenty-first-century security realities. By examining the facts behind the litigation, citizens can better appreciate the constitutional principles at play without getting lost in political noise.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

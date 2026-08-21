@@ -27,7 +27,7 @@ source_url: "https://www.foxnews.com/politics/iran-fails-strike-deal-us-deadline
     <h2>The Behavioral Trap of "White Flag" Rhetoric</h2>
     <p>From a psychological standpoint, the impasse is not merely a clash of policy, but a perfect storm of cognitive biases that make "winning" more attractive than "settling."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -35,7 +35,7 @@ Tactical Waterproof Backpack
     <h3>1. The Endowment Effect and Loss Aversion</h3>
     <p>Both nations are suffering from <em>loss aversion</em>—the psychological tendency to prefer avoiding losses over acquiring equivalent gains. Iran views its control over the Strait of Hormuz as an "endowed" asset. To relinquish that control feels like a profound loss, which the human brain is wired to fight far more aggressively than it would fight to gain a new economic benefit. Similarly, the U.S. views its established naval dominance as a baseline; any perceived retreat is processed as a deep psychological blow to national status.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -47,7 +47,7 @@ Tactical Waterproof Backpack
     <h3>2. Groupthink and Public Posturing</h3>
     <p>When leaders like President Trump call for a "white flag of surrender," they are speaking to domestic audiences as much as to the adversary. This creates a <em>groupthink</em> environment where internal dissent is minimized, and the goal shifts from "reaching an agreement" to "projecting strength." Once a leader publicly frames a situation in binary terms—surrender versus victory—the psychological cost of backing down becomes prohibitive, regardless of the strategic logic.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -57,14 +57,14 @@ Seagate Portable External Hard Drive
     <h2>A Reflection on Pride and Peace</h2>
     <p>Watching these nations grapple with the weight of their own influence brings to mind the wisdom found in Proverbs 16:18, which reminds us: <em>"Pride goes before destruction, and a haughty spirit before a fall."</em> (ESV). This is not to comment on the politics of the situation, but to reflect on the human heart. When we become so entrenched in our positions that we view compromise as a moral failing, we often find ourselves trapped in cycles of conflict that serve no one.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>Another reflection comes from James 4:1-2: <em>"What causes quarrels and what causes fights among you? Is it not this, that your passions are at war within you?"</em> (ESV). It invites us to consider that the external battles we see in the news often mirror the internal battles of ego, fear, and the desire for control that exist within every human institution. Perhaps true strength is not found in the demand for a "white flag," but in the quiet, difficult work of seeking a way forward that values human life above the preservation of pride.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -73,7 +73,7 @@ Seagate Portable External Hard Drive
   <div class="ncg-amazon-ad" style="border-left: 5px solid #ff9900; background-color: #f3f3f3; padding: 15px; margin: 20px 0;">
     <p><strong>Recommended Reading:</strong> <a href="https://www.amazon.com/dp/0143128582" target="_blank"><em>Thinking, Fast and Slow</em> by Daniel Kahneman</a> - Explore the biases that drive human decision-making. ()</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -83,7 +83,7 @@ Tactical Waterproof Backpack
     <h2>How Should Readers Respond?</h2>
     <p>For the average reader, this news can feel overwhelming. Here is how to process it:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

@@ -28,7 +28,7 @@ source_url: 'https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-
   
   <p>The settlement officially drops a massive  billion countersuit and pivots two fierce competitors into a forced collaboration. Meanwhile, rival electric air taxi developer Joby Aviation made its own aggressive market move, acquiring Resonant Sciences for  million to establish a dedicated defense business unit, aptly named Joby Defense. Together, these high-stakes transactions show that electric vertical takeoff and landing (eVTOL) pioneers are rapidly seeking near-term revenue streams and mature corporate backing while they grind through the notoriously lengthy regulatory certification process.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 QT-QY Military Tactical Backpack 
 </a></p>
 

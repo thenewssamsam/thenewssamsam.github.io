@@ -37,7 +37,7 @@ source_url: 'https://247wallst.com/investing/2026/08/17/berkshire-raised-its-alp
 <p>Market sentiment around Alphabet (NASDAQ:GOOG) has experienced a notable tug-of-war. On one side, the company's Q2 2026 report delivered stellar operational figures: revenue reached  billion, representing a 24.2% year-over-year increase, while earnings per share (EPS) of  easily surpassed the  consensus estimate. Furthermore, Google Cloud accelerated dramatically to 82% growth, with operating margins expanding from 20.7% to 35.6%.</p>
 <p>Yet, prior to Berkshire's disclosure, the market chose to focus on the cost side of the ledger. Capital expenditures nearly doubled to  billion, pushing free cash flow into negative territory. Shares cooled off by 7.2% over the past month, trading about 4% below their 52-week high of . Enter Berkshire Hathaway. By expanding its share count by 658% in a single quarter, the legendary investment firm signaled strong conviction that the market was mispricing Alphabet's near-term cash burn relative to its long-term revenue visibility.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -26,7 +26,7 @@ source_url: ''
 
   <p>While legal analysts compare the stakes to historic litigation against tobacco and opioid manufacturers, the core of the debate forces a deeper psychological question: Why are these specific digital tools so effective at overriding human self-control, particularly in developing minds?</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

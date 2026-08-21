@@ -59,7 +59,7 @@ source_url: "https://www.nbcnews.com/politics/justice-department/doj-issues-gran
   <div class="mvf-amazon-box">
     <p>Recommended Resource: <a href="https://www.amazon.com/dp/B08N5K2V7X?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Understanding Modern American Politics: Campaigns, Media, and Integrity </a> - A helpful guide for navigating complex election cycles and political reporting.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -67,7 +67,7 @@ Tactical Waterproof Backpack
 
   <p>Recently, the Department of Justice escalated its inquiry by issuing grand jury subpoenas. While grand jury proceedings are notoriously opaque, the move signals that federal prosecutors have moved beyond preliminary inquiries and are actively gathering sworn testimony and documents. For ordinary observers watching from outside Alaska, the sheer novelty of "dueling candidates" sounds almost cinematic. Yet for the local political ecosystem, the federal intervention points to serious legal questions that require careful, sober examination rather than partisan speculation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -83,7 +83,7 @@ Seagate Portable External Hard Drive
   <div class="mvf-amazon-box">
     <p>Recommended Resource: <a href="https://www.amazon.com/dp/1501171348?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Constitution of the United States and Related Documents </a> - Keep a handy reference of foundational legal principles close by.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -97,7 +97,7 @@ Seagate Portable External Hard Drive
   <div class="mvf-amazon-box">
     <p>Recommended Resource: <a href="https://www.amazon.com/dp/B07V7SP818?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Fact-Checking and Media Literacy Workbook </a> - Essential tools for separating verified facts from viral online rumors.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -115,7 +115,7 @@ Seagate Portable External Hard Drive
   <div class="mvf-amazon-box">
     <p>Recommended Resource: <a href="https://www.amazon.com/dp/0393356256?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Thinking, Fast and Slow by Daniel Kahneman </a> - Understand how cognitive biases shape our snap judgments on complex news stories.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -124,7 +124,7 @@ Seagate Portable External Hard Drive
   <h2 id="spiritual-reflection">A Moment for Reflection</h2>
   <p>Stories like this one often stir up cynicism about public life, power, and the institutions we rely on for order. When we watch public figures and legal systems clash, it reminds me of how easily human ambition can complicate our communities. One ancient proverb offers a grounding perspective for times of confusion: <q>The integrity of the upright guides them, but the unfaithfulness of the crooked destroys them.</q> (Proverbs 11:3, NIV). Similarly, the Apostle Paul encourages believers to <q>let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer each person</q> (Colossians 4:6, ESV). These reminders invite us to approach turbulent news not with anger or glee, but with a steady commitment to truth, honesty, and personal integrity in our own spheres of influence.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -132,7 +132,7 @@ Seagate Portable External Hard Drive
   <div class="mvf-amazon-box">
     <p>Recommended Resource: <a href="https://www.amazon.com/dp/1433560558?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">ESV Study Bible </a> - Deepen your understanding of wisdom literature and timeless biblical principles.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -149,7 +149,7 @@ Tactical Waterproof Backpack
   <div class="mvf-amazon-box">
     <p>Recommended Resource: <a href="https://www.amazon.com/dp/0143111582?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Federalist Papers by Alexander Hamilton, James Madison, and John Jay </a> - Explore the original design and safeguards of the American legal and political framework.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -166,7 +166,7 @@ Tactical Waterproof Backpack
   <div class="mvf-amazon-box">
     <p>Recommended Resource: <a href="https://www.amazon.com/dp/B084W4K271?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Civic Engagement and Community Leadership Handbook </a> - Practical guides for participating responsibly in local and national democracy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -179,7 +179,7 @@ Tactical Waterproof Backpack
   <div class="mvf-amazon-box">
     <p>Recommended Resource: <a href="https://www.amazon.com/dp/0525562435?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Educated: A Memoir by Tara Westover </a> - A powerful reflection on truth, learning, and independent critical thinking.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

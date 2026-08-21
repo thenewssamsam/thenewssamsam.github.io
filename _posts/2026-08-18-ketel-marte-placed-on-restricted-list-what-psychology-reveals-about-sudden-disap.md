@@ -40,7 +40,7 @@ source_url: 'https://www.mlbtraderumors.com/2026/08/diamondbacks-place-ketel-mar
 <h2>What Happened in Boston</h2>
 <p>The Arizona Diamondbacks were preparing for a crucial game against Boston when manager Torey Lovullo delivered surprising news to the media. Marte, expected to start as the designated hitter, simply did not show up to the stadium. Lovullo admitted in his postgame comments that it had been a crazy day, noting that while he knew something was amiss, he genuinely believed his star player would walk through the clubhouse doors before game time.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

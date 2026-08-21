@@ -27,7 +27,7 @@ source_url: "https://apnews.com/article/polling-poll-fake-median-karen-bass-los-
 
 <p>Major independent aggregation platforms like The New York Times and FiftyPlusOne immediately ignored the releases due to glaring red flags, such as missing methodology statements, unnamed founders, and anonymous firms. Yet, the Bass campaign amplified the Los Angeles numbers on social media before deleting the post and defending themselves by noting that established news outlets had also covered the claims. Furthermore, financial prediction markets like Kalshi and Polymarket saw immediate, concentrated trading spikes following the release of the bogus data, proving that even market participants can be swayed by unverified digits.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -35,14 +35,14 @@ Seagate Portable External Hard Drive
 <h2 id="psychology-perspective">The Psychology of Credulity: Why We Fall for Favorable Data</h2>
 <p>From a behavioral psychology standpoint, the rapid spread of the Median Strategies hoax is a textbook study in confirmation bias and motivated reasoning. When human beings are emotionally or professionally invested in a specific outcome—such as winning a contentious political election—our brains undergo a subtle shift in how we evaluate incoming information.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Instead of applying the same rigorous skepticism to all incoming data, we tend to subject unfavorable information to intense scrutiny while giving favorable information an immediate pass. This phenomenon, often described by psychologists as cognitive ease, occurs because believing something we <em>want</em> to be true requires very little mental friction. The brain relaxes its defensive barriers, whispering that the numbers simply validate what we already suspected to be true.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -58,7 +58,7 @@ Tactical Waterproof Backpack
 
 <p>Additionally, we are heavily influenced by social proof and the illusion of consensus. When a statistic appears online formatted neatly in charts and percentages, our heuristic-driven minds categorize it as "formal data." If we see others sharing it, our instinctual herd mentality kicks in. We assume someone else has already done the hard work of verifying its authenticity. In an information ecosystem saturated with endless feeds, speed often overrides verification.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -71,7 +71,7 @@ Seagate Portable External Hard Drive
 <h2 id="scripture-perspective">A Moment for Moral Discernment</h2>
 <p>Situations like this expose the quiet dangers of misplaced trust and the human appetite for comforting illusions. Long before modern algorithms and digital social experiments existed, ancient wisdom warned about the temptation to embrace convenient falsehoods over demanding truths. Proverbs 14:15 reminds us, "The simple believes everything, but the prudent gives thought to his steps." This ancient observation speaks directly to our digital age, where a lack of basic verification can lead entire communities astray.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -83,7 +83,7 @@ Tactical Waterproof Backpack
 
 <p>When we find ourselves eager to share news that validates our preferences, taking a quiet pause to test the underlying source is an exercise in wisdom and intellectual honesty. Ephesians 4:25 encourages speaking and dealing in truth, reminding us that integrity requires resisting the temptation to bend reality for short-term advantage.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -96,7 +96,7 @@ Seagate Portable External Hard Drive
 <h2 id="how-readers-should-respond">How Readers Should Respond to Online Claims</h2>
 <p>The Median Strategies hoax serves as a vital reminder for anyone navigating today's crowded information landscape. Here are practical ways to protect yourself from falling for fabricated data:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -115,7 +115,7 @@ Tactical Waterproof Backpack
 <h2 id="closing-takeaway">One Last Thought</h2>
 <p>The rise of fake polling data is not just a political scandal; it is a symptom of an information ecosystem that rewards speed over substance. When anonymous actors can manipulate headlines and move prediction markets with a few keystrokes, our best defense is our own deliberate pause. True discernment begins the moment we care more about whether a fact is real than whether it supports our side.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

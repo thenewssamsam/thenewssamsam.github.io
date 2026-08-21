@@ -34,7 +34,7 @@ source_url: 'https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamal
 <p>For any professional athlete, training camp is a time of renewed hope, clean slates, and intense physical preparation. For veteran defender Jamal Adams, the summer of 2026 offered a particularly compelling fresh start. After signing a one-year, veteran-minimum deal with the Minnesota Vikings just before camp, Adams had quickly turned heads, impressing both coaches and teammates with his versatility and drive.</p>
 <p>Yet, according to reports from NFL Network's Ian Rapoport, that momentum has been cut short in the cruelest way possible. Adams suffered a season-ending knee injury during the team's preseason opener against the New York Giants at MetLife Stadium. Playing just 11 snaps in the first half—highlighted by a vintage, explosive backfield tackle—Adams went down on a non-contact play.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

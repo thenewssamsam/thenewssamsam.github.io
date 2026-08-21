@@ -130,7 +130,7 @@ source_url: 'https://www.usatoday.com/story/sports/nfl/cardinals/2026/08/17/jere
   <p>When Arizona Cardinals rookie running back Jeremiyah Love sustained a high ankle sprain, it immediately triggered a wave of anxiety across fan bases and fantasy football circles alike. Selected No. 3 overall in the 2026 NFL draft, Love had just electrified observers in his preseason debut against the Las Vegas Raiders on August 14, racking up 72 total yards on 14 touches.</p>
   <p>That momentum hit a sudden roadblock. ESPN reported that the injury will likely keep Love sidelined for the team&rsquo;s final two preseason games, casting a shadow of doubt over his availability for Week 1. Compounding the tension, Cardinals coach Matt LaFleur kept his cards close to his chest when pressed by reporters on Sunday, August 16. &ldquo;It&rsquo;s an ankle, so we&rsquo;ll keep it at that,&rdquo; LaFleur stated.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

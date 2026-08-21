@@ -33,7 +33,7 @@ source_url: "https://www.nbcnews.com/world/asia/south-korean-president-urges-str
 <p>When long-standing military arrangements shift overnight, the ripple effects are felt far beyond military command centers. Recently, amid plans by U.S. Forces Korea to scale back joint military exercises following directives from Washington, South Korean President Lee Jae Myung made a consequential pivot. During a high-level Cabinet meeting in Seoul, Lee called for significantly stronger independent defense capabilities while pressing forward with plans to assume wartime operational control from the United States.</p>
 <p>The move comes as American leadership looks toward potential diplomatic engagement with Pyongyang, prompting Seoul to balance its crucial decades-long alliance with Washington against the imperative of self-reliance. As regional powers like China prepare for high-level diplomatic talks in Seoul, South Korea's leadership is walking a delicate diplomatic tightrope: maintaining deterrence while preparing for a volatile geopolitical future.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

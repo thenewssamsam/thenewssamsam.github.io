@@ -34,7 +34,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defe
     <h2>What Happened at L3Harris</h2>
     <p>On a Sunday in August 2026, the board of directors at L3Harris Technologies made a high-stakes decision: they ousted CEO and Chairman Chris Kubasik after an independent investigation revealed conduct "not consistent with the values of the Company." Shares of the major defense contractor dropped more than 4% immediately following the announcement.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

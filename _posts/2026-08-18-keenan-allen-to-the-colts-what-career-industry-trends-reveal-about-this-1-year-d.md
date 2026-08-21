@@ -37,7 +37,7 @@ source_url: 'https://sports.yahoo.com/nfl/breaking-news/article/veteran-wr-keena
     
     <p>The timing and structure of the contract tell an important story about how professional sports leagues value proven production over long-term financial commitments. After playing on a one-year,  million deal with the Chargers last season, Allen's new agreement reflects both a pay raise based on his steady output and a cautious one-year term that mitigates risk for the franchise. The Colts are betting that his elite route-running and reliable hands can translate immediately, especially as they welcome back quarterback Daniel Jones from an Achilles injury.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

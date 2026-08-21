@@ -25,7 +25,7 @@ source_url: 'https://www.al.com/weather/2026/08/extreme-heat-warning-issued-for-
 <h2 id="what-happened">What Happened</h2>
 <p>Beginning Sunday night, a long-duration heat wave tightened its grip across the state, prompting the National Weather Service to establish extreme heat warnings for central Alabama alongside statewide heat advisories. Sunday afternoon temperatures already crossed the century mark in Tuscaloosa (101°F) and Montgomery (100°F), while cities like Birmingham, Mobile, and Muscle Shoals hovered between 96 and 97 degrees.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0GKT8JXPZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0GKT8JXPZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Wawahydro Insulated Water Bottle 
 </a></p>
 

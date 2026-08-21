@@ -19,7 +19,7 @@ source_url: 'https://www.wsws.org/en/articles/2026/08/17/gnmb-a17.html'
 
   <p>Coupled with a  million loss at United Wholesale Mortgage (UWM) and a massive backlog of unsold assets in private equity, this financial turbulence is not merely an isolated string of bad trades. It is a signal of structural strain driven by shifting interest rates, high debt loads, and speculative bets on the artificial intelligence boom. Here is a closer look at the financial mechanics unfolding behind the headlines.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

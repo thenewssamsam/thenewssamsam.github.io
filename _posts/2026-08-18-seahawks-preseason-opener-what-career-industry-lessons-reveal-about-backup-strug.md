@@ -22,7 +22,7 @@ source_url: 'https://www.seattletimes.com/sports/seahawks/3-observations-from-se
   <h2 id="what-happened">What Happened in the Preseason Opener?</h2>
   <p>Head coach Mike Macdonald made it clear that the primary value of the night lay in exposing operational flaws rather than celebrating a final score. With starting quarterback Sam Darnold resting, the Seahawks rotated Drew Lock and second-year prospect Jalen Milroe under center. Lock orchestrated an opening touchdown drive, finishing 9-of-13 for 40 yards and a score, while showing a willingness to stretch the field. Milroe, working through limited regular-season experience, went 5-for-8 for 36 yards and added 36 rushing yards, though he took a costly sack and struggled to process plays quickly enough under pressure.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F83YR84S?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 abshoo College Bookbag 
 </a></p>
 

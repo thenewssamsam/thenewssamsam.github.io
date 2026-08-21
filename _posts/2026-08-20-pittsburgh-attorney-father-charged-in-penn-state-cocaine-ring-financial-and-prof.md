@@ -39,7 +39,7 @@ source_url: "https://triblive.com/local/regional/father-charged-in-suspected-coc
       According to Pennsylvania Attorney General Dave Sunday, the sprawling drug ring involved fourteen suspects, with cocaine primarily packaged at off-campus fraternity houses belonging to Delta Upsilon and Sigma Chi. Investigators noted a disturbing pattern: cutting and bagging narcotics served as an informal indoctrination rite for fraternity pledges.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -47,7 +47,7 @@ Tactical Waterproof Backpack
       The investigation gained significant traction following the December 2024 arrest of Thomas Robinson on drug manufacturing and delivery charges. After cooperating with authorities, he reportedly led investigators to his primary supplier, 24-year-old Agostino Abbatiello of Westbury, New York. However, the case took a dramatic turn when investigators turned their focus upward, arresting Thomas's father, Paul Robinson, and charging him with felony tampering, hindering apprehension, and obstructing justice for allegedly concealing incriminating evidence.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -69,7 +69,7 @@ Seagate Portable External Hard Drive
       When an equity partner in a major law firm faces felony charges, the economic ramifications are immediate and systemic. In professional partnerships, equity members do not merely earn a salary; they share in the firm's profits, liabilities, and goodwill. Here is how financial mechanics govern a crisis of this magnitude:
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -79,7 +79,7 @@ Tactical Waterproof Backpack
       Defending against felony charges—such as tampering with evidence and obstructing justice—requires substantial financial capital. High-caliber criminal defense representation for white-collar matters routinely involves steep retainers and hundreds of hours of investigative work. For an individual, even one with a successful legal career, liquidating assets or securing substantial bonds can cause severe cash-flow friction.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -97,7 +97,7 @@ Seagate Portable External Hard Drive
       Law firms rely heavily on brand reputation. As the chair of Meyer Darragh’s product liability and transportation groups, Paul Robinson held a leadership position central to client acquisition and retention. When public allegations link a senior equity partner to felony obstruction, corporate clients often reassess their risk exposure. Corporations seeking liability defense want counsel that embodies unwavering compliance and stability, not distraction. Consequently, firms often move swiftly to distance themselves, reallocating equity shares and restructuring practice groups to protect incoming revenue streams.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -138,7 +138,7 @@ Seagate Portable External Hard Drive
       Incidents like this naturally invite deep reflection on human nature, parental loyalty, and the pursuit of earthly status versus moral integrity. Throughout history, societies have wrestled with the tension between familial devotion and upholding justice. When Proverbs 13:22 notes that a good person leaves an inheritance to their children, it speaks not merely of financial wealth, but of moral standing, wisdom, and a legacy of integrity.
     </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

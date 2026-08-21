@@ -89,7 +89,7 @@ source_url: 'https://www.investors.com/research/micron-technology-stock-mu-memor
 
 <p>For everyday investors trying to navigate the volatile currents of the technology sector, moments like these raise immediate questions. What is actually driving this momentum, and how should observers separate genuine financial strength from short-term market enthusiasm?</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

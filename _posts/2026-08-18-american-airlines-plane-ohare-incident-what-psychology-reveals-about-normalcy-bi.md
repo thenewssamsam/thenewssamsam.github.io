@@ -39,7 +39,7 @@ source_url: ''
 
 <p>NBC's Sky 5 helicopter captured footage of numerous emergency vehicles surrounding the aircraft on the tarmac. However, Chicago fire officials quickly confirmed that there were no signs of smoke, flames, or engine and wing damage, and no passenger medical transports were required. Airport officials noted that no debris was left behind on the runway, and the Chicago Department of Aviation reported no significant flight delays as a result of the incident.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

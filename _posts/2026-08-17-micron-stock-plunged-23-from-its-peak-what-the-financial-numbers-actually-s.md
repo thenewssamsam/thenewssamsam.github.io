@@ -26,7 +26,7 @@ source_url: 'https://finance.yahoo.com/markets/stocks/articles/micron-worth-1-1-
   
   <p>For an enterprise carrying a  trillion market valuation, a 23% drawdown represents an astronomical shift in pricing—over  billion in total market value erased—entirely in the absence of deteriorating fundamentals. Wall Street is wrestling with a classic cyclical question: Is this correction a forward-looking discount for a memory market that has already peaked, or is it merely a healthy pause inside an expansion cycle that still has room to run?</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

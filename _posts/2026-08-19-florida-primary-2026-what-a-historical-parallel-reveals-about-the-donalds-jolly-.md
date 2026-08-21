@@ -35,14 +35,14 @@ source_url: "https://katu.com/news/nation-world/florida-voters-choose-nominees-i
 
 <p>Meanwhile, the Democratic primary saw former U.S. Rep. David Jolly separate himself from rivals like State Rep. Dotie Joseph and educator Dayna Marie Foster. Jolly, who represented the Tampa Bay area as a Republican before leaving the GOP in 2018 and joining the Democrats in 2025, has made the soaring cost of living, housing affordability, and property insurance central themes of his campaign. He enters the general election alongside running mate former U.S. Rep. Gwen Graham, aiming to break a gubernatorial losing streak for Democrats that stretches back to Lawton Chiles's 1994 reelection victory.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>With Florida's voter registration numbers now favoring Republicans—booming past 5.6 million registered Republicans compared to 4.1 million Democrats and 3.3 million unaffiliated voters—the November ballot will also feature a broader pool of independent and minor-party candidates, totaling 29 qualified contenders.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -50,14 +50,14 @@ Tactical Waterproof Backpack
 <h2 id="historical-parallel" style="font-size:22px; margin-top:32px; margin-bottom:12px; color:#202124;">A Historical Parallel: Florida as a Realigning State</h2>
 <p>To understand what this Donalds-versus-Jolly matchup means for Florida's political future, it helps to look backward. Modern Florida politics has rarely followed a straight line. For decades, the Sunshine State was the ultimate battleground—a volatile swing state where every presidential and gubernatorial contest was decided by razor-thin margins, famously illustrated by the 2000 recount.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>When Lawton Chiles won the governor's mansion for the Democrats in 1994, Florida was still a state where southern Democrats routinely won local and statewide office. The decades that followed saw a gradual, then accelerating, realignment. By the time Ron DeSantis secured a dominant 59.4% to 40% victory over Charlie Crist in 2022, Florida's status as a quintessential swing state appeared to be a relic of the past, replaced by a firm Republican advantage.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -68,14 +68,14 @@ Tactical Waterproof Backpack
 
 <p>The historical parallel here mirrors the mid-1990s transition, when political identities in the state were shifting beneath the surface. David Jolly's political evolution—moving from a Republican congressional representative to a Democratic gubernatorial nominee—echoes the fluid partisan loyalties that historically characterized Florida's electorate. At the same time, Byron Donalds represents the consolidation of the modern conservative coalition under Donald Trump's enduring influence within the state GOP.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>However, history also teaches us that dominant political eras can breed their own challenges. Just as voter fatigue and economic pressures eventually rearranged the landscape in past decades, today's electorate is hyper-focused on foundational pressures like housing and insurance costs. When voters feel the pinch of daily life, party labels sometimes take a backseat to practical relief—a reality that both campaigns must navigate through November.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -83,14 +83,14 @@ Tactical Waterproof Backpack
 <h2 id="spiritual-reflection" style="font-size:22px; margin-top:32px; margin-bottom:12px; color:#202124;">Wisdom, Leadership, and Stewardship</h2>
 <p>Elections of this magnitude naturally bring competing visions for communities, families, and future growth. Watching political campaigns unfold often reminds me that leadership is, at its core, an exercise in stewardship. Whether voters lean toward a conservative vision for continuity and economic freedom or a shift toward addressing affordability through new leadership, the underlying desire of everyday citizens is simply for honest and wise governance.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Proverbs reminds us of the heavy weight carried by those who hold public trust:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -101,7 +101,7 @@ Tactical Waterproof Backpack
 
 <p>This verse highlights the profound impact that leaders have on the peace and well-being of ordinary communities. Public service is not merely about winning a political contest or maintaining partisan dominance; it requires a genuine commitment to justice, integrity, and looking out for the vulnerable. Another timeless reminder comes from the book of James, which encourages practical wisdom in decision-making:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

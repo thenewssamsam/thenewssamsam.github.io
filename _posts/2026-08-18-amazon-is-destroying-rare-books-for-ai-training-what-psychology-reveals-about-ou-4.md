@@ -38,7 +38,7 @@ source_url: 'https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-
 
 <p>The underlying driver is stark and urgent: artificial intelligence models have already ingested most of the publicly available internet. Worse still, the web is increasingly polluted with AI-generated text. When language models train on synthetic data, they risk "model collapse," a degradation in output quality caused by eating their own digital echoes. To maintain linguistic health, AI developers need pristine, pre-2022 human-written text. Rare books—untouched by algorithms and difficult to find online—have thus become the ultimate premium fuel.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -41,7 +41,7 @@ source_url: 'https://6abc.com/post/midair-collision-involving-pa-state-police-ai
 
 <p>Gov. Josh Shapiro praised the swift response of emergency personnel, noting that the disaster could have been catastrophic. As the National Transportation Safety Board (NTSB) and the FAA launch a full investigation—examining everything from radio communications on the airport's common traffic frequency to recovered video footage—aviation experts and the public alike are left asking how two aircraft could occupy the exact same airspace in the blink of an eye.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -51,7 +51,7 @@ Seagate Portable External Hard Drive
 <h2>The Psychology of Aviation Blind Spots and Human Factors</h2>
 <p>When catastrophic accidents happen in non-towered airspace like Carlisle Regional Airport—where pilots coordinate via a shared radio frequency rather than taking direct commands from an air traffic controller—our minds immediately search for someone to blame. Was someone negligent? Was there a radio failure? Yet looking at such tragedies through the lens of psychology and human factors reveals something more unsettling: the limits of human attention and perception under pressure.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -63,7 +63,7 @@ Seagate Portable External Hard Drive
 
 <p>In aviation psychology, researchers frequently study the concept of <em>inattentional blindness</em> and visual occlusion. Helicopters have distinct structural blind spots, particularly behind and below the cabin. State Police Commissioner Col. Christopher Paris noted that the helicopter crew simply could not see the Cessna approaching from behind while they were focused on hovering above a specific ground target.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -71,7 +71,7 @@ Tactical Waterproof Backpack
 <h3>The Trap of Normalcy Bias</h3>
 <p>Another psychological phenomenon at play in busy or uncontrolled airspace is <em>normalcy bias</em>—our tendency to underestimate the likelihood of disaster because things have always gone right before. Pilots and drivers alike develop mental models that lull them into feeling safe during routine tasks. When multiple aircraft are operating in close proximity without a central tower orchestrating their movements, everyone relies on mutual visibility and radio communication. If a single variable is missed—a blind spot, a delayed radio call, or an obscured angle—the margin for error vanishes instantly.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -87,7 +87,7 @@ Seagate Portable External Hard Drive
 
 <p>Understanding these cognitive traps doesn't excuse a tragedy, but it reframes it. It reminds us that technology and training must constantly account for the very real physical and mental boundaries of the human beings operating complex machinery.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -97,14 +97,14 @@ Seagate Portable External Hard Drive
 <h2>A Moment for Reflection</h2>
 <p>Sudden tragedies like the collision at Carlisle remind us of how fragile human life is and how quickly our daily routines can change. When we read about lives lost and others narrowly spared, it naturally stirs a desire for comfort, protection, and a deeper sense of peace in an uncertain world.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
 
 <p>Scripture often speaks to the quiet, fragile nature of our days and the importance of looking out for one another in times of distress. As Psalm 34:18 reminds us, <em>"The Lord is close to the brokenhearted and saves those who are crushed in spirit."</em> In moments where first responders act courageously to pull their comrades from danger, we also catch a glimpse of the selfless love and sacrifice that people are capable of showing one another.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -119,7 +119,7 @@ Seagate Portable External Hard Drive
 <h2>How Should Readers Respond?</h2>
 <p>While most of us are not flying state police helicopters or piloting private Cessnas, the lessons of situational awareness apply to everyday life:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -141,7 +141,7 @@ Tactical Waterproof Backpack
 <summary>Where did the midair collision happen?</summary>
 <p>The collision occurred at Carlisle Regional Airport in Carlisle, Pennsylvania, during an evening training exercise.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -150,7 +150,7 @@ Seagate Portable External Hard Drive
 <summary>What aircraft were involved in the accident?</summary>
 <p>The incident involved a Pennsylvania State Police Bell 407 helicopter and a single-engine Cessna 150 airplane.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -159,7 +159,7 @@ Seagate Portable External Hard Drive
 <summary>Are the injured troopers expected to recover?</summary>
 <p>Yes. Corporal Bryce Corman and Trooper Jason Mills sustained minor injuries and were treated at Penn State Health Milton S. Hershey Medical Center.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -168,7 +168,7 @@ Seagate Portable External Hard Drive
 <summary>Who is investigating the crash?</summary>
 <p>The Federal Aviation Administration (FAA) and the National Transportation Safety Board (NTSB) are leading the investigation alongside state authorities.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -179,7 +179,7 @@ Seagate Portable External Hard Drive
 <h2>One Last Thought</h2>
 <p>Accidents like the one at Carlisle Regional Airport remind us that danger can intersect with the most ordinary routines without warning. They also remind us of the quiet bravery of everyday people—from troopers helping each other escape wreckage to medical staff ready to heal. May we approach our own daily paths with greater mindfulness, gratitude for those who serve, and grace for one another.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 

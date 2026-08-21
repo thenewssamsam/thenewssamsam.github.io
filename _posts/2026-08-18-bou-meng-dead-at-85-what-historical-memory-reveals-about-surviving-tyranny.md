@@ -36,7 +36,7 @@ source_url: 'https://apnews.com/article/cambodia-khmer-rouge-bou-meng-tuol-sleng
   
   <p>Out of roughly 16,000 men, women, and children imprisoned at S-21 over four years, Bou Meng was one of a microscopic handful to walk out alive. His survival was not an accident of mercy; it was a utilitarian calculation. Because he could paint, the camp commandant, Kaing Guek Eav (known as Duch), spared his life so he could produce towering portraits of Pol Pot and other communist icons, including Mao Zedong and Kim Il Sung. His first wife and children vanished into the machinery of the regime, never to return.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

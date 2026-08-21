@@ -36,7 +36,7 @@ source_url: 'https://www.sfgate.com/bayarea/article/lake-powell-record-low-22392
 <h2 id="what-happened">What Happened at Lake Powell?</h2>
 <p>Over the weekend, Lake Powell—located on the Arizona-Utah border and serving as America's second-largest reservoir—dropped to a new record-low surface elevation of 3,519.91 feet, eclipsing its previous low set in April 2023. By Sunday, the level fell even further to 3,519.8 feet, according to data from the U.S. Bureau of Reclamation.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

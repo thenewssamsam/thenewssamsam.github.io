@@ -144,7 +144,7 @@ source_url: "https://www.scotusblog.com/2026/08/supreme-court-urged-to-leave-in-
 <section>
     <p>The controversy began when the Trump administration announced plans in July 2025 to tear down the East Wing of the White House to build a massive new event space, citing a century-and-a-half-long need for a large-scale gathering venue on the complex. In response, the National Trust for Historic Preservation filed a federal lawsuit in December, arguing that the project violates federal oversight laws because the National Capital Planning Commission and the Commission of Fine Arts have not properly approved the plans, and Congress has not authorized funding for the structure.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -152,7 +152,7 @@ Tactical Waterproof Backpack
     <div class="ncg-amazon-box">
         <p>Recommended Resource: For those looking to dive deeper into the history of the executive mansion and American architecture, consider exploring <a href="https://www.amazon.com/dp/B07R4K692Q?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The White House: Historic Guide &amp; Architectural Overview (Paperback) - </a>.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -166,7 +166,7 @@ Tactical Waterproof Backpack
 <section>
     <p>As briefs fly back and forth between the Solicitor General and counsel for the National Trust, several misconceptions have taken root in public commentary. Here are the facts behind the friction.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -175,7 +175,7 @@ Seagate Portable External Hard Drive
         <h3>Myth 1: The Courts Have Completely Stopped All Work on the White House East Wing.</h3>
         <p><span class="fact-truth">Fact:</span> Judge Leon's injunction specifically targeted the <em>above-ground</em> ballroom construction. It explicitly permitted the continuation of underground developments, such as bomb shelters and bunkers, as well as any security or safety-related construction. Furthermore, the injunction has been repeatedly paused or stayed pending appeals, allowing the administration to push the overall project to approximately 65 percent completion.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -189,7 +189,7 @@ Seagate Portable External Hard Drive
         <h3>Myth 2: The President Has No Legal Authority to Alter the White House Grounds.</h3>
         <p><span class="fact-truth">Fact:</span> The debate is not whether a president can make improvements to the White House residence—both sides acknowledge existing statutory powers allowing presidents to make certain alterations and improvements. The central legal question is whether building a massive 90,000-square-foot ballroom crosses the line into a major construction and demolition project that constitutionally requires explicit congressional approval and funding.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -198,7 +198,7 @@ Seagate Portable External Hard Drive
     <div class="ncg-amazon-box">
         <p>Recommended Resource: Stay hydrated during long news cycles with a dependable travel mug like the <a href="https://www.amazon.com/dp/B08H95Y79C?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">YETI Rambler 20 oz Stainless Steel Vacuum Insulated Tumbler - </a>.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -221,7 +221,7 @@ Seagate Portable External Hard Drive
     
     <p>This situation makes me think about the timeless wisdom found in Proverbs 16:18, which reminds us that pride goes before destruction, and a haughty spirit before a fall. In public governance just as in private life, honoring rules and maintaining integrity—even when nobody is immediately looking—matters deeply. Scripture also encourages us in Romans 13:1 to respect governing authorities and the orderly processes of law, inviting leaders and citizens alike to pursue justice and truth with clean hands and quiet spirits.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -234,7 +234,7 @@ Seagate Portable External Hard Drive
         <summary>What is the main legal issue before the Supreme Court?</summary>
         <p>The core issue is whether the Supreme Court should lift or leave in place a lower court order blocking above-ground construction of the White House ballroom while the underlying lawsuit proceeds.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -244,7 +244,7 @@ Seagate Portable External Hard Drive
         <summary>Who filed the lawsuit against the ballroom project?</summary>
         <p>The lawsuit was filed by the National Trust for Historic Preservation, a private nonprofit organization that advocates for saving historical places across the United States.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -254,7 +254,7 @@ Tactical Waterproof Backpack
         <summary>How far along is the ballroom construction?</summary>
         <p>According to recent court filings from the Trump administration, the project is roughly 65 percent complete and moving rapidly toward total completion.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -264,7 +264,7 @@ Tactical Waterproof Backpack
         <summary>Does the administration claim any security reasons for the project?</summary>
         <p>Yes. The U.S. Solicitor General argued that the project integrates vital national security infrastructure, including a secure ballroom space and military complex facilities at the East Wing.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -276,7 +276,7 @@ Tactical Waterproof Backpack
 <section>
     <p>For ordinary citizens watching this high-stakes legal drama unfold, the key takeaway is the importance of civic literacy. Understanding how the separation of powers works between the executive branch and Congress helps cut through hyperbole. Readers can respond by:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -291,7 +291,7 @@ Tactical Waterproof Backpack
     <h2>One Last Thought</h2>
     <p>The White House ballroom dispute is more than just a clash over square footage or architectural style; it is a test of how constitutional boundaries are maintained when a project is already racing toward completion. As the Supreme Court weighs its next steps, the case reminds us that the rule of law is designed to protect structural limits, no matter how fast physical construction moves. True leadership respects the framework that binds us all.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

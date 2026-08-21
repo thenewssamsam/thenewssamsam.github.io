@@ -33,7 +33,7 @@ source_url: "https://www.bostonglobe.com/2026/08/17/metro/lindsay-clancy-trial-p
 <h2>The News: Prosecution Rests and the Defense Takes Over</h2>
 <p>The core tragedy is not in dispute: 36-year-old Lindsay Clancy has admitted to strangling her children—Cora, 5; Dawson, 3; and Callan, 8 months—at their Duxbury, Massachusetts home before attempting suicide by jumping from a second-story window, an act that left her paralyzed. The central question for the jury is not <em>what</em> happened, but <em>why</em> and <em>who bears responsibility</em>.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

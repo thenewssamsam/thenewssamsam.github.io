@@ -27,7 +27,7 @@ source_url: 'https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-unde
   
   <p>However, the agreement began to unravel almost immediately. Vaguely worded clauses regarding maritime authority in the Strait of Hormuz led to conflicting navigation routes backed respectively by Oman and Iran. When commercial vessels following the Oman-backed route were targeted, Washington responded with fresh airstrikes on Iranian coastal radar and missile storage sites. Retaliatory drone and missile attacks followed against US regional assets. Simultaneously, fighting continued in Lebanon and Gaza, with Israel maintaining its military presence and operations despite ceasefire provisions in the MoU. By the time the 60-day window closed on Monday, the agreement was effectively dead.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

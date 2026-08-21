@@ -27,7 +27,7 @@ source_url: 'https://abcnews.com/US/wireStory/video-shows-officers-fall-story-de
     <h2>Finding Firm Ground in an Uncertain World</h2>
     <p>This incident serves as a jarring reminder of the fragility of human endeavors. We often walk through our days—whether in law enforcement, at our jobs, or in our family homes—assuming that the structures we rely on will hold. We build our lives on foundations of wood, steel, and routine, yet we are constantly susceptible to the unexpected.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -38,14 +38,14 @@ Tactical Waterproof Backpack
 
     <p>From a biblical perspective, we are reminded that our worldly foundations are temporary. Psalm 18:2 tells us, <em>"The Lord is my rock, my fortress and my deliverer; my God is my rock, in whom I take refuge, my shield and the horn of my salvation, my stronghold."</em> When the physical world fails us, we are invited to consider where we place our ultimate trust. Are we relying on the "decks" of our own making, or on the unchanging character of God?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>Furthermore, in James 4:14, we are humbled by the truth: <em>"Why, you do not even know what will happen tomorrow. What is your life? You are a mist that appears for a little while and then vanishes."</em> This is not meant to incite fear, but to foster a spirit of gratitude for every moment we are granted. The officers in Huntsville were performing their duty, unaware that their footing was compromised. It invites us all to live with a posture of prayerful reliance, acknowledging that our safety is ultimately in God's hands.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

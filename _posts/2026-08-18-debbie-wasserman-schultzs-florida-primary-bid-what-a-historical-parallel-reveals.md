@@ -26,7 +26,7 @@ source_url: 'https://www.ms.now/news/debbie-wasserman-schultz-florida-primaries-
   
   <p>The catch? The 20th District, based in southeastern Florida, has been represented by a Black lawmaker since the early 1990s, beginning with the late Rep. Alcee Hastings and more recently Rep. Sheila Cherfilus-McCormick. Wasserman Schultz, who is white, enters a crowded Democratic primary competing against four Black candidates. Local leaders, including the Broward County Democratic Black Caucus and the Florida Legislative Black Caucus, have blasted the move as tone-deaf and disrespectful, arguing that it threatens hard-fought minority representation at a time when Black voting power is already under siege nationwide.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

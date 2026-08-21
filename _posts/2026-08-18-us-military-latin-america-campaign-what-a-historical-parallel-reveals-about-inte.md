@@ -25,7 +25,7 @@ source_url: 'https://apnews.com/article/trump-military-operations-latin-american
 
   <p>This aggressive posture marks a sharp pivot in Washington's foreign policy. By designating 20 regional criminal syndicates as foreign terrorist organizations and actively inserting U.S. personnel into regional conflicts, the administration is attempting to project hemispheric dominance. Yet, as leaders from Bogotá to Mexico City weigh the security benefits against the erosion of national sovereignty, observers are left asking a crucial question: Have we seen this movie before, and how did it end?</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

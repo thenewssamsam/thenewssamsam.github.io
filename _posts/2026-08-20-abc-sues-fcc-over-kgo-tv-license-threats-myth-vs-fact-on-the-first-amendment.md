@@ -41,7 +41,7 @@ source_url: "https://www.sfgate.com/sf-culture/article/abc-sues-fcc-22393619.php
     <p>According to the lawsuit filed on Tuesday by ABC and its parent company, Walt Disney, this unprecedented administrative burden is direct retaliation. The regulatory pressure followed intense public and political blowback over specific broadcast segments, including a controversial "Jimmy Kimmel Live!" segment regarding the killing of Charlie Kirk and criticism of "The View" regarding political candidate interviews. Public statements from political figures on social media called for the revocation of broadcast licenses due to unfavorable news coverage and late-night routines.</p>
     <p>Faced with what it characterizes as a coercive campaign to punish independent editorial decisions, ABC pushed back with a federal lawsuit accusing the administration of violating the First Amendment.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -51,7 +51,7 @@ Seagate Portable External Hard Drive
     <h2>Myth vs. Fact: Unpacking the FCC Lawsuit</h2>
     <p>Whenever high-profile legal battles involving federal agencies and media conglomerates hit the headlines, rumor and misconception spread quickly across social media. Let us look at what the claims actually entail compared to the established facts.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -88,13 +88,13 @@ Tactical Waterproof Backpack
     <h2>A Moment for Reflection</h2>
     <p>Conflicts over speech, power, and truth inevitably invite us to look deeper into human nature. When institutions clash over what can be said and heard, we are reminded of how easily power can be leveraged to silence dissenting voices. Throughout history, societies have wrestled with the tension between authority and truth. Scripture invites us to value honesty, integrity, and the pursuit of genuine justice rather than manipulation or control.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>Proverbs 12:17 reminds us, <em>"An honest witness tells the truth, but a false witness tells lies."</em> This principle applies just as much to public discourse and media reporting as it does to our personal lives. Furthermore, Proverbs 31:8-9 urges us to <em>"Speak up for those who cannot speak for themselves, for the rights of all who are destitute."</em> In a complex media landscape, seeking clarity and protecting the freedom to examine facts openly remains a vital communal responsibility.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

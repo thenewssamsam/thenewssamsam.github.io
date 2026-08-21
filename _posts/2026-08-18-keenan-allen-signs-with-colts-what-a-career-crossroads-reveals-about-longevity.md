@@ -34,7 +34,7 @@ source_url: 'https://bleacherreport.com/articles/25375900-keenan-allen-colts-new
     <p>Veteran wide receiver Keenan Allen is officially returning to the NFL for a 14th season, agreeing to a one-year contract worth up to  million with the Indianapolis Colts. The move comes as the Colts look to stabilize their offense following an injury to Alec Pierce and the earlier departure of Michael Pittman Jr.</p>
     <p>Entering his age-34 season, Allen has spent over a decade proving that elite football intelligence can outlast top-end speed. After starting his career with the Chargers, spending a year in Chicago, and returning home to Los Angeles in 2025, Allen now finds himself in a new locker room tasked with a very specific job: anchor the passing game, catch tough balls in traffic, and help a young team reset after a brutal finish to their previous campaign.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

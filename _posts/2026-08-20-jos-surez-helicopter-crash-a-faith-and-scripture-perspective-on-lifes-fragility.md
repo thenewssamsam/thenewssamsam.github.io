@@ -45,7 +45,7 @@ source_url: 'https://www.nbcbayarea.com/news/local/jose-suarez-telemundo-mark-no
     
     <p>Colleagues and community leaders have remembered him not merely as a corporate executive, but as a visionary mentor and tireless advocate. In a joint statement, Telemundo's Sacramento and Fresno stations noted that Suárez possessed an "extraordinary capacity to bring people together" around a shared conviction that collective effort strengthens communities.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -56,7 +56,7 @@ Seagate Portable External Hard Drive
 
     <p>With more than 25 years in media—earning a Lone Star Emmy, a Suncoast Emmy, three Best Daily Newscast Emmys, and several Associated Press accolades—Suárez left an indelible mark on the industry. Yet, the abrupt end of his journey reminds us how quickly the chapters of our earthly lives can close.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -66,14 +66,14 @@ Tactical Waterproof Backpack
     <h2 style="font-size: 1.5rem; color: #1a1a1a; border-bottom: 2px solid #eaeaea; padding-bottom: 8px; margin-bottom: 20px;">A Faith Perspective on Sudden Loss</h2>
     <p>When someone who has poured immense energy into uplifting others is suddenly taken, it creates a profound vacuum. From a faith perspective, such moments pierce through our everyday illusions of absolute control. We plan careers, build legacies, and map out decades ahead, often forgetting how delicate human life truly is.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>The Bible does not shy away from the reality of unexpected sorrow. Instead, it invites us to examine our days with wisdom. Suárez's life work—fostering unity, communication, and community strength—mirrors the biblical call to use our unique gifts to serve others. When a leader of such vitality passes away without warning, it challenges us to consider what kind of mark we are leaving behind in our own spheres of influence.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -85,7 +85,7 @@ Tactical Waterproof Backpack
 
     <p>Theologians often point out that the value of a life is measured not by its length, but by its depth and faithfulness. Suárez's decades-long commitment to his community reflects a dedication to service that resonates deeply with timeless moral truths.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -99,14 +99,14 @@ Tactical Waterproof Backpack
     <h2 style="font-size: 1.5rem; color: #1a1a1a; border-bottom: 2px solid #eaeaea; padding-bottom: 8px; margin-bottom: 20px;">Scripture and the Fragility of Life</h2>
     <p>When news of sudden accidents breaks, it naturally stirs deep reflections on mortality. Writing about the brevity of our time on earth, James reminds us: <em>"Yet you do not know what tomorrow will bring. What is your life? For you are a mist that appears for a little time and then vanishes"</em> (James 4:14, ESV). This verse does not aim to instill fear, but rather to awaken us to the preciousness of the present moment and the importance of anchoring our hope in things eternal rather than temporary.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>Similarly, Psalm 90:12 offers a quiet prayer for perspective: <em>"So teach us to number our days that we may get a heart of wisdom."</em> Reflecting on José Suárez's sudden passing in Kenya makes these ancient words feel immediate. Every day we are given is an opportunity to cultivate love, pursue justice, and build up our families and communities with intentionality and grace.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

@@ -35,7 +35,7 @@ source_url: "https://apnews.com/article/alaska-primary-senate-sullivan-peltola-c
     <p>Alaska voters headed to the polls for a primary election cycle that is capturing national attention, particularly with a high-stakes U.S. Senate race that could help determine control of Congress. Under the state&rsquo;s open primary system, over a dozen contenders crowded the ballot for Senate, House, and gubernatorial seats, with the top four advancing to a ranked-vote general election.</p>
     <p>The Senate contest features two-term Republican incumbent Sen. Dan Sullivan and Democratic former U.S. Rep. Mary Peltola. But the race took a bizarre twist due to a third candidate: another Dan Sullivan. Dan J. Sullivan, a retired teacher from Petersburg, successfully fought to appear on the ballot despite accusations from the incumbent and GOP allies that he was a sham candidate designed to confuse voters. Listed with no party affiliation as Daniel J. Sullivan Jr., his presence sparked intense media drama, a presidential social media intervention, and a scramble among voters to make sure they bubbled in the correct name.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

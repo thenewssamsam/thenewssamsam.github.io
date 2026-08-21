@@ -36,7 +36,7 @@ source_url: ''
     <p>New Orleans Saints rookie wide receiver Jordyn Tyson will miss approximately two months due to a hamstring injury, according to NFL Network Insiders Mike Garafolo and Ian Rapoport. Tyson, selected No. 8 overall in the 2026 NFL Draft, suffered the injury during practice and sought multiple medical opinions before the timeline was finalized.</p>
     <p>The news is a sobering reality check for an organization that drafted the explosive playmaker to immediately revitalize their offensive attack alongside quarterback Tyler Shough and head coach Kellen Moore. While head coach Kellen Moore noted the issue is unrelated to the hamstring problems Tyson dealt with during the spring, the broader narrative centers on a familiar hurdle: durability.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

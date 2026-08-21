@@ -25,7 +25,7 @@ source_url: 'https://therealdeal.com/texas/2026/08/16/behind-texas-republicans-a
 
 <p>As state lawmakers prepare to convene in January, the political discourse in Texas has taken a sharp turn toward real estate and religious freedom. But beneath the campaign rhetoric and proposed regulatory hurdles lies a fascinating psychological and economic dynamic about how communities react to demographic and physical change.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

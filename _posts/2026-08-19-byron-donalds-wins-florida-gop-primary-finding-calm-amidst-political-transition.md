@@ -31,7 +31,7 @@ source_url: "https://www.foxnews.com/politics/trumps-handpicked-desantis-success
     <h2>Navigating the Stress of Political Change</h2>
     <p>Politics is often a source of significant emotional and mental strain. When our leadership changes, it can trigger feelings of uncertainty, anxiety, or even physical fatigue. From a general wellness perspective, it is essential to remember that while the political landscape shifts, your internal environment—your mental health and emotional peace—remains under your jurisdiction.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -39,7 +39,7 @@ Tactical Waterproof Backpack
     <h3>The Psychology of Election Anxiety</h3>
     <p>Election cycles often trigger "normalcy bias" or heightened stress responses. When we feel that a political outcome directly threatens our way of life, our bodies may remain in a state of "fight or flight." This chronic stress can disrupt sleep, increase cortisol levels, and strain personal relationships. Developing a "wellness buffer" is critical during these times.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -63,7 +63,7 @@ Tactical Waterproof Backpack
   <section id="scripture-reflection">
     <p>This political transition reminds me of the importance of maintaining a steady heart. In a fast-moving world, Scripture invites us to consider where we place our ultimate hope. <em>"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God"</em> (Philippians 4:6, NIV). This doesn't mean ignoring the news, but rather refusing to let the weight of the world define our inner state. Another verse I often lean on is <em>"You will keep in perfect peace those whose minds are steadfast, because they trust in you"</em> (Isaiah 26:3, NIV). Finding peace amidst the noise is a discipline, one that requires us to trust that while leaders come and go, we are called to remain grounded in love and wisdom.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

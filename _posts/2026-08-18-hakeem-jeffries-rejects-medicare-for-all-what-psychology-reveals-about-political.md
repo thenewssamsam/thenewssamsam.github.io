@@ -38,7 +38,7 @@ source_url: 'https://www.newsweek.com/hakeem-jeffries-rejects-medicare-for-all-d
 <h2>What Happened: Jeffries Draws the Line</h2>
 <p>During his appearance with host Kristen Welker, Jeffries confirmed he is no longer co-sponsoring single-payer healthcare legislation—a measure he backed between 2013 and 2021 before ascending to top leadership. "It's not legislation that I currently am co-sponsoring or that I support," Jeffries stated, emphasizing instead a focus on driving down the immediate, everyday costs of groceries, gas, housing, and healthcare.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

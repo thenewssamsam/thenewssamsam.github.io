@@ -34,7 +34,7 @@ source_url: 'https://www.nbcphiladelphia.com/news/local/masked-man-reportedly-ha
     
     <p>Police Captain Jason Smith outlined a detailed timeline of the events during a press briefing on Monday, August 17. The suspect was first spotted shortly after 5:00 a.m. near 15th and Chestnut streets, running up to people while holding a cellphone as if filming his actions. After being refused service at a local Dunkin' due to his mask, the suspect continued his erratic behavior near Suburban Station and Dilworth Plaza.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

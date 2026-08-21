@@ -22,14 +22,14 @@ source_url: 'https://apnews.com/article/texas-track-stabbing-austin-metcalf-karm
   <h2 id="what-happened">What Happened in the Collin County Courtroom?</h2>
   <p>The legal saga surrounding the tragic death of Austin Metcalf took an unexpected procedural turn on Wednesday when a visiting judge ordered District Judge John Roach Jr. recused from presiding over the upcoming motion for a new trial. Karmelo Anthony, now 19 and serving a 35-year prison sentence after a Collin County jury rejected his self-defense claims regarding the rainy spring day confrontation in the stadium bleachers, saw this as a major legal victory.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
   
   <p>Anthony’s defense attorneys had aggressively pushed for Roach’s removal following post-trial comments the judge made during a local TV interview where he openly stated that jurors "got it right." While visiting Judge Sid Harle noted he believed Roach could have been fair, he granted the recusal because the public appearance of bias was too strong, stating the judge's impartiality "might reasonably be questioned." Prosecutor Bill Wirskye defended Roach's strict courtroom rules—enacted amid intense public demonstrations and death threats targeting both families—arguing the judge did nothing wrong.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -37,7 +37,7 @@ Tactical Waterproof Backpack
   <h2 id="a-faith-perspective">A Faith Perspective on Justice and Impartiality</h2>
   <p>When legal systems wobble under the weight of public opinion, media storms, and the human flaws of those presiding over them, it exposes our deep, collective longing for an uncorrupted standard of righteousness. Scripture repeatedly addresses the immense moral weight placed upon judges, leaders, and arbiters of the law.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -48,14 +48,14 @@ Seagate Portable External Hard Drive
 
   <p>This verse reminds us that true justice cannot bend to external pressures, media cycles, or personal vanity. When Judge Roach commented publicly on the verdict before all legal avenues were exhausted, it crossed a line of judicial discretion that rightfully troubled observers. In a fallen world, our legal institutions are managed by imperfect people striving for an objective ideal. Yet the Bible insists that fairness must be rigorously guarded, free from the subtle taint of pride or public posturing.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
   <p>Furthermore, the escalation that led to Austin Metcalf's tragic death on a damp spring afternoon began with petty territorial disputes and a refusal to yield in a shared space. It serves as a stark reminder of how quickly human pride and escalating anger can spiral into irrevocable loss. Proverbs 17:14 wisely observes, "Starting a quarrel is like breaching a dam; so drop the matter before a dispute breaks out." Both families have suffered unimaginable grief, caught in a whirlwind of community tension, social media vitriol, and fear.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

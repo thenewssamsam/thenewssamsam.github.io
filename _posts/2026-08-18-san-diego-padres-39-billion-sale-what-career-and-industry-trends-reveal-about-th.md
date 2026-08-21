@@ -33,7 +33,7 @@ source_url: 'https://www.nbcsandiego.com/news/sports/san-diego-padres/mlb-owners
 <p>After months of anticipation and a rigorous vetting process by a league committee, the other 29 MLB owners unanimously approved the massive transaction on Monday. Feliciano, co-founder of private equity firm Clearlake Capital, and Jones secured the right to buy the franchise from the Seidler family following a competitive bidding war among four finalists back in April.</p>
 <p>The deal carries a staggering price tag of  billion—an astronomical leap from the  million the Seidler family paid to purchase the team in 2012. Because the acquisition includes a 30 percent ownership stake in Petco Park, the final procedural hurdle requires approval from the City of San Diego, which is expected to clear swiftly so the deal can close by the end of the week.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 QT-QY Military Tactical Backpack 
 </a></p>
 

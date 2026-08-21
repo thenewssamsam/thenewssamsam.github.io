@@ -35,7 +35,7 @@ source_url: "https://www.psu.edu/news/campus-life/story/penn-state-responds-seri
     <p>The announcement sent immediate shockwaves through University Park. According to statements from the Pennsylvania Office of the Attorney General, 14 individuals—consisting largely of current and former Penn State students—face serious criminal charges connected to an alleged illegal narcotics operation spanning 2023 and 2024. The investigation specifically targeted activities tied to two off-campus Greek organizations: Sigma Chi and Delta Upsilon.</p>
     <p>In response, university officials moved swiftly. Penn State placed Delta Upsilon on immediate interim suspension while the Office of Student Accountability and Conflict Response launches its own parallel investigation. Officials noted that Sigma Chi was already an unrecognized organization operating completely outside of university oversight. Andrea Dowhower, vice president for Student Affairs, expressed public horror at the allegations, emphasizing that criminal activity and hazing have no place on campus.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

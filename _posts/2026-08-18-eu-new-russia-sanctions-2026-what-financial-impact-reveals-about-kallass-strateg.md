@@ -36,7 +36,7 @@ source_url: 'https://www.themoscowtimes.com/2026/08/17/eu-plans-most-far-reachin
 <h2 id="what-happened">What Happened: The 2026 Sanctions Expansion</h2>
 <p>According to reports from European diplomatic sources, the European External Action Service (EEAS) is set to present a massive new package of designations to member states in early September 2026, with an expected adoption target in October. Unlike broad sectoral bans that typically require arduous negotiations across multiple economic pillars, these new listings focus strictly on individual designations—including travel bans, transaction restrictions, and asset freezes—primarily aimed at Russia's military-industrial complex.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

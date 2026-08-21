@@ -24,13 +24,13 @@ source_url: 'https://trib.com/news/state-regional/government-politics/elections/
     <h2>What Happened in Natrona County?</h2>
     <p>The recent primary election saw several high-profile incumbent defeats. Senators and Representatives aligned with the Freedom Caucus—a group that has pushed for aggressive budget cuts and specific property tax relief measures—were ousted by moderate challengers. While the Freedom Caucus held significant sway during the 2022 election cycle, voters this time around showed a clear preference for stability.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Lenovo Legion Tower Gaming PC
 </a></div>
 
     <p>Notable outcomes include Lisa Engebretsen ousting incumbent Senator Bob Ide, and Rob Hendry defeating Jayme Lien for a House seat. In races where incumbents were not challenged, moderate Republicans like Julie Jarvis and Elissa Campbell successfully retained their seats, solidifying the trend away from the more hardline faction of the GOP.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Lenovo Legion Tower Gaming PC
 </a></div>
 
@@ -40,7 +40,7 @@ Lenovo Legion Tower Gaming PC
     <h2>A Historical Parallel: The Pendulum of Political Factions</h2>
     <p>History often shows that political movements operate in cycles of intensity and moderation. Much like the "Reform" movements of the early 20th century, which sought to curb the excesses of political machines, the current shift in Natrona County reflects a classic democratic correction. When a governing faction focuses heavily on ideological purity and radical systemic change, it often encounters the "friction of reality"—the practical demands of municipal funding and constituent services that hardline policies sometimes struggle to address.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 CeraVe Vitamin C Brightening Serum
 </a></div>
 
@@ -48,7 +48,7 @@ CeraVe Vitamin C Brightening Serum
     <div class="ncg-quote-box" style="border-left: 5px solid #6a5acd; background: #f9f9f9; padding: 15px; margin: 20px 0;">
       <p><strong>"Political history suggests that when the pendulum swings too far toward disruption, voters eventually seek the 'regular order'—a return to predictable, steady governance that prioritizes functionality over ideology."</strong></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 CeraVe Skin Renewing Night Cream
 </a></div>
 
@@ -56,7 +56,7 @@ CeraVe Skin Renewing Night Cream
 
     <p>We saw similar dynamics in the mid-1970s, where internal party fractures led to a temporary cooling of radical platforms. Voters, regardless of their party affiliation, tend to prioritize the "meat and potatoes" of governance—schools, roads, and tax stability—over intense factional warfare. The rejection of Freedom Caucus candidates suggests that Natrona County residents are seeking a return to the legislative norms that characterized Wyoming politics for decades.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Lenovo Legion Tower Gaming PC
 </a></div>
 
@@ -66,13 +66,13 @@ Lenovo Legion Tower Gaming PC
     <h2>A Call for Wisdom and Order</h2>
     <p>This shift toward "regular order" reminds me of the biblical principle that there is a time and season for everything (Ecclesiastes 3:1). In the life of a community, as in the life of a believer, there is a profound value in seeking peace and order rather than constant discord. The Apostle Paul encourages us in 1 Timothy 2:2 to pray for those in authority, "that we may lead a quiet and peaceable life in all godliness and honesty."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B00SNPCSUY?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 CeraVe Skin Renewing Night Cream
 </a></div>
 
     <p>When our political processes become defined by bitterness or division, it often reflects a deeper human struggle with pride and the desire for total control. Scripture invites us to consider that true strength is often found in humility and the ability to work alongside others for the common good. As the legislature looks to reset its course, there is an opportunity to focus on service, integrity, and the stewardship of the community’s resources, rather than the pursuit of ideological victory.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07PNCCLD2?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 CeraVe Vitamin C Brightening Serum
 </a></div>
 
@@ -91,7 +91,7 @@ CeraVe Vitamin C Brightening Serum
     <h2>Closing Takeaway</h2>
     <p>The Natrona County results indicate that while ideological debate is healthy, voters are ultimately drawn to governance that promises stability and cooperation. The challenge for the new legislature will be to turn this mandate into effective policy that serves all constituents, regardless of their political leanings.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F5YNX43T?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Lenovo Legion Tower Gaming PC
 </a></div>
 

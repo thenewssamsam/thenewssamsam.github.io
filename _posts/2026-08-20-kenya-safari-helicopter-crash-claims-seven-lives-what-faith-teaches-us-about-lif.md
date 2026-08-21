@@ -48,14 +48,14 @@ source_url: 'https://www.cbsnews.com/news/helicopter-crash-kenya-deaths-us-journ
   
   <p>Local emergency response teams, including the Kenya Red Cross and Tropic Air Kenya, immediately dispatched rescue helicopters to the site. However, efforts were severely hampered by difficult terrain access and an active fire at the wreckage. Tragically, authorities confirmed that none of the seven occupants survived.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
   
   <p>As names emerged, the global reach of the tragedy became painfully clear. NBCUniversal confirmed that José Alberto Suárez, president and general manager of Telemundo 31, Telemundo 49, and Telemundo Fort Myers–Naples, was among the victims. Described by colleagues as a deeply respected mentor and leader, Suárez left an indelible mark on broadcast journalism. Also confirmed lost was Miami restaurateur Roger Duarte, alongside Ecuador's intelligence chief Michele Sensi-Contugi, his wife Stephany Holliham Yeaza, two other passengers, and the pilot. Families have requested privacy and asked for prayers as they navigate an unfathomable grief.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -69,14 +69,14 @@ Tactical Waterproof Backpack
   <h2>A Faith Perspective on Life's Uncertainty</h2>
   <p>News of sudden accidents like the crash near Mount Ololokwe jarringly interrupts our daily routines. One moment, individuals are traveling, working, and building dreams; the next, life on earth has ended. From a biblical worldview, such events strip away our illusion of absolute control.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
   
   <p>We often live as though our calendars belong entirely to us, scheduling months and years in advance without hesitation. Yet human history and Scripture remind us of a sobering truth: our breath is not guaranteed. This realization is not meant to paralyze us with fear or anxiety, but rather to awaken us to the profound value of the present moment and the grace we have been given.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -87,7 +87,7 @@ Seagate Portable External Hard Drive
 
   <p>When leaders and family members are taken so abruptly, it leaves communities reeling. It forces us to confront the reality of a broken world where accidents happen, equipment fails, and nature remains untamed. Yet, it also invites us to look past the temporary horizons of our careers and travels toward what truly endures.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -101,14 +101,14 @@ Seagate Portable External Hard Drive
   <h2>Finding Grounding in Scripture</h2>
   <p>When unexpected sorrow enters our newsfeeds, it often feels like the ground is shifting beneath our feet. I find myself reflecting on how the biblical writers processed sudden, overwhelming grief. James reminds us in James 4:14, <em>"Yet you do not know what tomorrow will bring. What is your life? For you are a mist that appears for a little time and then vanishes."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
   
   <p>This verse is not spoken with cruelty, but with a deep, compassionate realism. It prompts us to cherish our loved ones today and to invest our time in things that carry eternal weight. Similarly, Psalm 90:12 offers a quiet prayer for perspective: <em>"So teach us to number our days that we may get a heart of wisdom."</em> Wisdom begins when we acknowledge our limitations and anchor our hope not in the safety of earthly travels or temporary success, but in the steadfast love of God.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -122,7 +122,7 @@ Tactical Waterproof Backpack
   <h2>How Should Christians Respond?</h2>
   <p>Knowing how to react to distant tragedies involves more than reading headlines and feeling a momentary pang of sorrow. Here are three concrete ways believers can respond to the Kenya helicopter crash and its ripple effects:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -142,14 +142,14 @@ Seagate Portable External Hard Drive
   <h2>A Prayer for Wisdom and Hope</h2>
   <p>Heavenly Father, our hearts are heavy as we read of the sudden loss of life in the skies of Kenya. We lift up the families, friends, and colleagues of José Alberto Suárez, Roger Duarte, Michele Sensi-Contugi, Stephany Holliham Yeaza, and all those who perished alongside them. Comfort them in their deep sorrow, Lord, and surround them with your undeniable peace.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
   
   <p>Remind each of us how fragile our days truly are. Teach us to number our moments, to love one another deeply, and to walk in the wisdom of Your grace. In times of uncertainty, be our rock and our refuge.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

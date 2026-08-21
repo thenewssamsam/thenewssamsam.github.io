@@ -39,7 +39,7 @@ source_url: 'https://slate.com/news-and-politics/2026/08/woke-1-crazy-aoc-progre
   
   <p>In a last-ditch effort to stop the progressive insurgency, Milwaukee County Executive David Crowley reentered the race just weeks before Election Day. Few expected his late bid to gain traction. Yet, when the ballots were counted, Crowley eeked out a razor-thin plurality victory, while Hong severely underperformed even in traditionally deep-blue strongholds like Dane County.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

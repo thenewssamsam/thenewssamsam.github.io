@@ -37,7 +37,7 @@ source_url: 'https://www.nbcnews.com/news/us-news/virginia-state-university-shoo
     <p>A routine early-morning weekend atmosphere at Virginia State University (VSU) shattered on a Saturday around 1:30 a.m. when gunfire erupted near the Quad Annexes. According to Chesterfield County police and court documents, the shooting left five people injured, including a 21-year-old man who sustained critical injuries, alongside a 17-year-old boy, a 23-year-old man, a 19-year-old woman, and a 20-year-old VSU student with non-life-threatening wounds.</p>
     <p>The suspect, identified by police as 19-year-old Camron Harris—who is not a student at the historically Black university located in Ettrick, Virginia—was tracked down later that afternoon hiding inside a women's campus dorm room closet. Investigators quickly pieced together a disturbing narrative not just from eyewitness accounts, but from a trail of digital breadcrumbs left across Instagram stories, direct messages, and group chats.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

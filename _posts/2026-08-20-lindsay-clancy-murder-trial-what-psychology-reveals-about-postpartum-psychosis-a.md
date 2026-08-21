@@ -38,7 +38,7 @@ source_url: 'https://apnews.com/article/lindsay-clancy-murder-trial-psychologist
     </div>
     <p>The prosecution, however, has pushed back aggressively against this diagnosis. Prosecutors argue that Clancy meticulously planned the killings by sending her husband out to pick up medicine and dinner. They have questioned Zeizel's objectivity, pointing to minor mistakes in his report and noting that he appeared at a news conference alongside the defense team. Furthermore, prosecutors highlight that on the day of the tragedy, Clancy performed routine daily tasks—driving her daughter to the doctor, playing in the snow, and searching online for pharmacies and restaurants—suggesting a level of calculated awareness that undermines the defense's claims.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -48,13 +48,13 @@ Tactical Waterproof Backpack
     <h2>A Psychology Perspective: The Mechanics of Postpartum Psychosis</h2>
     <p>To the outside observer, it seems impossible that a mother could simultaneously carry out everyday tasks like playing in the snow while suffering from a complete detachment from reality. How can someone drive a car, shop online, and yet be legally and psychologically unaccountable for their actions?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
     <p>Psychologically, the human brain under the grip of acute psychosis operates in a fundamentally altered reality. Postpartum psychosis—which researchers estimate affects roughly 1 to 2 per 1,000 women after childbirth—is tied to extreme sleep deprivation, massive hormonal shifts, and intense physiological stress. It is vastly different from common postpartum depression. While depression brings profound sadness and exhaustion, psychosis can manifest as severe paranoia, delusions, terrifying hallucinations, and a complete breakdown of cognitive filtering.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -62,7 +62,7 @@ Seagate Portable External Hard Drive
     <h3>Why Functional Tasks Do Not Disprove Psychosis</h3>
     <p>One of the central misconceptions challenged during Zeizel’s testimony is that mental illness must make a person look visibly unhinged. Laypeople often picture someone talking to invisible entities or slurring their speech. But clinical experience shows that individuals in a psychotic state can execute rote, mechanical, or routine habits—driving a familiar route, buying groceries, or searching the web—while their internal cognitive framework is utterly consumed by delusions or profound terror.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -72,7 +72,7 @@ Seagate Portable External Hard Drive
     </div>
     <p>Zeizel noted that in December 2022, weeks before the tragedy, Clancy went to a perinatal clinic expressing deep fear that her brain was damaged, that she was never going to get better, and that she harbored paranoid delusions about losing her children. Her fear wasn't rooted in rational logic; it was driven by an unyielding psychological tempest that warped her perception of safety, survival, and maternal duty.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 
@@ -84,7 +84,7 @@ Tactical Waterproof Backpack
     <h3>Cognitive Dissonance and the Shield of Denial</h3>
     <p>Human beings possess an instinctual drive to categorize tragedies neatly: either someone is entirely evil, or they are entirely blameless. When a mother commits an act of unimaginable violence against her own children, our minds experience intense cognitive dissonance. We want a simple narrative. Yet, psychological science reminds us that human consciousness is startlingly fragile. When neurobiology collapses under the weight of sleep deprivation, hormonal crashes, and severe mental illness, the protective mechanisms of the mind can fail completely.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -94,13 +94,13 @@ Seagate Portable External Hard Drive
     <h2>A Reflection on Suffering, Grace, and Human Fragility</h2>
     <p>Stories like this force us to confront the deep, unsettling brokenness of our physical and mental existence. When we look at the immense suffering surrounding the Clancy family—three young lives lost, a mother facing lifelong institutionalization or prison, and a grieving husband—we are reminded of how fragile our minds and spirits truly are.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
     <p>Scripture does not shy away from the reality of human anguish and mental despair. In Psalm 34:18, we read, "The Lord is close to the brokenhearted and saves those who are crushed in spirit." This verse reminds us that in moments of profound darkness where human understanding fails, compassion and mercy are needed most.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -110,7 +110,7 @@ Seagate Portable External Hard Drive
     </div>
     <p>Furthermore, Romans 12:15 encourages us to "mourn with those who mourn." It is a vital reminder that before we rush to quick judgment or harsh condemnation, we are called to hold space for sorrow. The complexities of mental illness remind us that we see only a fraction of the invisible battles people fight within their own minds every single day.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive
 </a></div>
 
@@ -120,7 +120,7 @@ Seagate Portable External Hard Drive
     <h2>How Should Readers Respond?</h2>
     <p>Tragedies like the Lindsay Clancy case must serve as a profound wake-up call for how society handles maternal mental health. Here are concrete ways to respond:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack
 </a></div>
 

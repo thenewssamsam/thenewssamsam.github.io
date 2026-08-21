@@ -30,7 +30,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/live-blog/elections-
     <h2>A Parenting Perspective: Navigating Political Noise at Home</h2>
     <p>When headlines are filled with dramatic defeats, sharp rhetoric, and sudden political upsets, children absorb more than we realize. Even if they are not watching the live blogs or cable news chyrons, they pick up on the tone of our voices, the tension in the room, and the anxieties swirling around the dinner table. Approaching these moments through a parenting lens means shifting our focus from who won or lost to how we model emotional resilience for the next generation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -38,7 +38,7 @@ Seagate Portable External Hard Drive
     <div class="ncg-quote-box">
       <p>&ldquo;Children don't need us to have all the answers to political chaos; they need us to show them that stability and kindness outlast the news cycle.&rdquo;</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -47,7 +47,7 @@ Seagate Portable External Hard Drive
     <h3 class="ncg-subhead">Age-Banded Communication Tips</h3>
     <p>How we talk about elections must match our children's developmental stages. Younger children do not need the intricate details of primary polling or congressional ethics investigations; they simply need reassurance that their immediate world is safe and predictable.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -61,7 +61,7 @@ Tactical Waterproof Backpack
     <h2>A Word on Wisdom and Peace</h2>
     <p>Watching leaders rise and fall reminds us of the temporary nature of earthly systems. Proverbs 19:21 tells us, &ldquo;Many are the plans in a person's heart, but it is the Lord’s purpose that prevails.&rdquo; This truth offers a grounding perspective for families caught up in the stress of election seasons. It invites parents to model a quiet confidence that transcends political outcomes, teaching children that our ultimate security rests not in government power, but in enduring values like kindness, integrity, and grace.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -71,7 +71,7 @@ Tactical Waterproof Backpack
     <h2>How Should Families Respond?</h2>
     <p>Instead of letting news alerts dictate the emotional temperature of your household, use these primary results as an opportunity to build healthy communication habits:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

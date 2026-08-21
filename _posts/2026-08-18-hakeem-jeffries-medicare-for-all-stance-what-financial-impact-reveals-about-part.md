@@ -151,7 +151,7 @@ source_url: 'https://www.levernews.com/hakeem-jeffries-betrayal-shows-why-democr
 
 <p>To understand why everyday voters feel profound frustration with party leadership, we have to look past the political rhetoric and follow the financial incentives that dictate modern legislative priorities.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

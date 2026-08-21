@@ -146,7 +146,7 @@ source_url: 'https://sports.yahoo.com/articles/nfl-games-today-monday-night-1201
 <p>If you settled into the couch expecting a primetime broadcast tonight, you are not alone. Millions of sports fans instinctively check for games to start the week, only to be met with regular programming. The reality is straightforward: the NFL does not schedule Monday night exhibition games during the preseason.</p>
 <p>Instead, the league maintains a disciplined practice and recovery window early in the week before launching into the next block of exhibition matchups. Week 2 of the preseason runs strictly from Thursday, August 20, through Sunday, August 23, leaving early-week nights entirely free of live broadcast action as teams regroup from weekend play.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -41,7 +41,7 @@ source_url: 'https://www.nbcnews.com/news/us-news/newborn-heart-condition-center
   <p>A multistate legal battle centered around a newborn baby with a serious congenital heart condition reached a milestone when the infant underwent successful surgery in Texas, according to attorneys representing the child's biological parents.</p>
   <p>The infant, named Rumi, was born to surrogate McKenna West in Texas. In utero, Rumi was diagnosed with hypoplastic left heart syndrome (HLHS), a rare and severe congenital defect resulting from the underdevelopment of the left side of the heart. According to reporting by NBC News, the case quickly escalated beyond a private family matter into a complex legal and political dispute.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

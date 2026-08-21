@@ -38,7 +38,7 @@ source_url: 'https://www.theguardian.com/business/2026/aug/17/government-borrowi
     <p>Financial markets experienced a jolt as government borrowing costs in several major advanced economies climbed to multi-decade peaks. Investors are growing increasingly anxious that geopolitical conflict in the Middle East will keep energy prices elevated, driving consumer inflation higher and forcing central banks to maintain or even escalate high interest rates.</p>
     <p>The numbers underscore the scale of the shift:</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

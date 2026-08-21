@@ -47,7 +47,7 @@ source_url: 'https://www.nbcboston.com/news/local/lindsay-clancy-trial-day-16-li
 <h2 style="font-size: 1.75rem; color: #2d3748; border-bottom: 1px solid #edf2f7; padding-bottom: 8px; margin-top: 0;">A Faith and Scripture Perspective on Mental Anguish</h2>
 <p>When legal cases intersect with profound psychological breakdowns, society often struggles to find a framework that holds both accountability and compassion in tension. From a biblical worldview, human beings are complex creations—integrated wholes of physical, emotional, and spiritual dimensions. When the physical brain suffers catastrophic failure, such as severe medical psychosis, the mind's ability to perceive reality can become entirely fractured.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -60,7 +60,7 @@ Seagate Portable External Hard Drive
 <h3 style="font-size: 1.3rem; color: #2d3748; margin-top: 25px;">The Reality of Inner Darkness</h3>
 <p>Scripture does not shy away from the reality of deep mental and emotional anguish. Throughout the Psalms, we encounter writers whose internal worlds felt utterly collapsing and dark. When we look at tragic circumstances involving severe illness, we are reminded of the heavy groaning of creation under the weight of the fall.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -71,7 +71,7 @@ Seagate Portable External Hard Drive
 
 <p>This verse reminds us that divine compassion extends even into the most harrowing psychological valleys. While earthly courts must weigh legal definitions of responsibility, God perceives the absolute depth of human fragility and the silent, terrifying battles fought within the human brain.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -88,7 +88,7 @@ Seagate Portable External Hard Drive
 <h3 style="font-size: 1.3rem; color: #2d3748; margin-top: 25px;">Bearing One Another's Burdens</h3>
 <p>Another reflection that surfaces during such trials is the biblical call to community and vigilance in caring for new mothers. Postpartum struggles are rarely discussed with the urgency they require. Scripture urges believers to bear one another's burdens, which involves removing the stigma surrounding mental health challenges in families and faith communities alike.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -99,7 +99,7 @@ Tactical Waterproof Backpack
 
 <p>This invitation challenges us to listen closely when mothers cry out for help, ensuring that medical and emotional support networks are robust, accessible, and free of judgment.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -114,7 +114,7 @@ Tactical Waterproof Backpack
 <h2 style="font-size: 1.75rem; color: #2d3748; border-bottom: 1px solid #edf2f7; padding-bottom: 8px; margin-top: 0;">How Should Christians Respond?</h2>
 <p>Trials like the one unfolding in Duxbury can leave communities feeling helpless, but they also present clear opportunities for compassionate action:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

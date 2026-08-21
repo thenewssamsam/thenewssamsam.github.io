@@ -27,7 +27,7 @@ source_url: "https://www.psu.edu/news/campus-life/story/penn-state-responds-seri
 <h2>The Dual-Track System: University vs. Criminal Law</h2>
 <p>When a student is charged with a crime, they often face two separate proceedings: the public criminal justice system and the private university conduct system. It is important to remember that these systems have different burdens of proof, different goals, and different potential outcomes.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -35,7 +35,7 @@ Tactical Waterproof Backpack
 <div class="ncg-legal-note" style="border-left: 5px solid #6a5acd; background: #f4f0ff; padding: 15px; margin: 20px 0;">
 <p><strong>Important Note:</strong> This is general information, not legal advice. University disciplinary processes are not the same as court proceedings, and the rules of evidence differ significantly. Consult a licensed attorney about your specific situation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -44,7 +44,7 @@ Seagate Portable External Hard Drive
 <h3>1. Burden of Proof</h3>
 <p>In a criminal court, the state must prove guilt "beyond a reasonable doubt." In university conduct hearings, the standard is typically "preponderance of the evidence," meaning it is "more likely than not" that a policy violation occurred. This lower threshold means a student could be found responsible by the university even if they are not convicted in a court of law.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -52,7 +52,7 @@ Tactical Waterproof Backpack
 <h3>2. The Role of Due Process</h3>
 <p>While universities must provide fundamental fairness, they are not courts. Students usually have the right to be informed of the charges and an opportunity to be heard, but they may not have the same rights to cross-examine witnesses or legal counsel representation as they would in a criminal courtroom.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -66,14 +66,14 @@ Seagate Portable External Hard Drive
 <h2>Reflecting on Responsibility and Truth</h2>
 <p>Scripture often reminds us of the weight of our actions and the importance of integrity in community. When we consider the impact of these events, we are reminded that our choices affect not only ourselves but our entire community. Galatians 6:7 (NIV) states: "Do not be deceived: God cannot be mocked. A man reaps what he sows." This serves as a sobering reminder that actions have consequences, both in the eyes of the law and in the context of our personal character.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Furthermore, Proverbs 10:9 (ESV) tells us, "Whoever walks in integrity walks securely, but he who makes his ways crooked will be found out." We are invited to consider how we handle pressure and the temptation to take shortcuts. In moments of crisis, we are called to seek truth and act with wisdom, recognizing that our lives are a witness to others.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

@@ -35,7 +35,7 @@ source_url: 'https://www.cnn.com/2026/08/16/politics/bill-cassidy-trump-vaccine-
 
 <p>Trump defended the directive in an Oval Office appearance, asserting that "nothing bad can happen from what we are doing... The worst thing that could happen would be nothing happens."</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

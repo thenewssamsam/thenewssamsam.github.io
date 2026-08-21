@@ -28,7 +28,7 @@ source_url: "https://www.foxnews.com/politics/progressive-florida-lawmaker-angie
     <h2>What This Means for Florida Communities</h2>
     <p>For the average Floridian, this election isn't just about party labels; it’s about how representation shifts at the state level. Nixon, who rose through the ranks as a community and labor organizer, brings a distinct focus on economic issues that directly affect the working class. Her platform includes controversial but high-interest topics like nationwide rent freezes and a "Medicare-for-all" approach to healthcare.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -36,7 +36,7 @@ Tactical Waterproof Backpack
     <h3>The Shift in Organizing Focus</h3>
     <p>Nixon’s background as a field director for SEIU Florida suggests that her campaign strategy centers on mobilizing unions and grassroots organizations. For voters in Jacksonville and beyond, this represents a move toward a "boots-on-the-ground" style of politics that prioritizes neighborhood-level engagement over national security narratives. While Vindman leveraged his status as a Trump impeachment witness, Nixon’s success highlights a potential disconnect between national headlines and the daily cost-of-living concerns of Florida residents.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -44,7 +44,7 @@ Seagate Portable External Hard Drive
     <div style="border: 1px solid #ddd; padding: 10px; background: #fff;">
       <p><strong>Recommended for Local Organizers:</strong> <a href="#">Heavy-Duty Community Organizing Clipboard - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -55,13 +55,13 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Leadership and Service</h2>
     <p>Watching these shifts in political power often brings to mind the importance of humility and service. When we see leaders rise, it serves as a reminder that the quality of our leadership is tied to how we treat the "least of these." As it says in <strong>Proverbs 29:2</strong>, "When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>This makes me think about the responsibility inherent in any role of influence. Whether in a local city council or the U.S. Senate, the call is to serve the community’s needs with truth and integrity. <strong>1 Peter 5:2</strong> reminds us to "shepherd the flock of God that is among you, exercising oversight, not under compulsion, but willingly, as God would have you." This invites us to consider how our own local involvement—whether in school boards, neighborhood associations, or simply helping a neighbor—shapes the future of our communities far more than any single national election.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -73,7 +73,7 @@ Tactical Waterproof Backpack
       <summary>Who is Angie Nixon running against in November?</summary>
       <p>Nixon will face Republican Sen. Ashley Moody, who was appointed by Gov. Ron DeSantis to fill the seat vacated by Marco Rubio.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -82,7 +82,7 @@ Tactical Waterproof Backpack
       <summary>How did the fundraising compare between candidates?</summary>
       <p>Alex Vindman reported roughly  million in campaign receipts, while Nixon reported approximately ,000, making her victory a significant upset.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

@@ -41,7 +41,7 @@ source_url: ''
 <h2>What Happened in Shasta County</h2>
 <p>In a move bound to draw intense scrutiny, Shasta County Clerk and Registrar of Voters Clint Curtis stated he intends to bring in Tina Peters to replace Assistant Registrar of Voters Brent Turner, who has been on medical leave. Citing potential administrative hurdles in standard county hiring timelines, Curtis indicated he plans to contract Peters directly rather than onboard her as a traditional county employee.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

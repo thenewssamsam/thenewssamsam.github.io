@@ -20,7 +20,7 @@ source_url: 'https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-unde
   <section id="introduction">
     <p>The expiration of the June 17 Memorandum of Understanding (MoU) between the United States and Iran marks a sobering end to a brief, fragile attempt at de-escalation. Designed to freeze hostilities and stabilize the volatile Strait of Hormuz, the agreement collapsed under the weight of its own imprecise language. For students of history, this failure offers a familiar and painful reminder: in high-stakes diplomacy, the devil is not just in the details—it is in the definitions.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

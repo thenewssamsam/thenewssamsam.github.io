@@ -32,7 +32,7 @@ source_url: 'https://www.independent.co.uk/news/world/europe/ukraine-russia-war-
 
 <p>As Kyiv steps up its campaign to carry the physical reality of the war onto Russian soil, the strategy raises profound questions about how protracted industrial conflicts evolve, and why civilian logistics inevitably get pulled into the theater of war.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -23,7 +23,7 @@ source_url: 'https://www.fox2detroit.com/news/missaukee-county-cadillac-mi-death
   
   <p>The suspect, identified by authorities as 39-year-old Chad Hickman, fled before law enforcement arrived, triggering a large-scale search across the region. As the manhunt intensified, the scope of the tragedy widened. Investigators located a fourth victim—a 53-year-old man—dead at a separate home in the county. Shortly afterward, a fifth victim, a 29-year-old woman, was discovered deceased in a wooded area near Whitlock Lake alongside Hickman, who was also found dead.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

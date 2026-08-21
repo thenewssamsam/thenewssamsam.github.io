@@ -37,7 +37,7 @@ source_url: 'https://247wallst.com/investing/2026/08/17/situational-awareness-13
     <p>According to CNBC reporting on the newly released Q2 13F filing, Situational Awareness held a point-in-time snapshot as of June 30, 2026, capturing its portfolio right at the peak of the AI infrastructure trade. Run by former OpenAI researcher Leopold Aschenbrenner, the fund had ballooned to approximately  billion in assets on the back of aggressive, high-conviction wagers on artificial intelligence hardware.</p>
     <p>The centerpiece of the fund's public book was a massive, concentrated long position in memory and storage giants SanDisk and Micron Technology. Together, these two positions totaled more than  billion in exposure at the end of June. SanDisk had been riding an extraordinary NAND-for-AI wave, reporting fiscal year 2026 datacenter revenue growth of 437% year-over-year and securing massive minimum revenue commitments. Micron reported equally stellar metrics, including Q3 FY26 revenue of  billion and a record gross margin of 84.9%.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

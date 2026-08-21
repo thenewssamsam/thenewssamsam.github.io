@@ -26,7 +26,7 @@ source_url: 'https://www.cnn.com/2026/08/19/politics/trump-construction-white-ho
     <h2>The Details on the South Lawn</h2>
     <p>During the tour, the president bypassed traditional policy briefings to highlight the specific choices made in the White House renovations. From the selection of California-mined white granite to the adjustment of the helipad’s slope to ensure it was "dead flat," the president’s attention to detail was granular. He also spoke of the ongoing 90,000-square-foot ballroom project, which his administration has defended in the Supreme Court as a matter of national security.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -36,7 +36,7 @@ Seagate Portable External Hard Drive
     <h2>Lessons in Tangible Stewardship</h2>
     <p>Whether one agrees with the necessity of these projects, the president’s behavior offers a striking lesson on the human drive to create. Often, leadership is viewed as abstract—policy papers, diplomatic cables, and televised speeches. However, this tour suggests that for some, the desire for legacy is best satisfied by the physical.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -48,7 +48,7 @@ Tactical Waterproof Backpack
     <h3>1. The Value of Hands-On Engagement</h3>
     <p>There is a lesson here about "getting into the weeds." While critics argue these details are below a president's pay grade, there is a specific type of satisfaction that comes from being intimately involved in the mechanics of a project. Leaders who understand the foundation—the literal stone and mortar of their work—often develop a different kind of ownership over the final result.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -56,7 +56,7 @@ Tactical Waterproof Backpack
     <h3>2. Defining Your Own "Granite Path"</h3>
     <p>We all have our own version of a "White House project." It might be a career goal, a family responsibility, or a community endeavor. The lesson is to identify what, for you, constitutes a "lasting contribution." If you aren't proud of the foundation, the structure above it will eventually feel hollow.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -66,13 +66,13 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Building and Purpose</h2>
     <p>Watching the president focus on these structural improvements brings to mind the wisdom of the psalmist: <em>"Unless the Lord builds the house, the builders labor in vain"</em> (Psalm 127:1). This is a humbling reminder that while we all desire to build things that last—whether it’s a home, a career, or a legacy—the ultimate success of our efforts rests on a foundation far greater than our own hands.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>It also reminds me of the importance of checking our motives. Are we building for ego, or are we building to serve the needs of those who will come after us? As the Apostle Paul wrote, <em>"Each one should build with care. For no one can lay any foundation other than the one already laid, which is Jesus Christ"</em> (1 Corinthians 3:10-11). It invites us to consider: what is the true foundation of our daily work? Are we seeking to create something that stands the test of time, or are we simply trying to make our mark in the present moment?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

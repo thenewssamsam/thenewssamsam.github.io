@@ -26,7 +26,7 @@ source_url: 'https://www.nfl.com/news/2026-nfl-preseason-week-1-rookie-grades-ra
   <p>The NFL released its comprehensive rookie evaluations following the first full slate of preseason action across 16 contests. While fans and analysts obsess over box scores and highlight reels, professional scouts and coaches are looking at the foundational mechanics of how draft picks and undrafted free agents transition from the college ranks to the professional level.</p>
   <p>From top overall picks like quarterback Fernando Mendoza experiencing early growing pains against Arizona to offensive linemen and linebackers navigating physical mismatches, Week 1 delivered a stark reminder that professional development is a process, not an overnight miracle. Standout moments—such as Rams quarterback Ty Simpson acing his initial test and various rookies making their physical presence felt—highlighted the wide variance in readiness across the league.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

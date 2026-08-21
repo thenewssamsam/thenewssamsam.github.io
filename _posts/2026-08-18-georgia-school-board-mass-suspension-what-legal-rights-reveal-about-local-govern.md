@@ -22,7 +22,7 @@ source_url: 'https://www.wsbtv.com/news/local/suspension-every-single-school-boa
 <section id="introduction">
     <p>When state authorities step in to upend local leadership, it signals a fracture in the system of checks and balances that keeps public institutions running. According to recent reports, the Georgia State Board of Education has recommended the unprecedented suspension of <strong>every single member</strong> of a local school board. For parents, taxpayers, and educators, an action of this magnitude raises immediate questions: How did the situation deteriorate to this level, and what does the law actually allow state agencies to do when local governance breaks down?</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

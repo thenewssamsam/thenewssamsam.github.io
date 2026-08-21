@@ -45,7 +45,7 @@ source_url: ''
 
 <p>The confirmation, arriving via a lengthy league statement on Monday, establishes that LIV Golf Indianapolis will now serve as the final event of the season, crowning its winner a week earlier than originally planned. The announcement also aligns with player movements: star player Tyrrell Hatton promptly joined fellow LIV competitors Tom McKibbin and Adrian Meronk on the entry list for the DP World Tour's British Masters, which occupies the exact same late-August window at The Belfry.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

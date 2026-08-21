@@ -26,7 +26,7 @@ source_url: 'https://www.profarmer.com/news/agriculture-news/preliminary-route-r
 <h2 id="what-happened">What Happened on the Western Leg</h2>
 <p>The Pro Farmer Crop Tour relies on boots-on-the-ground pod counts and ear samples to project corn and soybean production across the U.S. Corn Belt. On the western leg covering South Dakota and Nebraska, this year's findings reveal extreme geographical and agronomic variability driven by a difficult weather arc.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

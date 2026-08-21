@@ -40,7 +40,7 @@ source_url: 'https://www.houstonchronicle.com/sports/college/article/oj-brigance
 
 <p>Long before his front-office leadership with the Ravens or his championship rings, Brigance was a beloved fixture in Houston sports. From his early days at Willowridge High School to his record-shattering career as a linebacker at Rice University, his journey was defined by an unwillingness to accept limits placed on him by others.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

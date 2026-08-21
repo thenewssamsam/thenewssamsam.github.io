@@ -34,7 +34,7 @@ source_url: 'https://www.barchart.com/story/news/3891480/corn-and-soybean-prices
     <p>Commodity markets rarely move in a vacuum, and agricultural pricing is uniquely vulnerable to biological realities that cannot be altered by policy or trading floor algorithms. This week, more than 100 crop scouts rolled out from Columbus, Ohio, and Sioux Falls, South Dakota, embarking on the closely watched Pro Farmer Crop Tour across seven states that account for roughly 70% of U.S. corn and soybean production.</p>
     <p>The central drama of this year's tour is geographical whiplash. Scouts are walking through an eastern leg drenched by record rainfall—including over 11 inches in parts of eastern Indiana and southeastern Ohio—while simultaneously sampling a western leg that has spent much of the summer fighting a deficit of soil moisture. For grain traders tracking corn and soybean prices, this tale of two weather extremes introduces immediate uncertainty into supply forecasts.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

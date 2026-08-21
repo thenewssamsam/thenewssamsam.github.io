@@ -41,7 +41,7 @@ source_url: "https://www.nbcnews.com/business/economy/trump-pauses-canada-tariff
 
     <p>While trade representatives iron out details regarding market access, digital trade alignment, and revived energy infrastructure like the Keystone XL pipeline, the broader economic ecosystem catches a brief collective breath. Yet for everyday households trying to plan grocery budgets, back-to-school shopping, and long-term savings, the 48-hour drama serves as a stark reminder of how quickly global headlines can translate into domestic financial stress.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -51,7 +51,7 @@ Tactical Waterproof Backpack
     <h2>The Kitchen Table Impact: How Trade Policy Reaches Your Home</h2>
     <p>Most discussions around international trade focus on gross domestic product, supply chains, and political leverage. But the downstream effects are felt most acutely by parents managing household ledgers. When tariffs threaten everything from lumber used in home repairs to clothing and food staples, inflation is no longer an abstract economic theory—it is the extra twenty dollars at the checkout counter.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -60,7 +60,7 @@ Tactical Waterproof Backpack
       <p class="tpf-callout-title">The Real-World Ripple Effect</p>
       <p>"Policy debates happen in Washington and Ottawa, but the budget adjustments happen at the kitchen table where families balance their weekly expenses."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -68,7 +68,7 @@ Seagate Portable External Hard Drive
 
     <p>Organizations like the U.S. Chamber of Commerce repeatedly emphasize that broad import taxes drive up operating costs for businesses that inevitably pass those expenses down to everyday consumers. For families already navigating high housing costs and fluctuating grocery prices, sudden tariff announcements create a dizzying sense of unpredictability. Even when a policy is paused, the underlying volatility makes financial planning feel like trying to hit a moving target.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -81,7 +81,7 @@ Tactical Waterproof Backpack
 
     <p>Furthermore, children and teenagers absorb this ambient anxiety. They overhear worried conversations about grocery costs or notice when parents hesitate before buying extracurricular supplies. Managing that household atmosphere without creating unnecessary panic requires both intentional communication and steady emotional leadership.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -91,7 +91,7 @@ Seagate Portable External Hard Drive
     <h2>A Parenting &amp; Family Perspective: Navigating Economic Uncertainty With Kids</h2>
     <p>When macro-level economic news dominates the evening news cycle, children pick up on the emotional temperature of the home long before they understand trade deficits or tariff acts. Here is how parents can approach these moments across different developmental stages:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -99,7 +99,7 @@ Tactical Waterproof Backpack
     <h3>1. For Young Children (Ages 4–8): Focus on Stability</h3>
     <p>Young children do not need to hear about international trade disputes or looming tariff deadlines. Their sense of security is tied directly to their immediate environment. If grocery prices fluctuate or household routines require adjustments, keep explanations simple and reassuring: "Sometimes the cost of things at the store changes a little bit, but our family is safe, and we always figure out our budget together." Avoid using catastrophic language.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -107,7 +107,7 @@ Seagate Portable External Hard Drive
     <h3>2. For Tweens (Ages 9–13): Connect Choices to Value</h3>
     <p>Pre-teens are old enough to notice when prices rise or when news anchors discuss economic tensions. Use these moments for age-appropriate financial literacy lessons. Explain how global events influence everyday goods without making them feel that financial ruin is around the corner. Frame it as a great opportunity to discuss why comparison shopping, smart resource management, and adaptability matter in a connected world.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -115,7 +115,7 @@ Seagate Portable External Hard Drive
     <h3>3. For Teenagers (Ages 14–18): Discuss Resilience and Critical Thinking</h3>
     <p>Teenagers are capable of analyzing complex news stories. Discuss headlines like the Trump-Canada trade talks as real-world case studies in negotiation, diplomacy, and global economics. Encourage them to look past partisan spin and evaluate how policies affect employment, supply chains, and consumer costs. More importantly, talk to teens about financial resilience—saving a portion of earned income, avoiding lifestyle inflation, and preparing for an unpredictable job market.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -131,7 +131,7 @@ Tactical Waterproof Backpack
     <h2>A Moment of Reflection: Finding Peace Amidst Financial Anxiety</h2>
     <p>It is easy to let the shifting tides of politics and economics dictate our inner peace. When headlines flash warnings of sudden price hikes and trade wars, our natural human reaction is anxiety and a frantic desire to secure our own comfort. Yet, reflecting on the deeper currents of life reminds us where true security is anchored. One of the most comforting reminders in Scripture addresses the very root of our daily worries:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -142,7 +142,7 @@ Tactical Waterproof Backpack
 
     <p>This does not mean we ignore household budgets or fail to plan responsibly. Rather, it invites us to examine our posture when external uncertainties arise. When the economic news cycle turns turbulent, our homes can remain steady, anchored not by government trade deals or temporary tariff pauses, but by faith, mutual support, and a commitment to stewardship.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -152,7 +152,7 @@ Seagate Portable External Hard Drive
     <h2>How Families Can Respond Pragmatically</h2>
     <p>Instead of reacting with panic to every 48-hour trade deadline or political headline, families can take proactive, grounded steps to insulate their households:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -175,7 +175,7 @@ Tactical Waterproof Backpack
     <h2>One Last Thought</h2>
     <p>Trade wars and sudden policy pauses will come and go, but the culture we build inside our homes remains our most enduring legacy. By meeting economic headlines with calm discernment rather than reactive panic, we teach the next generation that resilience is built not on perfect economic conditions, but on steady character, wise stewardship, and love for one another.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

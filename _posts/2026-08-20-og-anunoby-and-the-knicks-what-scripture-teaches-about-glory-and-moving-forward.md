@@ -59,7 +59,7 @@ source_url: 'https://edition.cnn.com/2026/08/18/sport/og-anunoby-new-york-knicks
     <h2>The Weight of Glory and Human Pride</h2>
     <p>Human beings are naturally wired to chase validation. Whether it is a championship ring in Madison Square Garden, a promotion at work, or societal applause, we love to bask in the warmth of achievement. Yet, Scripture consistently warns us about the seductive, fleeting nature of worldly glory.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -74,7 +74,7 @@ Seagate Portable External Hard Drive
 
     <p>When an entire metropolis like New York places the heavy albatross of expectations onto an athletic team, the pressure to find identity in victory is immense. Anunoby’s indifference to his own viral mythos offers an unintended parable. By refusing to let adulation define his inner life, he mirrors a posture of detachment from pride that protects the soul against the intoxicating fumes of self-importance.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -84,14 +84,14 @@ Seagate Portable External Hard Drive
     <h2>A Scripture Perspective on Success and Tomorrow</h2>
     <p>When I read about athletes grappling with the sudden onset of fame and the immediate pressure to defend yesterday’s achievements, it makes me think about how easily our hearts anchor themselves to temporary victories. We pour so much energy into scaling our own personal mountains, only to discover that the summit is just a starting line for the next exhausting climb.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>I am reminded of the wisdom written in Proverbs 27:21: <span>"The crucible is for silver and the furnace is for gold, and a man is tested by the praise he receives."</span> It is often harder to handle success with grace and humility than it is to endure hardship. Praise has a subtle way of inflating our egos and blinding us to our continuous need for grace.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -102,7 +102,7 @@ Tactical Waterproof Backpack
 
     <p>Furthermore, Jesus gently redirects our anxious fixation on performance and tomorrow when He reminds us in Matthew 6:34: <span>"Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. Sufficient for the day is its own trouble."</span> Anunoby’s readiness to drop the past and focus on the present day's work accidentally echoes this biblical principle: honor the past, celebrate what was given, but do not let yesterday's glory steal today's obedience.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -112,7 +112,7 @@ Tactical Waterproof Backpack
     <h2>How Should Christians Respond?</h2>
     <p>In our daily lives, whether we are celebrating a major milestone or recovering from a public failure, we are called to evaluate where we place our ultimate worth. Here are a few ways to apply this perspective:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

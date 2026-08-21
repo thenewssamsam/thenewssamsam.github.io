@@ -38,7 +38,7 @@ source_url: 'https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks
     <p>Over the weekend, a renewed wave of violence tore through several Yemeni governorates. According to local media reports and government officials, the Houthis launched six ballistic missiles and four drones targeting residential neighborhoods in Marib on Saturday evening, wounding four civilians and damaging infrastructure.</p>
     <p>Simultaneously, strikes hit the outskirts and a main road in al-Makha, a vital port city on Yemen&rsquo;s Red Sea coast. The overnight attacks killed four people and injured eight others, with the director general of the government-controlled facility confirming that port operations had already been paused due to days of ongoing strikes. In response, the Yemeni military reported launching 181 operations against Houthi positions across multiple governorates, signaling that the localized skirmishes have transformed into a broader, active military offensive.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

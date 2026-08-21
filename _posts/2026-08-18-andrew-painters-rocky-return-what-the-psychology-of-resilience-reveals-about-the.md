@@ -27,7 +27,7 @@ source_url: 'https://www.mlb.com/news/phillies-overcome-five-run-deficit-to-swee
   <p>Sunday afternoon at Target Field was supposed to be a celebration of full-circle baseball poetry. Exactly three years after his dazzling Spring Training debut against the Minnesota Twins—where a 99 mph fastball left Carlos Correa predicting stardom, followed swiftly by elbow pain and Tommy John surgery—Andrew Painter took the mound in a Phillies uniform once again.</p>
   <p>Instead of a triumphant fairy tale, the first inning became a grueling test of endurance. Painter walked the leadoff man, gave up back-to-back line-drive singles, loaded the bases, and surrendered a towering grand slam to Brooks Lee. Moments later, a stray fastball clipped Luke Keaschall on the helmet, clearing the air with tense words and umpire huddles.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

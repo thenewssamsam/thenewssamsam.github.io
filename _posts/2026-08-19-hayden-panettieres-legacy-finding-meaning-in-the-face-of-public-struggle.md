@@ -26,7 +26,7 @@ source_url: "https://www.nbcnews.com/news/us-news/tuesday-primaries-buss-family-
   <div class="ncg-amazon-product" style="border: 2px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 8px;">
     <p><strong>Recommended Resource:</strong> <em>The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma</em> by Bessel van der Kolk. <a href="#">Check Price on Amazon - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -36,7 +36,7 @@ Seagate Portable External Hard Drive
     <h2>The Intersection of Fame and Mental Wellness</h2>
     <p>Panettiere’s life was marked by both professional success and significant personal challenges, including struggles with addiction, postpartum depression, and the pressures of a career that began before she could even speak. From a wellness perspective, her journey highlights the reality that external success does not equate to internal peace.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -44,7 +44,7 @@ Tactical Waterproof Backpack
     <h3>The Importance of Self-Compassion</h3>
     <p>In our own lives, we often view "struggle" as a sign of failure. However, psychological wellness requires us to move away from that narrative. When we face transitions—whether they are career shifts, personal loss, or health challenges—the most effective tool we have is self-compassion. This is general information, not medical advice. If you are struggling, please consult a licensed professional.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -56,7 +56,7 @@ Seagate Portable External Hard Drive
     <div class="ncg-amazon-product" style="border: 2px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 8px;">
       <p><strong>Wellness Journal:</strong> <em>The Five-Minute Journal: A Happier You in 5 Minutes a Day.</em> <a href="#">Check Price on Amazon - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -65,7 +65,7 @@ Tactical Waterproof Backpack
     <h3>Finding Your Own Terms</h3>
     <p>Panettiere spoke openly about embracing a path she hadn't chosen for herself. This resonates with many people who feel "stuck" in a life trajectory that no longer serves them. Wellness is about reclaiming your agency—deciding what <em>you</em> want your next chapter to look like, regardless of external expectations.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -75,7 +75,7 @@ Seagate Portable External Hard Drive
     <h2>A Moment of Reflection</h2>
     <p>When we look at lives that end too soon, it is natural to feel a sense of profound sadness and search for meaning. I am reminded of the words in <strong>Psalm 34:18</strong>: <em>"The Lord is near to the brokenhearted and saves the crushed in spirit."</em> This verse invites us to consider that we are never alone in our deepest moments of darkness. It reminds me that our value is not tied to our achievements or how the world perceives us, but to our inherent worth. It encourages us to be gentle with ourselves and others, knowing that everyone is carrying a burden we may know nothing about.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -93,7 +93,7 @@ Tactical Waterproof Backpack
   <div class="ncg-amazon-product" style="border: 2px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0; border-radius: 8px;">
     <p><strong>Mindfulness Tool:</strong> <em>Essential Oil Diffuser for Stress Relief.</em> <a href="#">Check Price on Amazon - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -103,7 +103,7 @@ Tactical Waterproof Backpack
     <h2>One Last Thought</h2>
     <p>Hayden Panettiere’s life serves as a reminder to prioritize our humanity above our productivity. In a world that demands we always be "on," choosing to pause, reflect, and care for our mental health is a radical act of self-love. May we honor her memory by being a little kinder to ourselves and those around us today.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

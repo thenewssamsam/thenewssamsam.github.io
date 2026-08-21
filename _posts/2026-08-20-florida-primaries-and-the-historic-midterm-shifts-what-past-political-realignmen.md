@@ -32,14 +32,14 @@ source_url: "https://apnews.com/article/florida-wyoming-alaska-primaries-democra
   <h2 id="historical-parallel">A Historical Parallel: Factions, Realignments, and Insurgents</h2>
   <p>To understand the friction between establishment figures and insurgent challengers in 2026—such as Nixon's upset over Vindman or the chaotic, celebrity-infused Republican primary fields—we must look back at American political history. Throughout the 19th and 20th centuries, midterm election cycles frequently served as pressure valves for voter discontent, giving rise to populist movements that fractured traditional party hierarchies.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
   <p>Consider the midterm cycles of the late 19th century during the Gilded Age, or the dramatic insurgencies within the Republican and Democratic parties during the turbulent 1960s and 1970s. In those eras, party bosses often lost control of candidate selection as grassroots energy and outsider candidates capitalized on public weariness with institutional norms. The rise of multi-candidate fields featuring high-profile personalities, carpetbaggers, and ideological crusaders is not a modern invention of 24-hour news and social media; it is a recurring feature of a republic undergoing economic and social transition.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -50,7 +50,7 @@ Seagate Portable External Hard Drive
 
   <p>Furthermore, the geographic shifting of political candidates—seen in Florida's influx of political figures moving from northern states—recalls the mid-20th-century population booms in the Sunbelt. As economic power migrated from the Rust Belt to the South and West, political aspirants followed, often bringing outside ideological fights into newly minted suburban and urban battlegrounds.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -62,14 +62,14 @@ Tactical Waterproof Backpack
   <h2 id="scripture-perspective">A Moment for Reflection</h2>
   <p>Times of political division and ambition naturally prompt deeper questions about integrity, community, and the pursuit of justice. Scripture reminds us of the fleeting nature of earthly power and the enduring call to act with humility and righteousness. As Proverbs 21:3 notes, <em>"To do righteousness and justice is more acceptable to the Lord than sacrifice."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
   
   <p>When elections become flashpoints of intense human rivalry, it is easy to lose sight of our mutual obligations as neighbors. History demonstrates that empires and political regimes rise and fall, but the character of a society is measured by how it treats the vulnerable and how its citizens pursue truth. Reflecting on these moments invites us to look beyond temporary political victories and focus on enduring moral stewardship.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

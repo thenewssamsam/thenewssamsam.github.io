@@ -34,7 +34,7 @@ source_url: 'https://www.usatoday.com/story/news/politics/elections/2026/08/17/m
 
 <p>As Alaska voters head to nonpartisan primaries under the state's ranked-choice system, former Democratic Representative Mary Peltola holds a narrow edge over incumbent Republican Senator Dan Sullivan in recent polling. While President Donald Trump carried the state three times, Alaska's political DNA has always defied simple left-and-right categorization. Peltola is vying to flip the seat in the midterms, aiming to shrink or take over the Republican Senate majority, while Sullivan leans on his alignment with national conservative policies and his status as a conventional incumbent.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

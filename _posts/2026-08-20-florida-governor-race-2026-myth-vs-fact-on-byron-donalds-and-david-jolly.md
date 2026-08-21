@@ -30,7 +30,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/republican-byron-don
 
 <p>Meanwhile, David Jolly secured the Democratic nomination after facing only nominal opposition. Jolly, a former Republican member of Congress who later changed his party registration, represents a moderate lane that many Democratic strategists believe gives them the widest possible tent in a state where Republicans have dominated statewide elections for decades. Republicans control every branch of state government in Florida and have not lost a gubernatorial race since 1994.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -38,7 +38,7 @@ Seagate Portable External Hard Drive
 <h2 id="myth-vs-fact">Myth vs. Fact: Decoding the 2026 Florida Gubernatorial Clash</h2>
 <p>To understand what this general election actually means for Florida voters, we must examine several prominent claims circulating in political commentary and test them against verified reporting and electoral data.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -47,7 +47,7 @@ Tactical Waterproof Backpack
 <h3 style="margin-top: 0; color: #24292e;">Myth 1: "David Jolly is a mainstream, progressive Democrat."</h3>
 <p><strong>The Reality:</strong> Jolly is explicitly positioning himself as a moderate, having spent years as a registered Republican and serving in Congress under the GOP banner before changing parties. Many progressive Democrats in past cycles struggled in high-profile Florida races against Ron DeSantis; Jolly's nomination is an intentional pivot by party pragmatists looking to appeal to independent and moderate voters, rather than a nod to the progressive wing.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -62,7 +62,7 @@ Seagate Portable External Hard Drive
 <h3 style="margin-top: 0; color: #24292e;">Myth 2: "Ron DeSantis actively endorsed his successor to keep continuity."</h3>
 <p><strong>The Reality:</strong> While Lieutenant Governor Jay Collins was initially viewed as an anointed successor when appointed by DeSantis, their relationship deteriorated. DeSantis ultimately did not endorse in the race to replace him, offering only late, lukewarm praise for former state House Speaker Paul Renner without a full endorsement, while Donalds captured the decisive Trump endorsement.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -77,7 +77,7 @@ Tactical Waterproof Backpack
 <h3 style="margin-top: 0; color: #24292e;">Myth 3: "Florida's status as a swing state is completely dead."</h3>
 <p><strong>The Reality:</strong> DeSantis won his 2022 re-election by over 20 percentage points, creating a narrative that the state was permanently deep-red. However, political scientists note that general election dynamics with competitive candidates like Jolly test whether 2022 was an anomalous high-water mark for Republicans or the permanent new baseline for the Sunshine State.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -90,7 +90,7 @@ Seagate Portable External Hard Drive
 <h2 id="spiritual-reflection">A Moment of Discernment</h2>
 <p>As we observe the intense polarization and strategic maneuvering of modern political campaigns, it is easy to become discouraged by the division. Yet Proverbs 19:21 reminds us, &ldquo;Many are the plans in a person's heart, but it is the Lord's purpose that prevails.&rdquo; This truth invites us to approach civic life with both active responsibility and humble perspective, remembering that human institutions rise and fall, but integrity and character remain enduring virtues.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

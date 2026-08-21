@@ -21,7 +21,7 @@ source_url: 'https://www.foxsports.com/stories/college-football/rankings-2026-pr
     If you don't like where your team is ranked in the new 2026 preseason ladder, the prescription is simple: win. But winning in college football has never been harder, with transfer portal parity, shifting coaching carousels, and NIL dynamics reshaping every corner of the sport. Ahead of the 2026 kickoff, analysts have ranked all 138 Football Bowl Subdivision (FBS) teams&mdash;from perennial contenders to basement dwellers trying to claw their way back to respectability.
   </p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

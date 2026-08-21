@@ -29,14 +29,14 @@ source_url: "https://www.post-gazette.com/news/education/2026/08/17/drug-hazing-
 
 <p>The Apostle Paul writes in <strong>Galatians 6:2</strong>: <em>"Carry each other’s burdens, and in this way you will fulfill the law of Christ."</em> This verse invites us to consider whether our social structures—be they on a college campus or in our personal lives—are designed to lift others up or to tear them down for the sake of group identity.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Hazing often exploits the human desire for belonging. When that desire is twisted into a demand for illicit behavior, it creates a moral vacuum. We must ask ourselves why we allow "tradition" or "belonging" to be used as a justification for actions that are inherently harmful. If we are to seek a better way, we must prioritize the dignity of the individual over the status of the group.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -46,7 +46,7 @@ Tactical Waterproof Backpack
 <h2>Reflecting on Integrity</h2>
 <p>This situation makes me think about the nature of our hidden choices. The Bible reminds us in <strong>Luke 12:2</strong>: <em>"There is nothing concealed that will not be disclosed, or hidden that will not be made known."</em> This is a sobering truth for any organization operating in the dark. It serves as a call to personal integrity; we are called to be the same people in private that we claim to be in public.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

@@ -39,7 +39,7 @@ source_url: "https://www.bbc.com/news/articles/c62emm4yp8go"
 <div class="ncg-quote-box">
 <p>&ldquo;The Lindsay Clancy trial forces us to confront a grim economic equation: what is the true cost of underfunded maternal mental healthcare systems when families are left to navigate psychiatric crises alone?&rdquo;</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -50,14 +50,14 @@ Tactical Waterproof Backpack
 <h2>The Economic Reality of Maternal Mental Healthcare</h2>
 <p>From a financial and economic perspective, high-profile tragedies like this lay bare the profound systemic inefficiencies in how society allocates resources toward maternal healthcare. Postpartum psychosis affects a small percentage of new mothers, but its acute nature requires immediate, intensive, and often costly specialized psychiatric care.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>When insurance barriers, high deductibles, network shortages, or institutional bed capacities create friction in accessing inpatient psychiatric care, families are forced to absorb unsustainable financial and emotional burdens. In Clancy's case, family testimony revealed she sought medical help repeatedly, checked into a facility, and yet slipped through the cracks of a strained medical infrastructure.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -69,7 +69,7 @@ Tactical Waterproof Backpack
 
 <p>Economists study the concept of "preventative friction"—the idea that every dollar saved by rationing specialized psychiatric beds or limiting insurance coverage for intensive maternal care often results in exponentially higher societal, legal, and human costs down the line. Court trials, long-term incarceration, emergency medical interventions, and shattered families represent an immense economic loss that far outweighs the upfront cost of comprehensive psychiatric support.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -79,7 +79,7 @@ Seagate Portable External Hard Drive
 <h2>Systemic Costs: When Treatment Fails</h2>
 <p>Healthcare analysts frequently point out that nursing and medical professionals—ironically, the very field Clancy worked in—often face intense pressure to mask personal vulnerabilities. The expectation to remain resilient while operating within overburdened healthcare systems can discourage workers from seeking aggressive early intervention.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -91,7 +91,7 @@ Seagate Portable External Hard Drive
 
 <p>When society fails to properly fund and streamline maternal mental health services, the hidden costs ripple through communities. Employers lose productive workers, insurance pools absorb catastrophic litigation and care costs, and families experience irreversible losses. General financial literacy in this context includes recognizing that robust public health funding is not merely a social expense, but a vital economic stabilizer.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -101,14 +101,14 @@ Seagate Portable External Hard Drive
 <h2>A Reflection on Stewardship and Community Care</h2>
 <p>Situations involving deep human suffering and broken systems naturally cause us to reflect on our moral and spiritual responsibilities toward the vulnerable. When loved ones cry out for help, scripture reminds us of the heavy duty we bear to bear one another's burdens and watch over those who are weak or overwhelmed.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Proverbs 31:8-9 encourages us to speak up for those who cannot speak for themselves and defend the rights of the destitute and needy. Similarly, Galatians 6:2 reminds believers to "bear one another's burdens, and so fulfill the law of Christ." These principles challenge communities and policymakers alike to move beyond indifference, ensuring that support systems are robust enough to catch individuals before they reach a breaking point.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

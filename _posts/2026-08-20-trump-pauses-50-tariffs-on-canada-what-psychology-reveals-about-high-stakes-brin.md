@@ -126,14 +126,14 @@ source_url: "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine
     <h2 id="what-happened">What Happened in the U.S.-Canada Tariff Showdown</h2>
     <p>President Trump late Tuesday stateside paused imposing the scheduled 50% tariffs on a curated array of Canadian imports. The duties, which were slated to hit at midnight, covered roughly  billion worth of goods under Section 338 of the Tariff Act of 1930—a rarely invoked Great Depression-era law targeting what the administration described as trade discrimination in motor vehicle, alcohol, and dairy sectors.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>The announcement followed intense trade discussions between Trump and Canadian Prime Minister Mark Carney. In a post on Truth Social, Trump declared that a "DEAL!" was in place, subject to final document formatting. He also teased the potential revival of the Keystone XL pipeline, a project whose permits had been revoked in 2021.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -144,7 +144,7 @@ Seagate Portable External Hard Drive
 
     <p>While the  billion targeted represents only a fraction of the  billion in goods imported from Canada last year, the sheer magnitude of a 50% tax threatened to make specific consumer-facing products entirely uneconomic. Small businesses on both sides of the border had reported frozen orders and mounting anxiety as the midnight deadline ticked closer.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -154,14 +154,14 @@ Seagate Portable External Hard Drive
     <h2 id="psychology-of-brinkmanship">The Psychology of Brinkmanship and Loss Aversion</h2>
     <p>Why do leaders rely on such abrupt, high-stakes ultimatums? From a behavioral psychology perspective, the strategy leverages two powerful phenomena: <strong>loss aversion</strong> and <strong>anchor pricing</strong>.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>Loss aversion, a cornerstone concept identified by behavioral economists, demonstrates that the pain of losing something hurts roughly twice as much as the pleasure of gaining an equivalent benefit. By threatening an extreme measure—a 50% tariff that would instantly grind small business sales to a halt—the administration established an alarming baseline of potential loss. Canadian industries were suddenly forced to visualize not modest adjustments, but catastrophic financial friction.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -169,7 +169,7 @@ Tactical Waterproof Backpack
     <div class="ncg-quote-box">
       <p>"When a 50% penalty is placed on the table, negotiators aren't debating margins anymore; they are fighting for survival, transforming extreme pressure into an engine for rapid concessions."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -177,7 +177,7 @@ Tactical Waterproof Backpack
 
     <p>Once the extreme threat is established, the introduction of a "deal" creates instant psychological relief. Even if the resulting agreement requires major concessions, the human brain perceives it as a massive victory compared to the alternative of absolute loss. This is classic brinkmanship: pushing a situation to the very edge of disaster to compel the opposing party to renegotiate terms they previously refused to touch.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -191,14 +191,14 @@ Seagate Portable External Hard Drive
     <h2 id="cognitive-biases-in-trade-negotiations">Cognitive Biases in Public Negotiations</h2>
     <p>Public trade negotiations also activate the <strong>availability heuristic</strong> and <strong>groupthink</strong> across broader markets. When headlines blare about hockey sticks, wine, and dairy disputes facing a 50% tax, consumers and investors quickly overestimate the immediate probability of widespread economic fallout.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>As Dan Kelly of the Canadian Federation of Independent Business noted, suppliers immediately saw U.S. buyers hold off on future orders. Fear of the unknown acts as a paralyzing agent. Human beings hate ambiguity; when faced with a looming, undefined economic penalty, markets and businesses overcorrect out of a defensive instinct to protect capital.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -220,7 +220,7 @@ Tactical Waterproof Backpack
     
     <p>This makes me think about how quickly societies panic when stability is threatened. We pin our peace on trade agreements, pipelines, and market indicators—things that can shift overnight with a single social media post. Yet, true stability calls for a deeper anchor that transcends political brinkmanship.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

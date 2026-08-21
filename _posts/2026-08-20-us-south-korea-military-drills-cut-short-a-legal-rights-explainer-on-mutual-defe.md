@@ -39,7 +39,7 @@ source_url: "https://www.bbc.com/news/articles/cnvn0j31qj8o"
 
 <p>President Donald Trump explicitly linked the curtailment of the drills to South Korea's reluctance to participate in recent military operations regarding Iran. Highlighting the presence of approximately 28,500 American military personnel stationed in South Korea alongside roughly 39,000 total regional deployments, the administration framed the adjustment around questions of reciprocity within the alliance framework. Meanwhile, North Korean officials have downplayed the operational shift, with Kim Yo-Jong noting that the reduction does not alter the underlying hostile nature of the exercises from Pyongyang's perspective.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -54,21 +54,21 @@ Tactical Waterproof Backpack
 <h2>The Legal Framework of Mutual Defense Pacts</h2>
 <p>To understand the gravity of an adjusted military drill, one must examine the foundational legal document governing the relationship: the Mutual Defense Treaty Between the United States and the Republic of Korea, signed in October 1953 following the Korean Armistice Agreement.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Under international law, bilateral defense pacts are binding treaties ratified by national legislative bodies—in the US, requiring Senate advice and consent. These treaties typically obligate each signatory to act to meet common dangers in accordance with their respective constitutional processes. However, the exact phrasing of such treaties usually grants significant discretion to executive branches regarding the *manner* and *scale* of implementation, including military exercises, intelligence sharing, and force posture.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>When a treaty stipulates mutual defense against armed attack, it establishes a high threshold of legal obligation regarding direct aggression. Routine joint military exercises, however, fall into the category of operational cooperation rather than core treaty mandates. While vital for readiness, scheduling and scaling them generally remain within the administrative discretion of the allied defense ministries, absent explicit treaty language dictating precise annual drill durations.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -84,14 +84,14 @@ Seagate Portable External Hard Drive
 <h2>Treaty Obligations vs. Discretionary Foreign Policy</h2>
 <p>A central tension in modern alliance law is the distinction between binding legal obligations and discretionary political cooperation. The US-South Korea mutual defense pact was designed to deter external aggression on the Korean Peninsula. It does not contain reciprocal clauses requiring either nation to participate in out-of-theater military operations elsewhere in the world unless specifically agreed upon through separate protocols or legislative approvals.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>From a strict legal interpretation of the 1953 treaty:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -103,7 +103,7 @@ Seagate Portable External Hard Drive
 
 <p>This legal boundary explains why South Korea's decision to decline participation in Iran-related operations did not constitute a formal breach of the 1953 defense treaty, even though it heavily influenced Washington's executive decisions regarding military exercise scheduling.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -122,7 +122,7 @@ Tactical Waterproof Backpack
 <h2>How Should Readers Respond?</h2>
 <p>For ordinary citizens, policy watchers, and business leaders observing international legal developments, events like this highlight several practical considerations:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

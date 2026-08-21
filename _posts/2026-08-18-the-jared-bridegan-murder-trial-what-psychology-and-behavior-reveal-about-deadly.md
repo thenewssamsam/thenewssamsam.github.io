@@ -23,7 +23,7 @@ source_url: 'https://www.cnn.com/2026/08/17/us/jared-bridegan-mario-fernandez-sa
 <h2>What Happened on That Florida Evening</h2>
 <p>The details of the crime read like a chilling script. On a warm February evening in 2022, 33-year-old Jared Bridegan dropped off his twins at his ex-wife Shanna Gardner's home in Jacksonville Beach, Florida. As he drove home with his 2-year-old daughter strapped into the backseat, he encountered a tire deliberately placed in the middle of the road.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

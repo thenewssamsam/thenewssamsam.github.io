@@ -37,7 +37,7 @@ source_url: 'https://www.presstelegram.com/2026/08/17/search-underway-for-man-wh
     <p>The incident unfolded on the evening of Sunday, August 16, 2026. Carbullido and a female companion had rented personal watercraft from Rainbow Harbor, heading out toward the Queens Gate Entrance Channel. Sometime after nightfall, while operating outside the massive rock break wall that shields the harbor, Carbullido fell into the water.</p>
     <p>What followed was a cascade of perilous moments. The woman attempted to help him, but the open ocean proved too formidable. When she tried to reboard her own watercraft, she couldn't start the engine. Forced to think fast, she swam for roughly an hour in the dark Pacific waters until she reached the rocky break wall, where a good Samaritan on a passing boat heard her cries for help around 10:30 p.m. and alerted authorities.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

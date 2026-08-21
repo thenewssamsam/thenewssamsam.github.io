@@ -34,7 +34,7 @@ source_url: 'https://www.cnn.com/2026/08/16/us/key-figures-tupac-shakur-trial'
 <h2 id="what-happened">What Happened: The Long Road to the Courtroom</h2>
 <p>The events leading up to Duane Davis's trial trace back to the night of September 7, 1996. After attending a Mike Tyson boxing match at the MGM Grand in Las Vegas, Tupac Shakur and his entourage—led by Death Row Records founder Marion "Suge" Knight—became involved in a physical altercation with Orlando Anderson, a member of the South Side Compton Crips and the nephew of Davis.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

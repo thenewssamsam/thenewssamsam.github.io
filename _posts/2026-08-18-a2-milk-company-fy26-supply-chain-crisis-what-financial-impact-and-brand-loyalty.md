@@ -33,7 +33,7 @@ source_url: 'https://www.nutraingredients.com/Article/2026/08/17/a2mcs-fy26-reve
     
     <p>Behind these headline figures lies a dramatic operational disruption. While the first half of FY26 saw revenue jump 6.5%, the second half took a sharp 33% dive. The culprit? Severe out-of-stock situations for its flagship China-label infant milk formulas—specifically the popular a2 ZhiChu range—during the fourth quarter. Freight challenges indirectly triggered by the Middle East crisis, production backlogs, extended product release times, and rigorous new customs testing measures combined to choke off supply.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

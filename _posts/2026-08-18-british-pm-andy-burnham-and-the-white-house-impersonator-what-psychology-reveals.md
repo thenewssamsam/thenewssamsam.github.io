@@ -33,7 +33,7 @@ source_url: 'https://www.cnn.com/2026/08/17/uk/andy-burnham-trump-chief-of-staff
 <p>According to reports breaking from CNN and Politico, British Prime Minister Andy Burnham recently exchanged text messages with an individual falsely impersonating Susie Wiles, one of U.S. President Donald Trump's closest advisors and the White House chief of staff. Although Downing Street declined to comment on national security matters, sources confirm that the communication involved no significant state matters. Burnham reportedly grew suspicious quickly, cutting off contact and alerting the appropriate authorities.</p>
 <p>White House officials clarified that Wiles's personal devices were not compromised in the breach. Instead, the incident fits a wider, persistent pattern of phishing attempts targeting individuals associated with the Trump administration. Law enforcement has been investigating similar impersonation schemes since mid-2025, when scammers leveraged leaked contact lists to target high-profile executives, senators, and governors.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -33,7 +33,7 @@ source_url: 'https://nypost.com/2026/08/16/world-news/arab-allies-join-trump-in-
 
   <p>When major geopolitical heavyweights lock horns over an intractable conflict, the friction is rarely just about the immediate terms on the table. It is about a complex web of alliances, security anxieties, and historical precedents that stretch back decades.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

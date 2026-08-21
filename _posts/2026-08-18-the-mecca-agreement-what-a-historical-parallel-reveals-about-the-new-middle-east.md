@@ -19,7 +19,7 @@ source_url: 'https://www.i24news.tv/en/news/international/artc-this-is-big-trump
 
   <p>For anyone trying to make sense of shifting alliances in the Middle East and South Asia, this moment feels simultaneously unprecedented and strangely familiar. History rarely repeats itself word for word, but it often rhymes. To understand why this agreement matters right now, we have to look past the immediate headlines and examine how past security pacts have reshaped global stability.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -38,7 +38,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-la
     <h2>What Happened in the AI Hardware Race</h2>
     <p>On Monday, Alibaba rolled out Qwen3.8-27B, a model built specifically to handle complex coding, professional research, and long-horizon agentic tasks on local consumer hardware. Alongside this release, the company opened the weights of its flagship Qwen3.8 Max model, allowing developers worldwide to freely download and run the software.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Toshiba 5400RPM Hard Drive 
 </a></p>
 

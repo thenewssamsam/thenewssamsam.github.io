@@ -23,7 +23,7 @@ source_url: "https://www.foxnews.com/politics/iran-fails-strike-deal-us-deadline
     <h2>The Current State of the Deadlock</h2>
     <p>Nearly six months into the conflict, the Strait of Hormuz—the transit point for roughly 20% of the world's oil and liquefied natural gas—remains effectively blocked. Despite a June memorandum of understanding intended to de-escalate hostilities, no final agreement was reached by this week's deadline. Iran maintains that it will control shipping traffic until sanctions are lifted and frozen assets are released, while the U.S. continues to demand unrestricted commercial passage.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CD4KM2P3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 QT-QY Military Tactical Backpack 
 </a></div>
 
@@ -33,7 +33,7 @@ QT-QY Military Tactical Backpack
     <h2>The Industrial Ripple Effect</h2>
     <p>For professionals in logistics, energy, and defense, this is not just a diplomatic failure; it is an operational crisis. The uncertainty creates a "wait-and-see" environment that paralyzes long-term planning.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 KEOFID Classic Backpack 
 </a></div>
 
@@ -41,7 +41,7 @@ KEOFID Classic Backpack
     <h3>Energy Logistics and Market Volatility</h3>
     <p>The direct impact on the energy sector is profound. With traffic through the strait significantly reduced, companies relying on these routes are facing increased insurance premiums, longer transit times, and the constant threat of asset loss. For those in the energy industry, this necessitates a shift toward redundant supply chains and the diversification of transit routes, even at a higher cost.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -53,7 +53,7 @@ Seagate Portable External Hard Drive
     <h3>Defense Manufacturing and Readiness</h3>
     <p>The conflict has also exposed vulnerabilities in the U.S. defense industrial base. Reports indicate that the high volume of munitions expended—including ATACMS and Tomahawk missiles—has strained existing inventories. This places immense pressure on defense manufacturers to ramp up production cycles. For those working within the defense and aerospace sectors, this signals a long-term shift toward a "wartime footing" where surge capacity and supply chain resiliency take priority over lean, just-in-time manufacturing models.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Backpack USB Charging Port 
 </a></div>
 
@@ -63,13 +63,13 @@ Backpack USB Charging Port
     <h2>A Reflection on Stewardship and Conflict</h2>
     <p>In times of global instability, it is easy to become overwhelmed by the sheer scale of the disruption. It reminds me of the wisdom found in Proverbs 21:30-31: <em>"There is no wisdom, no insight, no plan that can succeed against the Lord. The horse is made ready for the day of battle, but victory rests with the Lord."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CZ2KMQ62?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Backpack USB Charging Port 
 </a></div>
 
     <p>This passage invites us to consider our own role in these crises. While we must be diligent in our work and our preparations—as the "horse is made ready"—we are reminded that human plans often falter. It calls for a spirit of humility in our professional lives, recognizing that even the most robust supply chains are subject to factors beyond our control. We are called to be faithful stewards of our resources and our work, even when the horizon is clouded by uncertainty.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0BG85X8X5?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 KEOFID Classic Backpack 
 </a></div>
 

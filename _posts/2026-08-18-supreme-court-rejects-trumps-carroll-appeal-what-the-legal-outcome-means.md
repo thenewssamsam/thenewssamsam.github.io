@@ -20,7 +20,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.
   <section id="introduction">
     <p>The United States Supreme Court has officially declined to hear President Donald Trump’s request for a rehearing regarding a federal civil jury’s verdict in the E. Jean Carroll case. This decision marks the end of the road for this specific legal challenge, solidifying the initial verdict that found the former president liable for sexual abuse and defamation.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

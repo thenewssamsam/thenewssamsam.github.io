@@ -26,7 +26,7 @@ source_url: 'https://www.nbcnews.com/politics/justice-department/attorney-genera
   
   <p>While some states voluntarily complied, thirty states and Washington, D.C., refused. In response, the Justice Department filed lawsuits against them. So far, federal judges in states like Oregon and Michigan have ruled against the federal government in at least 22 separate cases, upholding state refusals to hand over the records. Speaking on NBC News' "Meet the Press," Blanche confirmed that the DOJ is actively considering appealing these losses directly to the Supreme Court, framing the effort as a vital step for election integrity.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

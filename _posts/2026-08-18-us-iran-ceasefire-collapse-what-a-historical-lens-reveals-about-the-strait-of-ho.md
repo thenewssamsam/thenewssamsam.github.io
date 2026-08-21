@@ -40,7 +40,7 @@ When a fragile 60-day ceasefire between Washington and Tehran officially expired
 
 <p>The tension quickly expanded beyond bilateral friction. Iranian military officials warned that while the Strait of Hormuz remains technically open, safe passage is far from guaranteed, using vivid imagery of potential damage to vessel hulls. Meanwhile, diplomatic ripples touched regional partners like Turkey—where President Recep Tayyip Erdogan emphasized the urgency of renewed dialogue during a call with Trump—while friction emerged over allied contributions, with Trump publicly questioning the support of nations like South Korea and Oman.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

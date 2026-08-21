@@ -36,7 +36,7 @@ source_url: "https://apnews.com/article/tariffs-trump-canada-usmca-trade-aae597c
     <p>The United States and Canada are locked in high-stakes, last-minute negotiations to prevent a 12:01 a.m. Wednesday deadline set by U.S. President Donald Trump. If talks collapse, the U.S. administration intends to slap 50% tariffs on approximately  billion worth of Canadian goods—ranging from industrial products to everyday items like hockey sticks and tongue depressors.</p>
     <p>Canadian Prime Minister Mark Carney and Trump have held multiple phone consultations as negotiators race to find an off-ramp. The friction stems from deep disagreements over trade deficits, U.S. demands for Canadian defense investments and critical mineral access, and Canadian calls for relief on existing steel, aluminum, and lumber tariffs.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

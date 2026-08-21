@@ -35,7 +35,7 @@ source_url: 'https://www.investors.com/news/technology/paypal-stock-stripe-openr
   <h2 id="what-happened">What Happened in the Stripe-OpenRouter Deal?</h2>
   <p>Fintech heavyweight Stripe has agreed to purchase OpenRouter in a transaction valued at  billion. Founded in 2023, OpenRouter has quickly established itself as a critical middleware player, providing companies with efficient access to hundreds of different artificial intelligence models. By securing OpenRouter, Stripe is effectively embedding advanced AI routing and usage capabilities directly into its ecosystem.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -23,7 +23,7 @@ source_url: "https://www.nbcnews.com/politics/2026-primary-special-elections/flo
     <h2>What Happened in the Primary?</h2>
     <p>The special election was triggered to fill the remainder of the term originally won by Marco Rubio in 2022. Because the seat became vacant, Florida law mandated a process to select a successor. Ashley Moody, who had been serving as the appointed incumbent, successfully navigated the Republican primary. On the Democratic side, Angie Nixon defeated challenger Alex Vindman. These candidates will now move forward to the general election to determine who serves the final two years of the term.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -33,7 +33,7 @@ Seagate Portable External Hard Drive
     <h2>The Legal Mechanics of Senate Vacancies</h2>
     <p>In Florida, as in many states, the governor is often empowered to make an interim appointment when a U.S. Senate seat becomes vacant. This ensures the state maintains its full representation in Washington, D.C., without a prolonged gap. However, this is a temporary measure.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -44,7 +44,7 @@ Seagate Portable External Hard Drive
 
     <p><strong>This is general information, not legal advice. Consult a licensed attorney about your specific situation.</strong></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -52,7 +52,7 @@ Seagate Portable External Hard Drive
     <h3>Appointment vs. Election</h3>
     <p>The appointment process is governed by state statutes that prioritize continuity. Once the appointment is made, the appointee serves until the next regularly scheduled general election or a specifically called special election, depending on the timing of the vacancy. The legal intent is to balance the need for an functioning government with the fundamental right of voters to choose their representatives.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -60,7 +60,7 @@ Tactical Waterproof Backpack
     <h3>Voter Rights and Participation</h3>
     <p>In a special election, the same protections afforded in general elections apply. Voters have the right to cast ballots via mail, early voting, or in-person on Election Day. Legal challenges regarding ballot access, signature verification, and poll worker conduct remain under the jurisdiction of the Florida Secretary of State and the courts. If you suspect an issue with your voter registration or ballot status, contacting your local Supervisor of Elections is the primary legal recourse.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -70,13 +70,13 @@ Tactical Waterproof Backpack
     <h2>A Perspective on Stewardship and Truth</h2>
     <p>The responsibility of governing is often described in Scripture as a form of stewardship, where those in positions of authority are called to act with integrity and fairness. Proverbs 29:2 reminds us: <em>"When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>This reality invites us to consider that the legal systems we use to select leaders are only as effective as the character of those who participate in them—both the candidates and the voters. It reminds me that our primary duty is to seek truth and justice in our communities. As we navigate political cycles, we are encouraged to approach these decisions with a spirit of humility, recognizing that our ultimate hope is not found in a political office, but in a higher standard of moral conduct. <em>"He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God."</em> (Micah 6:8, NIV).</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

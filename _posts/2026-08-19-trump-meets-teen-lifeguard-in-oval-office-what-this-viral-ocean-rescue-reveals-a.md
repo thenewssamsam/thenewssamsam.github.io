@@ -121,7 +121,7 @@ source_url: "https://www.foxnews.com/politics/trump-meets-teen-lifeguard-boy-sav
     <h2 id="what-happened">What Happened in the Oval Office?</h2>
     <p>President Trump hosted Ryder Williams, his family, and 10-year-old Nathaniel Rai—the boy who was swept out to sea by a powerful wave—for a high-profile meeting at the White House. The rescue had previously captured national attention after video footage of the harrowing event went viral online, eventually catching the eye of Eric Trump and prompting a formal presidential invitation.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

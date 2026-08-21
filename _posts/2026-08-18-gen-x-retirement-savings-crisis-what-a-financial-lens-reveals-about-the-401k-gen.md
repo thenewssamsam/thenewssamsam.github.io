@@ -20,7 +20,7 @@ source_url: 'https://www.investopedia.com/gen-x-retirement-savings-how-much-they
 
 <p>According to the Federal Reserve's Survey of Consumer Finances, roughly 4 in 10 Gen X households have zero retirement savings. For those who do have accounts, the median balance sits at around ,000—a figure that falls drastically short of common financial benchmarks. Understanding why this gap exists, what the numbers actually mean, and how late-stage savers can recalibrate requires looking past the national averages and examining the cold, hard financial mechanics of the do-it-yourself retirement system.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

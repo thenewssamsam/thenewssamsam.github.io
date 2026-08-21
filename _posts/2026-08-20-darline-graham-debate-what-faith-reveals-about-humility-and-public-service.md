@@ -31,7 +31,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/19/darline-graham-deba
 
 <p>"I'm just going to be honest here," she told the opera house audience. "I'm not that informed on national security, so—but I do support the military." When gasps and boos rippled through the crowd, she doubled down, stating plainly, "I'm not a polished politician up here. National security is not my thing, not my area of expertise, but I do support the military."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -45,21 +45,21 @@ Tactical Waterproof Backpack
 
 <p>The exchange quickly became the defining moment of the campaign's final stretch. While her opponent, Ralph Norman, effortlessly pivoted to discuss Taiwan's economic ties to the United States and the ongoing tensions in the region, Graham leaned instead on her outsider status and her family's working-class roots. She recounted relying on Social Security survivor benefits after her parents passed away, contrasting her own grounded background with Norman's recent political maneuvers.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Yet, the admission regarding national security dominated the post-debate discourse. In an era where political survival usually demands projecting effortless omniscience, confessing ignorance on a major portfolio feels like political suicide. Voters accustomed to slick handlers and manufactured certainty were left divided: was this refreshing authenticity, or a disqualifying admission of unreadiness for the United States Senate?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>This political friction touches on something much deeper than campaign strategy. It exposes our collective discomfort with human frailty and forces us to examine what we actually value in those who lead us.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -72,21 +72,21 @@ Tactical Waterproof Backpack
 
 <p>From a biblical worldview, human limitations are not a scandal to be hidden; they are the baseline reality of our created nature. Scripture repeatedly warns against the dangers of pretense and the destructive pursuit of false pride. Proverbs reminds us that true wisdom begins with humility, while human boasting often leads to ruin.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>When Darline Graham admitted, "I'm not that informed on national security," she broke an unspoken political covenant that demands candidates pretend to know everything. In spiritual terms, refusing to put on a false front is a profound act of truth-telling. Throughout the Gospels, Jesus reserved His harshest rebukes not for those who admitted their shortcomings, but for the religious leaders who masked their ignorance and moral failings behind polished, hypocritical facades.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Consider the words of the Apostle Paul in 2 Corinthians 12:9, when reflecting on human weakness: <em>"My grace is sufficient for you, for my power is made perfect in weakness."</em> While Paul was speaking of spiritual endurance rather than legislative portfolios, the underlying principle holds true across human institutions: acknowledging our boundaries creates space for honesty, counsel, and genuine growth.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -99,21 +99,21 @@ Tactical Waterproof Backpack
 
 <p>At the same time, Christian stewardship demands balance. While humility is a supreme virtue, competence is also required for positions of heavy responsibility. Voters are entirely justified in asking whether a senator stepping into a complex geopolitical landscape should possess a working grasp of defense policy before taking office.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Scripture honors both character and capability. In the Book of Exodus, when Moses was overwhelmed by leadership responsibilities, his father-in-law Jethro advised him to select capable, trustworthy men who feared God to share the burden. Honesty about one's limitations is the first step, but it must be paired with a willingness to learn, surround oneself with wise counselors, and work diligently to master the duties entrusted to them.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
 <p>Graham's opponent, Representative Norman, demonstrated the polished policy fluency that traditional political commentators expect. Yet, voters are often left skeptical of polished politicians whose smooth answers mask a lack of genuine empathy or moral grounding. The South Carolina runoff highlights a timeless societal dilemma: do we prefer the candidate with all the right answers and questionable transparency, or the candidate whose brutal honesty reveals human flaws alongside authentic relatability?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -126,7 +126,7 @@ Seagate Portable External Hard Drive
 
 <p>As voters head to the polls in South Carolina, believers and thoughtful citizens alike are invited to evaluate candidates beyond superficial polish or sensational debate soundbites. Here are three practical ways to process moments like this:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

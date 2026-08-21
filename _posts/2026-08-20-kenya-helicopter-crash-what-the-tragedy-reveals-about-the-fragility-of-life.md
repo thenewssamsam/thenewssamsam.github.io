@@ -27,7 +27,7 @@ source_url: 'https://www.bbc.com/news/articles/clylkv4z59vo'
     <div style="border-left: 5px solid #d4af37; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
         <p><strong>Reflective Insight:</strong> "Life is but a vapor. This tragedy reminds us that our plans, no matter how carefully laid or how joyous the occasion, are not guaranteed. It invites us to cherish the present moment with those we love."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -37,7 +37,7 @@ Seagate Portable External Hard Drive
         <h2>Learning from the Unpredictable</h2>
         <p>It is human nature to assume that tomorrow is a promise. We plan our vacations, our careers, and our future milestones with the quiet confidence that we will be there to see them through. Yet, reports like this serve as a stark reminder of our limited control.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -45,7 +45,7 @@ Tactical Waterproof Backpack
         <div style="border-left: 5px solid #d4af37; background-color: #f9f9f9; padding: 10px; margin: 10px 0;">
             <p><strong>Recommended:</strong> <a href="https://www.amazon.com/dp/B08P13W8YF" target="_blank">Journaling for Mindfulness & Perspective - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -53,7 +53,7 @@ Seagate Portable External Hard Drive
 
         <p>The victims were in a place of immense natural beauty, participating in what was supposed to be a highlight of their lives. When such a sudden shift occurs, it challenges our sense of normalcy. We are forced to confront the reality that the transition from a vibrant, productive life to a memory can happen in an instant.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -61,7 +61,7 @@ Tactical Waterproof Backpack
         <div style="border-left: 5px solid #d4af37; background-color: #f9f9f9; padding: 10px; margin: 10px 0;">
             <p><strong>Recommended:</strong> <a href="https://www.amazon.com/dp/B07L555W2K" target="_blank">High-Quality Travel First Aid Kit - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -70,7 +70,7 @@ Seagate Portable External Hard Drive
         <h3>The Value of Presence</h3>
         <p>In our fast-paced culture, we often live in the "next." We look forward to the next trip, the next promotion, or the next project. This incident encourages a pivot toward presence. If we recognize that our time is a finite resource, we might treat our daily interactions with more grace and intentionality.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -84,13 +84,13 @@ Seagate Portable External Hard Drive
         <h2>A Perspective on Our Days</h2>
         <p>When the world feels unstable, I am often reminded of the words in James 4:14: <em>"Why, you do not even know what will happen tomorrow. What is your life? You are a mist that appears for a little while and then vanishes."</em> (NIV). This is not intended to bring despair, but rather to ground us in a healthy perspective of humility.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
         <p>Similarly, Psalm 90:12 offers a prayer that feels especially relevant today: <em>"Teach us to number our days, that we may gain a heart of wisdom."</em> (NIV). When we realize that our time here is borrowed, it changes our priorities. It encourages us to forgive more quickly, to work with purpose, and to hold our loved ones a little closer. The loss of these seven individuals—a leader, a journalist, a spouse—is a heavy reminder that we are all part of a larger story, and our role in it is to live as wisely as we can while we are here.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

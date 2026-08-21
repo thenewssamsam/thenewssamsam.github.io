@@ -36,7 +36,7 @@ source_url: 'https://abcnews.com/Business/trump-linked-crypto-venture-world-libe
     <p>In a move with no precedent in American financial history, a national bank regulator appointed during the Trump administration granted conditional approval for a bank charter to World Liberty Trust Co., an entity in which a family-affiliated organization holds a 38% stake. Announced via a letter from the Office of the Comptroller of the Currency (OCC), the preliminary approval allows the digital asset venture associated with World Liberty Financial to issue its own U.S. dollar-tied stablecoin directly to clients.</p>
     <p>The decision immediately triggered sharp warnings from congressional Democrats, notably Senate Banking Committee Ranking Member Elizabeth Warren, who labeled the development an unprecedented conflict of interest. While the White House maintains that the president's assets are managed through a trust by his children and present no conflict, financial analysts and legal scholars are closely examining the structural shift this represents for both federal banking regulation and digital currency markets.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -20,7 +20,7 @@ source_url: 'https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Tr
 
 <p>For months, drivers and businesses have enjoyed relative stability in energy costs, hoping that earlier market lows would hold. But with diplomatic hopes fading, tanker attacks mounting, and physical shipping volumes plummeting, the financial reality of Middle East risk premiums is forcing a rapid recalculation across global supply chains.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

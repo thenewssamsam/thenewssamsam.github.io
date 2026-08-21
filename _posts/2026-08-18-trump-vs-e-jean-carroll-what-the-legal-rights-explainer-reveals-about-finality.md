@@ -24,7 +24,7 @@ source_url: 'https://apnews.com/article/trump-supreme-court-e-jean-carroll-defam
     <h2>What Happened in the Supreme Court?</h2>
     <p>On Monday, the Supreme Court denied a request from Donald Trump’s legal team to reconsider their previous refusal to hear his appeal. This decision effectively solidifies the  million jury verdict found against him, which concluded he sexually abused Carroll in a New York City department store in the 1990s and subsequently defamed her.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

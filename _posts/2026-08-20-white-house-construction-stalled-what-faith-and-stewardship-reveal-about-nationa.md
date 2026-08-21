@@ -30,13 +30,13 @@ source_url: "https://www.foxnews.com/opinion/morning-glory-scotus-should-urgentl
     <h2 style="font-size: 1.5rem; font-weight: 700; color: #2b6cb0; border-bottom: 2px solid #ebf8ff; padding-bottom: 8px; margin-bottom: 20px;">A Biblical Perspective on Stewardship and Protection</h2>
     <p>When headlines focus on legal briefs, separation of powers, and architectural blueprints, it is easy to lose sight of the deeper human and moral dimensions at play. Governing a nation involves an immense burden of responsibility—not just for enacting laws, but for safeguarding human life within the halls of leadership.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Scripture frequently addresses the themes of watchful stewardship and the sober duty of leaders to protect those entrusted to their care. When Nehemiah led the effort to rebuild the walls of Jerusalem, he faced significant opposition, bureaucratic delays, and external threats. Yet he recognized that practical fortification and vigilance were inseparable from spiritual trust in God:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -46,7 +46,7 @@ Seagate Portable External Hard Drive
     </blockquote>
     <p>This passage reminds us that maintaining secure boundaries is not born out of paranoia, but out of a fundamental commitment to protect human life. Leaders carry an ordained duty to exercise practical wisdom in shielding their communities and institutions from harm.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -56,13 +56,13 @@ Seagate Portable External Hard Drive
     <h2 style="font-size: 1.5rem; font-weight: 700; color: #2b6cb0; border-bottom: 2px solid #ebf8ff; padding-bottom: 8px; margin-bottom: 20px;">The Deeper Pattern: Balance, Authority, and Prudence</h2>
     <p>Beyond the immediate D.C. Circuit ruling, this controversy highlights a recurring tension in modern civic life: the friction between institutional oversight and urgent operational necessity. In an era defined by rapid technological changes and heightened geopolitical instability, the mechanisms of government must be nimble enough to adapt.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>Prudence requires recognizing real-world dangers without yielding to panic. From a faith perspective, wisdom involves looking ahead rather than reacting only after crisis strikes. As Proverbs notes:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -72,7 +72,7 @@ Tactical Waterproof Backpack
     </blockquote>
     <p>Applying this principle to national infrastructure means acknowledging that ignoring verified vulnerabilities in command-and-control centers is neither wise nor safe. Responsible stewardship demands proactive preparation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

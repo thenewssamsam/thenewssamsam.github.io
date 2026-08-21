@@ -26,7 +26,7 @@ source_url: 'https://www.cnn.com/2026/08/19/politics/trump-construction-white-ho
 <div style="background-color: #f9f9f9; border-left: 5px solid #6a5acd; padding: 15px; margin: 20px 0;">
     <p><strong>Recommended for Project Enthusiasts:</strong> <a href="#">Heavy-Duty Construction Hard Hat - </a> | <a href="#">Precision Laser Level for Home Projects - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 AMANSSE Lightweight Running Shoes 
 </a></div>
 
@@ -36,7 +36,7 @@ AMANSSE Lightweight Running Shoes
     <h2>The Psychology of Tangible Legacy</h2>
     <p>From a psychological standpoint, the President’s focus on construction is more than a hobby; it is a manifestation of <em>Legacy Bias</em>—the human desire to leave behind physical markers that outlast one's tenure. By focusing on "dead flat" surfaces and "special stone," the President is engaging in a process of environmental mastery.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 CeraVe Hydrating Facial Cleanser 
 </a></div>
 
@@ -44,7 +44,7 @@ CeraVe Hydrating Facial Cleanser
     <h3>The Need for Concrete Evidence</h3>
     <p>In leadership psychology, leaders often turn to tangible projects when they feel the need to provide "proof of work." In a world of abstract policy, war, and debt, a granite path is an indisputable, visible success. It provides a sense of control that complex political negotiations often lack.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 AMANSSE Lightweight Running Shoes 
 </a></div>
 
@@ -56,7 +56,7 @@ AMANSSE Lightweight Running Shoes
     <h3>Attention to Detail as Control</h3>
     <p>The President’s focus on minutiae—such as the "radial cut of granite"—suggests an attempt to impose order on a chaotic environment. When external events feel unpredictable, focusing on the literal foundation of one's surroundings can serve as a psychological coping mechanism, reinforcing the belief that the leader is "taking care" of the house.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 AMANSSE Lightweight Running Shoes 
 </a></div>
 
@@ -65,7 +65,7 @@ AMANSSE Lightweight Running Shoes
 <div style="background-color: #f9f9f9; border-left: 5px solid #6a5acd; padding: 15px; margin: 20px 0;">
     <p><strong>Tools for Your Own Projects:</strong> <a href="#">Professional Grade Tape Measure - </a> | <a href="#">Ergonomic Work Gloves - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 CeraVe Hydrating Facial Cleanser 
 </a></div>
 
@@ -75,13 +75,13 @@ CeraVe Hydrating Facial Cleanser
     <h2>A Reflection on Foundations</h2>
     <p>Watching the President focus so intently on the stone and foundation of the White House, I am reminded that the most enduring structures are not always made of granite or marble. Scripture invites us to consider the quality of what we build with our lives. As it says in 1 Corinthians 3:11, "For no one can lay any foundation other than the one already laid, which is Jesus Christ."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 FitVille Comfortable Running Shoes 
 </a></div>
 
     <p>While physical improvements to a home or a country are natural expressions of stewardship, there is a gentle reminder here about the difference between temporary monuments and eternal values. Proverbs 22:1 reminds us that "A good name is more desirable than great riches; to be esteemed is better than silver or gold." It invites us to consider whether our focus is on the legacy we leave in stone, or the legacy we leave in the lives of those we serve.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 FitVille Comfortable Running Shoes 
 </a></div>
 
@@ -91,7 +91,7 @@ FitVille Comfortable Running Shoes
     <h2>How Should Readers Respond?</h2>
     <p>Instead of merely observing these projects as political theater, consider your own environment. How do you define your "legacy"?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 CeraVe Hydrating Facial Cleanser 
 </a></div>
 
@@ -104,7 +104,7 @@ CeraVe Hydrating Facial Cleanser
 <div style="background-color: #f9f9f9; border-left: 5px solid #6a5acd; padding: 15px; margin: 20px 0;">
     <p><strong>Home Improvement Essentials:</strong> <a href="#">Multi-Tool Utility Kit - </a> | <a href="#">Outdoor LED Work Light - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 FitVille Comfortable Running Shoes 
 </a></div>
 

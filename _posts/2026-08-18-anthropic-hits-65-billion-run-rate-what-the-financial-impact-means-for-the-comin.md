@@ -27,7 +27,7 @@ source_url: ''
   
   <p>In addition to the headline run-rate figure, the company disclosed a preliminary second-quarter revenue figure of  billion—a 14-fold jump compared to the same period a year prior. For context, these figures dwarf Anthropic's financial standing in May, when its run rate topped  billion, and stand in sharp contrast to the roughly  billion the company generated across all of 2025. For comparison, chief rival OpenAI recently reported an annualized revenue run rate of  billion.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

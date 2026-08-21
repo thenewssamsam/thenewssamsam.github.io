@@ -38,7 +38,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-f
 
   <p>This federal courtroom clash follows a recent legal blow in New Mexico, where a state court ordered Meta to pay nearly  billion in total judgments and abatement funds related to child safety violations. However, legal experts note that California carries unprecedented weight. Because it is Meta's home state and a legal pacesetter, a severe ruling here could trigger nationwide injunctions, force the deletion of underage user data, and mandate the removal of core engagement features like infinite scroll, autoplay, and engagement-optimized algorithms.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

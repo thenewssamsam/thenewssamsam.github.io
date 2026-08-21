@@ -38,7 +38,7 @@ source_url: ''
     <p>Veteran wide receiver Keenan Allen is changing zip codes. According to NFL insider Jordan Schultz, Allen struck a one-year,  million deal with the Indianapolis Colts on Monday night, securing a new home for the upcoming 2026 campaign.</p>
     <p>Now 34 years old, Allen has spent nearly his entire professional career with the Chargers organization after being selected in the third round of the 2013 NFL Draft. Last season, he played on a one-year,  million deal with the franchise before hitting the open market this summer. Despite battling the inevitable mileage of a long career, Allen managed 777 receiving yards and 4 touchdowns on 81 catches last year.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

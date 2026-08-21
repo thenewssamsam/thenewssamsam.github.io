@@ -106,7 +106,7 @@ source_url: 'https://www.huffingtonpost.co.uk/entry/trump-prescriptions-us-news_
 
 <p>It is a thoroughly human moment captured in high-definition media: the rush to claim a win before reading the fine print. But beneath the immediate political awkwardness lies a fascinating window into how our brains process information, assign agency, and navigate complex systems where we desperately want simple explanations.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

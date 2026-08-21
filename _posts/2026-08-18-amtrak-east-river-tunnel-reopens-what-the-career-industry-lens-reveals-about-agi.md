@@ -40,7 +40,7 @@ source_url: 'https://ny1.com/nyc/all-boroughs/news/2026/08/17/one-of-two-amtrak-
 <h2>What Happened in the East River Tunnel?</h2>
 <p>The newly reopened tube is a vital piece of a 116-year-old subterranean puzzle. Comprising four tubes in total, the East River Tunnel system serves as a primary artery for trains connecting New York City to Long Island and New Jersey. When Superstorm Sandy struck in 2012, salt water inundated the tunnels, leaving corrosive damage that degraded concrete, power systems, and tracks for over a decade.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

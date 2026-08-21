@@ -32,7 +32,7 @@ source_url: 'https://www.cnbc.com/2026/08/18/trump-south-korea-military-exercise
     The diplomatic turbulence began when U.S. President Donald Trump directed Defense Secretary Pete Hegseth to significantly cut back on the ongoing <a href="https://www.cnbc.com/2026/08/18/trump-south-korea-military-exercises-iran-north-korea.html" target="_blank" rel="noopener noreferrer">Ulchi Freedom Shield</a> exercises. Running through August 27 with approximately 18,000 South Korean personnel participating, these annual drills have long been characterized by Seoul and Washington as strictly defensive.
   </p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

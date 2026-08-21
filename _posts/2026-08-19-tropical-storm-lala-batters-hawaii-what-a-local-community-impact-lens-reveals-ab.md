@@ -34,7 +34,7 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/17/storm-lala-hawaii-d
     <p>Tropical Storm Lala arrived as a downgraded system, but its punch was far from muted. Over a 48-hour period, parts of Hawaii’s Big Island recorded staggering rainfall totals topping 3.5 feet, according to AccuWeather. The ensuing floodwaters and fierce winds damaged or completely swept away about 100 homes and six bridges.</p>
     <p>Hawaiian Electric reported that power outages peaked at roughly 111,000 customers. While utility crews rushed to restore service, officials issued stark warnings that rural and mountainous pockets could remain in the dark for weeks. Compounding the crisis, sections of a major highway in the Big Island’s southeast collapsed overnight, cutting off vital road access to the town of Pahala—home to the region’s only hospital.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></p>
 

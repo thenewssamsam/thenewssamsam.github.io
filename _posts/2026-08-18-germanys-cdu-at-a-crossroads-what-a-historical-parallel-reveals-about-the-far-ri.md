@@ -39,7 +39,7 @@ source_url: 'https://jacobin.com/2026/08/germany-cdu-afd-merz-coalition'
 
 <p>This surge presents an acute test for Chancellor Friedrich Merz, who took office in May 2025 promising to cut AfD support in half. Instead, national polls show his center-right CDU trailing the AfD by 7 to 9 points, while Merz's own disapproval ratings top 80 percent. The traditional <em>Brandmauer</em>—the strict "firewall" whereby the CDU has refused any cooperation with the AfD since its founding—is buckling under the weight of local realities in eastern Germany, where grassroots members increasingly view working with the AfD as an unavoidable pragmatic step.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

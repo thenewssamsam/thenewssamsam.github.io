@@ -22,7 +22,7 @@ source_url: 'https://www.ukrinform.net/rubric-polytics/4154928-russia-deploying-
 
   <p>For ordinary readers watching headlines unfold, the immediate question is whether this is saber-rattling or the prelude to a broader confrontation. To understand what happens next, it helps to step back and look at how great powers have historically used naval choke points and escort missions to signal dominance and test boundaries.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -37,7 +37,7 @@ source_url: 'https://www.thebanner.com/community/public-health/cyclosporiasis-me
 
 <p>According to recent reports highlighting public health trends in Maryland and across the United States, residents are facing an uptick in infections that bring everything from severe gastrointestinal distress to itchy rashes and systemic illness. While Maryland has largely avoided the catastrophic spikes seen in some neighboring states, the overall landscape reveals a convergence of old foes and unfamiliar names.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

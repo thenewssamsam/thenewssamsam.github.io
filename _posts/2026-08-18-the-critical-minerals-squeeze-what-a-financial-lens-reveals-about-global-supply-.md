@@ -25,7 +25,7 @@ source_url: 'https://investornews.com/critical-minerals-rare-earths/critical-min
 <p>Recent market reports highlight an acute tightening across critical mineral supply chains. On the London Metal Exchange, cash-to-three-month copper spreads recently widened to approximately US a tonne—marking the steepest backwardation in five years—while cash copper remained near US,500 a tonne amid falling warehouse inventories. Simultaneously, rare earth prices have climbed sharply, with European erbium prices jumping over 50% and Chinese prices rising roughly 40% ahead of a November export-control deadline.</p>
 <p>Adding to the pressure, the Democratic Republic of the Congo moved to prohibit exports of copper and cobalt concentrates to force domestic processing, while enforcement actions in China involving dual-use export restrictions have introduced severe operational friction for foreign enterprises. Consuming nations are discovering that securing future deposits is entirely different from controlling present physical flows.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

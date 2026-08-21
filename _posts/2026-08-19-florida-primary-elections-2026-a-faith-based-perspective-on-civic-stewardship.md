@@ -25,7 +25,7 @@ source_url: "https://www.fox35orlando.com/news/florida-primary-election-result-2
         <div style="background-color: #f9f9f9; border-left: 5px solid #d4af37; padding: 15px; margin: 20px 0;">
             <p><strong>Did you know?</strong> Effective civic engagement often starts with staying informed. Whether you are prepping for the general election or managing your own household, organization is key.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -37,7 +37,7 @@ Seagate Portable External Hard Drive
         <h2 style="border-bottom: 2px solid #d4af37; padding-bottom: 10px;">Civic Stewardship: A Christian Lens</h2>
         <p>When we look at political outcomes, it is easy to become caught up in the fervor of "winning" or the frustration of "losing." However, a biblical perspective invites us to view our role as citizens through the lens of stewardship. We are entrusted with a voice in the governance of our land, and that trust carries a moral weight.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -49,14 +49,14 @@ Seagate Portable External Hard Drive
         <h3 style="color: #2c3e50;">The Responsibility of the Believer</h3>
         <p>Stewardship in a democracy involves more than just casting a ballot; it involves being informed, seeking justice, and loving our neighbors. As we examine the candidates who emerged from this primary, we are challenged to ask: which of these individuals will pursue policies that reflect the dignity of every person? Which candidates demonstrate the humility to listen to the concerns of the vulnerable?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
         
         <p>This brings to mind the words of <strong>Jeremiah 29:7</strong>: <em>"Also, seek the peace and prosperity of the city to which I have carried you into exile. Pray to the Lord for it, because if it prospers, you too will prosper."</em> This instruction to the exiles in Babylon serves as a timeless reminder for us today. Even in a political climate that often feels divisive or uncertain, we are called to work for the welfare of our communities. Our participation in the electoral process is an extension of that command—a way to seek the peace and flourishing of our state.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -64,7 +64,7 @@ Tactical Waterproof Backpack
         <div style="background-color: #f9f9f9; border-left: 5px solid #d4af37; padding: 15px; margin: 20px 0;">
             <p><strong>Reflection:</strong> I often find that when I am overwhelmed by political headlines, I need a quiet space to reset and focus on what truly matters—my family and my faith.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -73,7 +73,7 @@ Seagate Portable External Hard Drive
         
         <p>Furthermore, we must remember <strong>1 Timothy 2:1-2</strong>: <em>"I urge, then, first of all, that petitions, prayers, intercession and thanksgiving be made for all people—for kings and all those in authority, that we may live peaceful and quiet lives in all godliness and holiness."</em> This verse humbles us. It reminds us that regardless of whether our preferred candidate won or lost, our primary responsibility is to pray for those in authority. This does not mean we remain silent on issues of justice, but it does mean our tone should be one of grace, not vitriol.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

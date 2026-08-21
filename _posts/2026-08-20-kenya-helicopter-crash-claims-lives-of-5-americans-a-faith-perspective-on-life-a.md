@@ -48,7 +48,7 @@ source_url: 'https://www.nbcnews.com/news/us-news/5-americans-killed-helicopter-
     <h2>Lives Remembered: Honoring Those We Lost</h2>
     <p>Tragedies of this scale are often measured in statistics, but behind every number are profound individual lives, grieving families, and communities touched by their work and kindness. Among the victims was José Suárez, a respected 55-year-old media executive who served as president and general manager of multiple Telemundo-owned stations in Florida. In a message to employees, NBCUniversal News Group Chairman Cesar Conde remembered Suárez as an exceptional leader, mentor, and colleague who poured his energy and warmth into his teams and the communities they served over a nearly 20-year career.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -59,7 +59,7 @@ Tactical Waterproof Backpack
 
     <p>Also among the victims were Michele Sensi-Contugi Ycaza, director general of Ecuador's national intelligence center, and his wife, Stephany Hollihan Vásconez, whose deaths prompted three days of national mourning with flags flown at half-staff at the Ecuadorian parliament. Roger Edward Duarte, a 39-year-old Miami restaurateur and founder of George Stone Crab, was likewise confirmed dead by his heartbroken family. Each of these individuals leaves behind colleagues, friends, and loved ones who are now navigating the painful shock of sudden bereavement.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -69,14 +69,14 @@ Tactical Waterproof Backpack
     <h2>A Faith Perspective on the Fragility of Life</h2>
     <p>When sudden accidents shatter ordinary routines, we are abruptly reminded of how fragile our mortal existence truly is. Plans made for a morning charter flight can turn into eternity in a matter of moments. This reality often stirs deep existential and spiritual questions: Why are our lives so fleeting? Where is God when sudden tragedy strikes distant lands?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>Scripture does not shy away from the stark reality of human vulnerability. James 4:14 reminds us: <em>"Yet you do not know what tomorrow will bring. What is your life? For you are a mist that appears for a little time and then vanishes."</em> (ESV). This passage is not meant to fill us with morbid fear, but rather to ground us in a healthy perspective. It strips away our illusion of absolute control, inviting us to treat every single day as an unearned gift.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -91,7 +91,7 @@ Tactical Waterproof Backpack
 
     <p>Furthermore, Psalm 90:12 offers a prayer of profound wisdom for moments like these: <em>"So teach us to number our days that we may get a heart of wisdom."</em> (ESV). When we recognize that life is a vapor, our priorities naturally shift from temporal pursuits to eternal matters—how we love our families, how we serve our communities, and how we walk humbly with our Creator.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -105,7 +105,7 @@ Tactical Waterproof Backpack
     <h2>How Should Christians Respond to Sudden Tragedy?</h2>
     <p>Witnessing or reading about sudden tragedies like the crash in Samburu County can easily evoke anxiety and sorrow. For believers, however, grief is paired with a distinct calling. How should we respond when such news reaches us?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -116,7 +116,7 @@ Tactical Waterproof Backpack
 
     <p>First, we are called to earnest intercession. Families across the United States, Ecuador, and beyond are currently entering the darkest valley of unexpected bereavement. Romans 12:15 instructs us to <em>"rejoice with those who rejoice, weep with those who weep."</em> We can lift up the relatives and friends of José Suárez, Michele Sensi-Contugi Ycaza, Stephany Hollihan Vásconez, Roger Edward Duarte, and the other victims in our prayers, asking the God of all comfort to draw near to them.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -127,7 +127,7 @@ Seagate Portable External Hard Drive
 
     <p>Second, this event invites us to examine our own relationships and daily walk. Are there broken fences we need to mend? Are we investing our time and energy into things that truly matter for eternity? Sudden loss strips away the trivial distractions of daily life and reminds us to cherish the people God has placed in our care.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -138,7 +138,7 @@ Tactical Waterproof Backpack
 
     <p>Finally, we are reminded to cultivate a deep, abiding trust in God's sovereignty. While we may never fully understand why certain tragedies occur in a fallen world, we can take solace in the promise that God is near to the brokenhearted and that His grace is sufficient for every trial.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

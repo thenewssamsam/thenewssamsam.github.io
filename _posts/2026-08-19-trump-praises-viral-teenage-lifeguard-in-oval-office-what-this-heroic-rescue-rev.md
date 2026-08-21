@@ -35,7 +35,7 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/17/trump-oval-office-c
 <h2>What Happened in the Waves?</h2>
 <p>The story began in late July along the rugged California coast in Santa Cruz, where a relaxing beach day quickly turned into a life-or-death struggle. Ten-year-old Nathanial Rai was swept off his feet by powerful, pounding waves that battered the shoreline. In seconds, the situation became perilous as the ocean’s undertow pulled him away.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

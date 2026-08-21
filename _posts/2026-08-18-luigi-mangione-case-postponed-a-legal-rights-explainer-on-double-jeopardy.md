@@ -20,7 +20,7 @@ source_url: 'https://www.cnn.com/2026/08/17/us/luigi-mangione-state-trial-postpo
   <section id="introduction">
     <p>The state murder trial of Luigi Mangione, accused in the fatal shooting of UnitedHealthcare CEO Brian Thompson, has effectively been put on hold. A Manhattan judge has granted prosecutors until October 9 to respond to defense motions claiming that continuing the state case would violate the constitutional protection against double jeopardy. This development brings the complex intersection of federal and state prosecution into the spotlight.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

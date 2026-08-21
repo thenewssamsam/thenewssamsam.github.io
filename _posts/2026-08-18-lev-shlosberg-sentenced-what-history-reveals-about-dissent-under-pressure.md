@@ -34,7 +34,7 @@ source_url: ''
 <p>In early March 2026, a Russian court in Pskov delivered an 11-year and one-month prison sentence to Lev Shlosberg, a 63-year-old deputy chairman of the Yabloko party and a former regional legislator. The charges centered on accusations of "discrediting" and spreading "false information" about the Russian military—specifically for participating in a debate calling for an end to the war in Ukraine and for sharing an anti-war editorial cartoon on his Telegram channel.</p>
 <p>Simultaneously, in Moscow, Russia’s Supreme Court upheld a decision to remove the Yabloko party from the ballot for the upcoming parliamentary elections. As the only official political party overtly campaigning on a platform of a ceasefire, diplomacy, and preventing nuclear conflict, Yabloko's total exclusion leaves mainstream Russian politics devoid of any authorized legal opposition to the ongoing military campaign.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

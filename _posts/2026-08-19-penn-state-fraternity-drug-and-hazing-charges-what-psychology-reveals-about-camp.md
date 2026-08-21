@@ -27,14 +27,14 @@ source_url: "https://www.post-gazette.com/news/education/2026/08/17/drug-hazing-
   <h2 id="the-psychology-of-hazing">The Psychology Behind Campus Rituals</h2>
   <p>To understand how otherwise sensible college students partake in dangerous hazing, we have to examine the behavioral mechanisms at play. Human beings are profoundly social creatures wired for acceptance, but the pressure to belong can warp normal judgment.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
   
   <p>First, <strong>groupthink</strong> and intense conformity pressures take root inside insular organizations. When an initiation ritual is framed as a time-honored tradition that every member survived, individual moral judgment is outsourced to the collective. Participants convince themselves that if everyone else is participating or looking away, the behavior must be acceptable.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -45,7 +45,7 @@ Seagate Portable External Hard Drive
 
   <p>Second, we see the operation of <strong>cognitive dissonance</strong> and the "effort justification" effect. Behavioral psychologists have long noted that the more difficult, degrading, or painful an initiation is, the more the initiate values the resulting group membership. To resolve the psychological discomfort of having endured abuse, the brain convinces itself that the fraternity must be extraordinarily valuable. Consequently, victims often become the most zealous perpetrators when they advance in rank.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -53,13 +53,13 @@ Tactical Waterproof Backpack
   <h2 id="a-spiritual-reflection">A Moment for Reflection</h2>
   <p>Situations like this expose the deep human hunger for identity and community—a hunger that can easily be misdirected into destructive loyalty. When belonging is tied to secrecy, degradation, or chemical dependency, it replaces genuine community with fear and control.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
   <p>Scripture reminds us of the danger of following destructive crowds, noting in Proverbs 1:15-16: "My son, do not walk in the way with them; hold back your feet from their paths, for their feet run to evil, and they make haste to shed blood." There is an urgent wisdom in stepping back from systems that demand moral compromise in exchange for a sense of worth.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

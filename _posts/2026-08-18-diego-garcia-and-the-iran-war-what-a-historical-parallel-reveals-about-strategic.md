@@ -27,7 +27,7 @@ source_url: 'https://www.foxnews.com/world/iran-war-thrusts-diego-garcia-spotlig
     <p>Following an Iranian missile strike on a major U.S. military installation in Bahrain, the Pentagon was forced to reconfigure its wartime supply network in the region. Operations have shifted heavily toward the remote U.K.-U.S. base on Diego Garcia in the southern Chagos Archipelago, which is now supporting carrier strike groups like the USS Abraham Lincoln.</p>
     <p>According to reports, the new maritime supply route spans roughly 2,200 miles. While this allows American forces to bypass vulnerable coastal facilities within range of Iranian ballistic missiles, it introduces significant logistical friction: longer shuttle runs, slower replenishment times, and delicate diplomatic questions regarding sovereignty and alliance permissions. This operational pivot has also thrown a fresh spotlight on the paused U.K.-Mauritius treaty regarding the Chagos Islands, as officials weigh long-term base security against shifting geopolitical realities.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

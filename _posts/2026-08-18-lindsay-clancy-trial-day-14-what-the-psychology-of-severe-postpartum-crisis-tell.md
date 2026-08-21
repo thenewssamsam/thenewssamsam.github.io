@@ -37,7 +37,7 @@ source_url: 'https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live
     <p>The high-profile murder trial of Lindsay Clancy reached a pivotal turning point in Plymouth Superior Court as the prosecution officially rested its case and the defense began presenting its witnesses. Clancy, 36, has pleaded not guilty to first-degree murder in the January 2023 deaths of her three young children—Cora, Dawson, and Callan—in their Duxbury, Massachusetts home.</p>
     <p>While prosecutors argue that Clancy planned the killings and faked a subsequent suicide attempt, the defense maintains she was suffering from an extreme state of postpartum psychosis and overmedication, rendering her unable to appreciate the nature of her actions. Day 14 brought raw, deeply personal accounts from family members who witnessed the rapid deterioration of Clancy's mental state in the months leading up to the tragedy.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

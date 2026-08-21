@@ -34,14 +34,14 @@ source_url: 'https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live
     <h2>A Faith and Scripture Perspective on Mental Anguish</h2>
     <p>When news headlines broadcast stories as agonizing as the Clancy trial, it forces a society that often prefers simple moral categories to confront the terrifying complexity of human suffering. From a biblical worldview, we are reminded that creation groans under the weight of a fallen world, and that human biology, neurological health, and psychological well-being are profoundly fragile parts of our earthly experience.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>Scripture does not shy away from the reality of deep mental anguish and emotional despair. Throughout the Psalms, faithful servants of God experienced profound psychological darkness, despair, and intrusive thoughts that overwhelmed their capacity to cope. Yet, the biblical narrative consistently points toward divine mercy rather than immediate human condemnation when a person's soul and mind are entirely fractured.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -49,7 +49,7 @@ Tactical Waterproof Backpack
     <div class="ncg-quote-box">
       <p>&ldquo;Even when our minds fail us and our strength is utterly depleted, God's steadfast mercy meets us in the ruins of our deepest earthly suffering.&rdquo;</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -57,7 +57,7 @@ Seagate Portable External Hard Drive
 
     <p>Dr. Zeizel&rsquo;s testimony highlighted a woman who felt her brain was fundamentally broken, trapped by terrifying internal pressures and voices she could not silence. While the legal system must weigh accountability and the rule of law, a scriptural lens invites us to approach such human catastrophe with profound grief, humility, and a recognition of our shared vulnerability.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -73,21 +73,21 @@ Seagate Portable External Hard Drive
     <h2>A Reflection on Compassion and Brokenness</h2>
     <p>This trial stirs up uncomfortable questions about how we care for mothers, how we recognize invisible medical crises, and how we respond when someone reaches out for help and finds closed doors. It makes me think about the quiet suffering carried by many families behind closed doors, hidden from public view.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>I am reminded of the words in Psalm 34:18: <em>&ldquo;The Lord is close to the brokenhearted and saves those who are crushed in spirit.&rdquo;</em> This verse doesn't offer easy legal answers or medical solutions, but it anchors our perspective in divine empathy. When human systems falter and medical interventions fall heartbreakingly short of preventing tragedy, divine compassion meets the afflicted where no human courtroom ever truly can.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>Similarly, the Apostle Paul writes in Galatians 6:2: <em>&ldquo;Carry each other’s burdens, and in this way you will fulfill the law of Christ.&rdquo;</em> This invites us to look past sensationalized media coverage and cultivate a posture of vigilant compassion for parents navigating the invisible storms of perinatal mental health struggles.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -103,7 +103,7 @@ Tactical Waterproof Backpack
     <h2>How Should Christians Respond?</h2>
     <p>Cases like Lindsay Clancy&rsquo;s can easily provoke anger, judgment, or sensational debate. However, followers of Christ are called to a higher standard of discernment and grace:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -125,7 +125,7 @@ Seagate Portable External Hard Drive
     <h2>Closing Takeaway</h2>
     <p>As the legal process in Massachusetts continues to unfold, the story of Lindsay Clancy remains a heavy reminder of our shared human fragility. Beneath the courtroom arguments and expert testimonies lies a sobering call to surround vulnerable families with unwavering support, fierce prayer, and unshakeable grace.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

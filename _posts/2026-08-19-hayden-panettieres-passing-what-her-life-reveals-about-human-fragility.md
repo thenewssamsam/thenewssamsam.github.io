@@ -24,14 +24,14 @@ source_url: "https://www.bbc.com/news/articles/c5ywe951z80o"
     <h2>Lessons in Transparency and Grace</h2>
     <p>Hayden Panettiere’s story is a sobering reminder that public success is never a mirror of private peace. In her recent autobiography, she was remarkably candid about the “gut-wrenching” experience of navigating postpartum depression and the complex, often painful reality of co-parenting while battling addiction. Her willingness to speak openly about her resentment, anger, and deep longing for her daughter challenged the polished veneer of celebrity culture.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>It brings to mind the words of <strong>Psalm 34:18</strong>: <em>"The Lord is close to the brokenhearted and saves those who are crushed in spirit."</em> This scripture reminds us that our value is not tied to our public achievements or our ability to "keep it together." It invites us to consider that every person we see on a screen—or meet in our daily lives—is carrying burdens that may be invisible to the world. When we see someone like Hayden struggle, it is not an invitation to judge, but an opportunity to cultivate a posture of empathy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -45,7 +45,7 @@ Tactical Waterproof Backpack
     <h2>How Should We Respond?</h2>
     <p>In the wake of such a loss, it is easy to feel helpless. However, we can choose to honor her memory through concrete, compassionate actions:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

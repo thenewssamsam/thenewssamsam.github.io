@@ -22,7 +22,7 @@ source_url: 'https://www.newsweek.com/map-shows-potential-snowfall-across-us-as-
     A potentially historic super El Niño is quietly brewing in the Pacific Ocean, setting the stage for what meteorologists predict could be a highly unusual winter weather season across the United States. According to the National Oceanic and Atmospheric Administration (NOAA) and the Climate Prediction Center, El Niño is strengthening rapidly with a greater than 90 percent chance of becoming a very strong event by late 2026. Forecasters even estimate a 69 percent probability that sea-surface temperature anomalies will eclipse historical records dating back to 1950, earning the climate driver the rare and formidable moniker of a "super El Niño."
   </p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

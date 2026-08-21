@@ -21,7 +21,7 @@ source_url: 'https://www.indexbox.io/blog/redefining-utility-reliability-and-res
   <h2 id="what-happened">What Happened: Shifting From Committees to Centralized Control</h2>
   <p>The conversation around grid reliability is taking center stage as energy executives prepare for upcoming industry events like the DTECH Reliability & Resiliency conference. Mona Fazel, drawing on more than two decades of enterprise energy and utility experience, is set to present a blueprint titled <em>Designing an Integrated, Centralized Wildfire Management Organization: Governance, Delivery, and Continuous Improvement</em>.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

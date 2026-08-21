@@ -30,7 +30,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/19/trump-white-house-r
   <div class="ncg-product-box" style="border-left: 5px solid #8e44ad; background: #f9f9f9; padding: 15px; margin: 20px 0;">
     <p><strong>Recommended:</strong> <a href="https://www.amazon.com/dp/B0856L6826" target="_blank" rel="noopener noreferrer">Professional Landscape Rake - </a> — Keep your own lawn in top condition with professional-grade tools.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 FitVille Comfortable Running Shoes 
 </a></div>
 
@@ -40,7 +40,7 @@ FitVille Comfortable Running Shoes
     <h2>The Psychology of Status and Environmental Control</h2>
     <p>From a psychological perspective, the focus on "the best" granite, "tapered" flagpoles, and high-quality sod is not merely a hobby—it is a manifestation of <em>status signaling</em> and <em>environmental mastery</em>. Leaders under pressure often gravitate toward tangible, controllable projects because the complexities of national debt or war are often beyond immediate individual influence.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 AMANSSE Lightweight Running Shoes 
 </a></div>
 
@@ -48,7 +48,7 @@ AMANSSE Lightweight Running Shoes
     <h3>The Need for Tangible Achievement</h3>
     <p>When macro-level goals become difficult to measure or achieve, humans often experience "control displacement." By focusing on the physical aesthetics of the White House, the president creates a concrete, visible "win." This provides a psychological buffer against the feeling of powerlessness that can accompany large-scale crises.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0C7J7CWBN?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 CeraVe Hydrating Facial Cleanser 
 </a></div>
 
@@ -60,7 +60,7 @@ CeraVe Hydrating Facial Cleanser
     <h3>Status Signaling and the 'Lifestyles' Effect</h3>
     <p>Trump’s self-identification as the "builder-in-chief" reinforces his established identity as a real estate mogul. By showcasing luxury materials, he is engaging in what psychologists call <em>conspicuous consumption</em>. This serves to remind his audience—and perhaps himself—of his perceived value and success, acting as a psychological anchor to his pre-presidential persona.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 AMANSSE Lightweight Running Shoes 
 </a></div>
 
@@ -69,7 +69,7 @@ AMANSSE Lightweight Running Shoes
   <div class="ncg-product-box" style="border-left: 5px solid #8e44ad; background: #f9f9f9; padding: 15px; margin: 20px 0;">
     <p><strong>Recommended:</strong> <a href="https://www.amazon.com/dp/B07T29ZJ5N" target="_blank" rel="noopener noreferrer">Luxury Garden Decor Set - </a> — Elevate your outdoor space with high-quality accents.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 FitVille Comfortable Running Shoes 
 </a></div>
 
@@ -79,13 +79,13 @@ FitVille Comfortable Running Shoes
     <h2>A Reflection on Stewardship and Purpose</h2>
     <p>This situation brings to mind the parable of the rich fool in Luke 12:15: <em>"Then he said to them, 'Watch out! Be on your guard against all kinds of greed; life does not consist in an abundance of possessions.'"</em> (NIV). It serves as a reminder that human efforts to build monuments or curate perfect surroundings can sometimes distract from the deeper, often more difficult, work of serving others and tending to the needs of a nation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 FitVille Comfortable Running Shoes 
 </a></div>
 
     <p>I am also reminded of Proverbs 16:18, which cautions: <em>"Pride goes before destruction, a haughty spirit before a fall."</em> (NIV). While there is nothing inherently wrong with maintaining a home or a historic building, the heart’s intent matters. We are called to be stewards of what we are given, but we must be careful not to let the pursuit of status or the pride of "building" replace the virtues of humility and empathy for those who are struggling.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F871HGWK?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 AMANSSE Lightweight Running Shoes 
 </a></div>
 
@@ -95,7 +95,7 @@ AMANSSE Lightweight Running Shoes
     <h2>How Should Readers Respond?</h2>
     <p>When you see public figures focusing on superficial status markers during times of hardship, consider it a prompt to reflect on your own environment. Are you focusing on controlling the small, visible things to avoid dealing with deeper, more complex stressors? Use these moments to practice discernment—look past the "granite and grass" to understand the underlying motivations of those in power, and focus your own energy on tangible acts of service that truly impact your community.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0CJNVSLPV?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 FitVille Comfortable Running Shoes 
 </a></div>
 

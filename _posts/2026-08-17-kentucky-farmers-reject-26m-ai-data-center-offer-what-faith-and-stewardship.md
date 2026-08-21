@@ -73,7 +73,7 @@ source_url: 'https://nypost.com/2026/08/16/us-news/country-hick-kentucky-farmers
 
   <p>In a rush toward artificial intelligence infrastructure that treats rural acreage as blank slate real estate for sprawling server farms, this small-town conflict in Maysville, Kentucky, cuts much deeper than local zoning laws. It touches on an ancient human question: what are we truly responsible for guarding?</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -44,7 +44,7 @@ source_url: 'https://www.nbcnews.com/business/economy/oil-jumps-trump-no-iran-ce
   <h2 id="what-happened">What Happened in the Markets</h2>
   <p>For much of Monday, financial markets had traded in a relatively flat pattern. That stability vanished the moment President Trump began speaking in the Oval Office. Addressing reporters, Trump stated that while Iranian officials want to strike a deal to extend the expiring 60-day memorandum of understanding, terms acceptable to his administration are not currently on the table.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

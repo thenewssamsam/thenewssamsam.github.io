@@ -20,7 +20,7 @@ source_url: 'https://sports.yahoo.com/articles/happiest-ve-seen-cc-unifying-1147
 
 <p>The dramatic victory, built on a balanced scoresheet where four Fever starters notched at least 18 points each, highlighted more than just box-score statistics. It revealed a deeper look at how trust, high standards, and psychological safety actually function under pressure.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

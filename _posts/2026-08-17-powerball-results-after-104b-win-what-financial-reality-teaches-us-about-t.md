@@ -24,7 +24,7 @@ source_url: 'https://www.usatoday.com/story/money/lottery/2026/08/15/powerball-w
 <h2>What Happened in the Latest Drawing?</h2>
 <p>Saturday night's drawing produced no grand prize winner and zero Match 5 winners, keeping the lottery spotlight firmly fixed on the next event scheduled for Monday, August 17, at approximately 10:59 p.m. ET. The winning numbers drawn on August 15 were <strong>5, 8, 27, 29, and 63</strong>, with the red Powerball number <strong>13</strong>.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

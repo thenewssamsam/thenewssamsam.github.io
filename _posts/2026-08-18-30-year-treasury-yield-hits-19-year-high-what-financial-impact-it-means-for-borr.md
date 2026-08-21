@@ -36,7 +36,7 @@ source_url: ''
 <h2>What Happened in the Bond Market</h2>
 <p>According to CNBC reporting, Treasury yields climbed across the board on Monday as investors digested a potent mix of geopolitical tensions and domestic fiscal concerns. The benchmark 30-year Treasury yield advanced more than 4 basis points to hit 5.311%. Meanwhile, the 10-year Treasury note yield—which dictates the baseline for mortgages, auto loans, and credit card debt—rose more than 2 basis points to 4.724%.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

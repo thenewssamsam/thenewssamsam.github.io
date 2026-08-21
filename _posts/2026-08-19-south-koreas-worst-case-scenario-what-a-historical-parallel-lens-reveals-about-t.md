@@ -32,7 +32,7 @@ source_url: "https://www.cnbc.com/2026/08/18/trump-south-korea-military-exercise
 <h2 id="what-happened">What Happened: The Drill Cuts and the Warning</h2>
 <p>The unfolding diplomatic friction began taking shape as the annual Ulchi Freedom Shield exercises kicked off with approximately 18,000 South Korean military personnel scheduled to participate through August 27. Pyongyang has long excoriated these defensive maneuvers as rehearsals for an aggressive war. However, the real catalyst for change came from Washington, D.C.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

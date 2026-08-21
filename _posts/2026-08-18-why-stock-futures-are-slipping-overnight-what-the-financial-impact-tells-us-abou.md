@@ -39,7 +39,7 @@ source_url: 'https://finance.yahoo.com/markets/stocks/articles/why-dow-p-500-nas
     
     <p>This overnight drift follows a negative regular trading session where all three major indexes closed in the red. The S&P 500 led the declines with a 0.52% drop to 7,745.06, the Dow Jones Industrial Average shed about 272 points to close down 0.51% at 53,459.78, and the Nasdaq Composite gave up 0.32% to finish at 26,644.91.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

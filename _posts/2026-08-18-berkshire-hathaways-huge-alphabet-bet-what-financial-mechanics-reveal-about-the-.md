@@ -40,7 +40,7 @@ source_url: 'https://247wallst.com/investing/2026/08/17/berkshire-raised-its-alp
 
 <p>That short-term cooling occurred despite a robust Q2 2026 earnings report on July 22. Alphabet posted  billion in revenue—a 24.2% year-over-year increase—and delivered earnings per share (EPS) of , easily beating consensus estimates. Google Cloud proved to be a primary growth engine, accelerating to 82% year-over-year growth.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

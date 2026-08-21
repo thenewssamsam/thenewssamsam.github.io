@@ -72,7 +72,7 @@ source_url: 'https://www.foxbusiness.com/markets/l3harris-ousts-ceo-kubasik-over
   <h2 id="what-happened" class="ncg-section-heading">What Happened: The L3Harris Leadership Shakeup</h2>
   <p>L3Harris Technologies shocked the defense sector on Monday by revealing that chief executive Christopher Kubasik had stepped down following an internal probe assisted by outside legal counsel. The board of directors determined that Kubasik engaged in conduct inconsistent with the corporation's published code of values, triggering an immediate separation agreement.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

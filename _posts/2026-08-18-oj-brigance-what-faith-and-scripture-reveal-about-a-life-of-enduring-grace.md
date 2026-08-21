@@ -21,7 +21,7 @@ source_url: 'https://www.nfl.com/news/o-j-brigance-super-bowl-winner-with-ravens
 <h2 id="what-happened">What Happened: Remembering O.J. Brigance</h2>
 <p>On Monday, the Baltimore Ravens announced the passing of O.J. Brigance at age 56. Diagnosed with amyotrophic lateral sclerosis (ALS), commonly known as Lou Gehrig's disease, in 2007, Brigance defied medical odds by living and serving with purpose for nearly two decades after his diagnosis.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

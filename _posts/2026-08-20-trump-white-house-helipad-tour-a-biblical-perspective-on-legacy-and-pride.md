@@ -41,14 +41,14 @@ source_url: 'https://apnews.com/article/trump-white-house-construction-ballroom-
 
 <p>Beyond the helipad, work continues briskly on a massive underground and above-ground ballroom complex despite ongoing legal challenges and friction with congressional funding. Trump has defended the project partly on security grounds, envisioning a state-of-the-art facility featuring modern anti-drone protections. For an administration navigating sinking approval ratings, a persistent conflict in the Middle East, and voter anxieties over the economy, these bricks-and-mortar projects serve as a tangible manifestation of control, progress, and legacy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>"This will be here long after we're gone," Trump remarked to reporters while autographing a special granite stone slated for the presidential seal. It was a candid moment that laid bare a fundamental human drive: the desire to leave an indelible mark on the physical world, creating monuments that outlive our mortal spans.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -63,14 +63,14 @@ Tactical Waterproof Backpack
 <h2>A Biblical Perspective on Monuments and Human Permanence</h2>
 <p>The urge to build lasting monuments is as old as civilization itself. From the Tower of Babel to the grand architectural marvels of ancient empires, humanity has consistently sought to conquer time by shaping stone and mortar. When leaders stand on construction sites and proclaim that their works will endure for generations, they tap into an ancient psychological and spiritual impulse: the quest for immortality through legacy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
 <p>Scripture offers a profound counter-narrative to our obsession with physical permanence. In the Gospels, Jesus and His disciples admired the massive, enduring stones of the Jerusalem Temple—buildings that seemed permanent fixtures of the ancient world. Yet Jesus offered a startling perspective: <em>"As for these things which you see, the days will come in which not one stone shall be left upon another that shall not be thrown down" (Luke 21:6, NKJV)</em>. This reminder cuts through our grandest earthly ambitions, highlighting that human empires, asphalt, granite, and steel are ultimately transient.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -78,7 +78,7 @@ Seagate Portable External Hard Drive
 <div class="ncg-quote-box">
 <p>"True permanence is found not in the granite we lay on earth, but in the eternal kingdom built through grace, humility, and faithful stewardship."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -86,7 +86,7 @@ Seagate Portable External Hard Drive
 
 <p>Human pride often leads us to believe that our own hands can construct something truly eternal. We sign our names into stones, hoping future generations will remember our strength and capability. Yet the biblical text gently cautions against placing our ultimate hope in physical structures. Ecclesiastes reminds us of the vanity of toiling solely for worldly legacy:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -94,7 +94,7 @@ Seagate Portable External Hard Drive
 <blockquote>
 <p><em>"I hated all my labor in which I had toiled under the sun, because I must leave it to the man who will come after me. And who knows whether he will be a wise man or a fool? Yet he will rule over all my labor in which I toiled and in which I have shown myself wise under the sun. This also is vanity." (Ecclesiastes 2:18-19, NKJV)</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -102,7 +102,7 @@ Seagate Portable External Hard Drive
 
 <p>This does not make architecture or nation-building inherently wrong. Stewardship, creativity, and the desire to improve our surroundings are part of the cultural mandate given to humanity. The spiritual danger arises when our monuments become idols of self-reliance—when we look at our works and imagine that we can engineer our own salvation from oblivion.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -117,7 +117,7 @@ Tactical Waterproof Backpack
 <h2>How Should Christians Respond to Earthly Ambition?</h2>
 <p>When we watch political leaders showcase multi-million-dollar construction projects, it invites us to examine our own lives and motivations. Where are we pouring our energy, our resources, and our desire for enduring significance? Are we building monuments to our own names, or are we investing in things of eternal worth?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -139,7 +139,7 @@ Tactical Waterproof Backpack
 <h2>Closing Takeaway</h2>
 <p>President Trump's guided tour of the White House construction site highlights a timeless truth: humanity loves to build, sign our names into the stone, and declare that our works will last forever. Yet granite cracks, political cycles pass, and leaders fade into history. True security and lasting legacy are not found in the concrete and steel we erect around us, but in the quiet, faithful obedience we offer to God each day. Let us build our lives not on shifting political sands or temporary monuments, but on a foundation that time cannot erode.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

@@ -38,7 +38,7 @@ source_url: 'https://triblive.com/local/judge-orders-allegheny-county-to-begin-f
         <h2>What Happened: The Court Order Explained</h2>
         <p>In a decision delivered on Monday, Senior Armstrong County Common Pleas Judge Kenneth Valasek ordered Allegheny County to begin a comprehensive property reassessment no later than July 1, 2027. The ruling stems from a lawsuit filed in January 2025 by Flavia Laun, a Churchill homeowner who challenged her own steep assessment hike following a school district appeal.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

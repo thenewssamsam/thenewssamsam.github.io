@@ -26,7 +26,7 @@ source_url: ''
     <p>In late July, the U.S. Navy guided-missile destroyer <strong>USS Benfold</strong> suffered a major engineering casualty that knocked out its primary power generators while operating in the South China Sea. For four agonizing days, the nearly 10,000-ton warship drifted through tropical waters where daytime temperatures hovered between 32°C and 37°C (90°F to 99°F).</p>
     <p>The power loss did not merely stall the vessel's ability to maneuver independently; it crippled its most basic internal support systems. The ship was left entirely without working toilets, galley services, air conditioning, and some potable-water facilities. Fortunately, support arrived from nearby naval assets—the guided-missile cruiser USS Robert Smalls supplied cooked meals, while other vessels from the Japan-based USS George Washington Carrier Strike Group assisted during the blackout before the ship was towed to Subic Bay in the Philippines for repairs.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

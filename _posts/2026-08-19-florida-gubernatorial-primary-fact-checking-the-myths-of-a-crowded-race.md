@@ -26,7 +26,7 @@ source_url: "https://katu.com/news/nation-world/florida-voters-choose-nominees-i
     <h3>Myth: "All voters can participate in today's primary."</h3>
     <p><strong>Fact:</strong> Florida maintains a closed primary system. This means that only voters registered with the Republican Party can vote in the GOP primary, and only those registered as Democrats can vote in the Democratic primary. If you are registered as "No Party Affiliation" (NPA) or with a minor party, you are ineligible to vote in these specific partisan contests.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -34,7 +34,7 @@ Tactical Waterproof Backpack
     <h3>Myth: "The winner of today's primary automatically becomes the next governor."</h3>
     <p><strong>Fact:</strong> Today’s election is strictly a nomination process. The winners will move on to the general election in November, where they will face off against each other as well as a slate of independent, Libertarian, and write-in candidates.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -46,7 +46,7 @@ Seagate Portable External Hard Drive
     <h3>Myth: "The Democratic Party has a strong chance of winning based on recent trends."</h3>
     <p><strong>Fact:</strong> While the general election remains competitive, Republicans currently hold a significant statewide registration advantage, with roughly 5.6 million registered Republicans compared to 4.1 million Democrats. Democrats have not won a gubernatorial election in Florida since 1994, reflecting the state's shift over the last decade.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -56,13 +56,13 @@ Tactical Waterproof Backpack
     <h2>A Moment of Reflection</h2>
     <p>In the midst of political noise and the heat of campaign rhetoric, it is easy to become cynical or overwhelmed. I am reminded of the wisdom found in <strong>James 1:19</strong>: <em>"My dear brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>This verse serves as a quiet invitation to approach our civic duties with a spirit of discernment rather than reactive anger. When we see crowded fields and hear conflicting claims, the call to be "slow to speak" encourages us to seek truth before we cast our vote. It reminds us that our dignity and our community's future are not defined solely by the outcome of a single election, but by how we treat one another in the process. As <strong>Philippians 4:8</strong> suggests, we are called to focus our minds on whatever is true, noble, and right. In the ballot box, that looks like seeking the truth behind the headlines.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -82,7 +82,7 @@ Seagate Portable External Hard Drive
     <h2>One Last Thought</h2>
     <p>Whether the results mirror current polling or deliver a surprise, today’s election is a reminder that the health of our state depends on the active participation of informed citizens. Political labels and poll numbers are fleeting, but the policies chosen today will have long-lasting effects on Florida families. Stay informed, stay calm, and make your voice heard with intention.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

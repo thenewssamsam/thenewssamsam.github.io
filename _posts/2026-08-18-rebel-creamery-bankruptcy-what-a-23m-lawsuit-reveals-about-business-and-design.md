@@ -26,7 +26,7 @@ source_url: 'https://www.cleveland.com/news/2026/08/ice-cream-brand-sold-at-walm
   
   <p>According to court filings, Rebel reported roughly  million in assets against  million in liabilities as it prepares to appeal the ruling. The legal battle centers around "trade dress"—the visual appearance and overall design of a product's packaging that identifies its source to consumers.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0H8ZFNP59?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 JIYINGDUO External Hard Drive 
 </a></p>
 

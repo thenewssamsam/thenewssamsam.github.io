@@ -39,7 +39,7 @@ source_url: 'https://www.sltrib.com/religion/2026/08/16/dallin-oaks-first-intern
     <h2 id="what-happened">What Happened in Brazil?</h2>
     <p>President Dallin H. Oaks recently concluded his first international trip as the president of The Church of Jesus Christ of Latter-day Saints. The journey was highlighted by his visit to Brazil, where he expressed a deep personal eagerness to connect with the membership, stating, “I was anxious to come to Brazil... and feel the spirit of the people.” The trip reached its spiritual peak on Sunday, Aug. 16, 2026, when President Oaks presided over and performed the sacred religious rite of dedicating the Belo Horizonte Brazil Temple—a ceremony he has performed before in various capacities during his decades of apostolic service, but one that takes on a distinct weight now as he leads the global faith.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

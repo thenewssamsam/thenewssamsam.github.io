@@ -34,7 +34,7 @@ source_url: 'https://247wallst.com/investing/2026/08/17/situational-awareness-13
     <h2>What Happened: The Anatomy of a Rapid Unraveling</h2>
     <p>To understand how a multi-billion-dollar fund saw its primary positions buckle in less than thirty days, we have to examine the snapshot captured on June 30, 2026. At the height of the mid-2026 AI infrastructure boom, Situational Awareness had concentrated vast amounts of capital into foundational hardware providers.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

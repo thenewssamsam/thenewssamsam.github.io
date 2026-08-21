@@ -26,7 +26,7 @@ source_url: "https://www.bostonglobe.com/2026/08/18/metro/lindsay-clancy-said-th
     
     <p>While the prosecution maintains that the slayings were premeditated—pointing to non-life-threatening wounds and arguing she wanted to end her own life while taking her children with her—the defense is arguing criminal responsibility due to severe postpartum psychosis. Zeizel's testimony corroborated that Clancy reported hearing voices telling her she had "no choice." This brings forward a profound societal and historical question: why has the medical and legal establishment so frequently failed to recognize, diagnose, and treat the darkest depths of maternal mental illness before catastrophe strikes?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -36,7 +36,7 @@ Seagate Portable External Hard Drive
     <h2 id="historical-parallel">A Historical Parallel: The Long Shadow of Dismissed Maternal Suffering</h2>
     <p>Throughout medical history, severe psychiatric distress unique to motherhood has been obscured by cultural discomfort, euphemisms, and diagnostic blind spots. Long before the term "postpartum psychosis" gained clinical recognition, 19th-century alienists and asylum physicians wrestled with what they often termed "puerperal insanity." In Victorian asylums, mothers suffering from extreme hormonal shifts, sleep deprivation, and catastrophic delusions after childbirth were frequently diagnosed simply with generic "hysteria" or "melancholia," completely missing the distinct neurological and biochemical storm of the postpartum period.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -44,7 +44,7 @@ Seagate Portable External Hard Drive
     <div class="ncg-quote-box">
       <p>"When society has historically treated maternal despair as a personal failure rather than a medical emergency, the tragic results echo across centuries."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -52,14 +52,14 @@ Tactical Waterproof Backpack
 
     <p>In many historical legal cases from the 19th and early 20th centuries, women experiencing postpartum psychosis who committed infanticide faced harsh retributive justice because courts refused to comprehend that a mother's mind could be entirely hijacked by illness. It wasn't until the establishment of specialized infanticide laws in places like Great Britain (such as the Infanticide Act of 1922) that the legal system began to formally recognize that a disturbed balance of mind following childbirth could diminish criminal responsibility. The debate in the Lindsay Clancy trial—weighing premeditation against a sudden, psychotic break—mirrors these century-old legal battles.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>Furthermore, historical records show a persistent pattern where mothers, terrified of losing custody of their children to institutional authorities or state agencies, mask their most terrifying intrusive thoughts. Testimony in Clancy’s trial revealed that she worried her children would be taken away by the Department of Children and Families if she confessed the true severity of her mental state. This fear of surveillance and separation is not new; it is a historical constant that drives distressed mothers into dangerous isolation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -70,7 +70,7 @@ Seagate Portable External Hard Drive
     <div class="ncg-product-box" style="border-left: 4px solid #d97706; background: #fdf8f6; padding: 15px; margin: 20px 0; border-radius: 4px;">
       <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0593233816?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Good Inside: A Guide to Becoming the Parent You Want to Be</a> — Dr. Becky Kennedy. Offering compassionate perspectives on parenting struggles and emotional regulation. </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -79,14 +79,14 @@ Tactical Waterproof Backpack
     <h2 id="the-pattern-underneath">The Pattern Underneath: Medical Over-Medication and the Silence of Suffering</h2>
     <p>Another striking parallel between modern tragedies and historical psychiatric failures is the trial's focus on the trial-and-error cycle of psychiatric medications. Zeizel testified that Clancy's prescribed medications for anxiety, depression, and insomnia seemed to make things worse rather than better, functioning like "waves at the beach" that came and went unpredictably. Historically, when medical science lacks precise tools to measure and treat biochemical imbalances, patients often endure a dangerous pharmacological labyrinth.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>When a healthcare system is strained, symptoms that do not fit neatly into a standard checklist are frequently dismissed or undertreated. The testimony regarding Clancy being turned away from help or slipping through the cracks of emergency services underscores a systemic failure that generations of advocates have tried to illuminate. A mother experiencing psychosis is not merely sad; her reality is fundamentally distorted, yet she is often expected to navigate a complex maze of appointments, hotline numbers, and hurried medication adjustments while completely sleep-deprived.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -95,7 +95,7 @@ Seagate Portable External Hard Drive
   <div class="ncg-product-box" style="border-left: 4px solid #d97706; background: #fdf8f6; padding: 15px; margin: 20px 0; border-radius: 4px;">
     <p><strong>Recommended Resource:</strong> <a href="https://www.amazon.com/dp/0399581977?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">The Postpartum Husband: Practical Solutions for Living Through Postpartum Depression</a> — Karen Kleiman. A helpful guide for families navigating the intense reality of perinatal mood disorders. </p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -105,7 +105,7 @@ Seagate Portable External Hard Drive
     <h2 id="how-should-readers-respond">How Should Readers Respond?</h2>
     <p>While courtrooms must weigh legal definitions of guilt and responsibility, the broader community must respond with vigilance, empathy, and systemic reform:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

@@ -33,7 +33,7 @@ source_url: 'https://www.usatoday.com/story/entertainment/celebrities/2026/08/17
 <p>Authorities in Greenville, South Carolina, confirmed that actress Hayden Panettiere was found unresponsive on August 16 at the Judson Mill Lofts. First responders arrived at the apartment complex following a 911 call placed by an acquaintance. Despite immediate medical intervention and advanced cardiac life support measures administered at the scene, Panettiere was pronounced dead at age 36.</p>
 <p>According to statements from the Greenville Police Department and Greenville County Coroner Mike Ellis, the preliminary investigation has revealed no signs of foul play or trauma that contributed to the death. While a definitive cause and manner of death remain pending further medical studies and toxicology reports, 911 dispatch audio and coroner statements indicated that first responders found her in cardiac arrest.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -37,7 +37,7 @@ source_url: 'https://finance.yahoo.com/technology/articles/uber-adds-zipline-dro
     <p>Uber is making a massive bet on the skies. The ride-hailing and delivery giant announced an investment and partnership with drone delivery startup Zipline, setting an ambitious target of completing one million deliveries per day using Zipline's autonomous aircraft by the end of 2029.</p>
     <p>Deliveries on the Uber Eats platform are slated to begin in Zipline's existing markets by the end of this year, with plans to expand rapidly into dozens of U.S. cities. While financial terms of the deal were not disclosed, the move underscores Uber's broader pivot toward open-platform autonomy—partnering with specialized hardware providers rather than manufacturing autonomous vehicles or aircraft in-house.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

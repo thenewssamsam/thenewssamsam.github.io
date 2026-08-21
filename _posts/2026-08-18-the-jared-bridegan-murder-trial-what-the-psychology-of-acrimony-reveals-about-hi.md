@@ -36,7 +36,7 @@ source_url: 'https://www.nbcnews.com/news/us-news/man-charged-arranging-fatal-am
     <p>More than four years after a Microsoft design manager was gunned down in a quiet Florida neighborhood, the legal reckoning is finally underway. Mario Fernandez Saldana, 38, faces a first-degree murder trial in Duval County court for allegedly orchestrating the 2022 murder-for-hire plot against 33-year-old Jared Bridegan. Bridegan's former wife, Shanna Gardner, 39, faces her own trial in September, while the alleged gunman, Henry Tenon, awaits a separate trial after withdrawing a previous guilty plea.</p>
     <p>Investigators state that the horrific ambush took place shortly after Bridegan dropped off his 9-year-old twins at Gardner's home following a regular routine. As Bridegan drove back to St. Augustine with his 2-year-old toddler strapped securely in the backseat, a tire deliberately placed in the middle of a dark road forced him to stop. When he stepped out of his vehicle to move it, he was shot multiple times.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

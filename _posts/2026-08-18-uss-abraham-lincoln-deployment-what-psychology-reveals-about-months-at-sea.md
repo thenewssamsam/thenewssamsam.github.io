@@ -24,7 +24,7 @@ source_url: 'https://www.bbc.com/news/articles/c5y6z4krrx3o'
 
 <p>For families waiting ashore and observers trying to understand what life is really like on a floating military base, the situation aboard the Lincoln offers a clear window into how human beings cope—and sometimes fracture—when confined to extreme environments for months on end.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

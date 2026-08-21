@@ -26,13 +26,13 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/19/florida-governor-su
     <h2>The Facts of the Case</h2>
     <p>Michael Caruso, 67, was arrested on Tuesday in West Palm Beach on five felony counts, including child molestation, kidnapping, and child abuse causing mental injury. According to court documents, the alleged victim is a male relative under the age of 12. The incidents are reported to have occurred during family trips and holidays in 2024 and 2025.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>Governor DeSantis acted swiftly to suspend Caruso from his role as Clerk of Court, stating it was an "easy decision" to remove him once the charges were made public. Caruso’s defense attorney, Jason Weiss, has stated that his client maintains his innocence and intends to defend himself vigorously against these serious allegations.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -46,21 +46,21 @@ Seagate Portable External Hard Drive
     <h2>A Faith Perspective on Moral Failure</h2>
     <p>In the Christian tradition, we are reminded that no position of authority exempts a person from the fundamental requirements of righteousness. When a public figure—or anyone in a position of trust—is accused of harming the vulnerable, it strikes at the heart of the biblical mandate to protect the "least of these."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     
     <p>Scripture offers clear warnings regarding the misuse of power and the sanctity of children. In Matthew 18:6, Jesus speaks with sobering intensity: <em>"If anyone causes one of these little ones—those who believe in me—to stumble, it would be better for them to have a large millstone hung around their neck and to be drowned in the depths of the sea."</em> This verse serves as a stark reminder of the weight of responsibility placed upon those who have access to children. It invites us to consider that God’s justice is not merely a matter of human law, but a reflection of His divine protection over the innocent.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
 
     <p>Furthermore, we are reminded in Luke 12:2: <em>"There is nothing concealed that will not be disclosed, or hidden that will not be made known."</em> This truth provides both comfort and a warning. It affirms that, regardless of how well-regarded someone may be in the eyes of their peers or political allies, the truth eventually comes to light. It calls the faithful to pursue transparency and truth, even when it is uncomfortable or politically inconvenient.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -79,7 +79,7 @@ Tactical Waterproof Backpack
     <h2>Closing Takeaway</h2>
     <p>The story of Michael Caruso is a painful reminder that human institutions are fallible and that public reputation is no substitute for private character. As we process these events, let us remain steadfast in our commitment to justice and our duty to protect those who cannot protect themselves.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

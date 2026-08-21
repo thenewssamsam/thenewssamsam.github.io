@@ -27,7 +27,7 @@ source_url: "https://www.bostonglobe.com/2026/08/17/metro/lindsay-clancy-trial-p
     <h2>Legal History and the Insanity Plea</h2>
     <p>Throughout history, the insanity defense has remained one of the most polarizing aspects of the judicial process. Much like the famous 19th-century M'Naghten rules, which established the standard for proving insanity in British law, modern trials involving severe postpartum mental health crises grapple with the same fundamental question: Did the defendant understand the nature and quality of their actions?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -38,7 +38,7 @@ Seagate Portable External Hard Drive
 
     <p>Historical cases of "diminished capacity" often turned on whether the defendant was capable of premeditation. In the past, the law was often slow to recognize hormonal or postpartum factors as legitimate contributors to mental instability. Today, the Lindsay Clancy trial serves as a modern touchstone, highlighting how our understanding of biology and neurology has forced the legal system to evolve from a purely moralistic view of crime toward a more clinical one.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -48,7 +48,7 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Human Fragility</h2>
     <p>Watching the details of this trial unfold, I am reminded of the immense fragility of the human mind and the weight of our shared human experience. Psalm 34:18 tells us, <em>"The Lord is near to the brokenhearted and saves the crushed in spirit."</em> This verse invites us to consider that even when human systems struggle to find justice or assign blame, there is a divine understanding of the deep suffering that often remains hidden from the public eye. Another passage comes to mind: <em>"For we do not have a high priest who is unable to sympathize with our weaknesses"</em> (Hebrews 4:15). These words remind us that compassion is a core necessity in a world where tragedy often exceeds our ability to fully comprehend it.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -58,7 +58,7 @@ Seagate Portable External Hard Drive
     <h2>How Should Readers Respond?</h2>
     <p>It is important to approach such cases with discernment rather than immediate judgment. If you or someone you know is struggling with postpartum mood disorders, recognize that seeking help is a sign of strength, not weakness. Support systems for maternal mental health exist to bridge the gaps that often lead to these tragic outcomes.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

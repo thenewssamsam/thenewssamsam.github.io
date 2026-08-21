@@ -36,7 +36,7 @@ source_url: 'https://apnews.com/article/midterms-florida-trump-debbie-wasserman-
 <h2>What Happened: A Scrambled Map and a Crowded Primary</h2>
 <p>In Tamarac, Florida, the primaries are bringing underlying political tensions to a boil. Wasserman Schultz, a former national party chair with decades of political capital, found herself crossing district lines after Republican mapmakers scrambled Florida's congressional boundaries following the U.S. Supreme Court's decisions weakening the Voting Rights Act.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

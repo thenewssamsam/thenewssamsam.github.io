@@ -38,7 +38,7 @@ source_url: 'https://abc3340.com/news/local/the-weather-authority-highs-near-100
     <p>Summer in the South is never mild, but mid-August is testing endurance across the Yellowhammer State. An Extreme Heat Warning remains in effect across a massive swath of central Alabama—including Birmingham, Tuscaloosa, Montgomery, Auburn, and surrounding communities—as the National Weather Service warns that oppressive humidity and soaring temperatures could drive heat indices as high as 113 degrees.</p>
     <p>According to reports from ABC 33/40, Birmingham is already enduring its 12th consecutive day with temperatures of at least 90 degrees, marking the city's longest such streak of the year. If current forecasts hold, that streak could stretch to 19 straight days by the weekend. While triple-digit official temperatures have narrowly been avoided so far in Birmingham, the high humidity ensures that outdoor conditions feel relentlessly punishing. Chief Meteorologist James Spann notes that widespread storm relief is not on the horizon, leaving residents to cope with stagnant sunshine and only isolated afternoon thunderstorms.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

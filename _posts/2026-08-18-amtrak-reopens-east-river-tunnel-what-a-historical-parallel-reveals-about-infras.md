@@ -37,7 +37,7 @@ source_url: 'https://abc7ny.com/post/amtrak-reopens-east-river-tunnel-line-damag
 <p>Amtrak marked the completion of a yearlong, intensive overhaul with a celebration at Penn Station, reopening East River Tunnel Line 2 to daily traffic. The 116-year-old tunnel, which carries more than 450 Amtrak, Long Island Rail Road (LIRR), and NJ Transit trains daily, suffered catastrophic damage during Superstorm Sandy in 2012 when saltwater flooded the tubes with 14 million gallons of corrosive brine.</p>
 <p>The rehabilitation project, backed by  billion secured by Senator Chuck Schumer, involved stripping the tunnel down to its bare concrete liner. Crews replaced tracks, drainage systems, power supplies, communications lines, and life safety infrastructure in just over a year. The full closure of Line 2, which began in May 2025, cut LIRR capacity by 20% and created localized service disruptions, but engineers defended the total-closure approach over a piecemeal night-and-weekend schedule that would have dragged the project out for years.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

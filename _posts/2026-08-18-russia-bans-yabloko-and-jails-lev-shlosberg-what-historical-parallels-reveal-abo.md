@@ -24,7 +24,7 @@ source_url: 'https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-
 
   <p>For observers of political history, this sequence of events is far from unprecedented. Across centuries, authoritarian governments facing protracted conflicts have consistently relied on legal mechanisms, proxy litigation, and sweeping security statutes to eliminate internal dissent before it can mobilize at the ballot box.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

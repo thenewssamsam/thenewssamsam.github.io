@@ -37,7 +37,7 @@ source_url: 'https://www.investopedia.com/gen-x-retirement-savings-how-much-they
 
 <p>For the remaining 62% who managed to squirrel away funds, the numbers require careful interpretation. Financial analysts distinguish between the mean (average) and the median (the midpoint where half have more and half have less). Because a small group of exceptionally large accounts pulls the average upward, the median balance of ,000 offers a much truer picture of the typical Gen X household.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

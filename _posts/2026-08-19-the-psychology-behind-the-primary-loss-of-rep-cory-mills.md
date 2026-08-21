@@ -23,7 +23,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/gop-rep-cory-mills-l
     <h2>The Results in Florida's 7th District</h2>
     <p>NBC News projects that former television journalist Ryan Elijah has secured the Republican nomination for Florida’s 7th District. With over 80% of the vote counted, Elijah held 46% to Mills' 34%. Despite receiving the coveted endorsement of Donald Trump, Mills could not overcome the mounting pressure of investigations regarding campaign finance and allegations of sexual misconduct—charges he continues to deny.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -33,7 +33,7 @@ Seagate Portable External Hard Drive
     <h2>The Behavioral Shift: Why Voters Abandoned the Incumbent</h2>
     <p>From a psychological standpoint, the "incumbency advantage" is fueled by voter familiarity and the comfort of the status quo. However, when an elected official becomes "dogged by investigations," that familiarity transforms into a psychological liability known as <strong>negative association</strong>.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -45,7 +45,7 @@ Tactical Waterproof Backpack
     <h3>The Erosion of Social Proof</h3>
     <p>The endorsement of fellow GOP colleagues like Anna Paulina Luna and Mike Haridopolos was a critical factor. In psychology, <strong>social proof</strong> is the tendency for people to mirror the actions of others in an attempt to reflect correct behavior. When high-profile party members publicly withdraw their support, they provide "psychological permission" for the average voter to abandon the incumbent without feeling like they are betraying their party.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -53,7 +53,7 @@ Tactical Waterproof Backpack
     <h3>Cognitive Dissonance and the Trump Factor</h3>
     <p>Normally, a Trump endorsement provides a powerful anchor for Republican voters. However, when the reality of the investigations directly contradicted the "integrity" narrative pushed by challengers, voters experienced <strong>cognitive dissonance</strong>—the mental discomfort of holding two conflicting beliefs. By voting for Elijah, constituents resolved this tension, choosing to align their vote with their desire for "integrity and energy" rather than sticking to a political brand that no longer fit their moral framework.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -63,7 +63,7 @@ Seagate Portable External Hard Drive
     <h2>A Reflection on Integrity</h2>
     <p>This situation invites us to consider the timeless value of integrity in leadership. Proverbs 11:3 (ESV) reminds us: <em>"The integrity of the upright guides them, but the crookedness of the treacherous destroys them."</em> This makes me think about how fragile public trust truly is. When we are placed in positions of influence, our character is the foundation upon which everything else is built. If that foundation is compromised, no amount of endorsement or political machinery can sustain it indefinitely. It is a reminder that, regardless of our station in life, how we conduct ourselves in the shadows matters as much as how we appear in the spotlight.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

@@ -21,7 +21,7 @@ source_url: 'https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-
 <section>
 <p>US envoy Jared Kushner has drawn a hard line on the future of the enclave, stating explicitly that the Trump administration will block all reconstruction efforts in the devastated Gaza Strip until Hamas fully disarms. The announcement follows high-stakes talks in Jerusalem with Israeli Prime Minister Benjamin Netanyahu, highlighting a profound diplomatic deadlock even as regional leaders attempt to navigate a fragile, fractured ceasefire framework.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

@@ -36,7 +36,7 @@ source_url: 'https://www.cbsnews.com/news/rfk-jr-autism-research-trump-vaccines/
 <p>President Donald Trump has doubled down on altering the nation's childhood vaccination schedule, publicly faulting shots for a rise in autism cases even as Health and Human Services Secretary Robert F. Kennedy Jr. fails to produce empirical evidence linking the two. The executive order, signed on August 10, demands limits on vaccine recommendations just months before midterm elections—a move that has baffled medical groups and alarmed political strategists alike.</p>
 <p>After more than a year in office, Kennedy and his inner circle have missed internal deadlines to deliver definitive answers from a secretive, multimillion-dollar research initiative. Despite spending millions of taxpayer dollars and acquiring medical records to explore a vaccine-autism connection, the project has operated largely behind closed doors, ignoring career scientists and major autism advocacy groups.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

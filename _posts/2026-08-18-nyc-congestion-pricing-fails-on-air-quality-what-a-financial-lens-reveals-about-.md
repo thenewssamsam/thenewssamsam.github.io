@@ -30,7 +30,7 @@ source_url: 'https://nypost.com/2026/08/17/us-news/nyc-drivers-shell-out-9-conge
 <h2 id="what-happened">What Happened?</h2>
 <p>Under the congestion pricing program, passenger vehicles entering Manhattan at or below 60th Street face a  toll for E-ZPass users during peak hours (weekdays from 5 a.m. to 9 p.m., and weekends from 9 a.m. to 9 p.m.), with off-peak rates dropping to . Drivers without an E-ZPass face mail-in rates roughly 50% higher.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

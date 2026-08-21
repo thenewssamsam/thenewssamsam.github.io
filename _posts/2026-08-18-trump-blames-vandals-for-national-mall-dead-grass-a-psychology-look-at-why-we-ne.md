@@ -35,7 +35,7 @@ source_url: 'https://www.foxnews.com/politics/trump-blames-vandals-dead-grass-na
   <p>President Donald Trump recently took to social media to share photographs of large brown patches of dead grass on the National Mall near the World War II Memorial—the exact location where a massive crowd gathered last month for a 4th of July celebration marking the nation's 250th anniversary. Rather than pointing to the heavy staging, large crowds, and subsequent disassembly work that covered the turf, Trump directly blamed vandals for the destruction.</p>
   <p>"Look what VANDALS did to the grass connecting the vandalized World War II Monument and the vandalized Reflecting Pool," Trump wrote on Truth Social, appending another post arguing that anyone who doubts the pool was vandalized should "go back to Law School!"</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

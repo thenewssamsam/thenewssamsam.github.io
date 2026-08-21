@@ -24,7 +24,7 @@ source_url: 'https://www.yahoo.com/news/us/article/the-mistake-that-helped-cost-
   <h2 id="what-happened">What Happened in the Courtroom</h2>
   <p>The legal battle centered on "trade dress"—the overall commercial look and feel of a product rather than its specific brand name or logo. U.S. District Judge Eric Komitee ruled that Rebel Creamery had intentionally diluted and infringed upon Van Leeuwen's distinct design: a solid-color cardboard pint, matching lid, soft pastel tones, and bold black script lettering.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07NGKRNVF?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Toshiba 5400RPM Hard Drive 
 </a></p>
 

@@ -26,7 +26,7 @@ source_url: 'https://weather.com/2026/08/17/forecast/regional/south-heat-wave-re
   <p>According to reports from meteorologist Jonathan Erdman at weather.com, August in the South is never cool, but this particular weather event boasts unusual staying power. A persistent atmospheric feature known as a heat dome has trapped extremely hot and muggy air across the region. From the lower Mississippi Valley up to the Florida Panhandle, Georgia, and the Carolinas, actual temperatures are pushing into the upper 90s and 100s.</p>
   <p>Compounding the daytime danger is a severe lack of nighttime cooling. Morning lows in many southern metro areas are refusing to drop below the upper 70s or even low 80s. With heat advisories and extreme heat warnings issued by the National Weather Service, experts emphasize that heat remains the number one weather-related killer in the United States, claiming hundreds of lives annually.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

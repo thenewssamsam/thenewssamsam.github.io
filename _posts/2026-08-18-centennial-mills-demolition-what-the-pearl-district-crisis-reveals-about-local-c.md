@@ -24,7 +24,7 @@ source_url: 'https://katu.com/news/local/demolition-day-nears-as-centennial-mill
     <p>As demolition day arrives for the historic Centennial Mills building in Northwest Portland, the surrounding Pearl District is grappling with more than just the loss of an iconic structure. Following a severe fire in early August, local business owners are navigating a sudden drop in foot traffic, closed parks, road blocks on Northwest Naito Parkway, and lingering concerns over asbestos dust.</p>
     <p>While city crews prepare to take down the unstable ruins, the disruption highlights a profound truth about urban centers: when a neighborhood anchor destabilizes, the economic and social heartbeat of the surrounding community immediately feels the strain.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></p>
 

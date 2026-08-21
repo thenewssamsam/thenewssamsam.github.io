@@ -35,7 +35,7 @@ source_url: 'https://finance.yahoo.com/personal-finance/investing/article/spacex
 <h2>The Reality of Post-IPO Turbulence</h2>
     <p>The ride for SpaceX (SPCX) investors has been nothing short of breathtaking. Opening at  and quickly climbing past  before touching highs near , the stock captured the imagination of the entire market. In just three trading days, it surpassed retail giant Amazon in total market value.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

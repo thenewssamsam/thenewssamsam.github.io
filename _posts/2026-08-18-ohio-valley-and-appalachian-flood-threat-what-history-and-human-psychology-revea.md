@@ -138,7 +138,7 @@ source_url: 'https://www.foxweather.com/weather-news/heavy-rain-thunderstorms-se
 
     <p>To understand why severe weather events like this trigger such profound community stress—and why preparation often lags behind real risk—we have to look past the radar maps and examine how the human mind processes recurring danger.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -18,7 +18,7 @@ source_url: 'https://abc7.com/post/search-underway-missing-jet-ski-rider-long-be
 
   <p>When 53-year-old Paul Anthony Carbullido Jr. was finally spotted floating in a green life jacket three miles offshore from the Seal Beach Pier, a grueling 12-hour ordeal came to an end. For hours on end, a multi-agency search involving the Coast Guard, Long Beach Fire Department, and local police hunted through the dark Pacific waters. His miraculous rescue after half a day adrift raises a gripping question not just about maritime safety, but about the profound mental mechanics that keep a person alive when every instinct tells them to give up.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

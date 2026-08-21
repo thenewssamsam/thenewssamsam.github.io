@@ -25,7 +25,7 @@ source_url: 'https://finance.yahoo.com/markets/stocks/articles/investors-reactin
     
     <p>For shareholders and market watchers, this move forces a hard look at the company's long-term investment narrative. Can aggressive consolidation successfully protect operating margins against persistent livestock scarcity, or does it signal deeper, more structural headwinds for the meatpacking industry?</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

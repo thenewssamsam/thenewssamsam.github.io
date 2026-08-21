@@ -46,7 +46,7 @@ source_url: 'https://www.foxnews.com/us/long-island-street-takeover-erupts-drive
     <p>The operation unfolded in the early hours of Saturday morning, August 14, when the Suffolk County Police Department’s dedicated Street Takeover Task Force moved in on a gathering near Woodside Avenue and Sawgrass Drive in Medford. According to investigators, the crowd had effectively shut down the roadway to perform donuts, burnouts, and high-risk stunts.</p>
     <p>This crackdown was not a stroke of random luck. Officials stated that the department's task force had intercepted digital chatter and monitored social media intelligence ahead of the weekend. The group had already bounced between multiple locations—including stops near Commack Road and Sunrise Highway in Islip, and Route 112 in Patchogue—before officers finally boxed them in.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

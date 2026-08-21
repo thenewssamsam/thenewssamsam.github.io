@@ -26,7 +26,7 @@ source_url: 'https://www.renewableenergyworld.com/news/how-can-utilities-build-c
 <h2>What Happened in the Energy Sector</h2>
 <p>Energy industry experts are confronting a fundamental redefinition of grid reliability. Mona Fazel of Danovo Energy Solutions recently highlighted this paradigm shift, pointing out that historical weather patterns, legacy load assumptions, and static risk models no longer provide reliable guidance for the future.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

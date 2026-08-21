@@ -40,7 +40,7 @@ source_url: 'https://apnews.com/article/wildfire-belgium-france-heat-europe-gree
 <h2>What Happened: Europe's Summer of Fire</h2>
 <p>According to Associated Press reports, one of Belgium's largest wildfires in history continued to blaze out of control in the hilly High Fens region near the German border, scorching approximately 30 square kilometers (12 square miles). King Philippe interrupted his vacation to visit emergency personnel as 500 firefighters, aided by international aircraft and local drone-equipped police, battled flames made stubborn by dry, peaty soil.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

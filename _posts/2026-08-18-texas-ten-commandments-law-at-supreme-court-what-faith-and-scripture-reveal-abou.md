@@ -22,7 +22,7 @@ source_url: 'https://apnews.com/article/ten-commandments-texas-law-supreme-court
 <p>When civil rights advocates formally asked the U.S. Supreme Court to review Texas law requiring public school classrooms to display the Ten Commandments, they did not just set up a high-stakes legal showdown over the First Amendment. They thrust an ancient moral text back into the center of modern public life—forcing millions of families, educators, and believers to wrestle with a quiet, uncomfortable question: Can a government mandate sacred words without cheapening their meaning?</p>
 <p>As the legal battle moves toward Washington, the debate touches on constitutional boundaries, civil liberties, and the deeper question of how sacred texts interact with public institutions.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

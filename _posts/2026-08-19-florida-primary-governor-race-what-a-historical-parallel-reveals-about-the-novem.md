@@ -19,7 +19,7 @@ source_url: "https://katu.com/news/nation-world/florida-voters-choose-nominees-i
 <h2 id="ncg-what-happened">What Happened in the Florida Primary</h2>
 <p>The political landscape in the Sunshine State shifted another notch forward as Florida voters headed to the polls to decide crowded primary ballots for governor. Republican U.S. Rep. Byron Donalds and Democrat David Jolly emerged victorious from their respective fields, confirming what months of polling and fundraising metrics had strongly signaled.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

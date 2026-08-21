@@ -25,7 +25,7 @@ source_url: 'https://www.audacy.com/kywnewsradio/news/local/off-duty-officer-kil
 <h2 id="what-happened">What Happened in Southwest Philadelphia?</h2>
 <p>According to Philadelphia Police reports, the incident began just after 4 a.m. on a Sunday outside a hookah bar near 73rd Street and Woodland Avenue in the Eastwick neighborhood. What started as an verbal exchange between Officer Barry, another 35-year-old man, and an unidentified suspect quickly deteriorated into a physical altercation. The group moved outside, where the confrontation paused briefly before shots rang out.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

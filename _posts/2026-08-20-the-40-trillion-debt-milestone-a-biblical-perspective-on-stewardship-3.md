@@ -26,7 +26,7 @@ source_url: 'https://edition.cnn.com/2026/08/19/economy/national-debt-hits-40-tr
         <h2>What Happened?</h2>
         <p>According to recent data from the Treasury Department, the US federal debt hit  trillion this week. This figure has accelerated rapidly, rising  trillion in just the last five months. Experts point to a combination of an aging population driving up Social Security and Medicare costs, alongside decades of legislative decisions that have consistently prioritized spending over revenue collection.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0D851Z6NQ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0D851Z6NQ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Samsung Galaxy Tab S9 Tablet 
 </a></div>
 
@@ -34,7 +34,7 @@ Samsung Galaxy Tab S9 Tablet
         <div class="ncg-product-box" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
             <p><strong>Recommended Resource:</strong> <a href="#">Personal Finance: A Biblical Guide to Stewardship - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0DJP6D6PJ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0DJP6D6PJ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Acer Wireless Monitor 
 </a></div>
 
@@ -45,7 +45,7 @@ Acer Wireless Monitor
         <h2>The Vicious Cycle of Borrowing</h2>
         <p>Perhaps the most concerning aspect of this milestone is the cost of servicing the debt. With interest rates elevated, the federal government is now spending over  trillion annually just on interest payments—a sum that rivals the entire budget for Medicare. This creates a "vicious cycle" where the government must borrow more simply to pay the interest on what it has already borrowed.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F3PQHWTZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F3PQHWTZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Sony WH-1000XM6 Wireless Headphones 
 </a></div>
 
@@ -59,14 +59,14 @@ Sony WH-1000XM6 Wireless Headphones
         <h2>A Call to Stewardship</h2>
         <p>In Scripture, we are reminded that debt is a heavy burden. Proverbs 22:7 tells us, <em>"The rich rules over the poor, and the borrower is the slave of the lender."</em> While this verse is often applied to personal finance, it carries profound implications for collective governance. When a nation becomes heavily indebted, it loses the freedom to prioritize the needs of its people, as a significant portion of its wealth must be diverted to satisfy creditors.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0D851Z6NQ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0D851Z6NQ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Samsung Galaxy Tab S9 Tablet 
 </a></div>
 
         
         <p>This situation invites us to consider the principle of stewardship. Stewardship is not merely about having money; it is about the responsible management of resources entrusted to us for the benefit of others and the future. When we spend beyond our means, we are essentially borrowing from the future—from our children and grandchildren—to satisfy present desires.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F3PQHWTZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F3PQHWTZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Sony WH-1000XM6 Wireless Headphones 
 </a></div>
 
@@ -74,7 +74,7 @@ Sony WH-1000XM6 Wireless Headphones
         <div class="ncg-product-box" style="border-left: 5px solid #FFD700; background: #f9f9f9; padding: 15px; margin: 20px 0;">
             <p><strong>Recommended Resource:</strong> <a href="#">Legacy Planning Journal - </a></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0F3PQHWTZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0F3PQHWTZ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Sony WH-1000XM6 Wireless Headphones 
 </a></div>
 
@@ -82,7 +82,7 @@ Sony WH-1000XM6 Wireless Headphones
         
         <p>Reflecting on this, I am reminded of the parable of the talents in Matthew 25. The servants were expected to manage their master's resources with wisdom and foresight. A nation, like an individual, is called to live within its means, ensuring that it remains capable of fulfilling its duties to the vulnerable and the next generation. The  trillion figure serves as a stark reminder that our choices today have lasting consequences.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0D851Z6NQ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0D851Z6NQ?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Samsung Galaxy Tab S9 Tablet 
 </a></div>
 

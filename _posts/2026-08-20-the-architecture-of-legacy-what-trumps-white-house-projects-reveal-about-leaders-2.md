@@ -29,7 +29,7 @@ source_url: 'https://www.cnn.com/2026/08/19/politics/trump-construction-white-ho
     <h2>The Psychology of Building: Lessons in Leadership</h2>
     <p>Whether one agrees with the necessity of these projects, the president's intense focus on "doing it right" provides a fascinating case study in personal leadership. Trump’s insistence on the "radial cut of granite" and his personal involvement in minor aesthetic decisions reflect a leadership philosophy rooted in tangible, visible results.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -37,7 +37,7 @@ Seagate Portable External Hard Drive
     <h3>1. The Value of Personal Standards</h3>
     <p>Trump’s willingness to halt a project—like the helipad—because the slope didn't meet his expectations illustrates a refusal to accept "good enough." In any career or personal endeavor, there is a lesson here: the quality of the final outcome is often determined by the standards we enforce during the process, not just at the end.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -49,7 +49,7 @@ Seagate Portable External Hard Drive
     <h3>2. Building for the Future</h3>
     <p>The president noted that these projects "will be here long after we’re gone." This mindset shifts the focus from short-term convenience to long-term impact. When we take on a project—be it professional or personal—do we treat it as a temporary fix or a lasting contribution?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -59,13 +59,13 @@ Tactical Waterproof Backpack
     <h2>A Reflection on Stewardship</h2>
     <p>The president’s focus on the "greatness" of the White House and the permanence of his construction efforts brings to mind the biblical concept of stewardship. In the Gospel of Luke, we are reminded: <em>"From everyone who has been given much, much will be demanded"</em> (Luke 12:48). This invites us to consider our own work. Are we using our resources and positions to build things that serve a higher purpose, or are we merely building for our own legacy?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     <p>Similarly, 1 Corinthians 3:10-11 encourages us to build carefully: <em>"By the grace God has given me, I laid a foundation as a wise builder, and someone else is building on it. But each one should build with care."</em> This reminds us that while we may be focused on the visible structure, the most important aspect of any project is the integrity of the foundation upon which it stands.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

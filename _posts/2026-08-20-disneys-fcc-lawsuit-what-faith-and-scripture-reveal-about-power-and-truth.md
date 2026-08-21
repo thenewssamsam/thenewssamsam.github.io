@@ -27,7 +27,7 @@ source_url: "https://www.cnn.com/2026/08/18/media/disney-abc-fcc-trump-lawsuit-t
 
     <p>Disney’s lawsuit asks the court for a temporary restraining order and preliminary injunction to halt the license challenge, arguing that the federal government is unconstitutionally punishing a broadcaster for its editorial content. As this public tug-of-war unfolds, it invites observers to look past the political headlines and examine the deeper ethical principles at stake.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -41,14 +41,14 @@ Seagate Portable External Hard Drive
     <h2>A Biblical Perspective on Power, Truth, and Accountability</h2>
     <p>Whenever institutions clash—whether a multinational entertainment enterprise or a federal regulatory body—human motives and the use of power inevitably take center stage. Scripture offers profound wisdom regarding how authority should be exercised, how truth should be handled, and the dangers of using influence for retaliation rather than justice.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
 
     <p>In Proverbs 29:2, scripture reminds us: <span class="ncg-verse">"When the righteous thrive, the people rejoice; when the wicked rule, the people groan."</span> (NIV). This proverb highlights the heavy moral burden carried by those who hold positions of influence, whether in government halls or corporate boardrooms. Authority is designed to be a steward of order and fairness, not an instrument for personal or partisan retaliation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -60,7 +60,7 @@ Tactical Waterproof Backpack
 
     <p>Furthermore, the dispute over broadcasting, speech, and public airwaves touches directly on the biblical call for honesty and integrity in communication. Ephesians 4:25 instructs believers: <span class="ncg-verse">"Therefore each of you must put off falsehood and speak truthfully to your neighbor, for we are all members of one body."</span> (NIV). In an era saturated with media spin, public relations battles, and political maneuvering, the pursuit of unvarnished truth often gets lost in the noise. Both regulators and broadcasters bear a duty to serve the public with transparency rather than strategic calculation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -72,7 +72,7 @@ Tactical Waterproof Backpack
 
     <p>When fear dictates choices, courage wanes. Whether examining government regulators seeking to shape cultural narratives or media corporations shaping public perception, power unchecked by humility tends to overreach. For the everyday observer, this legal battle serves as a reminder that human institutions are inherently fallible. Putting ultimate trust in earthly power structures—whether corporate or governmental—always leads to disappointment.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -87,7 +87,7 @@ Seagate Portable External Hard Drive
     <h2>How Should Christians Respond?</h2>
     <p>Rather than taking sides in a partisan media war, Christians are called to respond with discernment, prayer, and steadfast commitment to truth:</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

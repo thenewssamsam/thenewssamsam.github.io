@@ -39,7 +39,7 @@ source_url: 'https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuck
 <h2>What Happened: The 6,500-Word Vision</h2>
 <p>In his latest manifesto, Mark Zuckerberg doubled down on an optimistic trajectory for artificial intelligence, positioning it as an empowering tool for the individual. According to the report from TechCrunch's Equity podcast — featuring hosts Kirsten Korosec, Anthony Ha, and Rebecca Bellan alongside AI editor Russell Brandom — the essay introduces tools like the personal agent model Glimmer and the more powerful Muse Spark ecosystem.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

@@ -39,7 +39,7 @@ source_url: 'https://news.bloomberglaw.com/bankruptcy-law/google-aims-to-boost-a
 <h2>What Happened in the Spirit-Google Deal</h2>
 <p>According to court notices filed in the US Bankruptcy Court for the Southern District of New York, Google LLC emerged victorious at auction for a massive enterprise dataset from Spirit Aviation Holdings Inc., which shut down operations on May 2 following a Chapter 11 bankruptcy filing with roughly  billion in debt.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

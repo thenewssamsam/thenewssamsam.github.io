@@ -22,7 +22,7 @@ source_url: 'https://www.yahoo.com/news/science/articles/italy-identifies-roman-
   <p>The discovery came to light after spear divers Giacomo De Mola and Igor Bisulli noticed anomalies on their sonar equipment, prompting them to alert the Carabinieri Cultural Heritage Protection Unit (TPC). Following their report, a coordinated inspection involving the Sicilian Region's Superintendency of the Sea, Carabinieri divers from Messina, and a local patrol boat confirmed the site.</p>
   <p>Archaeologists estimate the merchant vessel sank between the 2nd and 1st centuries BC. Littering the seafloor are hundreds of amphoras—primarily identified as Dressel 1A, a heavy, standardized ceramic container specifically designed for transporting wine, oil, and other vital commodities across the ancient sea lanes. In addition to the massive cargo haul, the survey team documented two lead anchor-stocks and an unidentified lead object, which researchers hope will offer further clues about the ship's rigging and navigation equipment.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

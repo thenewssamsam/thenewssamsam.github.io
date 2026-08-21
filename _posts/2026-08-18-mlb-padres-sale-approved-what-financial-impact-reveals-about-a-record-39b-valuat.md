@@ -28,7 +28,7 @@ source_url: ''
   <p>The unanimous vote by MLB owners on Monday officially concluded a sale process that began in April, when Feliciano and Jones agreed to purchase a controlling stake in the franchise from the Seidler family. The husband-and-wife duo is acquiring more than 40 percent of the team at a landmark  billion valuation, surpassing the previous transfer-of-control record set in 2020 when Steve Cohen purchased the New York Mets for  billion.</p>
   <p>The transaction is expected to close by the end of the week, with an official introduction scheduled at Petco Park next Monday. Feliciano, whose net worth is estimated at  billion by Forbes, has been named the Padres' new control person, while he and Jones will run the franchise jointly as principal owners. Their incoming minority ownership group notably includes Behdad Eghbali—Feliciano's co-founder at private equity firm Clearlake Capital (which also co-owns Chelsea FC)—alongside Joey and Jesse Buss of the Los Angeles Lakers ownership family and returning minority investor Alfredo Harp Helú.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></p>
 

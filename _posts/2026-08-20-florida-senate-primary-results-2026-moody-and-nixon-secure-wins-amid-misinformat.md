@@ -36,7 +36,7 @@ source_url: "https://www.nbcnews.com/politics/2026-primary-special-elections/flo
     <h2 id="myth-vs-fact">Myth vs. Fact: Sorting Out the 2026 Florida Senate Primary Claims</h2>
     <p>Elections of this magnitude routinely generate speculation, misreadings of early vote data, and exaggerated claims about what primary margins mean for the broader political landscape. Here is a factual look at the claims circulating around the race.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -45,7 +45,7 @@ Seagate Portable External Hard Drive
       <h3>Myth 1: "The primary results mean the general election outcome in Florida is already sealed."</h3>
       <p><strong>Fact:</strong> Primary electorates are vastly different from general election voters. While Ashley Moody’s strong 79.6% showing against her Republican challengers demonstrates firm base support, and Angie Nixon's 56.1% win reflects momentum among primary voters, Florida remains a complex battleground where unaffiliated and moderate voters ultimately decide statewide outcomes. A primary win tells us who commands their respective party base, not necessarily how the broader electorate will vote in November.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -60,7 +60,7 @@ Tactical Waterproof Backpack
       <h3>Myth 2: "Alex Vindman's loss was entirely due to a lack of national fundraising or name recognition."</h3>
       <p><strong>Fact:</strong> Vindman entered the race with significant national name recognition and robust fundraising connections stemming from his high-profile federal service. However, primary voters in Florida's Democratic primary responded more directly to local legislative organizing and grassroots campaigning embodied by Angie Nixon. This was a localized policy and ground-game outcome rather than an issue of name visibility.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -70,7 +70,7 @@ Tactical Waterproof Backpack
       <h3>Myth 3: "Uncounted votes remaining on election night indicate delayed or compromised vote tabulation."</h3>
       <p><strong>Fact:</strong> Election desks rely on statistical estimates for remaining expected votes (such as the roughly 9,000 Republican and 6,500 Democratic votes estimated at 99% reporting). Having a small percentage of ballots remaining to be officially certified is standard procedure in American elections and reflects careful verification by county election officials, not systemic failure.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -85,14 +85,14 @@ Tactical Waterproof Backpack
     <h2 id="scripture-and-discernment">A Moment for Discernment</h2>
     <p>As we watch political shifts and evaluate conflicting reports during election season, I find myself thinking about the timeless wisdom found in Scripture regarding truth and honesty. When information moves at lightning speed, it is easy to get swept up in sensational claims.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
     
     <p>One verse that comes to mind is Proverbs 12:17, which reminds us: <em>"An honest witness tells the truth, but a false witness tells lies."</em> Similarly, Proverbs 18:13 notes, <em>"To answer before listening—that is folly and shame."</em> These passages challenge both voters and commentators to slow down, check primary sources, and value factual integrity over rapid speculation.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

@@ -38,7 +38,7 @@ source_url: 'https://www.wbur.org/news/2026/08/17/prosecution-rests-murder-trial
     <p>After 14 days of intense, emotionally harrowing testimony, the prosecution officially rested its case in the murder trial of Lindsay Clancy, the Duxbury, Massachusetts mother accused of first-degree murder in the 2023 deaths of her three young children: 5-year-old Cora, 3-year-old Dawson, and 8-month-old Callan. The trial, which has riveted and distressed the public for weeks, now shifts to the defense as attorney Kevin Reddington begins calling witnesses.</p>
     <p>The core facts of the case are not contested by the defense: Clancy has admitted to killing her children before attempting to take her own life by jumping from a second-story window—an act that left her paralyzed from the waist down. The profound legal and moral debate hinges entirely on her mental state at the time. Prosecutors argue that Clancy acted deliberately, driven by a desire to end her family's suffering alongside her own. The defense counters with the insanity defense, asserting that Clancy was suffering from extreme, medication-exacerbated postpartum psychiatric illness and was utterly divorced from reality when the tragedy occurred.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

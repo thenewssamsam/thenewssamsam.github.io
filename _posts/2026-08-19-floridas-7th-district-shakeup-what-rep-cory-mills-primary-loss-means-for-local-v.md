@@ -25,7 +25,7 @@ source_url: "https://www.nbcnews.com/politics/2026-election/gop-rep-cory-mills-l
 
     <p>With over 80% of the vote counted, Elijah held a clear lead with 46% compared to Mills’ 34%. This result marks a notable moment in the 2026 election cycle, as Mills becomes the 11th House member this year to lose a primary, reflecting a high level of volatility among incumbents.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -35,14 +35,14 @@ Crevice Cleaning Brush Set
     <h2>What This Means for the Community</h2>
     <p>For residents of Florida’s 7th District, this primary result is more than just a change in party personnel; it signals a potential shift in how the district is represented in Washington. Local voters have been caught in the middle of a campaign defined by concerns over integrity and the effectiveness of their congressional office.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
     
     <p>The involvement of prominent Florida Republicans, such as Reps. Anna Paulina Luna and Mike Haridopolos, in backing Elijah over an incumbent colleague highlights a growing desire within the local party leadership for a "reset" in character and focus. For the average constituent, the core question remains: how will the next representative prioritize the specific infrastructure, economic, and social needs of the 7th District?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -54,7 +54,7 @@ Crevice Cleaning Brush Set
     <h3>The Shift in Focus</h3>
     <p>Elijah’s campaign emphasized a return to "integrity and energy," a message that resonated with voters tired of the ongoing headlines surrounding Mills. While Mills struggled with investigations into campaign finance and personal conduct, the local community was left wondering if their federal representative was truly focused on the district’s daily challenges.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -64,14 +64,14 @@ Crevice Cleaning Brush Set
     <h2>A Reflection on Integrity and Stewardship</h2>
     <p>The events in Florida’s 7th District bring to mind the importance of character in leadership. As the Apostle Paul wrote in <strong>1 Timothy 3:2</strong>, "Now the overseer is to be above reproach, faithful to his wife, temperate, self-controlled, respectable, hospitable, able to teach." This is a standard that applies not just to church leadership, but to any position of public trust.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
 
     <p>This situation invites us to consider the weight of our responsibilities. Whether in a local office or a simple daily task, we are called to act with honesty. <strong>Proverbs 11:3</strong> reminds us, "The integrity of the upright guides them, but the unfaithful are destroyed by their duplicity." It is a sobering reminder that when we occupy positions that affect our neighbors and communities, our personal choices and public actions are inextricably linked. We are reminded to pray for those in authority, that they might serve with wisdom and a genuine heart for the people they represent.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 
@@ -80,7 +80,7 @@ Crevice Cleaning Brush Set
   <div style="border-left: 5px solid #FFD700; background-color: #f9f9f9; padding: 15px; margin: 20px 0;">
     <p><strong>Shareable Insight:</strong> "True political leadership isn't just about the endorsement you carry; it's about the integrity you bring to the community every single day."</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Crevice Cleaning Brush Set 
 </a></div>
 

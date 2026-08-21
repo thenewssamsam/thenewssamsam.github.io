@@ -24,7 +24,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/ferrari-luce-electric-car-autos.htm
 
   <p>This blockbuster sale shatters records for a new production car at auction and immediately forces a re-evaluation of how ultra-luxury brands price exclusivity, green technology, and brand equity. While everyday automotive markets face headwinds, the upper echelon of wealth operates under an entirely different set of economic rules.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 

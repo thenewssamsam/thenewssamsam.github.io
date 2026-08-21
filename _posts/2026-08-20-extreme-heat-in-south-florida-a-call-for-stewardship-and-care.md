@@ -25,7 +25,7 @@ source_url: 'https://www.cbsnews.com/miami/news/south-florida-extreme-heat-healt
     <h2>The Current Situation</h2>
     <p>This week, South Florida faced an extreme heat warning. In Dania Beach, a power outage at an assisted living facility served as a stark reminder of how quickly circumstances can change during extreme weather; fortunately, residents were moved to safety without injury. Meanwhile, Miami tied an all-time record high of 100 degrees on Tuesday. Medical experts like Dr. Danielle Cohen are emphasizing the importance of listening to our bodies, staying hydrated, and avoiding direct sunlight.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -35,7 +35,7 @@ Tactical Waterproof Backpack
     <h2>A Lens of Stewardship and Compassion</h2>
     <p>In the midst of such intense environmental pressure, we are reminded of the biblical call to stewardship—not only of the earth but of the bodies we have been given. Our health is a temple, and taking reasonable precautions during a heatwave is an act of honoring that gift. We aren't meant to test the limits of our endurance unnecessarily; rather, we are called to be wise and proactive.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -43,7 +43,7 @@ Tactical Waterproof Backpack
     <div class="ncg-quote-box" style="border-left: 5px solid #d4af37; background: #fdfbf7; padding: 15px; margin: 20px 0;">
       <p><strong>"The mark of a healthy community is how we care for the vulnerable when the world gets a little too hot to handle."</strong></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -51,7 +51,7 @@ Seagate Portable External Hard Drive
 
     <p>Furthermore, this heat serves as a physical reflection of our need to look out for our neighbors. In Proverbs 27:10, we are reminded: <em>"Better is a neighbor who is near than a brother who is far away."</em> When the power goes out at a local facility or a neighbor is struggling with the sun, we are presented with an opportunity to practice the love and hospitality that defines a faithful life. Checking on the elderly or those without adequate cooling is a modern-day expression of the "good neighbor" principle.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -59,13 +59,13 @@ Seagate Portable External Hard Drive
     <div style="border: 1px solid #ccc; padding: 10px; background: #f9f9f9; border-radius: 5px;">
       <p><em>Consider:</em> <strong>Psalm 121:5-6</strong> — <em>"The Lord is your keeper; the Lord is your shade at your right hand. The sun shall not strike you by day, nor the moon by night."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
       <p>While this passage speaks to God's ultimate protection, it also invites us to consider how we can act as "shade" for one another. Are we looking for ways to provide relief, comfort, and safety to those around us who might be suffering in silence?</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 

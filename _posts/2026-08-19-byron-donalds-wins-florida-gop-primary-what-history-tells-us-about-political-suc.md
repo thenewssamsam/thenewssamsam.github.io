@@ -28,7 +28,7 @@ source_url: "https://www.foxnews.com/politics/trumps-handpicked-desantis-success
     <h2>Succession and the Weight of Predecessors</h2>
     <p>History shows that when a popular executive leaves office due to term limits, the "successor dilemma" often creates significant friction. We can look to the transition between Andrew Jackson and Martin Van Buren in the 1830s—a moment where the "handpicked" successor had to balance the shadow of a larger-than-life mentor with the need to establish their own governing identity.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -39,7 +39,7 @@ Tactical Waterproof Backpack
 
     <p>Unlike some historical hand-offs where the successor is merely a carbon copy, Donalds is attempting to bridge the gap between DeSantis’s legislative accomplishments and Trump’s broader national agenda. In many respects, this mirrors the 20th-century transition of power in states where a dominant political machine had to decide whether to double down on an established brand or pivot to a new, more aggressive personality.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
@@ -47,7 +47,7 @@ Seagate Portable External Hard Drive
     <h3>The Trap of the "Legacy Candidate"</h3>
     <p>Historical parallels, such as the struggles faced by successors who lean too heavily on a predecessor’s name, serve as a warning. Candidates who run solely on "protecting a legacy" often struggle to generate the independent momentum required to carry a general election. Donalds’s strategy of carving out his own identity while maintaining the Trump brand appears to be a deliberate attempt to avoid this historical pitfall.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 
@@ -57,13 +57,13 @@ Tactical Waterproof Backpack
     <h2>A Word on Leadership and Stewardship</h2>
     <p>Watching the transition of power in government often reminds me of the biblical principle of stewardship. In 1 Chronicles 29:12, we read: <em>"Both riches and honor come of thee, and thou reignest over all; and in thine hand is power and might; and in thine hand it is to make great, and to give strength unto all."</em></p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></div>
 
     <p>This verse serves as a humbling reminder that regardless of political victories or the shifting tides of human government, authority is ultimately held in trust. For those seeking to lead, the challenge is not just winning the primary, but demonstrating the integrity and wisdom to serve the people well. It invites us to consider that true leadership is measured by how one cares for the "least of these" and whether they act with justice and mercy, rather than merely securing their own political legacy.</p>
 <!-- Amazon Associates Recommendation -->
-<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<div style='margin: 1em 0; padding: 0.5em; background: #f9f9f9; border-left: 3px solid #FF9900;'>As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Tactical Waterproof Backpack 
 </a></div>
 

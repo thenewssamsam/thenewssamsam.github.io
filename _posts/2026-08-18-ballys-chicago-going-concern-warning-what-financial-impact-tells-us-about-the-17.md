@@ -27,7 +27,7 @@ source_url: 'https://www.chicagotribune.com/2026/08/17/ballys-chicago-going-conc
     <p>In a second-quarter earnings filing with the Securities and Exchange Commission, Rhode Island-based Bally’s Corp. issued a formal going concern warning. Auditors require this warning when there is substantial doubt about a company’s ability to meet its financial obligations and stay afloat over the next 12 months. The corporation is actively seeking alternative financing—ranging from asset sales and debt restructuring to new equity offerings—to remain compliant with lenders for its revolving credit facility by early next year.</p>
     <p>This financial disclosure arrived on the heels of another major development: an abrupt construction slowdown at the future River West casino site. Bally’s issued a reset notice to its general contracting partnership, putting the 34-story hotel, events center, and planned restaurants on hold. About 200 of the 1,500 active construction workers have been idled, though the smaller temporary casino operating at Medinah Temple in River North remains open.</p>
 <!-- Amazon Associates Recommendation -->
-<p>Consider also: <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
+<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
 Seagate Portable External Hard Drive 
 </a></p>
 
