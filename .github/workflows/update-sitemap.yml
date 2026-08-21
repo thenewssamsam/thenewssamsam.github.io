@@ -21,18 +21,18 @@ jobs:
       
       - name: Generate sitemap
         run: |
-          python3 generate_sitemap.py
+          python3 generate_hugo_sitemap.py
       
       - name: Commit and push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          if git diff --quiet sitemap.xml; then
+          if git diff --quiet sitemap.xml sitemap1.xml sitemap2.xml; then
             echo "No changes to sitemap"
           else
-            git add sitemap.xml
-            git commit -m "Auto-update sitemap"
+            git add sitemap.xml sitemap1.xml sitemap2.xml
+            git commit -m "Auto-update sitemap (Hugo-style index)"
             git push
           fi
 
