@@ -33,10 +33,7 @@ source_url: 'https://abc7.com/post/los-angeles-sheriffs-department-shares-photos
 <p>The Los Angeles County Sheriff's Department responded to a commercial burglary alarm at an AutoZone store in the 1100 block of South Atlantic Boulevard, just north of Olympic Boulevard, around 2:20 a.m. on August 8. According to investigators, the break-in coincided with unauthorized street takeovers unfolding in the area.</p>
 
 <p>An unidentified suspect shattered the glass front door, allowing approximately 10 individuals to surge into the business in a coordinated, mob-like fashion. The group caused significant interior property damage and made off with a substantial quantity of merchandise.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -148,29 +145,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

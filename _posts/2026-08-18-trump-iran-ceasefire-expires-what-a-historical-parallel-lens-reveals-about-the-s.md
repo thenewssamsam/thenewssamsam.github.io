@@ -25,10 +25,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html'
   <p>The temporary 60-day memorandum of understanding signed in mid-June officially lapsed on Monday without securing a long-term agreement over Tehran's nuclear ambitions or restoring normal commercial traffic through the Strait of Hormuz. Speaking in a Fox News interview and later to reporters in the Oval Office, President Trump stated flatly that he would not seek an extension of the truce.</p>
   
   <p>"No," Trump said when asked about extending the pause, characterizing Iran's leaders as "good poker players, but they're dying." Trump also made headlines by claiming the U.S. would "bomb the s--- out of" Oman if the Gulf nation "gets in the way," criticizing Muscat's diplomatic role and adding that the longtime U.S. strategic ally hasn't "behaved very well."</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -183,29 +180,3 @@ Seagate Portable External Hard Drive
     .ncg-source { font-size: 0.9rem; color: #6b7280; margin-top: 2rem; border-top: 1px solid #e5e7eb; padding-top: 1rem; }
   </style>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

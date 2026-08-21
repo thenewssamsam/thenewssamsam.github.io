@@ -124,10 +124,7 @@ source_url: 'https://www.yahoo.com/news/videos/search-rescue-teams-continue-sear
 
 <h2 id="what-happened">What Happened in Manggarai Regency</h2>
 <p>According to reports, search and rescue teams continued their meticulous work following an earthquake that struck parts of Indonesia. Emergency crews and local volunteers combed through villages across the North Lamba Leda Subdistrict within the Manggarai Regency to assess damage, locate potential victims, and ensure that remote communities received necessary assistance.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -222,29 +219,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

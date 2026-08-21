@@ -33,10 +33,7 @@ source_url: 'https://www.usatoday.com/story/news/politics/elections/2026/08/16/2
 <section id="what-happened">
     <h2>What Happened: South Carolina Locks In First-in-the-Nation Status</h2>
     <p>The Democratic National Committee made it official: South Carolina will remain the party's first-in-the-nation sanctioned primary state for the 2028 presidential election. Moving away from the historic, predominantly white landscapes of Iowa and New Hampshire, the DNC has leaned into a state where African American voters form more than 60% of the primary electorate.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -136,29 +133,3 @@ ul { margin-bottom: 1rem; }
 footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #eaeaea; font-size: 0.9rem; color: #666; }
 </style>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

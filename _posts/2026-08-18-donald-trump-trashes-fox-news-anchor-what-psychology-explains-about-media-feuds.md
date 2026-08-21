@@ -142,10 +142,7 @@ source_url: 'https://www.huffpost.com/entry/donald-trump-fox-news-shannon-bream_
 
 <h2 id="what-happened">What Happened in the Trump-Bream Clash</h2>
 <p>Over the weekend, Donald Trump unleashed a pair of lengthy posts on his Truth Social platform targeting Fox News anchor Shannon Bream. The flashpoint was an episode of "Fox News Sunday," during which Bream challenged Attorney General Todd Blanche on sensitive topics including the controversial anti-weaponization fund and the construction of a new White House ballroom.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>Trump did not mince words. In his first post, he misspelled "milquetoast" as "milktoast" while dismissing Bream as spineless, and criticized the network for airing polling data that cast him in an unfavorable light. In a follow-up post, he likened watching Bream to "watching the Worst of Fake News CNN," arguing that her program continually features guests, charts, and polls designed to undermine his movement while ignoring his administration's achievements. Bream has notably chosen not to respond publicly to the attacks.</p>
 
@@ -203,25 +200,3 @@ Tactical Waterproof Backpack
 </script>
 </div>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

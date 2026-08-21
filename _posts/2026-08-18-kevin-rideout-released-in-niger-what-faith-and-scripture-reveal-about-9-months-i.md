@@ -31,10 +31,7 @@ source_url: 'https://nypost.com/2026/08/17/world-news/american-missionary-kevin-
 <p>After more than nine agonizing months held by Jihadi terrorists in West Africa, American missionary pilot Kevin Rideout is finally heading home to his wife, Krista, and his family. His release, confirmed by SIM International and announced by President Donald Trump, brings a dramatic conclusion to an ordeal that began in October 2025 when Rideout was abducted near his home in Niamey, the capital of Niger.</p>
 
 <p>While the headlines naturally focus on the geopolitics of hostage liberation and the security vacuum in the Sahel region, a story of this magnitude also invites a deeper reflection. When a believer is thrust into sudden suffering and long-term isolation for the sake of vocational ministry, how does Scripture frame such trials? Beyond the political maneuvering and regional instability, the safe return of Kevin Rideout offers an occasion to examine endurance, faith, and the quiet power of global prayer.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -159,29 +156,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

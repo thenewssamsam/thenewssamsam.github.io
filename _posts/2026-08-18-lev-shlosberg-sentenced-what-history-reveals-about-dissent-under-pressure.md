@@ -33,10 +33,7 @@ source_url: ''
 <h2 id="what-happened">What Happened in the Courtroom</h2>
 <p>In early March 2026, a Russian court in Pskov delivered an 11-year and one-month prison sentence to Lev Shlosberg, a 63-year-old deputy chairman of the Yabloko party and a former regional legislator. The charges centered on accusations of "discrediting" and spreading "false information" about the Russian military—specifically for participating in a debate calling for an end to the war in Ukraine and for sharing an anti-war editorial cartoon on his Telegram channel.</p>
 <p>Simultaneously, in Moscow, Russia’s Supreme Court upheld a decision to remove the Yabloko party from the ballot for the upcoming parliamentary elections. As the only official political party overtly campaigning on a platform of a ceasefire, diplomacy, and preventing nuclear conflict, Yabloko's total exclusion leaves mainstream Russian politics devoid of any authorized legal opposition to the ongoing military campaign.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>In his final statement before the court, Shlosberg reflected on Russia's trajectory over the past three decades, warning that once the true human toll of the war is fully understood, the nation will shudder. Amnesty International and international observers swiftly condemned the verdict as an arbitrary reprisal for exercising freedom of expression.</p>
 
@@ -97,25 +94,3 @@ Tactical Waterproof Backpack
 <p>Source: <a href="https://apnews.com/article/russia-ukraine-shlosberg-crackdown-election-yabloko-war-f2ee368fce4d835e1f1d107c807b3b1a" target="_blank" rel="noopener noreferrer">Original News Report</a></p>
 </footer>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

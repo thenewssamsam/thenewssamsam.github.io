@@ -26,10 +26,7 @@ source_url: 'https://maritime-executive.com/article/russian-escort-accused-of-ki
 
 <h2 id="what-happened">What Happened in Sevastopol?</h2>
 <p>According to reports from maritime and regional security sources, Russian authorities have arrested 32-year-old Margarita Reut in connection with a covert bombing in Sevastopol. Reut, a resident of Sochi and a Russian national, allegedly planted an explosive device in a trash bin on Stoletovsky Avenue on August 13. The device detonated as Captain Robert Shageev—commander of the Black Sea Fleet's 4th Separate Submarine Brigade—walked past with an acquaintance. Shageev was killed instantly at the scene.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -132,29 +129,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

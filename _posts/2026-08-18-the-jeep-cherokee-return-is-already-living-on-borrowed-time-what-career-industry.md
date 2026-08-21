@@ -24,10 +24,7 @@ source_url: 'https://www.thedrive.com/news/the-jeep-cherokee-just-returned-only-
 
   <h2 id="what-happened">What Happened: A Short-Lived Debut and a 2029 Pivot</h2>
   <p>According to recent industry reports from automotive intelligence roundups, the newly launched sixth-generation Jeep Cherokee is already slated for a successor by 2029. Under the current production plan, the vehicle is built in Mexico. However, the planned 2029 replacement will shift production domestically to Stellantis's Belvidere Assembly plant in Illinois, while simultaneously transitioning the model onto the automaker newer STLA One vehicle architecture.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   <p>For an industry where developing a single vehicle platform often requires billions of dollars and years of lead time, planning a replacement cycle before the current generation has even established its footing in showrooms signals intense pressure behind the scenes. It highlights an automotive landscape where companies are being forced to adapt faster to changing labor agreements, supply chain realities, and rapidly evolving electric and multi-energy vehicle platforms.</p>
 
@@ -112,25 +109,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

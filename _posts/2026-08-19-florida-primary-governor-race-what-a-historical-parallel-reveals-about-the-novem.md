@@ -18,10 +18,7 @@ source_url: "https://katu.com/news/nation-world/florida-voters-choose-nominees-i
 <section>
 <h2 id="ncg-what-happened">What Happened in the Florida Primary</h2>
 <p>The political landscape in the Sunshine State shifted another notch forward as Florida voters headed to the polls to decide crowded primary ballots for governor. Republican U.S. Rep. Byron Donalds and Democrat David Jolly emerged victorious from their respective fields, confirming what months of polling and fundraising metrics had strongly signaled.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>Donalds, representing the Naples area and backed early by Donald Trump, dominated a Republican field that included 11 candidates, such as Lieutenant Governor Jay Collins and former House Speaker Paul Renner. On the Democratic side, Jolly—a former Republican congressman who registered as a Democrat in 2025—navigated a six-candidate primary, selecting former U.S. Rep. Gwen Graham as his running mate.</p>
 <p>With Florida's closed primary system concluding on Tuesday evening, attention immediately turns to a much larger general election field that includes independent candidates, a Libertarian, and write-ins. However, the foundational matchup is now set: Donalds versus Jolly for the keys to the governor's mansion.</p>
@@ -89,25 +86,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

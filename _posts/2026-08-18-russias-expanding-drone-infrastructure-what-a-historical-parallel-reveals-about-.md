@@ -37,10 +37,7 @@ source_url: 'https://understandingwar.org/research/russia-ukraine/russian-offens
     <p>According to recent intelligence assessments from the Institute for the Study of War (ISW) and reports from <em>The Telegraph</em>, Russia has constructed 59 new drone-launching rails across 10 distinct sites along its borders with Ukraine and Belarus. Each of these sprawling bases is designed to house over 1,000 long-range strike munitions.</p>
     
     <p>Among these installations, roughly 20 launch rails are exceptionally long, pointing toward the deployment of jet-powered systems like the Geran-4 and Geran-5. These newer variants boast operating ranges extending from 450 up to 1,000 kilometers, combining higher speeds with greater survivability against air defense networks. At the same time, Moscow is pushing these launch points deeper into western Russia to shield its hardware from Ukrainian counter-strikes while preparing for potential satellite-guided precision upgrades.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
     <p>Yet, this outward expansion is already bleeding past intended borders. On August 17, a suspected Russian Banderol loitering munition crashed and detonated in a corn field in Talmaza, Moldova, roughly 20 kilometers from the Ukrainian border. This incident followed a troubling UN report confirming that July 2026 brought record-high monthly civilian casualties in Ukraine, driven heavily by an intensified wave of missile and drone salvos.</p>
@@ -115,25 +112,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

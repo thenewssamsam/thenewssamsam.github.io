@@ -38,10 +38,7 @@ source_url: 'https://www.foxbusiness.com/economy/nearly-1m-chrysler-jeep-dodge-r
 <section id="what-happened">
 <h2>What Happened in the Stellantis Recall?</h2>
 <p>On Monday, parent company Stellantis issued a recall covering approximately 955,000 vehicles globally. The core issue is a radio software bug that may prevent the rearview camera image from displaying properly when drivers shift into reverse. According to the company, the affected pool includes more than 848,000 vehicles in the United States, alongside roughly 107,000 across Canada, Mexico, and international markets.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>The sheer breadth of the campaign is staggering. The recall sweep pulls in various 2026 and 2027 model-year vehicles, including the Chrysler Pacifica, Pacifica Plug-in Hybrid, and Voyager, the Dodge Charger, a wide array of Jeep models (Cherokee, Compass, Gladiator, Grand Cherokee, Grand Wagoneer, and Wrangler), and heavy-hitters like the Ram 1500, 2500, and ProMaster commercial vans.</p>
 <p>For drivers caught in the sweep, the immediate instruction is back to basics: use traditional rearview and side mirrors when reversing. Fortunately, unlike mechanical failures requiring physical part replacements, Stellantis plans to deploy an over-the-air (OTA) software update directly to vehicle media screens, supplementing mailed notices set to arrive next month.</p>
@@ -109,25 +106,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

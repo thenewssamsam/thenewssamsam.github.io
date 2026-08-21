@@ -32,10 +32,7 @@ source_url: "https://www.post-gazette.com/news/education/2026/08/17/drug-hazing-
 <p>As students prepare to return for the 2026-27 academic year, Penn State University finds itself confronting a familiar and troubling headline: fresh drug and hazing charges leveled against campus fraternities. While investigations unfold and university officials grapple with the immediate fallout, the recurring nature of these incidents raises an uncomfortable question that goes deeper than campus police reports or disciplinary hearings. Why do bright, capable young adults repeatedly step into rituals that involve severe physical risk, humiliation, and criminal activity?</p>
 
 <p>To understand how otherwise sensible individuals participate in destructive group behavior, we have to look past simple malice and examine the subtle, powerful psychological forces at play when bright young minds enter the high-stakes ecosystem of college Greek life.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <h2 id="what-happened">What Happened at Penn State</h2>
@@ -110,25 +107,3 @@ Source: <a href="https://www.post-gazette.com/news/education/2026/08/17/drug-haz
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

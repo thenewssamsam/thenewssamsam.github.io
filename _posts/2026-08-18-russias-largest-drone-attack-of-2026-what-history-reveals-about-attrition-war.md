@@ -23,10 +23,7 @@ source_url: 'https://www.bbc.com/news/articles/c1411pgje8xo'
   <p>The aerial war between Russia and Ukraine crossed a new threshold over the weekend as officials in Moscow reported what they termed the largest-scale Ukrainian drone attack of the year. With some 822 drones launched—including roughly 600 targeting the Russian capital—the strike crippled major logistics hubs, including a key warehouse belonging to the online retailer Wildberries. On both sides of the border, the human toll mounted simultaneously, with retaliatory Russian strikes killing civilians in Kyiv, Zaporizhzhia, and Kryvyi Rih. As the ground war settles into grinding, marginal gains, the conflict has decisively transformed into an exchange of long-range steel and fire.</p>
 
   <p>To understand what this escalation means, we have to look past the immediate tactical headlines and examine the deeper structural dynamics of modern attritional warfare.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -94,29 +91,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

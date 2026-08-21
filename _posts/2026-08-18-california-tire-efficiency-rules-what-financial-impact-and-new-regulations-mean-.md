@@ -38,10 +38,7 @@ source_url: ''
     <h2>What Happened: The New California Tire Mandate</h2>
     <p>In a unanimous vote on Monday, the California Energy Commission (CEC) adopted unprecedented new rules that establish strict rolling-resistance standards for replacement tires. Stemming from a nearly forgotten 2003 legislative directive (AB 844), California has officially become the first state in the nation to regulate replacement tire efficiency.</p>
     <p>Rolling resistance measures how much energy a tire expends as it rolls down the pavement. Lower rolling resistance translates directly to better fuel economy for gas-powered vehicles and extended driving range for electric vehicles (EVs). While brand-new cars typically roll off dealership lots equipped with highly efficient low-resistance tires, consumers historically replace worn tires with aftermarket options that prioritize grip, tread life, or lower upfront price tags regardless of rolling resistance.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>Under the newly adopted framework, the CEC will implement standards across two distinct phases:</p>
     <ul>
@@ -117,25 +114,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

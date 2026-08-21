@@ -39,10 +39,7 @@ When a fragile 60-day ceasefire between Washington and Tehran officially expired
 <p>The expiration of the 60-day interim agreement marked a hard collision between diplomacy and entrenched hostility. In the Oval Office, President Trump made the administration's red lines unequivocal: Iran cannot and will not be permitted to develop a nuclear weapon, pointing to past military actions as proof of American resolve. Simultaneously, international benchmark Brent crude rose 2.7% to  a barrel, and West Texas Intermediate climbed 2.6% to  as traders digested the breakdown in talks.</p>
 
 <p>The tension quickly expanded beyond bilateral friction. Iranian military officials warned that while the Strait of Hormuz remains technically open, safe passage is far from guaranteed, using vivid imagery of potential damage to vessel hulls. Meanwhile, diplomatic ripples touched regional partners like Turkey—where President Recep Tayyip Erdogan emphasized the urgency of renewed dialogue during a call with Trump—while friction emerged over allied contributions, with Trump publicly questioning the support of nations like South Korea and Oman.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <p>In parallel, special envoy Jared Kushner engaged in high-stakes regional diplomacy in Tel Aviv and Cairo, reporting cautious progress on Gaza demilitarization talks while emphasizing that any lasting arrangement with Hamas must be proven through concrete actions rather than diplomatic promises.</p>
@@ -113,25 +110,3 @@ Source: <a href="https://www.foxnews.com/live-news/us-iran-war-news-trump-israel
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

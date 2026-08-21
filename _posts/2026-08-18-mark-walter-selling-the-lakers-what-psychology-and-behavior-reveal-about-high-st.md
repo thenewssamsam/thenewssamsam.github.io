@@ -21,10 +21,7 @@ source_url: ''
 
 <h2 id="what-happened">What Happened Behind the Scenes</h2>
 <p>According to reports by the <em>Wall Street Journal</em> and Bloomberg, federal prosecutors and the Securities and Exchange Commission are actively investigating whether insurers controlled by Walter improperly funneled billions in loans to related firms through four intermediary companies. While corporate lending between affiliated entities is legal under specific disclosure rules, federal investigators are probing whether those ties were adequately reported to protect policyholders.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>To navigate this liquidity crunch and restructure scrutinized loans, Walter took a drastic step: offloading the Lakers just a year after acquiring the franchise, selling it to a group led by Josh Kushner and former Disney CEO Bob Iger. The  billion transaction netted Walter a rapid 20% gain in roughly two years, injecting quick capital into his private holding company, TWG Global, even as he offered his Guggenheim Partners stake as additional collateral.</p>
 
@@ -60,25 +57,3 @@ Seagate Portable External Hard Drive
 <p>Source: <a href="https://www.forbes.com/sites/tylerroush/2026/08/17/why-mark-walter-facing-federal-scrutiny-and-trump-conspiracy-theories-may-have-sold-the-lakers/" target="_blank" rel="noopener noreferrer">Original News Report</a></p>
 </footer>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

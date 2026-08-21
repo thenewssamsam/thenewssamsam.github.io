@@ -33,10 +33,7 @@ source_url: 'https://thewaltdisneycompany.com/news/d23-2026-disney-legends-award
 <h2>What Happened at the 2026 Disney Legends Ceremony?</h2>
 <p>The Anaheim Convention Center recently played host to the grand finale of the largest D23 event in history. Hosted by Ryan Seacrest and opened by Disney CEO Josh D’Amaro, the 2026 Disney Legends Awards Ceremony inducted eleven towering figures from film, television, sports, and theme park design.</p>
 <p>The prestigious 2026 class features a remarkably diverse lineup of talent: Chris Berman, Jerry Bruckheimer, Susan Egan, Eric Goldberg, Anne Hathaway, company leader Bob Iger, Kim Irvine, Dwayne Johnson, the Jonas Brothers, Lin-Manuel Miranda, and Alan Tudyk. Each honoree received a tribute featuring surprise guest appearances, musical medleys, and emotional career retrospectives. From Lin-Manuel Miranda performing beloved hits from <em>Moana</em> and <em>Encanto</em> to Bob Iger receiving accolades from industry icons like Harrison Ford and Robert Downey Jr., the afternoon was designed to celebrate the human creators behind decades of childhood memories.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -97,29 +94,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

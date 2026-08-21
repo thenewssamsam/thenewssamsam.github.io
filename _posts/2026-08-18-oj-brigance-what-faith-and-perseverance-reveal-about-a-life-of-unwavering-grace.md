@@ -36,10 +36,7 @@ source_url: 'https://www.wbaltv.com/article/oj-brigance-dies-baltimore-ravens-al
     <h2>What Happened</h2>
     <p>On Monday, the Baltimore Ravens announced the passing of Orenthial James Brigance at the age of 56. To casual sports fans, Brigance was known as a tenacious special teams ace who made the very first tackle of Super Bowl XXXV, helping seal a 34-7 victory over the New York Giants. To football historians, he remains the only player to capture both a Canadian Football League Grey Cup and an NFL Super Bowl title for a team based in the same city—Baltimore.</p>
     <p>Yet to everyone inside the Ravens organization and the broader Baltimore community, Brigance was something far greater. Diagnosed with amyotrophic lateral sclerosis (ALS)—commonly known as Lou Gehrig's disease—in 2007, he was given a prognosis of just a few years. Instead, he defied medical expectations for nearly two decades. Operating from a wheelchair and communicating through a specialized device, Brigance continued his daily work as senior adviser for player engagement, counseling young athletes and serving as a spiritual and emotional anchor for the franchise.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   </section>
 
@@ -116,25 +113,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

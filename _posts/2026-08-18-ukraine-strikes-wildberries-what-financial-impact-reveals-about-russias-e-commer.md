@@ -36,10 +36,7 @@ source_url: 'https://www.dw.com/en/ukraine-attacks-wildberries-russias-biggest-o
     <h2>What Happened: The Campaign Against Wildberries Warehouses</h2>
     <p>Over the past few weeks, about 20 logistics hubs belonging to Wildberries—often described as Russia's answer to Amazon—have come under near-daily attack. A recent overnight strike in Podolsk followed attacks on warehouses in Tver and Salavat. While Russian air defenses intercept many of the incoming drones, the sheer physical scale of these facilities makes them vulnerable targets.</p>
     <p>Spanning the size of dozens of soccer fields, these massive fulfillment centers are critical to keeping consumer goods moving across a vast nation. The human toll has also mounted, with at least nine employees confirmed dead, scores injured, and several major storehouses forced to halt operations entirely.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -112,29 +109,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

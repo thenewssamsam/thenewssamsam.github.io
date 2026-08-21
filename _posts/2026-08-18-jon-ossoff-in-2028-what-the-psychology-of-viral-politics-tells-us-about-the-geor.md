@@ -38,10 +38,7 @@ source_url: 'https://www.usatoday.com/story/news/state/georgia/2026/08/17/no-oss
     <h2>What Happened: The 2028 Speculation Meets a Firm Denial</h2>
     <p>Jon Ossoff has a simple message for anyone asking about a White House run in 2028: he is not doing it. He is focused entirely on his current reelection battle in Georgia against Republican Representative Mike Collins, weathering personal attacks from President Donald Trump, and managing the day-to-day legislative grind of his first term.</p>
     <p>Yet, despite his repeated denials, the national conversation keeps pulling him upward. A recent Emerson College poll placed Ossoff at 13 percent in a hypothetical 2028 Democratic primary field, putting him right behind heavyweights like Pete Buttigieg and Gavin Newsom. Meanwhile, short clips of his committee questioning and campaign speeches are racking up millions of views on TikTok and other platforms, prompting viral commentary from users wondering if he is eyeing higher office.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>This dynamic—between a politician’s stated intentions and the public's eagerness to project ambitions onto them—offers a compelling window into how modern political attention operates.</p>
   </section>
@@ -127,25 +124,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

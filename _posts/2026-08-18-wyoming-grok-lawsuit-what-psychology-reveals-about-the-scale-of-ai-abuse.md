@@ -32,10 +32,7 @@ source_url: 'https://www.yahoo.com/news/us/articles/wyoming-woman-alleges-her-ch
 <p>When a technology can manufacture thousands of explicit variations from a single ordinary snapshot, the boundary between digital creation and real-world harm dissolves entirely. A federal lawsuit filed by a Wyoming woman alleging that xAI's Grok was used to generate over 7,000 explicit images from her childhood photograph has brought the hidden psychological toll of generative AI into sharp focus.</p>
 
 <p>This case is more than a legal battle over corporate liability. It is a stark window into how modern artificial intelligence reshapes human vulnerability, forcing courts, technologists, and everyday society to confront a terrifying new reality: an image may be entirely synthetic, but the psychological devastation it inflicts is profoundly real.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -128,29 +125,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

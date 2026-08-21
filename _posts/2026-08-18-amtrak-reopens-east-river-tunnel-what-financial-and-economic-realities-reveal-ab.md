@@ -23,10 +23,7 @@ source_url: 'https://abc7ny.com/post/amtrak-reopens-east-river-tunnel-line-damag
 <h2 id="what-happened">What Happened: A Century-Old Transit Link Reborn</h2>
 
 <p>Amtrak marked the reopening of Line 2 with a celebration at Penn Station, highlighting the completion of a grueling yearlong overhaul. Built in 1910, the 116-year-old tunnel system serves as a vital artery for the Northeast Corridor, carrying more than 450 Amtrak, Long Island Rail Road (LIRR), and NJ Transit trains daily between Manhattan, Queens, and points north and south.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <p>The rehabilitation project required stripping the three-mile tunnel down to its bare concrete liner. Crews completely replaced tracks, drainage systems, power supplies, communications lines, and life-safety infrastructure. Senator Chuck Schumer, who helped secure the  billion federal funding package, noted that the tunnel had been choked with 14 million gallons of corrosive salt water during the 2012 storm.</p>
@@ -95,27 +92,7 @@ Seagate Portable External Hard Drive
 </script>
 </article>
 
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>
+
 
 
 <section class="related-articles">

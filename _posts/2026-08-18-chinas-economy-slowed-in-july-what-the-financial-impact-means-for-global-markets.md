@@ -170,10 +170,7 @@ source_url: 'https://www.wsj.com/economy/chinas-economic-activity-weakened-in-ju
 <h2 id="what-happened">What Happened in July?</h2>
 
 <p>The latest economic indicators point to broad-based cooling across several vital sectors of the Chinese economy. Rather than a single isolated hiccup, the July data highlights persistent structural headwinds that have dogged Beijing's policymakers for months.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <p>According to official reports, retail sales crawled upward by just 0.6% in July compared to the same month last year. That represents a noticeable deceleration from the 1% year-over-year growth recorded in June, signaling that domestic consumers remain deeply cautious about opening their wallets.</p>
@@ -259,25 +256,3 @@ Seagate Portable External Hard Drive
 </script>
 </div>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

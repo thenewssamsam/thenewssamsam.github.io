@@ -34,10 +34,7 @@ source_url: 'https://www.sfgate.com/food/article/eataly-health-inspection-223903
   <p>For diners who view upscale food halls as sanctuaries of culinary craftsmanship, a sudden health department closure can come as a jarring surprise. Last Friday, a routine visit from a Santa Clara County Department of Environmental Health inspector led to the immediate shutdown of Terra, a sit-down restaurant located inside the Silicon Valley Eataly on Stevens Creek Blvd in San Jose.</p>
   
   <p>According to the official inspection report, the inspector discovered a live cockroach crawling on the wall above a kitchen hand-wash sink. Because vermin present an immediate contamination risk, health authorities ordered the restaurant to close its doors on the spot.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -112,29 +109,3 @@ Seagate Portable External Hard Drive
 .ncg-source-box { margin-top: 1.5rem; font-size: 0.9rem; color: #666; }
 </style>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

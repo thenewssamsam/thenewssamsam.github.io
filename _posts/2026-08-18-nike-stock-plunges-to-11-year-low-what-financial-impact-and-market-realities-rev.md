@@ -32,10 +32,7 @@ source_url: 'https://ca.finance.yahoo.com/news/nike-shares-hit-11-low-174500075.
 <section id="what-happened">
 <h2>What Happened: The 11-Year Low</h2>
 <p>When a corporate giant like Nike hits an 11-year low, Wall Street takes notice. Shares fell to levels not seen in over a decade following a fresh analyst downgrade and persistent weakness in direct-to-consumer (DTC) channels. UBS analysts released data pointing to muted revenue projections for upcoming quarters as the brand works through a complex, multi-year strategic reset.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>The core issue is not a sudden, overnight disaster. Instead, it is the compounding effect of miscalculated retail shifts, slowing innovation cycles, and a consumer base that has increasingly gravitated toward competing footwear brands. The market had been pricing in a swift, smooth turnaround, but recent operational updates suggest the road to recovery is far steeper than anticipated.</p>
 </section>
@@ -99,25 +96,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

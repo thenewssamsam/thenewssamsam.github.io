@@ -35,10 +35,7 @@ source_url: 'https://www.cbsnews.com/news/mount-etna-erupting-american-tourist-k
 <p>The 30-year-old hiker was struck and killed by a bolt of lightning on Sunday evening as an intense thunderstorm swept across Europe's tallest active volcano. According to reports from Italian news agency ANSA and local authorities, emergency responders reached the man via helicopter around 8 p.m., finding him in cardiac arrest. Despite airlift efforts to Cannizzaro Hospital in Catania, doctors were unable to revive him. The tragedy occurred on a day that also claimed the life of an Italian hiker in the Alps, marking a grim weekend for alpine safety in Italy.</p>
 
 <p>Yet behind the immediate shock of the breaking news lies a quieter, more unsettling question that repeats itself every time a traveler bypasses a warning sign: Why do intelligent, rational people consistently underestimate sudden, catastrophic risk in extreme environments?</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -106,29 +103,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

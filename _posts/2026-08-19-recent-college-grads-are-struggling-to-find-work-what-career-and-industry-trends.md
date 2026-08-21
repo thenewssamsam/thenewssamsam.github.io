@@ -23,10 +23,7 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduat
   <p>For 21-year-old Irene Chang, the entry-level job search has turned into an exhausting marathon. An industrial and systems engineering graduate from Georgia Tech, Chang began sending out applications a year before collecting her diploma. Despite firing off roughly 450 resumes and landing about 19 interviews, she has yet to secure a single job offer. Jacqueline Kline, a 25-year-old Florida State University communications master's graduate, shares a similar story after submitting over 500 applications since December.</p>
 
   <p>When young professionals put in relentless effort—networking, earning advanced degrees, and completing multiple internships—only to face constant rejection, the frustration is entirely understandable. Naturally, many point the finger at the most visible technological shift of our era: artificial intelligence. But according to labor economists studying the data, the truth behind today's tough entry-level market goes far beyond simple tech displacement.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
   <div class="ncg-quick-take">
@@ -111,25 +108,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -68,10 +68,7 @@ source_url: 'https://ny1.com/nyc/all-boroughs/news/2026/08/17/one-of-two-amtrak-
 <h2 id="what-happened">What Happened: The East River Tube Reopens</h2>
 <p>After more than a year of intensive rehabilitation, one of the two Amtrak East River tubes heavily damaged during Hurricane Sandy in 2012 has finally reopened. The 116-year-old tube is a critical artery making up part of the East River Tunnel, utilized heavily by Long Island Rail Road (LIRR) and New Jersey Transit passengers traveling into Manhattan's Penn Station.</p>
 <p>The overhaul was far from superficial. According to Amtrak officials, work required completely stripping the tube down to its bare shell. Crews removed tracks, third-rail power systems, 24,000 feet of rail, 8,000 tons of ballast, and 8,000 wooden ties. The newly reopened tube now boasts modern power and communication networks, fresh tracks, code-compliant bench walls, and sturdy concrete floors designed to withstand future weather events.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>Yet, celebrations in New York are notably muted. While Amtrak hails the completion as a major milestone, a second tube is scheduled to shut down in the fall to undergo the exact same grueling rehabilitation process. For regional transit leaders, the relief of today is immediately tempered by the looming disruption of tomorrow.</p>
 
@@ -148,25 +145,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

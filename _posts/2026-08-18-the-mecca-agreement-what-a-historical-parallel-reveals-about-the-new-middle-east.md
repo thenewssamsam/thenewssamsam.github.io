@@ -18,10 +18,7 @@ source_url: 'https://www.i24news.tv/en/news/international/artc-this-is-big-trump
   <p>When Donald Trump took to social media to declare that the newly forged <a href="https://www.i24news.tv/en/news/international/artc-this-is-big-trump-praises-mecca-agreement-between-saudi-arabia-turkey-and-pakistan-live-blog" target="_blank" rel="noopener noreferrer">Mecca Agreement</a> between Saudi Arabia, Turkey, and Pakistan is "big, bold, and important," international observers immediately took notice. Described by Turkish President Recep Tayyip Erdogan as operating much like NATO's Article 5—where an attack on one is treated as an attack on all—this trilateral security pact reshapes diplomatic alignments across the region against a backdrop of escalating tensions involving Iran and regional peace plans.</p>
 
   <p>For anyone trying to make sense of shifting alliances in the Middle East and South Asia, this moment feels simultaneously unprecedented and strangely familiar. History rarely repeats itself word for word, but it often rhymes. To understand why this agreement matters right now, we have to look past the immediate headlines and examine how past security pacts have reshaped global stability.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -103,29 +100,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

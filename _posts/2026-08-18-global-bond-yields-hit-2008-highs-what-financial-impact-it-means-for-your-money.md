@@ -37,10 +37,7 @@ source_url: 'https://www.theguardian.com/business/2026/aug/17/government-borrowi
     <h2>What Happened in the Global Bond Markets?</h2>
     <p>Financial markets experienced a jolt as government borrowing costs in several major advanced economies climbed to multi-decade peaks. Investors are growing increasingly anxious that geopolitical conflict in the Middle East will keep energy prices elevated, driving consumer inflation higher and forcing central banks to maintain or even escalate high interest rates.</p>
     <p>The numbers underscore the scale of the shift:</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <ul>
       <li><strong>France:</strong> The 30-year bond yield climbed to 4.8558%, its highest mark since September 2008, while 10-year yields hit June 2009 highs at 4.0516%.</li>
@@ -109,25 +106,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

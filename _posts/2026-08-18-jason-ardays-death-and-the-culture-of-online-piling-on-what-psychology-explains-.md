@@ -24,10 +24,7 @@ source_url: 'https://www.aljazeera.com/opinions/2026/8/17/jason-ardays-death-is-
   <h2 id="what-happened">What Happened to Professor Jason Arday?</h2>
   <p>On August 14, 2026, Professor Jason Arday—noted as the youngest Black scholar ever appointed to a professorship at Cambridge University—was found unresponsive at his home. Just over a week prior, the 41-year-old academic had resigned from his position following a fierce, weeks-long public campaign targeting his scholarship and professional background.</p>
   <p>The controversy erupted across mainstream media outlets and social platforms, where commentators dissected his past lectures, writing style, and academic credentials. While misconduct investigations in higher education are typically handled through institutional channels and internal reviews, Arday’s case exploded into a public spectacle. Accusations of plagiarism were amplified across the internet through isolated clip economies, turning a complex academic dispute into a viral crusade. Amid mounting pressure, intense scrutiny, and public hostility, Arday stepped down from his post, culminating in his tragic passing shortly thereafter.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -83,29 +80,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

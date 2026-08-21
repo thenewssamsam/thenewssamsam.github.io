@@ -139,10 +139,7 @@ source_url: 'https://www.politico.eu/article/andy-burnham-messages-impersonator-
 <p>According to reports breaking from political circles, U.K. Prime Minister Andy Burnham engaged in a brief exchange of messages with an individual who successfully impersonated Susie Wiles, one of Donald Trump's closest and most influential advisers. Officials noted that the communication occurred shortly after Burnham entered No. 10 Downing Street.</p>
 
 <p>The text conversation reportedly involved only a "few messages" before the Prime Minister's team grew suspicious of the contact's legitimacy and cut off the interaction. Downing Street officials have declined to comment extensively on national security particulars, though sources close to the situation maintain that the messages exchanged were "of no significance." Still, the incident serves as an uncomfortable reminder of the modern digital vulnerabilities facing global leaders.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -202,29 +199,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

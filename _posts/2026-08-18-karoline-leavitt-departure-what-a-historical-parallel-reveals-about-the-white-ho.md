@@ -39,10 +39,7 @@ source_url: 'https://www.cnn.com/2026/08/17/politics/karoline-leavitt-replacemen
 <section id="what-happened">
 <h2>What Happened: The Impending Vacancy</h2>
 <p>According to reports from CNN and Semafor, President Trump is weighing a tentative plan to rely on a rotating group of Cabinet officials to handle press briefings for an indefinite period following Leavitt’s departure. Sources indicate that Trump is in the earliest stages of deciding on a replacement, expressing zero urgency and noting that he "genuinely doesn’t know who to pick."</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>Despite the president's unhurried stance, Washington insiders and external advocates have been actively pushing preferred candidates. Names floated for the post include former acting U.S. Attorney Alina Habba, former George W. Bush aide Scott Jennings, White House principal deputy press secretary Anna Kelly, and former Homeland Security spokeswoman Tricia McLaughlin. At the same time, some potential contenders have privately voiced hesitation, describing the demanding role as a "thankless job" where a successor would constantly be measured against Leavitt’s tenure.</p>
 <p>The broader question, however, is whether a traditional daily press briefing schedule is even necessary in an era where the president frequently serves as his own primary communicator via direct digital channels and phone interviews.</p>
@@ -102,25 +99,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

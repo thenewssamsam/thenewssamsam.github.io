@@ -21,10 +21,7 @@ source_url: "https://www.cnn.com/2026/08/18/politics/florida-alaska-wyoming-prim
 <h2 id="what-happened">What Happened in the 2026 Primary Contests?</h2>
 
 <p>Tuesday's primary slate covers several critical battlegrounds, headlined by Florida. On the Republican side of the gubernatorial race, Naples-area Rep. Byron Donalds—backed by President Donald Trump—has emerged as the favorite. However, the race has been marked by notable friction, including a lack of an endorsement from outgoing Gov. Ron DeSantis and provocative rhetoric from primary challenger James Fishback. Meanwhile, Florida Democrats are looking for signs of revival in statewide contests, pitting figures like retired Army Lt. Col. Alex Vindman and state Rep. Angie Nixon against each other in a primary to challenge Republican Sen. Ashley Moody.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 <p>Beyond the executive office, Florida features a flurry of turbulent House primaries. Rep. Cory Mills faces ethics investigations and primary challengers, while Rep. Randy Fine navigates a deeply contentious matchup. In California, a special election runoff to replace former Rep. Eric Swalwell pits state Sen. Aisha Wahab against BART Board President Melissa Hernandez, drawing millions in outside spending from groups like AIPAC. Up north, Alaska brings its distinctive ranked-choice or open primary dynamics back into focus as former Rep. Mary Peltola seeks to challenge Republican Sen. Dan Sullivan, while Wyoming continues its own cycle of political realignment. These races collectively illustrate a shifting electoral map where national trends collide with deeply localized political friction.</p>
@@ -85,25 +82,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

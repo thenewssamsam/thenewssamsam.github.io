@@ -36,10 +36,7 @@ source_url: ''
     <h2>What Happened: The  Billion Bond Motion</h2>
     <p>Corporate acquisitions of this scale are rarely simple, but the legal battle between Paramount and a coalition of 12 state attorneys general—alongside the Writers Guild of America—has escalated into an extraordinary financial confrontation.</p>
     <p>Paramount filed a court motion asking U.S. District Judge Araceli Martinez-Olguín to require the state plaintiffs and the union to post a staggering  billion bond. The rationale? If the company ultimately prevails in court against the antitrust lawsuit, it wants guaranteed financial compensation for unrecoverable losses incurred while the deal is stalled.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>State officials have pushed back aggressively. California Attorney General Rob Bonta dismissed the move in media interviews as a sign of corporate desperation, pointing out that the court previously waived bond requirements because the states are enforcing legitimate public interests.</p>
   </section>
@@ -111,25 +108,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

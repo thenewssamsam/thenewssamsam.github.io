@@ -24,10 +24,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/17/white-house-persona
   <section id="what-happened">
     <h2>The Anatomy of the Confrontation</h2>
     <p>The conflict began during an Oval Office exchange where CNN correspondent Kristen Holmes asked President Trump to respond to comments made by Senator Jon Ossoff. The senator had criticized the president’s focus on his personal staff and travel arrangements. Instead of addressing the policy or political critique, the president dismissed the reporter as "disrespectful" and "fake news."</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>Following the exchange, the White House social media accounts escalated the situation by tagging Holmes directly, labeling her an "embarrassment," and suggesting that her own children would one day be "sickened" by her line of questioning. CNN has since defended Holmes, characterizing the incident as an attack on the principles of a free press.</p>
   </section>
@@ -63,25 +60,3 @@ Seagate Portable External Hard Drive
     <p>Source: <a href="https://www.theguardian.com/us-news/2026/aug/17/white-house-personal-attack-cnn-reporter-trump" target="_blank" rel="noopener noreferrer">Original News Report</a></p>
   </section>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

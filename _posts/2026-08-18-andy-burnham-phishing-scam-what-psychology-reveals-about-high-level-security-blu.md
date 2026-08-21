@@ -35,10 +35,7 @@ source_url: ''
     <h2>What Happened: The Scam and the Leak</h2>
     <p>Security protocols across Westminster are facing sharp scrutiny after a wave of digital breaches exposed senior government officials. Andy Burnham, the mayor of Greater Manchester, found himself exchanging messages with an unknown individual posing as Susie Wiles, Donald Trump's White House chief of staff. While officials report that no sensitive government secrets were compromised and the incident was reported quickly, the fallout did not stop there.</p>
     <p>Shortly after the impersonation attempt came to light, investigative reporting revealed that the personal mobile phone numbers of at least three UK cabinet ministers—Defence Secretary Wes Streeting, Justice Secretary Alex Norris, and Northern Ireland Secretary Chris Bryant—were published online alongside their names. Although steps were swiftly taken to scrub the data, the sequence of events highlights how easily digital social engineering can intersect with physical information leaks.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>This incident does not happen in a vacuum. It mirrors a broader global trend of high-profile political figures being targeted by sophisticated phone scams, data brokers selling contact details, and messaging app security lapses.</p>
   </section>
@@ -95,25 +92,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

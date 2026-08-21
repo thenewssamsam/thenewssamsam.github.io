@@ -21,10 +21,7 @@ source_url: 'https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-5
 <p>Wall Street kicked off the week on a defensive note as major U.S. stock indexes closed lower across the board, weighed down by a toxic mix of rising oil prices, surging bond yields, and lingering consumer spending jitters. The blue-chip Dow Jones Industrial Average, the benchmark S&P 500, and the tech-heavy Nasdaq Composite all finished Monday down roughly 0.3% to 0.5%, reflecting a broader market reassessment of economic risk.</p>
 
 <p>For everyday investors and households trying to make sense of shifting portfolios, headline drops can easily trigger anxiety. But looking past the daily ticker tape reveals a very specific set of financial mechanics driving the movement—from shipping chokepoints in the Middle East to multi-decade highs in government borrowing costs. Here is a clear-cut look at what is happening beneath the surface and what it means for your broader financial picture.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 </section>
 
@@ -102,25 +99,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

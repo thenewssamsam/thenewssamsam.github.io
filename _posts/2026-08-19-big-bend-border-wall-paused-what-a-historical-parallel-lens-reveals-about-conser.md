@@ -37,10 +37,7 @@ source_url: "https://www.axios.com/2026/08/17/trump-big-bend-border-wall-constru
 
 <h2 id="what-happened">What Happened at Big Bend National Park?</h2>
 <p>According to reports from Axios and announcements shared by officials on Monday, the Trump administration has temporarily halted all border wall construction activity within Big Bend National Park. The pause was instituted by CBP Commissioner Rodney Scott ahead of a planned personal visit to evaluate the site firsthand, listen to local law enforcement, and engage with regional stakeholders. Scott noted in a video update posted to social media that more information will follow later this week.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>The swift expansion of the border wall has been a cornerstone of the administration's broader push to curb unauthorized border crossings from Mexico. Earlier this year, then-Homeland Security Secretary Kristi Noem executed at least 28 environmental and cultural preservation waivers designed to fast-track construction, while federal authorities have pursued land access agreements and potential property seizures where necessary. Yet, Big Bend presents a unique geographic and political dilemma. Encompassing roughly 517 miles of the Southern border along the Rio Grande, the rugged and isolated terrain of the Big Bend region actually accounts for only a tiny fraction of total border crossings.</p>
 
@@ -98,25 +95,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

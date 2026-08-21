@@ -36,10 +36,7 @@ source_url: 'https://www.foxbusiness.com/technology/meta-heads-trial-over-allege
 <h2 id="what-happened">What Happened in the Courtroom</h2>
 <p>The legal battle lines are drawn in Oakland, California, where a high-stakes trial opened in the U.S. District Court for the Northern District of California before Judge Yvonne Gonzalez Rogers. Brought by state attorneys general from California, Colorado, Kentucky, and New Jersey, the lawsuit alleges that Meta purposefully designed its flagship platforms—Facebook and Instagram—to be addictive for young users while downplaying the associated mental health risks.</p>
 <p>The proceedings follow a multi-year investigation and a denied motion by Meta to dismiss the case. Over the next four to six weeks, an advisory jury will listen to arguments, review internal corporate documents, and hear testimony expected to include Meta CEO Mark Zuckerberg. The trial represents a focal point in a broader wave of litigation from school districts, families, and state governments seeking accountability over the mental health impacts of modern digital architecture on children and teens.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 <h2 id="the-stakes">The Stakes and the Defense</h2>
@@ -107,25 +104,3 @@ Tactical Waterproof Backpack
 <p>Source: <a href="https://www.foxbusiness.com/technology/meta-heads-trial-over-alleged-social-media-addiction-risks-children" target="_blank" rel="noopener noreferrer">Original News Report</a></p>
 </footer>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

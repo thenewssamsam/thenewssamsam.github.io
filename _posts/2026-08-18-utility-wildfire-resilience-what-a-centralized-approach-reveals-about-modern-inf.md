@@ -20,10 +20,7 @@ source_url: 'https://www.indexbox.io/blog/redefining-utility-reliability-and-res
 
   <h2 id="what-happened">What Happened: Shifting From Committees to Centralized Control</h2>
   <p>The conversation around grid reliability is taking center stage as energy executives prepare for upcoming industry events like the DTECH Reliability & Resiliency conference. Mona Fazel, drawing on more than two decades of enterprise energy and utility experience, is set to present a blueprint titled <em>Designing an Integrated, Centralized Wildfire Management Organization: Governance, Delivery, and Continuous Improvement</em>.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
   <p>For years, utility providers relied on temporary, cross-functional committees to tackle seasonal wildfire threats. Fazel argues that these ad-hoc task forces are no longer enough. Modern grid conditions—driven by climate volatility, rapid electrification, and heightened public scrutiny—demand a permanent, centralized operational model anchored in clear accountability, direct decision authority, and rigorous performance monitoring.</p>
@@ -83,25 +80,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

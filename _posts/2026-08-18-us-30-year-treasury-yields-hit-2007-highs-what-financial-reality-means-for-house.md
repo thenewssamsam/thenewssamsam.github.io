@@ -115,10 +115,7 @@ source_url: 'https://finance.yahoo.com/markets/currencies/articles/us-bond-sello
 
 <h2 id="what-happened">What Happened in the Bond Market?</h2>
 <p>According to recent financial reports, the rate on the benchmark 30-year US Treasury bond—often called the "long bond"—ticked up three basis points to 5.29 percent. This move extends a bruising selloff that forced the US Treasury to auction  billion in new 30-year bonds at a yield of 5.216 percent, the highest financing cost for such a sale since 2001. Just a day prior, the 10-year Treasury auction drew its highest financing costs since 2007.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>What makes this surge particularly notable is that it is happening despite other economic indicators cooling off. Recent data shows subdued underlying inflation, job cuts in the July employment report, and the steepest drop in US retail sales in over a year. Ordinarily, such cooling data would relieve pressure on interest rates. Instead, bond investors are fleeing long-term debt, driving yields up because prices move inversely to yields.</p>
 
@@ -169,25 +166,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

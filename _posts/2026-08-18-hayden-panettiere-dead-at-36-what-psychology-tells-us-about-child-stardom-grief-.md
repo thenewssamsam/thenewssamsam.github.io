@@ -100,10 +100,7 @@ source_url: 'https://www.nbcnews.com/pop-culture/pop-culture-news/actor-hayden-p
     <h2>What Happened</h2>
     <p>Actor Hayden Panettiere, widely recognized for her breakout television roles as Claire Bennet in NBC’s <em>Heroes</em> and Juliette Barnes in ABC’s <em>Nashville</em>, has died at the age of 36. Her father, Skip Panettiere, confirmed her passing in a statement on Sunday night.</p>
     <p>According to the Greenville County Coroner’s Office, authorities received a 911 call reporting a cardiac arrest at an apartment complex where Panettiere was temporarily staying. Resuscitation efforts were unsuccessful, and she was pronounced dead at 2:32 p.m. An autopsy completed Monday revealed no signs of trauma contributing to the death, and police confirmed the preliminary investigation showed no indications of foul play. The formal cause of death remains pending further investigation.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -157,29 +154,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

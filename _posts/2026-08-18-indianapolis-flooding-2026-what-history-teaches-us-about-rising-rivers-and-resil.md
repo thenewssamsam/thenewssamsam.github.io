@@ -36,10 +36,7 @@ source_url: 'https://www.indystar.com/story/weather/indianapolis/2026/08/16/live
 <h2>What Happened: Historic Waters in Central Indiana</h2>
 <p>When the White River crested above 24 feet in Hamilton County this August, it did more than just break a century-old record—it caught thousands of residents off guard and brought back hard lessons about living alongside major waterways. Following days of torrential rainfall across central Indiana, at least seven storm-related deaths and extensive property damage have transformed local neighborhoods into cleanup zones.</p>
 <p>In communities like Rocky Ripple and Riverwood near Noblesville, the water reached well past knees and threatened historic homes that have stood for generations. While flood gates at 52nd Street have begun to reopen and the immediate emergency has shifted into cleanup mode, the National Weather Service warns that more severe weather and potential flash floods remain a threat.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -97,29 +94,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

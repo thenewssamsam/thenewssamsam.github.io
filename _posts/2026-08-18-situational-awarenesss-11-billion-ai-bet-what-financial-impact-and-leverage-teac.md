@@ -33,10 +33,7 @@ source_url: 'https://247wallst.com/investing/2026/08/17/situational-awareness-13
   <section id="what-happened">
     <h2>What Happened: The Anatomy of a Rapid Unraveling</h2>
     <p>To understand how a multi-billion-dollar fund saw its primary positions buckle in less than thirty days, we have to examine the snapshot captured on June 30, 2026. At the height of the mid-2026 AI infrastructure boom, Situational Awareness had concentrated vast amounts of capital into foundational hardware providers.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>At the center of the portfolio were SanDisk and Micron Technology. Both companies had posted staggering metrics earlier in the year. SanDisk reported Q4 FY2026 datacenter revenue scaling to nearly  billion, backed by 10 New Business Model agreements representing  billion in minimum revenue commitments. Similarly, Micron announced record financial health, including Q3 FY26 revenue of  billion, an 84.9% gross margin, and  billion in cumulative minimum-price commitments driven by massive datacenter demand.</p>
     <p>Yet, fundamental strength in corporate backlog did not insulate equity prices from rapid shifts in market sentiment. Between June 30 and July 29, SanDisk shares plummeted 55.32% (from ,273.73 to ,015.89), while Micron shares dropped 35.97% (from ,154.11 to ). Other public holdings like Bloom Energy and Taiwan Semiconductor Manufacturing experienced steep pullbacks of 45.9% and 21.55%, respectively, while the broader S&amp;P 500 slipped just 2.32%. The carnage was uniquely localized to the fund's highest-conviction holdings.</p>
@@ -91,25 +88,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

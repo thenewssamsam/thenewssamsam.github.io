@@ -35,10 +35,7 @@ source_url: 'https://fortune.com/2026/08/16/berkshire-hathaway-homebuilder-lenna
 <h2>What Happened: The Q2 Portfolio Shift</h2>
 <p>When Berkshire Hathaway adjusts its equity portfolio, Wall Street pays attention. The conglomerate's latest regulatory filing reveals a striking reallocation of capital under CEO Greg Abel, who took the helm at the start of the year while Warren Buffett remains chairman. During the April-June quarter, Berkshire dramatically doubled down on its tech ambitions with Alphabet, aggressively expanded its footprint in the U.S. homebuilding sector, and continued pulling back from traditional banking and consumer staples.</p>
 <p>The headline-grabber is Berkshire's deepening commitment to residential real estate and construction. The conglomerate increased its stake in Lennar by nearly 30% in the second quarter, established a fresh position in D.R. Horton, and completed a  billion buyout of Taylor Morrison in July. At the same time, Berkshire pruned its financial holdings—slashing Capital One shares by 58% and trimming stakes in Bank of America and Ally Financial—while liquidating its entire position in beverage maker Constellation Brands.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -147,29 +144,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

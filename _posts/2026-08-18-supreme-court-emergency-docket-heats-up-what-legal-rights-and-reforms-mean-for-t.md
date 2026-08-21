@@ -37,10 +37,7 @@ source_url: 'https://www.scotusblog.com/2026/08/emergency-docket-heats-up/'
   <h2 id="what-happened">What Happened: The Summer Surge</h2>
   <p>While summer recess traditionally offers a period of quiet for the federal judiciary, the Supreme Court's emergency docket—often referred to as the shadow docket—has seen no shortage of activity. Recent reports from SCOTUSblog highlight a flurry of emergency applications involving major policy battles.</p>
   <p>Chief among these are requests from the Trump administration seeking to lift lower-court blocks on executive actions regarding mail-in ballot restrictions and White House ballroom construction. Simultaneously, federal appeals courts across the nation are grappling with contentious disputes over immigration detention standards, the Alien Enemies Act, and Justice Department access to state voter rolls. With circuit courts split on several key issues, legal analysts expect the high court to step in rapidly to resolve the mounting legal friction.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
   <h2 id="legal-perspective">A Legal Rights Perspective: Navigating the Emergency Docket</h2>
@@ -99,25 +96,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

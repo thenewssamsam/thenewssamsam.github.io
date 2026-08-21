@@ -20,10 +20,7 @@ source_url: 'https://mashable.com/tech/have-i-been-flocked-license-plate-search'
 
 <h2 id="what-happened">What Happened: The Rise of "Have I Been Flocked?"</h2>
 <p>As communities increasingly push back against Flock Safety’s expanding network of automated license plate readers—canceling municipal contracts and mapping camera locations—a new tool has emerged to bring transparency to the data. Developed as part of an independent project called Footnote4a, the website <strong>Have I Been Flocked?</strong> compiles public audit logs released by local governments.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 <p>As of mid-August, the database had indexed nearly 242 million searches involving more than 4.6 million license plates. The platform relies on records obtained through public records requests and transparency portals, allowing everyday drivers to check whether a local or state police agency—or even a private entity like a homeowners association—has run their plate through the system.</p>
@@ -116,25 +113,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

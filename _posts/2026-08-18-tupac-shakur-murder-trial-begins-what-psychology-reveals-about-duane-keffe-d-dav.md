@@ -34,10 +34,7 @@ source_url: 'https://apnews.com/article/tupac-shakur-keffe-d-las-vegas-trial-00b
 <h2 id="ncg-what-happened">What Happened in Court</h2>
 <p>In a Las Vegas courtroom on Monday, Chief Deputy District Attorney Binu Palal laid out the prosecution's case against 63-year-old Duane "Keffe D" Davis. Prosecutors acknowledge that Davis did not pull the trigger when Shakur was gunned down in a black BMW following a Las Vegas boxing match. Instead, they argue that Davis orchestrated the shooting as retaliation for an earlier casino-hotel altercation in which Shakur's entourage attacked Davis's nephew, Orlando "Baby Lane" Anderson.</p>
 <p>The state's core argument rests heavily on a mountain of recorded statements, police interviews, and details from Davis's own 2019 memoir, <em>Compton Street Legend</em>. For years, Davis spoke candidly to law enforcement task forces and media outlets about his role in the events of that night. Prosecutors plan to call between 35 and 45 witnesses over the course of the month-long trial, featuring early police responders, eyewitnesses caught in the crossfire, and recorded audio of Davis describing the shooting.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -94,29 +91,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

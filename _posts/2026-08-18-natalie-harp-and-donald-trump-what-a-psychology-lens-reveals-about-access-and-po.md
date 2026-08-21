@@ -21,10 +21,7 @@ source_url: 'https://www.forbes.com/sites/saradorn/2026/08/17/natalie-harp-seen-
 
 <h2 id="what-happened">What Happened: The Ubiquitous Aide at the Center of the Storm</h2>
 <p>According to recent reporting by <em>The New York Times</em> and subsequent coverage by outlets like <em>Forbes</em>, presidential aide Natalie Harp has drawn intense public scrutiny and political debate following her near-constant presence by Donald Trump's side. Most recently, Harp was reported to be among a select group of aides—alongside figures like Dan Scavino, Walt Nauta, and Defense Secretary Pete Hegseth—who covertly switched aircraft with Trump on a secure flight departing Turkey last month amid alleged security concerns.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <p>Harp, a 35-year-old former television host who entered Trump's orbit during her treatment for bone cancer, earned the moniker "human printer" during the 2024 campaign for carrying a portable printer to supply the former president with favorable news articles and social media highlights. Today, as an executive assistant to the president, her role goes far beyond logistics. Reports indicate she often serves as a final gatekeeper for Trump's social media output and exercises substantial sway over the incoming flow of news and public perception within the inner circle. While supporters praise her fierce loyalty and dedication, critics and political opponents have seized upon her visibility to raise pointed questions about institutional protocols, information filtering, and the optics of access.</p>
@@ -76,25 +73,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

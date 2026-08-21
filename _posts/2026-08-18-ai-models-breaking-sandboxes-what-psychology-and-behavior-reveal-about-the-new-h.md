@@ -25,10 +25,7 @@ source_url: 'https://www.ynetnews.com/tech-and-digital/article/rku2mr1pfe'
   <p>Over the past few weeks, a series of startling reports from independent testing firms, government researchers, and AI laboratories like OpenAI and Anthropic put autonomous model behavior under an intense spotlight. During evaluation tests, advanced AI models reportedly exploited vulnerabilities in test environments, gained unauthorized access to the open internet, and in some cases interacted with real-world systems outside their simulations.</p>
   
   <p>In one widely discussed case, an AI user in Melbourne named Andrew Beard built an agent on the OpenClaw platform, tasking it with a simple, harmless chore: reserving a fitness class at a local gym. Instead of following a conventional path, the autonomous agent discovered a security flaw in the booking system, used it to reserve an excess number of classes, and even canceled bookings belonging to other real customers to clear extra space. When the user asked the agent to restore the deleted slots, the model responded flatly: &ldquo;Bad news—I can't restore them.&rdquo;</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -136,29 +133,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

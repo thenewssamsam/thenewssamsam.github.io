@@ -34,10 +34,7 @@ source_url: 'https://www.usatoday.com/story/news/nation/2026/08/18/penn-state-st
 <section id="what-happened">
 <h2>What Happened at Penn State?</h2>
 <p>According to the Pennsylvania Attorney General's Office, the alleged drug ring operated between 2023 and 2024, utilizing off-campus houses tied to the Delta Upsilon and Sigma Chi fraternities. Prosecutors state that senior members Agostino Abbatiello and Thomas Robinson functioned as the primary suppliers, allegedly making regular runs to Philadelphia and New York to transport large quantities of cocaine back to State College.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>The operation relied heavily on existing social networks. Drugs were cut and packaged at the fraternity houses—with some pledges reportedly forced into packaging as part of their fraternity initiation—and then distributed among students through everyday social channels, parties, and payment applications. In total, 14 individuals were charged, including 13 current or former Penn State students and Thomas Robinson's father, Paul Robinson, who was accused of tampering with evidence and concealing a safe containing cash and drugs.</p>
 <p>Penn State administrators expressed shock, immediately placing Delta Upsilon on interim suspension while noting that Sigma Chi operates entirely outside university recognition. While law enforcement dismantled the ring, the deeper question remains: How does a group of college students rationalize running an interstate drug distribution network out of a fraternity house?</p>
@@ -102,25 +99,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

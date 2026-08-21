@@ -33,10 +33,7 @@ source_url: "https://www.cnn.com/2026/08/17/us/luigi-mangione-state-trial-postpo
 <h2>What Happened</h2>
 <p>The state murder trial against Luigi Mangione has been effectively postponed following a New York judge&#8217;s order granting prosecutors until October 9 to respond to defense motions. The delay comes on the heels of Mangione pleading guilty to federal stalking charges and admitting to the fatal shooting of UnitedHealthcare Chief Executive Brian Thompson. With the next court hearing scheduled for December 10—just eight days before his federal sentencing—the anticipated September 8 jury selection for the state case is on hold.</p>
 <p>Mangione&#8217;s defense team immediately moved to dismiss the remaining state second-degree murder and weapons charges, arguing that a successive state trial violates constitutional protections against double jeopardy. While the Manhattan District Attorney&#8217;s office remains committed to prosecuting the case for the victim&#8217;s family, the new procedural timeline forces a deeper look into how overlapping state and federal jurisdictions handle high-profile criminal cases.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 </section>
 
@@ -91,25 +88,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

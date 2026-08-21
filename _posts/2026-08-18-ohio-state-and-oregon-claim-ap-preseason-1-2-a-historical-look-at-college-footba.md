@@ -154,10 +154,7 @@ source_url: 'https://www.nbcsports.com/college-football/news/ohio-state-and-oreg
 <p>When the Associated Press released its preseason Top 25 poll, it delivered a striking piece of college football history: Ohio State and Oregon occupy the top two spots. For the first time in 65 years, and only the second time ever, the Big Ten Conference holds both preseason pinnacle positions. This milestone reflects a dramatic shifting of power across the collegiate landscape, echoing seismic era shifts from decades past while setting the stage for an explosive autumn.</p>
 
 <p>The latest rankings feature the Buckeyes pulling in 40 first-place votes, while the Ducks secure 14 following a historic ascent to their highest preseason ranking in program history. Behind them, heavyweights like Georgia, Notre Dame, and Texas round out a formidable top five, while the Southeastern Conference continues its sheer numerical dominance with nine total ranked teams. Yet, all eyes remain fixed on the top two. When conferences concentrate power at this level, history shows that the entire ecosystem of college athletics shifts in response.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 <nav class="ncg-toc">
@@ -267,25 +264,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

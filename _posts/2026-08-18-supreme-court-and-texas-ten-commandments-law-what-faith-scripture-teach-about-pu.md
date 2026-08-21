@@ -34,10 +34,7 @@ source_url: 'https://www.usatoday.com/story/news/politics/2026/08/17/supreme-cou
   <h2 id="what-happened">What Happened: The Battle Over Senate Bill 10</h2>
   <p>On August 17, more than two dozen families backed by civil liberties groups filed an appeal with the Supreme Court asking the justices to overturn a lower court ruling. At the center of the dispute is Texas Senate Bill 10, enacted last year, which mandates that a poster of the Ten Commandments be displayed in a prominent spot in every public elementary and secondary school classroom across the state.</p>
   <p>The 5th U.S. Circuit Court of Appeals previously upheld the law by a 9-7 vote in April. The multifaith coalition—whose members include Jewish, Baha'i, Christian, Unitarian Universalist, and non-religious families—argues that the mandate intrudes upon their fundamental right to guide their children's religious education at home.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   <p>"Texas politicians shouldn’t have a seat at the table in deciding how our children receive their religious education," said Rebekah and Ted Lowe, two of the participating parents, in a joint statement. "This law puts one version of religious beliefs above all others in our public schools and sends a message to our children that what we teach them about religion at home is somehow wrong."</p>
 
@@ -102,25 +99,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

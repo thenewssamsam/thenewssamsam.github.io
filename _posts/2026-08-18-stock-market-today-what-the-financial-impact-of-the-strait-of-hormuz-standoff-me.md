@@ -24,10 +24,7 @@ source_url: 'https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-5
 
   <h2 id="what-happened">What Happened in the Markets Today?</h2>
   <p>Trading kicked off the week on a defensive note. The Dow Jones Industrial Average, S&P 500, and Nasdaq Composite dropped 0.5%, 0.5%, and 0.3% respectively. This downward pressure builds on late-week losses from Friday, which were catalyzed by a sharper-than-expected 0.6% decline in U.S. retail sales for July against economists' forecasts of a 0.1% rise.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   <p>The broader market weakness was compounded by developments in energy markets. Crude oil futures climbed roughly 2.4% after a senior Iranian official told reporters that the nation would be prepared to take action should diplomacy regarding the reopening of the Strait of Hormuz fail. With the waterway historically carrying roughly 20% of the world's crude oil supplies, the ongoing restrictions have sent shockwaves through global energy pricing, pushing West Texas Intermediate (WTI) futures to  a barrel and Brent benchmarks to .</p>
   <p>Bond markets mirrored these energy-driven inflation fears. The 10-year Treasury yield hovered near 4.73%, while the 30-year yield climbed to 5.31%, reaching its highest level since 2007. Mega-cap tech names within the "Magnificent Seven" all closed in negative territory, led by steeper pullbacks in Meta Platforms and Microsoft, while memory-chip makers emerged as a notable bright spot, rallying behind strong sector demand.</p>
@@ -87,25 +84,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

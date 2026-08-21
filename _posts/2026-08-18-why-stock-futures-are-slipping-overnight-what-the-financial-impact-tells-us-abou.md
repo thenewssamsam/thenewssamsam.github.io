@@ -38,10 +38,7 @@ source_url: 'https://finance.yahoo.com/markets/stocks/articles/why-dow-p-500-nas
     <p>Late Monday night, benchmark U.S. stock futures pointed lower as traders digested a mix of macroeconomic jitters and high-stakes foreign policy developments. Dow futures ticked down marginally by 0.03%, S&P 500 futures fell 0.25%, and Nasdaq-100 futures slid 0.60% by late evening.</p>
     
     <p>This overnight drift follows a negative regular trading session where all three major indexes closed in the red. The S&P 500 led the declines with a 0.52% drop to 7,745.06, the Dow Jones Industrial Average shed about 272 points to close down 0.51% at 53,459.78, and the Nasdaq Composite gave up 0.32% to finish at 26,644.91.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
     <p>The immediate catalyst behind the downward pressure wasn't a domestic earnings miss or a Federal Reserve rate announcement. Instead, attention shifted squarely to the energy sector as geopolitical rhetoric heated up following the expiration of a two-month window to negotiate a peace deal with Iran.</p>
@@ -127,25 +124,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

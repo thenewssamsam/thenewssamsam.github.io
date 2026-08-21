@@ -27,10 +27,7 @@ source_url: 'https://www.nytimes.com/athletic/7475248/2026/08/17/liv-golf-team-c
   <p>LIV Golf confirmed on Monday what professional sports observers had suspected for weeks: the Team Championship, scheduled for August 27-30 at The Cardinal in Plymouth, Michigan, is canceled. The tournament was originally envisioned as the crown jewel of the circuit's innovative team-focused format.</p>
 
   <p>Instead, the venue showed no signs of construction for grandstands or hospitality tents. Fox Sports quietly removed the broadcast from its U.S. TV listings, and LIV finally stopped ticket sales just days before the announcement. At least three players—Tyrrell Hatton, Tom McKibbin, and Adrian Meronk—hedged their bets by registering for the DP World Tour's British Masters the same week.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
   <p>To wrap up the truncated season, LIV announced that the team champion will instead be crowned during this week's event in Indianapolis. Meanwhile, planned post-round concerts featuring country singer Thomas Rhett and DJ Disco Lines were scrapped due to "unavoidable changes in the entertainment program."</p>
@@ -106,25 +103,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

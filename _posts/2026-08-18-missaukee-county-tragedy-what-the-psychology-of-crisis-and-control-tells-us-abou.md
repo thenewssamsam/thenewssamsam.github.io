@@ -22,10 +22,7 @@ source_url: 'https://www.fox2detroit.com/news/missaukee-county-cadillac-mi-death
   <p>The sequence of events unfolded rapidly on a Friday that began like any other in northern Michigan. Michigan State Police troopers responded around 11:40 a.m. to a residence on South LaChance Road in Lake Township, Missaukee County, following reports of gunfire. Inside the home, troopers discovered three victims dead: a 45-year-old man, a 40-year-old woman, and a 16-year-old boy. A 13-year-old girl was also found injured at the scene and was rushed to a hospital, where she remains in stable condition.</p>
   
   <p>The suspect, identified by authorities as 39-year-old Chad Hickman, fled before law enforcement arrived, triggering a large-scale search across the region. As the manhunt intensified, the scope of the tragedy widened. Investigators located a fourth victim—a 53-year-old man—dead at a separate home in the county. Shortly afterward, a fifth victim, a 29-year-old woman, was discovered deceased in a wooded area near Whitlock Lake alongside Hickman, who was also found dead.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -76,29 +73,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

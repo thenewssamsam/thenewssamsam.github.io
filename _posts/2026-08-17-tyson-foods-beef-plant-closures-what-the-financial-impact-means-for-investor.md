@@ -24,10 +24,7 @@ source_url: 'https://finance.yahoo.com/markets/stocks/articles/investors-reactin
     <p>Tyson Foods (TSN) has announced a major structural overhaul, shuttering facilities in Joslin, Illinois, and Eagle Mountain, Utah, while actively pursuing the sale of a plant in Pasco, Washington. By concentrating its remaining beef harvesting operations into three central U.S. sites, Tyson is effectively pruning roughly a third of its prior processing footprint. The immediate driver isn't corporate strategy alone; it is the harsh reality of U.S. cattle herd levels sitting at a 75-year low, leaving processing plants operating well below efficient capacity.</p>
     
     <p>For shareholders and market watchers, this move forces a hard look at the company's long-term investment narrative. Can aggressive consolidation successfully protect operating margins against persistent livestock scarcity, or does it signal deeper, more structural headwinds for the meatpacking industry?</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -94,29 +91,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

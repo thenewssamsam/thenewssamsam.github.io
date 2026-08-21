@@ -35,10 +35,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/paramount-bond-merger-delay-costs.h
 <section id="what-happened">
 <h2>What Happened: The  Billion Demand</h2>
 <p>The legal clash centers on an ambitious, multi-billion-dollar combination that would merge two of Hollywood's most storied film studios—Paramount and Warner Bros.—while uniting massive pay-TV networks and streaming services like HBO Max and Paramount+. Last month, a dozen state attorneys general, led by California's Rob Bonta, filed an antitrust lawsuit under the Clayton Antitrust Act to halt the transaction.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>While Paramount has already secured regulatory clearance from the U.S. Department of Justice's Antitrust Division and international regulators, the state-level legal challenge forced the companies to agree to a trial delay pushing potential closing as late as June 2027. That delay triggered the current financial showdown. Paramount argues that under federal law, plaintiffs seeking preliminary relief to halt transactions should be required to post security bonds covering potential financial harm if the litigation fails.</p>
 <p>The  billion figure is not a random estimate; it represents a precise calculation of maximum potential financing costs and the controversial "ticking fees" built into the original merger agreement.</p>
@@ -102,25 +99,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

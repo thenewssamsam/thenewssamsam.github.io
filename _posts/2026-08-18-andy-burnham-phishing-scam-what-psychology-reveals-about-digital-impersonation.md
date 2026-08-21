@@ -34,10 +34,7 @@ source_url: 'https://www.bbc.com/news/articles/clyvj5zdjj2o'
   <section id="what-happened">
     <h2>What Happened</h2>
     <p>Prime Minister Andy Burnham recently exchanged text messages with an individual falsely posing as Susie Wiles, the chief of staff to US President Donald Trump. Downing Street confirmed the interaction after the security breach was first brought to light by political reporting. Officials noted that Burnham engaged in brief messaging before realizing the contact was illegitimate and swiftly alerting security authorities.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>Government representatives have declined to comment extensively on national security aspects, but the incident highlights a broader wave of high-level digital targeting. The event coincides with separate revelations regarding the exposure of personal cabinet member phone numbers online and historical precedents involving British officials targeted by sophisticated impersonators using deepfakes and spoofed accounts. While no sensitive information of consequence was reportedly compromised in Burnham's case, the episode casts a sharp spotlight on the mechanics of modern political spear-phishing.</p>
   </section>
@@ -92,25 +89,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

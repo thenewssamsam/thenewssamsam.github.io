@@ -43,10 +43,7 @@ source_url: 'https://www.nbcnews.com/business/economy/oil-jumps-trump-no-iran-ce
 
   <h2 id="what-happened">What Happened in the Markets</h2>
   <p>For much of Monday, financial markets had traded in a relatively flat pattern. That stability vanished the moment President Trump began speaking in the Oval Office. Addressing reporters, Trump stated that while Iranian officials want to strike a deal to extend the expiring 60-day memorandum of understanding, terms acceptable to his administration are not currently on the table.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   <p>The market reaction was immediate and sharp. International benchmark Brent crude jumped above  per barrel, eventually closing the session up 2.65% at . U.S. West Texas Intermediate (WTI) crude saw a matching surge, rising 2.5% to settle at  per barrel. Oil prices are now roughly 50% higher than they were at the start of the year and up more than 25% since the conflict began on February 28.</p>
   <p>The energy shock did not stay isolated in oil futures. Treasury yields climbed toward daily highs, with the 10-year yield rising to 4.72%—a critical benchmark that directly influences consumer borrowing rates like mortgages and auto loans. Meanwhile, the 30-year U.S. government bond yield pushed above 5.3%, marking its highest level since June 2007. Stock indexes, already subdued for the day, extended their losses, with the S&P 500 dipping 0.5% and the Nasdaq slipping 0.3%.</p>
@@ -149,25 +146,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

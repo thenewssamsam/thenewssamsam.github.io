@@ -31,10 +31,7 @@ source_url: 'https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-mi
 <h2>What Happened in Japan's Economy?</h2>
 <p>According to official data released by Japan's Cabinet Office on Monday, gross domestic product (GDP) grew by 0.3 percent in the April-June period compared to the previous quarter. While this marks the third consecutive quarterly expansion, it represents a cooling from the 0.5 percent growth recorded in the prior quarter. More importantly, it fell short of the 0.5 percent growth economists had universally forecast.</p>
 <p>On an annualised basis, the nation expanded 1.1 percent—substantially below the 1.67 percent annualised growth predicted by a survey of 37 economists conducted by the Japan Center for Economic Research. Despite these domestic headwinds, regional stock markets rallied on Monday, with Tokyo's benchmark Nikkei 225 index finishing up over 0.7 percent alongside gains across major Asian exchanges.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -109,29 +106,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

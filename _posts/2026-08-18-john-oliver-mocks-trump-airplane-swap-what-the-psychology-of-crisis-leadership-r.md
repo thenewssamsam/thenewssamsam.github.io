@@ -24,10 +24,7 @@ source_url: 'https://variety.com/2026/tv/news/john-oliver-mocks-trump-sacrificin
   <p>Late-night television has a way of turning bizarre geopolitical security maneuvers into cultural punchlines, but the underlying human dynamics are often far more revealing than the jokes. When John Oliver used the opening of his HBO series <em>Last Week Tonight</em> to roast Donald Trump over a secretive airplane swap following a NATO summit in Turkey, he tapped into a very real public fascination with how leaders behave when real pressure hits.</p>
 
   <p>According to reports highlighted on the show, intelligence regarding a potential security threat prompted a covert switcheroo: Trump reportedly slipped out of his primary aircraft and onto a catering truck, leaving a decoy plane, top administration officials, and traveling journalists behind while he took off on a smaller military jet. While the logistics of an emergency catering-truck escape sounded like something straight out of a political satire, the more troubling detail for many observers wasn't the truck itself—it was who stayed on the original plane.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -186,29 +183,3 @@ Tactical Waterproof Backpack
   margin-bottom: 0.4rem;
 }
 </style>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

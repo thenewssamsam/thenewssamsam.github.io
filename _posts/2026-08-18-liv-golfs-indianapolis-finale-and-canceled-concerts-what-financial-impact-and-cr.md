@@ -36,10 +36,7 @@ source_url: ''
     <h2>What Happened in LIV Golf's Final Stretch?</h2>
     <p>LIV Golf's 2026 season is wrapping up this week under a cloud of administrative silence and sudden event downsizing. For weeks, rumors circulated that the league's planned team championship in Michigan at The Cardinal at St. John's had been scrapped. Yet, official channels kept the booking live, greeting prospective buyers with a deceptive notification: <em>“The tickets you were looking for are no longer available…”</em></p>
     <p>Internal emails later obtained by GOLF.com revealed that this friction was entirely intentional. Staffers were instructed to keep ticketing pages active without inventory to suppress media flags while executives managed stakeholder fallout. Meanwhile, players like Tyrrell Hatton, Tom McKibbin, and Adrian Meronk quietly pivot to the DP World Tour's British Masters.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>At the same time, the season-ending event just north of Indianapolis lost its heavily promoted music acts—country star Thomas Rhett and electronic artist Disco Lines. Promoted for months as a signature festival-style weekend blending golf by day with concerts by night, those headliners were scrubbed from the league's website over the weekend, leaving fans who bought tickets for the complete experience high and dry.</p>
   </section>
@@ -102,25 +99,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -18,10 +18,7 @@ source_url: 'https://www.veridica.ro/en/opinions/weve-become-like-family-trying-
 <p>When the doors of a makeshift detention center in occupied Zaporizhzhia slammed shut behind Sevil and Liudmyla, they stepped into a world designed to strip away autonomy, dignity, and hope. Imprisoned simply for holding pro-Ukrainian views, five women between the ages of 41 and 65 found themselves thrown into neighboring cells in a decaying, Soviet-era facility in Vesele. Yet inside those cold, blood-stained concrete walls, something unexpected happened: they forged a deep, sustaining friendship that kept them alive.</p>
 
 <p>Their story, documented by the international investigative team The Reckoning Project, is a harrowing account of war and persecution. But beneath the geopolitical headlines lies a profound testament to the mechanics of human endurance. When physical safety is completely eradicated, what keeps a person from breaking? The answer reveals a great deal about how the human mind adapts to extreme duress.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -81,29 +78,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -37,10 +37,7 @@ source_url: 'https://people.com/body-found-in-search-teen-who-disappeared-near-d
 <h2 id="what-happened">What Happened in the Bucegi Mountains</h2>
 <p>For more than eight months, the disappearance of George Smyth captivated international attention and plunged his family into an agonizing limbo. Smyth, a geology student at the University of Bristol, vanished on Nov. 23, 2025, after embarking on a solo hike in the rugged Bucegi Mountains, located roughly 100 miles north of Bucharest near the famous region associated with Dracula's castle.</p>
 <p>According to reports from British and Romanian authorities, Smyth called local emergency services (112) late on a Sunday evening, reporting that he was suffering from severe hypothermia and exhaustion. While rescue teams quickly located his abandoned backpack—which contained a tent, sleeping bag, and provisions—near the spot from which he placed the call, adverse weather conditions, heavy snow, and treacherous terrain severely hampered subsequent search efforts.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>Despite months of agonizing uncertainty and temporary pauses due to winter weather, local mountain rescue teams (Salvamont Brașov) maintained their commitment. In mid-August 2026, authorities announced that a body had been recovered alongside personal documents bearing the 18-year-old's name. While formal identification is pending, Smyth's family released a deeply moving statement acknowledging that "the torture of waiting is finally over," allowing them to bring their son home.</p>
 
@@ -94,25 +91,3 @@ Seagate Portable External Hard Drive
 <a href="https://people.com/body-found-in-search-teen-who-disappeared-near-dracula-castle-11860783" target="_blank" rel="noopener noreferrer">Original News Report on People.com</a>
 </div>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

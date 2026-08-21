@@ -127,10 +127,7 @@ source_url: 'https://qz.com/harvard-endowment-spacex-stake-2-billion-081726'
 
     <h2 id="what-happened">What Happened: Inside the 13F Filing</h2>
     <p>According to a U.S. Securities and Exchange Commission 13F filing submitted last Friday, Harvard Management Co. disclosed its extensive holding in Space Exploration Technologies Corp. The filing, which tracks institutional stock managers controlling more than  million in U.S. equities, captures  billion in total domestic equity holdings for the university.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>Spokesman Patrick McKiernan declined to comment on individual investments when contacted by Fortune. Financial analysts note that positions of this scale typically reflect a combination of directly owned stock, early-stage venture capital allocations, and subsequent distributions from private funds over many years.</p>
     <p>SpaceX went public in June at  per share, closing a recent session at , down slightly by 0.9%. With a market capitalization now soaring past  trillion, the company has transitioned from a capital-consuming private venture into a cornerstone asset for institutional investors.</p>
@@ -214,25 +211,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

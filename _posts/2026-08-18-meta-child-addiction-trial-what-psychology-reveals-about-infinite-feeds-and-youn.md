@@ -25,10 +25,7 @@ source_url: 'https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social
   <h2 id="what-happened">What Happened in the Meta Federal Trial</h2>
   <p>On Tuesday, Meta faces a group of state attorneys general in the U.S. District Court for the Northern District of California in Oakland. Four states—California, Colorado, Kentucky, and New Jersey—are seeking up to  trillion in penalties and structural product changes. The plaintiffs allege that Meta violated consumer protection laws and the Children's Online Privacy Protection Act (COPPA) by gathering data on kids under 13 without parental consent and misleading the public about platform safety.</p>
   <p>Unlike traditional disputes shielded by Section 230 of the Communications Decency Act—which protects platforms from liability over user-generated content—this federal lawsuit takes direct aim at product mechanics. The states argue that features like the "like" button, infinite-scroll functions, and recommendation algorithms were intentionally designed to maximize engagement at the expense of children's sleep, education, and emotional well-being.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
   <p>Legal scholars note that the trial will likely spotlight internal company documents, including pretrial disclosures suggesting that time-restriction tools were treated internally as public relations stunts rather than genuine safety measures. Meta contends that the financial demands are disproportionate, that the states offer no proof of widespread localized deception, and that age verification remains an industry-wide challenge.</p>
 
@@ -100,25 +97,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

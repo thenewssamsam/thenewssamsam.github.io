@@ -34,10 +34,7 @@ source_url: 'https://www.cnbc.com/2026/08/16/social-security-john-larson-connect
   <p>When long-serving lawmakers lose an election, the immediate headlines usually focus on political upsets and shifts in party power. But when the defeated lawmaker is the ranking member of the House Social Security subcommittee, the stakes extend far beyond a single congressional district. The primary defeat of Democratic Rep. John Larson in Connecticut has sent ripples through the national debate over how to rescue a federal program facing a stark financial deadline: the depletion of its trust fund in late 2032.</p>
 
   <p>As policymakers prepare for a high-stakes legislative fight over solvency, benefit expansions, and tax caps, the changing guard in Congress brings both uncertainty and new strategic realities for American workers and retirees.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -131,29 +128,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

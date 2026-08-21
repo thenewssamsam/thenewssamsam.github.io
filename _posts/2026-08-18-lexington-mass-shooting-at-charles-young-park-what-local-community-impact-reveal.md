@@ -34,10 +34,7 @@ source_url: 'https://www.wkyt.com/2026/08/16/officials-give-update-lexington-mas
 <section id="ncg-intro">
 <p>When violence shatters a public neighborhood park on a Saturday evening, the shockwaves do not just register in police blotters or city council chambers—they echo directly through the backyards, front porches, and schools of the surrounding community. On August 15, 2026, a tragic mass shooting at Charles Young Park in Lexington, Kentucky, abruptly ended a 192-day streak without a homicide tracked by the city's anti-violence initiative, leaving one teenager dead, four other victims injured ranging from a young child to adults, and an entire city searching for answers, healing, and resilience.</p>
 <p>For residents of Fayette County and the broader Lexington area, news like this forces an uncomfortable and urgent reckoning. How do neighborhoods process sudden trauma, where do families turn when local gathering spaces feel compromised, and what does it take for a community to rally in the face of senseless gun violence?</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set 
-</a></p>
+
 
 
 
@@ -148,37 +145,3 @@ Crevice Cleaning Brush Set
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Crevice Cleaning Brush Set</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

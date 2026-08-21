@@ -58,10 +58,7 @@ source_url: 'https://www.upstreamonline.com/exploration/chevron-exploration-prob
     <h2>What Happened in Angola?</h2>
     <p>According to recent industry reports from Upstream Online, energy major Chevron has struck an "excellent" oil reservoir with its latest exploration probe in Angola. Specifically centered around the prolific Block 0 operating area, the discovery appears poised to bypass the traditional, high-cost hurdles of brand-new offshore development because of its proximity to existing production networks.</p>
     <p>While brief headlines often focus solely on the volume of crude discovered, the operational logistics tell a far more interesting story for anyone watching corporate capital expenditures. Rather than requiring a massive, multi-billion-dollar greenfield facility from scratch, this new find is positioned for a rapid tieback to infrastructure that is already up and running.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
   </section>
 
@@ -120,25 +117,3 @@ Seagate Portable External Hard Drive
     <a href="https://www.upstreamonline.com/exploration/chevron-exploration-probe-hits-excellent-oil-reservoir-in-angola/2-1-2030050" target="_blank" rel="noopener noreferrer">Original News Report</a>
   </div>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

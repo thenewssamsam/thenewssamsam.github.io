@@ -39,10 +39,7 @@ source_url: 'https://apnews.com/article/wildfire-belgium-france-heat-europe-gree
 <section id="what-happened">
 <h2>What Happened: Europe's Summer of Fire</h2>
 <p>According to Associated Press reports, one of Belgium's largest wildfires in history continued to blaze out of control in the hilly High Fens region near the German border, scorching approximately 30 square kilometers (12 square miles). King Philippe interrupted his vacation to visit emergency personnel as 500 firefighters, aided by international aircraft and local drone-equipped police, battled flames made stubborn by dry, peaty soil.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>Forest rangers noted a chilling detail: the fire has burrowed underground into peat layers, where it can smolder invisibly for weeks or months before flaring back up. Meanwhile, Greece mourns the victims of a fast-moving blaze near Athens while containing new fires, France stabilizes its Gironde and Landes regions with a new 12 million-euro aid package, and Croatian police arrest suspects linked to multiple deliberate fires near Zadar.</p>
 </section>
@@ -171,25 +168,3 @@ p { line-height: 1.7; color: #2d3748; }
 ul, ol { line-height: 1.6; color: #2d3748; }
 </style>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

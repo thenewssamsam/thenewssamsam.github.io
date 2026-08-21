@@ -24,10 +24,7 @@ source_url: "https://www.foxnews.com/politics/iran-fails-strike-deal-us-deadline
     <h2>What Happened: The Expired Deadline and the Hormuz Stalemate</h2>
     <p>The 60-day window established under a June memorandum of understanding has officially expired without a final deal. Designed to halt hostilities, reopen the vital Strait of Hormuz, and establish a framework addressing Iran's nuclear program and regional sanctions, the arrangement collapsed amid mutual accusations of violations and renewed military engagements.</p>
     <p>At the center of the dispute lies the Strait of Hormuz, a critical maritime chokepoint through which roughly a fifth of the world's oil transits. Tehran insists on retaining authority over shipping traffic and demands the lifting of the U.S. naval blockade, the release of frozen assets, and the termination of oil sanctions. Meanwhile, Washington demands unrestricted commercial navigation and has made preventing Iran from acquiring a nuclear weapon its central objective. President Trump stated in the Oval Office that while Tehran wants a deal, they refuse necessary terms, remarking that Iran should "put up the white flag of surrender."</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>With U.S. Central Command having struck hundreds of targets in response to attacks on commercial vessels—including recent strikes on UAE-operated tankers—the conflict has strained military munitions inventories, including ATACMS and Patriot interceptors. As diplomatic channels stall, the administration faces mounting pressure to navigate an escalating economic and strategic standoff.</p>
   </section>
@@ -78,25 +75,3 @@ Seagate Portable External Hard Drive
     <p>Source: <a href="https://www.foxnews.com/politics/iran-fails-strike-deal-us-deadline-passes-trump-calls-white-flag-surrender" target="_blank" rel="noopener noreferrer">Original News Report</a></p>
   </footer>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

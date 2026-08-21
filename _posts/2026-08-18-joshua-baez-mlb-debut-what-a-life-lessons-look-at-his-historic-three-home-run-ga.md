@@ -38,10 +38,7 @@ source_url: 'https://www.nytimes.com/athletic/7516761/2026/08/17/cardinals-joshu
 <p>Every baseball fan loves a good rookie story, but what Joshua Baez accomplished on a sunlit Saturday afternoon in Chicago defies standard sporting narratives. Entering The Show with the weight of expectation and years of grueling minor-league development behind him, Baez didn't just introduce himself to the majors—he put his name in the record books.</p>
 
 <p>With a light rain falling over Wrigleyville, Baez homered in his first, second, and third career major-league at-bats, powering the Cardinals to an 8-4 victory over their historic rivals. Afterward, surrounded by over 30 family members and friends, the young slugger shared an emotional embrace with his mother, Yris Baez, cementing a moment that felt more like Hollywood fiction than reality.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -152,29 +149,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -34,10 +34,7 @@ source_url: "https://www.nbcnews.com/news/us-news/tuesday-primaries-buss-family-
     <h2>What Happened: A Snapshot of Headlines</h2>
     <p>A typical news cycle often feels like a disconnected assortment of dramatic events. Tuesday brought voters to the polls for critical primary races in states like Florida, Alaska, and Wyoming, testing newly redrawn congressional maps and high-profile political endorsements. Meanwhile, in the world of sports business, a high-stakes family dispute erupted over control of the Los Angeles Lakers, with controlling owner Jeanie Buss pushing back against reports of a family stake sale. Across other headlines, tragic losses in Hollywood and high-stakes geopolitical maneuvers in the Middle East reminded observers of how rapidly circumstances can shift.</p>
     <p>While these stories span entirely different domains—politics, professional sports, international diplomacy, and entertainment—they share a common thread: the fundamental human impulse to secure, protect, and exert influence over outcomes.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
   </section>
 
@@ -95,25 +92,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -31,10 +31,7 @@ source_url: 'https://finance.yahoo.com/technology/ai/articles/nvidia-3-billion-b
 <h2>What Happened: Inside the  Billion Lancium Deal</h2>
 <p>According to reports published in August 2026, NVIDIA Corporation is committing up to  billion to Lancium, a power infrastructure developer and the force behind the massive Stargate data center project in Abilene, Texas. The financial structure of the deal is divided into two distinct phases: an initial  billion outlay securing a roughly 20% equity stake, followed by an additional  billion contingent on specific milestones, primarily the successful securing of grid interconnections.</p>
 <p>Lancium's flagship 1,000-acre Clean Campus in Abilene serves as the operational home for Stargate—the high-profile AI infrastructure joint venture backed by SoftBank, OpenAI, and Oracle. With NVIDIA now on its cap table, Lancium gains both vital growth capital and unmatched industry credibility as it eyes a potential initial public offering (IPO) as early as 2027.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -80,29 +77,3 @@ Seagate Portable External Hard Drive
 <p>Source: <a href="https://finance.yahoo.com/technology/ai/articles/nvidia-3-billion-bet-power-202314612.html" target="_blank" rel="noopener noreferrer">Original News Report</a></p>
 </footer>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

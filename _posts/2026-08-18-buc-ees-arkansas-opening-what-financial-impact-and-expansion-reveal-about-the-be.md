@@ -32,10 +32,7 @@ source_url: 'https://www.usatoday.com/story/money/2026/08/17/buc-ees-arkansas-op
 <h2 id="what-happened">What Happened: The Beaver Lands in Arkansas</h2>
 
 <p>On August 17, 2026, Buc-ee's officially opened its first Arkansas location in Benton, bringing 120 fueling stations and more than 200 permanent jobs to the city. The opening marks another milestone in the brand's aggressive multi-state expansion strategy. Following recent debuts in Ohio and Arizona, and previous expansions into Virginia and Colorado, the company has its sights set on inaugural locations in Louisiana, Kansas, and Wisconsin by the end of 2027.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <p>For local municipalities, welcoming a Buc-ee's is treated like landing a major manufacturing plant or a professional sports franchise. The massive footprint, high-volume traffic generation, and promises of above-minimum-wage compensation transform sleepy interstate exchanges into buzzing economic hubs. Yet, as the brand scales nationwide, its aggressive corporate growth strategy is running headfirst into complex financial and legal friction.</p>
@@ -100,25 +97,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

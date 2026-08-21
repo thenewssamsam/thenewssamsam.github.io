@@ -35,10 +35,7 @@ source_url: 'https://www.nfl.com/news/report-six-time-pro-bowl-wr-keenan-allen-s
 
 <h2 id="what-happened">What Happened: The Veteran Wide Receiver Moves to Indianapolis</h2>
 <p>ESPN reported late Monday night that 34-year-old wide receiver Keenan Allen is signing with the Indianapolis Colts. Allen spent 12 of his first 13 professional seasons with the Chargers franchise—including a brief one-year stint with the Chicago Bears in 2025 before rejoining Los Angeles—cementing his status as one of the organization's all-time greatest pass catchers.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>In Indianapolis, Allen steps into a receiving room that faces immediate questions. Star wideout Alec Pierce continues his recovery from spring ankle surgery, and the Colts recently traded away veteran Michael Pittman. While Allen's arrival may signal a cautious approach toward Pierce's timeline, the move itself has reportedly been developing for some time. Beyond filling an immediate void, Allen reunites with Colts head coach Shane Steichen, who previously worked with Allen in San Diego and Los Angeles from 2014 through 2020, serving as offensive coordinator in 2020.</p>
 <p>With 1,055 receptions (13th all-time), 12,051 yards, and 70 touchdowns across 171 games, Allen brings elite pedigree. In a poetic twist, he sits just 15 catches away from Colts legend Reggie Wayne on the all-time receptions list—and Wayne happens to be his new receiving coach.</p>
@@ -78,25 +75,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

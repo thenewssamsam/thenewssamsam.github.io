@@ -35,10 +35,7 @@ source_url: 'https://www.usatoday.com/story/news/politics/2026/08/17/treasury-tr
 <h2>What Happened: The Treasury Charter</h2>
 <p>On August 14, 2026, the Treasury Department’s Office of the Comptroller of the Currency (OCC) granted preliminary conditional approval for the <strong>World Liberty Trust Company</strong> to operate as a bank. The approval specifically empowers the firm—co-founded by President Donald Trump and his sons—to issue stablecoins tied directly to the U.S. dollar.</p>
 <p>The announcement follows a lucrative year for the enterprise. According to financial disclosures, the broader crypto company brought in nearly  million for President Trump in 2025 alone. Zach Witkoff, chief executive officer of World Liberty Financial and son of administration diplomat Steve Witkoff, stated that the company's ambition is to build a trusted digital dollar that strengthens the U.S. currency's global role.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>Predictably, the decision drew sharp division. Critics, led by Senator Elizabeth Warren, characterized the charter as an unprecedented conflict of interest and self-dealing. Meanwhile, administration spokespersons and company representatives emphasized that Trump's holdings remain in fully discretionary accounts managed by independent third parties, and that strict operational safeguards are built into the preliminary approval to separate the family's holding entities from day-to-day banking functions.</p>
 </section>
@@ -116,25 +113,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

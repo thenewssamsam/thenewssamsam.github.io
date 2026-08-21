@@ -210,10 +210,7 @@ source_url: 'https://finance.yahoo.com/technology/ai/articles/amazon-once-online
 <div class="ncg-psych-box">
 <h3>Key Psychological Concepts at Play</h3>
 <p><strong>Normalcy Bias:</strong> The tendency to underestimate the disaster or radical shift unfolding right in front of us because familiar institutions (like Amazon or tech corporations) are managing the process.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p><strong>The Omission of Tactility:</strong> In a heavily digitized world, physical objects lose their emotional weight. When a book is reduced to a URL or a scanned PDF vector, its tactile history vanishes, making its physical destruction feel weightless to those orchestrating it.</p>
 <p><strong>Scarcity Panic:</strong> Ironically, tech companies are experiencing a deep scarcity mindset. Having exhausted infinite digital space, they are panicking over finite real-world inputs, driving them to consume physical artifacts with a frantic urgency.</p>
@@ -313,25 +310,3 @@ Source: <a href="https://finance.yahoo.com/technology/ai/articles/amazon-once-on
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

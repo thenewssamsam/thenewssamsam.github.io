@@ -37,10 +37,7 @@ source_url: 'https://247wallst.com/investing/2026/08/17/situational-awareness-13
     <h2>What Happened: The Anatomy of a Rapid Unraveling</h2>
     <p>According to CNBC reporting on the fund's Q2 13F snapshot as of June 30, 2026, Situational Awareness was aggressively piling into names driving the artificial intelligence memory boom. At the center of the strategy were two massive positions: SanDisk and Micron Technology, representing more than  billion in combined long exposure.</p>
     <p>On paper, the thesis looked unstoppable. SanDisk pointed to ,977 million in Q4 datacenter revenue and full-year datacenter growth of 437%, backed by 10 New Business Model agreements representing  billion in minimum revenue commitments. Micron reported Q3 FY26 revenue of  billion, a record gross margin of 84.9%, and  billion in cumulative minimum-price revenue commitments.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>Yet, markets can shift faster than corporate guidance suggests. Between June 30 and July 29, SanDisk shares plummeted 55.32% from ,273.73 to ,015.89, while Micron fell 35.97% from ,154.11 to  The sudden downdraft forced the fund to liquidate much of its liquid public book to Citadel, shrinking assets under management from a peak of  billion down to roughly  billion.</p>
   </section>
@@ -129,27 +126,7 @@ Tactical Waterproof Backpack
   </script>
 </article>
 
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>
+
 
 
 <section class="related-articles">

@@ -25,10 +25,7 @@ source_url: "https://www.wbur.org/news/2026/08/17/prosecution-rests-murder-trial
 <section id="what-happened" class="ncg-section">
 <h2>What Happened in Court as Prosecutors Rest Their Case</h2>
 <p>The state's case spanned two weeks, featuring testimony from dozens of witnesses including first responders, medical examiners, healthcare workers, and Patrick Clancy, the children's father. Prosecutors detailed the tragic events of January 2023, presenting digital forensic evidence such as health tracker logs, text messages, and internet searches for psychiatric medications from the weeks leading up to the tragedy.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>Patrick Clancy's testimony proved central to the state's narrative. He recounted months of searching for professional help for his wife's escalating depression, anxiety, insomnia, and suicidal thoughts following the birth of their youngest child, Callan. Yet, he also described the deeply confusing nature of her illness, noting how she could express disturbing worries one moment and immediately return to making lunch or playing with the children.</p>
 <p>Now, as defense attorney Kevin Reddington begins calling witnesses—including family members and psychiatric forensic experts—the trial shifts toward its core legal and moral question: Can someone gripped by profound mental illness be held fully criminally responsible for actions committed in a state of delirium?</p>
@@ -100,25 +97,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

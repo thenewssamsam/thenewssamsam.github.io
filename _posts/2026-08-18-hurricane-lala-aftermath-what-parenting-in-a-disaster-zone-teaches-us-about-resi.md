@@ -20,10 +20,7 @@ source_url: 'https://www.hawaiipublicradio.org/local-news/2026-08-16/hawaii-isla
 <p>The numbers from the immediate aftermath paint a stark picture of isolation. At least 100 homes sustained damage, including a house entirely swept off its foundations. Power outages left more than half of Hawaiian Electric customers in the dark, with utility crews warning that restoration could take weeks in hard-hit pockets. Most critically, vital infrastructure was fractured. Six bridges in the Kaʻū District were significantly damaged or destroyed, leaving the community of Pāhala—home to the region's only critical access hospital—completely cut off, while Nāʻālehu and Waiʻōhinu remained partially isolated.</p>
 
 <p>For adults, navigating emergency response numbers, assessing property damage, and waiting for power is stressful enough. But for children watching the water rise or listening to howling winds tear through the night, a natural disaster can feel like the entire world is coming unglued. Understanding how to process these events as a family is just as important as clearing the debris from the driveway.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -276,29 +273,3 @@ Seagate Portable External Hard Drive
 }
 </style>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

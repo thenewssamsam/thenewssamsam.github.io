@@ -36,10 +36,7 @@ source_url: "https://apnews.com/article/florida-primaries-donald-trump-wasserman
 <h2>What Happened in Florida's Primary Elections?</h2>
 <p>Florida's primary elections have officially set the stage for a high-stakes November general election, testing both President Donald Trump's enduring grip on his adopted home state and the Democratic Party's ongoing struggle to find a winning formula in a region that has steadily drifted rightward over the past decade. U.S. Rep. Byron Donalds secured the Republican nomination for governor, riding a wave of conservative momentum and a coveted endorsement from Trump. On the Democratic side, former Republican congressman David Jolly captured the nomination, running on an explicitly centrist platform after switching parties last year.</p>
 <p>Meanwhile, the state's U.S. Senate primary to fill the remaining two years of Marco Rubio's term yielded a stark ideological contrast. Progressive state Rep. Angie Nixon claimed the Democratic nomination by defeating retired Army Lt. Col. Alex Vindman, setting up a fall showdown with Republican Attorney General Ashley Moody. Down-ballot races also saw dramatic shifts, including longtime Democratic U.S. Rep. Debbie Wasserman Schultz winning her primary in a newly redrawn South Florida district, and Republican U.S. Rep. Cory Mills falling to challenger Ryan Elijah following months of personal controversy.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>For ordinary voters, these results are more than just a tally of intra-party victories; they represent a fundamental stress test of how political identity, party loyalty, and demographic shifts intersect in America's largest swing-state laboratory. To understand where Florida is heading this November, it helps to step back and look at how similar political realigned moments have played out across American history.</p>
 </section>
@@ -109,25 +106,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

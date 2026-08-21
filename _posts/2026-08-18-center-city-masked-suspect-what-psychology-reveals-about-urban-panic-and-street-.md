@@ -23,10 +23,7 @@ source_url: 'https://6abc.com/post/masked-suspect-accused-terrorizing-women-cent
 <section id="what-happened">
 <h2>What Happened in Center City</h2>
 <p>According to Philadelphia police, the string of alarming incidents unfolded during morning commuting hours in the heart of Center City. Surveillance video released by investigators captures a masked man relentlessly chasing a woman jogging near City Hall at approximately 5:30 a.m. on a Wednesday.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>During the pursuit, the suspect held his cell phone in front of the startled runner and asked a chilling question: <em>&quot;Are you ready to die?&quot;</em></p>
 <p>As the victim screamed for help, the suspect abruptly broke off the chase, heading northbound on 15th Street before boarding the escalators at Suburban Station. But investigators quickly realized this was not an isolated encounter. Other witnesses and victims soon stepped forward to describe similar bizarre and frightening interactions.</p>
@@ -93,25 +90,3 @@ The use of a mask combined with holding a cell phone directly in a victim's face
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -34,10 +34,7 @@ source_url: ''
   <section id="what-happened">
     <h2>What Happened: The  Billion Deal</h2>
     <p>It took a couple of months longer than initially expected, but the transaction cleared its final major hurdle when the league's remaining 29 owners unanimously approved the sale following a vetting process by an eight-member committee. Feliciano, co-founder of private equity firm Clearlake Capital, and Jones secured the team after winning a competitive bidding war in April against three other finalist groups.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>The franchise was purchased from the Seidler family, who originally led a group to acquire the Padres for  million in 2012. Until his passing from an infection in 2023, Peter Seidler famously poured capital into the roster, turning the Padres into a perennial playoff contender. The new ownership group has immediately pledged to build upon that financial and competitive foundation, while retaining CEO Erik Greupner and President of Baseball Operations A.J. Preller to maintain operational continuity.</p>
   </section>
@@ -100,25 +97,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

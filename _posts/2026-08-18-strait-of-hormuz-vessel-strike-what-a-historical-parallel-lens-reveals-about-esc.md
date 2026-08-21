@@ -98,10 +98,7 @@ source_url: 'https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-tru
 
 <h2 id="what-happened">What Happened in the Strait of Hormuz?</h2>
 <p>According to the UK Maritime Trade Operations agency, a cargo vessel transiting the strategically vital Strait of Hormuz suffered significant engine room damage and a crew casualty after being struck by an unknown projectile. The incident marks a dangerous escalation in a region already grappling with severe geopolitical friction.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>Simultaneously, political tensions have spiked ashore. US President Donald Trump announced that the United States is not seeking an extension of the memorandum of understanding (MoU) with Iran, which expired on Monday. Accompanied by assertions of US control over the waterway and stark rhetoric calling for Tehran to yield, the diplomatic landscape surrounding one of the world's most critical energy corridors has shifted dramatically overnight.</p>
 
@@ -156,25 +153,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -25,10 +25,7 @@ source_url: 'https://watchers.news/2026/08/17/el-nino-forecast-to-reach-historic
   <p>When the Climate Prediction Center (CPC) released its August assessment, the jump from an already high 81% probability in July to 95% caught the attention of climatologists worldwide. More striking than the percentage, however, is the projected intensity. NOAA’s Relative Oceanic Niño Index (RONI) points to a median October–December value of +2.66°C (+4.8°F), potentially exceeding any recorded event in data dating back to 1950. International agencies are seeing similar anomalies: Australia’s Bureau of Meteorology reported unprecedented upper-ocean heat anomalies, and the Japan Meteorological Agency noted tropical Pacific indicators tying their highest July values on record.</p>
 
   <p>For North America and beyond, this points toward a distinct winter pattern: wetter conditions across the southern tier, drier trends in the Northwest, and above-normal temperatures across much of the West and northern tier. Yet, as meteorological models map out the physical atmosphere, a parallel drama unfolds in our minds. How do everyday people process warnings of "historic" proportions, and why does extreme weather so often catch communities psychologically off guard?</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
   <div class="ncg-toc">
@@ -135,25 +132,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

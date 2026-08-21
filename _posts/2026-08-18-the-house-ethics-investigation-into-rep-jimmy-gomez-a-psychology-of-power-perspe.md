@@ -24,10 +24,7 @@ source_url: 'https://www.npr.org/2026/08/17/nx-s1-5935513/jimmy-gomez-house-ethi
   <section id="what-happened">
     <h2>What Happened?</h2>
     <p>The committee’s announcement on Monday confirms they are reviewing whether Rep. Gomez violated the Code of Official Conduct. The investigation follows reports, including a notable piece from the <em>New York Post</em>, regarding Gomez’s interactions with congressional staff. While Gomez has admitted to "personal mistakes," he maintains that his actions were consensual and did not violate House rules or the law. He has pledged to cooperate fully with the committee's impartial review.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   </section>
 
@@ -62,25 +59,3 @@ Tactical Waterproof Backpack
     <p>Source: <a href="https://www.npr.org/2026/08/17/nx-s1-5935513/jimmy-gomez-house-ethics-investigation" target="_blank" rel="noopener noreferrer">Original News Report</a></p>
   </section>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

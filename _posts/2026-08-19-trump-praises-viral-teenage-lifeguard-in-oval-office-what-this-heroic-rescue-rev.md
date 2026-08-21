@@ -34,10 +34,7 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/17/trump-oval-office-c
 <section id="what-happened">
 <h2>What Happened in the Waves?</h2>
 <p>The story began in late July along the rugged California coast in Santa Cruz, where a relaxing beach day quickly turned into a life-or-death struggle. Ten-year-old Nathanial Rai was swept off his feet by powerful, pounding waves that battered the shoreline. In seconds, the situation became perilous as the ocean’s undertow pulled him away.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>Enter Ryder Williams. At just 16 years old, Ryder didn't hesitate. Dramatic video footage captured the teenager clinging to Nathanial as massive waves repeatedly crashed over them both, dragging them beneath the surface before they briefly re-emerged as the water receded. A second lifeguard, Aaron Bohnen, rushed in to assist, eventually helping bring both boys safely back to shore.</p>
 <p>As Nathanial's father, Sumit, told the Associated Press afterward: "What he did, I can never repay. I’m forever grateful."</p>
@@ -105,25 +102,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

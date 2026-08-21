@@ -25,10 +25,7 @@ source_url: 'https://www.profarmer.com/news/agriculture-news/preliminary-route-r
 
 <h2 id="what-happened">What Happened on the Western Leg</h2>
 <p>The Pro Farmer Crop Tour relies on boots-on-the-ground pod counts and ear samples to project corn and soybean production across the U.S. Corn Belt. On the western leg covering South Dakota and Nebraska, this year's findings reveal extreme geographical and agronomic variability driven by a difficult weather arc.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 <p>In Nebraska&rsquo;s Districts 3 and 6 (sampling Thurston, Burt, Washington, and Dodge counties), tour leader Chip Flory reported corn yield averages around 172.9 bushels per acre (bpa), with a range spanning from 150.22 to 198.1 bpa. Soybean pod counts in 3&rsquo;x3&rsquo; squares averaged 1,241.2, ranging from 686.4 to 1,555.0. While fields look generally healthy, the tour noted minor disease pressures like bacterial leaf streak and northern leaf blight, alongside some tipback caused by intense summer heat.</p>
@@ -118,25 +115,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

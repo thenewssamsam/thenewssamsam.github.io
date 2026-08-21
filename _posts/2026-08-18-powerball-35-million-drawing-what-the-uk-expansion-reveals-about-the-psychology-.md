@@ -162,10 +162,7 @@ source_url: 'https://www.usatoday.com/story/money/lottery/2026/08/17/powerball-j
 <h2 id="what-happened">What Happened in Forest of Figures? The Aug. 17 Drawing</h2>
 <p>Following a whirlwind stretch that saw an Illinois player scoop up an estimated  billion jackpot just days prior, the Powerball ecosystem has settled back down to Earth. The jackpot for the Monday, Aug. 17 drawing has climbed back to a modest  million, with a cash value of  million.</p>
 <p>For those checking their slips, the official winning numbers for the Aug. 17 drawing are <strong>8, 15, 25, 49, 65</strong>, with the red Powerball number <strong>22</strong>. The "Power Play" multiplier was drawn at 4x.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>While  million feels microscopic compared to the multi-billion-dollar monsters that dominate headlines, it coincides with a structural change that reshapes the game's reach: players in the United Kingdom can now purchase tickets and compete for the exact same top prizes.</p>
 
@@ -238,25 +235,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

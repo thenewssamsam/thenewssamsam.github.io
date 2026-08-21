@@ -35,10 +35,7 @@ source_url: ''
 <h2>What Happened in Shasta County</h2>
 <p>Shasta County Registrar of Voters Clint Curtis has announced plans to replace current Assistant Registrar of Voters Brent Turner with Tina Peters next month. Peters is the former Mesa County, Colorado clerk who made national headlines after being convicted in August 2024 on seven counts related to election interference, later having her prison sentence commuted following political intervention. Curtis confirmed the staffing change via a text message to local media.</p>
 <p>The appointment carries significant structural weight. Under county policy, if Curtis were to leave office before his term concludes in early January, the assistant registrar would temporarily step into the role until the Shasta County Board of Supervisors could select an interim replacement. The announcement also lands on the heels of Curtis himself being censured by the Board of Supervisors in a 3 to 1 vote, underscoring an already tense local political climate.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 </section>
 
@@ -121,25 +118,3 @@ Tactical Waterproof Backpack
 .ncg-source { font-size: 0.9rem; margin-top: 2rem; color: #555; }
 </style>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

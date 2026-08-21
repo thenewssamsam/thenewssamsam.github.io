@@ -36,10 +36,7 @@ source_url: 'https://www.euronews.com/my-europe/2026/08/17/eu-to-propose-tougher
     <h2>What Happened: The Autumn Sanctions Push</h2>
     <p>In an interview with the German newspaper <em>Die Welt</em>, EU foreign policy chief Kaja Kallas outlined plans to introduce the most "far-reaching sanctions listings since the start of the war" this coming autumn. Following 21 prior packages that have already frozen over €28 billion in private assets and targeted more than 3,000 individuals and entities, this upcoming initiative aims to expand the blacklist by roughly a third—adding approximately 1,000 more names.</p>
     <p>The core objective is straightforward: to systematically restrict Moscow's military-industrial complex, export operations, and financial lifeblood. Yet, executing this strategy requires unanimous backing from all 27 EU member states, a procedural hurdle that has repeatedly exposed internal economic divisions.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
   </section>
 
@@ -122,25 +119,3 @@ Seagate Portable External Hard Drive
   .ncg-footer-source a { color: #2980b9; text-decoration: none; }
   .ncg-footer-source a:hover { text-decoration: underline; }
 </style>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

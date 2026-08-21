@@ -36,10 +36,7 @@ source_url: 'https://www.notus.org/foreign-policy/germany-far-right-is-on-the-ri
 <section id="what-happened">
 <h2>What Happened in Germany</h2>
 <p>The Alternative for Germany, commonly known as the AfD, is positioned to potentially capture a governing state majority in Saxony-Anhalt. Led by regional candidate Ulrich Siegmund, the party is capitalizing on significant voter dissatisfaction, surging roughly 20 points ahead of Chancellor Friedrich Merz's center-right Christian Democratic Union (CDU).</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -106,29 +103,3 @@ Seagate Portable External Hard Drive
 <p>Source: <a href="https://www.notus.org/foreign-policy/germany-far-right-is-on-the-rise" target="_blank" rel="noopener noreferrer">Original News Report via Notus</a></p>
 </footer>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

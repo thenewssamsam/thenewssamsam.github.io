@@ -36,10 +36,7 @@ source_url: 'https://www.cbsnews.com/news/flock-license-plate-tracking-search-ch
     <h2>What Happened: The Rise of Flock Safety and Public Lookups</h2>
     <p>For drivers across the United States, the invisible network of automated license plate readers (ALPRs) is becoming an everyday reality. Private companies like Flock Safety install high-definition cameras on neighborhood entrances, commercial corridors, and highway poles, capturing vehicle makes, models, colors, and license plates. These systems feed vast databases used by police agencies, local communities, and private businesses to track stolen vehicles, locate missing persons, and investigate crimes.</p>
     <p>However, the rapid scaling of this technology has brought privacy concerns to the forefront. A recent report highlighting instances where law enforcement officers faced scrutiny for unauthorized database queries has amplified public unease. In response to growing anxiety over who is watching whom, an independent online tool called <strong>HaveIBeenFlocked.com</strong> has emerged, giving citizens a way to search public audit logs and see if their specific license plate numbers have ever been queried in Flock's system.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>While the database contains more than 4.6 million license plate records harvested from roughly 242 million searches, the site's creators emphasize that it only reveals searches conducted by system customers—not every single frame captured by a camera. Even with its limitations, the tool taps into a very real public desire for transparency in an era of quiet, automated data collection.</p>
   </section>
@@ -110,25 +107,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -36,10 +36,7 @@ source_url: 'https://www.cnn.com/2026/08/18/world/live-news/iran-war-trump'
 <section id="what-happened">
     <h2>What Happened in the Strait of Hormuz</h2>
     <p>President Donald Trump escalated regional tensions on Monday by threatening to bomb Oman if the Gulf nation “gets in the way” of United States operations in the Strait of Hormuz. The fiery warning comes as a 60-day deadline for a negotiated framework to end the ongoing conflict with Iran expired without a breakthrough. Meanwhile, the UK Maritime Trade Operations (UKMTO) reported that a commercial vessel was struck by an unknown projectile while transiting the vital waterway on Tuesday, resulting in engine room damage and at least one crew casualty.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>The incident highlights the deepening paralysis in global shipping lanes. MarineTraffic data indicates that commercial traffic through the strait has plummeted to a trickle, with only a handful of ships daring the crossing over a 24-hour window while the US government redirects dozens of other vessels. At the same time, regional diplomacy is fraying: democratic lawmakers warn that alienating key mediators like Oman will only compound economic pressures on everyday consumers through rising gas and food prices.</p>
 </section>
@@ -121,25 +118,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

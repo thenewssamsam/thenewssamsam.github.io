@@ -34,10 +34,7 @@ source_url: 'https://247wallst.com/investing/2026/08/17/berkshire-raised-its-alp
     <h2>What Happened: The Berkshire Filing That Stunned Markets</h2>
     <p>For months, the market narrative around Alphabet (NASDAQ:GOOG) has been dominated by anxiety over massive artificial intelligence spending. Even though the company posted stellar Q2 2026 results on July 22—reporting  billion in revenue (up 24.2% year-over-year) and an EPS of  that soundly beat consensus estimates—investors fixated on a different set of numbers.</p>
     <p>Capital expenditures nearly doubled to  billion, free cash flow dipped into negative territory, and long-term debt increased. Shares cooled off from summer highs, pulling back 7.2% over a single month.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>Then came Warren Buffett's Berkshire Hathaway filing, revealing a massive 658% expansion in its Alphabet position. Suddenly, the narrative flipped from panic over capital spending to a vote of confidence in Alphabet's underlying cash-generating engine.</p>
   </section>
@@ -128,25 +125,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

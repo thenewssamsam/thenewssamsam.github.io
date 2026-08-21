@@ -39,10 +39,7 @@ source_url: 'https://www.mlbtraderumors.com/2026/08/diamondbacks-place-ketel-mar
 <section id="what-happened">
 <h2>What Happened in Boston</h2>
 <p>The Arizona Diamondbacks were preparing for a crucial game against Boston when manager Torey Lovullo delivered surprising news to the media. Marte, expected to start as the designated hitter, simply did not show up to the stadium. Lovullo admitted in his postgame comments that it had been a crazy day, noting that while he knew something was amiss, he genuinely believed his star player would walk through the clubhouse doors before game time.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>Instead, the team was forced to shuffle on the fly. Infielder Jose Fernandez was recalled from Triple-A Reno, and Lars Nootbaar took over designated hitter duties at the bottom of the lineup. The Diamondbacks officially placed Marte on the restricted list—a non-disciplinary, non-injury designation where players are unpaid and unavailable. While the mechanism is common for brief personal leaves like paternity, the sudden, unannounced nature of Marte&apos;s absence raised immediate questions.</p>
 <p>Journalists on the beat quickly recalled a similar incident roughly a year prior, when Marte missed time following the All-Star break after a burglary at his Arizona home. While team leadership has historically backed him, the repetition of sudden absences touches on a fascinating intersection between elite athletic performance and human psychological endurance.</p>
@@ -134,25 +131,3 @@ li { margin-bottom: 0.5rem; line-height: 1.6; }
 .ncg-source a:hover { text-decoration: underline; }
 </style>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

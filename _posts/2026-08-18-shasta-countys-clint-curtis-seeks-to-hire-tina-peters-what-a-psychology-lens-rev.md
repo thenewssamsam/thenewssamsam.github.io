@@ -40,10 +40,7 @@ source_url: ''
 <section id="what-happened">
 <h2>What Happened in Shasta County</h2>
 <p>In a move bound to draw intense scrutiny, Shasta County Clerk and Registrar of Voters Clint Curtis stated he intends to bring in Tina Peters to replace Assistant Registrar of Voters Brent Turner, who has been on medical leave. Citing potential administrative hurdles in standard county hiring timelines, Curtis indicated he plans to contract Peters directly rather than onboard her as a traditional county employee.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>Peters, the former clerk and recorder for Mesa County, Colorado, was convicted in August 2024 on four felonies and three misdemeanors stemming from a 2021 breach of her county's voting equipment. Prosecutors demonstrated that Peters allowed an unauthorized individual to access voting systems while pursuing unverified claims of widespread fraud during the 2020 election. Initially sentenced to nine years, Peters served less than two years before Colorado Governor Jared Polis commuted her sentence following an appeals court ruling and intense pressure from political figures, including President Donald Trump.</p>
 <p>Curtis defended the prospective arrangement by pointing to Peters' high-level political connections, remarking that her personal line of communication with the president would be "really handy considering the Antifa group we deal with here." County officials, including Deputy CEO Stewart Buettell, have countered that Peters will still be subject to standard county processes and hiring rules.</p>
@@ -168,25 +165,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -32,10 +32,7 @@ source_url: 'https://www.boredpanda.com/larry-ellison-bio-and-career-highlights/
 
 <h2 id="the-blueprint-of-a-tech-titan">The Blueprint of a Tech Titan</h2>
 <p>To understand Lawrence Joseph Ellison is to understand a masterclass in relentless self-education and unapologetic persistence. Born in New York City in 1944 and raised by his adoptive aunt and uncle in Chicago after his biological mother gave him up at nine months old, Ellison's early life offered very few guarantees of extraordinary wealth or influence. He displayed an early aptitude for mathematics and science, but his formal education was decidedly non-linear: he attended both the University of Illinois Urbana-Champaign and the University of Chicago, ultimately dropping out of both.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -93,29 +90,3 @@ A childhood marked by adoption and difficult family dynamics does not destestine
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

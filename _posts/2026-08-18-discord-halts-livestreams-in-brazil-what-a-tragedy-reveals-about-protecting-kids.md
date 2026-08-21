@@ -38,10 +38,7 @@ source_url: 'https://apnews.com/article/brazil-discord-children-social-media-f7f
 
 <h2 id="what-happened">What Happened in Brazil</h2>
 <p>Discord, the immensely popular communication platform used by more than 90 million active daily users worldwide—predominantly gamers—announced it has halted its livestreaming features in Brazil. The move came after the country’s national data protection agency ordered the suspension, citing robust evidence that the platform failed to protect children and adolescents from exposure to extreme violence, self-harm, and peer coercion.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <p>The regulatory crackdown follows a tragic incident in July, when an underage girl in the state of Mato Grosso do Sul was allegedly coerced by other users into committing suicide during a livestream. While Discord maintains that the specific event was not broadcast live and notes it had previously investigated and shut down a private server linked to criminal activity, the case intensified a fierce battle between the Brazilian government and tech giants over digital accountability.</p>
@@ -261,25 +258,3 @@ Seagate Portable External Hard Drive
 }
 </style>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

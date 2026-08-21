@@ -25,10 +25,7 @@ source_url: 'https://www.foxnews.com/world/trump-confirms-irgc-backchannel-calls
 <p>The 60-day ceasefire deadline has officially expired, but President Donald Trump’s stated objective regarding Iran's nuclear capabilities remains entirely unchanged. In an exclusive phone interview with Fox News correspondent Trey Yingst on Monday morning, the president confirmed the existence of a direct diplomatic backchannel with the Islamic Revolutionary Guard Corps (IRGC)—bypassing traditional intermediaries and Iranian political officials altogether.</p>
 
 <p>"They should put up the white flag of surrender," Trump told Yingst, reiterating his core demand that Iran must completely abandon its nuclear weapons aspirations. Around the same time, the president reinforced his position on Truth Social, writing that America's primary goal is ensuring Tehran can never acquire a nuclear weapon in any shape or form.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -194,29 +191,3 @@ Seagate Portable External Hard Drive
 }
 </style>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

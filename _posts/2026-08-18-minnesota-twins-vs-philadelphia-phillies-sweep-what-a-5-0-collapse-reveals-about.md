@@ -34,10 +34,7 @@ source_url: 'https://www.startribune.com/minnesota-twins-philadelphia-phillies-g
     <h2>What Happened in the Iowa-to-Minnesota Series?</h2>
     <p>For a moment, things looked entirely different for the Minnesota Twins. Entering their high-profile three-game series against the loaded Philadelphia Phillies—starting with a unique opener 245 miles south of Target Field at the iconic Field of Dreams site in Dyersville, Iowa—the Twins carried the momentum of six consecutive home series wins.</p>
     <p>Then reality caught up in a hurry. The set began with Kyle Schwarber launching a home run into the cornfield as the very first batter, setting a tone of relentless pressure from Philadelphia. By the time the dust settled on Sunday back home, the Twins had dropped the finale 7-5, capping off a brutal sweep that included earlier 7-1 and 9-1 losses. The sweep dropped manager Derek Shelton's ballclub to five games under .500 at 60-65, pushing them 1&frac12; games back of the American League's final wild-card spot.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -207,29 +204,3 @@ li {
   text-decoration: underline;
 }
 </style>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

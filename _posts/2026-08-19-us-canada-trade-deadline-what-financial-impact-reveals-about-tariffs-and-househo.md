@@ -20,10 +20,7 @@ source_url: "https://www.bbc.com/news/articles/crl7600rpnko"
 <section class="ncg-intro">
     <p>As intense trade talks go down to the wire in Washington, Prime Minister Mark Carney faces a high-stakes deadline to avert sweeping new US tariffs on Canadian goods. While political negotiators grapple over dairy quotas and provincial alcohol bans, ordinary citizens on both sides of the border are left wondering how a full-blown tariff escalation will touch their everyday expenses.</p>
     <p>Beneath the diplomatic posturing lies a stark economic reality: trade policies are never abstract numbers on a government spreadsheet. They translate directly into grocery bills, manufacturing costs, and household purchasing power.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 </section>
 
@@ -76,25 +73,3 @@ Seagate Portable External Hard Drive
     <p>Source: <a href="https://www.bbc.com/news/articles/crl7600rpnko" target="_blank" rel="noopener noreferrer">Original News Report</a></p>
 </footer>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -37,10 +37,7 @@ source_url: 'https://bigislandnow.com/2026/08/17/what-you-need-to-know-about-tro
     <h2>What Happened</h2>
     <p>Following the passage of Hurricane Lala, the Big Island of Hawaiʻi is deep into recovery mode. During a press conference in Hilo, Hawaiʻi Gov. Josh Green announced that all public schools, as well as state and county offices, would remain closed to allow public works and utility crews uninterrupted access to clear roadways and restore critical infrastructure.</p>
     <p>While airports and commercial harbors have successfully reopened to ensure supply chains keep moving, thousands of residents are still grappling with downed power lines, damaged infrastructure, and strict water conservation mandates. The storm left a significant footprint, particularly in rural and windward communities.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   </section>
 
@@ -180,25 +177,3 @@ Tactical Waterproof Backpack
     footer { margin-top: 2rem; font-size: 0.9rem; color: #666; border-top: 1px solid #eee; padding-top: 1rem; }
   </style>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

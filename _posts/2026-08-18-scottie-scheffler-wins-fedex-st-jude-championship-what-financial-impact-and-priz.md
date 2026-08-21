@@ -90,10 +90,7 @@ source_url: 'https://sports.yahoo.com/golf/article/fedex-st-jude-championship-pu
 
 <h2 id="what-happened">What Happened at TPC Southwind</h2>
 <p>Entering the week in Memphis, Scheffler had already racked up five runner-up finishes and 11 top-10 placements this season. Yet, despite playing elite golf all year, he was fighting to avoid a frustrating single-win season by his own exceptionally high standards. All of that narrative shifted over four rounds on the TPC Southwind course.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -151,29 +148,3 @@ Seagate Portable External Hard Drive
     <p>Source: <a href="https://sports.yahoo.com/golf/article/fedex-st-jude-championship-purse-payouts-how-much-did-scottie-scheffler-earn-for-his-win-at-tpc-southwind-214959843.html" target="_blank" rel="noopener noreferrer">Yahoo Sports</a></p>
 </footer>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -36,10 +36,7 @@ source_url: 'https://www.investopedia.com/gen-x-retirement-savings-how-much-they
 <p>To understand where Gen X stands financially, economists look past shiny marketing brochures and examine hard national data. The most revealing figure from the Federal Reserve's Survey of Consumer Finances is not a dollar amount at all—it is the 38% of households that report having absolutely no retirement savings.</p>
 
 <p>For the remaining 62% who managed to squirrel away funds, the numbers require careful interpretation. Financial analysts distinguish between the mean (average) and the median (the midpoint where half have more and half have less). Because a small group of exceptionally large accounts pulls the average upward, the median balance of ,000 offers a much truer picture of the typical Gen X household.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <p>Compare that ,000 median to widely cited industry benchmarks, and the gap becomes stark. Major financial institutions like Fidelity recommend having six times your annual salary saved by age 50, and eight times by age 60. With the national average salary hovering near ,000 in 2024, those benchmarks point toward targets of ,000 and ,000 respectively. For millions of Gen Xers, current balances fall well short of those milestones.</p>
@@ -144,25 +141,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -31,10 +31,7 @@ source_url: "https://turnto10.com/news/local/testimony-in-lindsay-clancy-murder-
     <p>
       Tuesday's proceedings featured starkly contrasting elements. Early in the day, a sharp exchange occurred when prosecutor Shanan Buckingham questioned the defendant's former mother-in-law, Susan Clancy, regarding her active role in the Catholic Church and the moral weight of murder. Following a defense objection and a judicial sidebar, Judge William Sullivan instructed the jury to disregard the exchange entirely. 
     </p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>
       Later, the prosecution presented graphic medical testimony from Dr. Elizabeth Laposata, a former Rhode Island chief medical examiner, detailing the physical mechanics of the strangulation. As the grim details were read aloud, Clancy wept openly, her shoulders shaking in the courtroom. The day concluded with testimony from Dr. Paul Zeizel, a psychologist who treated Clancy in February 2023. Zeizel testified that weeks after the tragedy, Clancy reported hearing an internal male voice commanding her that she had no choice but to kill her children and then take her own life.
@@ -116,25 +113,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

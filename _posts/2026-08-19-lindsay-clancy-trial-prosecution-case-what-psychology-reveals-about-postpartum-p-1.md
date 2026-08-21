@@ -22,10 +22,7 @@ source_url: "https://www.bostonglobe.com/2026/08/17/metro/lindsay-clancy-trial-p
   <p>As the high-profile murder trial of Lindsay Clancy enters its fourth week of testimony, the courtroom battle has moved far beyond the undisputed physical reality of what happened. The prosecution and the defense agree that Clancy strangled her three young children—Cora, 5; Dawson, 3; and Callan, 8 months—in their Duxbury home on January 24, 2023, before attempting to take her own life. What remains bitterly contested, however, is a deeply human question: Where does a catastrophic mental health collapse end, and where does deliberate criminal intent begin?</p>
 
   <p>For three weeks, state prosecutors laid out a meticulous case featuring 71 witnesses, arguing that Clancy was rational, in control, and acting with premeditation. As the defense begins its turn, the case opens a haunting window into the complexities of postpartum psychiatric disorders, the friction between clinical care and the legal system, and the heavy psychological weight placed on juries attempting to parse tragedy from malice.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
   <h2 id="what-happened">The Prosecution Rest, the Defense Takes the Floor</h2>
@@ -93,25 +90,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

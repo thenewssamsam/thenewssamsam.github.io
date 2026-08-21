@@ -133,10 +133,7 @@ source_url: ''
 <h2 id="what-happened">What Happened at O'Hare?</h2>
 
 <p>On Monday, Chicago O'Hare International Airport experienced a pair of unusual aviation incidents involving commercial aircraft tire damage within hours of each other. According to the Federal Aviation Administration (FAA), American Airlines Flight 386 blew two tires while landing around 2 p.m. after arriving from New York's LaGuardia Airport. The aircraft touched down safely, and passengers deplaned via stairs before being transported to the terminal by bus.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 <p>Aerial footage from Chopper 7 captured the scale of the precautionary response, showing multiple fire trucks and police cars surrounding the aircraft on the tarmac. American Airlines confirmed the aircraft was removed from service for inspection.</p>
@@ -188,25 +185,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

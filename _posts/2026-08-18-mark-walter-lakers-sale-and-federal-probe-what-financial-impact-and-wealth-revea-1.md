@@ -37,10 +37,7 @@ source_url: 'https://www.nytimes.com/athletic/7517341/2026/08/17/mark-walter-lak
     <h2>What Happened: The Billionaire in the Crosshairs</h2>
     <p>Mark Walter has spent decades cultivating a reputation as an understated financial titan. With an estimated net worth of  billion, the Iowa native and co-founder of Guggenheim Partners managed to purchase iconic sports franchises like the Los Angeles Dodgers and Chelsea FC while maintaining a remarkably low public profile. Even his courtside appearances for the Los Angeles Lakers rarely generated the flashy tabloid headlines associated with modern sports ownership.</p>
     <p>That low-profile era abruptly ended. Following a high-profile White House visit celebrating the Dodgers' consecutive World Series titles, Walter found himself thrust into national headlines over a very different transaction: the stunning sale of the NBA’s Los Angeles Lakers just 14 months after acquiring the legendary franchise. The team was sold to former Disney CEO Bob Iger and Thrive Capital founder Joshua Kushner for a jaw-dropping  billion—generating a massive  billion paper gain in over a year.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>Yet, the timing of the sale raised immediate questions across financial markets and sports circles alike. Simultaneous to the historic team sale, reports surfaced that federal investigators had seized Walter's electronic devices, and grand jury subpoenas were issued to insurance companies under his control. For a man who built his empire behind closed-door transactions, the convergence of a multi-billion-dollar team sale and a federal probe marks an unprecedented moment of intense public scrutiny.</p>
   </section>
@@ -186,25 +183,3 @@ Seagate Portable External Hard Drive
     .ncg-footer-source { margin-top: 2rem; font-size: 0.9rem; color: #555; border-top: 1px solid #eee; padding-top: 1rem; }
   </style>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

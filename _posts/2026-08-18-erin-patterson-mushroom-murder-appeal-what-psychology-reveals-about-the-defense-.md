@@ -33,10 +33,7 @@ source_url: 'https://www.rte.ie/news/world/2026/0817/1588163-erin-patterson-appe
 <h2 id="what-happened">What Happened: The Appeal Hearing Begins</h2>
 
 <p>Over a two-day hearing before three judges at the Court of Appeal in Melbourne, legal counsel for 51-year-old Erin Patterson will attempt to prove that her original trial was marred by substantial miscarriages of justice. Patterson, participating via live video link from the maximum-security Dame Phyllis Frost Centre, claims the trial judge erred in admitting prejudicial evidence—such as Facebook messages and cell tower data—while wrongly excluding other digital files found on her home memory card. Her defense also points to an unspecified fundamental irregularity during jury sequestration that allegedly undermined the verdicts, alongside complaints of an unfair prosecution cross-examination.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 <p>Meanwhile, the Crown is pressing back with its own cross-appeal, arguing that the original sentencing judge erred by factoring in the likelihood that Patterson would spend years in solitary confinement, rendering her 33-year minimum term manifestly inadequate for a triple murder and an attempted murder. As the appellate judges weigh whether to grant leave to appeal, the case once again forces observers to reckon with one of the most bizarre and chilling domestic tragedies in recent history.</p>
@@ -102,25 +99,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

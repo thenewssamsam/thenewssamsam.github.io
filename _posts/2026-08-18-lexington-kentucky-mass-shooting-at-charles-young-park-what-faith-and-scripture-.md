@@ -36,10 +36,7 @@ source_url: 'https://www.usatoday.com/story/news/nation/2026/08/17/lexington-ken
 <h2>What Happened at Charles Young Park?</h2>
 <p>According to the Lexington Police Department, officers responded to reports of shots fired just before 7 p.m. ET on Friday, August 15. The park was hosting East End Day, a vibrant neighborhood celebration that brought families, children, and local leaders together.</p>
 <p>Instead of a celebration, chaos ensued. Authorities confirmed that five people were struck by gunfire. Sixteen-year-old Di'Zhon Robertson tragically succumbed to his injuries at a local hospital. Four others—including a 4-year-old child and a 14-year-old—sustained injuries. Police later arrested 18-year-old Jametrius M. Griffin, who now faces charges including murder, assault, and tampering with evidence.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -117,29 +114,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

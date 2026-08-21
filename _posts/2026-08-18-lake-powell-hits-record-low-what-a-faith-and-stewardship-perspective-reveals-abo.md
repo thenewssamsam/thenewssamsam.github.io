@@ -35,10 +35,7 @@ source_url: 'https://www.sfgate.com/bayarea/article/lake-powell-record-low-22392
 
 <h2 id="what-happened">What Happened at Lake Powell?</h2>
 <p>Over the weekend, Lake Powell—located on the Arizona-Utah border and serving as America's second-largest reservoir—dropped to a new record-low surface elevation of 3,519.91 feet, eclipsing its previous low set in April 2023. By Sunday, the level fell even further to 3,519.8 feet, according to data from the U.S. Bureau of Reclamation.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>This steady decline brings the reservoir dangerously close to critical operational thresholds. Lake Powell is now roughly 30 feet away from the point where the Glen Canyon Dam can no longer generate hydropower. If water levels drop below 3,490 feet, water would have to bypass the hydroelectric turbines entirely through river outlet works, causing severe regional power and water instability. Further down, at 3,370 feet, the reservoir reaches "dead pool" status, where water can no longer flow through the dam at all.</p>
 
@@ -142,25 +139,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

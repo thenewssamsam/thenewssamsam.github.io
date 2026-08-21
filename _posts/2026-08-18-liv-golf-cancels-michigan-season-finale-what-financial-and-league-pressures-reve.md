@@ -44,10 +44,7 @@ source_url: ''
 <p>Professional golf's high-stakes scheduling calendar experienced another abrupt shake-up when LIV Golf confirmed that its season-ending Team Championship in Michigan will no longer take place. Scheduled for August 27-30 at The Cardinal at Saint John's Resort, the tournament had already sparked speculation last week when ticket sales quietly vanished from the league's official website.</p>
 
 <p>The confirmation, arriving via a lengthy league statement on Monday, establishes that LIV Golf Indianapolis will now serve as the final event of the season, crowning its winner a week earlier than originally planned. The announcement also aligns with player movements: star player Tyrrell Hatton promptly joined fellow LIV competitors Tom McKibbin and Adrian Meronk on the entry list for the DP World Tour's British Masters, which occupies the exact same late-August window at The Belfry.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 <p>While league CEO Scott O'Neil recently announced that LIV had secured an agreement with a new unnamed 'lead investor' to fund the 2027 season following the planned conclusion of financial backing from Saudi Arabia's Public Investment Fund (PIF), the sudden contraction of the 2026 calendar underscores just how fluid and high-pressure sports business logistics remain at this level.</p>
@@ -105,25 +102,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

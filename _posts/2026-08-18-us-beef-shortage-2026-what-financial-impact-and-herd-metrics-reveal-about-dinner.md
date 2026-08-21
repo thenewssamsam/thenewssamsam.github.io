@@ -18,10 +18,7 @@ source_url: 'https://www.foxbusiness.com/politics/historic-shortage-squeezing-am
   <section class="ncg-intro">
     <p><strong>American consumers staring down historic grocery bills are confronting a structural economic reality: the United States is operating with its smallest cattle herd in 75 years, and economic fundamentals suggest price relief at the meat counter could take years to materialize.</strong></p>
     <p>When Tyson Foods announced plans to close major beef processing facilities in Illinois and Utah while putting a Washington plant up for sale, it signaled a stark truth about the current agricultural cycle. This is not a temporary supply chain hiccup or a brief logistical bottleneck. It is a fundamental contraction in livestock supply driven by years of severe weather, shifting economic pressures for ranchers, and biological timelines that cannot be rushed by corporate boardrooms or government mandates.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -157,29 +154,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

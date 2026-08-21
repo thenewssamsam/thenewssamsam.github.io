@@ -35,10 +35,7 @@ source_url: 'https://www.atlantanewsfirst.com/2026/08/17/babysitter-believed-hav
 <p>The incident began to unfold when Atlanta police issued an Amber Alert for 11-month-old Norah and 4-year-old Zola after they were reported missing by their mother, Elica Redding. Redding had left the children in the care of Lakesha Brown on Saturday evening while she went out to dinner. According to investigators, Brown had gained the mother's trust over an entire year after meeting through an online mom group where Brown offered free hair services to expecting mothers.</p>
 
 <p>When Brown failed to return the children and allegedly offered misleading reassurances that she was on her way back, a delay in the 911 call occurred. Fortunately, a tipster led Atlanta police, the GBI, and the FBI to the Gateway South Apartment Complex on Sylvan Road on Monday morning. Officers heard a baby crying inside a trailer, rescued the children safely, and took Brown into custody.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <p>Investigators soon uncovered a disturbing pattern. Atlanta police confirmed that Brown is the same individual arrested in Birmingham, Alabama, in 2021 for allegedly kidnapping a 4-day-old baby after similarly spending days getting close to the mother. Jefferson County District Attorney Lynneice Washington noted that Brown also had an outstanding warrant in Alabama for failing to appear in court.</p>
@@ -126,25 +123,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

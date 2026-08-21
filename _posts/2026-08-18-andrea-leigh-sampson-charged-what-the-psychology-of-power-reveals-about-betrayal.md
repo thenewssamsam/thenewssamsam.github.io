@@ -116,10 +116,7 @@ source_url: 'https://www.mprnews.org/story/2026/08/17/former-anoka-county-assist
   <h2>What Happened in the Case</h2>
   <p>When a sworn officer of the court is accused of orchestrating the very crimes they swore to prosecute, the shockwaves extend far beyond local headlines. According to reports from Minnesota public media outlets, former Anoka County assistant attorney Andrea Leigh Sampson has been formally charged in connection with running a sex trafficking ring. The gravity of the allegations immediately prompts fundamental questions from community members and legal observers alike: How could someone entrusted with upholding the law allegedly participate in such severe exploitation?</p>
   <p>While the legal proceedings are still unfolding and all defendants remain presumed innocent until proven guilty in a court of law, the sheer dissonance of the charges has captured public attention. It is a sobering reminder that vulnerability to corruption does not bypass elite institutions or professional offices. To understand how individuals in positions of public trust can cross such profound ethical and legal boundaries, we have to look past the courtroom mechanics and examine the underlying behavioral and psychological forces at play.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 </section>
 
@@ -184,25 +181,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

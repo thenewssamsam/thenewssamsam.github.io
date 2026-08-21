@@ -151,10 +151,7 @@ source_url: 'https://www.theguardian.com/world/2026/aug/18/south-korea-rain-dead
 <h2 id="nks-what-happened">What Happened in South Korea and the Philippines?</h2>
 
 <p>Torrential downpours that began pounding southern parts of South Korea over the weekend resulted in tragic loss of life and widespread structural damage. According to the interior and safety ministry, the city of Geoje in South Gyeongsang province recorded an astonishing 800mm (31 inches) of rain over the weekend, with cumulative totals reaching 912mm by Monday evening. Neighboring Tongyeong also experienced severe flooding, receiving 671.9mm during the same period.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <p>The relentless water triggered a sudden landslide that struck an apartment building in Geoje. While police and firefighters successfully rescued three residents, one individual was unfortunately found in cardiac arrest and later pronounced dead at a hospital. Across the region, about 390 residents were forced to evacuate, power outages impacted roughly 3,580 homes, and a dozen schools and kindergartens were flooded. Weather officials noted that the province received an entire summer's worth of rain in just two days.</p>
@@ -273,25 +270,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

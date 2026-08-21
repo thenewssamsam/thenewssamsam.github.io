@@ -20,10 +20,7 @@ source_url: 'https://www.cbsnews.com/news/trump-teen-lifeguard-ryder-williams-ov
     <h2>A Moment of Bravery in the Surf</h2>
     <p>Last month, a harrowing scene unfolded on a beach in Santa Cruz, California. Nathaniel Rai, a 10-year-old boy, was caught in a powerful rip current, fighting for his life against the treacherous Pacific surf. Ryder Williams, a 16-year-old lifeguard, didn't hesitate. He entered the water, fought the crashing waves, and successfully brought the boy to safety. On Monday, that act of courage took the young lifeguard and the rescued boy to the most famous office in the world: the Oval Office.</p>
     <p>President Trump, who viewed the viral footage of the rescue, invited both Williams and the Rai family to Washington, D.C. Calling the act "incredible," the President highlighted a truth often overlooked in our fast-paced news cycle: the vital importance of those who stand watch over our communities.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   </section>
 
@@ -75,25 +72,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

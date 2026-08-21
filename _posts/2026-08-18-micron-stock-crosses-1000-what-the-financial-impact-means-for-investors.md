@@ -25,10 +25,7 @@ source_url: 'https://finance.yahoo.com/markets/stocks/article/micron-stock-heats
   <h2 id="what-happened">What Happened in the Market</h2>
   <p>Momentum has roared back to one of the standout trades of 2026. Micron (MU) crossed the ,000 threshold in premarket trading on Monday—a price level the stock hadn't touched since July 6, according to Yahoo Finance AlphaSpace data.</p>
   <p>The journey back to four digits has been a volatile one. Following that July peak, shares endured a 25% pullback through July 29 as investors grew jittery over overvaluation fears and a broader cooling period for momentum AI plays. Since hitting those lows, however, the stock has mounted an impressive 36% recovery, bringing its year-to-date gains to a staggering 240%.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
   <h2 id="financial-impact">The Financial Impact: Supply, Demand, and Pricing Power</h2>
@@ -75,25 +72,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

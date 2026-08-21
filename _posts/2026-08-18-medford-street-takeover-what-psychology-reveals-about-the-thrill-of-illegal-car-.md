@@ -147,10 +147,7 @@ source_url: 'https://www.newsday.com/long-island/crime/street-takeover-li-medfor
 <p>When fifteen people woke up facing criminal charges after a late-night gathering in Medford, they learned a hard lesson about what happens when digital thrills crash into physical-world laws. Street takeovers have transformed from quiet underground meetups into high-visibility, social-media-driven events that draw crowds, block intersections, and increasingly capture the attention of specialized police task forces.</p>
 
 <p>Behind the roar of engines and the smell of burning rubber lies a complex social phenomenon. To understand why dozens of drivers and spectators are willing to risk wrecked vehicles, steep fines, and arrest records, we have to look past the asphalt and examine what is happening inside the minds of the participants.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -207,29 +204,3 @@ Tactical Waterproof Backpack
 </script>
 </div>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

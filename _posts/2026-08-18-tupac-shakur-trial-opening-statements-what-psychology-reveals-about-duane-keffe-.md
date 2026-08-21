@@ -25,10 +25,7 @@ source_url: ''
 <section>
 <h2 id="what-happened">What Happened in Court</h2>
 <p>In opening statements before a Clark County jury, prosecutors laid out a narrative rooted in a bitter 1990s gang rivalry between the Southside Crips-Burris Street faction, led by Davis, and Mob Piru, a Compton street gang closely tied to Death Row Records and mogul Marion &ldquo;Suge&rdquo; Knight. Hours before the fatal shooting on September 7, 1996, members of Shakur's entourage were captured on surveillance video confronting and beating Orlando Anderson—Davis&rsquo;s nephew—in the lobby of the MGM Grand hotel following a Mike Tyson boxing match.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>According to Chief Deputy District Attorney Binu Palal, the beating sparked an immediate revenge plot. Prosecutors played recordings from a 2008 police task force interview in which Davis admitted to orchestrating the retaliation, acquiring a firearm from an out-of-state drug dealer, and placing it in the vehicle used by the shooters. While Davis did not pull the trigger, prosecutors argue he was the mastermind who set the execution in motion.</p>
 <p>Conversely, defense attorney Michael Sanft launched an unusual defense strategy, effectively working to undermine his own client's credibility. Sanft argued that there is no physical evidence linking Davis to the shooting vehicle in 1996, characterizing his client&rsquo;s books, interviews, and media appearances as mere fiction, bravado, and a hustle to make money for his family. Davis, now 63 and pleading not guilty to murder with a deadly weapon with gang enhancements, has recently shifted his narrative, denying involvement and blaming former security figures.</p>
@@ -72,25 +69,3 @@ Seagate Portable External Hard Drive
 <p><a href="https://www.latimes.com/california/story/2026-08-17/tupac-trial-compton-gang-rivalry" target="_blank" rel="noopener noreferrer">Original News Report - Los Angeles Times</a></p>
 </section>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

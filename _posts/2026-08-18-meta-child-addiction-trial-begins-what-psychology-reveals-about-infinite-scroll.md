@@ -25,10 +25,7 @@ source_url: 'https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social
     <h2>What Happened in the Meta Landmark Trial</h2>
     <p>Meta is heading into federal court in Oakland, California, to defend itself against a massive lawsuit filed by state attorneys general from California, Colorado, Kentucky, and New Jersey. The states are seeking up to  trillion in penalties and structural product changes, alleging that Meta intentionally designed its platforms—Facebook and Instagram—to hook children, misled the public about safety risks, and collected data on minors in violation of the Children's Online Privacy Protection Act (COPPA).</p>
     <p>Legal scholars are comparing the case to historic litigation against tobacco and opioid manufacturers, noting that the focus is squarely on product design rather than user-generated content. Plaintiffs argue that features like the "like" button, recommendation algorithms, and the infinite-scroll function encourage compulsive use, disrupting young users' sleep, education, and mental health.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -97,29 +94,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

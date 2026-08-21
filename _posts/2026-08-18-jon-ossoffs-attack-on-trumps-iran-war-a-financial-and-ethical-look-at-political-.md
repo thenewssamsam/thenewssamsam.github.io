@@ -35,10 +35,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/17/jon-ossoff-trump-ir
     <p>Democratic Senator Jon Ossoff delivered a scathing speech in midtown Atlanta, launching a direct attack on Donald Trump’s handling of the US-Israel conflict with Iran. Labeling the administration's justification for the war "uniquely despicable," Ossoff accused the White House of deceiving the public, draining national military reserves, and exploiting the machinery of government for personal financial gain. Speaking to a packed rally ahead of his tight November re-election campaign in Georgia, Ossoff also highlighted the grueling conditions faced by U.S. sailors on extended deployments, such as the USS Abraham Lincoln, contrasting their service with executive indifference and self-enrichment schemes.</p>
     
     <p>The speech touched on several explosive allegations, including presidential stock trades around tariff announcements, the monetization of early-access policy statements on Truth Social, and the deeper mechanics of a "coin-operated" political system. As speculation mounts that Ossoff is using these high-profile national critiques to lay the groundwork for a 2028 presidential bid, his remarks offer a stark lens through which to examine the intersection of foreign policy, executive power, and personal wealth.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 </section>
 
@@ -103,25 +100,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

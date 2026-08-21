@@ -35,10 +35,7 @@ source_url: 'https://apnews.com/article/brazil-lula-flavio-bolsonaro-campaign-op
   <h2>The Launch of a High-Stakes Race</h2>
   <p>Brazil's political landscape shifted into high gear as the country's two primary presidential contenders officially launched their campaigns. Incumbent President Luiz Inácio Lula da Silva rallied over 10,000 supporters at the Vila Euclides Stadium in Sao Bernardo do Campo—the very working-class crucible where his political journey began nearly five decades ago during Brazil's military dictatorship. Meanwhile, Senator Flávio Bolsonaro, standing in for his legally restricted father, former President Jair Bolsonaro, gathered thousands on Copacabana Beach in Rio de Janeiro.</p>
   <p>With 13 candidates ultimately entering the fray, the initial rallies underscore a polarized nation bracing for a narrow October contest. Yet, beneath the immediate spectacle of beachside speeches and stadium chants lies a deeper political script. History suggests that when nations divide along populist and establishment lines, the battle is rarely just about candidates—it is a referendum on national identity, economic sovereignty, and political lineage.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -147,29 +144,3 @@ Seagate Portable External Hard Drive
 footer { margin-top: 32px; font-size: 0.9rem; color: #6b7280; border-top: 1px solid #e5e7eb; padding-top: 16px; }
 </style>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

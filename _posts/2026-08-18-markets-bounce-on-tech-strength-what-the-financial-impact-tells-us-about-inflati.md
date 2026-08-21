@@ -43,10 +43,7 @@ source_url: 'https://www.barchart.com/story/news/3882787/stocks-set-to-open-high
 <h2 id="what-happened">What Happened</h2>
 <p>Wall Street kicked off the week with cautious optimism as September stock index futures ticked upward. S&P 500 E-Mini futures rose 0.14%, while Nasdaq 100 E-Mini futures gained 0.46%. The morning bounce was driven largely by renewed enthusiasm for technology and artificial intelligence infrastructure, bolstered by reports that artificial intelligence developer Anthropic PBC saw its second-quarter revenue surge at least 14-fold year-over-year while posting a positive adjusted operating income.</p>
 <p>However, the broader financial landscape remains fraught with crosscurrents. Gains were checked by rising crude oil prices stemming from renewed fighting in Lebanon and shipping disruptions in the Strait of Hormuz, alongside stalled diplomatic talks between the U.S. and Iran. Furthermore, investors are parsing last week's disappointing U.S. economic data—including a larger-than-expected 0.6% drop in July retail sales—while steeling themselves for this week's release of the Federal Reserve’s July meeting minutes and high-stakes retail earnings from giants like Walmart and Target.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -153,29 +150,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

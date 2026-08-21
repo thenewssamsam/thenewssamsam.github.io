@@ -62,10 +62,7 @@ article h2 { color: #111; margin-top: 2rem; margin-bottom: 1rem; font-size: 1.5r
 <p>California voters are preparing to decide on a measure that could reshape the state's economic landscape: a proposed one-time 5% wealth tax on residents with a net worth exceeding  billion. As billionaire investor Mark Cuban publicly clashes with Democratic Representative Ro Khanna over the initiative, recent IRS migration data reveals that billions of dollars and thousands of taxpayers are already flowing out of the Golden State.</p>
 
 <p>For ordinary residents, small business owners, and market observers, this high-stakes political battle is not just about taxing the ultra-wealthy. It highlights fundamental questions about capital mobility, local tax revenues, and whether aggressive state-level tax policies inadvertently accelerate the very economic drain they aim to fix.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -193,29 +190,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

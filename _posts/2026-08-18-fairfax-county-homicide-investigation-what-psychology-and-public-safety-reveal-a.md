@@ -27,10 +27,7 @@ source_url: 'https://www.fox5dc.com/news/woman-found-dead-upper-body-trauma-fair
   <h2 id="what-happened">What Happened in Fairfax County?</h2>
   <p>Early Monday morning, Fairfax County police responded to the 8800 block of Georgetown Pike in McLean, Virginia, after a runner discovered an unconscious woman lying next to a dark red car in a parking area near local hiking trails. The victim, who suffered trauma to her upper body, was pronounced dead at the scene. Authorities, aided by the U.S. Park Police, immediately closed a one-mile stretch of Georgetown Pike between Old Dominion Drive and Towlston Road to process evidence.</p>
   <p>At a press briefing, Fairfax County Police Captain Jason Chandler confirmed that detectives are treating the case as a homicide. While the victim's identity and age remain unconfirmed pending notification and further investigation, police stated there is no immediate indication that the incident was a random act. Investigators are actively canvassing the area for surveillance footage and urging anyone who was near the 7 a.m. hour to come forward.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
   <h2 id="the-psychology-of-sudden-community-shock">The Psychology of Sudden Community Shock</h2>
@@ -106,25 +103,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

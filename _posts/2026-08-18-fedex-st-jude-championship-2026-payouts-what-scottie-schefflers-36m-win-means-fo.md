@@ -32,10 +32,7 @@ source_url: 'https://www.golfchannel.com/pga-tour/news/fedex-st-jude-championshi
     <h2>What Happened at TPC Southwind</h2>
     <p>Scottie Scheffler overcame a brief early stumble during Sunday's final round to dominate the field at the 2026 FedEx St. Jude Championship. Securing his 21st career PGA Tour victory in commanding fashion, Scheffler left the rest of the elite field fighting for second place—ultimately claimed by Si Woo Kim, who took home ,160,000.</p>
     <p>Beyond the immediate victory in Memphis, the win marked a historic shift in golf's all-time earnings ledger. Scheffler surpassed Rory McIlroy for second place on the PGA Tour's official career money list and inched within striking distance of Tiger Woods' top spot.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -141,29 +138,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -33,10 +33,7 @@ source_url: ''
 <h2>What Happened: The Downing Street Text Breach</h2>
 <p>In a security lapse that has reverberated through Whitehall, Prime Minister Andy Burnham recently exchanged text messages with an individual falsely claiming to be Susie Wiles, chief of staff to US President Donald Trump. According to reports first detailed by Politico and confirmed by British officials, Burnham engaged in a brief text exchange before growing suspicious that the contact was illegitimate.</p>
 <p>Downing Street has declined to comment extensively on the national security breach, maintaining its standard policy of not discussing sensitive security matters. However, government sources have clarified that only a few messages of no significant substance were exchanged, and the incident was reported to appropriate authorities once doubts arose. Crucially, White House officials confirmed the incident was unrelated to a separate breach involving Wiles' personal phone, which was targeted by an impersonator using her contact list to message US senators, governors, and business executives.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>Yet, the Burnham incident does not stand alone. Simultaneously, the UK government has scrambled to remove the personal mobile numbers of senior cabinet ministers—including Defence Secretary Wes Streeting, Justice Secretary Alex Norris, and Northern Ireland Secretary Chris Bryant—from public websites where they had remained accessible. Past years have also seen high-profile pranks and cyber intrusions targeting British officials, including former Prime Minister Lord Cameron receiving messages from an account pretending to be former Ukrainian President Petro Poroshenko, and video call spoofing targeting former ministers via Microsoft Teams.</p>
 </section>
@@ -99,25 +96,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -27,10 +27,7 @@ source_url: 'https://www.thedrive.com/news/the-jeep-cherokee-just-returned-only-
   <h2 id="what-happened">What Happened: A Brief Life for the New Cherokee</h2>
   
   <p>According to reports from <em>The Drive</em>'s morning roundup, the newly arrived sixth-generation Jeep Cherokee—which follows a production run that spanned from 2014 to 2023—may already have a definitive expiration date. Stellantis is reportedly engineering its successor for a 2029 debut.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
   <p>Even more notable than the timeline is the planned change in geography and engineering: the upcoming 2029 model is slated for assembly at the company's Belvidere plant in Illinois, stepping away from the Mexico-built production of the current SUV. Underneath the metal, it is expected to utilize Stellantis's newer STLA One architecture.</p>
@@ -100,25 +97,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

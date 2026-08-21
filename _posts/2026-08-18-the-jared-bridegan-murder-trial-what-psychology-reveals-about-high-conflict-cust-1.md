@@ -19,10 +19,7 @@ source_url: 'https://www.yahoo.com/news/us/articles/jared-bridegans-widow-testif
 <p>When Microsoft executive Jared Bridegan was gunned down in a Jacksonville Beach suburb in February 2022, it looked at first like a bizarre, random hazard of the road—a tire deliberately placed to force a driver out of his vehicle. But as opening statements and emotional testimony from his widow, Kirsten Bridegan, unfolded in the trial of Mario Fernandez-Saldana this week, the reality laid bare by prosecutors was far darker: a calculated ambush rooted in a bitter, years-long custody dispute.</p>
 
 <p>The case has gripped public attention not just for its chilling mechanics, but because it exposes an extreme, terrifying fringe of family law. Behind the legal briefs and police cell-tower data lies a human dynamic familiar to millions of families navigating divorce, yet rarely seen in its most destructive extremity. What drives a high-conflict co-parenting dynamic past ordinary friction and into the realm of tragedy? The courtroom testimony offers a grim window into the mechanics of escalation.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <div class="ncg-quick-take">
@@ -115,25 +112,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

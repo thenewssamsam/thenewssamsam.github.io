@@ -29,10 +29,7 @@ source_url: 'https://www.the-sun.com/news/16853579/mushroom-killer-erin-patterso
   <p>The legal saga surrounding Erin Patterson, 51, continues to grip public attention in Australia and around the world. Patterson was previously sentenced to life imprisonment with a non-parole period of 33 years after a Melbourne jury found her guilty of murdering three relatives—her mother-in-law Gail Patterson, father-in-law Donald Patterson, and Gail’s sister Heather Wilkinson—by serving them a beef wellington laced with deadly death cap mushrooms in July 2023. A fourth guest, local pastor Ian Wilkinson, miraculously survived the poisoning.</p>
 
   <p>Now, the case has moved to the Court of Appeal in Melbourne, where three judges are weighing two distinct legal battles:</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
   <ul>
     <li><strong>The Defense Appeal:</strong> Patterson is attempting to overturn her conviction entirely, claiming multiple "substantial miscarriages of justice." Her legal team argues the trial judge made critical errors regarding evidence admissibility—such as cell tower data and Facebook messages—and points to alleged irregularities during jury sequestration, alongside an "unfair and oppressive" cross-examination.</li>
@@ -107,25 +104,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

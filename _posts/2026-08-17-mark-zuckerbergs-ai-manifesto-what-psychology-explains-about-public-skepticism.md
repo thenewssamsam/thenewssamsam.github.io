@@ -38,10 +38,7 @@ source_url: 'https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuck
 <section id="what-happened">
 <h2>What Happened: The 6,500-Word Vision</h2>
 <p>In his latest manifesto, Mark Zuckerberg doubled down on an optimistic trajectory for artificial intelligence, positioning it as an empowering tool for the individual. According to the report from TechCrunch's Equity podcast — featuring hosts Kirsten Korosec, Anthony Ha, and Rebecca Bellan alongside AI editor Russell Brandom — the essay introduces tools like the personal agent model Glimmer and the more powerful Muse Spark ecosystem.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -197,29 +194,3 @@ article ul { margin-bottom: 1.5rem; padding-left: 1.5rem; }
 article li { margin-bottom: 0.5rem; line-height: 1.6; color: #374151; font-size: 1.05rem; }
 </style>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

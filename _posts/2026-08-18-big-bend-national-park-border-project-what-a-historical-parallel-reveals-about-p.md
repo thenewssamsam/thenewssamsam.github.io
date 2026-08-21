@@ -36,10 +36,7 @@ source_url: 'https://apnews.com/article/trump-border-big-bend-national-park-immi
     <h2>What Happened in Big Bend?</h2>
     <p>The Trump administration has temporarily halted construction on a contentious border project inside Texas’ remote Big Bend National Park. Customs and Border Protection (CBP) Commissioner Rodney Scott announced the pause on X, stating he would conduct an "on-the-ground evaluation" of the area. The project—which has involved clearing land with bulldozers for new roads, lights, and vehicle barriers—sparked fierce, bipartisan pushback from local sheriffs, former park officials, and environmental groups who argue that the park's rugged 1,000-foot riverbank cliffs and expansive deserts already serve as a formidable natural deterrent.</p>
     <p>While the suspension is brief and the administration has made clear it is still pursuing its broader border enforcement goals funded by Congress, local leaders and conservationists view the pause as a rare and significant acknowledgment of mounting public pressure. But as bulldozers sit idle and stakeholders wait for CBP's next move, the clash over Big Bend touches on a much deeper tension in American history: how a nation secures its borders without permanently scarring its crown jewel landscapes.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   </section>
 
@@ -95,25 +92,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

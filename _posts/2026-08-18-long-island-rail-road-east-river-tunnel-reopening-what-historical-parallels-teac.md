@@ -55,10 +55,7 @@ source_url: 'https://www.newsday.com/long-island/transportation/east-river-tunne
     <h2>What Happened: The Line 2 Reopening</h2>
     <p>According to the report, the East River Line 2 tunnel is officially reopening after a massive rehabilitation effort backed by  billion in total funding—roughly  billion of which came from federal infrastructure grants. Originally constructed in 1910 alongside Penn Station, Lines 1 and 2 suffered catastrophic flooding during Superstorm Sandy in 2012. Millions of gallons of corrosive saltwater left residue that systematically degraded the tunnels' structural integrity over the ensuing decade.</p>
     <p>The repair project required a complete 15-month full shutdown of Line 2 while Amtrak—which owns the tunnels—rebuilt track beds, drainage systems, bench walls, cables, and concrete linings. While the Metropolitan Transportation Authority (MTA) initially pushed for weekend-only work to avoid commuter headaches, Amtrak insisted on a total shutdown. With Line 2 now complete, attention shifts to Line 1, which faces a similar 13-month closure starting this fall. Officials estimate these newly modernized crossings are engineered to last another hundred years.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
   </section>
 
@@ -104,25 +101,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

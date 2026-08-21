@@ -25,10 +25,7 @@ source_url: 'https://www.foxnews.com/us/penn-state-cocaine-bust-nets-14-arrests-
   <h2 id="what-happened">What Happened in the Penn State Investigation?</h2>
   <p>According to Pennsylvania Attorney General Dave Sunday, law enforcement dismantled a coordinated and highly profitable cocaine distribution network operating in and around Penn State University during 2023 and 2024. Investigators stated that the operation was anchored by primary suppliers Agostino Abbatiello of Westbury, New York—who remains at large—and Thomas Robinson. The duo allegedly made frequent trips to Philadelphia and New York City to secure large quantities of illegal narcotics.</p>
   <p>The drugs were then brought back to off-campus houses associated with the Delta Upsilon and Sigma Chi fraternities. There, members and pledges allegedly cut, packaged, and distributed the cocaine to students. Attorney General Sunday highlighted a particularly disturbing element during the announcement: "Cutting and packaging cocaine was, for some pledges, an indoctrination into the fraternities."</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   <p>In total, 13 defendants were identified as Penn State students or former students at the time of the alleged conduct, while a 14th defendant—Thomas Robinson's father, Paul Robinson—faces charges of tampering with evidence and hindering apprehension. Penn State officials responded swiftly, placing Delta Upsilon on interim suspension while noting that Sigma Chi operates as an unrecognized organization outside university oversight. National fraternity representatives confirmed that involved individuals have faced internal expulsions, suspensions, or resignations as cooperation with authorities continues.</p>
 
@@ -98,25 +95,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -25,10 +25,7 @@ source_url: 'https://www.cleveland.com/news/2026/08/a-british-missing-students-f
   <h2 id="what-happened-in-the-bucegi-mountains">What Happened in the Bucegi Mountains?</h2>
   <p>On August 15, Avon and Somerset Police announced that Romanian authorities in the Brașov region had located a body believed to be George Smyth, alongside personal documents bearing his name. While formal identification remains pending, the discovery marks a sobering milestone in a case that began last November.</p>
   <p>Smyth, a student at the University of Bristol, had traveled to Romania alone without informing his family of his exact itinerary. On November 23, 2025, he placed a desperate emergency call to rescue services reporting severe cold exposure and exhaustion in a remote, rugged section of the Bucegi Mountains as he hiked toward the area near Bran Castle.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
   <p>Volunteer mountain rescuers from Salvamont Brașov located his backpack—containing overnight camping gear and supplies—within hours of his distress call. However, relentless winter weather, deep snow, and treacherous alpine terrain thwarted continuous search efforts for months, until summer thaws finally allowed crews to locate his remains.</p>
 
@@ -103,25 +100,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

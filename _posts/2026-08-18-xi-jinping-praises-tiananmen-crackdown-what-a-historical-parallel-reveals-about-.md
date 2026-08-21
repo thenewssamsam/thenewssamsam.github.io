@@ -20,10 +20,7 @@ source_url: 'https://www.cnn.com/2026/08/17/china/china-xi-jinping-speech-tianan
 <p>When Chinese leader Xi Jinping stood before thousands of officials in Beijing’s Great Hall of the People on Monday, his message was unmistakable: stability achieved through absolute authority remains the cornerstone of Communist Party rule. Marking the centenary of former leader Jiang Zemin’s birth, Xi delivered a bullish speech calling for an indomitable fighting spirit in the face of economic headwinds and global friction. Yet the most striking element of the address was a rare, public endorsement of the military crackdown on the 1989 Tiananmen Square democracy protests—a political taboo tightly scrubbed from mainland China's digital history.</p>
 
 <p>As Beijing navigates a complex economic slowdown and tense diplomatic choreography ahead of a scheduled meeting between Xi and US President Donald Trump in late September, looking backward to 1989 offers a revealing window into how modern Chinese leadership frames crisis, control, and national survival.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -107,29 +104,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

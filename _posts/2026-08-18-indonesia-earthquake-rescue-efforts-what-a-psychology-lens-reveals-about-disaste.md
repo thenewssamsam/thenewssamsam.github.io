@@ -122,10 +122,7 @@ source_url: 'https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indon
 
 <h2 id="what-happened">What Happened in Indonesia</h2>
 <p>The powerful earthquake struck eastern Indonesia on a Saturday, abruptly casting a grim shadow over the nation's Independence Day celebrations. According to updates from Berton SP Panjaitan, an official at Indonesia’s National Disaster Management Agency (BNPB), the confirmed death toll reached 68 late Monday, with more than 200 individuals sustaining injuries.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>Rescue operations have been intensely challenging. Landslides and obstructed roadways across the southernmost province, particularly impacting the districts of Sikka and Manggarai, have complicated relief efforts. Meanwhile, thousands of residents have evacuated, choosing to shelter outdoors in tents rather than return to structurally compromised homes. Compounding the terror, the region has been rattled by nearly 1,600 aftershocks—including a notable magnitude 5.6 tremor on Monday morning—keeping communities in a state of perpetual high alert.</p>
 
@@ -188,25 +185,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

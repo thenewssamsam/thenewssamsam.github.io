@@ -17,10 +17,7 @@ source_url: 'https://apnews.com/article/iran-us-israel-lebanon-gaza-hormuz-augus
 </header>
 
 <p>When nations clash over narrow strips of water, the shockwaves rarely stay contained to the shoreline. President Donald Trump has issued a blunt warning to Oman, stating the United States would bomb the Gulf Arab nation if it "gets in the way" of American objectives regarding the strategic Strait of Hormuz. The flashpoint arrives as Iran announces it is nearing a transit deal with Muscat to manage shipping through the vital maritime corridor—a waterway through which roughly one-fifth of the world’s traded oil supplies flowed prior to the current conflict.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <p>With the 60-day U.S.-Iran negotiating window expiring with no extension in sight, and simultaneous high-stakes diplomacy unfolding around Gaza and Iraq, the modern standoff over global trade corridors feels remarkably volatile. But history teaches us that disputes over narrow maritime chokepoints are rarely just about geography; they are grueling tests of economic leverage, sovereign patience, and great-power friction.</p>
@@ -101,25 +98,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

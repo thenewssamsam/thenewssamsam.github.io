@@ -21,10 +21,7 @@ source_url: 'https://openai.com/index/openai-joins-ports-pike-project/'
 <p>When a single technology initiative commands an 8-gigawatt footprint, the conversation stops being purely about software and starts being about balance sheets, regional grids, and massive capital expenditure. OpenAI's entry into the PORTS-Pike Technology Campus in Pike County, Ohio—partnering alongside SB Energy, NVIDIA, and the U.S. Department of Energy—marks one of the most ambitious infrastructure plays in American history. But behind the headline figures of tens of thousands of construction jobs and billions in capital lie critical financial questions about who pays for grid upgrades, how long-term operating costs are sustained, and what this means for local and regional economies.</p>
 
 <p>Here is a closer look at the financial mechanics, economic tradeoffs, and monetary realities driving this monumental pivot toward American AI industrialization.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 <nav class="ncg-toc" aria-label="Table of Contents">
@@ -125,25 +122,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

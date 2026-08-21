@@ -36,10 +36,7 @@ source_url: 'https://www.bbc.com/news/articles/cj9dx03jrgjo'
 <section id="what-happened">
 <h2>The Facts of the Case</h2>
 <p>In 2023, a family lunch in rural Leongatha, Victoria, turned into a tragedy when 51-year-old Erin Patterson served beef Wellington dishes containing lethal death cap mushrooms. Her in-laws, Don and Gail Patterson (both 70), and Gail's sister, Heather Wilkinson (66), died from the poisoning. Heather's husband, Ian Wilkinson, survived after weeks in the hospital.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>Patterson's estranged husband, Simon Patterson, narrowly avoided the meal after canceling at the last minute. Investigations later revealed a history of severe illness he experienced after previous meals prepared by his wife—illnesses that had left him in a coma and requiring major surgery. Throughout her trial, Patterson maintained that the poisonings were an accidental result of foraging for wild mushrooms, and that her post-incident panic and attempts to dispose of evidence stemmed from fear of being blamed.</p>
 </section>
@@ -152,25 +149,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -36,10 +36,7 @@ source_url: 'https://apnews.com/article/russia-ukraine-shlosberg-crackdown-elect
 <h2>What Happened in the Shlosberg Trial</h2>
 <p>On Monday, a Russian court in the northwestern city of Pskov convicted Lev Shlosberg—a 63-year-old veteran politician, deputy chairman of the Yabloko party, and former regional legislator—on charges of "discrediting" and spreading "false information" about the Russian military. The sentence: 11 years and one month in a penal colony.</p>
 <p>The charges stemmed from a political debate where Shlosberg advocated for ending the war in Ukraine, as well as a post on his Telegram channel featuring a British tabloid front page with a critical headline about Russian leadership. It was Shlosberg's second trial in two years, following his designation as a "foreign agent" and his placement in pretrial detention in December 2025.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>Concurrently, Russia's Supreme Court upheld its earlier decision to disqualify the Yabloko party from participating in the upcoming parliamentary elections for the State Duma. Yabloko, founded in the 1990s as a liberal voice, stood as the sole officially registered political party overtly campaigning on an anti-war platform, with slogans calling for diplomacy, ceasefire agreements, and the prevention of nuclear war. Following the Supreme Court's ruling, several dozen protesters outside the courthouse were detained by security forces.</p>
 <p>In his final statement to the court, Shlosberg reflected on the country's trajectory over the past three decades, warning that once the true human cost of the war becomes known, "the entire country will shudder."</p>
@@ -95,25 +92,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

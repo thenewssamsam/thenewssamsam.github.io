@@ -21,10 +21,7 @@ source_url: 'https://local12.com/news/nation-world/ice-cream-brand-sold-kroger-w
 
 <h2 id="what-happened">What Happened to Rebel Creamery?</h2>
 <p>Rebel Creamery, founded in 2017 with a mission to bring low-carb, no-sugar-added ice cream to the mainstream market, filed for Chapter 11 bankruptcy on August 14. According to court filings and reports from outlets like WKRC and Fox Business, the Utah-based company reported approximately  million in assets against a daunting  million in liabilities.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <p>The catalyst for the bankruptcy filing arrived less than a month prior, when U.S. District Judge Eric Komitee ruled that Rebel intentionally infringed and diluted the distinctive packaging of competitor Van Leeuwen. Van Leeuwen had originally filed suit in 2021, claiming that Rebel had copied the unique trade dress of its ice cream pints—characterized by monochromatic cardboard containers with matching lids, soft pastel color palettes, minimalist appearance, and distinctive black script lettering.</p>
@@ -62,25 +59,3 @@ Seagate Portable External Hard Drive
 <p>Source: <a href="https://local12.com/news/nation-world/ice-cream-brand-sold-kroger-walmart-target-files-for-bankruptcy-cincinnati-ohio-rebel-creamery-court-infringement-container-design-van-leeuwen-keto" target="_blank" rel="noopener noreferrer">Original News Report</a></p>
 </footer>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -19,10 +19,7 @@ source_url: 'https://www.sfgate.com/bayarea/article/lake-powell-record-low-22392
 
   <section id="introduction">
     <p>Lake Powell, one of the nation's most critical reservoirs, has officially dropped to a record-low surface elevation, signaling a deepening crisis for the American West. As the reservoir dips below previous historic markers, the stability of water and electricity supplies for over 40 million people hangs in the balance. This "slow-moving disaster" is more than just a headline; it is a profound lesson in the fragility of the systems we often take for granted.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
   </section>
 
@@ -62,25 +59,3 @@ Seagate Portable External Hard Drive
     <p>Source: <a href="https://www.sfgate.com/bayarea/article/lake-powell-record-low-22392180.php" target="_blank" rel="noopener noreferrer">Original News Report</a></p>
   </footer>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

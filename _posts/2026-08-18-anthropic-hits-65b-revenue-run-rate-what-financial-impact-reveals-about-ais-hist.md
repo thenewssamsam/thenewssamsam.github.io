@@ -187,10 +187,7 @@ source_url: 'https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-sur
 
 <h2 id="what-happened">What Happened: Inside Anthropic's Surge</h2>
 <p>According to reports from Bloomberg and the Financial Times, model maker Anthropic closed out July with an annualized revenue run rate surpassing  billion. To put this explosive trajectory into perspective, the company stood at just  billion at the close of last year and sat at  billion as recently as May. This means revenue has grown by more than sevenfold in roughly seven months.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>Investors tracking the company anticipate this velocity to persist through the remainder of 2026, projecting year-end figures landing between  billion and  billion. Meanwhile, industry competitors are also scaling rapidly; rival OpenAI recently reported doubling its revenue to  billion, up from  billion at the end of 2025.</p>
 <p>Despite differing methodologies in how these tech giants calculate revenue metrics, Anthropic's growth rate has captured the imagination—and capital—of Wall Street and venture backers alike. Both entities have quietly filed confidential IPO paperwork, but market expectations place Anthropic on track to hit the public markets as soon as this fall, seeking a public valuation of  trillion or more.</p>
@@ -307,25 +304,3 @@ Source: <a href="https://techcrunch.com/2026/08/17/anthropics-annualized-revenue
 </script>
 </div>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

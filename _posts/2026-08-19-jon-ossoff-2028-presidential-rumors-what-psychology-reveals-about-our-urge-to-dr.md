@@ -32,10 +32,7 @@ source_url: "https://www.usatoday.com/story/news/state/georgia/2026/08/17/no-oss
 <h2 id="what-happened">What Happened in the New 2028 Polling Data</h2>
 <section class="ncg-section">
 <p>The presidential chatter kicked into high gear following a July Emerson College poll that introduced Jon Ossoff into the 2028 Democratic primary conversation for the first time. Landing at 13% support, Ossoff immediately positioned himself as a frontrunner alongside established names like Pete Buttigieg and Gavin Newsom, even tying with Alexandria Ocasio-Cortez and pulling ahead of several seasoned governors and former cabinet members.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>This spike coincides with viral TikTok clips of Ossoff's sharp committee questioning and campaign speeches racking up millions of views. Meanwhile, back in Georgia, Ossoff faces a bruising reelection fight against MAGA loyalist Rep. Mike Collins, while weathering personal attacks from President Donald Trump, who recently took to calling the senator "Pinky Herman" during a rally in Marietta.</p>
 <p>Despite viral internet memes shouting "Ossoff 2028!" and voters comparing his rhetorical style to Barack Obama, the senator's public response has remained uniform. When pressed by reporters, Ossoff pivots right back to his home state, emphasizing his ongoing legislative work and his immediate electoral battle. Yet, the more he deflects, the louder the speculation grows.</p>
@@ -96,25 +93,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

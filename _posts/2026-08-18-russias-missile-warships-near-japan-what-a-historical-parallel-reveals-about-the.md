@@ -24,10 +24,7 @@ source_url: 'https://united24media.com/world/russia-sends-four-missile-warships-
     <p>When four heavily armed Russian missile corvettes patrolled within 40 kilometers of Hokkaido in mid-August, they carried more than supersonic anti-ship missiles. They carried a message. The deployment followed hot on the heels of Russian leader Vladimir Putin's provocative visit to Iturup—one of the disputed Kuril Islands—and immediately triggered formal diplomatic protests from Tokyo alongside sharp warnings from Moscow.</p>
     
     <p>For casual observers, naval movements in the North Pacific might look like distant geopolitical posturing. But for Japan and Russia, this is the living ghost of a war that officially ended eight decades ago yet lacks a final peace treaty. To understand why a cluster of remote islands continues to rattle international security, we have to look past today's headlines and examine the deep historical mechanics of territorial stalemates.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -101,29 +98,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

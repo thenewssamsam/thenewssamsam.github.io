@@ -36,10 +36,7 @@ source_url: 'https://www.presstelegram.com/2026/08/17/search-underway-for-man-wh
     <h2>What Happened Off the Long Beach Coast</h2>
     <p>The incident unfolded on the evening of Sunday, August 16, 2026. Carbullido and a female companion had rented personal watercraft from Rainbow Harbor, heading out toward the Queens Gate Entrance Channel. Sometime after nightfall, while operating outside the massive rock break wall that shields the harbor, Carbullido fell into the water.</p>
     <p>What followed was a cascade of perilous moments. The woman attempted to help him, but the open ocean proved too formidable. When she tried to reboard her own watercraft, she couldn't start the engine. Forced to think fast, she swam for roughly an hour in the dark Pacific waters until she reached the rocky break wall, where a good Samaritan on a passing boat heard her cries for help around 10:30 p.m. and alerted authorities.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>That triggered a massive overnight search involving four Long Beach fire boats, Los Angeles police vessels, Coast Guard boats, and aircraft. For twelve long hours, Carbullido drifted in the dark. It wasn't until 10:45 a.m. Monday that a U.S. Coast Guard helicopter crew spotted a bright neon-green life vest bobbing two and a half miles offshore from the Seal Beach pier. At first, he was unresponsive, but as the aircraft descended, he began moving his legs—prompting a rescue swimmer to drop into the water and hoist him to safety. He was pulled from the sea suffering from hypothermia, but alive.</p>
   </section>
@@ -141,25 +138,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

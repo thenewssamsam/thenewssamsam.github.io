@@ -42,10 +42,7 @@ source_url: 'https://apnews.com/article/microsoft-manager-murder-trial-florida-e
 <p>On a dark road in Jacksonville Beach, Florida, a routine evening turned into a carefully orchestrated tragedy. Jared Bridegan, a 33-year-old Microsoft design manager, had just dropped off his 9-year-old twins at the home of his ex-wife, Shanna Gardner. Driving back with another child safely strapped in the car, Bridegan encountered an unexpected obstruction: a tire lying directly in his path. When he stepped out to remove it, warning lights flashing on his Volkswagen Atlas, he was shot twice in a targeted execution.</p>
 
 <p>Four years later, the legal reckoning has finally arrived in a Duval County courtroom. Mario Fernandez Saldana, Gardner's current husband, stands trial for first-degree murder and solicitation of murder, accused of hiring a gunman to carry out the killing. Gardner faces her own trial later this year. As prosecutors lay out their case—pointing to a discarded tire, matching DNA, and a mysterious ,000 payment—observers across the country are left grappling with a chilling question: How does ordinary domestic bitterness curdle into cold-blooded conspiracy?</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <h2 id="what-the-courtroom-is-revealing">What the Courtroom Is Revealing</h2>
@@ -102,25 +99,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

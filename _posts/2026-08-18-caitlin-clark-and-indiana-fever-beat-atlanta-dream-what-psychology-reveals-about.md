@@ -19,10 +19,7 @@ source_url: 'https://bleacherreport.com/articles/25472870-caitlin-clark-angel-re
 <p>When the Indiana Fever outlasted the Atlanta Dream 95-91 in a grueling overtime thriller, the headlines immediately defaulted to the familiar box-score duel between Caitlin Clark and Angel Reese. But beneath the staggering stat lines—including a game-high 32 points from Atlanta's Allisha Gray and a masterclass 26-point, 9-assist performance from Clark—lies a quieter, more compelling human reality: the immense psychological pressure of sustaining elite performance under relentless public scrutiny.</p>
 
 <p>As the Fever improved to 23-12 and carved out a 1.5-game cushion over the Dream for the No. 4 seed in the WNBA playoff race, the game offered a textbook window into how psychological concepts like cognitive dissonance, comparison loops, and normalcy bias shape modern sports fandom and athlete mental health.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -89,29 +86,3 @@ Source: <a href="https://bleacherreport.com/articles/25472870-caitlin-clark-ange
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -23,10 +23,7 @@ source_url: 'https://variety.com/2026/film/news/california-paramount-bonta-do-ov
   <section class="ncg-intro">
     <p>When multi-billion-dollar corporate mergers collide with state antitrust regulators, the resulting financial fallout rarely stays confined to the boardroom. California Attorney General Rob Bonta’s office delivered a sharp rejection this week to Paramount’s request for a massive  billion bond, turning a standard legal dispute into a high-stakes masterclass in corporate risk, contract architecture, and the hidden costs of regulatory delay.</p>
     <p>At the center of the clash is a simple economic reality: time is quite literally costing millions of dollars a day. For everyday readers watching media consolidation reshape the entertainment landscape, this legal friction exposes how complex financial mechanisms function when corporate ambitions crash into regulatory walls.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   </section>
 
@@ -111,25 +108,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

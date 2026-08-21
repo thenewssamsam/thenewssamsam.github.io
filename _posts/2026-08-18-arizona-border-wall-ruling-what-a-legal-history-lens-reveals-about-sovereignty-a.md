@@ -65,10 +65,7 @@ source_url: 'https://www.foxnews.com/politics/federal-judge-clears-path-border-w
   <p>The legal clash centers on a vital stretch of the U.S.–Mexico border in Arizona. Members of the Tohono O'odham Nation, whose reservation shares roughly 62 miles of border with Mexico, moved to block federal workers from scoping out construction sites for the border wall. The tribe erected "no trespassing" signs and warned on social media that any construction-related activities would be treated as illegal trespass and escorted off tribal lands by law enforcement.</p>
   
   <p>However, U.S. District Judge Richard Leon ruled decisively against the tribe's request to halt federal activity. Pointing to a combination of national security imperatives, foreign policy considerations, and historical federal proclamations, the court found that the government retains the legal authority to proceed with construction.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -165,29 +162,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

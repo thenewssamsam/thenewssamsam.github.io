@@ -24,10 +24,7 @@ source_url: 'https://www.bbc.com/news/articles/cwymmp30711o'
   <h2 id="what-happened">What Happened in the Jason Arday Controversy</h2>
   <p>Jason Arday, one of Britain's few Black professors and a celebrated sociologist of education at Cambridge University, resigned on August 5 following public allegations of plagiarism and questions surrounding his academic achievements. While Liverpool John Moores University—which awarded his PhD in 2015—subsequently concluded he had not plagiarised work, the initial accusations sparked an intense, highly polarized media storm.</p>
   <p>The controversy first erupted after comments by Nathan Cofnas, a self-defined "race realist" who had been sacked from Cambridge earlier. Cofnas targeted Arday's credentials, igniting a widespread public and media debate. Just weeks later, Arday was found dead at an address in Battersea, south London. In the wake of his passing, more than 30,000 signatories—including prominent politicians, cultural figures, and activists backed by the Good Law Project—have called for an immediate public inquiry into responsible journalism, while friends report that Arday felt utterly hounded and overwhelmed by the intensity of the coverage.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -91,29 +88,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

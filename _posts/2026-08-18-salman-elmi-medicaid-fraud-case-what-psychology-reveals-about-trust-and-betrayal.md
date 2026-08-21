@@ -20,10 +20,7 @@ source_url: 'https://www.fox9.com/news/ellison-brings-medicaid-fraud-charges-aga
 <p>When a community honors someone as an outstanding immigrant success story, public perception locks in a narrative of resilience, ambition, and hard work. But when those same recognized figures end up facing serious criminal indictments, the psychological whiplash leaves communities asking a difficult question: how do trusted individuals cross the line into major fraud?</p>
 
 <p>The recent arrest and indictment of Salman Elmi in Minnesota on Medicaid fraud charges—with troubling ties to a separate sex trafficking investigation—has stunned local observers. Beyond the courtroom facts, the case provides a stark window into the cognitive mechanics of deceit, the dangers of halo perception, and why seemingly successful entrepreneurs sometimes gamble everything.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 <h2 id="what-happened">What Happened in the Case</h2>
@@ -64,25 +61,3 @@ Tactical Waterproof Backpack
 <p><strong>Source:</strong> <a href="https://www.fox9.com/news/ellison-brings-medicaid-fraud-charges-against-man-charged-mn-sex-trafficking-case" target="_blank" rel="noopener noreferrer">Original News Report from FOX 9</a></p>
 </footer>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

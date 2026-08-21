@@ -16,10 +16,7 @@ source_url: 'https://sports.yahoo.com/articles/nfl-preseason-power-rankings-bill
 </header>
 
 <p>As the 2026 NFL preseason kicks off, the latest league power rankings show a dramatic shuffle at the top, with the Los Angeles Rams claiming the No. 1 spot and the Buffalo Bills charging into second place following major summer moves. But long before a single meaningful snap is played in September, these rankings offer a fascinating window into how sports psychology shapes the way fans, analysts, and players handle anticipation, pressure, and the heavy weight of expectations.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -59,29 +56,3 @@ Tactical Waterproof Backpack
 <p><strong>Source:</strong> <a href="https://sports.yahoo.com/articles/nfl-preseason-power-rankings-bills-114359199.html" target="_blank" rel="noopener noreferrer">The Sporting News via Yahoo Sports</a></p>
 </footer>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

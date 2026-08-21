@@ -35,10 +35,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/17/alaska-senate-dan-s
 <p>For voters in the Last Frontier, navigating the upcoming primary is turning into an exercise in close reading. Dan J. Sullivan, a retired schoolteacher and U.S. Forest Service employee from Petersburg, is appearing on the Republican primary ballot right alongside the incumbent Republican senator, Dan S. Sullivan, who has held the seat since 2015. State Republicans attempted to challenge the lesser-known candidate in court, arguing he was a "sham" contender designed to siphon votes and sow confusion, but the legal efforts failed.</p>
 
 <p>While the identical names have grabbed headlines, political analysts point out that the real electoral battle is shaping up between Senator Sullivan and former Democratic Representative Mary Peltola. Peltola, who twice won election to the state's lone U.S. House seat before a narrow defeat in 2024, is running a moderate campaign focused on local economic issues, natural resource development, and fisheries.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -159,29 +156,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

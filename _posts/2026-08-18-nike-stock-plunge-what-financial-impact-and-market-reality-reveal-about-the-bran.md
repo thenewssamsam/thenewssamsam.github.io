@@ -39,10 +39,7 @@ source_url: 'https://finance.yahoo.com/markets/stocks/article/nikes-stock-plunge
 <section id="what-happened">
     <h2>What Happened: The Numbers Behind the Drop</h2>
     <p>The latest wave of selling pressure follows a stretch of weak financial quarters that have consistently disappointed market expectations. In late June, Nike reported fiscal fourth-quarter revenue of  billion, reflecting a 1 percent decline on a reported basis and a 4 percent drop when adjusted for currency fluctuations.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>While the company's diluted earnings per share (EPS) of  appeared significantly stronger on a year-over-year basis at first glance, that figure was heavily distorted. A massive  per share one-time benefit stemming from an expected tariff recovery masked the underlying operational weakness.</p>
     <p>Looking ahead, management projected fiscal first-quarter revenues to fall by a low-to-mid single-digit percentage. Furthermore, the company reiterated flat earnings per share growth over the subsequent three quarters, excluding the temporary tariff recovery proceeds. Evercore ISI analyst noted that there are still no hints that revenues can turn positive in the foreseeable future, leaving little justification for expanding the price-to-earnings (P/E) ratio from current levels.</p>
@@ -176,25 +173,3 @@ Tactical Waterproof Backpack
 .ncg-footer { margin-top: 2rem; font-size: 0.9rem; color: #555; border-top: 1px solid #eee; padding-top: 1rem; }
 </style>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -35,10 +35,7 @@ source_url: ''
 <h2>What Happened in Boston</h2>
 <p>Shortly before first pitch in a high-stakes series opener against the Red Sox, the Arizona Diamondbacks made the stunning announcement that star second baseman Ketel Marte was being placed on the restricted list. Manager Torey Lovullo admitted postgame that the team was caught completely off guard, noting that Marte simply did not show up to the ballpark despite having traveled with the team to Boston.</p>
 <p>The restricted list is typically utilized when players are unavailable for non-injury reasons, carrying no minimum stay and resulting in unpaid status. While short stints are common for paternity leave or brief family emergencies, Marte's situation carried an air of mystery. Reporters on the ground noted that the team waited until the last possible moment hoping for his arrival, only to scramble their lineup by inserting Lars Nootbaar at designated hitter and recalling infielder Jose Fernandez from Triple-A Reno.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>Complicating the narrative is Marte's recent history with the franchise. It was nearly a year to the day that reports surfaced regarding friction over his work habits following a break period—specifically after his home in Arizona was burglarized over the 2025 All-Star break. With the Diamondbacks fighting fiercely for a National Guard Wild Card spot, the timing of this sudden absence has magnified scrutiny on an otherwise stellar player.</p>
 </section>
@@ -87,25 +84,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -24,10 +24,7 @@ source_url: 'https://www.npr.org/2026/08/17/nx-s1-5935226/hayden-panettiere-dies
     <p>The entertainment world was left reeling following the confirmation that actress Hayden Panettiere has died at the age of 36 in South Carolina. For millions of viewers, Panettiere was a familiar, enduring presence on television and film screens for nearly three decades—from her breakout childhood roles in commercials and <em>Remember the Titans</em> to her iconic performances as the indestructible cheerleader Claire Bennet in NBC's <em>Heroes</em> and the complex, country music star Juliette Barnes in ABC's <em>Nashville</em>.</p>
     
     <p>Yet behind the glowing Golden Globe nominations and the polished red carpet appearances lay a much more complicated, vulnerable human story. Earlier this year, in her candid memoir <em>This Is Me: A Reckoning</em>, Panettiere opened up with striking honesty about the exhausting pressures of a lifelong career in the public eye, her struggles with addiction and depression, and her deeply human yearning to simply belong.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -142,29 +139,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

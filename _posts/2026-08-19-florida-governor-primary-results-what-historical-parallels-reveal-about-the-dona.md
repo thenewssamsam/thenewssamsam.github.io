@@ -35,10 +35,7 @@ source_url: "https://katu.com/news/nation-world/florida-voters-choose-nominees-i
     <h2>What Happened in the Primary</h2>
     <p>The primary election brought a definitive close to months of intense campaigning across a crowded field of 17 major-party candidates. On the Republican side, Congressman Byron Donalds dominated the contest, securing 49 percent of the vote in late July polling and maintaining a formidable financial and organizational advantage backed by an early endorsement from President Donald Trump. His victory over primary challengers like Lieutenant Governor Jay Collins and former House Speaker Paul Renner marks a notable consolidation of the MAGA-aligned wing of the state's dominant party.</p>
     <p>Meanwhile, former U.S. Representative David Jolly captured the Democratic nomination, outpacing state Representative Dotie Joseph and educator Dayna Marie Foster. Jolly, who previously represented the Tampa Bay area as a Republican before leaving the GOP and later registering as a Democrat in 2025, has framed his campaign heavily around cost-of-living concerns, housing affordability, and property insurance reform. With over 13.5 million registered voters across the state—including a significant Republican registration advantage—both candidates now pivot toward a complex general election field that also includes independent and write-in contenders.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   </section>
 
@@ -104,25 +101,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

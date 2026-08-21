@@ -32,10 +32,7 @@ source_url: "https://www.bostonglobe.com/2026/08/17/metro/lindsay-clancy-trial-p
 <section id="what-happened">
 <h2>The News: Prosecution Rests and the Defense Takes Over</h2>
 <p>The core tragedy is not in dispute: 36-year-old Lindsay Clancy has admitted to strangling her children—Cora, 5; Dawson, 3; and Callan, 8 months—at their Duxbury, Massachusetts home before attempting suicide by jumping from a second-story window, an act that left her paralyzed. The central question for the jury is not <em>what</em> happened, but <em>why</em> and <em>who bears responsibility</em>.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>Over three weeks, prosecutors presented 71 witnesses, attempting to prove that Clancy acted with premeditation and control. They highlighted digital evidence, such as Apple Maps route planning during her husband's errands, alongside testimony from medical examiners and psychiatric providers who testified that Clancy did not display classic signs of postpartum psychosis in the hours leading up to the tragedy. Patrick Clancy, her husband, described the day of the killings as one of her best days amid an overall decline, a point prosecutors leveraged heavily to argue for deliberate intent.</p>
 <p>Conversely, defense attorney Kevin Reddington contends that Clancy was suffering from an unmanaged, severe psychotic break under the command of auditory hallucinations. On cross-examination, Reddington targeted the medical establishment itself, highlighting how multiple psychiatric providers failed to communicate, resulting in uncoordinated care, overmedication, and missed red flags.</p>
@@ -157,25 +154,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

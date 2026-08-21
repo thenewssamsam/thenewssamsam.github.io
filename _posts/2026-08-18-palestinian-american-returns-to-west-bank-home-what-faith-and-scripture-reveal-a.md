@@ -149,10 +149,7 @@ source_url: 'https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-r
 
   <h2 id="what-happened">What Happened in Qusra?</h2>
   <p>The standoff in the occupied West Bank village of Qusra has entered its second week, drawing international condemnation and local turmoil. According to recent reports, groups of Israeli settlers have surrounded several Palestinian homes, preventing residents from moving freely. While the Israeli military has deployed troops to the area and officially declared the neighborhood a closed military zone, video footage shared by family members on the ground has shown soldiers interacting amicably with settlers who roam the area on ATVs.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   <p>For Ridi, who arrived at Israel's main international airport before making his way to Qusra, the journey was driven by a simple, urgent conviction: watching from afar was no longer an option. His brother, Qusai Abu Rida, and teenage son had already spent days barricaded inside the home to protect the property from being overrun. As violence across the West Bank surges—with dozens of fatalities reported among Palestinians and Israelis alike this year—incidents like the Qusra siege highlight an escalating crisis of displacement, property seizure, and frayed local order.</p>
 
@@ -218,25 +215,3 @@ Tactical Waterproof Backpack
   </script>
 </div>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

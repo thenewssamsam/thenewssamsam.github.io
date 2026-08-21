@@ -24,10 +24,7 @@ source_url: 'https://www.wbur.org/news/2026/08/17/prosecution-rests-murder-trial
   <section id="what-happened">
     <h2>The Facts of the Case</h2>
     <p>Lindsay Clancy faces three counts of first-degree murder. The prosecution’s case, which spanned 14 days, centered on the argument that Clancy’s actions were a deliberate choice to end her children’s lives before attempting suicide. Testimony included digital forensic evidence, 911 recordings, and harrowing accounts from the children's father, Patrick Clancy.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>The defense, led by attorney Kevin Reddington, argues that Clancy was suffering from severe, untreated or mismanaged mental health issues, specifically pointing to the impact of prescribed psychiatric medications. They contend that she was not in control of her faculties—a classic invocation of the "insanity defense."</p>
   </section>
@@ -76,25 +73,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

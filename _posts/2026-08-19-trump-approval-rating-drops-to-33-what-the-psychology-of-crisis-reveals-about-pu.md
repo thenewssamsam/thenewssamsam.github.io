@@ -34,10 +34,7 @@ source_url: "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-
 <h2>What Happened: A Historic Low in Public Approval</h2>
 <p>United States President Donald Trump has seen his job approval rating slide to a striking 33 percent—matching the lowest marks of his first term in December 2017—according to a new Reuters/Ipsos poll. Conducted over four days, the survey reveals that an overwhelming 64 percent of Americans disapprove of his current performance in office.</p>
 <p>The core catalyst for this steep drop is clear: the protracted US-Israel war against Iran, which began in February. Originally promised as a swift intervention lasting only a few weeks to prevent a nuclear threat, the conflict has settled into a grinding strategic stalemate. Meanwhile, everyday Americans are bearing the direct brunt of the economic fallout. Gasoline prices have surged by nearly a third compared to the previous year, according to the American Automobile Association (AAA), as the Strait of Hormuz remains largely blocked to oil and gas exports.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>Despite President Trump’s recent assertions at a rally that paying "a tiny little bit more for your gasoline" is a necessary sacrifice to keep nuclear weapons out of the hands of "a very evil country," the public is growing weary. The poll indicates that 80 percent of Americans—including 87 percent of Democrats and 71 percent of Republicans—believe US involvement in Iran will stretch on for an extended period. Even the bedrock of the president's support base is feeling the strain; a recent Politico poll showed that only a third of self-identified MAGA voters feel the economic costs of the war are justified.</p>
 </section>
@@ -107,25 +104,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

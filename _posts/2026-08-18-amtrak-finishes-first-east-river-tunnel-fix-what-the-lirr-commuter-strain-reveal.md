@@ -24,10 +24,7 @@ source_url: 'https://gothamist.com/news/amtrak-wraps-first-part-of-east-river-tu
   <section class="ncg-section" id="news-hook">
     <p>Amtrak officials marked a major milestone on Monday by wrapping up a 15-month overhaul of one of its vital East River rail tunnels connecting New York and New Jersey. The project—designed to reverse lingering damage from 2012's Hurricane Sandy—restores a critical tube used heavily by the Long Island Rail Road (LIRR), Amtrak, and NJ Transit. But the celebration at Penn Station was tempered by friction between national rail leadership and local transit authorities.</p>
     <p>MTA Chair Janno Lieber didn't mince words at the press conference, openly criticizing the full-closure strategy that forced the LIRR—the nation's busiest commuter railroad—to slash peak-hour service into Penn Station by 20%. For tens of thousands of daily commuters, that reduction translated directly into crowded platforms, delayed connections, and daily transit frustration. As Amtrak prepares to shut down the second damaged tunnel this fall, the project highlights a classic industrial dilemma: how to modernize crumbling critical infrastructure without breaking the daily operations of the workers and commuters who depend on it.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   </section>
 
@@ -90,25 +87,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

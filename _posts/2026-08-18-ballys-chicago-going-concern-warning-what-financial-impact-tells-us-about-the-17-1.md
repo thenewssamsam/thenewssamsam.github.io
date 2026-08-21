@@ -141,10 +141,7 @@ source_url: 'https://www.chicagotribune.com/2026/08/17/ballys-chicago-going-conc
   <h2 id="what-happened">What Happened: SEC Filings and Construction Stalls</h2>
   <p>For months, the sprawling  billion Bally's Chicago casino project at the former Tribune printing plant site in River West has been moving forward with a target opening date of early 2027. Meanwhile, a smaller temporary facility has been operating out of Medinah Temple since 2023.</p>
   <p>That momentum hit a sudden wall in August 2026. Bally’s issued a reset notice to its general contracting partnership, halting work on the 34-story hotel, events center, and planned restaurants. This pause idled roughly 200 of the 1,500 construction workers on-site. Shortly after, the company filed its second-quarter earnings report with the Securities and Exchange Commission (SEC), containing a formal "going concern" warning.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
   <p>Auditors are mandated to issue a going concern warning when they project a company may face debt default within 12 months. Bally’s stated that it is actively pursuing financing alternatives—such as asset sales, debt restructuring, or equity offerings—to enhance liquidity by early next year and stay compliant with its credit facility lenders.</p>
 
@@ -213,25 +210,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

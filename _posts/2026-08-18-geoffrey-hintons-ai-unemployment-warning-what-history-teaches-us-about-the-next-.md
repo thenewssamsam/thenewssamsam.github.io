@@ -34,10 +34,7 @@ source_url: 'https://fortune.com/article/godfather-of-ai-geoffrey-hinton-massive
 <p>For years, Silicon Valley has sold a comforting narrative: artificial intelligence will act as an omni-competent copilot, streamlining our chores, boosting productivity, and gently nudging us toward a leisurely four-day workweek. Nvidia CEO Jensen Huang has painted this optimistic portrait, while tech leaders like Bill Gates and Elon Musk have suggested that humanity's relationship with traditional labor is fundamentally nearing its expiration date.</p>
 
 <p>Yet Geoffrey Hinton, the Nobel Prize-winning computer scientist widely celebrated as the "Godfather of AI," is cutting through the tech-utopian optimism. Speaking alongside Senator Bernie Sanders at Georgetown University in late 2025, Hinton offered a blunt assessment of corporate motives. The massive sums being poured into advanced data centers and specialized silicon chips are not being funded by charity or pure scientific curiosity; they are business investments designed to generate a return.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -99,29 +96,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

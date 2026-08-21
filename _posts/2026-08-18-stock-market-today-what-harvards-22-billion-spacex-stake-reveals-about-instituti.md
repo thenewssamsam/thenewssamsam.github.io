@@ -21,10 +21,7 @@ source_url: 'https://www.investopedia.com/5-things-to-know-before-the-stock-mark
 <section>
 <h2 id="what-happened">Market Snapshot: Mixed Futures, Cooling Dollar, and Tech Momentum</h2>
 <p>As the opening bell approaches for the week of August 17, 2026, the major stock indexes are charting divergent paths following a minor pullback on Friday. Nasdaq futures recently gained 0.4%, supported by a premarket rally in chipmakers and AI hardware suppliers like Sandisk, Seagate, and Western Digital. Conversely, S&P 500 futures edged up just 0.1%, while Dow Jones Industrial Average futures slipped 0.2%.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>Beyond equities, commodity and currency markets are reacting to shifting global pressures. WTI crude oil held steady at  per barrel as a critical 60-day diplomatic deadline between the U.S. and Iran approaches its expiration. Gold futures ticked up 0.5% to ,450 an ounce, and Bitcoin hovered around ,600. Meanwhile, the U.S. dollar index dropped to 99.45—its lowest level since early June—as traders increasingly price out expectations of a Federal Reserve interest rate hike at next month's policy meeting, bolstered by recent cooler inflation data.</p>
 </section>
@@ -123,25 +120,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

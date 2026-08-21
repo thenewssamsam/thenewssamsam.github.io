@@ -25,10 +25,7 @@ source_url: ''
     <h2>What Happened in the New AP Poll?</h2>
     <p>The latest preseason AP Top 25 college football poll has officially arrived, sparking fierce debates from coast to coast. Ohio State, Oregon, Georgia, Notre Dame, and Texas occupy the top five spots, closely followed by reigning national champion Indiana. Yet, beneath the familiar hierarchy lies an aggressive shuffle of talent, transfers, and coaching staff departures that make this year's list unusually volatile.</p>
     <p>Analysts looking over the ballot point out glaring discrepancies. Programs like Texas, Miami, and a newly-loaded LSU squad under Lane Kiffin look massively talented on paper, yet sit in positions that leave experts scratching their heads. Meanwhile, teams like Ole Miss, Utah, and Houston ride high on the wave of previous-season success, even as major roster and coaching turnovers threaten to pull the rug out from under them. In an era dominated by the transfer portal and Name, Image, and Likeness (NIL) shifts, why do our expectations remain stubbornly anchored to the past?</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   </section>
 
@@ -92,25 +89,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

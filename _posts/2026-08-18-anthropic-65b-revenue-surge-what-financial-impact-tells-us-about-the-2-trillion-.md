@@ -126,10 +126,7 @@ source_url: ''
 
 <h2 id="what-happened">The  Billion Milestone</h2>
 <p>In the fast-moving world of artificial intelligence, financial figures often sound abstract until they cross into jaw-dropping territory. According to reports from Bloomberg, Anthropic's annualized revenue run rate surged past  billion at the end of July. To put that meteoric rise in perspective, the model maker stood at  billion in May and a comparatively modest  billion at the close of last year.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>This velocity has caught the attention of Wall Street and private equity alike. Investors anticipate that the company will maintain this trajectory, projecting a finish between  billion and  billion by the end of 2026, as reported by the Financial Times. Meanwhile, rival OpenAI has also posted strong numbers, doubling its revenue to  billion up from  billion at the end of 2025. Yet, despite both firms operating at scale, Anthropic's steep growth curve has captured investor imagination in a distinct way.</p>
 <p>Both companies have filed confidential IPO paperwork, but market watchers expect Anthropic to test public waters first—potentially as early as this fall. With ambitions to seek a public valuation of  trillion or more—up from a  billion valuation in late May following a  billion funding round—the stakes could not be higher.</p>
@@ -218,25 +215,3 @@ Seagate Portable External Hard Drive
 </script>
 </header>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

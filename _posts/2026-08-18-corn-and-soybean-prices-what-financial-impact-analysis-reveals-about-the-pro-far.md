@@ -22,10 +22,7 @@ source_url: ''
 
   <h2 id="what-happened">What Happened in the U.S. Corn Belt?</h2>
   <p>More than 100 agricultural scouts departed from Columbus, Ohio, and Sioux Falls, South Dakota, on Monday morning for a four-day blitz across seven states that account for roughly 70 percent of U.S. corn and soybean production. The tour converges in Rochester, Minnesota, on Thursday evening, with Pro Farmer set to release its final national production estimates on Friday afternoon.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   <p>The timing of the tour coincides with stark regional weather extremes. The eastern leg cuts through a severe flood corridor where stalled storms dropped up to 11 inches of rain in parts of Ohio and Indiana over a single week, leaving plants standing in water with compromised roots. Meanwhile, the western leg samples fields that have faced moisture deficits all summer. These contrasting conditions arrive on the heels of the USDA’s August 12 report, which pegged the national corn yield at 180.7 bushels per acre—down 2.3 bushels from July—and rated the corn crop at 61 percent good-to-excellent, down 11 points from last year.</p>
 
@@ -83,25 +80,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

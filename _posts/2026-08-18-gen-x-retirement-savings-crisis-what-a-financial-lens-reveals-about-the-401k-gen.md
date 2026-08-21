@@ -19,10 +19,7 @@ source_url: 'https://www.investopedia.com/gen-x-retirement-savings-how-much-they
 <p>When the first wave of Generation X entered the workforce in the late 1980s and 1990s, corporate America was quietly pulling off one of the biggest structural handoffs in modern economic history. Defined-benefit pensions—the guaranteed monthly checks that sustained previous generations—were rapidly being phased out and replaced by 401(k) plans. Suddenly, individual workers were handed the sole responsibility of funding their own futures. Now, with the oldest Gen Xers turning 61, recent Federal Reserve data gives us an unflinching look at how that experiment is playing out.</p>
 
 <p>According to the Federal Reserve's Survey of Consumer Finances, roughly 4 in 10 Gen X households have zero retirement savings. For those who do have accounts, the median balance sits at around ,000—a figure that falls drastically short of common financial benchmarks. Understanding why this gap exists, what the numbers actually mean, and how late-stage savers can recalibrate requires looking past the national averages and examining the cold, hard financial mechanics of the do-it-yourself retirement system.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 <div class="ncg-toc-box">
@@ -122,25 +119,3 @@ Tactical Waterproof Backpack
 <p>Source: <a href="https://www.investopedia.com/gen-x-retirement-savings-how-much-they-ve-saved-and-why-many-haven-t-met-benchma-12036511" target="_blank" rel="noopener noreferrer">Investopedia Original News Report</a></p>
 </footer>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

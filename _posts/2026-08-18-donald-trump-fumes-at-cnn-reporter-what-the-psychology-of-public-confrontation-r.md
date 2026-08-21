@@ -33,10 +33,7 @@ source_url: 'https://deadline.com/2026/08/trump-yells-at-cnn-reporter-north-kore
 
 <h2 id="what-happened">What Happened in the Oval Office</h2>
 <p>The confrontation unfolded while Trump was hosting Nathaniel Rai, a 10-year-old who had been rescued from rough surf in Santa Cruz by lifeguard Ryder Williams. Earlier in the session, Trump had been discussing his foreign policy stance, stating that he understood North Korea's Kim Jong Un and defending his recent Truth Social announcement ordering the military to reduce joint military exercises with South Korea.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <p>When Holmes attempted to ask a follow-up question regarding North Korea—and referenced an earlier query about remarks made by Sen. Jon Ossoff (D-GA) regarding the president's time management and travel companions—Trump interrupted sharply. Telling her to be quiet and calling her disrespectful in front of their young guest, Trump turned to the boy and asked, "Okay, don’t you find her disrespectful?" He subsequently labeled Holmes a "loud, boisterous person" and dismissed her network as fake news.</p>
@@ -90,25 +87,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

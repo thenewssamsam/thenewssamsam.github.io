@@ -34,10 +34,7 @@ source_url: 'https://www.psu.edu/news/campus-life/story/penn-state-responds-seri
 <p>When Pennsylvania Attorney General Dave Sunday announced criminal narcotics and hazing charges against 14 individuals tied to off-campus Greek life, it sent a shockwave through the university community. For institutions like Penn State, headlines involving alleged student-run drug operations and dangerous hazing practices force an uncomfortable reckoning with how brilliant, high-achieving young adults can end up participating in systemic criminal misconduct.</p>
 
 <p>While the legal system handles indictments, university discipline, and individual accountability, a deeper question remains largely unaddressed by police reports and press conferences: <em>How does this happen in the first place?</em> Looking past the immediate shock value, the behavioral dynamics at play offer a sobering look at how group psychology, peer pressure, and institutional isolation can warp moral boundaries on college campuses.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 <section>
@@ -175,25 +172,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -60,10 +60,7 @@ source_url: 'https://www.tmz.com/2026/08/16/luigi-mangiones-legal-fund-allowed-t
   <p>When Luigi Mangione entered a guilty plea to federal charges tied to the high-profile death of UnitedHealthcare CEO Brian Thompson, many observers expected his online financial support to dry up instantly. Instead, donations ticked upward in the hours immediately following the court appearance. For crowdfunding platform GiveSendGo, the legal defense fund remains fully operational, forcing a closer look at how digital infrastructure and public behavior interact when high-profile legal battles collide with internet culture.</p>
   
   <p>The core reality of the situation is straightforward: Mangione pleaded guilty Friday to two federal stalking charges related to the Thompson case, and his federal sentencing is scheduled for December 18. However, his legal exposure is far from over. He still faces a separate New York state case and unresolved legal matters across multiple jurisdictions. According to platform representatives, those active proceedings are precisely why the fundraiser stays online.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -171,29 +168,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

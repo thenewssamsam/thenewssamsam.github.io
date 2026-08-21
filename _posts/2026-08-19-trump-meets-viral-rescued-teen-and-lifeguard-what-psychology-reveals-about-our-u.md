@@ -37,10 +37,7 @@ source_url: "https://www.theguardian.com/us-news/2026/aug/17/trump-oval-office-c
 <p>Ten-year-old Nathanial Rai arrived at the White House wearing a sharp dark suit and maroon tie, sitting on a gold couch alongside his father, Sumit, and Donald Trump. Directly across from them sat Ryder Williams, the 16-year-old lifeguard who pulled Nathanial from dangerous surf in late July at Seabright Beach in Santa Cruz, California.</p>
 
 <p>The dramatic footage of the rescue had previously captured the internet's attention, showing Ryder clinging to Nathanial as pounding waves repeatedly crashed over them before both briefly disappeared from view. A second lifeguard, Aaron Bohnen, ultimately helped secure both of them back to shore. After watching the video go viral and expressing a desire to honor the teenager, Trump hosted the group in Washington. Looking at Nathanial, Trump joked of Ryder's bravery: &ldquo;He's a real hero. I don't know if I'd do it. I wouldn't, probably. You're lucky I wasn't on the service that day.&rdquo;</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <p>Behind the photo-op moment, the incident also intersects with a very real policy debate unfolding in California over whether to officially designate lifeguards as first responders—bringing much-needed professional recognition, training standards, and worker protections to a role often taken for granted until a crisis strikes.</p>
@@ -158,25 +155,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -32,10 +32,7 @@ source_url: 'https://www.renewableenergyworld.com/news/how-can-utilities-build-c
 <h2 id="what-happened">What Happened in Modern Grid Resilience</h2>
 <p>In the energy sector, reliability has historically been measured by predictable metrics like SAIDI (System Average Interruption Duration Index) and SAIFI (System Average Interruption Frequency Index). However, as Mona Fazel discussed in recent industry commentary, those metrics fail to capture the unpredictable nature of modern hazards.</p>
 <p>Utilities are grappling with the convergence of elevated wildfire risks, rapid electrification, aging physical assets, and rising public expectations. Individual challenges—such as dry vegetation or high winds—might be manageable on their own. Together, they create an interconnected threat matrix that exposes the limits of traditional utility operations. To tackle this, industry leaders are exploring centralized governance frameworks designed to streamline decision-making, improve cross-functional visibility, and build continuous improvement into wildfire mitigation.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <h2 id="psychology-perspective">The Psychological Barrier: Why Silos Persist</h2>
@@ -90,25 +87,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

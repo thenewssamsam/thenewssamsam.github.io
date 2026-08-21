@@ -36,10 +36,7 @@ source_url: 'https://www.investopedia.com/market-update-memory-stocks-monday-tra
 <h2>What Happened in Monday Trading</h2>
 <p>The artificial intelligence hardware trade is shaking off recent bubble fears in a big way. Semiconductor stocks kicked off the week with strong gains, led by a sharp rally in memory chip makers. Sandisk shares jumped 9% in recent trading, pacing a broader advance across the sector that lifted rivals like Western Digital, Micron Technology, and Seagate Technology.</p>
 <p>While major indexes like the Dow Jones Industrial Average and the S&P 500 hovered near flat lines or edged lower, technology hardware clearly captured investors' attention. The Roundhill Memory ETF (DRAM) climbed nearly 8%, while the iShares Semiconductor ETF (SOXX) rose about 2.5%, buoyed by notable gains in Marvell Technology and Intel.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>Behind the ticker numbers lies a fundamental question for household portfolios and market watchers alike: Is this rally a temporary flash in the pan driven by speculative momentum, or are we witnessing a structural shift in how the semiconductor market operates?</p>
 </section>
@@ -98,25 +95,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -35,10 +35,7 @@ source_url: 'https://www.cbsnews.com/news/rfk-jr-autism-research-trump-vaccines/
 <h2>What Happened: The Stalled Hunt for Answers</h2>
 <p>President Donald Trump has doubled down on altering the nation's childhood vaccination schedule, publicly faulting shots for a rise in autism cases even as Health and Human Services Secretary Robert F. Kennedy Jr. fails to produce empirical evidence linking the two. The executive order, signed on August 10, demands limits on vaccine recommendations just months before midterm elections—a move that has baffled medical groups and alarmed political strategists alike.</p>
 <p>After more than a year in office, Kennedy and his inner circle have missed internal deadlines to deliver definitive answers from a secretive, multimillion-dollar research initiative. Despite spending millions of taxpayer dollars and acquiring medical records to explore a vaccine-autism connection, the project has operated largely behind closed doors, ignoring career scientists and major autism advocacy groups.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>The administration's push persists despite decades of established scientific consensus pointing to genetic factors, prenatal conditions, and environmental variables—and despite multiple high-profile missteps, including claims regarding Tylenol and circumcision that recent peer-reviewed studies have thoroughly debunked. Yet, the political and personal impatience for a singular "culprit" remains high at the top.</p>
 </section>
@@ -100,25 +97,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

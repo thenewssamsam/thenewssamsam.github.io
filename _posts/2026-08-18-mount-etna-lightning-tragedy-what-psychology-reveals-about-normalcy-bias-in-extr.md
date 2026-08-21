@@ -27,10 +27,7 @@ source_url: 'https://www.nbcnews.com/world/europe/us-tourist-dies-struck-lightni
   <p>An American tourist was struck and killed by lightning while hiking Mount Etna, Europe's largest and most active volcano, according to Italian firefighters. The 29-year-old man from Kansas was located at approximately 4,600 feet in the Rocca Capra area after emergency responders deployed a rescue helicopter. Medical personnel later pronounced him dead at the scene.</p>
   
   <p>The tragedy occurred against a backdrop of heightened seismic instability. Prolonged volcanic activity had already forced the temporary closure of the airport in nearby Catania for much of the previous week. While authorities had implemented restrictions across certain upper slopes of the volcano due to the ongoing eruptions, it remained unclear whether the hiker had crossed into a restricted zone.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
   
   <p>In a surprising twist of statistical reality, local officials noted that more fatalities have occurred on Mount Etna from lightning strikes in recent decades than from the volcano's actual molten activity—the last eruption-related deaths on the mountain dating back to 1987. While travelers fixate on the dramatic spectacle of flowing lava, the silent, invisible gather of static electricity poses a far more immediate danger.</p>
@@ -104,25 +101,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

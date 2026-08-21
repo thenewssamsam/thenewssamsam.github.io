@@ -37,10 +37,7 @@ source_url: 'https://www.chicagotribune.com/2026/08/17/ballys-chicago-going-conc
     <p>Big municipal megaprojects are rarely straightforward, but the road to bringing a permanent casino to Chicago just hit a sharp financial curve. Days after pausing construction on nearly all non-gaming amenities at its  billion casino complex in River West, Bally’s Corp. issued a formal going concern warning in its second-quarter earnings filing with the Securities and Exchange Commission (SEC).</p>
     
     <p>The Rhode Island-based gaming company revealed that it is actively pursuing alternative financing structures to shore up its liquidity by early next year to stay in compliance with revolving credit facility lenders. While auditors require a going concern warning when any corporation faces potential debt default risks within a 12-month window, the timing could not be more sensitive for Chicago taxpayers, city council members, and the hundreds of construction workers whose livelihoods depend on the project moving forward.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
     <p>Bally’s insists that its corporate-level liquidity pressures are completely separate from the local construction slowdown. According to the company, that pause is part of an escalating legal and contractual dispute with Chicago leaders over newly legalized video gambling terminals (VGTs), rather than a lack of capital to finish the casino. Still, when corporate balance-sheet stress collides with a massive urban development, public confidence is bound to take a hit.</p>
@@ -105,25 +102,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

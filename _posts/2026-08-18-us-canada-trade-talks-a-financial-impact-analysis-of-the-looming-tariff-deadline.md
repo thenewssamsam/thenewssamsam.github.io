@@ -23,10 +23,7 @@ source_url: 'https://www.bbc.com/news/articles/crl7600rpnko'
   <section id="the-financial-stakes">
     <h2>The Financial Stakes: Who Pays the Price?</h2>
     <p>When governments impose tariffs, the immediate financial impact is often felt by the businesses importing the goods, but these costs almost inevitably trickle down. With 50% tariffs on the table, sectors such as steel, aluminum, automotive, and forestry are bracing for significant volatility.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>For Canadian industries, these tariffs act as a massive tax on exports to the US, effectively pricing Canadian goods out of the American market unless businesses can absorb the costs—which, for many, is financially impossible. Conversely, American consumers and manufacturers who rely on these Canadian inputs face rising production costs or higher price tags at the register.</p>
   </section>
@@ -70,25 +67,3 @@ Tactical Waterproof Backpack
     <p>Source: <a href="https://www.bbc.com/news/articles/crl7600rpnko" target="_blank" rel="noopener noreferrer">Original News Report</a></p>
   </footer>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

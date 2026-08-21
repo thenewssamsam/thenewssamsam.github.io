@@ -31,10 +31,7 @@ source_url: 'https://finance.yahoo.com/news/spending-is-leading-to-earnings-wall
 <h2 id="what-happened">What Happened: The Turning Point in AI Spending</h2>
 <p>For the past few years, the dominant narrative surrounding artificial intelligence has been one of reckless spending. Alphabet, Amazon, Microsoft, and Meta have poured hundreds of billions of dollars into data centers, specialized chips, and power infrastructure with few immediate signs of profitability. That hesitation on Wall Street pushed stock indexes around as analysts questioned the return on invested capital.</p>
 <p>That tone is shifting. With major stock indexes hovering near all-time highs, strategists at firms like JPMorgan and Truist are seeing tangible evidence that the capital expenditure is generating real top-line results. JPMorgan recently bumped its S&P 500 price target to 8,000, pointing directly to strong corporate earnings and surging demand for rented computing power and storage.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -95,29 +92,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

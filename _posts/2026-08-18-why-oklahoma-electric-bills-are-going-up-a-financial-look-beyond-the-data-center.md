@@ -41,10 +41,7 @@ source_url: 'https://www.newson6.com/data-centers-in-oklahoma/why-oklahoma-elect
 <section id="what-happened">
     <h2>What Happened: The Anatomy of Summer Rate Shock</h2>
     <p>For Tulsa-area customers, the most immediate pressure point arrived July 1, when an interim rate adjustment took effect for Public Service Company of Oklahoma (PSO) while the Oklahoma Corporation Commission evaluates a broader permanent rate hike request. Under state regulations, utilities file formal rate review cases to cover operating expenses, labor, materials, capital investments, and allowable profit margins.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -164,29 +161,3 @@ Seagate Portable External Hard Drive
 .ncg-closing-tagline { font-weight: bold; margin-top: 0.75rem; color: #2e7d32; }
 </style>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

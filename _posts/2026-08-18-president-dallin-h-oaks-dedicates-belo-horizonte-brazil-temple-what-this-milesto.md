@@ -25,10 +25,7 @@ source_url: 'https://www.thechurchnews.com/temples/2026/08/16/dallin-h-oaks-chur
 <h2 id="what-happened">What Happened in Belo Horizonte</h2>
 <p>On Sunday, August 16, 2026, President Dallin H. Oaks—just days after celebrating his 94th birthday—offered the dedicatory prayer for the Belo Horizonte Brazil Temple. Traveling with his wife, Sister Kristen M. Oaks, alongside General Authority Seventies and local leaders, the President of the Church performed his first international temple dedication since being set apart in October 2025.</p>
 <p>The new sacred structure is the 12th operating temple in Brazil and the 220th worldwide, followed immediately by the Cleveland Ohio Temple as the 221st. For decades, Latter-day Saints in Belo Horizonte and the surrounding state of Minas Gerais faced arduous journeys of up to eight hours overnight by bus to reach the distant houses of the Lord in São Paulo or Campinas. Now, members in the region have a dedicated sanctuary right in their capital city, transforming both their regular worship and their connection to sacred ordinances.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -81,29 +78,3 @@ Tactical Waterproof Backpack
 </div>
 </div>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

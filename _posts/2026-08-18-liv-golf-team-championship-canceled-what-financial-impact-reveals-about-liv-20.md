@@ -25,10 +25,7 @@ source_url: ''
   <h2 id="what-happened">What Happened: The Collapse of the Finale</h2>
   <p>For weeks, tour officials insisted everything was fine. Despite empty plots of land at The Cardinal in Plymouth, Michigan, showing zero signs of tournament construction, LIV Golf maintained that its season-ending Team Championship would proceed as scheduled from August 27–30.</p>
   <p>Then reality caught up with the press releases. Last week, LIV quietly stopped selling tickets, days after U.S. broadcast partner Fox Sports scrubbed the event from its television listings. Facing mounting pressure, LIV Golf finally conceded on Monday what had long been obvious: the Team Championship is dead.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
   <p>Instead of a grand finale in Michigan, the league announced that the team champion will be crowned during this week’s event in Indianapolis. Post-round entertainment, including scheduled performances by country singer Thomas Rhett and DJ Disco Lines, was also scrapped due to what tour officials termed "unavoidable changes in the entertainment program."</p>
 
@@ -83,25 +80,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

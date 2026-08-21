@@ -20,10 +20,7 @@ source_url: 'https://qz.com/harvard-endowment-spacex-stake-2-billion-081726'
 
 <h2 id="what-happened">What Happened: Inside Harvard's Landmark 13F Filing</h2>
 <p>According to the regulatory 13F filing submitted to the U.S. Securities and Exchange Commission, Harvard Management Company disclosed total U.S. equity holdings standing at  billion at the time of the report. The centerpiece of that portfolio is a commanding holding in Space Exploration Technologies Corp. valued at  billion, making it the single largest stock position in Harvard's disclosed U.S. equities.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>To put that in perspective, Harvard's overarching endowment was valued at  billion as of June 2025, marking the last publicly reported figure from the institution. While a spokesperson for Harvard Management Co. declined to comment on individual investments, market analysts note that such holdings can reflect directly owned stock, distributions from private venture funds, or a combination of both.</p>
 <p>SpaceX went public at  per share and has hovered near those marks, closing a recent session at  This liquidity event has unlocked massive paper and realized gains not just for Harvard, but for several other major academic institutions. The University of California's investment arm reported a SpaceX position worth roughly  billion, while the University of North Carolina and Washington University in St. Louis also revealed significant holdings resulting from early bets made through venture capital partners over a decade ago.</p>
@@ -82,25 +79,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

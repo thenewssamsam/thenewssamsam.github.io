@@ -39,10 +39,7 @@ source_url: 'https://www.theguardian.com/world/2026/aug/18/south-korea-president
 <section id="what-happened">
 <h2>What Happened: The Drill Cuts and Seoul's Response</h2>
 <p>In mid-August 2026, the geopolitical balance on the Korean peninsula shifted once again. Following instructions from US President Donald Trump to "substantially reduce" the ongoing <em>Ulchi Freedom Shield</em> joint military exercises, South Korean President Lee Jae Myung announced an accelerated push to reclaim wartime operational control—known as Opcon—of his country's armed forces.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>Trump defended the cut by citing his direct relationship with North Korean leader Kim Jong-un, asserting that the North has been "unthreatening and respectful." Meanwhile, the 10-day drills—involving roughly 18,000 South Korean troops alongside American personnel and international observers—were designed in part to certify Seoul’s readiness to take over command authority that has rested with an American four-star general since the Korean War armistice in 1953.</p>
 <p>Rather than quietly accepting the disruption to pre-planned defensive rehearsals, President Lee framed the moment around a straightforward principle: "A strong alliance makes the foundation of security stronger, and strengthening our own capabilities increases our value and necessity as an ally." Alongside the Opcon transfer, Lee pressed for accelerated development of nuclear-powered submarines and officer training for integrated modern combat.</p>
@@ -159,25 +156,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

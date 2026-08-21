@@ -32,10 +32,7 @@ source_url: "https://abcnews.com/Politics/florida-holds-1st-major-primaries-afte
 <h2>What Happened: Florida's 2026 Primaries</h2>
 <p>Tuesday marks Florida's primary election day, bringing voters to the polls for the first major contests since the state legislature passed a controversial new congressional map earlier this year. The freshly drawn boundaries could allow Republicans to flip up to four seats in November's midterm elections, serving as a critical battleground in the fight for control of the U.S. House of Representatives. Analysts project that the map could leave just four Democratic-held districts in the entire state after the general election.</p>
 <p>The stakes are intensely personal for several incumbent members of Congress. Democratic Reps. Darren Soto, Jared Moskowitz, Debbie Wasserman Schultz, and Kathy Castor find their districts directly impacted. Wasserman Schultz opted to run in the newly redrawn 20th Congressional District—a majority-minority district—sparking local tensions with Black Democrats who feel squeezed by similar mid-decade redistricting moves in states like Tennessee, Louisiana, and Alabama. Meanwhile, Moskowitz faces a spirited primary challenge from progressive challenger Oliver Larkin in the 25th District.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>On the Republican side, attention is heavily focused on the gubernatorial race to succeed term-limited Gov. Ron DeSantis. Rep. Byron Donalds has emerged as the front-runner in the GOP primary, buoyed by the endorsement of President Donald Trump and a staggering  million campaign donation from GOP mega-donor Ken Griffin. If Donalds secures the nomination and wins in November, he would make history as Florida's first Black governor and only the seventh Black governor in U.S. history. Former Republican congressman David Jolly leads the field in the Democratic gubernatorial primary, setting up a high-profile showdown for the autumn.</p>
 </section>
@@ -96,25 +93,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -20,10 +20,7 @@ source_url: 'https://abcnews.com/Politics/trump-accuses-democrats-trickery-candi
   <h2 id="what-happened">What Happened in Alaska's Senate Primary</h2>
   <p>As Alaskan voters head to the polls, the primary race for the state's crucial U.S. Senate seat has taken an extraordinary turn. Incumbent Republican Senator Dan S. Sullivan is facing a challenge from a retired fifth-grade teacher who shares his exact name: Dan J. Sullivan.</p>
   <p>The name-match has injected high-voltage friction into an already competitive race that could help determine the balance of power in Congress. Democrats are eyeing the seat to potentially flip it with former Democratic Representative Mary Peltola, making the Republican primary dynamics vital for GOP retention strategies.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -123,29 +120,3 @@ Tactical Waterproof Backpack
   padding-left: 1.2rem;
 }
 </style>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

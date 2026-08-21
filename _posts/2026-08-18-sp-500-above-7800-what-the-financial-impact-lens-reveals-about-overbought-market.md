@@ -25,10 +25,7 @@ source_url: 'https://investorplace.com/market360/2026/08/is-this-record-high-mar
   <h2 id="what-happened">What Happened: A Historic Milestone Meets Economic Mixed Signals</h2>
   <p>Last Thursday, the S&P 500 crossed the historic 7,800 threshold, marking an unprecedented milestone for U.S. equities. Naturally, a milestone of that magnitude sparks immediate debate over whether the broader market has entered dangerous, overbought territory.</p>
   <p>Adding fuel to the cautious narrative, the Atlanta Fed recently revised its third-quarter GDP estimate downward from an aggressive 5.8% to 4.3%. The catalyst behind the revision was softer retail sales figures in July. However, a deeper look reveals that much of that apparent weakness was simply retail spending pulled forward into June by major promotional events like Amazon Prime Day, while underlying consumer categories remained remarkably resilient.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
   <h2 id="financial-perspective">The Financial Impact Perspective: Valuations, Earnings, and Concentration Risk</h2>
@@ -87,25 +84,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -38,10 +38,7 @@ source_url: ''
     <p>Following weeks of heavy bombing and daily military exchanges, the United States has transitioned its strategy from direct aerial bombardment to a naval blockade aimed at forcing Iran to reopen the vital Strait of Hormuz. For global energy markets and international shipping, this narrow waterway is an economic jugular vein. The U.S. blockade is designed to exert maximum economic pressure on Tehran, preventing vital trade and compelling compliance with ceasefire terms.</p>
     
     <p>However, rather than capitulating under economic strain, Tehran has signaled a shift to a "fully offensive" posture. According to recent intelligence reports and statements from Iranian officials, the regime has reorganized its military strategy, deployed commanders to regional proxies, and prepared contingency measures—ranging from regional sabotage to challenging the U.S. naval presence directly. At the same time, logistical strains have emerged on the American side, including depleted interceptor stockpiles and fatigued naval carrier groups operating at historic lengths of deployment.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
   </section>
 
@@ -116,25 +113,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

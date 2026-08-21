@@ -25,10 +25,7 @@ source_url: 'https://abc7ny.com/post/amtrak-reopens-east-river-tunnel-line-damag
   <h2 id="what-happened">What Happened: A Century-Old Corridor Gets a Overhaul</h2>
   <p>The milestone was celebrated Monday with a press conference and ceremonial train ride at Penn Station. The newly rehabilitated tunnel tube, originally opened in 1910, underwent a grueling yearlong modernization after being stripped down completely to its concrete liner.</p>
   <p>During the closure, crews installed entirely new track, drainage systems, modern power grids, communications networks, and state-of-the-art life safety systems. The project's completion marks the halfway point for Amtrak's rehabilitation of the two tubes damaged during Superstorm Sandy in 2012. While Lines 3 and 4 remain untouched, Line 1 is scheduled to undergo a similar overhaul beginning this fall, running through the end of 2027.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
   <p>The financial and logistical friction behind the project was substantial. The closure of Line 2 cut the LIRR's capacity by 20%, creating acute service challenges for suburban commuters navigating delays and disruptions. Meanwhile, state transit officials had initially pushed for overnight and weekend-only work to protect daily capacity. Amtrak engineers pushed back, warning that restricting work to off-hours would have extended the project timeline by years&#8212;driving up total capital expenditures exponentially.</p>
 
@@ -104,25 +101,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

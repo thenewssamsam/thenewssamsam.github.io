@@ -34,10 +34,7 @@ source_url: 'https://www.forbes.com/sites/siladityaray/2026/08/17/trump-blames-v
 <h2>What Happened on the National Mall?</h2>
 <p>President Donald Trump took to Truth Social to share a photo of a large discolored patch of grass on the National Mall, near the World War II Memorial, blaming the damage on vandals. The location in question served as the site for a major July 4 rally celebrating America’s 250th anniversary, complete with heavy staging, seating areas, and crowds. Independent reports from the Associated Press noted that the discolored and damaged patches visible in the photos match the exact footprints where heavy event structures were recently erected and subsequently dismantled.</p>
 <p>This latest social media post mirrors a previous controversy involving the Lincoln Memorial Reflecting Pool, where Trump claimed damage to the pool's newly renovated blue flooring was the result of deliberate vandalism. However, federal prosecutors dropped the criminal case after Department of the Interior evidence pointed instead to a flawed and rushed installation process. Despite the findings, Trump doubled down, publicly criticizing U.S. Attorney Jeanine Pirro for dropping the charges. While actual vandalism did occur nearby—such as an unrelated spray-painting incident at the World War II Memorial resulting in an arrest—the friction between official investigative findings and presidential claims highlights a familiar modern political dynamic.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -125,29 +122,3 @@ Seagate Portable External Hard Drive
 footer { margin-top: 2rem; font-size: 0.9rem; color: #666; border-top: 1px solid #e2e8f0; padding-top: 1rem; }
 </style>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

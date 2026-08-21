@@ -36,10 +36,7 @@ source_url: 'https://www.thebanner.com/community/public-health/cyclosporiasis-me
 <h2 id="ncg-what-happened">What Happened: A Season of Uninvited Pathogens</h2>
 
 <p>According to recent reports highlighting public health trends in Maryland and across the United States, residents are facing an uptick in infections that bring everything from severe gastrointestinal distress to itchy rashes and systemic illness. While Maryland has largely avoided the catastrophic spikes seen in some neighboring states, the overall landscape reveals a convergence of old foes and unfamiliar names.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 <p>Among the most talked-about surprises is <strong>cyclosporiasis</strong>, a foodborne parasitic infection that has recently caused thousands of cases nationwide. Unlike standard food poisoning that strikes within hours, cyclosporiasis symptoms—including prolonged, debilitating diarrhea—can take weeks to surface, often leaving victims unable to trace the source. Investigators have linked broader outbreaks to imported produce like shredded iceberg lettuce, while federal tracking systems like FoodNet face reduced funding and oversight.</p>
@@ -166,25 +163,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -32,10 +32,7 @@ source_url: 'https://media.amtrak.com/2026/08/amtrak-completes-first-phase-of-ea
 <h2>What Happened: A Century-Old Lifeline Renewed</h2>
 <p>Earlier this week, Amtrak Interim President Byl Herrmann joined federal, state, and transit leaders at New York Penn Station to celebrate a monumental achievement: the successful completion of the first phase of the East River Tunnel (ERT) Rehabilitation Project. Commuters, union workers, and regional planners watched as Line 2 officially reopened to passenger traffic, restoring a vital link for Amtrak, Long Island Rail Road (LIRR), and NJ TRANSIT customers.</p>
 <p>The numbers behind the project underline the sheer scale of the undertaking. Opened in 1910, the East River Tunnel serves roughly 450 daily trains, making it one of the busiest passenger rail corridors in the Western Hemisphere. However, decades of heavy use compounded by the corrosive saltwater intrusion of Superstorm Sandy left two of its four tubes in dire need of comprehensive reconstruction.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>Over the past year, crews completely gutted and rebuilt the interior systems of Line 2. The project saw the removal and replacement of more than 24,000 feet of rail, 8,000 tons of ballast, 8,000 wooden rail ties, and 20,000 cubic yards of bench wall concrete. Supported by  billion in federal funding championed by U.S. Senators Chuck Schumer and Kirsten Gillibrand—part of a broader  billion budget—the project remains on track and within budget for a final completion date by the end of 2027.</p>
 </section>
@@ -101,25 +98,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

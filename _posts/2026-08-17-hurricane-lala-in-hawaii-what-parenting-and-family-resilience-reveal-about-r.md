@@ -23,10 +23,7 @@ source_url: 'https://www.sfchronicle.com/weather/article/hawaii-hurricane-lala-f
   <section id="introduction" class="ncg-section">
     <p>When Hurricane Lala skirted the southern coast of Hawaii's Big Island, it brought far more than high winds and rough surf. Dumping up to 40 inches of rain in some areas, the storm transformed familiar streets into rushing rivers, washed homes off their foundations, and plunged more than 250,000 customers into darkness. For families living across the Big Island, Maui, and Oahu, the weekend brought a jarring reality check: utility officials warn that some rural power outages could stretch on for weeks, or even months.</p>
     <p>While headlines naturally focus on wind speeds, rainfall totals, and damaged bridges, the deeper story of a disaster like Hurricane Lala unfolds in living rooms, temporary evacuation centers, and darkened kitchens. It is a story of how parents protect their children when the walls shake, and how communities stitch themselves back together when the infrastructure breaks down.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -100,29 +97,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

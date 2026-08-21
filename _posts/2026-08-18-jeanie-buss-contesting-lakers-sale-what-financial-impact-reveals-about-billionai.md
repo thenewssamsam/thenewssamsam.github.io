@@ -36,10 +36,7 @@ source_url: 'https://abc7.com/post/jeanie-buss-contending-familys-sale-stake-lak
 <section>
 <h2 id="what-happened">What Happened: The Battle for Lakers Control</h2>
 <p>The latest twist in the Lakers' ownership saga erupted when ESPN reported that five Buss siblings voted to sell their remaining 17.8% share of the team. The buyers, Josh Kushner and Bob Iger, stepped in following a federal investigation into billionaire Mark Walter regarding alleged tax fraud by companies tied to him—a development that triggered a secondary wave of exits among the family trust.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>However, Jeanie Buss—the lone sibling who abstained and did not vote to sell—is fighting back through her legal representation, attorney Adam Streisand. Citing a 2017 court ruling, the legal challenge argues that no sale can be effectuated without the approval of the co-trustees. Furthermore, the dispute threatens Jeanie Buss's position as controlling owner, because dropping below the minimum 15% personal ownership threshold could strip her of the governance rights she negotiated to hold through 2030.</p>
 </section>
@@ -150,25 +147,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

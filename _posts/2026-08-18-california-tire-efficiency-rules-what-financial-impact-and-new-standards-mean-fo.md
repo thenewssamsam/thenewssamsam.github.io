@@ -36,10 +36,7 @@ source_url: 'https://www.kcra.com/article/california-energy-commission-tire-effi
     <h2>What Happened: California Targets Tire Rolling Resistance</h2>
     <p>When car owners need to buy replacement tires, they usually choose based on price, tread life, or brand loyalty. But a sweeping new regulatory move in California is about to add energy efficiency to that checklist—whether drivers like it or not.</p>
     <p>In a unanimous vote, the California Energy Commission (CEC) adopted unprecedented new rules that will phase out the sale of replacement tires failing to meet strict rolling resistance standards. Rolling resistance measures how much energy a tire expends as it rolls along the asphalt. Lower resistance means a vehicle burns less gasoline or consumes fewer kilowatt-hours of electricity to travel the same distance.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>While new vehicles already roll off assembly lines equipped with highly efficient tires, motorists historically replace those original tires with higher rolling resistance alternatives that often prioritize grip, quietness, or lower upfront costs over fuel economy. The CEC's new framework aims to close that gap by forcing the replacement market to match factory-level efficiency.</p>
   </section>
@@ -109,25 +106,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

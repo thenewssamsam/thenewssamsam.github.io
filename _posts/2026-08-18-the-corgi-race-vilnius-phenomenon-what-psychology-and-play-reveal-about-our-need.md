@@ -35,10 +35,7 @@ source_url: 'https://apnews.com/article/lithuania-vilnius-corgi-race-costumes-no
 <h2 id="what-happened">What Happened at Vingis Park?</h2>
 <p>The fifth Corgi Race Vilnius transformed Vingis Park into a bustling capital of canine celebration. Organizers reported the biggest turnout in the event's history, drawing competitors not just from across Europe—including Latvia, Poland, Estonia, Germany, Ukraine, the Czech Republic, and Britain—but even from the United States. Ninety-four dogs sprinted across a 25-meter (82-foot) track in qualifiers, semifinals, and a final won by American competitor GG (short for Gustave the Girl Dog), with fellow U.S. entrant Mr. Corgington taking second and local favorite Moka finishing third.</p>
 <p>Yet the main running event was only part of the attraction. The program featured a 38-dog costume parade won by Amigo in a knight-style outfit, a "smartest nose" treat-search challenge shared by Latvian corgis Tora and Rusty, and a loudest bark competition claimed by Mr. Corgington. With half of the participants attending for the first time alongside seasoned veterans, the festival solidified Vilnius's self-proclaimed status as the European capital of corgis—drawing participants even from Britain, the breed's historic homeland.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -116,29 +113,3 @@ Tactical Waterproof Backpack
 footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #e2e8f0; font-size: 0.9rem; color: #64748b; }
 </style>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

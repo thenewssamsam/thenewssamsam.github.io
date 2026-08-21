@@ -23,10 +23,7 @@ source_url: 'https://abcnews.com/US/american-airlines-flight-blows-2-tires-landi
 <section class="ncg-intro">
     <p>When an unexpected jolt shakes a commercial airliner upon touchdown, the human mind moves instantly from the humdrum of routine travel to sudden, hyper-vigilant alertness. That exact psychological pivot played out on Monday at Chicago O'Hare International Airport, when an American Airlines flight blew two tires upon landing, closely followed by a strikingly similar incident involving a United Airlines flight just days after another O'Hare runway scare.</p>
     <p>While federal aviation authorities investigate the mechanical causes behind these back-to-back incidents, the human element—how passengers react, how crews maintain calm, and why our brains struggle to process sudden transit anomalies—offers a revealing window into the psychology of modern travel.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 </section>
 
@@ -137,25 +134,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

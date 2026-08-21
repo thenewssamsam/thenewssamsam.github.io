@@ -39,10 +39,7 @@ source_url: 'https://www.foxbusiness.com/retail/buc-ees-arkansas-benton-opening'
   <p>On a Monday morning at 6 a.m. CT, Buc-ee's planted its flag in the "Natural State," officially opening its long-anticipated travel center at 1400 Highway 229 in Benton, Arkansas. The sprawling new facility features the brand's signature layout: 120 fueling positions, thousands of snack options including Texas barbecue, fudge, kolaches, and Beaver Nuggets, and its famously pristine restrooms.</p>
   
   <p>According to company announcements, the Benton location has created more than 200 permanent jobs for the local community. This debut brings Buc-ee's to a total of 58 locations nationwide, continuing a rapid multi-state rollout that has transformed a beloved Texas roadside institution into a cross-country phenomenon.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
   <div class="tbh-quick-take">
@@ -115,25 +112,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

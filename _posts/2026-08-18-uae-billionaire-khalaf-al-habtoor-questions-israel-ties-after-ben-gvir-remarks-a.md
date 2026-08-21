@@ -46,10 +46,7 @@ source_url: 'https://www.middleeasteye.net/news/uae-billionaire-questions-peace-
     <h2>What Happened: The Statement That Broke the Silence</h2>
     <p>In a public post on X, Dubai-based billionaire Khalaf Al Habtoor voiced sharp disbelief following remarks by Israeli National Security Minister Itamar Ben Gvir. Ben Gvir had publicly called for Israeli forces to eliminate scores of individuals in Gaza nightly, asserting that Palestinians were unworthy of life.</p>
     <p>For Al Habtoor—a high-profile figure close to the UAE ruling circles whose public commentary is tightly monitored—the outburst crossed a moral Rubicon. Having strongly defended the 2020 Abraham Accords under the premise that economic integration would foster moderation, Habtoor confronted a stark contradiction: how can a state pursue coexistence and economic partnership with an ally whose officials openly champion mass violence?</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
   </section>
 
@@ -112,25 +109,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

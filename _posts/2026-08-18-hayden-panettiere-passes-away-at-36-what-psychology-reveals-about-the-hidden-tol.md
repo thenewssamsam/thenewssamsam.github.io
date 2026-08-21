@@ -21,10 +21,7 @@ source_url: 'https://www.bbc.com/news/articles/cq5665zgg1po'
   <h2 id="what-happened">What Happened: The Tragic Loss of a Familiar Face</h2>
   <p>Hayden Panettiere passed away on Sunday in Greenville, South Carolina, at age 36. According to the Greenville County Coroner's Office and local police dispatch reports, emergency crews responded to a call regarding a woman in cardiac arrest. Despite advanced life support and resuscitation efforts, she was pronounced dead at the scene.</p>
   <p>Police and coroner officials stated that a preliminary investigation revealed "no signs of foul play or suspicious circumstances." While Panettiere had documented her long-standing struggles with substance abuse, addiction, and the pressures of her upbringing in her memoir earlier this year, a definitive cause of death has not yet been released.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   <p>Tributes poured in immediately from across the entertainment industry. Co-stars and peers—including Viola Davis, Bethany Joy-Lenz, Connie Britton, and Selma Blair—remembered her as an extraordinary talent, an old soul, and a fierce spirit who left an indelible mark on television and film from a remarkably young age.</p>
 
@@ -94,25 +91,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

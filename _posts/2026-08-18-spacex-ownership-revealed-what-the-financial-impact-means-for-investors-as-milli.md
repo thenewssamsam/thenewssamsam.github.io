@@ -17,10 +17,7 @@ source_url: 'https://finance.yahoo.com/markets/article/spacexs-biggest-investors
 </header>
 
 <p>When a notoriously private aerospace giant steps out of the shadows and onto the public exchange, the curtain does not lift all at once. For months following its June IPO, SpaceX kept its exact capitalization table largely obscured from public view. But quarterly regulatory filings have finally laid bare the massive institutional machinery driving Elon Musk's rocket and satellite enterprise—just as a tidal wave of newly unlocked shares hits the open market.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 <p>With more than 1,500 investors filing stakes, the numbers tell a compelling story of extreme capital concentration. Just 23 players account for over 80 percent of reported shares, while more than 1,300 smaller holders share less than one percent combined. As supply mechanics shift and billions in equity become eligible for trading, understanding the underlying financial architecture of these stakes is essential for anyone trying to decode where the stock goes next.</p>
@@ -96,25 +93,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

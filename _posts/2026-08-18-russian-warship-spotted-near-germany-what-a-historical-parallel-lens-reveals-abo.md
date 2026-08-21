@@ -37,10 +37,7 @@ source_url: 'https://united24media.com/world/russian-hypersonic-missile-capable-
     <p>Last week, the Russian Navy frigate <em>Admiral Kasatonov</em> was spotted operating off the coast of the German island of Fehmarn in the strategic Baltic Sea. According to reports from <em>The Telegraph</em>, shipping data reviewed by journalists indicated that the advanced warship had sailed with its location transponder switched off—a tactical move known as going "dark."</p>
     
     <p>The appearance of this Project 22350 frigate—capable of carrying hypersonic Zircon and Kalibr missiles—did not happen in a vacuum. It followed a series of direct warnings from Kremlin leadership regarding Western operations against Russia's shadow fleet of oil tankers. British and EU maritime forces have boarded several vessels in recent months as part of an expanding sanctions enforcement campaign targeting the roughly 700-ship network that helps fund Moscow's military operations.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
     <p>Because Fehmarn sits directly adjacent to the Danish straits, the vital maritime gateway connecting the Baltic Sea to the North Sea and the Atlantic, the warship's presence served as an unmistakable signal to NATO members monitoring Europe's northern flank.</p>
@@ -131,25 +128,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

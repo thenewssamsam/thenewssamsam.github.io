@@ -58,10 +58,7 @@ source_url: 'https://www.aol.com/articles/man-31-rescued-alive-being-131442000.h
   <section id="what-happened" class="ncg-section">
     <h2>What Happened in the Cenote?</h2>
     <p>Erasto Crisanto Valdez was fishing with his father in San Francisco La Paz within the Chimalapas region of Mexico when he went underwater in a local cenote and lost his bearings. What began as a routine day on the water turned into a nightmare when he could not find his way back to the exit.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>What followed was an unprecedented 15-day search operation involving land, river, and air units coordinated by municipal authorities, Mexico's Civil Protection, the Secretariat of Public Security, and the Secretariat of the Navy. More than 100 meters deep inside the cave, authorities finally located Valdez alive on August 7.</p>
     <p>Miraculously, Valdez discovered an air chamber and a running freshwater spring inside the pitch-black cavern. Lacking food and dealing with severe dehydration, he relied on rainwater and sheer willpower until rescue teams hauled him up a mountain on a stretcher.</p>
@@ -129,25 +126,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

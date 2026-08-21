@@ -36,10 +36,7 @@ source_url: 'https://www.newsday.com/long-island/transportation/east-river-tunne
     <p>To the average commuter gazing out a window into the semidarkness of the East River, the change will feel almost imperceptible. But beginning this week, some Long Island Rail Road (LIRR) trains are once again rolling through Line 2, a critical underwater artery connecting Queens to Manhattan’s Penn Station after a massive, long-delayed reconstruction project.</p>
     
     <p>Spearheaded by Amtrak and backed by federal funding secured by U.S. Sen. Chuck Schumer (D-N.Y.), the reopening marks the culmination of more than a decade of planning, political friction, and grueling engineering work. Both Line 1 and Line 2 were originally inundated with millions of gallons of corrosive saltwater during Superstorm Sandy in 2012. The lingering salt residue slowly degraded the tracks, cables, and concrete, compounding daily delays for thousands of riders across the LIRR, Amtrak, and New Jersey Transit networks.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
     <p>The  billion rehabilitation project required a drastic measure: a total, 15-month shutdown of Line 2 to allow work crews to completely rebuild the track beds, drainage systems, bench walls, and signals. While the MTA initially urged Amtrak to limit the scope or restrict repairs to nights and weekends, Amtrak opted for a full-time closure, citing worse-than-expected structural damage. Now that Line 2 is back online, Amtrak prepares to shift its focus to Line 1 this fall, setting up another 13-month closure cycle as officials race to ensure these 1910 tunnels survive into the next century.</p>
@@ -112,25 +109,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

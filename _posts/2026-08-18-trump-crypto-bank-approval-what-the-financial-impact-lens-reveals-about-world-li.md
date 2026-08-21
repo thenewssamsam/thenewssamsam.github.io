@@ -25,10 +25,7 @@ source_url: 'https://www.cnn.com/2026/08/17/investing/trump-crypto-bank-world-li
   <p>The decision, announced late Friday, marks a massive structural win for World Liberty, a firm launched by Donald Trump and his sons just weeks before the 2024 presidential election. While executives at the crypto firm celebrate the move as a leap toward rigorous regulatory oversight, ethics watchdogs, congressional Democrats, and legal scholars are sounding alarms over what they describe as unprecedented conflicts of interest.</p>
 
   <p>To understand why this regulatory green light matters, we need to look past the political noise and examine the cold, hard financial mechanics of what a trust bank charter actually changes for World Liberty, its stablecoin, and the broader financial ecosystem.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
   <div class="ncg-toc" id="ncg-table-of-contents">
@@ -128,25 +125,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

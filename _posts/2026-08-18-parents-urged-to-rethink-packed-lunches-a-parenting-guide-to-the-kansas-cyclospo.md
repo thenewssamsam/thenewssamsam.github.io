@@ -115,10 +115,7 @@ source_url: 'https://www.kwch.com/2026/08/18/parents-urged-rethink-packed-lunche
 
 <h2 id="what-happened">What Happened in Kansas?</h2>
 <p>State health officials reported 748 confirmed cases of cyclosporiasis, with Sedgwick County alone accounting for roughly 100 of those infections. The outbreak, tied primarily to contaminated fresh produce like bagged lettuce, has prompted widespread concern just as the new school year kicks off.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>One of the trickiest aspects of this outbreak is the incubation period. Symptoms can take anywhere from one to two weeks to appear. Public health experts warn that a child exposed to the microscopic parasite on the very first day of school might not show signs of illness until well into the following week, making tracing the exact source incredibly difficult for families and epidemiologists alike.</p>
 <p>While federal and state agencies continue tracking down the exact vector, local health leaders emphasize that the source may still be active within the food distribution chain.</p>
@@ -213,25 +210,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

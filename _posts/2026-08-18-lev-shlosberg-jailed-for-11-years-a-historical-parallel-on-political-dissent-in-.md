@@ -23,10 +23,7 @@ source_url: 'https://www.bbc.com/news/articles/cj4kjnle2neo'
 <section id="what-happened">
 <h2>What Happened in Pskov?</h2>
 <p>Lev Shlosberg, the deputy head of the liberal Yabloko party, faced prosecution over social media comments criticizing the government and calling for a ceasefire in Ukraine. The state prosecution had demanded 12 years and one month; the court settled on 11 years and one month.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>Yabloko held a unique position as the sole registered political party in Russia to openly oppose the full-scale invasion of Ukraine launched in 2022. With Shlosberg now imprisoned and Yabloko struck off the electoral ballots under accusations tied to the "international LGBT movement" and copyright claims brought by a pro-Kremlin nationalist party, the upcoming September election features zero anti-war parties. All ten competing parties back the conflict.</p>
 <p>Despite ruling United Russia party ratings dipping to 32.1% earlier this month—the lowest figure since May, according to state pollster VCIOM—independent election monitors have been stripped of oversight capabilities, leaving the political machinery firmly under Kremlin control.</p>
@@ -102,25 +99,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

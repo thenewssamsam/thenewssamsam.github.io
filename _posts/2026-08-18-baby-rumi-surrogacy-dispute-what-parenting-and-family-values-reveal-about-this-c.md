@@ -39,10 +39,7 @@ source_url: 'https://www.cbsnews.com/news/texas-surrogacy-dispute-baby-heart-sur
   <section id="what-happened" class="ncg-section">
     <h2>What Happened: The Facts of the Case</h2>
     <p>The timeline of Rumi's birth and medical journey involves multiple states, conflicting legal jurisdictions, and a high-stakes medical diagnosis. Intended parents Omar Ahmed and Nausheen Gilkar, residing in California, enlisted McKenna West of Alaska as their surrogate.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>Several months before the due date, prenatal screenings revealed that the baby suffered from hypoplastic left heart syndrome (HLHS), a severe congenital heart defect requiring a series of specialized open-heart surgeries beginning in the first weeks of life. According to statements and state legal filings, a dispute arose regarding the medical path forward, with intended parents reportedly asking the surrogate to seek an abortion—a request West refused.</p>
     <p>West subsequently traveled to Texas prior to the birth. The Texas Attorney General subsequently secured emergency court orders ensuring the infant would receive immediate, necessary lifesaving medical care, granting medical decision-making authority to Ahmed and Gilkar. While West has been barred from contact and is challenging parentage under Texas birth-mother laws, Rumi's medical team confirmed that the infant successfully underwent the initial Norwood procedure on Monday morning and is currently in recovery under his parents' care.</p>
@@ -116,25 +113,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

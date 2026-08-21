@@ -26,10 +26,7 @@ source_url: 'https://nypost.com/2026/08/16/lifestyle/greek-ferry-causing-tourist
     <p>Picture the scene: crystal-blue Aegean waters, whitewashed Cycladic cliffside towns, and the sun sinking into the horizon. Now, replace that daydream with flying barf bags, green-faced children, and water slamming violently against the cabin windows at nearly 60 miles per hour. Welcome aboard Greece's notorious high-speed ferries, newly christened by overwhelmed passengers as the "vomit comet."</p>
     
     <p>As tourism surges across the Mediterranean—with traveler numbers jumping over 20% compared to previous years—more visitors than ever are opting for hydrofoils and high-speed catamarans to squeeze multiple postcard-perfect destinations into a single week. But when these speedy vessels clash with Greece's seasonal Meltemi winds, dream vacations quickly transform into endurance tests. Beyond the physical misery, this viral travel phenomenon offers a fascinating window into human decision-making, cognitive bias, and how our minds process risk when we travel.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -97,25 +94,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -23,10 +23,7 @@ source_url: 'https://www.cnn.com/2026/08/17/uk/andy-burnham-trump-chief-of-staff
 
 <h2 id="what-happened">What Happened in the Downing Street Breach</h2>
 <p>According to reports breaking on Monday and confirmed by CNN, British Prime Minister Andy Burnham exchanged messages with an individual successfully impersonating Susie Wiles, one of U.S. President Donald Trump's closest advisors and his White House chief of staff. The British embassy in Washington was sufficiently alarmed by the breach to raise the incident directly with U.S. officials.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>Downing Street has declined to comment on national security matters, but sources indicate that the communication was limited to messaging and that "no messages of significance" were exchanged. Burnham reportedly grew suspicious quickly, leading to the matter being escalated to the proper authorities. White House officials have clarified that Wiles's personal devices were not hacked in this specific instance, noting instead that the incident traces back to ongoing phishing campaigns and compromised contact lists that have plagued individuals associated with Wiles since a prior investigation launched in May 2025.</p>
 
@@ -83,25 +80,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

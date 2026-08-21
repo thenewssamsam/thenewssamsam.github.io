@@ -35,10 +35,7 @@ source_url: 'https://nypost.com/2026/08/16/sports/von-miller-signing-with-cowboy
     <h2>What Happened: The Homecoming Deal</h2>
     <p>For veteran edge rusher Von Miller, the NFL carousel has taken a familiar, deeply personal turn. Multiple reports confirm that the 37-year-old pass rusher, who spent last season with the Washington Commanders, is expected to sign with the Dallas Cowboys ahead of the 2026 season. For Miller, a Texas native who starred at DeSoto High School and played collegiately at Texas A&M, the move represents a literal and figurative coming home.</p>
     <p>The signing brings active NFL career sack leader (138.5 sacks) to a revamped Dallas defense that already features newly-extended tackle Quinnen Williams, Rashan Gary, and first-round pick Malachi Lawrence. Fresh off a nine-sack bounce-back campaign in Washington—his highest total since 2021—Miller joins a Cowboys squad looking to rebound from a disappointing 7-9-1 season in 2025. And in a quintessential NFC East twist, his old team in Washington will now face him twice a year, starting right out of the gate in Week 1.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -100,29 +97,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

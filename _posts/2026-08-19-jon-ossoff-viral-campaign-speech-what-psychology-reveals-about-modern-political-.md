@@ -42,10 +42,7 @@ source_url: "https://www.politico.com/news/2026/08/18/jon-ossoff-georgia-viral-c
     <p>
       Within hours, the brief remark tore across social media platforms like X, racking up over 5 million views. It drew swift, sharp pushback from Republican critics, including the president himself, who fired back online. Yet, according to political insiders and content strategists, the fiery moment was no accident of impulse. It was the product of a highly controlled script designed specifically to perform in the digital arena.
     </p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>
       As Georgia heads toward one of the most closely watched and consequential Senate races in the country—defending a seat in a state decided by razor-thin margins in recent cycles—every word matters. Ossoff is locked in a fierce battle against Republican challenger Rep. Mike Collins. In such high-stakes environments, candidates cannot afford careless slip-ups. What looks like shooting from the hip is often a precision missile aimed right at the algorithmic feeds of potential donors and engaged voters.
@@ -136,25 +133,3 @@ Tactical Waterproof Backpack
   </script>
 
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

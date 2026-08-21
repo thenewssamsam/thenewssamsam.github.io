@@ -24,10 +24,7 @@ source_url: 'https://wsbt.com/news/local/storm-damage-recovery-cleanup-power-out
 <h2>What Happened in Northwest Indiana?</h2>
 <p>Severe storms recently tore through northwest Indiana, leaving behind a trail of significant property damage, tangled debris, and frustratingly lengthy power outages. For thousands of residents, the immediate aftermath meant spoiled groceries, dark homes, and disrupted daily routines.</p>
 <p>Amid the ongoing cleanup—which even brought the National Guard to places like LaPorte County—utility provider NIPSCO has stepped beyond traditional infrastructure repair. The company is actively coordinating free hot meal distributions across multiple regional hubs, offering both lunch and dinner to community members who need a helping hand while power is restored.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Crevice Cleaning Brush Set 
-</a></p>
+
 
 
 
@@ -82,37 +79,3 @@ Crevice Cleaning Brush Set
 <p><strong>Source:</strong> <a href="https://wsbt.com/news/local/storm-damage-recovery-cleanup-power-outages-assistance-aid-families-community-food-distribution-meals-lunch-dinner-free-nipsco-portage-hammond-laporte-gary-merrillville-highland-northwest-indiana" target="_blank" rel="noopener noreferrer">Original News Report via WSBT</a></p>
 </footer>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Crevice Cleaning Brush Set</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FM2VSK8V?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

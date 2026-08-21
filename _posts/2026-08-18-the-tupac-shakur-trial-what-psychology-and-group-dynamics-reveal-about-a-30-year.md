@@ -22,10 +22,7 @@ source_url: 'https://www.latimes.com/california/story/2026-08-17/tupac-trial-com
 
   <h2 id="what-happened">What Happened in Court</h2>
   <p>According to Nevada prosecutors, Duane Davis—a former Compton gang member now 63 years old—orchestrated the 1996 killing of Tupac Shakur as retaliation for an earlier altercation involving his nephew, Orlando Anderson. Hours before the fatal shooting near the Las Vegas Strip, Shakur and members of his entourage were captured on surveillance video confronting Anderson in the lobby of the MGM Grand hotel following a Mike Tyson boxing match.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   <p>Prosecutors argued that this confrontation triggered a violent escalation rooted in a long-standing war between the Southside Crips-Burris Street, led by Davis, and Mob Piru, a gang closely tied to Death Row Records. While Davis did not pull the trigger, prosecutors contend he secured the firearm from an out-of-state drug dealer and placed it in the back seat of a white Cadillac used by the shooters.</p>
   <p>The defense, led by attorney Michael Sanft, pushed back aggressively, arguing there is no physical evidence linking Davis to the shooting and attempting to dismantle the credibility of Davis’s own past statements, memoir, and media interviews, characterizing them as exaggerated fiction designed to sell books and make money.</p>
@@ -92,25 +89,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

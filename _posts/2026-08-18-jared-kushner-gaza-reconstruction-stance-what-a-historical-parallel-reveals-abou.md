@@ -20,10 +20,7 @@ source_url: 'https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-
 
 <section>
 <p>US envoy Jared Kushner has drawn a hard line on the future of the enclave, stating explicitly that the Trump administration will block all reconstruction efforts in the devastated Gaza Strip until Hamas fully disarms. The announcement follows high-stakes talks in Jerusalem with Israeli Prime Minister Benjamin Netanyahu, highlighting a profound diplomatic deadlock even as regional leaders attempt to navigate a fragile, fractured ceasefire framework.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 <p>For millions watching the ongoing humanitarian crisis, the standoff over who lays down arms first—and when rebuilding can finally begin—feels like an intractable puzzle. But when we step back from the immediate daily news cycle, history reveals that the tension between reconstruction, security demands, and disarmament is a recurring chapter in the playbook of modern conflicts.</p>
@@ -143,25 +140,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -38,10 +38,7 @@ source_url: 'https://news.bloomberglaw.com/bankruptcy-law/google-aims-to-boost-a
 <section id="what-happened">
 <h2>What Happened in the Spirit-Google Deal</h2>
 <p>According to court notices filed in the US Bankruptcy Court for the Southern District of New York, Google LLC emerged victorious at auction for a massive enterprise dataset from Spirit Aviation Holdings Inc., which shut down operations on May 2 following a Chapter 11 bankruptcy filing with roughly  billion in debt.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>The  million purchase secures a staggering breadth of corporate history: 100 million emails, 500 million Microsoft Teams collaboration chats, revenue metrics, aircraft operations data, employee productivity logs, fraud detection records, and pricing data covering 7.2 billion competitor flights going back years. Crucially, the transaction also includes roughly 30 million lines of software code, development metadata, and software algorithms, alongside 175,000 employee records dating back to 1986.</p>
 <p>To address privacy concerns, court documents and Google statements emphasize that personal passenger data—including 97.5 million customer profiles and loyalty program records—was entirely excluded from the sale. Furthermore, the business data designated for Google is slated to undergo rigorous third-party scrubbing to remove any remaining personally identifiable information before the tech giant takes possession.</p>
@@ -104,25 +101,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

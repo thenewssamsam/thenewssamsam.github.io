@@ -18,10 +18,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/16/virginia-state-univ
   <section id="introduction">
     <p>When 19-year-old Camron Harris was finally discovered hiding inside a dormitory closet in Seward Hall, a tense 14-hour manhunt came to a close on the campus of Virginia State University. Five people had been wounded in the early-morning gunfire outside campus housing, sending a wave of panic through an incoming student orientation weekend. Beyond the breaking news headlines and the sobering statistics of campus violence, an unsettling detail demands examination: a suspect choosing to hole up inside the very building where a crime occurred, remaining motionless for more than half a day while police searched the grounds.</p>
     <p>To understand how an unfolding crisis plays out in real time—and why human behavior in high-stress environments often defies logical expectation—we need to look past the immediate police scanner updates. By examining this event through a psychological framework, we can better understand the cognitive mechanisms at play during chaotic public tragedies, the toll of normalcy bias, and why communities react the way they do when safety is abruptly shattered.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -84,29 +81,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -24,10 +24,7 @@ source_url: 'https://www.skysports.com/golf/news/12176/13574162/liv-golf-confirm
 
   <h2 id="what-happened">What Happened: The Michigan Cancellation Explained</h2>
   <p>Speculation had swirled for days before LIV Golf’s official Monday confirmation. Ticket sales for the Michigan event had quietly vanished from the league’s website, and early player movements—such as star player Tyrrell Hatton entering the DP World Tour's British Masters for those exact dates alongside fellow LIV competitors Tom McKibbin and Adrian Meronk—offered a clear signal that change was afoot.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   
   <p>In a formal statement, the league clarified that LIV Golf Indianapolis would now serve as the final stroke-play event of the season, cutting the scheduled calendar short and bypassing the planned team finale in Michigan. While league CEO Scott O'Neil recently announced an agreement with a new unnamed "lead investor" to step in for the 2027 season following the planned conclusion of Saudi Arabia's Public Investment Fund (PIF) backing, adjustments to the current operating schedule underscore the delicate financial balancing act currently underway.</p>
@@ -134,25 +131,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -34,10 +34,7 @@ source_url: ''
 <h2 id="what-happened">What Happened in the AP Preseason Poll?</h2>
 
 <p>The Associated Press released its annual preseason college football poll, revealing a historic shakeup at the summit. Ohio State takes the No. 1 spot for the ninth time in program history—and the first since 2015—bolstered by 40 first-place votes and a roster featuring Heisman finalist Julian Sayin and star wide receiver Jeremiah Smith. Right behind them, Oregon secured its highest preseason ranking ever at No. 2 with 14 first-place votes.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <p>Rounding out the top five are Georgia, Notre Dame, and Texas. Defending national champion Indiana starts at No. 6, marking only the second time in three years that a reigning title-holder has opened outside the top tier. Meanwhile, the Southeastern Conference (SEC) continues to flex its sheer volume of depth, placing a leading nine teams in the Top 25, including five in the top 10. The Atlantic Coast Conference and the Big 12 fill out the remaining major slots, while the new 12-team playoff era continues to redefine what a successful season looks like for programs nationwide.</p>
@@ -103,25 +100,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

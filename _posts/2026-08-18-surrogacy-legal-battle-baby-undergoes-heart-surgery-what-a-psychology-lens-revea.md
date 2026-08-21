@@ -23,10 +23,7 @@ source_url: 'https://abc7.com/post/baby-center-surrogacy-legal-battle-undergoes-
 <section class="ncg-intro">
 <p>When high-stakes legal drama collides with a fragile medical emergency, human emotions rarely follow a clean, predictable script. A Los Angeles couple locked in a bitter surrogacy dispute announced that their infant son, Rumi, has successfully undergone the first of three complex surgeries to treat a severe, life-threatening heart condition—proving that even in the midst of fierce public and private conflict, human vulnerability demands a stark confrontation with reality.</p>
 <p>The story has captured national attention not just because of the unusual legal maneuvering across state lines, but because it lays bare how people react under extreme pressure, grief, and moral disagreement. Behind the headlines, courtroom filings, and activist labels lies a complex human dynamic driven by psychological defense mechanisms, divergent worldviews, and the overwhelming weight of critical medical decisions.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 </section>
 
@@ -171,25 +168,3 @@ Seagate Portable External Hard Drive
 .ncg-source { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #e2e8f0; font-size: 0.9rem; color: #4a5568; }
 </style>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

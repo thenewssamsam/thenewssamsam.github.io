@@ -37,10 +37,7 @@ source_url: 'https://finance.yahoo.com/markets/stocks/articles/micron-western-di
 <p>Memory semiconductor giants <strong>Micron (NASDAQ: MU)</strong> and <strong>Western Digital (NASDAQ: WDC)</strong> saw their shares jump significantly during the afternoon trading session. Micron shares climbed 5.8%, while Western Digital shares rose 5.4%, driven by a powerful mix of high-level government policy statements and exceptionally bullish long-term financial guidance from the sector.</p>
 
 <p>The immediate catalyst came when Commerce Secretary Howard Lutnick told <em>The Wall Street Journal</em> that the Trump administration opposes Apple utilizing Chinese memory chips. Lutnick emphasized that Washington is not in favor of such sourcing and that the administration had conveyed this stance plainly. For domestic and allied memory producers, this policy posture effectively blocks a major buyer from looking to mainland China for cheap alternatives, keeping demand firmly anchored with established suppliers like Micron, Samsung, and SK Hynix.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 <p>This policy news arrived on the heels of Sandisk's upbeat Investor Day presentation, where management projected mid-to-high-teens revenue growth through fiscal 2030, alongside non-GAAP gross margins of approximately 80% and operating margins near 75%. Together, these developments signaled to Wall Street that the current tightness in NAND and DRAM supply is not a passing blip, but a structural reality poised to last for years.</p>
@@ -163,25 +160,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

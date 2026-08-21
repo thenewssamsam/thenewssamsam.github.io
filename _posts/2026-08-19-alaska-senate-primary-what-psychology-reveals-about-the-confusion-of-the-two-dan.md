@@ -17,10 +17,7 @@ source_url: "https://apnews.com/article/alaska-primary-senate-sullivan-peltola-c
 <p>When Alaska voters head to the polls for a high-stakes U.S. Senate primary, they are met with a ballot complication that reads like political satire: two different candidates named Dan Sullivan vying for attention in a crowded race that could help determine control of the United States Senate.</p>
 
 <p>The Associated Press reports that incumbent Republican Sen. Dan Sullivan is facing off against a crowded field of contenders, including former Democratic U.S. Rep. Mary Peltola and a retired teacher from Petersburg also named Dan J. Sullivan. While state election officials designated the incumbent as Dan S. Sullivan and the challenger as Daniel J. Sullivan Jr. without party affiliation to minimize confusion, the presence of identical names instantly transformed a standard political contest into a fascinating case study in human cognition, attention, and choice architecture.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <div class="ncg-quick-take">
@@ -103,25 +100,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

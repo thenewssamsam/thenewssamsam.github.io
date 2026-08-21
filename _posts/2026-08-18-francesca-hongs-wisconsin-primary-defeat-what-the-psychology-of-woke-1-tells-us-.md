@@ -38,10 +38,7 @@ source_url: 'https://slate.com/news-and-politics/2026/08/woke-1-crazy-aoc-progre
   <p>For months, the trajectory of Wisconsin’s gubernatorial primary seemed all but certain. Francesca Hong—a State Assemblywoman, Democratic Socialists of America (DSA) member, and progressive favorite—held a commanding lead in the polls. As establishment figures dropped out and the party scrambled to find a conventional candidate, Hong maintained her momentum.</p>
   
   <p>In a last-ditch effort to stop the progressive insurgency, Milwaukee County Executive David Crowley reentered the race just weeks before Election Day. Few expected his late bid to gain traction. Yet, when the ballots were counted, Crowley eeked out a razor-thin plurality victory, while Hong severely underperformed even in traditionally deep-blue strongholds like Dane County.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
   
   <p>While political analysts have pointed to various factors—from campaign spending and polling errors to the chaotic musical chairs of the ballot box—much of the postmortem has zeroed in on a cultural shorthand now widely referred to as "Woke 1."</p>
@@ -109,25 +106,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -38,10 +38,7 @@ source_url: 'https://finance.yahoo.com/technology/articles/uber-adds-zipline-dro
   <section id="what-happened" class="ncg-section">
     <h2>What Happened: The Uber-Zipline Partnership</h2>
     <p>Ride-hailing giant Uber announced a strategic investment and partnership with San Francisco-based drone startup Zipline. The collaboration aims to bring automated aerial deliveries to the Uber Eats platform starting later this year in Zipline s existing markets, with plans to rapidly expand into dozens of U.S. cities.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>While financial terms of Uber s investment were not publicly disclosed, the deal follows Zipline closing an extended Series H funding round of  million, bringing its valuation to a staggering  billion. Uber CEO Dara Khosrowshahi noted in an interview that quick commerce is proving to be an even larger market than traditional food delivery, positioning autonomous flight as an enormous growth tailwind for the company.</p>
   </section>
@@ -98,25 +95,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -37,10 +37,7 @@ source_url: 'https://www.cnn.com/2026/08/17/world/live-news/iran-war-trump'
     <h2>What Happened: Deadlines, Threats, and Shifting Fronts</h2>
     <p>The 60-day window for the United States and Iran to forge an agreement ending their ongoing military conflict has officially closed without a diplomatic breakthrough. As diplomatic tracks stall, tensions have rapidly widened across the Middle East. President Donald Trump issued a blunt warning directed at U.S. ally Oman, stating that the Gulf nation would face consequences if it "gets in the way" of American and allied operations in the critical Strait of Hormuz.</p>
     <p>Simultaneously, the diplomatic churn extends westward. Special envoy Jared Kushner met with Israeli Prime Minister Benjamin Netanyahu for over four hours in Jerusalem, pressing forward with a U.S.-backed Gaza ceasefire plan that hinges on the complete disarmament of Hamas. Meanwhile, regional incidents continue to multiply: Iraq's Kurdistan Regional Government reported drone strikes targeting leadership offices, Tehran denied involvement while alleging false-flag plots, and commercial shipping through vital Middle Eastern chokepoints remains heavily depressed.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -115,29 +112,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

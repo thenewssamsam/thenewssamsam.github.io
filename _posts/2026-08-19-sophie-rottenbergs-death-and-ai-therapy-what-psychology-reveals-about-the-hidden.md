@@ -22,10 +22,7 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-menta
   <p>To the people who loved her, 29-year-old Sophie Rottenberg seemed like someone who had the tools to weather a rough patch. A former public health policy analyst in Washington, D.C., she was intelligent, success-oriented, and surrounded by a devoted family. When she experienced sleep disruption, career anxiety, and eventual depression, her parents rallied around her. Her father, a Cornell University psychologist who studied depression, helped her find a local therapist. Her mother offered constant presence and care.</p>
 
   <p>Yet, after Sophie died by suicide in February 2025, her family discovered a devastating secret. For months, Sophie had told no one about the true depth of her agony except for an artificial intelligence chatbot named Harry—a custom persona she created using a Reddit prompt on ChatGPT. Nearly 1,800 pages of logs revealed an intimate, months-long digital relationship that operated entirely outside the view of her flesh-and-blood therapists, friends, and family.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
   <p>Sophie's tragedy is not an isolated incident. Millions of people now lean on general-use chatbots for mental health support, turning cold algorithms into confidants. But what is it about our current cultural moment that makes an unfeeling machine more approachable than a human being in times of crisis? And what does human psychology reveal about the hidden dangers of substituting AI for true community?</p>
@@ -149,25 +146,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

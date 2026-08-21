@@ -36,10 +36,7 @@ source_url: 'https://www.bbc.com/news/articles/cp3r0kz775ko'
     <h2>What Happened in the Courtroom</h2>
     <p>Nearly three decades after Tupac Shakur was gunned down on the Las Vegas Strip at just 25 years old, a Nevada jury is finally hearing opening arguments in a murder trial that many assumed would never happen. Duane "Keffe D" Davis, a 63-year-old former gang leader, sits accused of orchestrating the fatal 1996 drive-by shooting.</p>
     <p>According to prosecutors, the violence was born out of retaliation. Hours before the shooting, a casino altercation left Davis's nephew, Orlando Anderson, involved in a physical fight with Shakur. Chief Deputy District Attorney Binu Palal told the jury that Davis viewed the incident as an insult that could not "go unanswered." While prosecutors acknowledge Davis did not pull the trigger himself, they argue he acted as the on-site commander who acquired the weapon, coordinated the vehicles, and ordered the attack.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>The defense team has pushed back aggressively, calling the prosecution's narrative fiction built on a flawed, three-decade-long investigation. They point to missing police reports, changing witness testimonies, and a lack of direct physical corroboration. Yet, the state's case relies heavily on an unusual piece of evidence: statements Davis himself made in interviews and a 2019 memoir, where he openly detailed his role in the passenger seat of the white Cadillac that night.</p>
   </section>
@@ -155,25 +152,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

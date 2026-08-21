@@ -25,10 +25,7 @@ source_url: ''
     <p>For any professional sports team, the hours leading up to a game are a finely tuned exercise in routine and muscle memory. Batting practice is timed, defensive alignments are reviewed, and the lineup card is pinned to the clubhouse wall. But on August 17, the Arizona Diamondbacks experienced something entirely different: a chaotic pregame scramble marked by the sudden absence of star second baseman Ketel Marte, who was subsequently placed on the restricted list following a rout by the Boston Red Sox.</p>
     
     <p>In the aftermath, outfielder Corbin Carroll addressed the media with a candid assessment of the day's events, describing a locker room caught between professional preparation and genuine human worry. While sports headlines often focus strictly on box scores and standings, moments like this offer a fascinating window into group psychology, normative behavior under stress, and the delicate balance between workplace performance and empathy.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
   </section>
 
@@ -172,25 +169,3 @@ Seagate Portable External Hard Drive
   margin-top: 2rem;
 }
 </style>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

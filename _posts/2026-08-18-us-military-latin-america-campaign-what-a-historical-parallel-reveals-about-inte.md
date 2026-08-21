@@ -24,10 +24,7 @@ source_url: 'https://apnews.com/article/trump-military-operations-latin-american
   <p>In the year since the United States began bombing vessels off the Caribbean and Pacific coasts—leaving hundreds dead and drawing intense scrutiny over its legal justifications—the Trump administration has set its sights inland. During a recent trip to Panama, Defense Secretary Pete Hegseth announced that nations like Colombia, Guatemala, and Honduras had supposedly agreed to permit joint U.S. military strikes against criminal organizations on their territory, following Ecuador's lead earlier in the year.</p>
 
   <p>This aggressive posture marks a sharp pivot in Washington's foreign policy. By designating 20 regional criminal syndicates as foreign terrorist organizations and actively inserting U.S. personnel into regional conflicts, the administration is attempting to project hemispheric dominance. Yet, as leaders from Bogotá to Mexico City weigh the security benefits against the erosion of national sovereignty, observers are left asking a crucial question: Have we seen this movie before, and how did it end?</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -123,29 +120,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

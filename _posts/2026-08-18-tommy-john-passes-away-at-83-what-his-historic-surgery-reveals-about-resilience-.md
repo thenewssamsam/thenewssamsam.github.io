@@ -35,10 +35,7 @@ source_url: 'https://www.theguardian.com/sport/2026/aug/16/tommy-john-pitcher-wh
     <h2>The Passing of a Baseball Pioneer</h2>
     <p>Long before his surname became a common noun in sports medicine clinics across the globe, Tommy John was simply a fierce, durable left-handed pitcher trying to save his livelihood. TMZ and subsequent tributes confirmed that John passed away at his home in Florida at the age of 83, surrounded by his family, following a recent bout with bladder cancer.</p>
     <p>Tributes poured in swiftly from across Major League Baseball, most notably from the New York Yankees, where John pitched some of his finest years, securing consecutive 20-win seasons. Yet, as the Yankees' statement noted, his staggering longevity and post-surgery triumphs often overshadowed his raw excellence on the mound. He wasn't just a great pitcher; he was the inadvertent godfather of modern sports orthopedics.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -121,29 +118,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

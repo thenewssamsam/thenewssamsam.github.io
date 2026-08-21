@@ -23,10 +23,7 @@ source_url: 'https://chicago.suntimes.com/casinos-gambling/2026/08/17/ballys-chi
   <p>When a major entertainment corporation admits in an SEC filing that there is substantial doubt about its ability to survive the next twelve months, it is more than just corporate boilerplate — it is a flashing red light for anyone tied to its projects. Bally’s recent "going concern" disclosure reveals that the debt-laden company faces mounting pressure as it tries to build its permanent  million Chicago casino complex in River West while absorbing millions in operating losses at its temporary Medinah Temple location.</p>
 
   <p>For Chicago taxpayers, city pension funds, and local union workers counting on the casino as a steady revenue stream, this financial stumble raises urgent questions about corporate solvency, project delivery, and the stark economic realities of modern commercial gaming.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
   <h2 id="what-happened">What Happened at Bally’s?</h2>
@@ -117,25 +114,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

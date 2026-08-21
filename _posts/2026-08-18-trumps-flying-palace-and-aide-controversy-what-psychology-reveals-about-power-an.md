@@ -24,10 +24,7 @@ source_url: 'https://www.independent.co.uk/news/world/americas/us-politics/trump
   <p>The speech, delivered amid escalating tensions surrounding the Iran conflict and sailors' conditions aboard the USS Abraham Lincoln, quickly went viral for its sharper, more personal barbs. Ossoff criticized the administration's priorities, referencing the president traveling with executive assistant Natalie Harp on what he dubbed a "defenseless flying palace." While political commentators immediately parsed the geopolitical and strategic implications of the decoy Air Force One operation, the public fascination—and friction—centered squarely on the personnel inside the cabin.</p>
 
   <p>Behind the political posturing lies a classic study in how power operates, how proximity shapes influence, and why high-stakes environments naturally breed intense psychological scrutiny over inner circles.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -105,25 +102,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

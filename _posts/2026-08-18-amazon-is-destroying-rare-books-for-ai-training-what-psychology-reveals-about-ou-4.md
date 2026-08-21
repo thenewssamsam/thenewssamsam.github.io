@@ -37,10 +37,7 @@ source_url: 'https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-
 <p>According to an investigation by <em>404 Media</em>, which tracked a rare book using a hidden device, physical texts are making their way to an Amazon facility in Las Vegas designated as VGT3—a site playfully marked with a dinosaur holding a book in its claws. Amazon confirmed in a statement that it purchases books through commercial channels to improve its products and services.</p>
 
 <p>The underlying driver is stark and urgent: artificial intelligence models have already ingested most of the publicly available internet. Worse still, the web is increasingly polluted with AI-generated text. When language models train on synthetic data, they risk "model collapse," a degradation in output quality caused by eating their own digital echoes. To maintain linguistic health, AI developers need pristine, pre-2022 human-written text. Rare books—untouched by algorithms and difficult to find online—have thus become the ultimate premium fuel.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <h2 id="the-psychological-lens-normalcy-bias-and-the-consumption-of-history">The Psychological Lens: Normalcy Bias and the Consumption of History</h2>
@@ -91,25 +88,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

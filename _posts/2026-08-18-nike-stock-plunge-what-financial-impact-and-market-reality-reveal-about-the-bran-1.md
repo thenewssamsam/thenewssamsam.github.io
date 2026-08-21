@@ -34,10 +34,7 @@ source_url: 'https://finance.yahoo.com/markets/stocks/article/nikes-stock-plunge
 
 <h2 id="the-reality-behind-the-numbers">The Reality Behind the Numbers</h2>
 <p>To understand why Nike (NKE) continues to struggle on the market, we have to look past the superficial headlines and examine the core financial disclosures. In late June, Nike reported fiscal fourth-quarter revenue of  billion. That figure represented a 1% decline on a reported basis and a 4% drop on a currency-neutral basis. While diluted earnings per share came in at a seemingly robust , that number was heavily distorted by a massive  per share one-time benefit stemming from an expected tariff recovery.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>Looking forward, the picture remains clouded. The company projected fiscal first-quarter revenues to decline by a low-to-mid single-digit percentage and reiterated flat earnings per share growth over the next three quarters when excluding tariff recovery proceeds. Evercore ISI analyst noted that there are no immediate hints pointing toward positive revenue growth in the foreseeable future, making it difficult to justify expanding the current price-to-earnings ratio.</p>
 <p>Compounding these financial hurdles are ongoing execution issues under CEO Elliott Hill—who returned to the helm in October 2024—alongside changing sneaker preferences among younger buyers, cautious consumer spending, and aggressive rising competitors like On Holding (ONON) eating into market share.</p>
@@ -85,25 +82,3 @@ Tactical Waterproof Backpack
 <p>Source: <a href="https://finance.yahoo.com/markets/stocks/article/nikes-stock-plunge-is-relentless-182413545.html" target="_blank" rel="noopener noreferrer">Original News Report</a></p>
 </footer>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

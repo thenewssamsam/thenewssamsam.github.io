@@ -39,10 +39,7 @@ source_url: 'https://www.houstonchronicle.com/sports/college/article/oj-brigance
 <p>The sports world paused on Monday following the announcement from the Baltimore Ravens that O.J. Brigance had died at the age of 56 (some reports note 57 depending on birth timing relative to obituary dates). For nearly two decades, Brigance lived with amyotrophic lateral sclerosis (ALS), commonly known as Lou Gehrig's disease—a brutal neurodegenerative condition that robs the body of its motor functions while leaving the mind entirely intact.</p>
 
 <p>Long before his front-office leadership with the Ravens or his championship rings, Brigance was a beloved fixture in Houston sports. From his early days at Willowridge High School to his record-shattering career as a linebacker at Rice University, his journey was defined by an unwillingness to accept limits placed on him by others.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 <h2 id="from-longshot-to-legend">From Undersized Longshot to Gridiron Leader</h2>
@@ -150,25 +147,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

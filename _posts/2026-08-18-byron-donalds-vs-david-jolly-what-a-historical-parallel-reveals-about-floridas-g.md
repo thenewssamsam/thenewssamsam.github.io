@@ -34,10 +34,7 @@ source_url: 'https://cbs12.com/news/cbs12-news-i-team/florida-primary-election-n
   <section id="what-happened">
     <h2>What Happened in the Primary Preview</h2>
     <p>Florida’s primary election cycle is reaching its climax, and the spotlight is firmly fixed on the race for governor. According to recent reports and polling data from CBS 12 News, the Republican and Democratic primaries are rapidly narrowing toward a high-profile general election faceoff between GOP Congressman Byron Donalds and former Republican-turned-Democrat David Jolly.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     
     <p>On the Republican side, Byron Donalds has maintained a commanding lead, supercharged by an early endorsement from President Donald Trump that political insiders describe as a golden ticket. Despite a crowded field that includes Lieutenant Governor Jay Collins and former House Speaker Paul Renner, Donalds has consolidated grassroots support, financial backing, and high-level momentum.</p>
@@ -133,25 +130,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

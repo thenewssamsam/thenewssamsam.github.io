@@ -37,10 +37,7 @@ source_url: ''
 <h2 id="what-happened">What Happened in Court</h2>
 <p>In a packed Las Vegas courtroom, opening statements launched a trial that many thought would never happen. Prosecutors laid out a direct and striking case against Duane "Keffe D" Davis, alleging that he orchestrated Shakur's killing as retaliation for an earlier altercation involving his nephew that same night.</p>
 <p>The state's most compelling piece of evidence may not come from forensic labs or eyewitnesses from three decades ago, but from the defendant's own hand. Prosecutors told the jury they will hear from Davis himself through the pages of his memoir, <em>Compton Street Legend</em>. In the book, Davis describes sitting inside the white Cadillac from which the fatal shots were fired and supplying the weapon.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>Naturally, the defense is pushing back hard. They argue that Davis's written account was nothing more than a fictional embellishment designed to sell books—a dramatic narrative crafted for a public hungry for gangsta rap lore. Meanwhile, former police officers and witnesses testified to the sheer chaos of that September night in Las Vegas, describing a bullet-riddled BMW carrying Shakur and record-label boss Suge Knight, and a scene where frightened witnesses quickly "skedaddled" into the night.</p>
 
@@ -101,25 +98,3 @@ Seagate Portable External Hard Drive
 <p>Source: <a href="https://www.bbc.com/news/live/c9gk4e30jp40t" target="_blank" rel="noopener noreferrer">Original News Report</a></p>
 </footer>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

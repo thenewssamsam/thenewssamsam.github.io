@@ -34,10 +34,7 @@ source_url: ''
 <section id="ncg-what-happened">
     <h2>What Happened</h2>
     <p>On Monday, a court in the northwestern Russian city of Pskov delivered an 11-year-and-one-month prison sentence to Lev Shlosberg, deputy head of the liberal Yabloko party. Shlosberg was convicted of "discrediting" the armed forces and "spreading false information" under wartime censorship laws introduced following Russia's full-scale invasion of Ukraine in 2022. State prosecutors had originally demanded a 12-year sentence over comments published on social media.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>Throughout the trial, which Shlosberg described as "an imitation of an investigation," the veteran politician maintained his innocence and used his closing speech to reiterate calls for an immediate ceasefire and political dialogue. He was repeatedly interrupted by the presiding judge.</p>
     <p>The timing of the verdict was deeply symbolic. It arrived mere minutes before Russia's Supreme Court rejected Yabloko's final appeal against a ban on participating in the September parliamentary elections. Yabloko stood as the only registered political party to openly oppose the war in Ukraine. With their exclusion, all ten remaining parties on the ballot officially support the conflict, leaving the Russian political landscape entirely devoid of institutional anti-war representation.</p>
@@ -180,25 +177,3 @@ footer a { color: #3182ce; text-decoration: none; }
 footer a:hover { text-decoration: underline; }
 </style>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

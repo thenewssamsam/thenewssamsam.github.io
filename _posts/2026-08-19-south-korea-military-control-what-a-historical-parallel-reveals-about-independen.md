@@ -37,10 +37,7 @@ source_url: "https://www.theguardian.com/world/2026/aug/18/south-korea-president
 <h2>What Happened: The Drill Cuts and the Opcon Push</h2>
 <p>When headlines break about shifting military alliances, the immediate ripple effects are often felt far beyond government war rooms. Recently, President Donald Trump instructed the Pentagon to substantially reduce ongoing joint military exercises with South Korea—known as Ulchi Freedom Shield—citing a respectful diplomatic posture from North Korean leader Kim Jong-un. In response, South Korean President Lee Jae Myung accelerated a long-held national objective: regaining independent wartime operational control, or Opcon, of South Korean forces and advancing a domestic nuclear-powered submarine program.</p>
 <p>For decades, the security architecture of the Korean peninsula has rested upon a robust bilateral alliance forged during the Korean War, which concluded in a 1953 armistice rather than a formal peace treaty. While South Korea regained peacetime control of its military in 1994, wartime authority—the command to direct forces if hostilities resume—has remained under the umbrella of the US-led Combined Forces Command. Now, as shifting geopolitical winds prompt unexpected changes to joint readiness drills, Seoul is confronting an ancient strategic question: How can a nation maintain a vital protective alliance while securing its own sovereign self-reliance?</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 </section>
 
@@ -108,25 +105,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -37,10 +37,7 @@ source_url: 'https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for
     <p>Geopolitical tensions in the Middle East have entered a more volatile phase as a Memorandum of Understanding (MoU) between the United States and Iran officially expires. Following months of intermittent fighting that restarted after a brief June ceasefire, senior Iranian officials—including Islamic Revolutionary Guard Corps (IRGC) figures—have signaled that Tehran's military doctrine could shift from defensive deterrence to a more offensive posture.</p>
     
     <p>Brigadier General Yadollah Javani told state television that Iranian forces are prepared to take whatever action is necessary, warning opponents to expect "strategic surprises." Meanwhile, Supreme Leader Mojtaba Khamenei has consolidated his authority by elevating hardline military leaders like Major General Ahmad Vahidi, tasking them with combining maximum deterrence with offensive readiness.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     
     <p>Washington, for its part, maintains a naval blockade acting as a "wall of steel" in the Strait of Hormuz, with President Donald Trump reiterating claims regarding the strategic waterway's future status. While Western analysts debate whether a US ground incursion is genuinely under consideration—pointing out the immense logistical hurdles of operating in mountainous terrain—the diplomatic window forged in June has slammed shut, leaving both nations bracing for whatever comes next.</p>
@@ -174,25 +171,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

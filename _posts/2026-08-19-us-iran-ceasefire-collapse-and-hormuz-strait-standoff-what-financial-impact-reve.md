@@ -32,10 +32,7 @@ source_url: "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceas
     <h2>What Happened: The Breakdown in Diplomacy</h2>
     <p>The fragile diplomatic architecture holding the U.S.-Iran conflict in check has officially fractured. On Monday, a 60-day ceasefire agreement expired without renewal, as President Donald Trump explicitly ruled out an extension because Tehran refused to accept his administration's terms for ending the war. Just one day later, Trump reversed earlier suggestions that active negotiations were underway, posting on Truth Social that no talks are scheduled with the Islamic Republic.</p>
     <p>The situation escalated rapidly on Tuesday when air defenses in the United Arab Emirates detected two ballistic missiles launched from Iran, with one falling outside territorial waters and the other landing within them. Meanwhile, maritime risks in the Strait of Hormuz remain acute. A cargo vessel was struck by a projectile during transit, damaging its engine room and resulting in a crew casualty, even as U.S. officials maintain that the crucial waterway is open and cleared of water mines under a naval blockade.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>With traffic through the strait—which historically handled roughly 20% of the world's oil trade—reduced to a trickle, the global economy faces a prolonged period of uncertainty. Yet, despite sporadic attacks on oil tankers and stalled peace talks, global markets have not experienced the catastrophic price spikes once feared. Understanding why requires a closer look at the financial mechanics currently at play.</p>
   </section>
@@ -101,25 +98,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

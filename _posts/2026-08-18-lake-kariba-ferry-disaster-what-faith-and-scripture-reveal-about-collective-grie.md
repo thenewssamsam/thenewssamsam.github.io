@@ -38,10 +38,7 @@ source_url: 'https://people.com/18-children-among-80-people-killed-after-overcro
     <h2 class="ncg-section-heading">What Happened on Lake Kariba</h2>
     <p>On Tuesday, August 11, what should have been a routine journey turned into an unimaginable catastrophe. The passenger boat <em>Mbuya Nehanda</em> departed from Kariba, sailing toward the Chalala fishing camps on Lake Kariba—a vital body of water that straddles the border of Zimbabwe and Zambia, supporting local transport, fishing, and hydroelectric infrastructure.</p>
     <p>According to updates from the Zimbabwe Republic Police, the vessel was carrying approximately 120 people, far exceeding its certified carrying capacity of 90 passengers, alongside five crew members. Caught in strong waves, the overloaded vessel capsized.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -111,29 +108,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

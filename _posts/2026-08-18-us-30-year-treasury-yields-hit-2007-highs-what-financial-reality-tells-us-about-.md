@@ -38,10 +38,7 @@ source_url: ''
 <section id="what-happened">
 <h2>What Happened in the Bond Market?</h2>
 <p>On Monday, the yield on the 30-year US Treasury bond—often called the "long bond"—rose by three basis points to 5.29%. This brings the rate to its highest point since 2007, inching dangerously close to that year's peak of 5.44% just before the global financial system convulsed.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>This market movement extends a brutal selloff that forced the US Treasury to auction  billion of new 30-year bonds at a yield of 5.216%, marking the highest financing cost for a 30-year debt auction since 2001. Just a day prior, the 10-year Treasury auction also hit its highest financing cost since 2007.</p>
 <p>What makes this spike particularly notable is that it is happening even as short-term pressure on the Federal Reserve eases. Recent economic reports revealed softer underlying inflation, a surprise contraction in July job growth, and the steepest drop in US retail sales in over a year. Yet, long-term yields continue to march upward because investors are demanding higher returns for taking on long-duration risk.</p>
@@ -132,25 +129,3 @@ p { margin-bottom: 1.25rem; }
 footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #e9ecef; font-size: 0.9rem; color: #666; }
 </style>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

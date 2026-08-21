@@ -37,10 +37,7 @@ source_url: 'https://abcnews.com/Health/exemption-rate-routine-childhood-vaccine
     <h2>What Happened: The 2025–26 CDC Vaccine Data</h2>
     <p>According to new data released by the Centers for Disease Control and Prevention (CDC), exemptions from routine childhood vaccinations among U.S. kindergarteners increased to 4.2% during the 2025–26 school year. That figure marks an increase from 3.6% the previous year and a stark jump from the 2.2% baseline recorded during the 2020–21 school year. The vast majority of these exemptions were for non-medical reasons.</p>
     <p>Simultaneously, coverage for the measles, mumps, and rubella (MMR) vaccine dipped to 92.4%. This puts national coverage below the 95% benchmark that physicians and epidemiologists rely on to maintain community-level herd immunity. Other routine immunizations saw minor declines or remained flat, including drops in DTaP and varicella coverage rates, even as local measles outbreaks made headlines nationwide.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>State-level variations remain stark. Idaho reported the highest exemption rate at 17.5%, followed closely by states like Utah, Oregon, Arizona, and Nevada. On the other end of the spectrum, states with stringent non-medical exemption laws—such as California, New York, and West Virginia—reported exemption rates as low as 0.1%.</p>
   </section>
@@ -122,25 +119,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

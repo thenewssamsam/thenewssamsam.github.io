@@ -20,10 +20,7 @@ source_url: 'https://247wallst.com/investing/2026/08/16/high-dividend-etfs-are-b
   <p>For most of the past decade, dividend investing felt like playing catch-up while growth stocks captured every headline. That dynamic has flipped dramatically in 2026. Major high-yield funds including the iShares Core High Dividend ETF (HDV), the First Trust Morningstar Dividend Leaders Index Fund (FDL), and the WisdomTree U.S. Total Dividend Fund (DTD) are running well ahead of the S&P 500 year to date, with leaders yielding around 3% while outpacing the broader market by up to 9 percentage points.</p>
 
   <p>While the headline numbers catch the eye, the real story lies underneath the ticker symbols. Each of these three funds achieves its outperformance through entirely different financial mechanics, and those structural differences matter far more to a portfolio than simple yield percentages suggest.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -105,29 +102,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

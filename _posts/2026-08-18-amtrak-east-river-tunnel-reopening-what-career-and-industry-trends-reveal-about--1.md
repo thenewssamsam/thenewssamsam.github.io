@@ -37,10 +37,7 @@ source_url: 'https://media.amtrak.com/2026/08/amtrak-completes-first-phase-of-ea
     <h2>What Happened: Inside the East River Tunnel Project</h2>
     <p>Opening originally in 1910, the East River Tunnel stands as one of the busiest passenger rail transit conduits in the Western Hemisphere. Every single day, approximately 450 trains operated by Amtrak, LIRR, and NJ Transit pass through its tubes, connecting New York City to points across Long Island, New Jersey, and the broader Northeast corridor.</p>
     <p>However, the passage of time and severe weather took a heavy toll. More than a decade ago, Superstorm Sandy flooded the century-old tunnels with roughly 14 million gallons of corrosive salt water, severely degrading interior systems. The  billion rehabilitation initiative addresses these structural wounds head-on.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>Over the past year of intensive construction in Line 2, work crews completely gutted and reconstructed the deteriorated infrastructure. The massive overhaul involved stripping away and replacing:</p>
     <ul>
@@ -170,25 +167,3 @@ Seagate Portable External Hard Drive
     footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #eaeaea; font-size: 0.9em; color: #666; }
   </style>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

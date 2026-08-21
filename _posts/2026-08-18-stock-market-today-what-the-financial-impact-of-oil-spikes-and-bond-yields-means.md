@@ -37,10 +37,7 @@ source_url: 'https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-5
 <h2>Market Overview: Red Across the Board</h2>
 <p>Major U.S. stock indexes lost ground to start the week, driven lower by persistent worries over energy supplies, soft consumer data, and climbing borrowing costs. The blue-chip Dow Jones Industrial Average, the benchmark S&P 500, and the tech-focused Nasdaq Composite finished Monday down 0.5%, 0.5%, and 0.3% respectively. Every member of the Magnificent Seven mega-cap tech group closed in the red, while safe-haven assets and select sectors like memory chips bucked the broader downward trend.</p>
 <p>The immediate catalyst for the renewed market caution is a familiar mix of macroeconomic headwinds: lingering uncertainty surrounding shipping chokepoints in the Middle East, disappointing retail sales numbers from the previous week, and bond yields pushing toward multi-year highs. For everyday investors trying to navigate these swings, understanding the mechanical links between oil, interest rates, and stock valuations is far more useful than reacting to daily price fluctuations.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 </section>
 
@@ -183,25 +180,3 @@ article p { margin-bottom: 1.25rem; }
 article ul { margin-bottom: 1.25rem; }
 </style>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

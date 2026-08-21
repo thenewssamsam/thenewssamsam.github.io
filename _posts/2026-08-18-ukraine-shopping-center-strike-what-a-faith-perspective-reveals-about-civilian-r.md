@@ -35,10 +35,7 @@ source_url: 'https://kyivindependent.com/russian-attacks-kill-9-injure-43-across
 <h2>What Happened: The Odesa Strike and Nationwide Bombardment</h2>
 <p>Over a single 24-hour cycle between August 16 and 17, the quiet rhythms of Saturday life in multiple Ukrainian cities were upended once again. In southern Odesa Oblast, regional governor Oleh Kiper reported a direct hit on a shopping center's post office by a jet-powered drone. The explosion injured seven people, including a young family—a mother, father, and their eight-year-old son—who happened to be inside at the moment of impact.</p>
 <p>That strike was far from an isolated incident. In a separate overnight operation, port infrastructure in the region was targeted, damaging a civilian vessel flying the Togolese flag and injuring four more individuals. Across the wider country, the Ukrainian Air Force tracked 128 incoming drones, successfully intercepting 106 of them while 14 locations absorbed direct hits or structural damage from falling debris.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -119,29 +116,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

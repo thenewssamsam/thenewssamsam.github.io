@@ -41,10 +41,7 @@ source_url: 'https://www.ajc.com/politics/2026/08/jon-ossoff-wants-more-than-a-w
 <p>The 2026 Georgia U.S. Senate race is heating up faster than a midsummer asphalt highway in Atlanta. Incumbent Democratic Senator Jon Ossoff finds himself in a position few predicted years ago: leading Republican challenger Mike Collins across major public polls, backed by a formidable fundraising operation and viral, movie-quality campaign rallies.</p>
 
 <p>According to recent reports from the Atlanta Journal-Constitution, Ossoff recently drew 1,600 supporters to a Midtown Atlanta concert hall, declaring that a once-in-a-generation wave is building. Meanwhile, Representative Mike Collins—known for his alignment with the MAGA wing of the Republican Party—faces a more fractured internal landscape. Discontent among some traditional conservatives, combined with past controversies and independent fundraising criticisms, has created visible friction on the right.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -129,29 +126,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

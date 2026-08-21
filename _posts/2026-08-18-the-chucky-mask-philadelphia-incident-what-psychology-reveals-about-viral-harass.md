@@ -34,10 +34,7 @@ source_url: 'https://abcnews.com/US/suspect-wearing-chucky-doll-face-mask-accuse
 <section id="ncg-what-happened">
 <h2>What Happened in Center City</h2>
 <p>According to Philadelphia Police, the unsettling series of events unfolded last Wednesday morning around 5:18 a.m. in the busy Center City district. For roughly twenty minutes, a masked individual targeted unsuspecting pedestrians, running up to both men and women in an effort to scare and antagonize them.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>The most severe documented encounter involved a female jogger. Surveillance video captured the suspect chasing the victim and asking her, "Are you ready to die?" The terrified woman fled, screaming for help, and injured her leg during the ordeal. Police Captain Jason Smith noted during a press briefing that investigators believe at least six people were accosted during the brief window, though only the jogger has come forward so far.</p>
 <p>Crucially, investigators noted that the suspect held a cellphone in his left hand throughout the encounters, apparently filming the interactions "for his own purposes." Police are actively combing social media platforms in hopes of finding the footage posted online. The suspect was described as a Black male with a thin build, approximately 5 feet 8 inches tall, and between 16 and 20 years old. During one of the encounters, he briefly pulled the mask down, exposing part of his face to surveillance cameras.</p>
@@ -105,25 +102,3 @@ Seagate Portable External Hard Drive
 .ncg-closing-line { font-weight: bold; margin-top: 0.75rem; color: #2d3748; }
 </style>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

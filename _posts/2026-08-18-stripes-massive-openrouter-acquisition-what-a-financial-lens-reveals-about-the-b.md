@@ -145,10 +145,7 @@ source_url: ''
 
 <h2 id="what-happened">What Happened: The Multi-Billion Dollar Deal</h2>
 <p>Back in May, OpenRouter CEO Alex Atallah casually described his company as "the Stripe for AI." Just months later, reports from Bloomberg and Axios indicate that Stripe decided he was right—to the tune of billions of dollars. Stripe has reportedly agreed to acquire OpenRouter for  billion, with some reports pegging the potential price closer to  billion.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>This lightning-fast transaction follows a whirlwind summer for AI developer tools. It comes hot on the heels of SpaceX swallowing Cursor for  billion just days prior. For founders operating inside a market downturn, Atallah’s trajectory—co-founding NFT marketplace OpenSea through its massive boom and subsequent bust, stepping down in 2022, and launching OpenRouter less than a year later—demonstrates how compressed the tech lifecycle has become. Four years after walking away from a cooling market, he has built and sold a multi-billion-dollar entity.</p>
 
@@ -257,25 +254,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -35,10 +35,7 @@ source_url: 'https://josimarfootball.com/2026/08/17/credit-in-the-straight-world
     <h2>What Happened: The Sudden Lakers Sale</h2>
     <p>When sports business news breaks during the dog days of summer, it usually involves transfer windows or pre-season friendlies. But earlier this month, a financial tremor shook both American and European sport: billionaire Mark Walter agreed to sell his stake in the world-famous LA Lakers.</p>
     <p>The buyers—a group featuring Josh Kushner and former Disney chief Bob Iger—stumped up a staggering  billion USD for the NBA franchise. What made the transaction truly astonishing wasn't just the eye-watering valuation, but the timeline: Walter had owned the Lakers for less than a year. In the high-net-worth world of professional sports ownership, teams are rarely flipped this fast unless the primary owners are facing pressing liquidity demands elsewhere.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -103,29 +100,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

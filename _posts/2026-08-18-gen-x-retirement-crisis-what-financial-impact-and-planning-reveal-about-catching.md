@@ -25,10 +25,7 @@ source_url: 'https://money.com/gen-x-retirement-age-68-savings/'
     <h2>The Hard Numbers Behind the Gen X Retirement Crunch</h2>
     <p>A recent Zety survey of more than 1,000 employed Gen Xers—those born between 1965 and 1980—paints a stark picture of modern financial reality. Just 20% of respondents expect to retire between the traditional ages of 65 and 67. Meanwhile, 19% expect to push their retirement date to age 68 or older, and another 19% do not expect to retire at all.</p>
     <p>This widespread delay comes as Generation X approaches their golden years facing a substantial gap between their current balances and their original financial goals. Over half (52%) worry they haven’t saved enough, and 61% report feeling less financially secure than they anticipated at this stage of life. Regrets are common: 43% wish they had started saving earlier, and 21% wish they had maintained consistency throughout their working years.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     
     <div class="ncg-quote-box">
@@ -95,25 +92,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

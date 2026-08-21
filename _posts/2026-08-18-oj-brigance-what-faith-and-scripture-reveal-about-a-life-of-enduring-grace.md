@@ -20,10 +20,7 @@ source_url: 'https://www.nfl.com/news/o-j-brigance-super-bowl-winner-with-ravens
 
 <h2 id="what-happened">What Happened: Remembering O.J. Brigance</h2>
 <p>On Monday, the Baltimore Ravens announced the passing of O.J. Brigance at age 56. Diagnosed with amyotrophic lateral sclerosis (ALS), commonly known as Lou Gehrig's disease, in 2007, Brigance defied medical odds by living and serving with purpose for nearly two decades after his diagnosis.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>As a player, Brigance was a tenacious linebacker and special teams standout. He won a Canadian Football League championship and an NFL Super Bowl title—both with teams based in Baltimore—making him the only player to achieve that unique double in the same city. Following his retirement, he transitioned immediately into front-office work, serving as the Ravens' senior adviser for player engagement starting in 2004.</p>
 <p>Even as ALS confined him to a wheelchair and required him to use a communication device, Brigance remained a daily fixture at the Ravens' facility. Alongside his wife, Chanda, he founded the Brigance Brigade Foundation, providing essential equipment and encouragement to other families facing the harsh realities of ALS.</p>
@@ -127,25 +124,3 @@ Source: <a href="https://www.nfl.com/news/o-j-brigance-super-bowl-winner-with-ra
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -35,10 +35,7 @@ source_url: 'https://apnews.com/article/cambodia-khmer-rouge-bou-meng-tuol-sleng
   <p>Cambodian artist Bou Meng passed away at the age of 85 due to an age-related illness, according to the Extraordinary Chambers in the Courts of Cambodia. Arrested in 1977 during the paranoid internal purges of the Khmer Rouge regime, Bou Meng was incarcerated at the Tuol Sleng Security Center—better known as S-21.</p>
   
   <p>Out of roughly 16,000 men, women, and children imprisoned at S-21 over four years, Bou Meng was one of a microscopic handful to walk out alive. His survival was not an accident of mercy; it was a utilitarian calculation. Because he could paint, the camp commandant, Kaing Guek Eav (known as Duch), spared his life so he could produce towering portraits of Pol Pot and other communist icons, including Mao Zedong and Kim Il Sung. His first wife and children vanished into the machinery of the regime, never to return.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -134,29 +131,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

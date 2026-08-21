@@ -33,10 +33,7 @@ source_url: 'https://apnews.com/article/south-korea-philippines-rains-landslide-
 <h2>What Happened: Monsoons and Mudslides</h2>
 <p>When the sky opens up over densely populated regions, the margin for human error shrinks to almost zero. Over the course of a single weekend, torrential rains pounded southern South Korea, triggering a deadly landslide that struck an apartment building in the southern city of Geoje and left one person dead and four others injured, according to the Interior and Safety Ministry. The deluge forced roughly 390 residents to evacuate and knocked out power to more than 3,500 homes.</p>
 <p>Meanwhile, thousands of miles away in the Philippines, heavy monsoon rains paralyzed metropolitan Manila and a dozen outlying provinces. The resulting floods snarled traffic, forced the suspension of government work, and closed schools at all levels. This latest crisis compounds weeks of relentless weather: intermittent monsoon rains and a prior storm left at least 23 people dead across Luzon, displacing tens of thousands into emergency shelters. Among the tragedies was a devastating August 9 landslide in the mountain resort city of Baguio, where a wall of mud and rock buried homes while residents slept.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>These two distinct weather events share a common thread: the sudden, brutal collision between extreme natural forces and human habitation. But looking only at the rainfall totals misses a quieter, equally powerful force at play in every disaster: how the human mind processes risk before, during, and after the storm.</p>
 </section>
@@ -142,25 +139,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -37,10 +37,7 @@ source_url: 'https://wpde.com/news/local/trump-rally-in-myrtle-beach-prompts-pos
 <section id="what-happened">
 <h2>What Happened in South Carolina?</h2>
 <p>The South Carolina Republican Party announced the postponement of a scheduled U.S. Senate runoff stump stop at the Anderson County Civic Center, which had been slated for Friday, August 21. The disruption came directly from a competing, high-profile rally featuring President Donald Trump in Myrtle Beach on the exact same day.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <p>The Republican runoff contest pits U.S. Senator Darline Graham against U.S. Rep. Ralph Norman ahead of the primary voting scheduled for Tuesday, August 25. SCGOP Chairman Drew McKissick explained that the party refused to hold a debate where both candidates could not participate simultaneously. Trump previously issued an endorsement in the high-profile race, making his presence in the state a central fixture of the final campaign weeks.</p>
@@ -103,25 +100,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

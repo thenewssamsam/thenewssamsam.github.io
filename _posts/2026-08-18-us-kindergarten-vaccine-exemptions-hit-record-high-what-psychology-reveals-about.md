@@ -36,10 +36,7 @@ source_url: ''
     <h2>What the New CDC Data Shows</h2>
     <p>According to data released on Monday by the Centers for Disease Control and Prevention (CDC), exemptions from routine childhood vaccines among U.S. kindergarteners climbed to 4.2% for the 2025–26 school year. This marks a continued upward trajectory from 3.6% the previous year and a steep rise from the 2.2% baseline seen during the 2020–21 school year.</p>
     <p>The vast majority of these exemptions were for non-medical reasons. At the same time, the percentage of children receiving the measles, mumps, and rubella (MMR) vaccine dropped to 92.4%—falling short of the 95% benchmark that public health experts consider essential for maintaining herd immunity. Varicella (chickenpox) and DTaP vaccination rates also saw slight declines or plateaued.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>Public health officials point out stark geographic disparities. States like Idaho recorded exemption rates as high as 17.5%, followed by Utah, Oregon, Arizona, and Nevada. Conversely, states with stringent policy frameworks like California, New York, and West Virginia reported exemption rates as low as 0.1%.</p>
   </section>
@@ -136,25 +133,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

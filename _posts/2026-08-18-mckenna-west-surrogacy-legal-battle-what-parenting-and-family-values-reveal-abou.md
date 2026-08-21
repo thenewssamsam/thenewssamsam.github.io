@@ -37,10 +37,7 @@ source_url: 'https://www.tmz.com/2026/08/16/surrogate-mckenna-west-fundraiser-dr
   <section id="what-happened" class="ncg-section">
     <h2>What Happened in the McKenna West Surrogacy Dispute?</h2>
     <p>The controversy stems from a surrogacy arrangement that took an unexpected turn when doctors discovered that the developing baby had hypoplastic left heart syndrome (HLHS), a severe congenital heart defect. According to a GiveSendGo fundraiser launched by West's friend Ellen Fisher, West was allegedly advised to schedule a termination following the diagnosis. Fisher claims West felt terrified of potential legal and financial repercussions if she refused.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -125,29 +122,3 @@ Seagate Portable External Hard Drive
     .ncg-closing-line { font-weight: bold; margin-top: 1rem; color: #2c3e50; }
   </style>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -53,10 +53,7 @@ source_url: 'https://www.yahoo.com/news/videos/inside-ukraines-strategy-pressure
   <h2 id="what-happened">What Happened: Shifting the Calculus of Attrition</h2>
   
   <p>The core dynamics of the conflict were recently unpacked on an episode of the <em>GZERO World</em> podcast, where host Ian Bremmer sat down with former Ukrainian Foreign Minister Dmytro Kuleba. The conversation drilled down into Ukraine's evolving military blueprint: bringing the war home to Russian soil. By targeting military bases, critical energy infrastructure, and symbolic strategic strongholds like Crimea, Kyiv aims to puncture the illusion of untouchability that shields the Russian domestic populace from the realities of the invasion.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
   <p>For years, Vladimir Putin has insulated ordinary Russian citizens from the economic and human costs of the war, maintaining a quiet social contract where political acquiescence was traded for domestic normalcy. Ukraine's current strategy is explicitly designed to strain that contract. When power stations flicker, military installations burn, and air raid sirens sound in regions far from the border, the cost of the war ceases to be an abstract concept debated on state television and becomes an inescapable daily reality.</p>
@@ -110,25 +107,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

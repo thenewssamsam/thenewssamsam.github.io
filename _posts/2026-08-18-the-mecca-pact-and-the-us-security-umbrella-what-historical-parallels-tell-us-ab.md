@@ -35,10 +35,7 @@ source_url: 'https://www.aljazeera.com/news/2026/8/17/trump-hails-mecca-pact-can
 
 <h2 id="what-happened">What Happened: The Mecca Pact Takes Shape</h2>
 <p>The Mecca Joint Defence Agreement binds Saudi Arabia, Turkiye, and Pakistan in a mutual defense framework modeled loosely on NATO’s Article 5, stating that an armed attack on one member shall be regarded as an attack against all. However, analysts point out that the agreement maintains significant national sovereignty over military responses. Member states retain the discretion to determine whether, when, and how to assist an ally under attack, ensuring that signatories are not automatically dragged into unwanted conflicts.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>The timing of the pact is deeply intertwined with recent security shocks in the region, particularly the fallout from military escalations involving Iran and the shifting posture of the United States. While Washington has encouraged allies to spend more on their own defense—culminating in higher defense spending targets at recent NATO summits and a deliberate U.S. military retrenchment—regional actors are increasingly driven by a desire to diversify their security partnerships rather than rely on a single, distant hegemon.</p>
 
@@ -104,25 +101,3 @@ Seagate Portable External Hard Drive
 <p>Source: <a href="https://www.aljazeera.com/news/2026/8/17/trump-hails-mecca-pact-can-it-replace-the-regions-us-security-umbrella" target="_blank" rel="noopener noreferrer">Original News Report</a></p>
 </footer>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

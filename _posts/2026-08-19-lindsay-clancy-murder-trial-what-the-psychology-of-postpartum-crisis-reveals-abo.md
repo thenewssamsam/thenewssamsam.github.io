@@ -23,10 +23,7 @@ source_url: "https://www.wbur.org/news/2026/08/17/prosecution-rests-murder-trial
   <h2 id="what-happened">What Happened in the Courtroom</h2>
   <p>After 14 days of testimony, the prosecution officially rested its case in the trial of Lindsay Clancy. Clancy has admitted to killing her three children—5-year-old Cora, 3-year-old Dawson, and 8-month-old Callan—in January 2023 before attempting to take her own life by jumping from a second-story window, an act that left her paralyzed from the waist down.</p>
   <p>The core legal battle centers on intent and mental state. The defense argues for an insanity defense, maintaining that Clancy was suffering from severe, unmanaged postpartum psychiatric illness exacerbated by a rapid succession of prescribed medications. Prosecutors, conversely, contend that her actions were deliberate, pointing to digital footprint evidence including health data and internet searches in the weeks leading up to the tragedy.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
   <p>The trial has featured emotionally heavy testimony from dozens of witnesses, including the children's father, Patrick Clancy, whose 911 call and subsequent interviews captured a family caught in the agonizing overlap of love, confusion, and sudden unimaginable loss. With the prosecution resting, the defense has begun calling its own witnesses, including family members and forensic psychiatric experts.</p>
 
@@ -80,25 +77,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

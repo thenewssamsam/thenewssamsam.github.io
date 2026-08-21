@@ -36,10 +36,7 @@ source_url: 'https://www.nytimes.com/athletic/7519231/2026/08/17/ap-top-25-poll-
 <p>Every August, college football fans engage in a familiar ritual. The preseason AP Top 25 poll drops, and immediately, message boards ignite, pundits argue, and fan bases collectively lose their minds over arbitrary numbers assigned to teams that have yet to play a single snap.</p>
 
 <p>The 2026 preseason AP Top 25 is no exception. Ohio State, Oregon, Georgia, Notre Dame, and Texas anchor the top five, followed by reigning national champion Indiana. But underneath those initial rankings lies a fascinating clash between human psychology, cognitive biases, and the frantic reality of modern roster construction in the transfer portal era. Why do voters consistently overrate past success and underrate sheer talent accumulation? To understand the chaos of the preseason poll, we have to look past the logos and examine the mental shortcuts that shape how we evaluate sports.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 </section>
 
@@ -116,25 +113,3 @@ Tactical Waterproof Backpack
 .ncg-footer { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #e5e7eb; font-size: 0.9rem; }
 </style>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

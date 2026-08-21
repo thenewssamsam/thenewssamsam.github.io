@@ -32,10 +32,7 @@ source_url: "https://www.cnn.com/2026/08/17/us/luigi-mangione-state-trial-postpo
 <section id="what-happened">
   <h2>What Happened</h2>
   <p>According to reports from CNN, New York Judge Gregory Carro issued an order giving Manhattan prosecutors until October 9 to contest a defense motion to dismiss the state murder case. The next court hearing has been scheduled for December 10.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   <p>This judicial pause comes directly on the heels of a dramatic courtroom development: Mangione pleaded guilty to two federal counts of stalking and admitted to the fatal shooting of Brian Thompson. Immediately following that federal guilty plea, defense attorneys filed motions seeking to dismantle the state-level second-degree murder and weapons charges.</p>
   <p>While Judge Carro's order did not explicitly cancel the September 8 jury selection date, the legal reality is that the trial cannot advance while these constitutional motions remain pending. The December 10 hearing also sits uncomfortably close to Mangione's pending federal sentencing, where he faces a maximum sentence of life in prison. Legal observers note that if state prosecutors feel the federal sentence provides adequate accountability, the state could theoretically drop its charges—though the Manhattan District Attorney's office has maintained its commitment to pursuing the state case.</p>
@@ -102,25 +99,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

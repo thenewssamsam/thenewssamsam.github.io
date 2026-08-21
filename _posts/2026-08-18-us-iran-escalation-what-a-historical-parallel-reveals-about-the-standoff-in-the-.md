@@ -26,10 +26,7 @@ source_url: 'https://understandingwar.org/research/middle-east/iran-update-speci
   <p>According to assessments published on August 17, 2026, by the Institute for the Study of War (ISW) and the Critical Threats Project (CTP), the Iranian leadership has signaled a preference for continued or escalated conflict over making significant concessions on its core demands. These demands include lifting the US naval blockade and economic sanctions, along with formal recognition of Iranian control over the Strait of Hormuz.</p>
   
   <p>Reports from major news outlets indicate that the Islamic Revolutionary Guards Corps (IRGC) utilized a recent period of diplomatic calm under a memorandum of understanding (MoU) to coordinate regional attack plans with aligned partners and proxies in Iraq, Yemen, and Lebanon. With senior Iranian officials warning of preemptive options—ranging from targeting critical infrastructure in the Persian Gulf to expanding proxy operations around the Red Sea—the diplomatic window appears increasingly narrow.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
   <h2 id="historical-perspective">A Historical Parallel: Navigating High-Stakes Maritime Chokepoints</h2>
@@ -76,25 +73,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

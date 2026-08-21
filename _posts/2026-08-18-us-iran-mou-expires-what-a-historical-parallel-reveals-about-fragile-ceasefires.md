@@ -34,10 +34,7 @@ source_url: 'https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-unde
 <p>The 60-day window for peace established by the June 17 Memorandum of Understanding (MoU) between the United States and Iran has officially expired amid renewed hostilities and deeply fractured talks. Brokered by Islamabad and signed by US President Donald Trump and Iranian President Masoud Pezeshkian, the 14-point agreement was designed to halt military operations, reopen the vital Strait of Hormuz, and pave the way for a comprehensive regional settlement. Instead, ambiguous wording, competing navigation routes, and unresolved regional conflicts—particularly regarding Lebanon and maritime sovereignty—quickly unraveled the truce.</p>
 
 <p>As commercial shipping lanes through the Persian Gulf once again became flashpoints and renewed strikes flared along Iranian coastal facilities and regional US assets, the collapse offers a stark reminder of how fragile high-level diplomatic paper agreements can be when fundamental terms are left undefined. To understand why this agreement disintegrated so rapidly, we have to look past the immediate political fallout and examine how similar diplomatic architecture has fared throughout modern history.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -106,29 +103,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

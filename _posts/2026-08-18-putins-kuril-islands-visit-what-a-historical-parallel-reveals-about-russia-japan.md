@@ -22,10 +22,7 @@ source_url: 'https://www.themoscowtimes.com/2026/08/17/putin-revealed-his-true-i
 <h2 id="what-happened">What Happened in the Kuril Islands?</h2>
 
 <p>According to reports from <em>The Moscow Times</em>, President Vladimir Putin visited the island of Iturup on August 13, 2026. The itinerary followed a familiar domestic script: a tightly managed inspection of a local business, a sternly staged meeting with regional bureaucrats, and a vetted meet-and-greet with handpicked residents.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 <p>Yet the geopolitical weight of the trip was immense. Iturup is one of four islands in the Kuril chain—the Northern Territories—seized by Soviet forces in the waning days of World War II, following a declaration of war on August 8, 1945, that violated the Soviet-Japanese Neutrality Pact. Tokyo has refused to sign a formal post-war peace treaty with Moscow ever since, insisting that the territorial dispute must be resolved first.</p>
@@ -93,25 +90,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

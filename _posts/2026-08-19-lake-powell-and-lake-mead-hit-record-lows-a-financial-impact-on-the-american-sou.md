@@ -92,10 +92,7 @@ source_url: "https://www.azfamily.com/2026/08/18/lake-powell-lake-mead-hit-recor
   <section id="what-happened">
     <h2>What Happened in the Colorado River Basin?</h2>
     <p>Lake Powell and Lake Mead have hit record lows, driven by a relentless three-decade drought, persistent overuse, and changing climatic patterns. These two massive bodies of water sustain the lower half of the Colorado River basin, serving as the literal lifeblood for municipal utilities, agricultural hubs, and electrical grids across the American Southwest.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>According to recent reports, Lake Powell has dropped more than 20 feet since the beginning of the year alone, reaching a new historic low. It now sits a mere 30 feet away from the critical threshold where its massive hydroelectric turbines would be forced to halt power generation entirely&mdash;a severe scenario federal officials warned could materialize earlier this year.</p>
     <p>Further downstream, Lake Mead plunged to its own record low just a week prior. While experts emphasize that everyday tap water is not going to instantly stop flowing, the systemic decline carries profound financial consequences for household budgets and regional power markets.</p>
@@ -164,25 +161,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

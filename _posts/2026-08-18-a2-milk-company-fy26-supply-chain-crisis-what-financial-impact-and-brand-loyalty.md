@@ -32,10 +32,7 @@ source_url: 'https://www.nutraingredients.com/Article/2026/08/17/a2mcs-fy26-reve
     <p>For the a2 Milk Company (a2MC), the fiscal year 2026 financial results looked solid on paper, masking a turbulent internal storm. The New Zealand-based dairy firm reported a 12.4% increase in annual revenue to NZD billion (USbn) during its August 17 results presentation. However, net profit after tax slipped 5.8% down to NZD million (USm).</p>
     
     <p>Behind these headline figures lies a dramatic operational disruption. While the first half of FY26 saw revenue jump 6.5%, the second half took a sharp 33% dive. The culprit? Severe out-of-stock situations for its flagship China-label infant milk formulas—specifically the popular a2 ZhiChu range—during the fourth quarter. Freight challenges indirectly triggered by the Middle East crisis, production backlogs, extended product release times, and rigorous new customs testing measures combined to choke off supply.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -107,29 +104,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

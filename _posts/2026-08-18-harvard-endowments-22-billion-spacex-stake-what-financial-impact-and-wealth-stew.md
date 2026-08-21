@@ -36,10 +36,7 @@ source_url: 'https://qz.com/harvard-endowment-spacex-stake-2-billion-081726'
     <h2>What Happened: The  Billion SpaceX Disclosures</h2>
     <p>Regulatory filings submitted by institutional money managers managing more than  million in U.S. equities offer a rare glimpse into the portfolios of America's wealthiest institutions. According to its recent 13F filing, Harvard University holds  billion in total U.S. equities. Of that sum, a staggering  billion is tied up in Space Exploration Technologies Corp. (SpaceX)—making it the single largest stock position in the entire portfolio.</p>
     <p>The disclosure follows SpaceX's high-profile initial public offering in June, where the aerospace giant priced its shares at  After closing a recent session at , SpaceX commands a market capitalization exceeding  trillion. Harvard is not alone in reaping these gains; other major institutions, including the University of California, the University of North Carolina, and Washington University in St. Louis, have also reported substantial stakes acquired through early venture capital bets.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   </section>
 
@@ -90,25 +87,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

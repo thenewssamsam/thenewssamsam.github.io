@@ -38,10 +38,7 @@ source_url: 'https://jacobin.com/2026/08/germany-cdu-afd-merz-coalition'
 <p>Next month, German politics faces a watershed moment. On September 6, roughly two million voters in Saxony-Anhalt will head to the polls, followed two weeks later by elections in Mecklenburg-Western Pomerania and the capital, Berlin. In Saxony-Anhalt, the Alternative for Germany (AfD)—a party whose regional branches have been classified by domestic intelligence as confirmed right-wing extremists—is polling at 40 to 42 percent. It is within striking distance of an outright majority.</p>
 
 <p>This surge presents an acute test for Chancellor Friedrich Merz, who took office in May 2025 promising to cut AfD support in half. Instead, national polls show his center-right CDU trailing the AfD by 7 to 9 points, while Merz's own disapproval ratings top 80 percent. The traditional <em>Brandmauer</em>—the strict "firewall" whereby the CDU has refused any cooperation with the AfD since its founding—is buckling under the weight of local realities in eastern Germany, where grassroots members increasingly view working with the AfD as an unavoidable pragmatic step.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <p>The implications stretch far beyond state legislatures. A strong AfD showing in Saxony-Anhalt will ripple directly into the Bundesrat, Germany's federal chamber, further normalizing the party ahead of six additional state contests leading up to the 2029 federal election.</p>
@@ -86,25 +83,3 @@ Seagate Portable External Hard Drive
 
 <p class="ncg-source">Source: <a href="https://jacobin.com/2026/08/germany-cdu-afd-merz-coalition" target="_blank" rel="noopener noreferrer">Original News Report</a></p>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

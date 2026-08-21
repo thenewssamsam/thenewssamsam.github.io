@@ -34,10 +34,7 @@ source_url: 'https://www.notus.org/foreign-policy/germany-far-right-is-on-the-ri
 <h2>What Happened in German Politics?</h2>
 <p>In the coming weeks, Germany's modern political architecture faces its most severe test since reunification. Ulrich Siegmund, the lead candidate for the nationalist Alternative for Germany (AfD) party, is currently leading polls in the eastern state of Saxony-Anhalt with roughly 41% support—putting the party roughly 20 points ahead of the center-right Christian Democratic Union (CDU).</p>
 <p>If the AfD secures an outright win or a governing mandate on September 6, it would mark the first time the far-right party governs a German state. This victory could create powerful momentum for upcoming regional votes, including in Berlin on September 20. For decades, Germany's mainstream political parties maintained a strict consensus known as the <em>Brandmauer</em>—a firewall vowing never to cooperate with the AfD. An electoral breakthrough threatens to shatter that informal wall, altering how the federal upper house, the Bundesrat, approves national legislation.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 </section>
 
@@ -111,25 +108,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

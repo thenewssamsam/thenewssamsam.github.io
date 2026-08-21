@@ -25,10 +25,7 @@ source_url: 'https://www.foxsports.com/stories/nfl/which-rookies-standing-out-7-
   <h2 id="what-happened">What Happened in Preseason Week 1</h2>
   <p>The first weekend of the 2026 NFL preseason brought nearly all 32 teams back to the field. While established veterans largely watched from the sidelines, rookie prospects stepped into the spotlight to make their unofficial professional debuts. Across the league, standout performances from young quarterbacks and playmakers immediately captured headlines.</p>
   <p>Los Angeles Rams rookie quarterback Ty Simpson impressed in extended action against the Kansas City Chiefs, completing 21 of 25 passes for 190 yards and two touchdowns. In Pittsburgh, third-round pick Drew Allar flashed a strong arm and scored three total touchdowns in a win over the Green Bay Packers, fueling optimism about life after Aaron Rodgers. Meanwhile, high draft picks like Arizona Cardinals running back Jeremiyah Love put up efficient numbers before suffering a high ankle sprain that sidelined him for the remainder of the preseason, instantly sparking debate over the risks of heavy August workloads for star rookies.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
   <h2 id="why-it-matters">Why Preseason Reactions Reveal More About Us Than the Games</h2>
@@ -93,25 +90,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

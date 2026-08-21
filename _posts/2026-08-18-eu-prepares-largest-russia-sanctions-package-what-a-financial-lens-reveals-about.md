@@ -32,10 +32,7 @@ source_url: 'https://www.pravda.com.ua/eng/news/2026/08/17/8048949/'
     <h2 style="font-size: 1.5rem; font-weight: 700; color: #1a202c; margin-bottom: 1rem;">What Happened: A Record-Breaking Escalation</h2>
     <p>The European Union is gearing up for its most sweeping economic maneuvers against Moscow since the full-scale invasion of Ukraine began. According to statements made by Kaja Kallas, the EU High Representative for Foreign Affairs and Security Policy, Brussels is putting the finishing touches on what promises to be the largest-ever package of sanctions in the bloc's history.</p>
     <p>Set for proposal this coming autumn, the new package aims to immediately expand the total volume of sanctioned Russian legal entities and individuals by a staggering one-third. Kallas emphasized that international pressure must remain unrelenting until the conflict concludes, signaling that the EU's economic statecraft has transitioned from incremental tweaks to sustained, cumulative pressure.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -97,29 +94,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

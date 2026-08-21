@@ -33,10 +33,7 @@ source_url: "https://abc7ny.com/story/14-charged-alleged-cocaine-trafficking-rin
     <p>On a Monday that shocked parents and alumni alike, Pennsylvania Attorney General Dave Sunday announced a sweeping set of criminal charges stemming from a coordinated cocaine-trafficking ring centered around two off-campus Penn State University Greek organizations: Delta Upsilon and Sigma Chi. According to state investigators, the operation was active through 2023 and 2024, running an illicit supply chain fed by regular trips to Philadelphia and New York.</p>
     
     <p>Out of the fourteen defendants, thirteen were students at the time of the offenses, while at least four remain enrolled. Prosecutors allege that senior fraternity members Agostino Abbatiello and Thomas Robinson orchestrated the distribution network. Yet perhaps the most disturbing detail revealed by investigators was how the operation functioned internally: cutting and packaging narcotics was treated as an initiation ritual—an intentional indoctrination for incoming fraternity pledges.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
     <p>The fallout has been swift. Penn State placed Delta Upsilon on interim suspension pending a formal university investigation, while Sigma Chi operates entirely unrecognised outside university oversight. University officials expressed profound dismay, emphasizing that individual students will face disciplinary actions that could include permanent separation from the institution. Meanwhile, criminal charges ranging from corrupt organizations and conspiracy to evidence tampering—involving the father of one student who allegedly hid cash and drugs in a safe—demonstrate the severe legal gravity of these actions.</p>
@@ -99,25 +96,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

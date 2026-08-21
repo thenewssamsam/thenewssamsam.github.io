@@ -33,10 +33,7 @@ source_url: 'https://www.investopedia.com/gen-x-retirement-savings-how-much-they
 
 <h2 id="what-happened">What the Federal Reserve Data Shows</h2>
 <p>Americans born between 1965 and 1980 entered the workforce right as corporate America was phasing out traditional pensions and shifting the burden of retirement funding onto individual employees via 401(k) plans. Gen X became the original test case for this do-it-yourself retirement system.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>According to the Federal Reserve's Survey of Consumer Finances, only about 62% of Gen X households have any form of retirement savings. That leaves nearly 40% with nothing at all. Among households that do hold accounts, the median balance—meaning half have more and half have less—is approximately ,000.</p>
 <p>To put that in perspective, major financial institutions like Fidelity recommend having six times your salary saved by age 50 and eight times by age 60. With the national average salary hovering near ,000, those benchmarks suggest a target of ,000 by 50 and ,000 by 60. The typical Gen X balance falls well short of those marks.</p>
@@ -146,25 +143,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

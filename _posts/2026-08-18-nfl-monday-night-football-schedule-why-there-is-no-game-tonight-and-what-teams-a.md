@@ -145,10 +145,7 @@ source_url: 'https://sports.yahoo.com/articles/nfl-games-today-monday-night-1201
 <h2 id="what-happened">Where Is Monday Night Football Tonight?</h2>
 <p>If you settled into the couch expecting a primetime broadcast tonight, you are not alone. Millions of sports fans instinctively check for games to start the week, only to be met with regular programming. The reality is straightforward: the NFL does not schedule Monday night exhibition games during the preseason.</p>
 <p>Instead, the league maintains a disciplined practice and recovery window early in the week before launching into the next block of exhibition matchups. Week 2 of the preseason runs strictly from Thursday, August 20, through Sunday, August 23, leaving early-week nights entirely free of live broadcast action as teams regroup from weekend play.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <h2 id="the-psychology-of-football-cravings">The Psychology of Football Cravings and Habit Loops</h2>
@@ -191,25 +188,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

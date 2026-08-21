@@ -36,10 +36,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.h
   <h2 id="what-happened">What Happened in the Energy Markets?</h2>
   <p>Crude oil prices surged on Monday following the collapse of diplomatic talks between the United States and Iran. The memorandum of understanding signed in June to ease tensions and open the Strait of Hormuz expired without renewal. Tehran announced it would shift away from defensive postures if diplomacy failed, while U.S. crude futures rose 2.6% to close at  per barrel, and international benchmark Brent crude gained 2.7% to settle at .</p>
   <p>The practical result on the ground—and on the water—was immediate. Ship traffic through the Strait of Hormuz dropped to a near standstill, with just three vessels crossing the strait on Sunday compared to a pre-war daily average of roughly 130 ships. With vital shipping lanes restricted and rhetoric intensifying on both sides, traders quickly priced in a renewed risk premium.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
   <h2 id="financial-impact">The Financial Impact: Beyond the Barrel</h2>
@@ -110,25 +107,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

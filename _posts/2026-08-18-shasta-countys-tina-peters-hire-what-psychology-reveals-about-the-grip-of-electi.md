@@ -36,10 +36,7 @@ source_url: ''
 <h2 id="what-happened">What Happened in Shasta County?</h2>
 
 <p>The announcement came from Clint Curtis, the embattled top election official in Shasta County, a conservative northern California region of 182,000 residents that has spent years at the center of the American election-denial movement. Curtis told the Guardian he plans to bring in Peters to replace his top deputy while on medical leave. Although Curtis maintained that Peters would not have direct access to the county voting systems, the decision immediately triggered alarms from election security experts and state officials.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 <p>Peters, the former clerk of Mesa County, Colorado, was convicted in 2024 of four felonies and three misdemeanors after allowing an unauthorized outsider to breach secure voting software. Following a commuted nine-year sentence by Colorado Governor Jared Polis, Peters stepped straight back onto the media circuit, continuing to promote debunked claims about the 20th and 21st-century American electoral systems. Her hiring in Shasta County arrives during the final months of Curtis's own tumultuous tenure, following a local vote to oust him and mounting friction with county supervisors over personnel rules.</p>
@@ -101,25 +98,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

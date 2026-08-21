@@ -26,10 +26,7 @@ source_url: 'https://chicago.suntimes.com/casinos-gambling/2026/08/17/ballys-chi
   <p>In a recent quarterly filing with the Securities and Exchange Commission (SEC), Bally's Corporation acknowledged a "going concern" warning. The debt-laden gaming operator stated that its financial obligations create substantial doubt about its viability over the coming 12 months&mdashprecisely the window during which it is scheduled to open its long-delayed permanent casino complex at 777 W. Chicago Ave. in River West.</p>
   
   <p>The disclosure arrives as Bally's is locked in a fierce dispute with Chicago City Council members. The city authorized video gambling terminals (VGTs) to help balance its municipal budget&mdashdefying Mayor Brandon Johnson and the original host community agreement. Bally's argues that these machines will siphon vital revenue away from its operations. Meanwhile, critics on the City Council claim the VGT dispute is simply a convenient smokescreen masking a much harsher reality: Bally's cannot afford to complete the project.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
   <p>According to its SEC filings, Bally's is facing roughly  million in construction costs over the next two years for the permanent River West facility. Yet, its temporary operation at the historic Medinah Temple has not broken even since opening three years ago. The company logged a  million loss over the first half of 2026 alone, bringing its accumulated deficit to  million.</p>
@@ -94,25 +91,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

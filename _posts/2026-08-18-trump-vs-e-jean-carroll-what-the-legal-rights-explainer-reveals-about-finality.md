@@ -23,10 +23,7 @@ source_url: 'https://apnews.com/article/trump-supreme-court-e-jean-carroll-defam
   <section id="the-news">
     <h2>What Happened in the Supreme Court?</h2>
     <p>On Monday, the Supreme Court denied a request from Donald Trump’s legal team to reconsider their previous refusal to hear his appeal. This decision effectively solidifies the  million jury verdict found against him, which concluded he sexually abused Carroll in a New York City department store in the 1990s and subsequently defamed her.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>According to reports, Trump had already paid the judgment following the court’s initial refusal to hear the case in June. With this latest denial, the legal avenues for contesting this specific judgment have been exhausted.</p>
   </section>
@@ -57,25 +54,3 @@ Seagate Portable External Hard Drive
     <p>Source: <a href="https://apnews.com/article/trump-supreme-court-e-jean-carroll-defamation-769b731baf27199224c30af55cd0a149" target="_blank" rel="noopener noreferrer">Original News Report</a></p>
   </section>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

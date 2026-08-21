@@ -36,10 +36,7 @@ source_url: 'https://english.elpais.com/international/2026-08-17/germany-divided
 <section id="what-happened">
     <h2>What Happened in Berlin</h2>
     <p>The debate over whether Berlin can or should declare the Alternative for Germany (AfD)—the Bundestag’s largest opposition force—unconstitutional has flared up once again. With regional elections looming in eastern states like Saxony-Anhalt, where polls suggest the far-right party could secure a historic governing majority, German politics is locked in an intense existential argument.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>The push for a ban gained fresh momentum following an essay by SPD co-leader Lars Klingbeil in <em>Die Zeit</em>, arguing that moving to outlaw the party is a democratic necessity. This call is backed by a detailed report from the Society for the Protection of Freedom Rights (GFF), which compiled thousands of pieces of evidence alleging that AfD strategies deliberately target the free democratic basic order. Yet, the governing coalition remains fractured. Chancellor Friedrich Merz’s conservative CDU party opposes the move, warning that a failed ban—or even the messy legal battle itself—could backfire spectacularly.</p>
 </section>
@@ -121,25 +118,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

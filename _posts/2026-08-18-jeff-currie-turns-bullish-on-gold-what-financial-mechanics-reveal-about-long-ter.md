@@ -100,10 +100,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/gold-prices-jeff-currie-gold.html'
 <p>When market veteran Jeff Currie shifts positions, institutional investors pay attention. The former Goldman Sachs commodities mastermind and current Carlyle senior advisor has officially turned bullish on gold after months of short positioning, pointing to a single structural floor underneath the precious metal: insatiable central bank demand.</p>
 
 <p>Yet, this bullish stance comes against a backdrop of severe turbulence. Gold prices recently suffered their worst quarter in 13 years during the period ending in June, driven by emergency selling waves across global markets. For everyday observers watching wild price swings, the disconnect between short-term pain and long-term optimism can be confusing. To understand why Currie is betting on higher lows, we have to look past the day-to-day noise and examine the underlying financial plumbing driving modern reserve management.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -166,29 +163,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

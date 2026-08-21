@@ -34,10 +34,7 @@ source_url: "https://www.foxnews.com/politics/trump-meets-teen-lifeguard-boy-sav
     <h2>What Happened in the Oval Office</h2>
     <p>President Donald Trump welcomed 16-year-old California State Parks lifeguard Ryder Williams and 10-year-old Nathaniel Rai to the White House on a Monday, praising the teenager as a national hero. The meeting came weeks after a dramatic July 25 ocean rescue captured on video went viral across social media platforms, eventually catching the eye of Eric Trump and leading to a formal presidential invitation.</p>
     <p>During the Oval Office gathering, President Trump met with both families, expressing admiration for the young lifeguard's composure under extreme pressure. Nathaniel had been swept into the churning ocean by a sudden wave, caught in punishing rough surf before Williams intervened. Fighting the powerful undertow, Williams managed to secure the boy until a second lifeguard arrived to help pull both of them safely ashore.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>"What you did was incredible and everybody saw it," President Trump told Williams during the meeting, adding that lifeguards often do not receive the public recognition they deserve. For Nathaniel's father, Sumit Rai, who stood alongside the leaders in the White House, the gratitude was deeply personal. He told reporters he remains "beyond grateful" for the rescue that saved his son's life.</p>
   </section>
@@ -202,25 +199,3 @@ Seagate Portable External Hard Drive
   text-decoration: underline;
 }
 </style>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

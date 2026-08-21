@@ -37,10 +37,7 @@ source_url: 'https://www.mlb.com/news/padres-sale-to-jose-e-feliciano-and-kwanza
   <section class="ncg-section" id="ncg-what-happened">
     <h2>What Happened: The Unanimous Vote</h2>
     <p>The transition of control to Jones and Feliciano—who are husband and wife and co-founders of the Kwanza Jones and José E. Feliciano Initiative—comes after an agreement was struck back in May following exploratory sale processes initiated by the Seidler family late last year. Feliciano, the co-founder and managing partner of Clearlake Capital Group, has been designated as the team's control person, while Jones serves as CEO of their private family office and brings extensive board-level experience.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>The closing of the transaction is scheduled for the coming days, culminating in an official introduction press conference at Petco Park on August 24. Day-to-day baseball and business operations will remain under the steady leadership of CEO Erik Greupner and general manager A.J. Preller, providing continuity for a club currently right in the thick of the National League postseason race.</p>
     <p>Commissioner Robert D. Manfred, Jr. publicly thanked the Seidler family—noting the enduring legacy of the late Peter Seidler, whose bold investment strategy energized one of baseball's most passionate fanbases and turned the Padres into a perennial contender over the past six years—while warmly welcoming the incoming ownership duo.</p>
@@ -99,25 +96,3 @@ Seagate Portable External Hard Drive
     <p>Source: <a href="https://www.mlb.com/news/padres-sale-to-jose-e-feliciano-and-kwanza-jones-approved-by-mlb" target="_blank" rel="noopener noreferrer">Original Major League Baseball Report</a></p>
   </footer>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

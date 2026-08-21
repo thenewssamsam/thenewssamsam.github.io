@@ -36,10 +36,7 @@ source_url: ''
 <h2>What Happened on That Florida Evening</h2>
 <p>The young Microsoft executive had just dropped off his twins at his ex-wife&#8217;s home in Jacksonville Beach on a warm, late-winter Florida evening. Towering live oaks draped with Spanish moss lined the neighborhood, casting long shadows across the pavement as the sun began to set.</p>
 <p>He started driving home with his 2-year-old daughter in the backseat when he came upon a tire in the middle of the road. He stopped his car and got out to move it. But before he could get back behind the wheel, someone shot him dead in the street and fled.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>Jared Bridegan, 33, had made the drive from Jacksonville Beach to his home in nearby St. Augustine countless times before. That Wednesday in February 2022 had unfolded like any other: dinner with his toddler and twins, handing off the twins to their mother, and the evening drive home to his wife and baby. But prosecutors say Bridegan&#8217;s killer knew his routine, too, and had planted the tire to lure him out of the car. Jacksonville Beach Police Chief Paul Smith called it &#8220;a planned and targeted ambush and murder.&#8221;</p>
 <p>Multiple bullets pierced Bridegan&#8217;s body and vehicle&#8212;one just inches from his toddler, Bexley, who was uninjured and crying, still strapped into her car seat. Bridegan&#8217;s body was left splayed in the street, with his car, wallet, wristwatch, and other personal items untouched. Nothing appeared to have been taken.</p>
@@ -131,25 +128,3 @@ a { color: #0066cc; text-decoration: none; }
 a:hover { text-decoration: underline; }
 </style>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

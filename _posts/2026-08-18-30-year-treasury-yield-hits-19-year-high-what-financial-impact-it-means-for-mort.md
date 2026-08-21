@@ -36,10 +36,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fom
   <p>The financial world just crossed a notable threshold as the 30-year Treasury yield climbed past 5.31%, marking its highest point since June 2007. For everyday borrowers, home buyers, and investors navigating an increasingly complex economic landscape, this spike is more than just a line on a financial chart—it is a signal that long-term borrowing costs are shifting beneath our feet.</p>
   
   <p>While the Federal Reserve has kept its short-term interest rate target steady between 3.5% and 3.75%, the broader bond market is moving to the beat of a different drum. Fueled by rising global oil prices, growing national deficits, and mounting concerns over government debt issuance, the long end of the Treasury curve is demonstrating that market forces often override short-term monetary policy.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 </section>
 
@@ -134,25 +131,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

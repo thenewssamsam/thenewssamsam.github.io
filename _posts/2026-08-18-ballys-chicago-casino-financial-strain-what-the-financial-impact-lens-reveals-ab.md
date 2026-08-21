@@ -21,10 +21,7 @@ source_url: 'https://chicago.suntimes.com/casinos-gambling/2026/08/17/ballys-chi
 
   <h2 id="what-happened">What Happened at Bally’s Chicago?</h2>
   <p>In a quarterly filing with the Securities and Exchange Commission (SEC), Bally’s issued a formal "going concern" warning. Companies are legally required to make this disclosure when there is serious doubt about their ability to avoid defaulting on debt obligations over the upcoming twelve months. Bally's cited persistent operational losses, negative cash flows, and a staggering debt burden exceeding  billion as core drivers behind the warning.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
   <p>The financial disclosure coincides with a bitter public dispute between Bally’s executives and Chicago City Council members. Recently, Bally's announced it was halting much of the ancillary construction—including a planned hotel and event center—at its permanent site at 777 W. Chicago Ave. The company blamed the City Council's approval of video gambling terminals (VGTs), arguing that neighborhood slot machines will cannibalize casino revenue. Meanwhile, skeptical aldermen, led by 42nd Ward Ald. Brendan Reilly, contend that the VGT dispute is merely a convenient smokescreen for a corporation that is simply over-leveraged and unable to afford the project.</p>
 
@@ -69,25 +66,3 @@ Seagate Portable External Hard Drive
     <p>Source: <a href="https://chicago.suntimes.com/casinos-gambling/2026/08/17/ballys-chicago-casino-video-gambling-going-concern" target="_blank" rel="noopener noreferrer">Original News Report - Chicago Sun-Times</a></p>
   </div>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -34,10 +34,7 @@ source_url: "https://www.psu.edu/news/campus-life/story/penn-state-responds-seri
     <h2>What Happened at Penn State?</h2>
     <p>The announcement sent immediate shockwaves through University Park. According to statements from the Pennsylvania Office of the Attorney General, 14 individuals—consisting largely of current and former Penn State students—face serious criminal charges connected to an alleged illegal narcotics operation spanning 2023 and 2024. The investigation specifically targeted activities tied to two off-campus Greek organizations: Sigma Chi and Delta Upsilon.</p>
     <p>In response, university officials moved swiftly. Penn State placed Delta Upsilon on immediate interim suspension while the Office of Student Accountability and Conflict Response launches its own parallel investigation. Officials noted that Sigma Chi was already an unrecognized organization operating completely outside of university oversight. Andrea Dowhower, vice president for Student Affairs, expressed public horror at the allegations, emphasizing that criminal activity and hazing have no place on campus.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>While law enforcement handles the criminal prosecution—ranging from drug distribution to hazing-related offenses—the university's internal disciplinary mechanism initiates separate proceedings. For students found responsible, penalties can stretch from suspension to permanent expulsion, while recognized chapters face organizational revocation. Yet, beyond the legal fallout and administrative crackdowns, a fundamental human question remains: How do bright, capable college students find themselves entangled in dangerous criminal networks under the banner of brotherhood?</p>
   </section>
@@ -225,25 +222,3 @@ Tactical Waterproof Backpack
   }
 }
 </style>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

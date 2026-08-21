@@ -37,10 +37,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-f
     <h2>What Happened: The California Federal Trial Begins</h2>
     <p>Opening arguments are set to begin in Oakland’s federal courthouse in a landmark trial that could fundamentally alter how billions of people interact with Facebook and Instagram. California Attorney General Rob Bonta is co-leading a unified coalition of 29 state attorneys general in a high-stakes legal battle against Meta. The core of the lawsuit alleges that the tech titan knowingly fostered addictive behavior among children and teens while misleading the public about the psychological safety of its platforms.</p>
     <p>This federal showdown follows a recent legal blow in New Mexico, where a state court ordered Meta to pay nearly  billion across multiple phases of litigation involving child safety and unfair practices. However, legal experts note that California’s unmatched jurisdiction, regulatory reach, and market power elevate this trial to an entirely different tier. For an industry already grappling with mounting scrutiny, the proceedings are increasingly being dubbed social media’s "Big Tobacco" moment.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   </section>
 
@@ -161,25 +158,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

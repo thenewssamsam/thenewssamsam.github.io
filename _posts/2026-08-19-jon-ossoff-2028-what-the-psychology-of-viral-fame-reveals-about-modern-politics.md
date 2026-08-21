@@ -32,10 +32,7 @@ source_url: "https://www.usatoday.com/story/news/state/georgia/2026/08/17/no-oss
 <section id="what-happened">
 <h2>What Happened</h2>
 <p>According to reports by USA Today, Senator Jon Ossoff is currently locked in a critical reelection campaign in Georgia against Republican challenger Representative Mike Collins. While Ossoff keeps his focus squarely on local issues, the cost of living, and congressional oversight, national attention has found him anyway. An Emerson College poll released in late July 2026 placed Ossoff at 13 percent in a hypothetical 2028 Democratic presidential primary field, vaulting him into frontrunner status alongside figures like Pete Buttigieg and Gavin Newsom.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>Simultaneously, short-form clips of Ossoff's sharp committee questioning—such as his exchanges with Department of War Secretary Pete Hegseth—have accumulated millions of views across TikTok and other social platforms. Commenters have openly mused about a future presidential run, drawing comparisons to past political styles and generating a wave of digital enthusiasm even as Ossoff reiterates his focus on serving Georgia.</p>
 </section>
@@ -108,25 +105,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

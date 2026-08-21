@@ -22,10 +22,7 @@ source_url: 'https://www.fool.com/investing/2026/08/16/archer-guided-to-a-200-mi
   <p>When an ambitious, pre-revenue aviation startup guides toward a  million quarterly loss while sitting on roughly  billion in cash, simple arithmetic becomes the most important metric on the balance sheet. For <strong>Archer Aviation</strong> (<span class="ncg-ticker">ACHR</span>), its latest second-quarter earnings report and third-quarter outlook lay out a high-stakes timeline: at the top end of management's guidance, the company's remaining cash covers approximately eight quarters, or two years, of operations.</p>
 
   <p>That math turns the ticking clock into the company's most formidable competitor. While Wall Street is busy scrutinizing flight tests, regulatory milestones, and defense partnerships, the underlying financial mechanics dictate whether the electric vertical takeoff and landing (eVTOL) pioneer will reach commercial profitability before its runway runs dry.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -150,29 +147,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

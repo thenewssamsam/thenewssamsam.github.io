@@ -24,10 +24,7 @@ source_url: 'https://deadline.com/2026/08/trump-yells-at-cnn-reporter-north-kore
   <section id="psychology-perspective">
     <h2>A Psychological Perspective: The Mechanics of Deflection</h2>
     <p>In high-pressure environments, public figures—and individuals in general—often employ specific behavioral patterns to regain control of a narrative. When faced with a line of questioning that threatens to derail a preferred message, the brain often defaults to <strong>deflection</strong>. By shifting the focus from the content of the question to the character of the questioner, the individual creates a psychological "pivot" that avoids the discomfort of addressing the original topic.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     
     <div class="ncg-quote-box" style="border-left: 5px solid #6a0dad; padding: 15px; background-color: #f4eef7; margin: 20px 0; border-radius: 5px;">
@@ -76,25 +73,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

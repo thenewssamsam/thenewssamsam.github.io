@@ -151,10 +151,7 @@ source_url: 'https://ca.finance.yahoo.com/news/nike-shares-hit-11-low-174500075.
 
 <h2 id="what-happened">What Happened: The Anatomy of Nike's Drop</h2>
 <p>Nike’s latest stumble was triggered by a combination of soft direct-to-consumer (DTC) sales and a fresh analyst downgrade that rattled Wall Street. As the company works through a fundamental restructuring of its retail business, analysts are projecting muted revenue growth for the upcoming quarter.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>The core challenge is not simply a temporary dip in foot traffic; it is a structural realignment. For years, Nike leaned heavily into its direct-to-consumer model, scaling back relationships with traditional wholesale partners. While this initially boosted margins, it ultimately created friction when consumer demand cooled and innovative product pipelines slowed down. Now, reversing or rebalancing that strategy takes time, capital, and operational patience—three things public markets rarely offer in abundance once momentum turns negative.</p>
 
@@ -246,25 +243,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

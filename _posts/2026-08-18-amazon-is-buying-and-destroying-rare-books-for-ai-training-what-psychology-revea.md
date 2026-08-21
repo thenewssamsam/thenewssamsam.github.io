@@ -130,10 +130,7 @@ source_url: 'https://finance.yahoo.com/technology/ai/articles/amazon-once-online
 <p>Progress often demands a sacrifice, but rarely has the literal physical destruction of human heritage been so quietly optimized for profit. Recent investigative reporting reveals that retail giant Amazon has been quietly purchasing rare books, slicing off their bindings, and feeding their pages into industrial scanners—all to harvest text for training artificial intelligence models.</p>
 
 <p>When an online bookstore born to champion the written word now operates specialized facilities to disintegrate physical volumes for algorithmic consumption, it forces a jarring question. What does our collective willingness to consume our own history say about the psychological state of the modern tech boom?</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 <h2 id="what-happened">What Happened: The Spine-Cutting Reality of AI Data Hunger</h2>
@@ -196,25 +193,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

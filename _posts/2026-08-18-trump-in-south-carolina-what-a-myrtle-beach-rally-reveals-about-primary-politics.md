@@ -23,10 +23,7 @@ source_url: 'https://www.wistv.com/2026/08/17/trump-expected-sc-visit-potential-
 <section class="ncg-intro">
 <p>When a sitting president drops into a state just days before a heated primary runoff, local schedules do not just bend—they snap into a brand-new alignment. That is exactly what happened in South Carolina this week, offering a textbook window into how national political gravity reshapes local elections.</p>
 <p>President Donald Trump is scheduled to visit Myrtle Beach later this week for a campaign rally supporting his endorsed candidate in the state's Republican U.S. Senate primary. The immediate ripple effect? The South Carolina Republican Party announced it was postponing a planned Friday stump event in Anderson County so that both runoff candidates could participate without conflicting with the presidential appearance. It is a striking logistical reminder of how individual political heavyweights can effortlessly command the entire calendar of a state party.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 </section>
 
@@ -150,25 +147,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

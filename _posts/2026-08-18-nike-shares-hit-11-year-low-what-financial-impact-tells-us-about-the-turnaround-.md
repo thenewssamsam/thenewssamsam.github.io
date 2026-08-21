@@ -67,10 +67,7 @@ source_url: 'https://ca.finance.yahoo.com/news/nike-shares-hit-11-low-174500075.
     <h2 id="what-happened">What Happened at Nike?</h2>
     <p>Nike Inc. shares tumbled 4.3% on Monday, bringing the stock down to its lowest level since September 2014. This latest slide extends a punishing downward trajectory that has wiped out over  billion in total market capitalization—a staggering 78% drop from the stock's record highs set back in 2021.</p>
     <p>The immediate catalysts behind Monday's decline were soft direct-to-consumer sales figures and a fresh analyst downgrade. Wall Street analysts are projecting that revenue will remain muted next quarter as management continues grinding through a structural reset of its retail business. But beneath the headline percentages lies a deeper story about shifting brand momentum, changing consumer habits, and the difficult math of corporate turnarounds.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
     <h2 id="financial-perspective">The Financial Impact Perspective</h2>
@@ -166,25 +163,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

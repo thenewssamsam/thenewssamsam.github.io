@@ -24,10 +24,7 @@ source_url: 'https://sports.yahoo.com/articles/predicting-2026-preseason-ap-poll
   <h2 id="what-happened">What Happened in the Early 2026 Preseason Forecast</h2>
   <p>The offseason grind is hitting its final stretch, and major checkpoints like the initial Associated Press Top 25 poll are rolling out to frame the narrative for the upcoming season. Recent projections offer an early look at how voters might stack up the nation's elite programs—from perennial powerhouses like Georgia and Notre Dame to rising contenders like Miami, Ole Miss, and Texas Tech, alongside traditional brands looking for a rebound under new coaching staffs.</p>
   <p>While these lists are speculative exercises predicting what the voters <em>will</em> do rather than what teams mathematically <em>should</em> be ranked, they immediately set the tone for the entire autumn. But why do these preliminary lists carry such magnetic appeal for sports fans, even when history shows they are often wildly inaccurate?</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -94,29 +91,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

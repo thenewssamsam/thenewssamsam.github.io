@@ -60,10 +60,7 @@ source_url: 'https://sports.yahoo.com/articles/mlb-news-tommy-john-passes-120000
 <section id="what-happened">
   <p>Legendary Major League Baseball pitcher Tommy John has passed away at the age of 83, marking the end of an era for a man whose name became synonymous with modern sports medicine. While the baseball world mourns the loss of the iconic left-hander, the sports news cycle brings a mix of remarkable milestones and tough updates: from historic MLB debuts by rookies like Joshua Baez and Brett Callahan to injury setbacks for contemporary stars like Hunter Greene and Aaron Judge.</p>
   <p>For most modern sports fans, the name Tommy John lives on in the medical procedure that saved thousands of pitching careers. But long before Dr. Frank Jobe performed the miraculous ligament replacement surgery in 1974, John was a fiercely competitive pitcher who carved out a brilliant 26-year big-league career. His passing invites us to look back not just at a stat line, but at how a single moment of medical innovation altered the trajectory of professional sports forever.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -183,29 +180,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

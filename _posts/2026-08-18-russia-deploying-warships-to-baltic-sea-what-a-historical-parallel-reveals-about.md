@@ -21,10 +21,7 @@ source_url: 'https://www.ukrinform.net/rubric-polytics/4154928-russia-deploying-
   <p>The recent deployment of advanced Russian warships into the Baltic Sea, including the modern frigate <em>Admiral Kasatonov</em> and the destroyer <em>Admiral Levchenko</em>, marks a sharp escalation in regional tensions. Coming directly on the heels of Kremlin leader Vladimir Putin's explicit warnings of "mirror measures" against European nations cracking down on Russia's oil-carrying "shadow fleet," this naval maneuver is more than routine positioning. It is a calculated stress test of European resolve along one of the world's most vital maritime corridors.</p>
 
   <p>For ordinary readers watching headlines unfold, the immediate question is whether this is saber-rattling or the prelude to a broader confrontation. To understand what happens next, it helps to step back and look at how great powers have historically used naval choke points and escort missions to signal dominance and test boundaries.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
   <h2 id="what-happened-in-the-baltic-sea">What Happened in the Baltic Sea?</h2>
@@ -100,25 +97,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

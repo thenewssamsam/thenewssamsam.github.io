@@ -35,10 +35,7 @@ source_url: 'https://www.houstonchronicle.com/opinion/outlook/article/lawsuit-te
     <h2>What Happened: Inside the Texas Mandate</h2>
     <p>When Audrey Nath joined a lawsuit against the state of Texas over Senate Bill 10, she expected spirited public debate. The legislation requires the Ten Commandments to be displayed in every public school classroom in a size and typeface legible from anywhere in the room. What she did not fully anticipate was the immediate flood of polarized digital reactions—ranging from heartfelt relief among conservative Christian parents to hostile, anonymous direct messages questioning her faith and heritage.</p>
     <p>At the center of this legal battle is a fundamental question of religious pluralism and state authority. While proponents view the display as a foundational pillar of moral guidance and historical heritage, plaintiffs and minority-faith families argue that mandating a specific religious text in a compulsory government space crosses the line from heritage into indoctrination. For Nath, whose children grow up navigating a diverse interfaith family heritage, the poster hanging over her nine-year-old son's desk represents an official state declaration that certain family traditions are unwelcome.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   </section>
 
@@ -131,25 +128,3 @@ Tactical Waterproof Backpack
 .ncg-footer-section a { color: #0056b3; text-decoration: none; }
 .ncg-footer-section a:hover { text-decoration: underline; }
 </style>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

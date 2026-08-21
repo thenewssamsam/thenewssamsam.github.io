@@ -25,10 +25,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/disney-parks-strategy-superfans-maz
   <p>At the recent D23 Expo in Anaheim, California, Thomas Mazloum—the newly appointed chairman of Disney Experiences—took the stage to outline the division's massive ten-year,  billion investment strategy. But amid the headlines about new lands and blockbuster expansions, the biggest cheer of the night went to a creature known affectionately as the "Disco Yeti," a stationary monster inside Animal Kingdom's Expedition Everest that has been trapped under strobe lights since 2006. Mazloum announced it is finally coming back to life.</p>
 
   <p>For a multi-national entertainment conglomerate facing macroeconomic shifts and softening travel trends at rival resorts, reviving a broken ride prop and bringing back classic characters like Figment and Dreamfinder might seem like minor details. But from a behavioral standpoint, these targeted nods to nostalgia are precisely what keep the economic engine humming.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
   <nav class="ncg-toc" aria-label="Table of Contents">
@@ -157,25 +154,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

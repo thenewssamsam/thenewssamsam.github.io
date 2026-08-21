@@ -38,10 +38,7 @@ source_url: ''
 <p>According to air traffic control and airport officials, the American Airlines flight touched down at O'Hare at approximately 2 p.m. on Monday after traveling from New York's LaGuardia Airport. During the landing, a tire in the aircraft's landing gear blew out, triggering a swift and visible emergency response.</p>
 
 <p>NBC's Sky 5 helicopter captured footage of numerous emergency vehicles surrounding the aircraft on the tarmac. However, Chicago fire officials quickly confirmed that there were no signs of smoke, flames, or engine and wing damage, and no passenger medical transports were required. Airport officials noted that no debris was left behind on the runway, and the Chicago Department of Aviation reported no significant flight delays as a result of the incident.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <p>American Airlines confirmed that customers were safely transported back to the terminal via bus, while the aircraft was pulled from service for a comprehensive inspection by maintenance teams. The Federal Aviation Administration (FAA) has announced it will investigate the incident.</p>
@@ -111,25 +108,3 @@ Seagate Portable External Hard Drive
 .ncg-source-section { margin-top: 1.5rem; font-size: 0.9rem; }
 </style>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

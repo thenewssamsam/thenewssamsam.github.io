@@ -34,10 +34,7 @@ source_url: 'https://www.theguardian.com/football/2026/aug/16/arsenal-manchester
     <h2>What Happened in Cardiff?</h2>
     <p>If the opening match of the English football season was any indication of the new footballing order, the rest of the Premier League has a massive financial and tactical gap to close. In a dominant 3-0 victory over Manchester City at the Principality Stadium in south Wales, Mikel Arteta’s Arsenal side left little doubt about who enters the new campaign as the title favorites.</p>
     <p>Riccardo Calafiori opened the scoring within the first 20 seconds, set up by teenage midfielder Myles Lewis-Skelly. Kai Havertz added a second before half-time following a brilliant buildup involving Martin Ødegaard and new signing Christos Tzolis. Ødegaard capped off the rout in the second half by sitting down goalkeeper Gianluigi Donnarumma for the third. For Enzo Maresca’s City, stepping into the post-Pep Guardiola era proved to be an immediate baptism of fire.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -115,29 +112,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

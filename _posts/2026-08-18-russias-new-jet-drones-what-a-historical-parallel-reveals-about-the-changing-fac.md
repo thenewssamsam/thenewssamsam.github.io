@@ -38,10 +38,7 @@ source_url: 'https://www.kyivpost.com/post/82524'
     <h2>What Happened: The Shift to Jet Drones</h2>
     <p>According to reports from RBC-Ukraine and military analyst Anton Zemlyanyi of the Ukrainian Center for Security and Cooperation, Moscow is increasingly turning to mass-produced jet-powered and missile drones to bypass existing air defense networks. As the effectiveness of slow, conventional Shahed drones declines in large-scale aerial assaults, newer systems like the Geran-4, Geran-5, and Banderol missile drones are stepping into the spotlight.</p>
     <p>The primary attraction of these new weapons is simple physics: speed. Traditional propeller drones give defenders ample time to detect, track, and position mobile fire teams or interceptor assets. Faster jet-powered systems compress that crucial decision-making window, threatening to penetrate deeper into defensive layers before interceptors can engage.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>Yet, military expert Oleh Katkov, editor-in-chief of Defense Express, points out that these weapons occupy an awkward middle ground. They are faster and potentially cheaper than full-fledged cruise missiles, but they lack the sophisticated navigation, electronics, and heavy warhead capabilities of traditional missiles. They are also significantly harder and more expensive to manufacture than standard Shaheds, relying heavily on complex jet engines imported or sourced from overseas networks.</p>
   </section>
@@ -108,25 +105,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

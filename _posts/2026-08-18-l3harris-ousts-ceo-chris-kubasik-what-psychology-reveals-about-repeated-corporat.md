@@ -33,10 +33,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defe
 <section id="what-happened">
     <h2>What Happened at L3Harris</h2>
     <p>On a Sunday in August 2026, the board of directors at L3Harris Technologies made a high-stakes decision: they ousted CEO and Chairman Chris Kubasik after an independent investigation revealed conduct "not consistent with the values of the Company." Shares of the major defense contractor dropped more than 4% immediately following the announcement.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>According to reports from outlets like Semafor, the probe centered on an inappropriate relationship with an employee. The company was quick to clarify in its regulatory filings that the ouster was entirely unrelated to financial reporting, accounting controls, or operational performance. To steady the ship, the board elevated Sam Mehta—formerly president of the Space & Mission Systems and Communications & Spectrum Dominance segments—to the role of president and CEO.</p>
     <p>Yet, what makes this news compelling isn't merely the boardroom shakeup at a defense titan handling critical national security contracts. It is the eerie historical echo: back in 2012, Kubasik was forced to resign as president and COO of Lockheed Martin under nearly identical circumstances, just weeks before stepping into the chief executive role there.</p>
@@ -158,25 +155,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

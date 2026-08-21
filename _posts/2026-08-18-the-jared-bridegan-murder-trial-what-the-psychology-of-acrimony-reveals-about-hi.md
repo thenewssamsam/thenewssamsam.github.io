@@ -35,10 +35,7 @@ source_url: 'https://www.nbcnews.com/news/us-news/man-charged-arranging-fatal-am
     <h2>What Happened: The Jacksonville Beach Ambush</h2>
     <p>More than four years after a Microsoft design manager was gunned down in a quiet Florida neighborhood, the legal reckoning is finally underway. Mario Fernandez Saldana, 38, faces a first-degree murder trial in Duval County court for allegedly orchestrating the 2022 murder-for-hire plot against 33-year-old Jared Bridegan. Bridegan's former wife, Shanna Gardner, 39, faces her own trial in September, while the alleged gunman, Henry Tenon, awaits a separate trial after withdrawing a previous guilty plea.</p>
     <p>Investigators state that the horrific ambush took place shortly after Bridegan dropped off his 9-year-old twins at Gardner's home following a regular routine. As Bridegan drove back to St. Augustine with his 2-year-old toddler strapped securely in the backseat, a tire deliberately placed in the middle of a dark road forced him to stop. When he stepped out of his vehicle to move it, he was shot multiple times.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>According to court filings and evidence summarized by judges during bond hearings, investigators uncovered years of festering hostility following Bridegan and Gardner's 2015 divorce. What began as standard post-marital friction over parenting arrangements allegedly devolved into deep-seated hatred, culminating in a financial arrangement to end Bridegan's life.</p>
   </section>
@@ -99,25 +96,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

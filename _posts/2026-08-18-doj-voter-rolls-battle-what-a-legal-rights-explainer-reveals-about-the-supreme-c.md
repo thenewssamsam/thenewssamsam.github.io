@@ -26,10 +26,7 @@ source_url: 'https://www.democracydocket.com/news-alerts/attorney-general-blanch
   <p>The conflict centers on an aggressive Department of Justice campaign targeting state election infrastructure. Over the past several months, the DOJ has filed lawsuits against 30 states in an effort to compel election officials to hand over unredacted, private voter registration lists. According to the administration, the federal government needs these records to investigate claims of noncitizen voting and to purge ineligible names from active rolls.</p>
 
   <p>Yet, the executive branch has hit a nearly unbroken wall of judicial pushback. On Friday, the DOJ suffered its 22nd district court defeat in a lawsuit against Nevada. To date, not a single federal judge has sided with the administration’s core legal theory. These rulings span across political lines, with judges appointed by both Democratic and Republican administrations rejecting the federal government’s demands.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -100,29 +97,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

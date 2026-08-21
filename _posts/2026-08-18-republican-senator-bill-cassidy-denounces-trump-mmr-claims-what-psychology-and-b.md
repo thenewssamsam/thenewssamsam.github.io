@@ -58,10 +58,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/16/republican-senator-
       <h2>What Happened: The Cassidy-Trump Clash</h2>
       <p>In a striking weekend interview on CNN, Senator Bill Cassidy—a trained medical doctor whose primary defeat ended his Senate career—did not mince words regarding recent policy shifts. Responding to announcements that recommended childhood vaccination schedules face restructuring, Cassidy called claims labeling the combined measles, mumps, and rubella (MMR) vaccine "sort of like a nuclear weapon" both absurd and potentially dangerous.</p>
       <p>The policy shift in question involves altering guidance to split combined MMR shots into six separate doses administered across multiple visits, alongside revisions to public health messaging regarding long-standing scientific consensus. Cassidy, who previously chaired the Senate health committee, argued that the real-world friction of tripling medical visits and increasing logistical hurdles for families would inevitably depress immunization rates and drive up healthcare costs.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -137,29 +134,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

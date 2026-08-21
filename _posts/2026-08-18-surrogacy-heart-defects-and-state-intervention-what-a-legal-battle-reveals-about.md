@@ -40,10 +40,7 @@ source_url: 'https://www.nbcnews.com/news/us-news/newborn-heart-condition-center
   <h2>What Happened</h2>
   <p>A multistate legal battle centered around a newborn baby with a serious congenital heart condition reached a milestone when the infant underwent successful surgery in Texas, according to attorneys representing the child's biological parents.</p>
   <p>The infant, named Rumi, was born to surrogate McKenna West in Texas. In utero, Rumi was diagnosed with hypoplastic left heart syndrome (HLHS), a rare and severe congenital defect resulting from the underdevelopment of the left side of the heart. According to reporting by NBC News, the case quickly escalated beyond a private family matter into a complex legal and political dispute.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   <p>West alleged that the biological parents, Omar Ahmed and Nausheen Gilkar, repeatedly pressured her to terminate the pregnancy after the fetal abnormality was discovered. Conversely, a legal response filed by the parents in Alaska claimed West was clear and knowing in her intention to abide by termination requests if severe abnormalities arose. Before Rumi's birth, Texas Attorney General Ken Paxton intervened, filing a motion asking a state court to order doctors to perform lifesaving surgery, alleging the biological parents might refuse care—an accusation the parents strongly denied, stating they had already arranged specialized treatment in California.</p>
   <p>Rumi successfully underwent a complex palliative heart surgery known as a Norwood procedure. While the infant recovers, legal skirmishes continue, particularly regarding ongoing custody claims filed by West that the parents' attorney has called baseless.</p>
@@ -116,25 +113,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

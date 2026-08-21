@@ -35,10 +35,7 @@ source_url: ''
 <section id="what-happened">
 <h2>What Happened in the Bond Market</h2>
 <p>According to CNBC reporting, Treasury yields climbed across the board on Monday as investors digested a potent mix of geopolitical tensions and domestic fiscal concerns. The benchmark 30-year Treasury yield advanced more than 4 basis points to hit 5.311%. Meanwhile, the 10-year Treasury note yield—which dictates the baseline for mortgages, auto loans, and credit card debt—rose more than 2 basis points to 4.724%.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>Short-term yields also ticked upward. The 2-year Treasury note yield, which typically moves in lockstep with Federal Reserve short-term rate decisions, rose more than 1 basis point to 4.182%. These upward movements occurred despite three separate recent economic releases pointing toward cooler inflation, demonstrating that bond investors are currently responding to forces far beyond the monthly Consumer Price Index reports.</p>
 </section>
@@ -134,25 +131,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

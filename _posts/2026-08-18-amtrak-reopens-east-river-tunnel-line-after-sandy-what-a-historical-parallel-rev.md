@@ -24,10 +24,7 @@ source_url: 'https://abc7ny.com/post/amtrak-reopens-east-river-tunnel-line-damag
 
 <h2 id="what-happened">What Happened: The Line 2 Reopening</h2>
 <p>Amtrak marked the milestone with a ceremonial reopening celebration at Penn Station, highlighting the completion of a yearlong total closure of Line 2. The 116-year-old tunnel system, which opened in 1910, carries more than 450 Amtrak, LIRR, and NJ Transit trains daily.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>The rehabilitation project stripped the heavily damaged tube down to its bare concrete liner. Crews installed entirely new tracks, advanced drainage systems, modernized power grids, modern communications equipment, and state-of-the-art life safety systems. Senator Chuck Schumer, who secured  billion in federal funding for the project, noted that Long Island commuters can finally see the light at the end of the tunnel.</p>
 <p>While the closure temporarily slashed LIRR capacity by 20% and sparked friction between transit leaders—with the MTA pushing for night-and-weekend-only work that engineers warned would have stretched the timeline by years—Line 2 is now fully operational. Attention now turns to Line 1, with rehabilitation set to begin this fall and run through late 2027.</p>
@@ -175,25 +172,3 @@ article footer {
 }
 </style>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

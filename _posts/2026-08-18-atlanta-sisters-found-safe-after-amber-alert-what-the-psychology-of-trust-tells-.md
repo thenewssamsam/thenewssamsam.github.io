@@ -27,10 +27,7 @@ source_url: 'https://www.fox5atlanta.com/news/search-atlanta-sisters-ages-4-11-m
     <h2>What Happened in the Atlanta Amber Alert</h2>
     <p>For nearly twenty-four hours, the city of Atlanta held its breath. Four-year-old Zola Cooper and her 11-month-old sister, Norah Cooper, became the center of an intensive, high-stakes Amber Alert after disappearing with their babysitter, Lakesha Brown (also known in reports as Keisha Brown).</p>
     <p>The ordeal began when their mother, Elica Redding, who had connected with Brown through an online mom group offering free services for expecting mothers, left her children in Brown's care on a Saturday night. When the children were not returned, excuses about a fictitious car accident began rolling in via text message. Soon, communication severed entirely.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>As anxiety spiked, the Atlanta Police Department mobilized multiple units, including the homicide and fugitive divisions, recognizing the terrifying reality that the children were in extreme danger. Technology, combined with crucial tips from observant local residents in the Sylvan Road area, pointed officers toward a trailer park. Cutting through the silence of the search, officers heard the unmistakable sound of a baby crying. Executing an exigent entry, they found both girls safe inside, alongside the suspect, who was promptly taken into custody.</p>
   </section>
@@ -120,25 +117,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

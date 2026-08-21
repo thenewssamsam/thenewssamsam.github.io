@@ -34,10 +34,7 @@ source_url: 'https://www.theguardian.com/world/2026/aug/16/lula-brazil-president
 <p>At 80 years old, Brazilian President Luiz Inácio Lula da Silva has officially launched his campaign for a historic fourth term, framing the upcoming October election as a fundamental battle for the soul of South America's largest democracy. Standing before a roaring crowd in São Bernardo do Campo—the industrial heartland where his political journey began nearly half a century ago—Lula vowed to block the return of what he termed a "shameless" far-right movement.</p>
 
 <p>Yet, this election is about much more than a clash of personalities between an aging political icon and Flávio Bolsonaro, the senator son of jailed former President Jair Bolsonaro. It is a high-stakes referendum on democratic resilience, economic direction, and an increasingly assertive United States foreign policy in the Western Hemisphere.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -80,29 +77,3 @@ Seagate Portable External Hard Drive
 <strong>Source:</strong> <a href="https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro" target="_blank" rel="noopener noreferrer">Original News Report from The Guardian</a>
 </div>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

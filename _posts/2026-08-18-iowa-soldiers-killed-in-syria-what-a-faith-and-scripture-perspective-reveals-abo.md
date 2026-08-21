@@ -129,10 +129,7 @@ source_url: 'https://www.kcci.com/article/iowa-soldiers-killed-in-syria-honored-
 <h2 id="what-happened">What Happened in Syria and Iowa</h2>
 <p>Secretary of Defense Pete Hegseth traveled to the Iowa State Fairgrounds to participate in a Republican fundraiser hosted alongside congressional candidates Zach Nunn and Ashley Hinson. The visit carried heavy emotional weight, serving as a formal tribute to Staff Sgt. William Nathaniel Howard and Staff Sgt. Edgar Brian Torres-Tovar.</p>
 <p>The two Iowa National Guard soldiers were shot and killed by a lone ISIS gunman while deployed in Syria. According to military reports, their deaths mark the first time members of the Iowa National Guard have died in action since 2011. Hegseth’s visit had originally been scheduled for March but was postponed due to escalating tensions and conflict with Iran.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>During the event at JR's South Pork Ranch, leaders and family members spoke candidly about the sacrifices made by ordinary citizens who step into extraordinary danger in defense of their country.</p>
 
@@ -194,25 +191,3 @@ Source: <a href="https://www.kcci.com/article/iowa-soldiers-killed-in-syria-hono
 </script>
 </div>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

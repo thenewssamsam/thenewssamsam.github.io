@@ -35,10 +35,7 @@ source_url: ''
 <section>
     <h2 id="what-happened">What Happened</h2>
     <p>According to local reports from ABC7, Los Angeles residents Omar Ahmed and Nausheen Gilkar hired McKenna West to act as their surrogate. During the course of the pregnancy, the fetus was diagnosed with hypoplastic left heart syndrome, a severe and life-threatening congenital heart condition.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>A profound disagreement arose over the medical path forward. The intended parents reportedly wanted to terminate the pregnancy. Instead, West, who resides in Alaska, traveled to Texas and gave birth to the baby, whom the couple named Rumi (while anti-abortion activists have referred to the infant as "Baby Gabriel"). Following the birth, custody was transferred to Ahmed and Gilkar.</p>
     <p>In a statement released by the couple's attorney, Lee Budner, it was announced that infant Rumi recently underwent his first of three complex palliative heart surgeries. The attorney stated that the intended parents immediately provided consent for the procedure at the hospital's earliest availability, and the child is now recovering in critical condition while his family requests privacy.</p>
@@ -107,25 +104,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

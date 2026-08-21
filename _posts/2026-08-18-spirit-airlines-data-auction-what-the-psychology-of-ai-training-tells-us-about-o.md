@@ -106,10 +106,7 @@ source_url: 'https://gizmodo.com/spirit-airlines-is-dead-but-its-data-will-haunt
 
     <h2 id="what-happened">What Happened in the Spirit Airlines Auction?</h2>
     <p>When a corporation collapses, its physical assets are typically liquidated—airplanes get sold off, office equipment is auctioned, and real estate leases are broken. But in the modern digital economy, a company&apos;s most enduring residue is intangible. According to documents on the U.S. Bankruptcy Court docket for the Southern District of New York, Google&apos;s purchase included more than 100 million company emails, 500 million Microsoft Teams chats, 30 million lines of code, development metadata, and operational logs.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>Crucially, consumer protection boundaries held firm in this particular auction: customer profiles and frequent flyer loyalty records totaling nearly 150 million files were excluded from the sale. Google also noted that enterprise datasets would be scrubbed of personally identifiable information by a third party before receipt. Even so, the sheer volume of internal corporate chatter—half a billion chat messages and millions of emails—now belongs to a tech giant aiming to feed its hungry AI algorithms.</p>
 
@@ -151,25 +148,3 @@ Seagate Portable External Hard Drive
     </script>
   </div>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

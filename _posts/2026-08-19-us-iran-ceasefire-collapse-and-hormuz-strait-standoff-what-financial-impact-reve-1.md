@@ -24,10 +24,7 @@ source_url: "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceas
 
   <h2 id="what-happened">What Happened in the Strait of Hormuz</h2>
   <p>The latest escalation stems from a rapid breakdown in U.S.-Iran diplomacy. On Monday, President Trump ruled out extending a 60-day ceasefire agreement that had effectively been abandoned by both sides. Just a day later, Trump contradicted his previous statements by asserting on Truth Social that no talks are scheduled with the Islamic Republic, declaring that the U.S. naval blockade remains in full force.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   
   <p>Adding to the tension, air defenses in the United Arab Emirates detected two ballistic missiles launched from Iran, with one falling outside territorial waters and another within them. Meanwhile, maritime traffic through the Strait of Hormuz—a vital economic chokepoint through which 20% of the world's oil trade flowed before the war—has dwindled to a trickle. Ship-tracking data from Kpler revealed that just three vessels transited the strait on Sunday.</p>
@@ -91,25 +88,3 @@ Tactical Waterproof Backpack
     <p>Source: <a href="https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html" target="_blank" rel="noopener noreferrer">Original News Report</a></p>
   </footer>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

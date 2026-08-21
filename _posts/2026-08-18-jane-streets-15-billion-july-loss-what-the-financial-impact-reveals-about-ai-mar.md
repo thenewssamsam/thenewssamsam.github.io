@@ -36,10 +36,7 @@ source_url: 'https://finance.yahoo.com/markets/stocks/articles/jane-street-15-bi
     <h2>What Happened: A Record-Breaking Month in Reverse</h2>
     <p>For elite proprietary trading firm Jane Street, July delivered a milestone nobody in the building wanted to see. According to reports from Reuters, the firm suffered a staggering  billion hit during the month, driven primarily by its stake in an AI-focused hedge fund and a broad retreat in technology stocks. For a firm whose trading revenue had not dropped into negative territory for a single month since 2016, the reversal caught the market's attention.</p>
     <p>In a memo to employees, executives described July simply as a "bad month." Part of the damage stemmed from a steep drawdown at Situational Awareness, an externally managed, AI-focused hedge fund that had enjoyed phenomenal success in the first half of the year. Yet the pain was not confined to a single fund or a lone asset class. Jane Street confirmed that hedges put in place to protect the portfolio offered little defense, largely because the losses accumulated steadily throughout the month rather than arriving in a single, easily hedgeable shock. Long bets on Asian equities outside the artificial intelligence sector also turned sour, compounding the pressure.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>Despite the massive single-month setback, Jane Street's cumulative trading revenue for the year had already pushed past  billion, surpassing its total for the entire previous year. In response to the volatility, the firm wound down a substantial share of its exposure to the damaged positions and adopted a more cautious posture across its entire book.</p>
   </section>
@@ -108,25 +105,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

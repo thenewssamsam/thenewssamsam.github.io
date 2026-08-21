@@ -26,10 +26,7 @@ source_url: ''
   <p>According to reports confirmed by CNBC, Anthropic shared its updated financial metrics with investors over the weekend, revealing an annualized revenue run rate of  billion at the end of July. This latest milestone follows a confidential prospectus filing with the Securities and Exchange Commission (SEC) in June as the creator of Claude gears up for a blockbuster initial public offering (IPO).</p>
   
   <p>In addition to the headline run-rate figure, the company disclosed a preliminary second-quarter revenue figure of  billion—a 14-fold jump compared to the same period a year prior. For context, these figures dwarf Anthropic's financial standing in May, when its run rate topped  billion, and stand in sharp contrast to the roughly  billion the company generated across all of 2025. For comparison, chief rival OpenAI recently reported an annualized revenue run rate of  billion.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
   <p>Yet, this meteoric financial climb is unfolding against a backdrop of corporate turbulence. Anthropic is currently working to justify its massive  billion valuation while navigating export control directives, temporary model shutdowns, and a strained relationship with federal authorities that included a brief Pentagon blacklist earlier in the year.</p>
@@ -94,25 +91,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

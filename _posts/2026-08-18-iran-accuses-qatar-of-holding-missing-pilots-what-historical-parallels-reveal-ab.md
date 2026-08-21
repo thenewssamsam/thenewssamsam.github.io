@@ -63,10 +63,7 @@ p { margin-bottom: 16px; color: #334155; }
 
 <h2 id="what-happened">What Happened: The Dispute Over the Sukhoi Su-24 Pilots</h2>
 <p>The controversy stems from an incident early in the ongoing US-Iran conflict when Qatari forces shot down Iranian Sukhoi Su-24 bombers operating in the region. According to reports from the <em>Wall Street Journal</em> and the <em>New York Times</em>, Tehran is now insisting that three crew members who survived ejection—identified as Javad Salehi, Abdolmajid Dashtian, and Omran Behraveshian—are alive and being held in secret detention by Doha. Iran has formally asked the International Committee of the Red Cross (ICRC) to visit them.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>Qatar flatly rejects the accusation. Doha maintains that it recovered only one body—identified as pilot Majid Kazemi—and immediately mounted search-and-rescue operations for the remaining crew members. Furthermore, Qatari officials state they invited Iranian counterparts to review the physical evidence and attempted to coordinate the return of Kazemi's remains, an offer they claim Tehran ignored.</p>
 <p>Timing compounds the tension. This friction surfaces just as Qatar is attempting to mediate stalled negotiations between the United States and Iran regarding the reopening of the Strait of Hormuz—a maritime chokepoint through which a significant portion of global oil shipments passes.</p>
@@ -177,25 +174,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

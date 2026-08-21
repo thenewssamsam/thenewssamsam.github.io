@@ -23,10 +23,7 @@ source_url: ''
 <p>When billionaire sports mogul Mark Walter agreed to sell the Los Angeles Lakers for a staggering  billion just 14 months after purchasing the iconic franchise, sports fans were stunned. But behind the headline-grabbing price tag and the involvement of buyers like former Disney CEO Bob Iger and Thrive Capital founder Joshua Kushner lies a more complex, high-stakes story: a sprawling financial empire facing federal scrutiny over insurance disclosures, asset reclassifications, and off-channel communications.</p>
 
 <p>For years, Walter maintained an unassuming profile despite controlling sports teams like the Los Angeles Dodgers, Premier League club Chelsea FC, and the WNBA’s Los Angeles Sparks through his holding company, TWG Global, and financial firm Guggenheim Partners. Now, federal investigations by the U.S. Attorney’s Office for the Southern District of New York, the FBI, and the SEC have thrust his complex financial machinery into an unaccustomed spotlight. Understanding this story requires looking past the stadium lights and examining the underlying financial mechanics that govern large-scale holding companies, insurance portfolios, and regulatory compliance.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 <h2 id="what-happened">What Happened: The Lakers Sale Meets Federal Grand Jury Subpoenas</h2>
@@ -101,25 +98,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

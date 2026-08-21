@@ -36,10 +36,7 @@ source_url: 'https://sports.yahoo.com/videos/corbin-carroll-addresses-ketel-mart
     <h2>What Happened: A Chaotic Pregame in Arizona</h2>
     <p>In professional sports, routine is everything. Batting practice schedules, pregame meetings, stretching routines, and defensive positioning are mapped out to the minute. But on August 17, the Arizona Diamondbacks experienced a stark reminder that life—and professional athletics—can pivot on a dime.</p>
     <p>Following a tough rout by the Boston Red Sox, the Diamondbacks placed star infielder Ketel Marte on the restricted list after he failed to report to the game. Pregame warmups were thrown into immediate disarray as coaches and players waited for updates not only on Marte’s status but also on teammate Nolan's availability. In the middle of the scramble, young outfielder Corbin Carroll stepped up to address reporters, offering a candid glimpse into the surreal and unsettling nature of a clubhouse caught off guard.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   </section>
 
@@ -99,25 +96,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

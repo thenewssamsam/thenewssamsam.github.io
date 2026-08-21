@@ -37,10 +37,7 @@ source_url: ''
   <p>The legal showdown between Meta and a coalition of state attorneys general has officially moved to the courtroom stage in the U.S. District Court for the Northern District of California in Oakland. Following jury selection and Judge Yvonne Gonzalez Rogers denying Meta's motion to dismiss, opening statements kick off a high-stakes trial expected to run four to six weeks.</p>
 
   <p>The lawsuit, initially filed in 2023 by attorneys general from states including California, Colorado, Kentucky, and New Jersey, alleges that Facebook and Instagram were intentionally engineered to be addictive for young users. The states claim Meta downplayed known mental health risks and violated laws regarding the collection of minors' data. Among the most anticipated moments of the proceedings is the expected testimony of Meta CEO Mark Zuckerberg.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
   <p>Meta has consistently denied wrongdoing, maintaining that its platforms do not cause the harms alleged. A central pillar of Meta's defense is that "social media addiction" is not an officially recognized clinical psychiatric diagnosis—a distinction that will likely form a major battleground between expert witnesses.</p>
@@ -101,25 +98,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -33,10 +33,7 @@ source_url: 'https://www.npr.org/2026/08/16/nx-s1-5934670/indiana-flooding-death
 <h2 id="what-happened-in-indiana" style="font-size: 1.5rem; font-weight: 600; color: #2d3748; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.4rem; margin-bottom: 1rem;">What Happened in Indiana</h2>
 <p>Over a three-day span beginning August 11, 2026, severe storms dropped unprecedented amounts of rainfall across multiple counties in Indiana. Portions of the state absorbed more than 11 inches of rain, pushing rivers like the White River in Anderson to record levels of 24.9 feet. Indianapolis Mayor Joe Hogsett noted that the city experienced its most severe flooding in more than 30 years.</p>
 <p>The human toll has been sobering. At least seven people across multiple counties lost their lives in incidents related to the historic weather event. Furthermore, local utility NIPSCO reported that over 128,000 customers were left without power as floodwaters surged. In response to the crisis, President Donald Trump approved an emergency declaration for Indiana, authorizing FEMA to support ongoing recovery efforts.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -92,29 +89,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

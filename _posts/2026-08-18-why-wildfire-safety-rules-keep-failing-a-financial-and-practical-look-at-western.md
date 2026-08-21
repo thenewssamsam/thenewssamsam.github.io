@@ -35,10 +35,7 @@ source_url: 'https://www.npr.org/2026/08/17/nx-s1-5923975/wildfires-western-comm
     <h2>What Happened: The Battle Over Wildfire Codes</h2>
     <p>When two separate wildfires threatened Dave Kokot's Spokane, Washington neighborhood, he packed up family keepsakes as a precaution. But Kokot, a retired fire protection engineer with the Spokane Fire Department, was remarkably calm about the house itself. He had outfitted his home with fire-resistant siding, cleared flammable brush from the perimeter, and ensured tree branches stayed safely away from his roof. He knew his home had given itself the best possible fighting chance.</p>
     <p>Most homeowners are not as prepared. As climate conditions fuel hotter, faster, and more unpredictable blazes across the Western United States, communities are realizing that traditional firefighting resources alone cannot stop massive walls of flame. The primary driver of rapid home destruction during wildfires isn't necessarily a wall of fire touching every wall—it is the storm of tiny, burning embers carried miles ahead by howling winds, landing on roofs, decks, and dry pine needles right next to exterior walls.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -111,29 +108,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

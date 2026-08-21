@@ -25,10 +25,7 @@ source_url: "https://www.nbcnews.com/world/asia/south-korean-president-urges-str
     <p>The security landscape in East Asia shifted sharply this week as U.S. Forces Korea commander Gen. Xavier Brunson visited South Korea's Defense Ministry. The visit followed directives from President Donald Trump instructing the Pentagon to substantially reduce joint military exercises, citing ongoing outreach and responses from North Korean leader Kim Jong Un.</p>
     
     <p>In response to these developments, South Korean President Lee Jae Myung called for a significant strengthening of the nation's independent defense capabilities during a Cabinet meeting. Emphasizing that a strong alliance and self-reliance are mutually reinforcing, Lee announced that Seoul intends to proceed without disruption with the planned transfer of wartime operational control from the United States. He also urged faster progress on domestic defense initiatives, including a nuclear-powered submarine program and enhanced integrated operations training.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   </section>
 
@@ -101,25 +98,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

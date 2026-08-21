@@ -35,10 +35,7 @@ source_url: 'https://apnews.com/article/midterms-florida-trump-debbie-wasserman-
 <section id="what-happened">
 <h2>What Happened: A Scrambled Map and a Crowded Primary</h2>
 <p>In Tamarac, Florida, the primaries are bringing underlying political tensions to a boil. Wasserman Schultz, a former national party chair with decades of political capital, found herself crossing district lines after Republican mapmakers scrambled Florida's congressional boundaries following the U.S. Supreme Court's decisions weakening the Voting Rights Act.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -82,29 +79,3 @@ Seagate Portable External Hard Drive
 <p style="font-size:14px; color:#6b7280; margin-top:20px;">Source: <a href="https://apnews.com/article/midterms-florida-trump-debbie-wasserman-schultz-72997f3c390437a7f33dc4134736d324" target="_blank" rel="noopener noreferrer">Original News Report</a></p>
 </footer>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

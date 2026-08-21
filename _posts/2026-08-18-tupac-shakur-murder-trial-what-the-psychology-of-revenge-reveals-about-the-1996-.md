@@ -32,10 +32,7 @@ source_url: ''
 <h2>What Happened in Court</h2>
 <p>Nearly thirty years after the world lost one of its most influential musical voices, a Las Vegas courtroom is stepping back into the tense, neon-lit nights of September 1996. The long-dormant murder case of Tupac Shakur has officially reached trial, with prosecutors pointing squarely at former gang leader Duane "Keffe D" Davis as the orchestrator of a retaliatory drive-by shooting.</p>
 <p>Shakur was just 25 years old when he was fatally shot following a Mike Tyson boxing match on September 7, 1996. He died six days later. For decades, the case remained one of modern music's most infamous unsolved mysteries, bogged down by distrust in law enforcement, a pervasive street code of silence, and institutional dead ends.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>Now, prosecutors allege that Davis acted as the "on-ground, on-site commander" who organized the killing to avenge a physical altercation involving his nephew, Orlando Anderson, earlier that evening. While Davis did not pull the trigger, the state argues he acquired the weapon and passed it to Anderson. Davis has pleaded not guilty, and his defense team has fiercely pushed back, dismissing the prosecution's heavy reliance on Davis's 2019 memoir and interviews as "fiction" manufactured to sell books, while criticizing decades-old police work.</p>
 <p>Yet beyond the legal arguments and the battle over memoirs, the trial forces a hard look at a darker, more universal human dynamic: why the instinct for revenge can override all self-preservation.</p>
@@ -135,25 +132,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

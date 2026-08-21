@@ -19,10 +19,7 @@ source_url: 'https://apnews.com/article/indonesia-flores-earthquake-landslide-ec
 <p>When a powerful 7.7 magnitude earthquake struck the Indonesian island of Flores on Saturday morning, it shattered thousands of homes and instantly transformed national Independence Day celebrations into a frantic humanitarian effort. For families in the hardest-hit regions like Manggarai regency, the holiday marked not by parades, but by the quiet trauma of camping under tarpaulin tents and waiting for relief supplies.</p>
 
 <p>Disasters of this scale do not just destroy infrastructure; they upend the delicate routines that make children feel safe. Behind the staggering statistics—68 lives lost, more than 4,500 homes damaged, and roughly 19,000 people displaced—lie thousands of living rooms turned to rubble and parents trying to keep their composure while sleeping on the ground.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -102,29 +99,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

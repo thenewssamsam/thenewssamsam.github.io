@@ -25,10 +25,7 @@ source_url: 'https://uk.finance.yahoo.com/news/stripe-seven-billon-dollar-openro
     <p>In mid-August, the technology sector witnessed a breathtaking flurry of consolidation. Just as SpaceX finalized its acquisition of AI coding tool Cursor for a staggering  billion, financial headlines pivoted to another blockbuster deal: payment titan Stripe reportedly agreeing to acquire AI model routing startup OpenRouter for between  billion and  billion.</p>
     
     <p>Only three months prior, OpenRouter had closed a Series B funding round at a  billion valuation. In roughly 90 days, its perceived market value multiplied by more than five times. To understand this astronomical price tag, we have to look past the hype of artificial intelligence and examine the hard financial mechanics of routing, infrastructure tollbooths, and margin capture.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   </section>
 
@@ -102,25 +99,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

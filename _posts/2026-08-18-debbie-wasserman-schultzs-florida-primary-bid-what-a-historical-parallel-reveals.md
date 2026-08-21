@@ -25,10 +25,7 @@ source_url: 'https://www.ms.now/news/debbie-wasserman-schultz-florida-primaries-
   <p>Following aggressive midcycle redistricting by Republicans—designed to claw back seats in the wake of Supreme Court shifts and Voting Rights Act rollbacks—longtime Democratic Representative Debbie Wasserman Schultz found her current district leaning more conservative. Rather than risk a tough general election or battle in her home base, the former DNC chair launched a bid for Florida’s 20th Congressional District.</p>
   
   <p>The catch? The 20th District, based in southeastern Florida, has been represented by a Black lawmaker since the early 1990s, beginning with the late Rep. Alcee Hastings and more recently Rep. Sheila Cherfilus-McCormick. Wasserman Schultz, who is white, enters a crowded Democratic primary competing against four Black candidates. Local leaders, including the Broward County Democratic Black Caucus and the Florida Legislative Black Caucus, have blasted the move as tone-deaf and disrespectful, arguing that it threatens hard-fought minority representation at a time when Black voting power is already under siege nationwide.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -81,29 +78,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -39,10 +39,7 @@ source_url: "https://www.cnbc.com/2026/08/18/trump-south-korea-military-exercise
     <h2>What Happened? The Decision Behind the Drills</h2>
     <p>South Korean President Lee Jae Myung announced that the nation must brace for a "worst-case scenario" following an unexpected directive from Washington. U.S. President Donald Trump instructed Defense Secretary Pete Hegseth to "substantially reduce" the ongoing Ulchi Freedom Shield joint military exercises involving approximately 18,000 South Korean personnel.</p>
     <p>Writing on social media, Trump pointed to his relationship with North Korean leader Kim Jong Un, whom he described as "unthreatening and respectful," arguing that large-scale drills send an "inappropriate and hostile" signal. At the same time, Trump explicitly linked the policy shift to broader geopolitical frustrations, accusing Seoul of failing to assist the United States in a military operation concerning Iran while American troops guard the Korean Peninsula.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>While South Korean officials emphasize that the defensive exercises are vital for national readiness, analysts like Victor Cha of the Center for Strategic and International Studies note that Trump has historically treated military drills as diplomatic instruments—both to entice Pyongyang back to the negotiating table and to pivot away from mounting frustrations elsewhere in the world.</p>
 </section>
@@ -110,25 +107,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

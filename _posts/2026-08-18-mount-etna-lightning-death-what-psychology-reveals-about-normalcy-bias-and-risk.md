@@ -26,10 +26,7 @@ source_url: 'https://apnews.com/article/italy-mount-etna-tourist-lightning-strik
   <p>According to reports from Italian firefighters, the young man from Kansas was hiking in an exposed, barren area on the slopes of Europe's largest active volcano on Sunday evening. The region had recently experienced intense volcanic activity, which had even forced the closure of the nearby Catania airport for most of the previous week.</p>
   
   <p>Rescuers airlifted the hiker via helicopter from the Rocca Capra area, situated at roughly 1,400 meters (nearly 4,600 feet) elevation, but medical personnel ultimately pronounced him dead at the scene. While local authorities had restricted access to certain sections of the volcano due to its prolonged geological rumblings, it remained unclear whether the hiker had ventured into a closed zone. Interestingly, local officials noted a sobering statistical reality: over recent decades, more fatalities have occurred on Etna from sudden lightning strikes than from actual volcanic eruptions, with the last eruption-related deaths dating back to 1987.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
   <div class="ncg-quote-box">
@@ -88,25 +85,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

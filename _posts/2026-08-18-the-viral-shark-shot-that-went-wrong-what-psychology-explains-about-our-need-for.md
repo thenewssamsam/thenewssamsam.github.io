@@ -29,10 +29,7 @@ source_url: 'https://www.cleveland.com/news/2026/08/they-wanted-the-perfect-shar
 <section id="what-happened">
 <h2>What Happened Off the Coast of Brazil</h2>
 <p>The pursuit of digital validation has taken a dangerous turn beneath the waves. A growing number of social media creators and influencers are experiencing shark bites while attempting to capture dramatic underwater footage for their online audiences. Marine scientists are raising urgent alarms, noting that viral aesthetics are subtly shifting how ordinary people view wild marine life.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <p>The conversation gained international attention following an incident involving Brazilian lawyer and social media personality Tayane Dalazen. While participating in a commercial shark-diving excursion off the coast of Brazil, Dalazen reported feeling an unexpected shift before a nurse shark latched onto her thigh. The resulting injuries required medical attention, and the smartphone footage of the encounter quickly spread across platforms, generating millions of views.</p>
@@ -98,25 +95,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

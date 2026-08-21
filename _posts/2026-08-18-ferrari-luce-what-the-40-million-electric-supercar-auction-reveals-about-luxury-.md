@@ -23,10 +23,7 @@ source_url: 'https://www.cnbc.com/2026/08/17/ferrari-luce-electric-car-autos.htm
   <p>When Ferrari unveiled its very first fully electric vehicle earlier this year, the reception from purists and market analysts was decidedly mixed. Critics pointed to skepticism surrounding high-end electric sports cars—especially as competitors like Porsche and Lamborghini pump the brakes on their own EV rollouts due to soft demand. Yet, in a stunning twist at Monterey Car Week, a customized chassis of the new <a href="https://www.cnbc.com/2026/08/17/ferrari-luce-electric-car-autos.html" target="_blank" rel="noopener noreferrer">Ferrari Luce</a> just fetched an eye-watering  million at a Sotheby&apos;s charity auction.</p>
 
   <p>This blockbuster sale shatters records for a new production car at auction and immediately forces a re-evaluation of how ultra-luxury brands price exclusivity, green technology, and brand equity. While everyday automotive markets face headwinds, the upper echelon of wealth operates under an entirely different set of economic rules.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
   <nav class="ncg-toc" aria-label="Table of Contents">
@@ -114,25 +111,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

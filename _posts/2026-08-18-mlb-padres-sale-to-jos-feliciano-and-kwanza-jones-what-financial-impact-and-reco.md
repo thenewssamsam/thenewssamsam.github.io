@@ -39,10 +39,7 @@ source_url: 'https://www.nytimes.com/athletic/7516437/2026/08/17/mlb-padres-sale
 <h2>What Happened: A Record-Breaking Deal</h2>
 <p>The unanimous vote by MLB owners on Monday marked the formal conclusion of a transaction process that began in April, when Feliciano and Jones initially agreed to purchase the team from the Seidler family. The husband-and-wife duo is acquiring more than 40 percent of the franchise, with other prominent individuals and entities joining their ownership group at a smaller combined percentage.</p>
 <p>The sale is expected to close near the end of this week. The Padres organization has announced plans to officially introduce Feliciano and Jones at a Petco Park news conference next Monday.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>Commissioner Rob Manfred commended both the incoming leadership and the outgoing Seidler family in an official league statement, noting the franchise's strong foundation, passionate fanbase, and competitive momentum. The Padres currently occupy the National League's final wild-card spot, seeking their fifth postseason berth in seven years.</p>
 </section>
@@ -126,25 +123,3 @@ a { color: #2563eb; text-decoration: none; }
 a:hover { text-decoration: underline; }
 </style>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

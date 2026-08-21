@@ -35,10 +35,7 @@ source_url: ''
 
 <h2 id="what-happened">What Happened in the Gulf</h2>
 <p>The diplomatic breakdown arrived on Monday as a June memorandum of understanding (MoU) expired without a permanent peace deal. The interim agreement, which had paused military operations across multiple fronts, unravelled over a fundamental disagreement: who holds administrative control over the Strait of Hormuz, the vital waterway separating Iran from Oman.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <p>According to Reuters reporting by Parisa Hafezi and Katharine Jackson, a senior Iranian official stated that Tehran is preparing for a "timely and precise" military operation to break what it terms a U.S. naval blockade if diplomatic channels fail completely. Simultaneously, President Donald Trump confirmed to reporters that Washington would not extend the temporary truce. Behind the scenes, back-channel diplomacy involving intermediaries and the powerful Islamic Revolutionary Guard Corps (IRGC) continues to churn, but the public posture on both sides has hardened significantly.</p>
@@ -105,25 +102,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

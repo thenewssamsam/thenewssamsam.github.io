@@ -34,10 +34,7 @@ source_url: 'https://www.aljazeera.com/news/2026/8/16/what-is-tokyos-yasukuni-sh
 <p>On the 81st anniversary of Japan&rsquo;s World War II surrender, Japanese Defence Minister Shinjiro Koizumi visited Tokyo&rsquo;s Yasukuni Shrine to pay tribute to the roughly 2.5 million fallen soldiers and citizens commemorated there. Meanwhile, Prime Minister Sanae Takaichi avoided a direct visit but bowed from a distance and sent a ritual offering.</p>
 
 <p>The visits immediately drew sharp rebukes from Beijing and Seoul. China&rsquo;s Ministry of Foreign Affairs issued strong protests, while South Korea expressed deep regret, condemning the actions as anachronistic. For these neighboring nations, the shrine is not merely a memorial for ordinary soldiers; it is viewed as a persistent symbol of Tokyo&rsquo;s failure to fully atone for colonial-era atrocities.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -92,29 +89,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

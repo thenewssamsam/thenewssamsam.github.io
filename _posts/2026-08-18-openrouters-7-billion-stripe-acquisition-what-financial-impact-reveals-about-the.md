@@ -24,10 +24,7 @@ source_url: 'https://eu.36kr.com/en/p/3943273131342979'
     <h2>What Happened?</h2>
     <p>Payment giant Stripe has finalized an agreement to acquire OpenRouter for a transaction price exceeding  billion, according to Bloomberg reports. Just three months prior, in May, OpenRouter closed a Series B financing round that valued the startup between  billion and  billion. That represents a staggering fivefold surge in valuation over a remarkably short window.</p>
     <p>Founded in 2023 by former OpenSea co-founder Alex Atallah, OpenRouter does not build massive frontier models, nor does it own warehouses full of high-end GPUs. Instead, it operates as a traffic intermediary and model scheduling service. It connects major open-source and closed-source models—from OpenAI and Anthropic to DeepSeek—into a single API, allowing developers to route requests dynamically based on cost, speed, and reliability.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -98,29 +95,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

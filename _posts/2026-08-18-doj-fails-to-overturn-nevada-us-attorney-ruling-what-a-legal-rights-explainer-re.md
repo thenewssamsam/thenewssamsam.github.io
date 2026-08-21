@@ -25,10 +25,7 @@ source_url: ''
   <h2 id="what-happened">What Happened in the Ninth Circuit Ruling?</h2>
   <p>A three-judge panel for the U.S. Court of Appeals for the Ninth Circuit ruled Monday that Attorney General Pam Bondi violated the Federal Vacancies Reform Act (FVRA) when she designated Sigal Chattah as the office's first assistant specifically to install her as acting U.S. Attorney for Nevada. The decision affirms a lower court's finding that the DOJ's procedure "was never intended by Congress."</p>
   <p>The panel—consisting of two judges appointed during the first Trump administration and one appointed by Bill Clinton—dismissed cross-appeals from criminal defendants who sought to throw out their indictments based on Chattah's invalid status. However, the core takeaway remained intact: the administration's attempt to install interim prosecutors without Senate oversight ran afoul of federal vacancy laws.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   <p>During oral arguments in February, judges expressed skepticism over the government's expansive interpretation of vacancy statutes. Judge Stanley Blumenfeld noted that accepting the DOJ's argument would create "an easy workaround" allowing the attorney general to keep a favored individual in an acting role indefinitely without a Senate vote.</p>
 
@@ -85,25 +82,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

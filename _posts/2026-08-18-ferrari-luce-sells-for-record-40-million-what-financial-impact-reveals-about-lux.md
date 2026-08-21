@@ -52,10 +52,7 @@ source_url: 'https://www.cnn.com/2026/08/17/cars/ferrari-electric-luce-record-sa
 
   <h2 id="what-happened">What Happened at Monterey Car Week</h2>
   <p>During Monterey Car Week in California, RM Sotheby's auctioned off "Chassis 0"—the very first tailor-made prototype of the Ferrari Luce. The electric vehicle, featuring a bubble-like design drastically departing from traditional angular Ferrari aesthetics, blew past its original  million estimate by a factor of 36. Finalizing at  million, the sale set a new world record for the highest-priced new car ever sold at auction.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
   <p>All proceeds from the charity auction are directed to The Ferrari Foundation to support educational initiatives. Meanwhile, deliveries for the standard production model of the Luce—priced at €550,000 —are slated to begin in the fourth quarter of 2026, with Chassis 0 returning to Maranello before heading to its unnamed winning bidder in early 2027.</p>
 
@@ -109,25 +106,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -32,10 +32,7 @@ source_url: 'https://www.cnet.com/tech/d23-all-the-new-lands-and-rides-revealed-
     <h2>The Big Reveal: What Disney Announced</h2>
     <p>During the Disney Experiences Showcase at the Honda Center, leadership laid out an ambitious roadmap for both Disneyland and Walt Disney World. The announcements covered everything from anticipated expansions to beloved classics getting a modern refresh.</p>
     <p>Among the headliners is <strong>Villains Land</strong> at Magic Kingdom, described by Imagineering as the most anticipated project they have ever undertaken. Featuring a Maleficent fortress roller coaster and a magic mirror boat ride, the dark expansion will occupy a footprint comparable to Star Wars: Galaxy's Edge. Meanwhile, the Frontierland expansion will welcome a <strong>Cars-themed area</strong> featuring Miss Fritter's Daredevil Spin-Along and the bouncy Cars Ridge Run Rally.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -86,29 +83,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

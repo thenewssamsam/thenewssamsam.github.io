@@ -23,10 +23,7 @@ source_url: 'https://www.bbc.com/news/articles/c5y6z4krrx3o'
 <p>When an aircraft carrier like the USS Abraham Lincoln spends months deployed in a high-tension operational zone, the headlines often focus on geopolitical strategy, naval hardware, and missile defense. But beneath the steel hull and flight deck operations lies a silent, complex human environment. Recent reports regarding food rations, broken plumbing, and mounting stress among sailors have sparked public concern, drawing pushback from military officials and veterans who argue over the accuracy of these accounts. Yet beyond the political and media debate sits an enduring reality: the profound psychological toll of isolation, monotony, and continuous high-alertness at sea.</p>
 
 <p>For families waiting ashore and observers trying to understand what life is really like on a floating military base, the situation aboard the Lincoln offers a clear window into how human beings cope—and sometimes fracture—when confined to extreme environments for months on end.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <div class="ncg-toc-box">
@@ -124,25 +121,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

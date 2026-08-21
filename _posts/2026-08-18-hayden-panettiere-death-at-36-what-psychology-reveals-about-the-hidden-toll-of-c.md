@@ -32,10 +32,7 @@ source_url: 'https://www.usatoday.com/story/entertainment/celebrities/2026/08/17
 <h2>What Happened in Greenville?</h2>
 <p>Authorities in Greenville, South Carolina, confirmed that actress Hayden Panettiere was found unresponsive on August 16 at the Judson Mill Lofts. First responders arrived at the apartment complex following a 911 call placed by an acquaintance. Despite immediate medical intervention and advanced cardiac life support measures administered at the scene, Panettiere was pronounced dead at age 36.</p>
 <p>According to statements from the Greenville Police Department and Greenville County Coroner Mike Ellis, the preliminary investigation has revealed no signs of foul play or trauma that contributed to the death. While a definitive cause and manner of death remain pending further medical studies and toxicology reports, 911 dispatch audio and coroner statements indicated that first responders found her in cardiac arrest.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>For millions who watched her grow up onscreen—from childhood roles in <em>Remember the Titans</em> and <em>Ally McBeal</em> to breakout performances in NBC's <em>Heroes</em> and over 100 episodes of <em>Nashville</em>—the news arrived as a profound shock. It also followed closely on the heels of her candid May interview with Gayle King and the release of her memoir, <em>This Is Me: A Reckoning</em>, in which she courageously detailed her battles with addiction, postpartum depression, and the heavy emotional toll of personal hardships.</p>
 </section>
@@ -95,25 +92,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -39,10 +39,7 @@ source_url: 'https://247wallst.com/investing/2026/08/17/berkshire-raised-its-alp
 <p>Regulatory filings revealed that Berkshire Hathaway boosted its Alphabet share count by a staggering 658% during the quarter. The blockbuster move caught investors by surprise, arriving just as Alphabet shares had pulled back roughly 7.2% over a one-month span, sitting about 4% below their 52-week high of .</p>
 
 <p>That short-term cooling occurred despite a robust Q2 2026 earnings report on July 22. Alphabet posted  billion in revenue—a 24.2% year-over-year increase—and delivered earnings per share (EPS) of , easily beating consensus estimates. Google Cloud proved to be a primary growth engine, accelerating to 82% year-over-year growth.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 <p>Yet, instead of focusing on the top-line beat or surging cloud margins, nervous market participants keyed in on soaring capital expenditures and negative free cash flow. Berkshire's decisive accumulation cut right through that short-term market anxiety, treating heavy infrastructure spending not as a liability, but as a calculated investment in future revenue conversion.</p>
@@ -175,25 +172,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

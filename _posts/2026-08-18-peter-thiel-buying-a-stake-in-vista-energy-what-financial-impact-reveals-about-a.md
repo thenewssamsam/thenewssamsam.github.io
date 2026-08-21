@@ -101,10 +101,7 @@ source_url: 'https://qz.com/peter-thiel-thiel-macro-vista-energy-argentina-stake
   <p>When high-profile technology investor Peter Thiel moves capital into a specific asset, markets tend to take notice. Recently released U.S. Securities and Exchange Commission filings reveal that Thiel’s hedge fund, Thiel Macro LLC, has acquired a roughly 1% stake in Argentine shale oil producer Vista Energy. The market reaction was swift, with Vista Energy stock climbing 5.4% in premarket trading almost immediately after the filing became public.</p>
 
   <p>Beyond the initial market bump, this move opens up a broader conversation about how major institutional and macro investors evaluate emerging energy plays in developing economies. To understand why this investment matters, we need to look past the headline and examine the underlying financial mechanics driving capital toward Argentine shale.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -165,29 +162,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

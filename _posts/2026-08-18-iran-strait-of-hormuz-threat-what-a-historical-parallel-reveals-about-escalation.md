@@ -22,10 +22,7 @@ source_url: 'https://www.yahoo.com/news/articles/iran-threatens-offensive-strait
     <h2 class="ncg-h2">What Happened in Washington and Dubai?</h2>
     <p>Hope for a lasting end to the U.S.-Iran conflict has hit a hard wall. According to reports from Reuters, a senior Iranian official stated on Monday that Tehran will transition to a "fully offensive" military posture after negotiations to finalize a permanent peace agreement broke down. Simultaneously, President Donald Trump ruled out extending the interim ceasefire agreement originally signed on June 17.</p>
     <p>The June memorandum of understanding had established a 60-day window to negotiate an end to hostilities that began with U.S. and Israel strikes on February 28. That fragile peace quickly unraveled over a bitter dispute regarding control of the Strait of Hormuz—the critical maritime passage through which roughly one-fifth of global oil and liquefied natural gas historically traveled.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>With diplomacy stalling, back-channel communications involving figures like former Director of National Intelligence Tulsi Gabbard and IRGC commander General Ahmad Vahidi have intensified. Yet, the public posture remains tense. President Trump recently issued stark warnings regarding Oman's parallel negotiations with Tehran over the strait, while global markets continue to react with Brent crude holding above  a barrel and U.S. gasoline prices hovering north of  per gallon ahead of November congressional elections.</p>
   </section>
@@ -108,25 +105,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -36,10 +36,7 @@ source_url: 'https://www.rferl.org/a/serbia-danube-wwii-shipwrecks-relics-drough
   <p>When rivers dry up, they do more than leave behind cracked earth and parched crops—they sometimes act as open-air archives, unearthing physical reminders of dark chapters long thought buried beneath the current. According to recent reports, severe drought conditions sweeping across Europe have caused water levels in the Danube River to plummet, exposing a haunting fleet of World War II-era Nazi warships near Serbia, alongside military vehicles in neighboring Hungary.</p>
 
   <p>For modern observers, the spectacle of submerged German warships breaking the surface is striking. But beyond the immediate visual curiosity lies a deeper intersection of environmental crisis and historical memory—reminding us that the past is never truly gone; it is simply waiting for the water to recede.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
   <nav class="ncg-toc">
@@ -108,25 +105,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

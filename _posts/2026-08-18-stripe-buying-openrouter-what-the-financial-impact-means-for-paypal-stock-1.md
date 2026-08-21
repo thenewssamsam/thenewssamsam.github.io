@@ -34,10 +34,7 @@ source_url: 'https://www.investors.com/news/technology/paypal-stock-stripe-openr
 
   <h2 id="what-happened">What Happened in the Stripe-OpenRouter Deal?</h2>
   <p>Fintech heavyweight Stripe has agreed to purchase OpenRouter in a transaction valued at  billion. Founded in 2023, OpenRouter has quickly established itself as a critical middleware player, providing companies with efficient access to hundreds of different artificial intelligence models. By securing OpenRouter, Stripe is effectively embedding advanced AI routing and usage capabilities directly into its ecosystem.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
   <p>The news prompted an immediate reaction on Wall Street. PayPal stock dipped on Monday as market analysts scrambled to evaluate the competitive dynamics. When a dominant private player like Stripe deploys  billion into AI infrastructure, public competitors like PayPal naturally face questions about their own strategic positioning in the evolving digital economy.</p>
 
@@ -66,25 +63,3 @@ Tactical Waterproof Backpack
     Source: <a href="https://www.investors.com/news/technology/paypal-stock-stripe-openrouter-purchase-advent/" target="_blank" rel="noopener noreferrer">Original News Report</a>
   </div>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

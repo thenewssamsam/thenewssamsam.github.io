@@ -35,10 +35,7 @@ source_url: "https://apnews.com/article/tariffs-trump-canada-usmca-trade-aae597c
     <h2>What Happened at the Border?</h2>
     <p>The United States and Canada are locked in high-stakes, last-minute negotiations to prevent a 12:01 a.m. Wednesday deadline set by U.S. President Donald Trump. If talks collapse, the U.S. administration intends to slap 50% tariffs on approximately  billion worth of Canadian goods—ranging from industrial products to everyday items like hockey sticks and tongue depressors.</p>
     <p>Canadian Prime Minister Mark Carney and Trump have held multiple phone consultations as negotiators race to find an off-ramp. The friction stems from deep disagreements over trade deficits, U.S. demands for Canadian defense investments and critical mineral access, and Canadian calls for relief on existing steel, aluminum, and lumber tariffs.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>This escalation marks a sharp departure from decades of cooperative cross-border trade under agreements like the USMCA. With nearly  billion in goods crossing the undefended 5,525-mile border daily, the potential economic disruption has sent shockwaves through North American supply chains.</p>
   </section>
@@ -103,25 +100,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

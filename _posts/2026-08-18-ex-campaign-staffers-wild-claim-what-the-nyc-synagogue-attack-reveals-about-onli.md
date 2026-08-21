@@ -25,10 +25,7 @@ source_url: 'https://nypost.com/2026/08/16/us-news/ex-mamdani-campaign-staffer-m
   <p>The incident centers on a disturbing attack at New York City's Central Synagogue during a Shabbat service. According to prosecutors and law enforcement sources, a 46-year-old assailant identified as Larry Montes struck a 63-year-old worshipper in the face, lacerating her lip and knocking her to the ground. Montes then allegedly grabbed and hurled two religious candles and holders valued at roughly ,000 each, shattering them.</p>
   
   <p>Prosecutors stated during Montes' arraignment that the defendant admitted to harboring racial animus toward Black individuals, having turned his attention toward a 65-year-old African American security guard before exiting the building. Crucially, law enforcement sources confirmed that Montes explicitly yelled "f–k the Jews" during the rampage.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -137,29 +134,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

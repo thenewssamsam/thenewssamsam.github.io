@@ -44,10 +44,7 @@ source_url: 'https://www.wbur.org/news/2026/08/17/dnc-2028-presidential-primary-
     <h2 id="what-happened">What Happened: A Complete Overhaul of the Primary Starting Line</h2>
     <p>Under the newly endorsed 2028 calendar, Democratic presidential hopefuls will face their first major test in South Carolina on January 22, 2028. Nevada follows closely on February 1, with New Hampshire, New Mexico, Michigan, and Virginia rounding out the early-voting states throughout February.</p>
     <p>DNC leaders, including Chairman Ken Martin, emphasized that the shift is designed to ensure nominees are thoroughly battle-tested across diverse demographics—from Black and Latino voters to union members and rural communities—before facing a general election.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -84,29 +81,3 @@ Tactical Waterproof Backpack
     </div>
   </div>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

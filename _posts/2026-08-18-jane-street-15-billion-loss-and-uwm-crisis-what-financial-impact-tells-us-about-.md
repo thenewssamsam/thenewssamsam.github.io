@@ -18,10 +18,7 @@ source_url: 'https://www.wsws.org/en/articles/2026/08/17/gnmb-a17.html'
   <p>When a quiet titan of Wall Street takes a record-breaking hit, the shockwaves rarely stay confined to algorithmic trading floors. The revelation that Jane Street—a powerhouse known for its rigorous risk management and proprietary capital models—lost  billion in a single month offers a stark window into the cascading vulnerabilities of today's heavily leveraged financial ecosystem.</p>
 
   <p>Coupled with a  million loss at United Wholesale Mortgage (UWM) and a massive backlog of unsold assets in private equity, this financial turbulence is not merely an isolated string of bad trades. It is a signal of structural strain driven by shifting interest rates, high debt loads, and speculative bets on the artificial intelligence boom. Here is a closer look at the financial mechanics unfolding behind the headlines.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -118,29 +115,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

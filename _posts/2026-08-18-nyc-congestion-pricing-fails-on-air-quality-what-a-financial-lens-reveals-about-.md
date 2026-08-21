@@ -29,10 +29,7 @@ source_url: 'https://nypost.com/2026/08/17/us-news/nyc-drivers-shell-out-9-conge
 
 <h2 id="what-happened">What Happened?</h2>
 <p>Under the congestion pricing program, passenger vehicles entering Manhattan at or below 60th Street face a  toll for E-ZPass users during peak hours (weekdays from 5 a.m. to 9 p.m., and weekends from 9 a.m. to 9 p.m.), with off-peak rates dropping to . Drivers without an E-ZPass face mail-in rates roughly 50% higher.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 <p>The system faced fierce legal and political battles before and after its launch, drawing strong opposition from figures like President Donald Trump and Transportation Secretary Sean Duffy, who slammed the fee as a burden on working families. Conversely, New York Governor Kathy Hochul hailed the program as a historic success, pointing to reduced gridlock, faster trips, and funding for mass transit upgrades.</p>
 <p>However, the New York City Health Department's recent report complicates that narrative. After examining four traffic-related pollutants across the zone, researchers concluded that overall pollution levels remained largely unchanged because vehicles represent a relatively small slice—roughly 10%—of the city's total emissions profile. The city's dense concentration of fuel-burning buildings, power plants, and commercial kitchens are the primary drivers of poor air quality.</p>
@@ -79,25 +76,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

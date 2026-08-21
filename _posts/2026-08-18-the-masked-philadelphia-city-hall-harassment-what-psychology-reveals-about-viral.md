@@ -33,10 +33,7 @@ source_url: 'https://www.nbcphiladelphia.com/news/local/masked-man-reportedly-ha
     <p>Early morning commuters and workers in Center City Philadelphia experienced moments of sheer terror last week when a young man wearing a Chucky doll Halloween mask targeted pedestrians. According to Philadelphia police, the suspect chased, cornered, and threatened multiple individuals around City Hall and Dilworth Plaza during a morning spree on Wednesday, August 12, 2026.</p>
     
     <p>Police Captain Jason Smith outlined a detailed timeline of the events during a press briefing on Monday, August 17. The suspect was first spotted shortly after 5:00 a.m. near 15th and Chestnut streets, running up to people while holding a cellphone as if filming his actions. After being refused service at a local Dunkin' due to his mask, the suspect continued his erratic behavior near Suburban Station and Dilworth Plaza.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     
     <p>The situation escalated when he targeted a jogger on the east side of 15th Street, stepping directly in front of her while filming and repeatedly asking, "Are you ready to die?" The victim fled in terror, screaming for help and injuring her leg in the process. While investigators note that the man did not appear to be armed, his actions crossed well past the line of a nuisance, leading to planned charges including terroristic threats, harassment, and simple assault.</p>
@@ -161,25 +158,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

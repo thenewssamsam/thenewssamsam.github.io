@@ -32,10 +32,7 @@ source_url: "https://www.nbcnews.com/news/us-news/tuesday-primaries-buss-family-
 <h2 id="what-happened">What Happened in the News</h2>
 <p>The latest morning rundown brings together several disparate yet compelling stories from across the United States. Voters are heading to the polls for crucial primary elections in states like Florida, Alaska, and Wyoming, testing political loyalties, redistricting efforts, and even ballot logistics—such as an Alaska Senate race featuring two candidates with the exact same name.</p>
 <p>Meanwhile, in the world of professional sports and entertainment, family dynamics have taken center stage. Controlling owner Jeanie Buss pushed back sharply against reports suggesting her family had agreed to sell its remaining stake in the Los Angeles Lakers to new majority investors. This unfolding disagreement highlights the complex friction that often arises when generational legacy, immense wealth, and modern business strategy intersect.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <h2 id="psychology-perspective">A Psychology Perspective: The Struggle for Control</h2>
@@ -74,25 +71,3 @@ Seagate Portable External Hard Drive
 <p>Source: <a href="https://www.nbcnews.com/news/us-news/tuesday-primaries-buss-family-lakers-morning-rundown-rcna593059" target="_blank" rel="noopener noreferrer">Original News Report</a></p>
 </footer>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

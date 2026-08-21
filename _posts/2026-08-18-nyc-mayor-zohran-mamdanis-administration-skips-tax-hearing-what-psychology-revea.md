@@ -22,10 +22,7 @@ source_url: 'https://nypost.com/2026/08/17/us-news/mamdani-admin-will-skip-overs
 <p>The controversy centers on New York City's newly implemented pied-à-terre tax, a levy championed by Mamdani as part of his signature "tax the rich" platform to fund city services. What began as a populist legislative victory has rapidly devolved into an administrative headache, featuring a database error that wrongly flagged hundreds of thousands of homeowners, erroneous tax notices sent to 17,000 residents, and an active lawsuit filed by frustrated property owners.</p>
 
 <p>Instead of appearing before the City Council to answer hard questions from both opposition Republicans and allied Democrats, administration officials announced they would submit written testimony instead. Citing ongoing litigation as a shield, the no-show has drawn sharp rebukes from across the political spectrum—raising deeper questions about executive accountability when administrative machinery breaks down.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <nav class="ncg-toc" aria-label="Table of Contents">
@@ -125,25 +122,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -19,10 +19,7 @@ source_url: 'https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Tr
 <p>When oil shipping through one of the world's most critical maritime chokepoints drops to a mere handful of vessels over a weekend, global markets notice immediately. Recent shipping data showing tanker traffic through the Strait of Hormuz slowing to a trickle has sent a fresh wave of anxiety through energy markets, pushing Brent crude back toward  per barrel and reminding everyday consumers how quickly distant geopolitical friction translates into painful pain at the local fuel pump.</p>
 
 <p>For months, drivers and businesses have enjoyed relative stability in energy costs, hoping that earlier market lows would hold. But with diplomatic hopes fading, tanker attacks mounting, and physical shipping volumes plummeting, the financial reality of Middle East risk premiums is forcing a rapid recalculation across global supply chains.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -128,29 +125,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

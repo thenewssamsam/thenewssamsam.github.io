@@ -36,10 +36,7 @@ source_url: "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduat
 <section>
 <h2 id="the-entry-level-crunch">The Reality of the Entry-Level Job Search</h2>
 <p>For graduates like Irene Chang, a 21-year-old Georgia Tech industrial and systems engineering alum, the post-college transition has turned into an exhausting numbers game. After submitting roughly 450 applications and landing 19 interviews without a single offer, Chang feels the skills she spent years acquiring are precisely the ones machines now handle with ease. She is not alone. Jacqueline Kline, a 25-year-old Florida State University communications master's graduate, has pushed past 500 applications since December, doing everything from rigorous networking to multiple internships, only to find herself hitting brick walls.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <p>According to data from the Federal Reserve Bank of New York, the unemployment rate for 22-to-27-year-old degree holders hovered around 5.7%—notably higher than the general worker unemployment rate of 4.1%. In a recent ZipRecruiter survey, nearly half of recent graduates surveyed stated they believe AI has already negatively impacted hiring in their respective fields. When young people watch automated resume screeners and generative language models digest tasks once assigned to interns and junior analysts, the connection feels painfully direct.</p>
@@ -146,25 +143,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

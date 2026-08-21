@@ -25,10 +25,7 @@ source_url: 'https://www.nbcsandiego.com/news/local/man-arrested-in-connection-w
   <h2 id="what-happened">What Happened in Sorrento Valley</h2>
   <p>The Sorrento Fire ignited on a Sunday afternoon around 3:15 p.m., quickly tearing through dry brush between Sorrento Valley Boulevard and Carmel Mountain Road. Fueled by dry conditions and terrain, the blaze expanded to roughly 130 acres within hours, ultimately scorching 138 acres before ground crews and a massive aerial response—including Cal Fire's new C-130 aircraft—halted its rapid spread.</p>
   <p>The San Diego Fire-Rescue Department and dozens of units pushed containment to 60% by Monday evening. Evacuation orders hit zone SDC-1444, sending residents toward a temporary shelter at 4161 Eastgate Mall, while several surrounding zones received temporary warnings that have since been lifted. Road closures choked major access points like Vista Sorrento Parkway and Sorrento Valley Boulevard as emergency crews secured the perimeter.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
   <p>Yet the most pivotal moment of the entire incident occurred before the flames had even finished chewing through the canyon. According to the San Diego Police Department, officers were flagged down shortly after the fire started by an observant individual who reported seeing someone acting suspiciously near the origin point. That tip led directly to the detention and subsequent arrest of Brandon Glasgo, who was booked into custody on ,000 bail facing an arson charge.</p>
 
@@ -75,25 +72,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

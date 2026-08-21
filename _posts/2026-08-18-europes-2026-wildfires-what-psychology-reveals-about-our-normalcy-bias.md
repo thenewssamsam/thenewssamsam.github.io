@@ -26,10 +26,7 @@ source_url: 'https://www.dw.com/en/wildfires-rage-in-belgium-france-spain-greece
     <h2>What Happened: A Continental Firestorm</h2>
     <p>Following weeks of blistering heat and unrelenting drought, Europe is once again facing an early and ferocious wildfire season. According to data from the European Forest Fire Information System, the destruction has already claimed more than twice the land area of Luxembourg.</p>
     <p>In Belgium, a ferocious blaze in the High Fens nature reserve along the German border has charred some 3,000 hectares—marking the largest fire in the country's modern history and prompting King Philippe to interrupt his summer vacation to survey the devastation. Meanwhile, across the continent, the toll has been severe: a Spanish soldier has lost his life in Aragon, an elderly couple was tragically trapped by fast-moving flames on the Greek island of Salamina, and towns from Croatia to Portugal have faced mass evacuations.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>In France, public frustration spilled into the open as Prime Minister Sébastien Lecornu was jeered by residents in the Gironde village of Le Porge. Months after 183 homes were destroyed in a giant blaze, local residents accused authorities of prioritizing wealthier tourist areas like Cap-Ferret over working-class villages—highlighting not just a logistical failure, but a deep breakdown in civic trust during a crisis.</p>
   </section>
@@ -88,25 +85,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

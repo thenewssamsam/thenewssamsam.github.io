@@ -21,10 +21,7 @@ source_url: "https://abcnews.com/Politics/florida-holds-1st-major-primaries-afte
     <h2>What Happened in Florida's Primary Election?</h2>
     <p>Voters across Florida head to the polls for the state's first major primary election since the Florida legislature approved a brand-new congressional map earlier this year. Designed to strengthen Republican leverage, the map puts several Democratic-held seats directly in the crosshairs—specifically those of Reps. Darren Soto, Jared Moskowitz, Debbie Wasserman Schultz, and Kathy Castor. For incumbents like Wasserman Schultz, who opted to run in the newly redrawn, majority-minority 20th Congressional District, the shift has ignited intra-party friction with Black Democrats who point to similar mid-decade map overhauls in states like Tennessee, Alabama, and Louisiana.</p>
     <p>Meanwhile, the Republican side features its own internal battles. Rep. Cory Mills faces a tough primary challenge in the 7th Congressional District from Ryan Elijah, backed by fellow House Republicans Anna Paulina Luna and Mike Haridopolos, even as Mills retains the backing of President Donald Trump. At the top of the ticket, U.S. Rep. Byron Donalds stands as the front-runner in the GOP gubernatorial primary, buoyed by major fundraising and a presidential endorsement as term-limited Gov. Ron DeSantis prepares to step down. If Donalds wins in November, he would make history as Florida's first Black governor.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
   </section>
 
@@ -92,25 +89,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -38,10 +38,7 @@ source_url: 'https://www.forbes.com/sites/tylerroush/2026/08/17/why-mark-walter-
 <section id="the-news-hook">
 <h2>The Sudden  Billion Sale</h2>
 <p>Last week, billionaire investor Mark Walter sold the Los Angeles Lakers in a blockbuster deal valuing the NBA franchise at  billion—pocketing a cool  billion more than the  billion valuation when he bought into the team in June 2025. The buyers: a group led by Josh Kushner (brother of Jared Kushner) and former Disney CEO Bob Iger.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>On the surface, walking away with a 20% gain in roughly a year sounds like standard billionaire deal-making. However, the timing raised immediate red flags. The sale dropped right as Walter's broader business empire—including private holding company TWG Global and various insurance operations—faced heavy scrutiny from federal prosecutors and the Securities and Exchange Commission.</p>
 <p>Reports from outlets like the <em>Wall Street Journal</em> and <em>Bloomberg</em> indicate that investigators are probing whether insurers controlled by Walter improperly funneled billions in loans through intermediary companies back to Walter-linked firms without adequate disclosure. While speculation quickly swirled online linking the sale to political maneuvers, a White House spokesperson firmly stated the transaction had nothing to do with President Trump or his administration. For financial analysts, the more compelling story isn't politics—it is balance sheets, liquidity, and the pressures of regulatory compliance.</p>
@@ -106,25 +103,3 @@ Seagate Portable External Hard Drive
 </div>
 </footer>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

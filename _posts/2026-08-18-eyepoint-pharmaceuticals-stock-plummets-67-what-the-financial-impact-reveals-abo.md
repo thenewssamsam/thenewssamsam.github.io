@@ -134,10 +134,7 @@ source_url: 'https://www.investors.com/news/technology/eyepoint-stock-eye-diseas
 
     <h2 id="what-happened">What Happened</h2>
     <p>EyePoint stock crashed roughly 67% on Monday, cleanly cutting under the lower boundary of an established cup base pattern after its experimental eye disease treatment missed its primary endpoint in a crucial final-phase study. The company had been testing its drug, Duravyu, in patients suffering from wet age-related macular degeneration (wet AMD), a leading cause of vision loss.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>The clinical results presented a frustrating paradox for developers and observers alike. On one hand, Duravyu demonstrated notable patient benefits: it successfully lowered the treatment burden by 42%, and 56% of patients remained free of supplemental injections by Week 56. However, because the trial missed its primary statistical goal, the market reacted with swift and unforgiving severity, pricing in the immediate delay or derailment of commercialization timelines.</p>
 
@@ -186,25 +183,3 @@ Tactical Waterproof Backpack
     </script>
 </div>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

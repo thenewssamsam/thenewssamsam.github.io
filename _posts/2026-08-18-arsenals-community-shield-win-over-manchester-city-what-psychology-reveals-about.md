@@ -35,10 +35,7 @@ source_url: 'https://www.cbssports.com/soccer/news/arsenals-crushing-win-manches
     <h2>What Happened in Cardiff</h2>
     <p>If you listened to conventional football wisdom, the traditional curtain-raiser to the English domestic season rarely means a great deal. History tells us that Community Shield winners have gone on to claim the Premier League title in just one of the last 15 years. Yet, when Arsenal swept aside Manchester City 3-0 in Cardiff, the manner of the victory carried a psychological weight that stretched far beyond August.</p>
     <p>From Riccardo Calafiori's opening goal seconds into the match to captain Martin Odegaard's sublime finish and Kai Havertz's header from a Christos Tzolis cross, Mikel Arteta's side played with an unaccustomed freedom. For a club that spent decades carrying the emotional whiplash of title chases, this was an afternoon of cutting loose. Meanwhile, for Manchester City under new management, the match exposed glaring squad gaps and the early-season friction of transition.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -149,29 +146,3 @@ Tactical Waterproof Backpack
     .ncg-source-footer a:hover { text-decoration: underline; }
   </style>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

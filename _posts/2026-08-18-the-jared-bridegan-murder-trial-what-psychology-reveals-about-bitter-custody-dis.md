@@ -24,10 +24,7 @@ source_url: ''
 <p>When Kirsten Bridegan took the stand in a Jacksonville courtroom, her voice carried the weight of four years of agonizing grief, legal gridlock, and unanswered questions. The high-profile murder trial of Mario Fernandez-Saldana &mdash; accused of orchestrating the 2022 killing of Microsoft executive Jared Bridegan &mdash; has once again thrust a horrific tragedy into the national spotlight. But beneath the grim details of a staged roadside ambush and a disputed phone log lies a darker, more universal human question: How does a bitter custody dispute cross the terrifying line from legal acrimony into calculated violence?</p>
 
 <p>To understand the mechanics of this case, we have to look past the sensational headlines and examine the psychological pressures that turn high-conflict separations into psychological battlefields.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <h2 id="what-happened">What Happened in Court on Day One?</h2>
@@ -99,25 +96,3 @@ Seagate Portable External Hard Drive
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

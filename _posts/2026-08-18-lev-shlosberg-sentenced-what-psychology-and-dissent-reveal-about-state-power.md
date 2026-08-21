@@ -36,10 +36,7 @@ source_url: 'https://www.dw.com/en/russia-prison-for-opposition-leader-over-war-
     <h2>What Happened: The Verdict Against Lev Shlosberg</h2>
     <p>On Monday, in a regional court in Pskov, Lev Shlosberg learned his fate. A senior figure in Russia's liberal opposition party Yabloko, Shlosberg was convicted of "public actions aimed at discrediting the use of the Armed Forces of the Russian Federation." The penalty was steep: 11 years and 1 month in a penal colony.</p>
     <p>Shlosberg’s crime was simple in the eyes of the state, yet profound in its defiance. He had publicly described the ongoing war in Ukraine as a catastrophe and a "bloody game of chess," later reposting his remarks on Telegram. Days before his sentencing, Russia’s Supreme Court upheld a ban on Yabloko—the country's last registered political party calling for an end to the invasion—effectively locking them out of upcoming parliamentary elections.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>During his closing statement, Shlosberg maintained his innocence, framing himself as the target of a political show trial. Yet, his most telling observation was not about his own fate, but about the atmosphere surrounding it. As he remarked to the court, "A single person is imprisoned, yet fear seeps into the hearts of millions."</p>
   </section>
@@ -109,25 +106,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

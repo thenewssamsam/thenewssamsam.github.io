@@ -33,10 +33,7 @@ source_url: 'https://www.yahoo.com/news/politics/articles/hamas-expects-meeting-
     <p>
       US President Donald Trump's envoy, Jared Kushner, announced on Monday that tangible progress toward disarming Hamas and advancing a broader Gaza peace plan could materialize within just 30 days. Speaking to Fox News in Tel Aviv following talks with Israeli Prime Minister Benjamin Netanyahu and separate direct negotiations in Egypt, Kushner outlined an aggressive timeline focused on weapon decommissioning and tunnel clearance. 
     </p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>
       The diplomatic push comes at a critical juncture. Under the emerging framework, an American general—specifically US Major General Jasper Jeffers, leading the International Stabilization Force—will oversee the handover of Hamas weapons before any redeployment or reconstruction takes place in the Gaza Strip. Meanwhile, political pressures mount inside Israel, where Netanyahu faces a high-stakes re-election fight in October and ongoing friction with far-right coalition members over the shape of the postwar arrangement.
@@ -117,25 +114,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

@@ -36,10 +36,7 @@ source_url: 'https://www.theguardian.com/us-news/2026/aug/16/republican-senator-
     <h2>What Happened</h2>
     <p>In a striking break from political allies, Republican Senator Bill Cassidy of Louisiana—a practicing medical doctor and outgoing chair of the Senate health committee—publicly denounced Donald Trump’s recent claims regarding the safety of the combined Measles, Mumps, and Rubella (MMR) vaccine. Speaking on CNN, Cassidy labeled the administration's push to scrap the combined two-dose MMR shot in favor of six separate individual injections as "crazy, stupid" and potentially tragic.</p>
     <p>The clash follows an executive-level push by the White House, with federal health secretary Robert F. Kennedy Jr. at the president's side, to alter recommended childhood immunization schedules. Trump characterized the standard MMR shot as comparable to a "nuclear weapon" that could be "quite lethal." Meanwhile, changes implemented at the Centers for Disease Control and Prevention (CDC) have introduced asterisks and footnotes questioning long-established scientific consensus regarding vaccines and autism.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -119,29 +116,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

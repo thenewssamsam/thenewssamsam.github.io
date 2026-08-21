@@ -38,10 +38,7 @@ source_url: 'https://oilprice.com/Geopolitics/Europe/Ukraine-Has-Shattered-the-M
 <p>When President Vladimir Putin sent his armored columns rolling toward Kyiv, the Kremlin was operating on an ancient and predictable script: sheer mass, backed by vast Soviet-era stockpiles and nuclear intimidation, would crush resistance in a matter of days. More than four years into Moscow&rsquo;s full-scale invasion, that foundational assumption has been thoroughly dismantled. Ukraine survived the initial onslaught, derailed the expected quick victory, and transformed the conflict into a grinding, high-tech war of attrition.</p>
 
 <p>Yet according to security experts, misinterpreting what this war reveals about Russian power is dangerous. While Moscow&rsquo;s conventional ground forces have suffered extraordinary degradation, Russia continues to adapt, scale up industrial production, and forge new external alliances. To understand where this conflict is heading, we need to step back from the daily headlines and look at how past military stalemates offer a clearer window into the nature of modern great-power conflict.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <h2 id="what-happened">What Happened: The Collapse of an Assumption</h2>
@@ -139,25 +136,3 @@ Seagate Portable External Hard Drive
 footer { margin-top: 32px; font-size: 0.9rem; color: #718096; border-top: 1px solid #e2e8f0; padding-top: 16px; }
 </style>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

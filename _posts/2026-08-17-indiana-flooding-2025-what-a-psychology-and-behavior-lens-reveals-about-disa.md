@@ -36,10 +36,7 @@ source_url: 'https://apnews.com/article/flooding-indiana-severe-weather-aa3624a3
     <h2>What Happened: Record-Setting Rains Across Indiana</h2>
     <p>Days of relentless storms and heavy downpours left at least seven people dead across Indiana, capping a devastating week of severe weather that paralyzed parts of the Midwest. In Indianapolis, floodwaters along the White River peaked before finally beginning to recede, leaving residents to survey waterlogged homes and ruined possessions.</p>
     <p>The numbers behind the event underscore its severity. The White River crested at more than 24 feet in communities like Anderson and Noblesville, surpassing flood records that had stood since 1913. Indianapolis Mayor Joe Hogsett noted that the flooding was the worst the city has seen in over thirty years. Across the state, historic rainfall washed out roads and bridges, forced more than 350 emergency evacuations, and left nearly 130,000 utility customers without power.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -153,29 +150,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

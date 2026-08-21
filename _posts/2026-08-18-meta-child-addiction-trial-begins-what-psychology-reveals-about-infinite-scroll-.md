@@ -25,10 +25,7 @@ source_url: ''
   <p>The landmark trial — pitting California, Colorado, Kentucky, and New Jersey against the parent company of Facebook and Instagram — seeks up to  trillion in penalties. More than a financial dispute, the case represents a watershed moment in how society scrutinizes digital architecture. State officials allege that Meta deliberately deployed features like the "like" button, recommendation algorithms, and the infinite-scroll function to hook young users, prioritizing compulsive engagement over their sleep, education, and mental health.</p>
 
   <p>While legal analysts compare the stakes to historic litigation against tobacco and opioid manufacturers, the core of the debate forces a deeper psychological question: Why are these specific digital tools so effective at overriding human self-control, particularly in developing minds?</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
   <h2 id="what-happened">What Happened in Court?</h2>
@@ -129,25 +126,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

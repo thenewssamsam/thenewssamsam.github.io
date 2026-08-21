@@ -45,10 +45,7 @@ source_url: 'https://www.adn.com/nation-world/2026/08/16/devastating-start-to-pa
     <h2>An Unprecedented Start to Fire Season</h2>
     <p>The numbers coming out of the Pacific Northwest this summer are staggering. By mid-August, more than 4,600 square miles had burned across Washington and Oregon, driven by a lethal combination of winter rains that supercharged grass growth, followed by severe drought, extreme heat, and lightning storms. For residents in places like the Colville Reservation and the outskirts of Spokane, the fires did not arrive as a distant news item—they arrived at front doors in a matter of minutes.</p>
     <p>Resources that were once sufficient for regional firefighting are now stretched to the absolute breaking point. National guard teams, interagency crews from as far away as California, and international reinforcements from New Zealand and Australia are rotating through exhausting deployments. For local crews who spent months protecting other regions only to return and fight fires in their own backyards, the physical danger is compounded by a profound psychological weight.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -125,29 +122,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

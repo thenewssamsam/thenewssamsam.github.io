@@ -36,10 +36,7 @@ source_url: ''
 <section id="what-happened">
 <h2>What Happened in Palm Beach</h2>
 <p>According to reports from Politico and the New York Times, Palm Beach county voting records and White House confirmations show that Donald Trump mailed his ballot on August 13 for Florida's upcoming primary elections. This follows previous instances of the president using mail-in ballots in 2020 and during a special statehouse election earlier this year.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 <p>The disclosure arrives as the Trump administration pushes a broader campaign against postal voting. Earlier in the year, the president signed an executive order designed to restrict mail-in ballots ahead of the upcoming congressional midterms, citing security concerns and referencing international electoral models such as India's photo ID requirements. While a federal judge has temporarily blocked parts of that executive order, the administration has appealed to the Supreme Court. Meanwhile, a White House spokeswoman defended the president's ballot by noting his official residency in Palm Beach county, explaining that postal voting remains a practical necessity given his primary residence at the White House in Washington, D.C.</p>
 </section>
@@ -72,25 +69,3 @@ Seagate Portable External Hard Drive
 <p>Source: <a href="https://www.theguardian.com/us-news/2026/aug/17/trump-mail-vote-florida-republican-primary" target="_blank" rel="noopener noreferrer">Original News Report</a></p>
 </footer>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

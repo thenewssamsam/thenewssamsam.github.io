@@ -34,10 +34,7 @@ source_url: 'https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-
 <p>When United States President Donald Trump publicly demanded that Iran "put up the white flag of surrender" and threatened a US ally over maritime access, it marked a sharp escalation in a five-month-long conflict. With a 60-day ceasefire memorandum expiring without a diplomatic breakthrough, Washington and Tehran are once again locked in a high-stakes standoff over the Strait of Hormuz—the vital global artery through which a massive share of the world's oil supply flows.</p>
 
 <p>As rhetoric hardens and military options narrow, the current confrontation mirrors age-old geopolitical struggles over narrow maritime corridors. To understand where this crisis might be heading, it helps to look backward at how great powers have historically handled contested chokepoints.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 <h2 id="what-happened">The Breaking News: Ultimatums and Expiring Deals</h2>
@@ -76,25 +73,3 @@ Seagate Portable External Hard Drive
 Source: <a href="https://www.aljazeera.com/news/2026/8/17/trump-demands-iran-put-up-the-white-flag-of-surrender-as-mou-expires" target="_blank" rel="noopener noreferrer">Original News Report</a>
 </div>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

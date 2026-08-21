@@ -40,10 +40,7 @@ source_url: 'https://www.wcvb.com/article/lindsay-clancy-trial-live-updates-aug-
   <section id="ncg-what-happened">
     <h2>What Happened: The Defense Takes the Stand</h2>
     <p>The murder trial of 36-year-old Lindsay Clancy entered a critical phase as her defense team began presenting evidence. Clancy is accused of the 2023 strangulation deaths of her three young children—Cora, Dawson, and Callan—before she jumped from a second-floor window, leaving her partially paralyzed. While the defense acknowledges she caused the deaths, they have entered a not-guilty plea, arguing she was not criminally responsible due to the throes of severe postpartum psychosis.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
     <p>Among the most wrenching moments of the trial thus far was the testimony of Clancy's mother, Paula Musgrove. Fighting through tears, Musgrove described her daughter as a deeply devoted mother who began unraveling in late 2022. Musgrove recounted an urgent text message received in October of that year: <em>"Mom, will you please come up and stay with me for a bit. I'm really sick. Something is wrong. I had horrible insomnia all night and I just don't know how I'm going to get through the day."</em></p>
     <p>According to family testimony, Clancy's condition deteriorated rapidly over the following months. She suffered from debilitating insomnia, extreme weight loss, paranoia, and terrifying admissions. In December 2022, Clancy confessed to her mother and husband that she had experienced thoughts of harming her children—a disclosure that underscores the profound terror often experienced by mothers suffering silent, escalating psychiatric crises.</p>
@@ -117,25 +114,3 @@ Tactical Waterproof Backpack
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

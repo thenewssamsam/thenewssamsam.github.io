@@ -36,10 +36,7 @@ source_url: 'https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-isr
 <h2 id="what-happened">What Happened: The Ground Reality in Southern Lebanon</h2>
 
 <p>The numbers released by UNIFIL paint a grim picture of escalating hostilities. Between August 5 and 16, peacekeepers recorded an average of 137 projectiles fired per day, culminating in spikes of 208 projectiles on Saturday and 185 on Sunday.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 <p>This surge comes despite the renewal of a June 26 ceasefire agreement brokered by the United States. That accord hinges on a complex diplomatic bargain: the disarmament of Hezbollah in exchange for an eventual Israeli military withdrawal from southern Lebanon, with the Lebanese army stepping in to secure the border. However, that transition has stalled. Hezbollah has rejected the current terms, demanding an unconditional Israeli withdrawal first, while Israeli military operations continue.</p>
@@ -117,25 +114,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

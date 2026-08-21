@@ -35,10 +35,7 @@ source_url: 'https://www.cbsnews.com/news/pete-hegseth-iowa-campaign-zach-nunn/'
     <h2>What Happened in Iowa?</h2>
     <p>Defense Secretary Pete Hegseth headed to Iowa to give remarks, meet with veterans, and campaign for vulnerable Republican incumbents, stepping into a role traditionally avoided by sitting heads of the Pentagon. As the Republican party battles to protect key congressional seats in battleground states, the Trump administration has deployed a steady stream of top officials to the Midwest.</p>
     <p>Among those visiting Iowa are Treasury Secretary Scott Bessent, U.S. Trade Representative Jamieson Greer, Small Business Association Administrator Kelly Loeffler, and VA Secretary Doug Collins. Hegseth's specific stop is designed to support Rep. Zach Nunn, an Air Force Reserve colonel defending a tightly contested seat in a district that Trump won by slim margins. Neighboring Rep. Mariannette Miller-Meeks is facing an equally narrow defensive battle against Democratic challenger Christine Bohannan.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>While party surrogates visiting early voting or battleground states is a Washington staple, the active participation of a sitting Defense Secretary stretches modern political customs in a notable way.</p>
   </section>
@@ -235,25 +232,3 @@ Seagate Portable External Hard Drive
     }
   </style>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

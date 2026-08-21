@@ -37,10 +37,7 @@ source_url: 'https://finance.yahoo.com/energy/article/the-strategic-petroleum-re
     <h2>What Happened: The SPR Drawdown Explained</h2>
     <p>Withdrawals from the U.S. government's Strategic Petroleum Reserve (SPR) accelerated recently, dropping the emergency energy backstop by 5.3 million barrels in a single week to rest at 293.4 million barrels. This downward trajectory follows five continuous months of releases initiated by the administration in March to steady turbulent global energy markets.</p>
     <p>According to data released by the U.S. Department of Energy, the reserve has shrunk by an average of 6.3 million barrels per week since early April. This relentless drawdown coincides with stubborn fuel prices, with the American Automobile Association (AAA) reporting national gas averages at  a gallon—marking the highest mid-August prices on record.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
     <p>Altogether, roughly 120 million barrels have been released from the underground salt caverns since spring, representing a nearly 30% reduction. Officials have signaled that up to 172 million barrels could ultimately leave the reserve, pushing stockpile volumes down to depths not witnessed since December 1982.</p>
   </section>
@@ -123,25 +120,3 @@ Seagate Portable External Hard Drive
   }
   </script>
 </article>
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

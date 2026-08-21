@@ -18,10 +18,7 @@ source_url: 'https://www.cnn.com/2026/08/17/world/live-news/iran-war-trump'
 <p>When a superpower issues an ultimatum to a neutral neighbor over a vital maritime chokepoint, history rarely whispers—it tends to echo loud and clear. President Donald Trump&#8217;s recent warning to U.S. ally Oman—cautioning against any interference in Strait of Hormuz operations as a crucial 60-day diplomatic window expired—highlights how quickly modern geopolitical flashpoints can mirror historical moments of high-stakes brinkmanship.</p>
 
 <p>For ordinary observers trying to make sense of overlapping crises from the Persian Gulf to Gaza, the headlines can feel dizzying. But beneath the daily rush of warnings, denials, and diplomatic maneuvers lies a familiar rhythm of pressure, deterrence, and maritime vulnerability that has played out across centuries.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -82,29 +79,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

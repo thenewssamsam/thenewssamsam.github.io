@@ -19,10 +19,7 @@ source_url: 'https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-
 <p>When you have just climbed to the top of the football mountain, the air gets thin very quickly. For the Seattle Seahawks, their first home game back on the field since winning Super Bowl LX offered a raucous, sold-out crowd and all the celebratory pageantry a fan base could ask for. But once the opening kickoff actually sailed through the air, the celebratory mood evaporated fast.</p>
 
 <p>Following a sloppy 17-7 preseason loss to the Dallas Cowboys, head coach Mike Macdonald did not mince words. He was thrilled with the turnout, but thoroughly unimpressed with just about everything else. Beneath the routine frustration of an August football game lies a classic psychological hurdle that every defending champion eventually has to face: how do you get a locker room full of champions to accept that they are starting completely from scratch?</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Tactical Waterproof Backpack 
-</a></p>
+
 
 
 
@@ -76,29 +73,3 @@ Tactical Waterproof Backpack
 }
 </script>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>

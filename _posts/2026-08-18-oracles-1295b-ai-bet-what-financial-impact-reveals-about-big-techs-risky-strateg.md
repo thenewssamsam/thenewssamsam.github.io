@@ -22,10 +22,7 @@ source_url: 'https://www.ibtimes.co.uk/oracle-ai-expansion-high-stakes-gamble-18
 <p>Larry Ellison experienced the dizzying heights and brutal lows of the artificial intelligence boom in less than a year, briefly surpassing Elon Musk as the world's richest person before watching a  billion fortune evaporation. Behind the personal wealth rollercoaster lies a corporate reality that should make every financial observer pay attention: Oracle has transformed from a stable software provider into a capital-heavy infrastructure giant, racking up  billion in debt to fund the AI revolution.</p>
 
 <p>For everyday readers and market watchers, this story is much more than a billionaire wealth update. It serves as a masterclass in how massive capital expenditure, long-term leasing commitments, and credit ratings collide when a legacy company attempts to outrun its competitors in a gold rush. Let us break down the actual financial mechanics of Oracle's high-stakes gamble.</p>
-<!-- Amazon Associates Recommendation -->
-<p>Consider also: As an Amazon Associate I earn from qualifying purchases. <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-product-inline">
-Seagate Portable External Hard Drive 
-</a></p>
+
 
 
 
@@ -98,29 +95,3 @@ Seagate Portable External Hard Drive
 <p>Source: <a href="https://www.ibtimes.co.uk/oracle-ai-expansion-high-stakes-gamble-1814508" target="_blank" rel="noopener noreferrer">Original News Report</a></p>
 </footer>
 </article>
-
-
-
-
-
-<section class="amazon-recommendations">
-<h3>📚 Recommended Resources</h3>
-<div class="recommendations-grid">
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Tactical Waterproof Backpack</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B0FKT1GK87?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-<div class="amazon-product-card">
-    <div class="product-title"><a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer">Seagate Portable External Hard Drive</a></div>
-    
-    <div class="product-button">
-        <a href="https://amazon.com/dp/B07CRG94G3?tag=thenewssam-20" target="_blank" rel="noopener noreferrer" class="amazon-button">View on Amazon</a>
-    </div>
-    <div class="disclosure">As an Amazon Associate, we earn from qualifying purchases.</div>
-</div>
-</div>
-</section>
