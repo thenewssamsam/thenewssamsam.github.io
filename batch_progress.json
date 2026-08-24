@@ -1,15 +1,6 @@
 {
   "completed": [
-    "https://www.cbsnews.com/news/neel-kashkari-minneapolis-fed-canada-tariff-inflation/",
-    "https://mashable.com/tech/openai-urges-stregthening-of-california-ai-safety-bill",
-    "https://www.digit.in/news/general/openai-calls-for-stronger-ai-safety-laws-after-frontier-ai-model-escapeshere-is-what-we-know.html",
-    "https://www.cbsnews.com/news/neel-kashkari-minneapolis-fed-face-the-nation-transcript-08-23-2026/",
-    "https://247wallst.com/investing/2026/08/23/nvidias-15-price-hike-reveals-the-hidden-cost-of-the-ai-boom/",
-    "https://www.cleveland.com/news/2026/08/check-your-homes-recall-covers-40000-bottles-of-eye-drops-sold-at-walmart-target-kroger.html",
-    "https://finance.yahoo.com/economy/policy/articles/why-social-securitys-shrinking-cola-081200997.html",
-    "https://www.pymnts.com/walmart/2026/walmart-aims-to-take-on-amazon-with-trendier-apparel/",
-    "https://apnews.com/article/bucees-ohio-trademark-lawsuit-beaver-mini-mart-7aceb65a23ffdf0514df67fbe3cc6b91",
-    "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html"
+    "https://www.49ers.com/news/day-16-of-2026-training-camp-george-kittle-s-remarkable-return"
   ],
   "failed": [
     {
@@ -1317,41 +1308,37 @@
       "error": "抓取失敗"
     },
     {
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/fed-s-kashkari-says-treasury-market-still-working-as-it-should",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/canada-sees-long-trade-war-with-us-that-may-last-beyond-midterms",
       "error": "抓取失敗"
     },
     {
-      "url": "https://www.investing.com/news/economy-news/feds-kashkari-says-rising-treasury-yields-not-a-concern-4872467",
+      "url": "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html",
       "error": "抓取失敗"
     },
     {
-      "url": "https://www.barrons.com/livecoverage/sunday0823/card/kashkari-isn-t-confident-that-inflation-can-hit-fed-s-2-target-without-rate-hike-d0zCQOBLxV8rNVSyZ87p",
+      "url": "https://www.washingtonpost.com/business/2026/08/23/us-canada-breakdown-shows-limits-trumps-aggressive-trade-strategy/",
       "error": "抓取失敗"
     },
     {
-      "url": "https://www.nytimes.com/2026/08/23/health/clear-eyes-eye-drops-fda-recall.html",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/canada-sees-long-trade-war-with-us-that-may-last-beyond-midterms",
       "error": "抓取失敗"
     },
     {
-      "url": "https://www.wsj.com/business/retail/walmart-keeps-pushing-into-fashion-with-new-clothing-brand-5b2f9046",
+      "url": "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html",
       "error": "抓取失敗"
     },
     {
-      "url": "https://seekingalpha.com/news/4636059-walmart-launching-clothing-brand-scenario-bid-appeal-younger-shoppers",
+      "url": "https://www.washingtonpost.com/business/2026/08/23/us-canada-breakdown-shows-limits-trumps-aggressive-trade-strategy/",
       "error": "抓取失敗"
     },
     {
-      "url": "https://www.gurufocus.com/news/9048982/wmt-looks-07-overvalued-on-gf-value-as-it-targets-younger-shoppers-with-new-brand",
+      "url": "https://www.espn.com/nfl/recap?gameId=401873293",
       "error": "抓取失敗"
     },
     {
-      "url": "https://parade.com/food/buc-ees-has-more-legal-battles-expansion",
-      "error": "抓取失敗"
-    },
-    {
-      "url": "https://www.thestreet.com/investing/stocks/paa-aci-retirees-supplement-social-security-dividend-stocks",
+      "url": "https://www.espn.com/nfl/story/_/id/49702970/49ers-activate-star-te-george-kittle-pup-list",
       "error": "抓取失敗"
     }
   ],
-  "timestamp": "2026-08-24T11:53:54.959475"
+  "timestamp": "2026-08-25T07:51:00.385367"
 }

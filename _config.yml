@@ -3,6 +3,13 @@ description: AI-powered commentary on global news from a faith perspective
 url: "https://thenewssamsam.github.io"
 baseurl: ""
 
+# PWA Configuration
+pwa:
+  service_worker: true
+  theme_color: "#2563eb"
+  background_color: "#ffffff"
+  display: standalone
+
 # Theme
 theme: minima
 plugins:
