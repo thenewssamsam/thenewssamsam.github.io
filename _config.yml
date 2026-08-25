@@ -27,8 +27,30 @@ markdown: kramdown
 # Timezone
 timezone: Asia/Taipei
 
-# Exclude files
+# Performance optimization for faster builds
+# Build settings
+strict_front_matter: true
+liquid:
+  error_mode: strict
+  strict_filters: true
+  strict_variables: true
+
+# Exclude files to speed up build
 exclude:
   - Gemfile
   - Gemfile.lock
   - .github/
+  - venv/
+  - venv_new/
+  - node_modules/
+  - .DS_Store
+  - batch_progress.json
+  - sitemap.txt
+  - generate_hugo_sitemap.py
+  - bluesky_publisher.py
+  - batch_publish_news.py
+  - publisher_github.py
+  - quality_control.py
+  - *.log
+  - *.json
+  - _posts/*.log
