@@ -3,13 +3,6 @@ description: AI-powered commentary on global news from a faith perspective
 url: "https://thenewssamsam.github.io"
 baseurl: ""
 
-# PWA Configuration
-pwa:
-  service_worker: true
-  theme_color: "#2563eb"
-  background_color: "#ffffff"
-  display: standalone
-
 # Theme
 theme: minima
 plugins:
@@ -23,17 +16,9 @@ paginate_path: "/page:num/"
 markdown: kramdown
 
 # Timezone
-timezone: Asia/Taipei
+timezone: "Asia/Taipei"
 
-# Performance optimization for faster builds
-# Build settings
-strict_front_matter: true
-liquid:
-  error_mode: strict
-  strict_filters: true
-  strict_variables: true
-
-# Exclude files to speed up build
+# Exclude files
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -42,13 +27,3 @@ exclude:
   - venv_new/
   - node_modules/
   - .DS_Store
-  - batch_progress.json
-  - sitemap.txt
-  - generate_hugo_sitemap.py
-  - bluesky_publisher.py
-  - batch_publish_news.py
-  - publisher_github.py
-  - quality_control.py
-  - *.log
-  - *.json
-  - _posts/*.log
