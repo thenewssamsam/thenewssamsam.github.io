@@ -566,6 +566,40 @@ footer p {
     color: #0891b2;
 }
 
+/* Pagination styling */
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    margin-top: 48px;
+    padding: 24px;
+    background: var(--card-bg);
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--border-color);
+}
+
+.pagination-link {
+    padding: 10px 20px;
+    background: #2563eb;
+    color: white;
+    text-decoration: none;
+    border-radius: var(--radius-md);
+    font-weight: 500;
+    transition: all 0.2s;
+}
+
+.pagination-link:hover {
+    background: #1d4ed8;
+    transform: translateY(-2px);
+}
+
+.pagination-info {
+    color: var(--text-light);
+    font-size: 0.95em;
+    font-weight: 500;
+}
+
 /* Responsive design */
 @media (max-width: 768px) {
     .container {

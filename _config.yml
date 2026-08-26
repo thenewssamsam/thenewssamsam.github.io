@@ -1,12 +1,13 @@
 title: Beyond The News Sam
 description: AI-powered commentary on global news from a faith perspective
-url: "https://thenewssamsam.github.io"
+url: "https://johnthenews.netlify.app"
 baseurl: ""
 
 # Theme
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 # Pagination
 paginate: 10
