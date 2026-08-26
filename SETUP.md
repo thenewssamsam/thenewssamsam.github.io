@@ -1,10 +1,10 @@
-# GitHub Pages 自動發布系統 — 完整設定指南
+# Netlify 部署系統 — 完整設定指南
 
 ## 第 1 步：在 GitHub 建立 Repository
 
 1. 進入 [GitHub](https://github.com)
 2. 建立新 Repository，名稱必須是：**`thenewssamsam.github.io`**
-3. 選擇「Public」（必須，GitHub Pages 需要）
+3. 選擇「Public」（必須，Netlify 需要）
 4. 點擊「Create repository」
 
 ## 第 2 步：初始化本機 Git
@@ -27,80 +27,82 @@ git config user.name "Your Name"
 
 # 第一次推送
 git add .
-git commit -m "Initial commit - GitHub Pages setup"
+git commit -m "Initial commit - Netlify setup"
 git push -u origin main
 ```
 
-## 第 3 步：設定 GitHub Actions Secrets
+## 第 3 步：設定 Netlify
 
-GitHub Actions 需要 API 金鑰。設定方法：
+### 3.1 創建 Netlify 帳號
 
-1. 進入 Repository → Settings → Secrets and variables → Actions
-2. 點擊「New repository secret」
-3. 添加以下 secrets：
+1. 訪問 [Netlify](https://app.netlify.com/signup)
+2. 使用 GitHub 帳號登入（最簡單）
 
-| Name | Value |
-|------|-------|
-| GEMINI_API_KEY | 你的 Gemini API Key |
+### 3.2 連接 GitHub 倉庫
 
-> ⚠️ **重要**：不要在代碼裡放 API Key，一定要用 Secrets
+1. 在 Netlify 控制台點擊「Add new site」→「Import an existing project」
+2. 選擇「GitHub」
+3. 授權 Netlify 訪問你的 GitHub
+4. 選擇倉庫：`thenewssamsam/thenewssamsam.github.io`
 
-## 第 4 步：啟用 GitHub Pages
+### 3.3 配置構建設置
 
-1. Repository → Settings → Pages
-2. Source 選擇「Deploy from a branch」
-3. Branch 選擇「main」，資料夾選「/ (root)」
-4. 點擊「Save」
+Netlify 會自動檢測到 `netlify.toml` 文件，確認以下設置：
+- **Build command**: `bundle install && bundle exec jekyll build --safe`
+- **Publish directory**: `_site`
+- **Ruby version**: 3.1（自動設置）
 
-等待幾分鐘，你的網站會在 `https://thenewssamsam.github.io` 上線！
+### 3.4 設置自定義域名（可選）
 
-## 第 5 步：測試自動發布
+1. 點擊「Site settings」→「Domain management」
+2. 點擊「Add custom domain」
+3. 輸入你的域名（如果有的話）或使用 Netlify 免費域名
 
-### 方式 1：手動觸發（測試用）
+等待幾分鐘，你的網站會在 Netlify 提供的 URL 上線！
 
-1. Repository → Actions
-2. 選擇「Auto-Publish Articles」
-3. 點擊「Run workflow」
-4. 選擇「main」分支
-5. 點擊「Run workflow」
+## 第 4 步：測試 Netlify 部署
 
-等待執行，檢查是否成功。
+### 觸發重新部署
 
-### 方式 2：等待排定時間
+1. 在 Netlify 控制台點擊「Deploys」標籤
+2. 點擊「Trigger deploy」→「Deploy site」
+3. 等待部署完成（通常 1-3 分鐘）
 
-GitHub Actions 設定為每天下午 2 點自動運行（台北時間）。
+### 檢查部署狀態
 
-## 第 6 步：申請 Google AdSense
+1. 查看「Deploys」標籤中的最新部署
+2. 點擊進去看詳細日誌
+3. 確認「Deploy succeeded」
+
+## 第 5 步：添加廣告驗證碼
+
+### Monetag 驗證
+
+廣告商驗證碼已添加到多個位置：
+
+1. **`_layouts/default.html`** - 主佈局文件
+2. **`google8d1f88bd01c89473.html`** - Google 驗證文件
+3. **`monetag.txt`** - 純文字驗證文件
+4. **`monetag_verification.html`** - HTML 驗證文件
+
+驗證碼：`66029fd72330fcc14da7a64dd7375a77`
+
+### Google Search Console
+
+1. 進入 [Google Search Console](https://search.google.com/search-console)
+2. 添加網站：使用 Netlify 提供的 URL
+3. 選擇驗證方式：HTML 文件驗證
+4. 上傳 `google8d1f88bd01c89473.html` 文件
+5. 提交 sitemap：`https://your-netlify-url/sitemap.xml`
+
+### AdSense 申請（可選）
 
 1. 進入 [Google AdSense](https://www.google.com/adsense)
 2. 點擊「開始使用」
-3. 輸入你的網站 URL：`https://thenewssamsam.github.io`
+3. 輸入你的網站 URL（Netlify URL）
 4. 填寫申請表
 
-> ⚠️ **等待時間**：AdSense 通常 2-3 週才會審核。審核成功後，才能在網站上放廣告。
-
-## 第 7 步：添加 AdSense 到網站
-
-AdSense 審核通過後：
-
-1. 進入 AdSense 帳戶，複製你的 **Publisher ID**（格式：`ca-pub-xxxxxxxxxx`）
-2. 編輯檔案 `_layouts/post.html`
-3. 替換這行：
-   ```
-   data-ad-client="ca-pub-XXXXXXXXX"
-   ```
-   改成：
-   ```
-   data-ad-client="ca-pub-你的ID"
-   ```
-4. Commit 和 push：
-   ```bash
-   git add _layouts/post.html
-   git commit -m "Add AdSense publisher ID"
-   git push
-   ```
-
-GitHub Pages 會自動更新網站。
+> ⚠️ **等待時間**：AdSense 通常 2-3 週才會審核。
 
 ## 日常維護
 
@@ -136,37 +138,76 @@ git commit -m "Add: Lake Powell article"
 git push
 ```
 
-### 檢查發布狀態
+Netlify 會自動檢測到變更並開始部署。
 
-1. Repository → Actions
-2. 查看最近的 workflow runs
+### 檢查部署狀態
+
+1. Netlify 控制台 → Deploys
+2. 查看最近的部署
 3. 點擊進去看詳細日誌
+
+### 本地批次發布系統
+
+使用 Python 腳本進行批次發布：
+
+```bash
+cd /Users/yanyaosheng/Desktop/temp/yenyaosam_kiro/kiro_bloggerapi
+
+# 執行批次發布腳本
+python batch_publish_news.py
+```
+
+此腳本會：
+1. 抓取 CNN 文章內容
+2. 生成文章內容
+3. 發布到 GitHub
+4. 可選：發布到 Bluesky
+5. 更新 Hugo-style sitemap
 
 ### 常見問題
 
-**Q: GitHub Pages 不更新？**
-A: 等待 1-2 分鐘。GitHub Pages 需要時間重新構建。查看 Repository → Settings → Pages 的「Last deployed」時間。
+**Q: Netlify 部署失敗？**
+A: 檢查以下幾點：
+1. 查看 Netlify 部署日誌中的錯誤訊息
+2. 確認 `netlify.toml` 文件存在且格式正確
+3. 確認 `Gemfile` 包含所有必要的依賴
+4. 檢查 Ruby 版本是否設置為 3.1
 
-**Q: AdSense 廣告沒出現？**
-A: 
-1. 檢查 Publisher ID 是否正確
-2. 確認網站在 AdSense 審核通過名單中
-3. 等待 24-48 小時，Google 需要時間掃描你的網站
+**Q: 廣告驗證失敗？**
+A:
+1. 確認 monetag meta 標籤在 `_layouts/default.html` 中
+2. 等待 Netlify 完成部署（1-3 分鐘）
+3. 使用多種驗證方法（meta 標籤、文件上傳）
+4. 聯繫廣告商支援提供詳細錯誤訊息
 
-**Q: 文章沒有發布？**
-A: 檢查 Actions 的執行日誌：
-1. Repository → Actions
-2. 點擊最近的 workflow run
-3. 查看 logs 了解問題
+**Q: Google Search Console 不收錄？**
+A:
+1. 確認 sitemap 已提交：`https://your-netlify-url/sitemap.xml`
+2. 檢查 robots.txt 是否正確引用 sitemap
+3. 增加內部連結和外部連結
+4. 定期發布高質量內容
+5. 等待 Google 爬蟲發現和索引（通常需要幾週）
+
+**Q: 本地發布後沒有同步到 Netlify？**
+A:
+1. 確認已執行 `git push`
+2. 檢查 Netlify 是否檢測到新的 commit
+3. 手動觸發 Netlify 部署
+4. 查看部署日誌了解問題
 
 ---
 
 ## 完成！
 
 你現在有：
-✅ 完全免費的網站（GitHub Pages）
-✅ 自動發布系統（GitHub Actions）
+✅ 完全免費的網站（Netlify）
+✅ 自動部署系統（Netlify Git integration）
+✅ 全球 CDN 加速
+✅ 對 SEO 友好的部署環境
 ✅ 無限文章數量
-✅ Google AdSense 廣告（審核通過後）
+✅ 廣告驗證碼已設置
+✅ Hugo-style sitemap 支援
+✅ 本地批次發布系統
+✅ 可選的 Bluesky 社交媒體整合
 
 祝你成功！
