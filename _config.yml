@@ -14,8 +14,6 @@ pwa:
 theme: minima
 plugins:
   - jekyll-feed
-  # - jekyll-seo-tag  # Disabled: might be causing duplicate meta tags
-  # - jekyll-sitemap  # Disabled: using custom generate_sitemap.py instead
 
 # Pagination
 paginate: 10
