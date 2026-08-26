@@ -237,12 +237,12 @@ def batch_process(urls, enable_bluesky=True, interval_minutes=5, progress_file='
             import subprocess
             import shutil
             
-            # 獲取腳本目錄
-            script_dir = os.path.dirname(os.path.abspath(__file__))
-            sitemap_script = os.path.join(script_dir, "generate_hugo_sitemap.py")
+            # 獲取倉庫目錄（beyondthenewssam）
+            repo_dir = "/Users/yanyaosheng/Desktop/temp/yenyaosam_kiro/beyondthenewssam"
             
-            # 獲取倉庫目錄（假設在腳本目錄的父目錄）
-            repo_dir = os.path.dirname(script_dir)
+            # 調用 Hugo 風格的 sitemap 生成器（直接在倉庫目錄執行）
+            script_dir = "/Users/yanyaosheng/Desktop/temp/yenyaosam_kiro/kiro_bloggerapi"
+            sitemap_script = os.path.join(script_dir, "generate_hugo_sitemap.py")
             
             # 複製 sitemap 生成器到倉庫目錄
             target_script = os.path.join(repo_dir, "generate_hugo_sitemap.py")
@@ -252,7 +252,7 @@ def batch_process(urls, enable_bluesky=True, interval_minutes=5, progress_file='
             subprocess.run(["python3", target_script], check=True, cwd=repo_dir)
             
             # 提交 sitemap (Hugo 風格: index + 所有子文件 + 生成器腳本)
-            subprocess.run(["git", "add", "sitemap.xml", "sitemap1.xml", "sitemap2.xml", "sitemap3.xml", "generate_hugo_sitemap.py"], check=True, cwd=repo_dir)
+            subprocess.run(["git", "add", "sitemap.txt", "sitemap.xml", "sitemap1.xml", "sitemap2.xml", "sitemap3.xml"], check=True, cwd=repo_dir)
             subprocess.run(["git", "commit", "-m", "Auto-update Hugo-style sitemap after batch publish"], check=True, cwd=repo_dir)
             subprocess.run(["git", "push"], check=True, cwd=repo_dir)
             
