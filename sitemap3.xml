@@ -4176,4 +4176,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  <url>
+    <loc>https://johnthenews.netlify.app/2026/08/26/cia-director-john-ratcliffe-in-moscow-what-a-historical-parallel-tells-us-about.html</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
