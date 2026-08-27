@@ -5538,4 +5538,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  <url>
+    <loc>https://johnthenews.netlify.app/2026/08/27/john-howard-on-the-tampa-affair-and-911-what-a-historical-parallel-reveals-about.html</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
