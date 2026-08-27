@@ -3,8 +3,8 @@ description: AI-powered commentary on global news from a faith perspective
 url: "https://johnthenews.netlify.app"
 baseurl: ""
 
-# Theme
-theme: minima
+# Theme (disabled to use custom layouts)
+# theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
