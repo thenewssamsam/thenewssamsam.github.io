@@ -4380,4 +4380,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://johnthenews.netlify.app/2026/08/27/dan-sullivan-v-dan-sullivan-what-psychology-and-identity-reveal-about-the-alaska.html</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
