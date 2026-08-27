@@ -26,7 +26,7 @@ def generate_sitemap_file(urls, output_path, filename):
         lastmod = extract_date_from_url(url)
         
         # 根據 URL 類型設置 priority 和 changefreq
-        if url == 'https://thenewssamsam.github.io/':
+        if url == 'https://johnthenews.netlify.app/':
             priority = '1.0'
             changefreq = 'daily'
         elif 'about.html' in url:
@@ -61,7 +61,7 @@ def generate_sitemap_index(sitemap_files, output_path):
     
     for sitemap_file in sitemap_files:
         # 計算文件 URL
-        sitemap_url = f"https://thenewssamsam.github.io/{sitemap_file.name}"
+        sitemap_url = f"https://johnthenews.netlify.app/{sitemap_file.name}"
         lastmod = datetime.now().strftime("%Y-%m-%d")
         
         xml_lines.append('  <sitemap>')
